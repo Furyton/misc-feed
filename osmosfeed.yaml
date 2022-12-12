@@ -3,9 +3,15 @@
 # https://github.com/osmoscraft/osmosfeed/blob/master/docs/osmosfeed-yaml-reference.md
 #########################
 
-# cacheUrl: https://GITHUB_USERNAME.github.io/REPO_NAME/cache.json
+cacheUrl: https://Furyton.github.io/misc-feed/cache.json
 sources:
-  - href: https://github.com/osmoscraft/osmosfeed/releases.atom # Get new feature announcement via this feed
-  - href: https://css-tricks.com/feed/
-  - href: https://www.smashingmagazine.com/feed/
-  - href: https://www.freecodecamp.org/news/rss/
+  - href: https://arxivist.com/rss.php?rss_id=175ea3663a919f8117ebe029d30ebe6c
+  - href: http://www.offconvex.org/feed.xml
+  - href: https://freemind.pluskid.org/rss.xml
+  - href: https://gilkalai.wordpress.com/feed/
+  - href: http://parsiad.ca/feed.xml
+  - href: https://windowsontheory.org/feed/
+  - href: https://ucsdml.github.io//feed.xml
+  - href: https://kexue.fm/feed/
+  - href: https://decentdescent.org/feed.xml
+  - href: https://mlfoundations.org/index.xml
