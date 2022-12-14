@@ -6,6 +6,56 @@
       "siteUrl": "https://www.arxivist.com",
       "articles": [
         {
+          "id": "http://arxiv.org/abs/2110.03594",
+          "author": null,
+          "description": "Prateek Gupta, Adil Rasheed, Sverre Steen",
+          "link": "http://arxiv.org/abs/2110.03594",
+          "publishedOn": "2022-12-14T16:47:20.124Z",
+          "wordCount": 660,
+          "title": "Ship Performance Monitoring using Machine-learning",
+          "imageUrl": null
+        },
+        {
+          "id": "http://arxiv.org/abs/1712.10024",
+          "author": null,
+          "description": "Vira Semenova",
+          "link": "http://arxiv.org/abs/1712.10024",
+          "publishedOn": "2022-12-14T16:47:20.043Z",
+          "wordCount": 578,
+          "title": "Debiased Machine Learning of Set-Identified Linear Models",
+          "imageUrl": null
+        },
+        {
+          "id": "http://arxiv.org/abs/2209.09419",
+          "author": null,
+          "description": "Tianpeng Zhang (1), Kasper Johansson (2), Na Li (1)((1) Harvard\n  University, (2) KTH Royal Institute of Technology)",
+          "link": "http://arxiv.org/abs/2209.09419",
+          "publishedOn": "2022-12-14T16:47:20.030Z",
+          "wordCount": 673,
+          "title": "Multi-armed Bandit Learning on a Graph",
+          "imageUrl": null
+        },
+        {
+          "id": "http://arxiv.org/abs/2212.06355",
+          "author": null,
+          "description": "Masatoshi Uehara, Chengchun Shi, Nathan Kallus",
+          "link": "http://arxiv.org/abs/2212.06355",
+          "publishedOn": "2022-12-14T16:47:19.992Z",
+          "wordCount": 542,
+          "title": "A Review of Off-Policy Evaluation in Reinforcement Learning",
+          "imageUrl": null
+        },
+        {
+          "id": "http://arxiv.org/abs/2110.15501",
+          "author": null,
+          "description": "Ye Shen, Hengrui Cai, Rui Song",
+          "link": "http://arxiv.org/abs/2110.15501",
+          "publishedOn": "2022-12-14T16:47:19.982Z",
+          "wordCount": 671,
+          "title": "Doubly Robust Interval Estimation for Optimal Policy Evaluation in\n  Online Learning",
+          "imageUrl": null
+        },
+        {
           "id": "http://arxiv.org/abs/1805.08102",
           "author": null,
           "description": "Jieren Xu, Yitong Li, Haizhao Yang, David Dunson, Ingrid Daubechies",
@@ -110,18 +160,7 @@
       "title": "Parsiad Azimzadeh",
       "feedUrl": "http://parsiad.ca/feed.xml",
       "siteUrl": "https://parsiad.ca/",
-      "articles": [
-        {
-          "id": "https://parsiad.ca/blog/2022/softmax_sensitivity_to_temperature/",
-          "author": null,
-          "description": "Review",
-          "link": "https://parsiad.ca/blog/2022/softmax_sensitivity_to_temperature/",
-          "publishedOn": "2022-11-14T20:00:00.000Z",
-          "wordCount": 680,
-          "title": "Softmax sensitivity to temperature",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Windows On Theory",

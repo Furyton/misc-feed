@@ -2,10 +2,62 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-14T01:26:17.740Z</updated>
+    <updated>2022-12-14T16:47:55.045Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Ship Performance Monitoring using Machine-learning]]></title>
+        <id>http://arxiv.org/abs/2110.03594</id>
+        <link href="http://arxiv.org/abs/2110.03594"/>
+        <updated>2022-12-14T16:47:20.124Z</updated>
+        <summary type="html"><![CDATA[Prateek Gupta, Adil Rasheed, Sverre Steen]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Debiased Machine Learning of Set-Identified Linear Models]]></title>
+        <id>http://arxiv.org/abs/1712.10024</id>
+        <link href="http://arxiv.org/abs/1712.10024"/>
+        <updated>2022-12-14T16:47:20.043Z</updated>
+        <summary type="html"><![CDATA[Vira Semenova]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Multi-armed Bandit Learning on a Graph]]></title>
+        <id>http://arxiv.org/abs/2209.09419</id>
+        <link href="http://arxiv.org/abs/2209.09419"/>
+        <updated>2022-12-14T16:47:20.030Z</updated>
+        <summary type="html"><![CDATA[Tianpeng Zhang (1), Kasper Johansson (2), Na Li (1)((1) Harvard
+  University, (2) KTH Royal Institute of Technology)]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Review of Off-Policy Evaluation in Reinforcement Learning]]></title>
+        <id>http://arxiv.org/abs/2212.06355</id>
+        <link href="http://arxiv.org/abs/2212.06355"/>
+        <updated>2022-12-14T16:47:19.992Z</updated>
+        <summary type="html"><![CDATA[Masatoshi Uehara, Chengchun Shi, Nathan Kallus]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Doubly Robust Interval Estimation for Optimal Policy Evaluation in
+  Online Learning]]></title>
+        <id>http://arxiv.org/abs/2110.15501</id>
+        <link href="http://arxiv.org/abs/2110.15501"/>
+        <updated>2022-12-14T16:47:19.982Z</updated>
+        <summary type="html"><![CDATA[Ye Shen, Hengrui Cai, Rui Song]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[PiPs: a Kernel-based Optimization Scheme for Analyzing Non-Stationary 1D
   Signals]]></title>
@@ -157,16 +209,6 @@
         <summary type="html"><![CDATA[Barnabás Janzer studied the following question: Suppose we have convex body in that contains a copy of a convex body in every orientation. Is it always possible to move any one copy of to another copy of , keeping inside … Continue reading →]]></summary>
         <author>
             <name>Gil Kalai</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Softmax sensitivity to temperature]]></title>
-        <id>https://parsiad.ca/blog/2022/softmax_sensitivity_to_temperature/</id>
-        <link href="https://parsiad.ca/blog/2022/softmax_sensitivity_to_temperature/"/>
-        <updated>2022-11-14T20:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Review]]></summary>
-        <author>
-            <name>Parsiad Azimzadeh</name>
         </author>
     </entry>
 </feed>
