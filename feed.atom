@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-15T01:35:05.490Z</updated>
+    <updated>2022-12-16T01:21:08.779Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[生成扩散模型漫谈（十四）：ODE扩散的统一框架]]></title>
+        <id>https://kexue.fm/archives/9370</id>
+        <link href="https://kexue.fm/archives/9370"/>
+        <updated>2022-12-15T03:56:00.000Z</updated>
+        <summary type="html"><![CDATA[书接上文，在《生成扩散模型漫谈（十三）：从万有引力到扩散模型》中，我们介绍了一个由万有引力启发的、几何意义非常清晰的ODE式生成扩散模型。有的读者看了之后就疑问：似乎“万有引力”并不是唯一的选择...]]></summary>
+        <author>
+            <name>苏剑林</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ship Performance Monitoring using Machine-learning]]></title>
         <id>http://arxiv.org/abs/2110.03594</id>
@@ -197,16 +207,6 @@
         <link href="https://gilkalai.wordpress.com/2022/11/17/amazing-justin-gilmer-gave-a-constant-lower-bound-for-the-union-closed-sets-conjecture/"/>
         <updated>2022-11-17T20:47:56.000Z</updated>
         <summary type="html"><![CDATA[Frankl’s conjecture (aka the union closed sets conjecture) asserts that if is a family of subsets of [n] (=: ) which is closed under union then there is an element such that Justin Gilmer just proved an amazing weaker form … Continue reading →]]></summary>
-        <author>
-            <name>Gil Kalai</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Barnabás Janzer: Rotation inside convex Kakeya sets]]></title>
-        <id>http://gilkalai.wordpress.com/?p=23515</id>
-        <link href="https://gilkalai.wordpress.com/2022/11/16/barnabas-janzer-rotation-inside-convex-kakeya-sets/"/>
-        <updated>2022-11-16T13:05:59.000Z</updated>
-        <summary type="html"><![CDATA[Barnabás Janzer studied the following question: Suppose we have convex body in that contains a copy of a convex body in every orientation. Is it always possible to move any one copy of to another copy of , keeping inside … Continue reading →]]></summary>
         <author>
             <name>Gil Kalai</name>
         </author>

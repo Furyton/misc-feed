@@ -143,16 +143,6 @@
           "wordCount": 3743,
           "title": "Amazing: Justin Gilmer gave a constant lower bound for the union-closed sets conjecture",
           "imageUrl": "https://s0.wp.com/i/blank.jpg"
-        },
-        {
-          "id": "http://gilkalai.wordpress.com/?p=23515",
-          "author": "Gil Kalai",
-          "description": "Barnabás Janzer studied the following question: Suppose we have convex body in that contains a copy of a convex body in every orientation. Is it always possible to move any one copy of to another copy of , keeping inside … Continue reading →",
-          "link": "https://gilkalai.wordpress.com/2022/11/16/barnabas-janzer-rotation-inside-convex-kakeya-sets/",
-          "publishedOn": "2022-11-16T13:05:59.000Z",
-          "wordCount": 3264,
-          "title": "Barnabás Janzer: Rotation inside convex Kakeya sets",
-          "imageUrl": "https://s0.wp.com/i/blank.jpg"
         }
       ]
     },
@@ -190,6 +180,16 @@
       "feedUrl": "https://kexue.fm/feed/",
       "siteUrl": "https://kexue.fm/",
       "articles": [
+        {
+          "id": "https://kexue.fm/archives/9370",
+          "author": "苏剑林",
+          "description": "书接上文，在《生成扩散模型漫谈（十三）：从万有引力到扩散模型》中，我们介绍了一个由万有引力启发的、几何意义非常清晰的ODE式生成扩散模型。有的读者看了之后就疑问：似乎“万有引力”并不是唯一的选择...",
+          "link": "https://kexue.fm/archives/9370",
+          "publishedOn": "2022-12-15T03:56:00.000Z",
+          "wordCount": 1943,
+          "title": "生成扩散模型漫谈（十四）：ODE扩散的统一框架",
+          "imageUrl": null
+        },
         {
           "id": "https://kexue.fm/archives/9368",
           "author": "苏剑林",
