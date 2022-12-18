@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-17T01:19:21.704Z</updated>
+    <updated>2022-12-18T01:21:45.998Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -199,16 +199,6 @@
         <summary type="html"><![CDATA[The emergence of machines that seem to offer the same or better capabilities than humans raised interests in many sectors who are eager to utilize them. Many may dream about building better and bigger machines that can do more amazing things. My hopes and dreams take different angles: communicating with these machines to learn from and with them. How are they solving complex problems? Can we learn something from them, and expand what we know? This talk shares a few first steps towards this goal: 1) we will share theoretical and empirical results that proves how the existing set of tools to learn about these machines require further examination. 2) We will share a few ways to study these machines: surgical, observational and controlled studies in reinforcement learning settings to discover emergent behaviors in multi-agent environments.]]></summary>
         <author>
             <name>Harvard ML Foundations</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazing: Justin Gilmer gave a constant lower bound for the union-closed sets conjecture]]></title>
-        <id>http://gilkalai.wordpress.com/?p=23540</id>
-        <link href="https://gilkalai.wordpress.com/2022/11/17/amazing-justin-gilmer-gave-a-constant-lower-bound-for-the-union-closed-sets-conjecture/"/>
-        <updated>2022-11-17T20:47:56.000Z</updated>
-        <summary type="html"><![CDATA[Frankl’s conjecture (aka the union closed sets conjecture) asserts that if is a family of subsets of [n] (=: ) which is closed under union then there is an element such that Justin Gilmer just proved an amazing weaker form … Continue reading →]]></summary>
-        <author>
-            <name>Gil Kalai</name>
         </author>
     </entry>
 </feed>
