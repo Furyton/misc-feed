@@ -219,16 +219,6 @@
           "wordCount": 1552,
           "title": "用热传导方程来指导自监督学习",
           "imageUrl": null
-        },
-        {
-          "id": "https://kexue.fm/archives/9344",
-          "author": "苏剑林",
-          "description": "如果将训练模型比喻为“炼丹”，那么“炼丹炉”显然就是优化器了。据传AdamW优化器是当前训练神经网络最快的方案，这一点笔者也没有一一对比过，具体情况如何不得而知，不过目前做预训练时多数都用Ada...",
-          "link": "https://kexue.fm/archives/9344",
-          "publishedOn": "2022-11-22T09:16:00.000Z",
-          "wordCount": 1776,
-          "title": "基于Amos优化器思想推导出来的一些“炼丹策略”",
-          "imageUrl": null
         }
       ]
     },

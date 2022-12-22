@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-21T01:19:46.259Z</updated>
+    <updated>2022-12-22T01:22:34.248Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -188,16 +188,6 @@
         <summary type="html"><![CDATA[By Boaz Barak and Ben Edelman [Cross-posted on Lesswrong ; See also Boaz’s posts on longtermism and AGI via scaling , as well as other “philosophizing” posts. This post also puts us in Aaronson’s “Reform AI Alignment” religion] [Disclaimer: Predictions are very hard, especially about the future. In fact, this is one of the points of this essay. Hence, … Continue reading AI will change the world, but won’t take it over by playing “3-dimensional chess”.]]></summary>
         <author>
             <name>Boaz Barak</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[基于Amos优化器思想推导出来的一些“炼丹策略”]]></title>
-        <id>https://kexue.fm/archives/9344</id>
-        <link href="https://kexue.fm/archives/9344"/>
-        <updated>2022-11-22T09:16:00.000Z</updated>
-        <summary type="html"><![CDATA[如果将训练模型比喻为“炼丹”，那么“炼丹炉”显然就是优化器了。据传AdamW优化器是当前训练神经网络最快的方案，这一点笔者也没有一一对比过，具体情况如何不得而知，不过目前做预训练时多数都用Ada...]]></summary>
-        <author>
-            <name>苏剑林</name>
         </author>
     </entry>
 </feed>
