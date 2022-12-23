@@ -156,18 +156,7 @@
       "title": "Windows On Theory",
       "feedUrl": "https://windowsontheory.org/feed/",
       "siteUrl": "https://windowsontheory.org",
-      "articles": [
-        {
-          "id": "http://windowsontheory.org/?p=8469",
-          "author": "Boaz Barak",
-          "description": "By Boaz Barak and Ben Edelman [Cross-posted on Lesswrong ; See also Boaz’s posts on longtermism and AGI via scaling , as well as other “philosophizing” posts. This post also puts us in Aaronson’s “Reform AI Alignment” religion] [Disclaimer: Predictions are very hard, especially about the future. In fact, this is one of the points of this essay. Hence, … Continue reading AI will change the world, but won’t take it over by playing “3-dimensional chess”.",
-          "link": "https://windowsontheory.org/2022/11/22/ai-will-change-the-world-but-wont-take-it-over-by-playing-3-dimensional-chess/",
-          "publishedOn": "2022-11-22T14:05:27.000Z",
-          "wordCount": 10214,
-          "title": "AI will change the world, but won’t take it over by playing “3-dimensional chess”.",
-          "imageUrl": "https://windowsontheory.files.wordpress.com/2022/11/spock-playing-3d-chess.jpg"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "UCSD Machine Learning Group",
@@ -180,6 +169,16 @@
       "feedUrl": "https://kexue.fm/feed/",
       "siteUrl": "https://kexue.fm/",
       "articles": [
+        {
+          "id": "https://kexue.fm/archives/9379",
+          "author": "苏剑林",
+          "description": "上周笔者写了《生成扩散模型漫谈（十四）：构建ODE的一般步骤（上）》（当时还没有“上”这个后缀），本以为已经窥见了构建ODE扩散模型的一般规律，结果不久后评论区大神 @gaohuazuo 就给出...",
+          "link": "https://kexue.fm/archives/9379",
+          "publishedOn": "2022-12-22T12:32:00.000Z",
+          "wordCount": 1823,
+          "title": "生成扩散模型漫谈（十五）：构建ODE的一般步骤（下）",
+          "imageUrl": null
+        },
         {
           "id": "https://kexue.fm/archives/9370",
           "author": "苏剑林",

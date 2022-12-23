@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-22T01:22:34.248Z</updated>
+    <updated>2022-12-23T01:20:33.443Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[生成扩散模型漫谈（十五）：构建ODE的一般步骤（下）]]></title>
+        <id>https://kexue.fm/archives/9379</id>
+        <link href="https://kexue.fm/archives/9379"/>
+        <updated>2022-12-22T12:32:00.000Z</updated>
+        <summary type="html"><![CDATA[上周笔者写了《生成扩散模型漫谈（十四）：构建ODE的一般步骤（上）》（当时还没有“上”这个后缀），本以为已经窥见了构建ODE扩散模型的一般规律，结果不久后评论区大神 @gaohuazuo 就给出...]]></summary>
+        <author>
+            <name>苏剑林</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Alef’s Corner]]></title>
         <id>http://gilkalai.wordpress.com/?p=23656</id>
@@ -178,16 +188,6 @@
         <summary type="html"><![CDATA[用理论物理来卷机器学习已经不是什么新鲜事了，比如上个月介绍的《生成扩散模型漫谈（十三）：从万有引力到扩散模型》就是经典一例。最近一篇新出的论文《Self-Supervised Learning ...]]></summary>
         <author>
             <name>苏剑林</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI will change the world, but won’t take it over by playing “3-dimensional chess”.]]></title>
-        <id>http://windowsontheory.org/?p=8469</id>
-        <link href="https://windowsontheory.org/2022/11/22/ai-will-change-the-world-but-wont-take-it-over-by-playing-3-dimensional-chess/"/>
-        <updated>2022-11-22T14:05:27.000Z</updated>
-        <summary type="html"><![CDATA[By Boaz Barak and Ben Edelman [Cross-posted on Lesswrong ; See also Boaz’s posts on longtermism and AGI via scaling , as well as other “philosophizing” posts. This post also puts us in Aaronson’s “Reform AI Alignment” religion] [Disclaimer: Predictions are very hard, especially about the future. In fact, this is one of the points of this essay. Hence, … Continue reading AI will change the world, but won’t take it over by playing “3-dimensional chess”.]]></summary>
-        <author>
-            <name>Boaz Barak</name>
         </author>
     </entry>
 </feed>
