@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-27T01:20:57.882Z</updated>
+    <updated>2022-12-28T01:20:54.189Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[2022 年度游戏总结]]></title>
+        <id>http://freemind.pluskid.org/misc/2022-games</id>
+        <link href="http://freemind.pluskid.org/misc/2022-games"/>
+        <updated>2022-12-27T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[自从疫情期间入坑游戏主机以来，自己也逐渐变成了一个【伪】资深游戏玩家，玩过了不少好游戏，感觉可以专门写一篇年度游戏总结。2022
+年玩了 23 款游戏，其中 11 款 Playstation 游戏，12 款 XBox 游戏（7
+款来自于 Gamepass），总计游玩时间为
+682 小时。相比去年四月购入主机到年底就游玩了 500
+小时，其实是放缓了节奏，一方面今年有一些时段在其他事情上花了不少精力，另一方面确实也是最棒最对胃口的游戏其实是玩一个少一个。
+今年对自己的游玩记录做了一个粗略的统计之后，发现有一个简单的指标可以用来刻画游戏（在我心目中）的好玩程度：用游玩小时数
+\(H\) 除以游玩天数 \(D\)，数值越大说明该游戏越让人停不下来，此外还可以将游戏的总时长作为辅助分数。下图中我在极坐标中以
+\(\text{atan}(H/D)\) 为弧度，\(\log(1+H)\) 为半径将这 23
+个游戏画了出来，越靠近左上角的游戏得分最高。
+为了避免游戏图标太小看不清在排布的时候有局部位置调整，并且对于总时长就比较短的游戏准确度会降低很多。此外，游戏时长是从主机的统计数据中直接获取的，但是天数只是大概记录了起始和结束日期，例如玩
+Stray 的过程中由于沉迷了一阵 virtual urban
+sketching，所以搁置了很久，导致总天数虚高。但这个指标总体还是很符合我自己心中的排序的，作为一个年度游戏概览还是很不错的。
+
+Elden Ring · 2022
+· FromSoftware
+· 270 小时
+在看 The
+Game Award (TGA) 年度游戏颁奖的时候看到隔壁诸神黄昏拿各种奖项拿到手软多少有点不甘，看到最后
+Elden Ring 斩获最终大奖夺下 Game
+of the Year
+的时候终于心满意足了。因为艾尔登法环无疑是我自己心目中的年度最佳游戏，我玩了…]]></summary>
+        <author>
+            <name>Free Mind</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Tel Aviv University Theory Fest is Starting Tomorrow]]></title>
         <id>http://gilkalai.wordpress.com/?p=23679</id>
@@ -24,6 +54,23 @@
         <summary type="html"><![CDATA[上周笔者写了《生成扩散模型漫谈（十四）：构建ODE的一般步骤（上）》（当时还没有“上”这个后缀），本以为已经窥见了构建ODE扩散模型的一般规律，结果不久后评论区大神 @gaohuazuo 就给出...]]></summary>
         <author>
             <name>苏剑林</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022 书单：冬至]]></title>
+        <id>http://freemind.pluskid.org/books/2022-book-list-winter</id>
+        <link href="http://freemind.pluskid.org/books/2022-book-list-winter"/>
+        <updated>2022-12-22T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[今年从九月以来除了艺术类书籍和漫画之外，其他书似乎都没有特别惊艳，这里简单补完一下冬季书单。
+《随椋鸟飞行：复杂系统的奇境》的作者是
+21
+年诺贝尔物理学奖得主，原书去年年底才出版，居然这么快就翻译成中文了。书以介绍作者关于椋鸟群飞行的研究项目开题，网上可以找到很多椋鸟群的视频，非常震撼，这个研究项目本身很有意思，而且作者用研究物理学中复杂系统的方式去理解鸟群的运动规律也很好玩，不过这本只有
+150
+页的书迅速就跑题跑到了十万八千里，再也没找到原来的路……后面感觉就是作者的一些感想和杂文，就当听诺奖得主唠嗑吧，每章只有一两页读起来也不费劲。后面提到的最有趣的轶事当属索卡尔事件，这位物理学家看不惯人文学科里胡乱使用隐喻的做法，于是写了一篇纯瞎扯淡的基于各种毫无意义的物理学、社会学和心理学隐喻的文章，结果被业内顶级刊物《社会文本》给收录了，变成一大丑闻……
+如此随意地使用隐喻有时在一些人文学科中司空见惯，尽管危险性不大，但也同样会有负面影响。说到这里，我不得不说说著名的索卡尔恶作剧。为了嘲讽伪哲学和伪科学的研究方法，美国物理学家艾伦·D.
+索卡尔用拉康、德里达等知识分子的隐喻风格写了一篇文章。这篇文章（即《超越界限：走向量子引力的超形式的解释学》）基于一系列毫无意义的物理学、社会学和心理学隐喻，假如索卡尔真的相信了他编造的这些隐喻，所有的同事都会拿他当神经病。索卡尔非常清楚自己写的东西毫无意义，他利用一套强大的注脚，构建了一系列疯狂的比喻，还精心设计了文雅而学术的文风。令人难以置信的是，这篇文章居然被编辑委员会接受并发表在一份业内最负盛名的期刊《社会文本》上。当索卡尔公开宣称他写的东西都毫无意义时，丑闻爆发了，尴尬至极，以至于有人还想为自己辩护，声称索卡尔的论文可能具有某些超出作者意图的完整含义。这篇文章可以在网上找到，非常有趣，谁要是能看懂那些隐喻中的物理学玄机，一定会被作者…]]></summary>
+        <author>
+            <name>Free Mind</name>
         </author>
     </entry>
     <entry>
