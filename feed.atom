@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-28T01:20:54.189Z</updated>
+    <updated>2022-12-29T01:23:02.120Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Transformer升级之路：6、旋转位置编码的完备性分析]]></title>
+        <id>https://kexue.fm/archives/9403</id>
+        <link href="https://kexue.fm/archives/9403"/>
+        <updated>2022-12-28T03:08:00.000Z</updated>
+        <summary type="html"><![CDATA[在去年的文章《Transformer升级之路：2、博采众长的旋转式位置编码》中，笔者提出了旋转位置编码（RoPE），当时的出发点只是觉得用绝对位置来实现相对位置是一件“很好玩的事情”，并没料到其...]]></summary>
+        <author>
+            <name>苏剑林</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2022 年度游戏总结]]></title>
         <id>http://freemind.pluskid.org/misc/2022-games</id>

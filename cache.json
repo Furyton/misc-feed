@@ -201,6 +201,16 @@
       "siteUrl": "https://kexue.fm/",
       "articles": [
         {
+          "id": "https://kexue.fm/archives/9403",
+          "author": "苏剑林",
+          "description": "在去年的文章《Transformer升级之路：2、博采众长的旋转式位置编码》中，笔者提出了旋转位置编码（RoPE），当时的出发点只是觉得用绝对位置来实现相对位置是一件“很好玩的事情”，并没料到其...",
+          "link": "https://kexue.fm/archives/9403",
+          "publishedOn": "2022-12-28T03:08:00.000Z",
+          "wordCount": 1783,
+          "title": "Transformer升级之路：6、旋转位置编码的完备性分析",
+          "imageUrl": null
+        },
+        {
           "id": "https://kexue.fm/archives/9379",
           "author": "苏剑林",
           "description": "上周笔者写了《生成扩散模型漫谈（十四）：构建ODE的一般步骤（上）》（当时还没有“上”这个后缀），本以为已经窥见了构建ODE扩散模型的一般规律，结果不久后评论区大神 @gaohuazuo 就给出...",
