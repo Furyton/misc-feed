@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-29T01:23:02.120Z</updated>
+    <updated>2022-12-30T01:22:47.995Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -233,26 +233,6 @@ of the Year
         <link href="https://kexue.fm/archives/9365"/>
         <updated>2022-12-05T02:13:00.000Z</updated>
         <summary type="html"><![CDATA[前段时间买了一个极米投影仪，开始折腾才发现极米跟小米基本没啥关系，它根本无法跟小爱同学互动。在众多名字带“米”的品牌中，极米是为数不多的无法接入米家生态的品牌，想必有不少用户开始都会被极米这个名...]]></summary>
-        <author>
-            <name>苏剑林</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Nice Example Related to the Frankl Conjecture]]></title>
-        <id>http://gilkalai.wordpress.com/?p=23582</id>
-        <link href="https://gilkalai.wordpress.com/2022/11/30/a-nice-example-related-to-the-frankl-conjecture/"/>
-        <updated>2022-11-30T07:02:02.000Z</updated>
-        <summary type="html"><![CDATA[The example As a follow up to my previous post about Gilmer’s breakthrough regarding Frankl’s conjecture, here is a very nice example (from the paper of Zachary Chase and Shachar Lovett) related to the conjecture. Let Consider the following families … Continue reading →]]></summary>
-        <author>
-            <name>Gil Kalai</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用热传导方程来指导自监督学习]]></title>
-        <id>https://kexue.fm/archives/9359</id>
-        <link href="https://kexue.fm/archives/9359"/>
-        <updated>2022-11-29T16:26:00.000Z</updated>
-        <summary type="html"><![CDATA[用理论物理来卷机器学习已经不是什么新鲜事了，比如上个月介绍的《生成扩散模型漫谈（十三）：从万有引力到扩散模型》就是经典一例。最近一篇新出的论文《Self-Supervised Learning ...]]></summary>
         <author>
             <name>苏剑林</name>
         </author>
