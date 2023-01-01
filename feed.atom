@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-31T01:20:48.385Z</updated>
+    <updated>2023-01-01T01:43:57.040Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[2022 梦想天空]]></title>
+        <id>http://freemind.pluskid.org/misc/2022-summary</id>
+        <link href="http://freemind.pluskid.org/misc/2022-summary"/>
+        <updated>2022-12-31T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[一天有多长
+2022
+依旧是宅家的一年，不过心里还是默默地希望这是宅家的最后一年，虽然家里逐渐被优化得非常舒适，而且不喜欢社交但又不善拒绝的我能以居家为由推掉许多不是很感兴趣的社交活动，但是当我开始准备年终总结，去翻看自己的照片的时候发现竟然无法轻松找到一张好看的图来做封面，仿佛听到一声警钟，在说如果再继续这样，可能就要永远这样了。永远宅家不出门当然不是本意，但也许是时候该认真思考如何迈出第一步了——也许可以把它作为新一年的议题，至于现在嘛，我决定让
+AI 来帮忙，用 Stable
+Diffusion 来为我生成一张封面图。
+希望我这张生成出来的图没有侵犯哪位艺术家的版权。不过调侃归调侃，今年
+AI 给艺术产业界的震撼其实是一个非常重大的事件，特别是伴随着 Stability AI
+将 Diffusion 模型优化到可以在普通的 consumer GPU
+上运行并以开放源代码的方式将模型发布之后，大量基于此的工具、软件、服务、插件涌现出来，各种
+AI
+生成的美图被发到各种艺术分享平台上，逐渐被艺术家们注意到，许多人认为这将会是比之前两次技术冲击（相机的出现和数字绘画的出现）更加影响深远的一次改变。
+不得不说 2022 年发生了很多大事，z-lib
+创始人被捕，国内的新冠政策带来了各种争议，乌克兰那边甚至还在为生死存亡而战斗，但大事总是说不完的，这毕竟是我的年终总结而不是这个世界的年终总结。关于我的
+2022 年，简单统计了一下，今年 consume 的内容方面，书一共读了 42 本（中文
+12 本，英文 25 本，日文 5 本；其中29 本实体书，13 本电子书）外加 73
+卷漫画。影视方面看了 61 部电影、21 部剧和 12
+部动漫。音乐几乎没有什么机会听，新歌接触也很少。游戏则一共玩了 23 款（11
+款 Playstation 和 12 款 XBox 游戏）游玩时间…]]></summary>
+        <author>
+            <name>Free Mind</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Transformer升级之路：6、旋转位置编码的完备性分析]]></title>
         <id>https://kexue.fm/archives/9403</id>
