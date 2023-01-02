@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-01T01:43:57.040Z</updated>
+    <updated>2023-01-02T01:22:42.998Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Greatest Hits  2015-2022, Part I]]></title>
+        <id>http://gilkalai.wordpress.com/?p=23302</id>
+        <link href="https://gilkalai.wordpress.com/2023/01/01/greatest-hits-2015-2022-part-i/"/>
+        <updated>2023-01-01T15:42:27.000Z</updated>
+        <summary type="html"><![CDATA[In February 2015 I wrote a post on the blog’s greatest hits in the first seven years, and its time to write a similar post for the eight years that followed. Quick updates: In recent months I took part in … Continue reading →]]></summary>
+        <author>
+            <name>Gil Kalai</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2022 梦想天空]]></title>
         <id>http://freemind.pluskid.org/misc/2022-summary</id>
