@@ -197,7 +197,18 @@
       "title": "Windows On Theory",
       "feedUrl": "https://windowsontheory.org/feed/",
       "siteUrl": "https://windowsontheory.org",
-      "articles": []
+      "articles": [
+        {
+          "id": "http://windowsontheory.org/?p=8493",
+          "author": "Boaz Barak",
+          "description": "[Mild spoilers for the 2000 film Memento. See this doc for the full ChatGPT transcripts. –Boaz] Leonard Shelbey, the protagonist of Christopher Nolan’s film “Memento“, suffers from anterograde amnesia. He remembers everything up to the time in which he was the victim of a violent attack, but cannot form new memories after that. He uses … Continue reading Memento and Large Language Models",
+          "link": "https://windowsontheory.org/2023/01/03/memento-and-large-language-models/",
+          "publishedOn": "2023-01-03T18:00:13.000Z",
+          "wordCount": 4482,
+          "title": "Memento and Large Language Models",
+          "imageUrl": "https://windowsontheory.files.wordpress.com/2023/01/image.png"
+        }
+      ]
     },
     {
       "title": "UCSD Machine Learning Group",
@@ -248,16 +259,6 @@
           "publishedOn": "2022-12-07T09:28:00.000Z",
           "wordCount": 1416,
           "title": "从局部到全局：语义相似度的测地线距离",
-          "imageUrl": null
-        },
-        {
-          "id": "https://kexue.fm/archives/9365",
-          "author": "苏剑林",
-          "description": "前段时间买了一个极米投影仪，开始折腾才发现极米跟小米基本没啥关系，它根本无法跟小爱同学互动。在众多名字带“米”的品牌中，极米是为数不多的无法接入米家生态的品牌，想必有不少用户开始都会被极米这个名...",
-          "link": "https://kexue.fm/archives/9365",
-          "publishedOn": "2022-12-05T02:13:00.000Z",
-          "wordCount": 1392,
-          "title": "小爱同学控制极米投影仪的简单方案",
           "imageUrl": null
         }
       ]

@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-03T01:21:26.504Z</updated>
+    <updated>2023-01-04T01:23:33.468Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Memento and Large Language Models]]></title>
+        <id>http://windowsontheory.org/?p=8493</id>
+        <link href="https://windowsontheory.org/2023/01/03/memento-and-large-language-models/"/>
+        <updated>2023-01-03T18:00:13.000Z</updated>
+        <summary type="html"><![CDATA[[Mild spoilers for the 2000 film Memento. See this doc for the full ChatGPT transcripts. –Boaz] Leonard Shelbey, the protagonist of Christopher Nolan’s film “Memento“, suffers from anterograde amnesia. He remembers everything up to the time in which he was the victim of a violent attack, but cannot form new memories after that. He uses … Continue reading Memento and Large Language Models]]></summary>
+        <author>
+            <name>Boaz Barak</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Greatest Hits  2015-2022, Part I]]></title>
         <id>http://gilkalai.wordpress.com/?p=23302</id>
@@ -260,16 +270,6 @@ of the Year
         <link href="https://kexue.fm/archives/9368"/>
         <updated>2022-12-07T09:28:00.000Z</updated>
         <summary type="html"><![CDATA[前段时间在最近的一篇论文《Unsupervised Opinion Summarization Using Approximate Geodesics》中学到了一个新的概念，叫做“测地线距离（G...]]></summary>
-        <author>
-            <name>苏剑林</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[小爱同学控制极米投影仪的简单方案]]></title>
-        <id>https://kexue.fm/archives/9365</id>
-        <link href="https://kexue.fm/archives/9365"/>
-        <updated>2022-12-05T02:13:00.000Z</updated>
-        <summary type="html"><![CDATA[前段时间买了一个极米投影仪，开始折腾才发现极米跟小米基本没啥关系，它根本无法跟小爱同学互动。在众多名字带“米”的品牌中，极米是为数不多的无法接入米家生态的品牌，想必有不少用户开始都会被极米这个名...]]></summary>
         <author>
             <name>苏剑林</name>
         </author>
