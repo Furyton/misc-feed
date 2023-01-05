@@ -222,6 +222,16 @@
       "siteUrl": "https://kexue.fm/",
       "articles": [
         {
+          "id": "https://kexue.fm/archives/9405",
+          "author": "苏剑林",
+          "description": "如果家庭使用单一的热水器集中供热水，那么当我们想要用热水时，往往需要先放一段时间的冷水，而如果放冷水时间比较长的话，就会比较影响体验。所谓零冷水，实际上就是想办法提前把热水管中的冷水排放掉，以达...",
+          "link": "https://kexue.fm/archives/9405",
+          "publishedOn": "2023-01-04T06:42:00.000Z",
+          "wordCount": 1383,
+          "title": "智能家居之热水器零冷水技术原理浅析",
+          "imageUrl": null
+        },
+        {
           "id": "https://kexue.fm/archives/9403",
           "author": "苏剑林",
           "description": "在去年的文章《Transformer升级之路：2、博采众长的旋转式位置编码》中，笔者提出了旋转位置编码（RoPE），当时的出发点只是觉得用绝对位置来实现相对位置是一件“很好玩的事情”，并没料到其...",
