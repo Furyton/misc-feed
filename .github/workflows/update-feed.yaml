@@ -5,16 +5,18 @@ on:
     branches:
       - main
   schedule:
-    # Adjust refresh schedule here. By default, it runs once per day.
+    # Adjust refresh schedule here. By default, it runs once per hour.
     # Syntax reference: https://docs.github.com/en/actions/reference/events-that-trigger-workflows#schedule
     # Recommended tool: https://crontab.guru/
-    - cron: "0 0 * * *"
+    - cron: "0 * * * *"
 
 jobs:
   build:
     runs-on: ubuntu-latest
 
     steps:
+      - name: Set time zone
+        run: sudo timedatectl set-timezone 'Asia/Shanghai'
       - uses: actions/checkout@v2
       - name: Setup Node.js environment
         uses: actions/setup-node@v2.1.4
