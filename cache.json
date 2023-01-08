@@ -283,18 +283,7 @@
       "title": "Harvard ML Foundations",
       "feedUrl": "https://mlfoundations.org/index.xml",
       "siteUrl": "https://mlfoundations.org/",
-      "articles": [
-        {
-          "id": "https://mlfoundations.org/talk/latham/",
-          "author": null,
-          "description": "The brain is a very noisy place: when a spike arrives at a pre-synaptic terminal, about half the time neurotransmitter fails to release. Essentially, the brain is running DropConnect on a global scale: at any given time, about half the weights in the brain are set to zero, and this process appears to be totally random and independent across synapses. We argue that the noise induced by these 'failures' forces weights to be of order(1/n) -- much smaller that the order(1/sqrt(n)) scaling typically used in deep networks. It also forces the weights to be low rank, something that may help solve the credit assignment problem.",
-          "link": "https://mlfoundations.org/talk/latham/",
-          "publishedOn": "2022-12-09T15:30:00.000Z",
-          "wordCount": 173,
-          "title": "Peter Latham - Failures, Weight Scaling, and Learning in the Brain.",
-          "imageUrl": "https://mlfoundations.org/img/icon-192.png"
-        }
-      ]
+      "articles": []
     }
   ],
   "cliVersion": "1.15.1"
