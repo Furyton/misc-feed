@@ -2,10 +2,63 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-09T06:20:50.401Z</updated>
+    <updated>2023-01-09T07:15:06.283Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Learning from a Biased Sample]]></title>
+        <id>http://arxiv.org/abs/2209.01754</id>
+        <link href="http://arxiv.org/abs/2209.01754"/>
+        <updated>2023-01-09T07:15:05.636Z</updated>
+        <summary type="html"><![CDATA[Roshni Sahoo, Lihua Lei, Stefan Wager]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DANLIP: Deep Autoregressive Networks for Locally Interpretable
+  Probabilistic Forecasting]]></title>
+        <id>http://arxiv.org/abs/2301.02332</id>
+        <link href="http://arxiv.org/abs/2301.02332"/>
+        <updated>2023-01-09T07:15:05.590Z</updated>
+        <summary type="html"><![CDATA[Ozan Ozyegen, Juyoung Wang, Mucahit Cevik]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Optimal Approximation Rates for Deep ReLU Neural Networks on Sobolev
+  Spaces]]></title>
+        <id>http://arxiv.org/abs/2211.14400</id>
+        <link href="http://arxiv.org/abs/2211.14400"/>
+        <updated>2023-01-09T07:15:05.585Z</updated>
+        <summary type="html"><![CDATA[Jonathan W. Siegel]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Seeking the Truth Beyond the Data. An Unsupervised Machine Learning
+  Approach]]></title>
+        <id>http://arxiv.org/abs/2207.06949</id>
+        <link href="http://arxiv.org/abs/2207.06949"/>
+        <updated>2023-01-09T07:15:05.563Z</updated>
+        <summary type="html"><![CDATA[Dimitrios Saligkaras, Vasileios E. Papageorgiou]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Valid P-Value for Deep Learning-Driven Salient Region]]></title>
+        <id>http://arxiv.org/abs/2301.02437</id>
+        <link href="http://arxiv.org/abs/2301.02437"/>
+        <updated>2023-01-09T07:15:05.542Z</updated>
+        <summary type="html"><![CDATA[Daiki Miwa, Vo Nguyen Le Duy, Ichiro Takeuchi]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Greatest Hits 2015-2022, Part II]]></title>
         <id>http://gilkalai.wordpress.com/?p=23715</id>

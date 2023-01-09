@@ -6,6 +6,56 @@
       "siteUrl": "https://www.arxivist.com",
       "articles": [
         {
+          "id": "http://arxiv.org/abs/2209.01754",
+          "author": null,
+          "description": "Roshni Sahoo, Lihua Lei, Stefan Wager",
+          "link": "http://arxiv.org/abs/2209.01754",
+          "publishedOn": "2023-01-09T07:15:05.636Z",
+          "wordCount": 690,
+          "title": "Learning from a Biased Sample",
+          "imageUrl": null
+        },
+        {
+          "id": "http://arxiv.org/abs/2301.02332",
+          "author": null,
+          "description": "Ozan Ozyegen, Juyoung Wang, Mucahit Cevik",
+          "link": "http://arxiv.org/abs/2301.02332",
+          "publishedOn": "2023-01-09T07:15:05.590Z",
+          "wordCount": 590,
+          "title": "DANLIP: Deep Autoregressive Networks for Locally Interpretable\n  Probabilistic Forecasting",
+          "imageUrl": null
+        },
+        {
+          "id": "http://arxiv.org/abs/2211.14400",
+          "author": null,
+          "description": "Jonathan W. Siegel",
+          "link": "http://arxiv.org/abs/2211.14400",
+          "publishedOn": "2023-01-09T07:15:05.585Z",
+          "wordCount": 647,
+          "title": "Optimal Approximation Rates for Deep ReLU Neural Networks on Sobolev\n  Spaces",
+          "imageUrl": null
+        },
+        {
+          "id": "http://arxiv.org/abs/2207.06949",
+          "author": null,
+          "description": "Dimitrios Saligkaras, Vasileios E. Papageorgiou",
+          "link": "http://arxiv.org/abs/2207.06949",
+          "publishedOn": "2023-01-09T07:15:05.563Z",
+          "wordCount": 670,
+          "title": "Seeking the Truth Beyond the Data. An Unsupervised Machine Learning\n  Approach",
+          "imageUrl": null
+        },
+        {
+          "id": "http://arxiv.org/abs/2301.02437",
+          "author": null,
+          "description": "Daiki Miwa, Vo Nguyen Le Duy, Ichiro Takeuchi",
+          "link": "http://arxiv.org/abs/2301.02437",
+          "publishedOn": "2023-01-09T07:15:05.542Z",
+          "wordCount": 605,
+          "title": "Valid P-Value for Deep Learning-Driven Salient Region",
+          "imageUrl": null
+        },
+        {
           "id": "http://arxiv.org/abs/2110.03594",
           "author": null,
           "description": "Prateek Gupta, Adil Rasheed, Sverre Steen",
