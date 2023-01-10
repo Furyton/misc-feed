@@ -6,6 +6,56 @@
       "siteUrl": "https://www.arxivist.com",
       "articles": [
         {
+          "id": "http://arxiv.org/abs/2204.05108",
+          "author": null,
+          "description": "Katsiaryna Haitsiukevich, Alexander Ilin",
+          "link": "http://arxiv.org/abs/2204.05108",
+          "publishedOn": "2023-01-10T07:14:26.748Z",
+          "wordCount": 644,
+          "title": "Improved Training of Physics-Informed Neural Networks with Model\n  Ensembles",
+          "imageUrl": null
+        },
+        {
+          "id": "http://arxiv.org/abs/2210.16315",
+          "author": null,
+          "description": "Alexandre Perez-Lebel (SODA), Marine Le Morvan (SODA), Ga\\\"el\n  Varoquaux (SODA)",
+          "link": "http://arxiv.org/abs/2210.16315",
+          "publishedOn": "2023-01-10T07:14:26.733Z",
+          "wordCount": 634,
+          "title": "Beyond calibration: estimating the grouping loss of modern neural\n  networks",
+          "imageUrl": null
+        },
+        {
+          "id": "http://arxiv.org/abs/2203.05400",
+          "author": null,
+          "description": "Toni Karvonen",
+          "link": "http://arxiv.org/abs/2203.05400",
+          "publishedOn": "2023-01-10T07:14:26.710Z",
+          "wordCount": 648,
+          "title": "Asymptotic Bounds for Smoothness Parameter Estimates in Gaussian Process\n  Interpolation",
+          "imageUrl": null
+        },
+        {
+          "id": "http://arxiv.org/abs/2301.03566",
+          "author": null,
+          "description": "Ankit Pensia, Amir R. Asadi, Varun Jog, Po-Ling Loh",
+          "link": "http://arxiv.org/abs/2301.03566",
+          "publishedOn": "2023-01-10T07:14:26.704Z",
+          "wordCount": 628,
+          "title": "Simple Binary Hypothesis Testing under Local Differential Privacy and\n  Communication Constraints",
+          "imageUrl": null
+        },
+        {
+          "id": "http://arxiv.org/abs/2211.11323",
+          "author": null,
+          "description": "James Chapman, Ana Lawry Aguila, Lennie Wells",
+          "link": "http://arxiv.org/abs/2211.11323",
+          "publishedOn": "2023-01-10T07:14:26.594Z",
+          "wordCount": 700,
+          "title": "A Generalized EigenGame with Extensions to Multiview Representation\n  Learning",
+          "imageUrl": null
+        },
+        {
           "id": "http://arxiv.org/abs/2209.01754",
           "author": null,
           "description": "Roshni Sahoo, Lihua Lei, Stefan Wager",

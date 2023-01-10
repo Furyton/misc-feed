@@ -2,10 +2,66 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-10T06:21:38.859Z</updated>
+    <updated>2023-01-10T07:14:28.135Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Improved Training of Physics-Informed Neural Networks with Model
+  Ensembles]]></title>
+        <id>http://arxiv.org/abs/2204.05108</id>
+        <link href="http://arxiv.org/abs/2204.05108"/>
+        <updated>2023-01-10T07:14:26.748Z</updated>
+        <summary type="html"><![CDATA[Katsiaryna Haitsiukevich, Alexander Ilin]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Beyond calibration: estimating the grouping loss of modern neural
+  networks]]></title>
+        <id>http://arxiv.org/abs/2210.16315</id>
+        <link href="http://arxiv.org/abs/2210.16315"/>
+        <updated>2023-01-10T07:14:26.733Z</updated>
+        <summary type="html"><![CDATA[Alexandre Perez-Lebel (SODA), Marine Le Morvan (SODA), Ga\"el
+  Varoquaux (SODA)]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Asymptotic Bounds for Smoothness Parameter Estimates in Gaussian Process
+  Interpolation]]></title>
+        <id>http://arxiv.org/abs/2203.05400</id>
+        <link href="http://arxiv.org/abs/2203.05400"/>
+        <updated>2023-01-10T07:14:26.710Z</updated>
+        <summary type="html"><![CDATA[Toni Karvonen]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Simple Binary Hypothesis Testing under Local Differential Privacy and
+  Communication Constraints]]></title>
+        <id>http://arxiv.org/abs/2301.03566</id>
+        <link href="http://arxiv.org/abs/2301.03566"/>
+        <updated>2023-01-10T07:14:26.704Z</updated>
+        <summary type="html"><![CDATA[Ankit Pensia, Amir R. Asadi, Varun Jog, Po-Ling Loh]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Generalized EigenGame with Extensions to Multiview Representation
+  Learning]]></title>
+        <id>http://arxiv.org/abs/2211.11323</id>
+        <link href="http://arxiv.org/abs/2211.11323"/>
+        <updated>2023-01-10T07:14:26.594Z</updated>
+        <summary type="html"><![CDATA[James Chapman, Ana Lawry Aguila, Lennie Wells]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Learning from a Biased Sample]]></title>
         <id>http://arxiv.org/abs/2209.01754</id>
