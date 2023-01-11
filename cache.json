@@ -6,6 +6,56 @@
       "siteUrl": "https://www.arxivist.com",
       "articles": [
         {
+          "id": "http://arxiv.org/abs/2301.04104",
+          "author": null,
+          "description": "Danijar Hafner, Jurgis Pasukonis, Jimmy Ba, Timothy Lillicrap",
+          "link": "http://arxiv.org/abs/2301.04104",
+          "publishedOn": "2023-01-11T07:14:43.197Z",
+          "wordCount": 584,
+          "title": "Mastering Diverse Domains through World Models",
+          "imageUrl": null
+        },
+        {
+          "id": "http://arxiv.org/abs/2207.03517",
+          "author": null,
+          "description": "Kin G. Olivares, Federico Garza, David Luo, Cristian Chall\\'u, Max\n  Mergenthaler, Souhaib Ben Taieb, Shanika L. Wickramasuriya, Artur\n  Dubrawski",
+          "link": "http://arxiv.org/abs/2207.03517",
+          "publishedOn": "2023-01-11T07:14:42.905Z",
+          "wordCount": 621,
+          "title": "HierarchicalForecast: A Reference Framework for Hierarchical Forecasting\n  in Python",
+          "imageUrl": null
+        },
+        {
+          "id": "http://arxiv.org/abs/2301.03962",
+          "author": null,
+          "description": "Danny Wood, Tingting Mu, Andrew Webb, Henry Reeve, Mikel\n  Lujan, Gavin Brown",
+          "link": "http://arxiv.org/abs/2301.03962",
+          "publishedOn": "2023-01-11T07:14:42.898Z",
+          "wordCount": 617,
+          "title": "A Unified Theory of Diversity in Ensemble Learning",
+          "imageUrl": null
+        },
+        {
+          "id": "http://arxiv.org/abs/2301.03655",
+          "author": null,
+          "description": "Antonia A. L. Dos Santos, Danilo A. Sarti, Rafael A. Moral, Andrew C.\n  Parnell",
+          "link": "http://arxiv.org/abs/2301.03655",
+          "publishedOn": "2023-01-11T07:14:42.878Z",
+          "wordCount": 586,
+          "title": "Bayesian Additive Main Effects and Multiplicative Interaction Models\n  using Tensor Regression for Multi-environmental Trials",
+          "imageUrl": null
+        },
+        {
+          "id": "http://arxiv.org/abs/2301.03747",
+          "author": null,
+          "description": "Kexuan Li, Jun Zhu, Anthony R. Ives, Volker C. Radeloff, Fangfang Wang",
+          "link": "http://arxiv.org/abs/2301.03747",
+          "publishedOn": "2023-01-11T07:14:42.779Z",
+          "wordCount": 613,
+          "title": "Semiparametric Regression for Spatial Data via Deep Learning",
+          "imageUrl": null
+        },
+        {
           "id": "http://arxiv.org/abs/2204.05108",
           "author": null,
           "description": "Katsiaryna Haitsiukevich, Alexander Ilin",
