@@ -2,10 +2,52 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-12T06:20:39.154Z</updated>
+    <updated>2023-01-12T07:14:40.960Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Quantifying the Impact of Label Noise on Federated Learning]]></title>
+        <id>http://arxiv.org/abs/2211.07816</id>
+        <link href="http://arxiv.org/abs/2211.07816"/>
+        <updated>2023-01-12T07:14:40.078Z</updated>
+        <summary type="html"><![CDATA[Shuqi Ke, Chao Huang, Xin Liu]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[An Analysis of Quantile Temporal-Difference Learning]]></title>
+        <id>http://arxiv.org/abs/2301.04462</id>
+        <link href="http://arxiv.org/abs/2301.04462"/>
+        <updated>2023-01-12T07:14:40.072Z</updated>
+        <summary type="html"><![CDATA[Mark Rowland, R\'emi Munos, Mohammad Gheshlaghi Azar, Yunhao Tang,
+  Georg Ostrovski, Anna Harutyunyan, Karl Tuyls, Marc G. Bellemare, Will Dabney]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Towards Backdoor Attacks and Defense in Robust Machine Learning Models]]></title>
+        <id>http://arxiv.org/abs/2003.00865</id>
+        <link href="http://arxiv.org/abs/2003.00865"/>
+        <updated>2023-01-12T07:14:40.049Z</updated>
+        <summary type="html"><![CDATA[Ezekiel Soremekun, Sakshi Udeshi, Sudipta Chattopadhyay]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learning fair representation with a parametric integral probability
+  metric]]></title>
+        <id>http://arxiv.org/abs/2202.02943</id>
+        <link href="http://arxiv.org/abs/2202.02943"/>
+        <updated>2023-01-12T07:14:40.043Z</updated>
+        <summary type="html"><![CDATA[Dongha Kim, Kunwoong Kim, Insung Kong, Ilsang Ohn, Yongdai Kim]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Mastering Diverse Domains through World Models]]></title>
         <id>http://arxiv.org/abs/2301.04104</id>

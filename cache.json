@@ -6,6 +6,46 @@
       "siteUrl": "https://www.arxivist.com",
       "articles": [
         {
+          "id": "http://arxiv.org/abs/2211.07816",
+          "author": null,
+          "description": "Shuqi Ke, Chao Huang, Xin Liu",
+          "link": "http://arxiv.org/abs/2211.07816",
+          "publishedOn": "2023-01-12T07:14:40.078Z",
+          "wordCount": 611,
+          "title": "Quantifying the Impact of Label Noise on Federated Learning",
+          "imageUrl": null
+        },
+        {
+          "id": "http://arxiv.org/abs/2301.04462",
+          "author": null,
+          "description": "Mark Rowland, R\\'emi Munos, Mohammad Gheshlaghi Azar, Yunhao Tang,\n  Georg Ostrovski, Anna Harutyunyan, Karl Tuyls, Marc G. Bellemare, Will Dabney",
+          "link": "http://arxiv.org/abs/2301.04462",
+          "publishedOn": "2023-01-12T07:14:40.072Z",
+          "wordCount": 573,
+          "title": "An Analysis of Quantile Temporal-Difference Learning",
+          "imageUrl": null
+        },
+        {
+          "id": "http://arxiv.org/abs/2003.00865",
+          "author": null,
+          "description": "Ezekiel Soremekun, Sakshi Udeshi, Sudipta Chattopadhyay",
+          "link": "http://arxiv.org/abs/2003.00865",
+          "publishedOn": "2023-01-12T07:14:40.049Z",
+          "wordCount": 754,
+          "title": "Towards Backdoor Attacks and Defense in Robust Machine Learning Models",
+          "imageUrl": null
+        },
+        {
+          "id": "http://arxiv.org/abs/2202.02943",
+          "author": null,
+          "description": "Dongha Kim, Kunwoong Kim, Insung Kong, Ilsang Ohn, Yongdai Kim",
+          "link": "http://arxiv.org/abs/2202.02943",
+          "publishedOn": "2023-01-12T07:14:40.043Z",
+          "wordCount": 685,
+          "title": "Learning fair representation with a parametric integral probability\n  metric",
+          "imageUrl": null
+        },
+        {
           "id": "http://arxiv.org/abs/2301.04104",
           "author": null,
           "description": "Danijar Hafner, Jurgis Pasukonis, Jimmy Ba, Timothy Lillicrap",
