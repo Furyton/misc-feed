@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-12T07:14:40.960Z</updated>
+    <updated>2023-01-12T08:22:18.993Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ODIM: an efficient method to detect outliers via inlier-memorization
+  effect of deep generative models]]></title>
+        <id>http://arxiv.org/abs/2301.04257</id>
+        <link href="http://arxiv.org/abs/2301.04257"/>
+        <updated>2023-01-12T08:22:18.953Z</updated>
+        <summary type="html"><![CDATA[Dongha Kim, Jaesung Hwang, Jongjin Lee, Kunwoong Kim, Yongdai Kim]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Quantifying the Impact of Label Noise on Federated Learning]]></title>
         <id>http://arxiv.org/abs/2211.07816</id>
