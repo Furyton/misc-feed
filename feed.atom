@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-12T08:22:18.993Z</updated>
+    <updated>2023-01-12T09:18:39.923Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Transformer升级之路：7、长度外推性与局部注意力]]></title>
+        <id>https://kexue.fm/archives/9431</id>
+        <link href="https://kexue.fm/archives/9431"/>
+        <updated>2023-01-12T08:56:00.000Z</updated>
+        <summary type="html"><![CDATA[对于Transformer模型来说，其长度的外推性是我们一直在追求的良好性质，它是指我们在短序列上训练的模型，能否不用微调地用到长序列上并依然保持不错的效果。之所以追求长度外推性，一方面是理论的...]]></summary>
+        <author>
+            <name>苏剑林</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ODIM: an efficient method to detect outliers via inlier-memorization
   effect of deep generative models]]></title>

@@ -382,6 +382,16 @@
       "siteUrl": "https://kexue.fm/",
       "articles": [
         {
+          "id": "https://kexue.fm/archives/9431",
+          "author": "苏剑林",
+          "description": "对于Transformer模型来说，其长度的外推性是我们一直在追求的良好性质，它是指我们在短序列上训练的模型，能否不用微调地用到长序列上并依然保持不错的效果。之所以追求长度外推性，一方面是理论的...",
+          "link": "https://kexue.fm/archives/9431",
+          "publishedOn": "2023-01-12T08:56:00.000Z",
+          "wordCount": 1528,
+          "title": "Transformer升级之路：7、长度外推性与局部注意力",
+          "imageUrl": null
+        },
+        {
           "id": "https://kexue.fm/archives/9405",
           "author": "苏剑林",
           "description": "如果家庭使用单一的热水器集中供热水，那么当我们想要用热水时，往往需要先放一段时间的冷水，而如果放冷水时间比较长的话，就会比较影响体验。所谓零冷水，实际上就是想办法提前把热水管中的冷水排放掉，以达...",
