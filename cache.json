@@ -1,0 +1,1121 @@
+{
+  "sources": [
+    {
+      "title": "arxivist feed",
+      "feedUrl": "https://arxivist.com/rss.php?rss_id=175ea3663a919f8117ebe029d30ebe6c",
+      "siteUrl": "https://www.arxivist.com",
+      "articles": [
+        {
+          "id": "http://arxiv.org/abs/2203.03342",
+          "author": null,
+          "description": "Jonathan Berrisch, Micha{\\l} Narajewski, Florian Ziel",
+          "link": "http://arxiv.org/abs/2203.03342",
+          "publishedOn": "2023-02-13T07:15:35.979Z",
+          "wordCount": 830,
+          "title": "High-Resolution Peak Demand Estimation Using Generalized Additive Models\n  and Deep Neural Networks",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2302.05294",
+          "author": null,
+          "description": "Jingwei Zhang, Farzan Farnia",
+          "link": "http://arxiv.org/abs/2302.05294",
+          "publishedOn": "2023-02-13T07:15:35.565Z",
+          "wordCount": 616,
+          "title": "MoreauGrad: Sparse and Robust Interpretation of Neural Networks via\n  Moreau Envelope",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2209.11924",
+          "author": null,
+          "description": "Kartik Ahuja, Divyat Mahajan, Yixin Wang, Yoshua Bengio",
+          "link": "http://arxiv.org/abs/2209.11924",
+          "publishedOn": "2023-02-13T07:15:35.551Z",
+          "wordCount": 632,
+          "title": "Interventional Causal Representation Learning",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2302.05400",
+          "author": null,
+          "description": "David W. Romero, Neil Zeghidour",
+          "link": "http://arxiv.org/abs/2302.05400",
+          "publishedOn": "2023-02-13T07:15:35.538Z",
+          "wordCount": 596,
+          "title": "DNArch: Learning Convolutional Neural Architectures by Backpropagation",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2302.04451",
+          "author": null,
+          "description": "Haotian Ju, Dongyue Li, Aneesh Sharma, Hongyang R. Zhang",
+          "link": "http://arxiv.org/abs/2302.04451",
+          "publishedOn": "2023-02-10T07:15:38.755Z",
+          "wordCount": 639,
+          "title": "Generalization in Graph Neural Networks: Improved PAC-Bayesian Bounds on\n  Graph Diffusion",
+          "imageUrl": null
+        },
+        {
+          "id": "http://arxiv.org/abs/1910.09113",
+          "author": null,
+          "description": "Paul Soulos, Tom McCoy, Tal Linzen, Paul Smolensky",
+          "link": "http://arxiv.org/abs/1910.09113",
+          "publishedOn": "2023-02-10T07:15:38.665Z",
+          "wordCount": 617,
+          "title": "Discovering the Compositional Structure of Vector Representations with\n  Role Learning Networks",
+          "imageUrl": null
+        },
+        {
+          "id": "http://arxiv.org/abs/2205.15619",
+          "author": null,
+          "description": "Daiki Chijiwa, Shin'ya Yamaguchi, Atsutoshi Kumagai, Yasutoshi Ida",
+          "link": "http://arxiv.org/abs/2205.15619",
+          "publishedOn": "2023-02-10T07:15:38.657Z",
+          "wordCount": 695,
+          "title": "Meta-ticket: Finding optimal subnetworks for few-shot learning within\n  randomly initialized neural networks",
+          "imageUrl": null
+        },
+        {
+          "id": "http://arxiv.org/abs/2302.04730",
+          "author": null,
+          "description": "Luis Basora, Arthur Viens, Manuel Arias Chao, Xavier Olive",
+          "link": "http://arxiv.org/abs/2302.04730",
+          "publishedOn": "2023-02-10T07:15:38.647Z",
+          "wordCount": 678,
+          "title": "A Benchmark on Uncertainty Quantification for Deep Learning Prognostics",
+          "imageUrl": null
+        },
+        {
+          "id": "http://arxiv.org/abs/2105.04026",
+          "author": null,
+          "description": "Julius Berner, Philipp Grohs, Gitta Kutyniok, Philipp Petersen",
+          "link": "http://arxiv.org/abs/2105.04026",
+          "publishedOn": "2023-02-09T07:15:17.534Z",
+          "wordCount": 644,
+          "title": "The Modern Mathematics of Deep Learning",
+          "imageUrl": null
+        },
+        {
+          "id": "http://arxiv.org/abs/2106.11299",
+          "author": null,
+          "description": "Andreas Mayr, Sebastian Lehner, Arno Mayrhofer, Christoph Kloss, Sepp\n  Hochreiter, Johannes Brandstetter",
+          "link": "http://arxiv.org/abs/2106.11299",
+          "publishedOn": "2023-02-09T07:15:17.420Z",
+          "wordCount": 704,
+          "title": "Boundary Graph Neural Networks for 3D Simulations",
+          "imageUrl": null
+        },
+        {
+          "id": "http://arxiv.org/abs/2302.04019",
+          "author": null,
+          "description": "Gianluca Detommaso, Alberto Gasparin, Michele Donini, Matthias Seeger,\n  Andrew Gordon Wilson, Cedric Archambeau",
+          "link": "http://arxiv.org/abs/2302.04019",
+          "publishedOn": "2023-02-09T07:15:17.394Z",
+          "wordCount": 536,
+          "title": "Fortuna: A Library for Uncertainty Quantification in Deep Learning",
+          "imageUrl": null
+        },
+        {
+          "id": "http://arxiv.org/abs/1802.04403",
+          "author": null,
+          "description": "Haque Ishfaq, Assaf Hoogi, Daniel Rubin",
+          "link": "http://arxiv.org/abs/1802.04403",
+          "publishedOn": "2023-02-09T07:15:17.315Z",
+          "wordCount": 661,
+          "title": "TVAE: Triplet-Based Variational Autoencoder using Metric Learning",
+          "imageUrl": null
+        },
+        {
+          "id": "http://arxiv.org/abs/2302.04054",
+          "author": null,
+          "description": "Michael Hagmann, Stefan Riezler",
+          "link": "http://arxiv.org/abs/2302.04054",
+          "publishedOn": "2023-02-09T07:15:17.308Z",
+          "wordCount": 655,
+          "title": "Towards Inferential Reproducibility of Machine Learning Research",
+          "imageUrl": null
+        },
+        {
+          "id": "http://arxiv.org/abs/2302.03068",
+          "author": null,
+          "description": "Yann Dubois, Tatsunori Hashimoto, Percy Liang",
+          "link": "http://arxiv.org/abs/2302.03068",
+          "publishedOn": "2023-02-08T07:15:18.338Z",
+          "wordCount": 601,
+          "title": "Evaluating Self-Supervised Learning via Risk Decomposition",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2302.03358",
+          "author": null,
+          "description": "Junfeng Chen, Kailiang Wu",
+          "link": "http://arxiv.org/abs/2302.03358",
+          "publishedOn": "2023-02-08T07:15:18.328Z",
+          "wordCount": 736,
+          "title": "Deep-OSG: A deep learning approach for approximating a family of\n  operators in semigroup to model unknown autonomous systems",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2302.03459",
+          "author": null,
+          "description": "Francis Bach (SIERRA)",
+          "link": "http://arxiv.org/abs/2302.03459",
+          "publishedOn": "2023-02-08T07:15:18.317Z",
+          "wordCount": 570,
+          "title": "On the relationship between multivariate splines and infinitely-wide\n  neural networks",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2302.03067",
+          "author": null,
+          "description": "Tim Genewein, Gr\\'egoire Del\\'etang, Anian Ruoss, Li Kevin Wenliang,\n  Elliot Catt, Vincent Dutordoir, Jordi Grau-Moya, Laurent Orseau, Marcus\n  Hutter, Joel Veness",
+          "link": "http://arxiv.org/abs/2302.03067",
+          "publishedOn": "2023-02-08T07:15:18.168Z",
+          "wordCount": 571,
+          "title": "Memory-Based Meta-Learning on Non-Stationary Distributions",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2209.09315",
+          "author": null,
+          "description": "Niladri S. Chatterji, Philip M. Long",
+          "link": "http://arxiv.org/abs/2209.09315",
+          "publishedOn": "2023-02-08T07:15:18.156Z",
+          "wordCount": 601,
+          "title": "Deep Linear Networks can Benignly Overfit when Shallow Ones Do",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2302.02406",
+          "author": null,
+          "description": "Rolando Gonzales Martinez, Daan-Max van Dongen",
+          "link": "http://arxiv.org/abs/2302.02406",
+          "publishedOn": "2023-02-07T07:14:35.000Z",
+          "wordCount": 651,
+          "title": "Pre-screening breast cancer with machine learning and deep learning",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2302.01952",
+          "author": null,
+          "description": "Mihaela Rosca, Yan Wu, Chongli Qin, Benoit Dherin",
+          "link": "http://arxiv.org/abs/2302.01952",
+          "publishedOn": "2023-02-07T07:14:34.986Z",
+          "wordCount": 591,
+          "title": "On a continuous time model of gradient descent dynamics and instability\n  in deep learning",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2206.02659",
+          "author": null,
+          "description": "Haotian Ju, Dongyue Li, Hongyang R. Zhang",
+          "link": "http://arxiv.org/abs/2206.02659",
+          "publishedOn": "2023-02-07T07:14:34.944Z",
+          "wordCount": 690,
+          "title": "Robust Fine-Tuning of Deep Neural Networks with Hessian-based\n  Generalization Guarantees",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2209.12651",
+          "author": null,
+          "description": "Christoph Brauer, Niklas Breustedt, Timo de Wolff, Dirk A. Lorenz",
+          "link": "http://arxiv.org/abs/2209.12651",
+          "publishedOn": "2023-02-07T07:14:34.934Z",
+          "wordCount": 648,
+          "title": "Learning Variational Models with Unrolling and Bilevel Optimization",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2212.10839",
+          "author": null,
+          "description": "Jiongli Zhu, Sainyam Galhotra, Nazanin Sabri, Babak Salimi",
+          "link": "http://arxiv.org/abs/2212.10839",
+          "publishedOn": "2023-02-06T07:14:56.460Z",
+          "wordCount": 579,
+          "title": "Consistent Range Approximation for Fair Predictive Modeling",
+          "imageUrl": null
+        },
+        {
+          "id": "http://arxiv.org/abs/2302.01771",
+          "author": null,
+          "description": "Jose Gonz\\'alez-Abad, Jorge Ba\\~no-Medina, Jos\\'e Manuel Guti\\'errez",
+          "link": "http://arxiv.org/abs/2302.01771",
+          "publishedOn": "2023-02-06T07:14:56.443Z",
+          "wordCount": 601,
+          "title": "Using Explainability to Inform Statistical Downscaling Based on Deep\n  Learning Beyond Standard Validation Approaches",
+          "imageUrl": null
+        },
+        {
+          "id": "http://arxiv.org/abs/2203.04706",
+          "author": null,
+          "description": "Line H. Clemmensen, Rune D. Kj{\\ae}rsgaard",
+          "link": "http://arxiv.org/abs/2203.04706",
+          "publishedOn": "2023-02-06T07:14:56.424Z",
+          "wordCount": 620,
+          "title": "Data Representativity for Machine Learning and AI Systems",
+          "imageUrl": null
+        },
+        {
+          "id": "http://arxiv.org/abs/2302.01407",
+          "author": null,
+          "description": "Wolfgang Messner",
+          "link": "http://arxiv.org/abs/2302.01407",
+          "publishedOn": "2023-02-06T07:14:56.419Z",
+          "wordCount": 621,
+          "title": "Hypothesis Testing and Machine Learning: Interpreting Variable Effects\n  in Deep Artificial Neural Networks using Cohen's f2",
+          "imageUrl": null
+        },
+        {
+          "id": "http://arxiv.org/abs/2302.00727",
+          "author": null,
+          "description": "Sing-Yuan Yeh, Fu-Chieh Chang, Chang-Wei Yueh, Pei-Yuan Wu, Alberto\n  Bernacchia, Sattar Vakili",
+          "link": "http://arxiv.org/abs/2302.00727",
+          "publishedOn": "2023-02-03T07:14:54.848Z",
+          "wordCount": 587,
+          "title": "Sample Complexity of Kernel-Based Q-Learning",
+          "imageUrl": null
+        },
+        {
+          "id": "http://arxiv.org/abs/2302.00834",
+          "author": null,
+          "description": "Jonathan W. Siegel",
+          "link": "http://arxiv.org/abs/2302.00834",
+          "publishedOn": "2023-02-03T07:14:54.796Z",
+          "wordCount": 562,
+          "title": "Sharp Lower Bounds on Interpolation by Deep ReLU Neural Networks at\n  Irregularly Spaced Data",
+          "imageUrl": null
+        },
+        {
+          "id": "http://arxiv.org/abs/2302.01333",
+          "author": null,
+          "description": "Fan Chen, Huan Wang, Caiming Xiong, Song Mei, Yu Bai",
+          "link": "http://arxiv.org/abs/2302.01333",
+          "publishedOn": "2023-02-03T07:14:54.790Z",
+          "wordCount": 683,
+          "title": "Lower Bounds for Learning in Revealing POMDPs",
+          "imageUrl": null
+        },
+        {
+          "id": "http://arxiv.org/abs/2202.12183",
+          "author": null,
+          "description": "Zi-Hao Qiu, Quanqi Hu, Yongjian Zhong, Lijun Zhang, Tianbao Yang",
+          "link": "http://arxiv.org/abs/2202.12183",
+          "publishedOn": "2023-02-03T07:14:54.688Z",
+          "wordCount": 710,
+          "title": "Large-scale Stochastic Optimization of NDCG Surrogates for Deep Learning\n  with Provable Convergence",
+          "imageUrl": null
+        },
+        {
+          "id": "http://arxiv.org/abs/2302.01002",
+          "author": null,
+          "description": "Francois Caron, Fadhel Ayed, Paul Jung, Hoil Lee, Juho Lee, Hongseok\n  Yang",
+          "link": "http://arxiv.org/abs/2302.01002",
+          "publishedOn": "2023-02-03T07:14:54.681Z",
+          "wordCount": 559,
+          "title": "Over-parameterised Shallow Neural Networks with Asymmetrical Node\n  Scaling: Global Convergence Guarantees and Feature Learning",
+          "imageUrl": null
+        },
+        {
+          "id": "http://arxiv.org/abs/2203.06527",
+          "author": null,
+          "description": "Binyamin Perets, Mark Kozdoba, Shie Mannor",
+          "link": "http://arxiv.org/abs/2203.06527",
+          "publishedOn": "2023-02-02T07:14:33.123Z",
+          "wordCount": 693,
+          "title": "Whats Missing? Learning Hidden Markov Models When the Locations of\n  Missing Observations are Unknown",
+          "imageUrl": null
+        },
+        {
+          "id": "http://arxiv.org/abs/2302.00375",
+          "author": null,
+          "description": "Hugo Cui, Florent Krzakala, Lenka Zdeborov\\'a",
+          "link": "http://arxiv.org/abs/2302.00375",
+          "publishedOn": "2023-02-02T07:14:32.995Z",
+          "wordCount": 578,
+          "title": "Optimal Learning of Deep Random Networks of Extensive-width",
+          "imageUrl": null
+        },
+        {
+          "id": "http://arxiv.org/abs/2302.00205",
+          "author": null,
+          "description": "Alistair Shilton, Sunil Gupta, Santu Rana, Svetha Venkatesh",
+          "link": "http://arxiv.org/abs/2302.00205",
+          "publishedOn": "2023-02-02T07:14:32.969Z",
+          "wordCount": 644,
+          "title": "Gradient Descent in Neural Networks as Sequential Learning in RKBS",
+          "imageUrl": null
+        },
+        {
+          "id": "http://arxiv.org/abs/2110.13162",
+          "author": null,
+          "description": "Sofiene Jerbi, Lukas J. Fiderer, Hendrik Poulsen Nautrup, Jonas M.\n  K\\\"ubler, Hans J. Briegel, Vedran Dunjko",
+          "link": "http://arxiv.org/abs/2110.13162",
+          "publishedOn": "2023-02-02T07:14:32.960Z",
+          "wordCount": 705,
+          "title": "Quantum machine learning beyond kernel methods",
+          "imageUrl": null
+        },
+        {
+          "id": "http://arxiv.org/abs/2302.00333",
+          "author": null,
+          "description": "William Kengne, Wade Modou",
+          "link": "http://arxiv.org/abs/2302.00333",
+          "publishedOn": "2023-02-02T07:14:32.936Z",
+          "wordCount": 554,
+          "title": "Deep learning for $\\psi$-weakly dependent processes",
+          "imageUrl": null
+        },
+        {
+          "id": "http://arxiv.org/abs/2211.11865",
+          "author": null,
+          "description": "Martin Magris, Alexandros Iosifidis",
+          "link": "http://arxiv.org/abs/2211.11865",
+          "publishedOn": "2023-02-01T07:15:14.907Z",
+          "wordCount": 626,
+          "title": "Bayesian Learning for Neural Networks: an algorithmic survey",
+          "imageUrl": null
+        },
+        {
+          "id": "http://arxiv.org/abs/2208.06987",
+          "author": null,
+          "description": "Zihao Wang, Victor Veitch",
+          "link": "http://arxiv.org/abs/2208.06987",
+          "publishedOn": "2023-02-01T07:15:14.899Z",
+          "wordCount": 650,
+          "title": "A Unified Causal View of Domain Invariant Representation Learning",
+          "imageUrl": null
+        },
+        {
+          "id": "http://arxiv.org/abs/2009.10622",
+          "author": null,
+          "description": "TrungTin Nguyen, Hien D Nguyen, Faicel Chamroukhi, Geoffrey J\n  McLachlan",
+          "link": "http://arxiv.org/abs/2009.10622",
+          "publishedOn": "2023-02-01T07:15:14.893Z",
+          "wordCount": 749,
+          "title": "An $l_1$-oracle inequality for the Lasso in high-dimensional mixtures of\n  experts models",
+          "imageUrl": null
+        },
+        {
+          "id": "http://arxiv.org/abs/2301.13857",
+          "author": null,
+          "description": "Jonathan N. Lee, Alekh Agarwal, Christoph Dann, Tong Zhang",
+          "link": "http://arxiv.org/abs/2301.13857",
+          "publishedOn": "2023-02-01T07:15:14.883Z",
+          "wordCount": 582,
+          "title": "Learning in POMDPs is Sample-Efficient with Hindsight Observability",
+          "imageUrl": null
+        },
+        {
+          "id": "http://arxiv.org/abs/2301.13743",
+          "author": null,
+          "description": "Zihao Wang, Yingyu Yang, Maxime Sermesant, Herv\\'e Delingette, Ona Wu",
+          "link": "http://arxiv.org/abs/2301.13743",
+          "publishedOn": "2023-02-01T07:15:14.766Z",
+          "wordCount": 653,
+          "title": "Zero-shot-Learning Cross-Modality Data Translation Through Mutual\n  Information Guided Stochastic Diffusion",
+          "imageUrl": null
+        },
+        {
+          "id": "http://arxiv.org/abs/2301.12389",
+          "author": null,
+          "description": "Hengrui Cai, Yixin Wang, Michael Jordan, Rui Song",
+          "link": "http://arxiv.org/abs/2301.12389",
+          "publishedOn": "2023-01-31T12:31:27.090Z",
+          "wordCount": 668,
+          "title": "On Learning Necessary and Sufficient Causal Graphs",
+          "imageUrl": null
+        },
+        {
+          "id": "http://arxiv.org/abs/2111.08885",
+          "author": null,
+          "description": "Hengrui Cai, Chengchun Shi, Rui Song, Wenbin Lu",
+          "link": "http://arxiv.org/abs/2111.08885",
+          "publishedOn": "2023-01-31T12:31:27.078Z",
+          "wordCount": 692,
+          "title": "Jump Interval-Learning for Individualized Decision Making",
+          "imageUrl": null
+        },
+        {
+          "id": "http://arxiv.org/abs/2206.05794",
+          "author": null,
+          "description": "Tomer Galanti, Zachary S. Siegel, Aparna Gupte, Tomaso Poggio",
+          "link": "http://arxiv.org/abs/2206.05794",
+          "publishedOn": "2023-01-31T07:14:29.882Z",
+          "wordCount": 615,
+          "title": "SGD and Weight Decay Provably Induce a Low-Rank Bias in Neural Networks",
+          "imageUrl": null
+        },
+        {
+          "id": "http://arxiv.org/abs/2110.15501",
+          "author": null,
+          "description": "Ye Shen, Hengrui Cai, Rui Song",
+          "link": "http://arxiv.org/abs/2110.15501",
+          "publishedOn": "2023-01-31T07:14:29.815Z",
+          "wordCount": 680,
+          "title": "Doubly Robust Interval Estimation for Optimal Policy Evaluation in\n  Online Learning",
+          "imageUrl": null
+        },
+        {
+          "id": "http://arxiv.org/abs/2206.14373",
+          "author": null,
+          "description": "Jonathan Scarlett, Reinhard Heckel, Miguel R. D. Rodrigues, Paul Hand,\n , Yonina C. Eldar",
+          "link": "http://arxiv.org/abs/2206.14373",
+          "publishedOn": "2023-01-31T07:14:29.774Z",
+          "wordCount": 587,
+          "title": "Theoretical Perspectives on Deep Learning Methods in Inverse Problems",
+          "imageUrl": null
+        },
+        {
+          "id": "http://arxiv.org/abs/2301.11990",
+          "author": null,
+          "description": "Ilia Sucholutsky, Thomas L. Griffiths",
+          "link": "http://arxiv.org/abs/2301.11990",
+          "publishedOn": "2023-01-31T07:14:29.765Z",
+          "wordCount": 568,
+          "title": "Alignment with human representations supports robust few-shot learning",
+          "imageUrl": null
+        },
+        {
+          "id": "http://arxiv.org/abs/2301.12767",
+          "author": null,
+          "description": "Marco C. Campi, Simone Garatti",
+          "link": "http://arxiv.org/abs/2301.12767",
+          "publishedOn": "2023-01-31T07:14:29.748Z",
+          "wordCount": 625,
+          "title": "Compression, Generalization and Learning",
+          "imageUrl": null
+        },
+        {
+          "id": "http://arxiv.org/abs/2301.11556",
+          "author": null,
+          "description": "Ziyi Liang, Yanfei Zhou, Matteo Sesia",
+          "link": "http://arxiv.org/abs/2301.11556",
+          "publishedOn": "2023-01-30T07:14:54.708Z",
+          "wordCount": 573,
+          "title": "Conformal inference is (almost) free for neural networks trained with\n  early stopping",
+          "imageUrl": null
+        },
+        {
+          "id": "http://arxiv.org/abs/2210.01848",
+          "author": null,
+          "description": "Chandan Singh, John X. Morris, Jyoti Aneja, Alexander M. Rush,\n  Jianfeng Gao",
+          "link": "http://arxiv.org/abs/2210.01848",
+          "publishedOn": "2023-01-30T07:14:54.649Z",
+          "wordCount": 661,
+          "title": "Explaining Patterns in Data with Language Models via Interpretable\n  Autoprompting",
+          "imageUrl": null
+        },
+        {
+          "id": "http://arxiv.org/abs/2301.11500",
+          "author": null,
+          "description": "Jikai Jin, Zhiyuan Li, Kaifeng Lyu, Simon S. Du, Jason D.\n  Lee",
+          "link": "http://arxiv.org/abs/2301.11500",
+          "publishedOn": "2023-01-30T07:14:54.644Z",
+          "wordCount": 613,
+          "title": "Understanding Incremental Learning of Gradient Descent: A Fine-grained\n  Analysis of Matrix Sensing",
+          "imageUrl": null
+        },
+        {
+          "id": "http://arxiv.org/abs/2202.10600",
+          "author": null,
+          "description": "Nikolaus H. R. Howe, Simon Dufort-Labb\\'e, Nitarshan Rajkumar,\n  Pierre-Luc Bacon",
+          "link": "http://arxiv.org/abs/2202.10600",
+          "publishedOn": "2023-01-30T07:14:54.629Z",
+          "wordCount": 642,
+          "title": "Myriad: a real-world testbed to bridge trajectory optimization and deep\n  learning",
+          "imageUrl": null
+        },
+        {
+          "id": "http://arxiv.org/abs/2301.11873",
+          "author": null,
+          "description": "Lasse Elsem\\\"uller, Martin Schnuerch, Paul-Christian B\\\"urkner, Stefan\n  T. Radev",
+          "link": "http://arxiv.org/abs/2301.11873",
+          "publishedOn": "2023-01-30T07:14:54.619Z",
+          "wordCount": 623,
+          "title": "A Deep Learning Method for Comparing Bayesian Hierarchical Models",
+          "imageUrl": null
+        },
+        {
+          "id": "http://arxiv.org/abs/2301.11308",
+          "author": null,
+          "description": "Abdul Fatir Ansari, Alvin Heng, Andre Lim, Harold Soh",
+          "link": "http://arxiv.org/abs/2301.11308",
+          "publishedOn": "2023-01-27T09:15:42.478Z",
+          "wordCount": 594,
+          "title": "Neural Continuous-Discrete State Space Models for Irregularly-Sampled\n  Time Series",
+          "imageUrl": null
+        },
+        {
+          "id": "http://arxiv.org/abs/2301.11294",
+          "author": null,
+          "description": "Louis Sharrock, Christopher Nemeth",
+          "link": "http://arxiv.org/abs/2301.11294",
+          "publishedOn": "2023-01-27T07:14:33.579Z",
+          "wordCount": 545,
+          "title": "Coin Sampling: Gradient-Based Bayesian Inference without Learning Rates",
+          "imageUrl": null
+        },
+        {
+          "id": "http://arxiv.org/abs/2301.10808",
+          "author": null,
+          "description": "Sanjukta Krishnagopal, Luana Ruiz",
+          "link": "http://arxiv.org/abs/2301.10808",
+          "publishedOn": "2023-01-27T07:14:33.564Z",
+          "wordCount": 643,
+          "title": "Graph Neural Tangent Kernel: Convergence on Large Graphs",
+          "imageUrl": null
+        },
+        {
+          "id": "http://arxiv.org/abs/2205.07384",
+          "author": null,
+          "description": "Ziyang Jiang, Tongshu Zheng, Yiling Liu, David Carlson",
+          "link": "http://arxiv.org/abs/2205.07384",
+          "publishedOn": "2023-01-27T07:14:33.522Z",
+          "wordCount": 705,
+          "title": "Incorporating Prior Knowledge into Neural Networks through an Implicit\n  Composite Kernel",
+          "imageUrl": null
+        },
+        {
+          "id": "http://arxiv.org/abs/2301.11270",
+          "author": null,
+          "description": "Banghua Zhu, Jiantao Jiao, Michael I. Jordan",
+          "link": "http://arxiv.org/abs/2301.11270",
+          "publishedOn": "2023-01-27T07:14:33.512Z",
+          "wordCount": 613,
+          "title": "Principled Reinforcement Learning with Human Feedback from Pairwise or\n  $K$-wise Comparisons",
+          "imageUrl": null
+        },
+        {
+          "id": "http://arxiv.org/abs/2301.08727",
+          "author": null,
+          "description": "Colin White, Mahmoud Safari, Rhea Sukthanker, Binxin Ru, Thomas\n  Elsken, Arber Zela, Debadeepta Dey, Frank Hutter",
+          "link": "http://arxiv.org/abs/2301.08727",
+          "publishedOn": "2023-01-26T07:15:18.401Z",
+          "wordCount": 616,
+          "title": "Neural Architecture Search: Insights from 1000 Papers",
+          "imageUrl": null
+        },
+        {
+          "id": "http://arxiv.org/abs/2010.01171",
+          "author": null,
+          "description": "Brendon G. Anderson, Somayeh Sojoudi",
+          "link": "http://arxiv.org/abs/2010.01171",
+          "publishedOn": "2023-01-26T07:15:18.327Z",
+          "wordCount": 678,
+          "title": "Data-Driven Certification of Neural Networks with Random Input Noise",
+          "imageUrl": null
+        },
+        {
+          "id": "http://arxiv.org/abs/2301.10321",
+          "author": null,
+          "description": "Lu Yang, Xiuwen Sun, Boumediene Hamzi, Houman Owhadi and\n  Naiming Xie",
+          "link": "http://arxiv.org/abs/2301.10321",
+          "publishedOn": "2023-01-26T07:15:18.319Z",
+          "wordCount": 643,
+          "title": "Learning Dynamical Systems from Data: A Simple Cross-Validation\n  Perspective, Part V: Sparse Kernel Flows for 132 Chaotic Dynamical Systems",
+          "imageUrl": null
+        },
+        {
+          "id": "http://arxiv.org/abs/1912.11252",
+          "author": null,
+          "description": "Yimin Huang, Weiran Huang, Liang Li, Zhenguo Li",
+          "link": "http://arxiv.org/abs/1912.11252",
+          "publishedOn": "2023-01-26T07:15:18.306Z",
+          "wordCount": 661,
+          "title": "Meta-Learning PAC-Bayes Priors in Model Averaging",
+          "imageUrl": null
+        },
+        {
+          "id": "http://arxiv.org/abs/2206.14674",
+          "author": null,
+          "description": "Terry Lyons, Andrew D. McLeod",
+          "link": "http://arxiv.org/abs/2206.14674",
+          "publishedOn": "2023-01-26T07:15:18.283Z",
+          "wordCount": 775,
+          "title": "Signature Methods in Machine Learning",
+          "imageUrl": null
+        },
+        {
+          "id": "http://arxiv.org/abs/2206.00024",
+          "author": null,
+          "description": "Maxime Haddouche, Benjamin Guedj",
+          "link": "http://arxiv.org/abs/2206.00024",
+          "publishedOn": "2023-01-25T07:17:18.809Z",
+          "wordCount": 560,
+          "title": "Online PAC-Bayes Learning",
+          "imageUrl": null
+        },
+        {
+          "id": "http://arxiv.org/abs/2009.01797",
+          "author": null,
+          "description": "Martin Mundt, Yongwon Hong, Iuliia Pliushch, Visvanathan Ramesh",
+          "link": "http://arxiv.org/abs/2009.01797",
+          "publishedOn": "2023-01-25T07:17:18.800Z",
+          "wordCount": 736,
+          "title": "A Wholistic View of Continual Learning with Deep Neural Networks:\n  Forgotten Lessons and the Bridge to Active and Open World Learning",
+          "imageUrl": null
+        },
+        {
+          "id": "http://arxiv.org/abs/2202.01666",
+          "author": null,
+          "description": "Guojun Zhang, Saber Malekmohammadi, Xi Chen, Yaoliang Yu",
+          "link": "http://arxiv.org/abs/2202.01666",
+          "publishedOn": "2023-01-25T07:17:18.791Z",
+          "wordCount": 620,
+          "title": "Proportional Fairness in Federated Learning",
+          "imageUrl": null
+        },
+        {
+          "id": "http://arxiv.org/abs/2207.01234",
+          "author": null,
+          "description": "Vishnu Raj, Tianyu Cui, Markus Heinonen, Pekka Marttinen",
+          "link": "http://arxiv.org/abs/2207.01234",
+          "publishedOn": "2023-01-25T07:17:18.780Z",
+          "wordCount": 632,
+          "title": "Incorporating functional summary information in Bayesian neural networks\n  using a Dirichlet process likelihood approach",
+          "imageUrl": null
+        },
+        {
+          "id": "http://arxiv.org/abs/2301.09559",
+          "author": null,
+          "description": "Hamed Ayoobi, Nico Potyka, Francesca Toni",
+          "link": "http://arxiv.org/abs/2301.09559",
+          "publishedOn": "2023-01-24T07:14:13.408Z",
+          "wordCount": 580,
+          "title": "SpArX: Sparse Argumentative Explanations for Neural Networks",
+          "imageUrl": null
+        },
+        {
+          "id": "http://arxiv.org/abs/2209.09658",
+          "author": null,
+          "description": "Thomas George, Guillaume Lajoie, Aristide Baratin",
+          "link": "http://arxiv.org/abs/2209.09658",
+          "publishedOn": "2023-01-24T07:14:13.270Z",
+          "wordCount": 625,
+          "title": "Lazy vs hasty: linearization in deep networks impacts learning schedule\n  based on example difficulty",
+          "imageUrl": null
+        },
+        {
+          "id": "http://arxiv.org/abs/2206.01454",
+          "author": null,
+          "description": "Shashank Singh",
+          "link": "http://arxiv.org/abs/2206.01454",
+          "publishedOn": "2023-01-24T07:14:13.223Z",
+          "wordCount": 632,
+          "title": "Indirect Active Learning",
+          "imageUrl": null
+        },
+        {
+          "id": "http://arxiv.org/abs/2109.08844",
+          "author": null,
+          "description": "Rahul Parhi, Robert D. Nowak",
+          "link": "http://arxiv.org/abs/2109.08844",
+          "publishedOn": "2023-01-24T07:14:13.213Z",
+          "wordCount": 698,
+          "title": "Near-Minimax Optimal Estimation With Shallow ReLU Neural Networks",
+          "imageUrl": null
+        },
+        {
+          "id": "http://arxiv.org/abs/2005.06284",
+          "author": null,
+          "description": "Alexander N. Gorban, Evgeny M. Mirkes",
+          "link": "http://arxiv.org/abs/2005.06284",
+          "publishedOn": "2023-01-24T07:14:13.206Z",
+          "wordCount": 762,
+          "title": "Pruning coupled with learning, ensembles of minimal neural networks, and\n  future of XAI",
+          "imageUrl": null
+        },
+        {
+          "id": "http://arxiv.org/abs/2301.08441",
+          "author": null,
+          "description": "Anass Akrim, Christian Gogu, Rob Vingerhoeds, Michel Sala\\\"un",
+          "link": "http://arxiv.org/abs/2301.08441",
+          "publishedOn": "2023-01-23T07:14:58.219Z",
+          "wordCount": 654,
+          "title": "Self-Supervised Learning for Data Scarcity in a Fatigue Damage\n  Prognostic Problem",
+          "imageUrl": null
+        },
+        {
+          "id": "http://arxiv.org/abs/2110.04338",
+          "author": null,
+          "description": "Nikola Sandri\\'c, Stjepan \\v{S}ebek",
+          "link": "http://arxiv.org/abs/2110.04338",
+          "publishedOn": "2023-01-23T07:14:58.200Z",
+          "wordCount": 642,
+          "title": "Learning from non-irreducible Markov chains",
+          "imageUrl": null
+        },
+        {
+          "id": "http://arxiv.org/abs/2301.08353",
+          "author": null,
+          "description": "YaChen Yan, Liubo Li",
+          "link": "http://arxiv.org/abs/2301.08353",
+          "publishedOn": "2023-01-23T07:14:58.165Z",
+          "wordCount": 669,
+          "title": "AdaEnsemble: Learning Adaptively Sparse Structured Ensemble Network for\n  Click-Through Rate Prediction",
+          "imageUrl": null
+        },
+        {
+          "id": "http://arxiv.org/abs/1911.01872",
+          "author": null,
+          "description": "Taoli Cheng",
+          "link": "http://arxiv.org/abs/1911.01872",
+          "publishedOn": "2023-01-23T07:14:58.159Z",
+          "wordCount": 601,
+          "title": "Interpretability Study on Deep Learning for Jet Physics at the Large\n  Hadron Collider",
+          "imageUrl": null
+        },
+        {
+          "id": "http://arxiv.org/abs/2301.08015",
+          "author": null,
+          "description": "Guanpu Chen, Gehui Xu, Fengxiang He, Yiguang Hong, Leszek Rutkowski,\n , Dacheng Tao",
+          "link": "http://arxiv.org/abs/2301.08015",
+          "publishedOn": "2023-01-20T10:18:18.550Z",
+          "wordCount": 663,
+          "title": "Global Nash Equilibrium in Non-convex Multi-player Game: Theory and\n  Algorithms",
+          "imageUrl": null
+        },
+        {
+          "id": "http://arxiv.org/abs/2301.08230",
+          "author": null,
+          "description": "Burak Varici, Emre Acarturk, Karthikeyan Shanmugam, Abhishek Kumar,\n  Ali Tajer",
+          "link": "http://arxiv.org/abs/2301.08230",
+          "publishedOn": "2023-01-20T07:14:48.286Z",
+          "wordCount": 653,
+          "title": "Score-based Causal Representation Learning with Interventions",
+          "imageUrl": null
+        },
+        {
+          "id": "http://arxiv.org/abs/2206.12532",
+          "author": null,
+          "description": "Carlos Fern\\'andez-Lor\\'ia, Jorge Lor\\'ia",
+          "link": "http://arxiv.org/abs/2206.12532",
+          "publishedOn": "2023-01-20T07:14:48.281Z",
+          "wordCount": 672,
+          "title": "Learning to Rank by Causal Effects Without Data to Accurately Estimate\n  Causal Effects",
+          "imageUrl": null
+        },
+        {
+          "id": "http://arxiv.org/abs/2301.08210",
+          "author": null,
+          "description": "Petar Veli\\v{c}kovi\\'c",
+          "link": "http://arxiv.org/abs/2301.08210",
+          "publishedOn": "2023-01-20T07:14:48.240Z",
+          "wordCount": 620,
+          "title": "Everything is Connected: Graph Neural Networks",
+          "imageUrl": null
+        },
+        {
+          "id": "http://arxiv.org/abs/2301.07733",
+          "author": null,
+          "description": "Aaron Defazio, Konstantin Mishchenko",
+          "link": "http://arxiv.org/abs/2301.07733",
+          "publishedOn": "2023-01-20T07:14:48.231Z",
+          "wordCount": 600,
+          "title": "Learning-Rate-Free Learning by D-Adaptation",
+          "imageUrl": null
+        },
+        {
+          "id": "http://arxiv.org/abs/2209.00768",
+          "author": null,
+          "description": "Haimeng Zhao",
+          "link": "http://arxiv.org/abs/2209.00768",
+          "publishedOn": "2023-01-19T07:14:39.299Z",
+          "wordCount": 625,
+          "title": "Non-IID Quantum Federated Learning with One-shot Communication\n  Complexity",
+          "imageUrl": null
+        },
+        {
+          "id": "http://arxiv.org/abs/2301.06701",
+          "author": null,
+          "description": "Kazuma Kobayashi, James Daniell, Syed B. Alam",
+          "link": "http://arxiv.org/abs/2301.06701",
+          "publishedOn": "2023-01-19T07:14:39.274Z",
+          "wordCount": 630,
+          "title": "Operator Learning Framework for Digital Twin and Complex Engineering\n  Systems",
+          "imageUrl": null
+        },
+        {
+          "id": "http://arxiv.org/abs/1909.12488",
+          "author": null,
+          "description": "Yihan Jiang, Jakub Kone\\v{c}n\\'y, Keith Rush, Sreeram Kannan",
+          "link": "http://arxiv.org/abs/1909.12488",
+          "publishedOn": "2023-01-19T07:14:39.253Z",
+          "wordCount": 686,
+          "title": "Improving Federated Learning Personalization via Model Agnostic Meta\n  Learning",
+          "imageUrl": null
+        },
+        {
+          "id": "http://arxiv.org/abs/2211.07533",
+          "author": null,
+          "description": "Yoshiaki Kitazawa",
+          "link": "http://arxiv.org/abs/2211.07533",
+          "publishedOn": "2023-01-19T07:14:39.225Z",
+          "wordCount": 603,
+          "title": "Generalized Balancing Weights via Deep Neural Networks",
+          "imageUrl": null
+        },
+        {
+          "id": "http://arxiv.org/abs/2301.07104",
+          "author": null,
+          "description": "Paolo Braca, Leonardo M. Millefiori, Augusto Aubry, Antonio De Maio,\n  Peter Willett",
+          "link": "http://arxiv.org/abs/2301.07104",
+          "publishedOn": "2023-01-19T07:14:39.193Z",
+          "wordCount": 604,
+          "title": "Large Deviations for Classification Performance Analysis of Machine\n  Learning Systems",
+          "imageUrl": null
+        },
+        {
+          "id": "http://arxiv.org/abs/1906.04893",
+          "author": null,
+          "description": "Mahyar Fazlyab, Alexander Robey, Hamed Hassani, Manfred Morari, George\n  J. Pappas",
+          "link": "http://arxiv.org/abs/1906.04893",
+          "publishedOn": "2023-01-18T07:14:58.343Z",
+          "wordCount": 719,
+          "title": "Efficient and Accurate Estimation of Lipschitz Constants for Deep Neural\n  Networks",
+          "imageUrl": null
+        },
+        {
+          "id": "http://arxiv.org/abs/2110.13330",
+          "author": null,
+          "description": "Chandrajit Bajaj, Luke McLennan, Timothy Andeen, Avik Roy",
+          "link": "http://arxiv.org/abs/2110.13330",
+          "publishedOn": "2023-01-18T07:14:58.324Z",
+          "wordCount": 682,
+          "title": "Recipes for when Physics Fails: Recovering Robust Learning of Physics\n  Informed Neural Networks",
+          "imageUrl": null
+        },
+        {
+          "id": "http://arxiv.org/abs/2209.00735",
+          "author": null,
+          "description": "Surbhi Goel, Sham Kakade, Adam Tauman Kalai, Cyril Zhang",
+          "link": "http://arxiv.org/abs/2209.00735",
+          "publishedOn": "2023-01-18T07:14:58.308Z",
+          "wordCount": 622,
+          "title": "Recurrent Convolutional Neural Networks Learn Succinct Learning\n  Algorithms",
+          "imageUrl": null
+        },
+        {
+          "id": "http://arxiv.org/abs/2301.07067",
+          "author": null,
+          "description": "Yingcong Li, M. Emrullah Ildiz, Dimitris Papailiopoulos, Samet Oymak",
+          "link": "http://arxiv.org/abs/2301.07067",
+          "publishedOn": "2023-01-18T07:14:58.200Z",
+          "wordCount": 668,
+          "title": "Transformers as Algorithms: Generalization and Implicit Model Selection\n  in In-context Learning",
+          "imageUrl": null
+        },
+        {
+          "id": "http://arxiv.org/abs/2212.13621",
+          "author": null,
+          "description": "Erdong Guo, David Draper, Maria De Iorio",
+          "link": "http://arxiv.org/abs/2212.13621",
+          "publishedOn": "2023-01-18T07:14:58.192Z",
+          "wordCount": 686,
+          "title": "Annealing Double-Head: An Architecture for Online Calibration of Deep\n  Neural Networks",
+          "imageUrl": null
+        },
+        {
+          "id": "http://arxiv.org/abs/2104.13894",
+          "author": null,
+          "description": "Abiy Tasissa, Pranay Tankala, Demba Ba",
+          "link": "http://arxiv.org/abs/2104.13894",
+          "publishedOn": "2023-01-17T07:14:35.264Z",
+          "wordCount": 601,
+          "title": "Weighed $\\ell_1$ on the simplex: Compressive sensing meets locality",
+          "imageUrl": null
+        },
+        {
+          "id": "http://arxiv.org/abs/2210.00688",
+          "author": null,
+          "description": "Soufiane Hayou",
+          "link": "http://arxiv.org/abs/2210.00688",
+          "publishedOn": "2023-01-16T07:15:13.039Z",
+          "wordCount": 589,
+          "title": "On the infinite-depth limit of finite-width neural networks",
+          "imageUrl": null
+        },
+        {
+          "id": "http://arxiv.org/abs/2301.05490",
+          "author": null,
+          "description": "Aleksandr Rubashevskii, Daria Kotova, Maxim Panov",
+          "link": "http://arxiv.org/abs/2301.05490",
+          "publishedOn": "2023-01-16T07:15:13.013Z",
+          "wordCount": 587,
+          "title": "Scalable Batch Acquisition for Deep Bayesian Active Learning",
+          "imageUrl": null
+        },
+        {
+          "id": "http://arxiv.org/abs/2301.05567",
+          "author": null,
+          "description": "Sergei Manzhos, Manabu Ihara",
+          "link": "http://arxiv.org/abs/2301.05567",
+          "publishedOn": "2023-01-16T07:15:12.988Z",
+          "wordCount": 620,
+          "title": "Neural network with optimal neuron activation functions based on\n  additive Gaussian process regression",
+          "imageUrl": null
+        },
+        {
+          "id": "http://arxiv.org/abs/2211.01873",
+          "author": null,
+          "description": "Quercus Hern\\'andez, Alberto Bad\\'ias, Francisco Chinesta, El\\'ias\n  Cueto",
+          "link": "http://arxiv.org/abs/2211.01873",
+          "publishedOn": "2023-01-16T07:15:12.888Z",
+          "wordCount": 588,
+          "title": "Port-metriplectic neural networks: thermodynamics-informed machine\n  learning of complex physical systems",
+          "imageUrl": null
+        },
+        {
+          "id": "http://arxiv.org/abs/2212.12018",
+          "author": null,
+          "description": "Pierre Bras, Gilles Pag\\`es",
+          "link": "http://arxiv.org/abs/2212.12018",
+          "publishedOn": "2023-01-16T07:15:12.831Z",
+          "wordCount": 588,
+          "title": "Langevin algorithms for Markovian Neural Networks and Deep Stochastic\n  control",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "title": "Off the convex path",
+      "feedUrl": "http://www.offconvex.org/feed.xml",
+      "siteUrl": "http://offconvex.github.io/",
+      "articles": []
+    },
+    {
+      "title": "Free Mind",
+      "feedUrl": "https://freemind.pluskid.org/rss.xml",
+      "siteUrl": "http://freemind.pluskid.org",
+      "articles": [
+        {
+          "id": "http://freemind.pluskid.org/books/reportage-illustration-and-travel-sketch",
+          "author": null,
+          "description": "A pen and pencil and paper is nothing if you have nothing to say.\nOtherwise do pretty watercolors and forget it.\n《Reportage\nIllustration: Visual Journalism》是一本介绍 Reportage Illustration\n的书，Reportage Illustration\n按照字面意思翻译大概应该叫做“新闻插画”，但也许称作“新闻速写”更恰当一些，它可以归类到\nVisual\nJournalism\n下面，基本上是指新闻或者艺术工作人员通过现场作画和记录来报道某一个具体的事件。我最初了解到这本书以及这个行业是在公司的艺术兴趣班的一个叫做\nVisual Journalism\n的课上，老师带着大家一起去各种不同的场所，例如音乐会、咖啡店的脱口秀表演、户外甚至是一起观看某个著名的视频演讲等，然后让大家通过速写和文字结合的方式对现场体验进行描绘和记录，关键并不是要画出多么漂亮的画，而是要通过速写的方式记录下当时的氛围、声音、色彩、对话、天气等各种感官体验。\n整体而言还挺好玩的，虽然和照片甚至录音录像相比通过速写能记录下来的信息量极少，但正因为能记录的内容有限，我们需要舍弃大量东西，反而导致我们记录中的内容是在现场令我们印象最深刻的体验（当然要做好这一点也是需要经过许多训练的）。所以再回去看自己当时的涂鸦时可能更容易重现现场的感触和记忆。然而这针对“个人”而言很合理，但是如果读者不是未来的自己，而是作为真正的新闻报道那样的形式给呈现给他人的话，看到杂乱的涂鸦和速记时能够重现的氛围体验有多少就很难讲了。所以我读这本书的一个疑问其实是这个行业究竟是如何存在的。\nThe Times for the 2012 London\nOlympics.\n\n\n\n…",
+          "link": "http://freemind.pluskid.org/books/reportage-illustration-and-travel-sketch",
+          "publishedOn": "2023-02-11T00:00:00.000Z",
+          "wordCount": 483,
+          "title": "Reportage Illustration and Travel Sketch",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "title": "Combinatorics and more",
+      "feedUrl": "https://gilkalai.wordpress.com/feed/",
+      "siteUrl": "https://gilkalai.wordpress.com",
+      "articles": [
+        {
+          "id": "http://gilkalai.wordpress.com/2023/01/24/the-trifference-problem/",
+          "author": "Gil Kalai",
+          "description": "Originally posted on Anurag's Math Blog: \nWhat is the largest possible size of a set of ternary strings of length , with the property that for any three distinct strings in , there is a position where they all…",
+          "link": "https://gilkalai.wordpress.com/2023/01/24/the-trifference-problem/",
+          "publishedOn": "2023-01-23T22:20:42.000Z",
+          "wordCount": 3050,
+          "title": "The Trifference Problem",
+          "imageUrl": "https://s0.wp.com/i/blank.jpg"
+        }
+      ]
+    },
+    {
+      "title": "Parsiad Azimzadeh",
+      "feedUrl": "http://parsiad.ca/feed.xml",
+      "siteUrl": "https://parsiad.ca/",
+      "articles": []
+    },
+    {
+      "title": "Windows On Theory",
+      "feedUrl": "https://windowsontheory.org/feed/",
+      "siteUrl": "https://windowsontheory.org",
+      "articles": [
+        {
+          "id": "http://windowsontheory.org/?p=8517",
+          "author": "Boaz Barak",
+          "description": "Related to my last post on the FOCS 2023 conjectures track, the chairs now put together an FAQ about it. ACM SIGACT is soliciting nominations for several prizes: Knuth Prize by February 15, Distinguished service award by March 1, and Gödel prize by March 31. NSF is looking for a Program Director for the Algorithmic … Continue reading Theory announcements: Prizes, CFP, and more",
+          "link": "https://windowsontheory.org/2023/01/27/theory-announcements-prizes-cfp-and-more/",
+          "publishedOn": "2023-01-27T17:41:06.000Z",
+          "wordCount": 2962,
+          "title": "Theory announcements: Prizes, CFP, and more",
+          "imageUrl": "https://s0.wp.com/i/blank.jpg"
+        },
+        {
+          "id": "http://windowsontheory.org/?p=8515",
+          "author": "Boaz Barak",
+          "description": "This year, FOCS 2023 will include something new: a Conjectures Track, separate from the Main Track. Submissions to the Main Track will be evaluated along similar lines as STOC/FOCS papers typically are, aiming to accept papers that obtain the very best results across all fields of theoretical computer science. Submissions to the new Conjectures Track … Continue reading New in FOCS 2023: A conjectures track",
+          "link": "https://windowsontheory.org/2023/01/16/new-in-focs-2023-a-conjectures-track/",
+          "publishedOn": "2023-01-16T22:30:27.000Z",
+          "wordCount": 2887,
+          "title": "New in FOCS 2023: A conjectures track",
+          "imageUrl": "https://s0.wp.com/i/blank.jpg"
+        }
+      ]
+    },
+    {
+      "title": "UCSD Machine Learning Group",
+      "feedUrl": "https://ucsdml.github.io//feed.xml",
+      "siteUrl": "https://ucsdml.github.io//",
+      "articles": []
+    },
+    {
+      "title": "科学空间|Scientific Spaces",
+      "feedUrl": "https://kexue.fm/feed/",
+      "siteUrl": "https://kexue.fm/",
+      "articles": [
+        {
+          "id": "https://kexue.fm/archives/9461",
+          "author": "苏剑林",
+          "description": "在文章《生成扩散模型漫谈（六）：一般框架之ODE篇》中，我们推导了SDE的Fokker-Planck方程；而在《生成扩散模型漫谈（十二）：“硬刚”扩散ODE》中，我们单独推导了ODE的连续性方程...",
+          "link": "https://kexue.fm/archives/9461",
+          "publishedOn": "2023-02-11T11:09:00.000Z",
+          "wordCount": 1656,
+          "title": "测试函数法推导连续性方程和Fokker-Planck方程",
+          "imageUrl": null
+        },
+        {
+          "id": "https://kexue.fm/archives/9444",
+          "author": "苏剑林",
+          "description": "上一篇文章《Transformer升级之路：7、长度外推性与局部注意力》我们讨论了Transformer的长度外推性，得出的结论是长度外推性是一个训练和预测的不一致问题，而解决这个不一致的主要思...",
+          "link": "https://kexue.fm/archives/9444",
+          "publishedOn": "2023-01-31T13:18:00.000Z",
+          "wordCount": 1594,
+          "title": "Transformer升级之路：8、长度外推性与位置鲁棒性",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "title": "Decent Descent",
+      "feedUrl": "https://decentdescent.org/feed.xml",
+      "siteUrl": "https://decentdescent.org/",
+      "articles": []
+    },
+    {
+      "title": "Harvard ML Foundations",
+      "feedUrl": "https://mlfoundations.org/index.xml",
+      "siteUrl": "https://mlfoundations.org/",
+      "articles": [
+        {
+          "id": "https://mlfoundations.org/talk/grosse/",
+          "author": null,
+          "description": "How can we trace surprising behaviors of machine learning models back to their training data? Influence functions aim to predict how the trained model would change if a specific training example were added to the training set. I'll address two issues that have blocked their applicability to large-scale neural nets: apparent inaccuracy of the results, and the difficulty of computing inverse-Hessian-vector products. Towards the former issue, I'll reformulate the goals of influence estimation in a way that applies to overparameterized, incompletely trained models, and argue that the apparent inaccuracy was largely illusory. I'll then discuss an approach to scaling influence estimation to large language models and show some resulting insights into their patterns of generalization.",
+          "link": "https://mlfoundations.org/talk/grosse/",
+          "publishedOn": "2023-02-10T14:00:00.000Z",
+          "wordCount": 181,
+          "title": "Roger Grosse - Studying Neural Net Generalization through Influence Functions",
+          "imageUrl": "https://mlfoundations.org/img/icon-192.png"
+        },
+        {
+          "id": "https://mlfoundations.org/talk/wyart/",
+          "author": null,
+          "description": "Deep learning algorithms are responsible for a technological revolution in a variety of tasks, yet understanding why they work remains a challenge.  A particularly puzzling fact is their ability to learn high-dimensional tasks. Due to the curse of dimensionality (the fact that accurate sampling cannot be achieved in high dimension), this should be generically impossible.  Learnable tasks (such as classifying images) must present a lot of structure, whose nature is debated. I will discuss three properties of data plausibly connected to their learnability: locality, sparsity, and their hierarchical/combinatorial aspect, both from  empirical and simple model viewpoints. I will discuss the importance of distinguishing  different training regimes, when a representation of the data is learnt, or not.",
+          "link": "https://mlfoundations.org/talk/wyart/",
+          "publishedOn": "2023-02-03T14:00:00.000Z",
+          "wordCount": 186,
+          "title": "Matthieu Wyart - Data structure and curse of dimensionality in deep learning",
+          "imageUrl": "https://mlfoundations.org/img/icon-192.png"
+        }
+      ]
+    }
+  ],
+  "cliVersion": "1.15.1"
+}

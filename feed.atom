@@ -1,0 +1,1144 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://Furyton.github.io/misc-feed/index.html</id>
+    <title>osmos::feed</title>
+    <updated>2023-02-14T01:25:26.807Z</updated>
+    <generator>osmosfeed 1.15.1</generator>
+    <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
+    <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[High-Resolution Peak Demand Estimation Using Generalized Additive Models
+  and Deep Neural Networks]]></title>
+        <id>http://arxiv.org/abs/2203.03342</id>
+        <link href="http://arxiv.org/abs/2203.03342"/>
+        <updated>2023-02-13T07:15:35.979Z</updated>
+        <summary type="html"><![CDATA[Jonathan Berrisch, Micha{\l} Narajewski, Florian Ziel]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MoreauGrad: Sparse and Robust Interpretation of Neural Networks via
+  Moreau Envelope]]></title>
+        <id>http://arxiv.org/abs/2302.05294</id>
+        <link href="http://arxiv.org/abs/2302.05294"/>
+        <updated>2023-02-13T07:15:35.565Z</updated>
+        <summary type="html"><![CDATA[Jingwei Zhang, Farzan Farnia]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Interventional Causal Representation Learning]]></title>
+        <id>http://arxiv.org/abs/2209.11924</id>
+        <link href="http://arxiv.org/abs/2209.11924"/>
+        <updated>2023-02-13T07:15:35.551Z</updated>
+        <summary type="html"><![CDATA[Kartik Ahuja, Divyat Mahajan, Yixin Wang, Yoshua Bengio]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DNArch: Learning Convolutional Neural Architectures by Backpropagation]]></title>
+        <id>http://arxiv.org/abs/2302.05400</id>
+        <link href="http://arxiv.org/abs/2302.05400"/>
+        <updated>2023-02-13T07:15:35.538Z</updated>
+        <summary type="html"><![CDATA[David W. Romero, Neil Zeghidour]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[测试函数法推导连续性方程和Fokker-Planck方程]]></title>
+        <id>https://kexue.fm/archives/9461</id>
+        <link href="https://kexue.fm/archives/9461"/>
+        <updated>2023-02-11T11:09:00.000Z</updated>
+        <summary type="html"><![CDATA[在文章《生成扩散模型漫谈（六）：一般框架之ODE篇》中，我们推导了SDE的Fokker-Planck方程；而在《生成扩散模型漫谈（十二）：“硬刚”扩散ODE》中，我们单独推导了ODE的连续性方程...]]></summary>
+        <author>
+            <name>苏剑林</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Reportage Illustration and Travel Sketch]]></title>
+        <id>http://freemind.pluskid.org/books/reportage-illustration-and-travel-sketch</id>
+        <link href="http://freemind.pluskid.org/books/reportage-illustration-and-travel-sketch"/>
+        <updated>2023-02-11T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A pen and pencil and paper is nothing if you have nothing to say.
+Otherwise do pretty watercolors and forget it.
+《Reportage
+Illustration: Visual Journalism》是一本介绍 Reportage Illustration
+的书，Reportage Illustration
+按照字面意思翻译大概应该叫做“新闻插画”，但也许称作“新闻速写”更恰当一些，它可以归类到
+Visual
+Journalism
+下面，基本上是指新闻或者艺术工作人员通过现场作画和记录来报道某一个具体的事件。我最初了解到这本书以及这个行业是在公司的艺术兴趣班的一个叫做
+Visual Journalism
+的课上，老师带着大家一起去各种不同的场所，例如音乐会、咖啡店的脱口秀表演、户外甚至是一起观看某个著名的视频演讲等，然后让大家通过速写和文字结合的方式对现场体验进行描绘和记录，关键并不是要画出多么漂亮的画，而是要通过速写的方式记录下当时的氛围、声音、色彩、对话、天气等各种感官体验。
+整体而言还挺好玩的，虽然和照片甚至录音录像相比通过速写能记录下来的信息量极少，但正因为能记录的内容有限，我们需要舍弃大量东西，反而导致我们记录中的内容是在现场令我们印象最深刻的体验（当然要做好这一点也是需要经过许多训练的）。所以再回去看自己当时的涂鸦时可能更容易重现现场的感触和记忆。然而这针对“个人”而言很合理，但是如果读者不是未来的自己，而是作为真正的新闻报道那样的形式给呈现给他人的话，看到杂乱的涂鸦和速记时能够重现的氛围体验有多少就很难讲了。所以我读这本书的一个疑问其实是这个行业究竟是如何存在的。
+The Times for the 2012 London
+Olympics.
+
+
+
+…]]></summary>
+        <author>
+            <name>Free Mind</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Roger Grosse - Studying Neural Net Generalization through Influence Functions]]></title>
+        <id>https://mlfoundations.org/talk/grosse/</id>
+        <link href="https://mlfoundations.org/talk/grosse/"/>
+        <updated>2023-02-10T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[How can we trace surprising behaviors of machine learning models back to their training data? Influence functions aim to predict how the trained model would change if a specific training example were added to the training set. I'll address two issues that have blocked their applicability to large-scale neural nets: apparent inaccuracy of the results, and the difficulty of computing inverse-Hessian-vector products. Towards the former issue, I'll reformulate the goals of influence estimation in a way that applies to overparameterized, incompletely trained models, and argue that the apparent inaccuracy was largely illusory. I'll then discuss an approach to scaling influence estimation to large language models and show some resulting insights into their patterns of generalization.]]></summary>
+        <author>
+            <name>Harvard ML Foundations</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Generalization in Graph Neural Networks: Improved PAC-Bayesian Bounds on
+  Graph Diffusion]]></title>
+        <id>http://arxiv.org/abs/2302.04451</id>
+        <link href="http://arxiv.org/abs/2302.04451"/>
+        <updated>2023-02-10T07:15:38.755Z</updated>
+        <summary type="html"><![CDATA[Haotian Ju, Dongyue Li, Aneesh Sharma, Hongyang R. Zhang]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Discovering the Compositional Structure of Vector Representations with
+  Role Learning Networks]]></title>
+        <id>http://arxiv.org/abs/1910.09113</id>
+        <link href="http://arxiv.org/abs/1910.09113"/>
+        <updated>2023-02-10T07:15:38.665Z</updated>
+        <summary type="html"><![CDATA[Paul Soulos, Tom McCoy, Tal Linzen, Paul Smolensky]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Meta-ticket: Finding optimal subnetworks for few-shot learning within
+  randomly initialized neural networks]]></title>
+        <id>http://arxiv.org/abs/2205.15619</id>
+        <link href="http://arxiv.org/abs/2205.15619"/>
+        <updated>2023-02-10T07:15:38.657Z</updated>
+        <summary type="html"><![CDATA[Daiki Chijiwa, Shin'ya Yamaguchi, Atsutoshi Kumagai, Yasutoshi Ida]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Benchmark on Uncertainty Quantification for Deep Learning Prognostics]]></title>
+        <id>http://arxiv.org/abs/2302.04730</id>
+        <link href="http://arxiv.org/abs/2302.04730"/>
+        <updated>2023-02-10T07:15:38.647Z</updated>
+        <summary type="html"><![CDATA[Luis Basora, Arthur Viens, Manuel Arias Chao, Xavier Olive]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Modern Mathematics of Deep Learning]]></title>
+        <id>http://arxiv.org/abs/2105.04026</id>
+        <link href="http://arxiv.org/abs/2105.04026"/>
+        <updated>2023-02-09T07:15:17.534Z</updated>
+        <summary type="html"><![CDATA[Julius Berner, Philipp Grohs, Gitta Kutyniok, Philipp Petersen]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Boundary Graph Neural Networks for 3D Simulations]]></title>
+        <id>http://arxiv.org/abs/2106.11299</id>
+        <link href="http://arxiv.org/abs/2106.11299"/>
+        <updated>2023-02-09T07:15:17.420Z</updated>
+        <summary type="html"><![CDATA[Andreas Mayr, Sebastian Lehner, Arno Mayrhofer, Christoph Kloss, Sepp
+  Hochreiter, Johannes Brandstetter]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fortuna: A Library for Uncertainty Quantification in Deep Learning]]></title>
+        <id>http://arxiv.org/abs/2302.04019</id>
+        <link href="http://arxiv.org/abs/2302.04019"/>
+        <updated>2023-02-09T07:15:17.394Z</updated>
+        <summary type="html"><![CDATA[Gianluca Detommaso, Alberto Gasparin, Michele Donini, Matthias Seeger,
+  Andrew Gordon Wilson, Cedric Archambeau]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TVAE: Triplet-Based Variational Autoencoder using Metric Learning]]></title>
+        <id>http://arxiv.org/abs/1802.04403</id>
+        <link href="http://arxiv.org/abs/1802.04403"/>
+        <updated>2023-02-09T07:15:17.315Z</updated>
+        <summary type="html"><![CDATA[Haque Ishfaq, Assaf Hoogi, Daniel Rubin]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Towards Inferential Reproducibility of Machine Learning Research]]></title>
+        <id>http://arxiv.org/abs/2302.04054</id>
+        <link href="http://arxiv.org/abs/2302.04054"/>
+        <updated>2023-02-09T07:15:17.308Z</updated>
+        <summary type="html"><![CDATA[Michael Hagmann, Stefan Riezler]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Evaluating Self-Supervised Learning via Risk Decomposition]]></title>
+        <id>http://arxiv.org/abs/2302.03068</id>
+        <link href="http://arxiv.org/abs/2302.03068"/>
+        <updated>2023-02-08T07:15:18.338Z</updated>
+        <summary type="html"><![CDATA[Yann Dubois, Tatsunori Hashimoto, Percy Liang]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Deep-OSG: A deep learning approach for approximating a family of
+  operators in semigroup to model unknown autonomous systems]]></title>
+        <id>http://arxiv.org/abs/2302.03358</id>
+        <link href="http://arxiv.org/abs/2302.03358"/>
+        <updated>2023-02-08T07:15:18.328Z</updated>
+        <summary type="html"><![CDATA[Junfeng Chen, Kailiang Wu]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[On the relationship between multivariate splines and infinitely-wide
+  neural networks]]></title>
+        <id>http://arxiv.org/abs/2302.03459</id>
+        <link href="http://arxiv.org/abs/2302.03459"/>
+        <updated>2023-02-08T07:15:18.317Z</updated>
+        <summary type="html"><![CDATA[Francis Bach (SIERRA)]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Memory-Based Meta-Learning on Non-Stationary Distributions]]></title>
+        <id>http://arxiv.org/abs/2302.03067</id>
+        <link href="http://arxiv.org/abs/2302.03067"/>
+        <updated>2023-02-08T07:15:18.168Z</updated>
+        <summary type="html"><![CDATA[Tim Genewein, Gr\'egoire Del\'etang, Anian Ruoss, Li Kevin Wenliang,
+  Elliot Catt, Vincent Dutordoir, Jordi Grau-Moya, Laurent Orseau, Marcus
+  Hutter, Joel Veness]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Deep Linear Networks can Benignly Overfit when Shallow Ones Do]]></title>
+        <id>http://arxiv.org/abs/2209.09315</id>
+        <link href="http://arxiv.org/abs/2209.09315"/>
+        <updated>2023-02-08T07:15:18.156Z</updated>
+        <summary type="html"><![CDATA[Niladri S. Chatterji, Philip M. Long]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pre-screening breast cancer with machine learning and deep learning]]></title>
+        <id>http://arxiv.org/abs/2302.02406</id>
+        <link href="http://arxiv.org/abs/2302.02406"/>
+        <updated>2023-02-07T07:14:35.000Z</updated>
+        <summary type="html"><![CDATA[Rolando Gonzales Martinez, Daan-Max van Dongen]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[On a continuous time model of gradient descent dynamics and instability
+  in deep learning]]></title>
+        <id>http://arxiv.org/abs/2302.01952</id>
+        <link href="http://arxiv.org/abs/2302.01952"/>
+        <updated>2023-02-07T07:14:34.986Z</updated>
+        <summary type="html"><![CDATA[Mihaela Rosca, Yan Wu, Chongli Qin, Benoit Dherin]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Robust Fine-Tuning of Deep Neural Networks with Hessian-based
+  Generalization Guarantees]]></title>
+        <id>http://arxiv.org/abs/2206.02659</id>
+        <link href="http://arxiv.org/abs/2206.02659"/>
+        <updated>2023-02-07T07:14:34.944Z</updated>
+        <summary type="html"><![CDATA[Haotian Ju, Dongyue Li, Hongyang R. Zhang]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learning Variational Models with Unrolling and Bilevel Optimization]]></title>
+        <id>http://arxiv.org/abs/2209.12651</id>
+        <link href="http://arxiv.org/abs/2209.12651"/>
+        <updated>2023-02-07T07:14:34.934Z</updated>
+        <summary type="html"><![CDATA[Christoph Brauer, Niklas Breustedt, Timo de Wolff, Dirk A. Lorenz]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Consistent Range Approximation for Fair Predictive Modeling]]></title>
+        <id>http://arxiv.org/abs/2212.10839</id>
+        <link href="http://arxiv.org/abs/2212.10839"/>
+        <updated>2023-02-06T07:14:56.460Z</updated>
+        <summary type="html"><![CDATA[Jiongli Zhu, Sainyam Galhotra, Nazanin Sabri, Babak Salimi]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Using Explainability to Inform Statistical Downscaling Based on Deep
+  Learning Beyond Standard Validation Approaches]]></title>
+        <id>http://arxiv.org/abs/2302.01771</id>
+        <link href="http://arxiv.org/abs/2302.01771"/>
+        <updated>2023-02-06T07:14:56.443Z</updated>
+        <summary type="html"><![CDATA[Jose Gonz\'alez-Abad, Jorge Ba\~no-Medina, Jos\'e Manuel Guti\'errez]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Data Representativity for Machine Learning and AI Systems]]></title>
+        <id>http://arxiv.org/abs/2203.04706</id>
+        <link href="http://arxiv.org/abs/2203.04706"/>
+        <updated>2023-02-06T07:14:56.424Z</updated>
+        <summary type="html"><![CDATA[Line H. Clemmensen, Rune D. Kj{\ae}rsgaard]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hypothesis Testing and Machine Learning: Interpreting Variable Effects
+  in Deep Artificial Neural Networks using Cohen's f2]]></title>
+        <id>http://arxiv.org/abs/2302.01407</id>
+        <link href="http://arxiv.org/abs/2302.01407"/>
+        <updated>2023-02-06T07:14:56.419Z</updated>
+        <summary type="html"><![CDATA[Wolfgang Messner]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Matthieu Wyart - Data structure and curse of dimensionality in deep learning]]></title>
+        <id>https://mlfoundations.org/talk/wyart/</id>
+        <link href="https://mlfoundations.org/talk/wyart/"/>
+        <updated>2023-02-03T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Deep learning algorithms are responsible for a technological revolution in a variety of tasks, yet understanding why they work remains a challenge.  A particularly puzzling fact is their ability to learn high-dimensional tasks. Due to the curse of dimensionality (the fact that accurate sampling cannot be achieved in high dimension), this should be generically impossible.  Learnable tasks (such as classifying images) must present a lot of structure, whose nature is debated. I will discuss three properties of data plausibly connected to their learnability: locality, sparsity, and their hierarchical/combinatorial aspect, both from  empirical and simple model viewpoints. I will discuss the importance of distinguishing  different training regimes, when a representation of the data is learnt, or not.]]></summary>
+        <author>
+            <name>Harvard ML Foundations</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sample Complexity of Kernel-Based Q-Learning]]></title>
+        <id>http://arxiv.org/abs/2302.00727</id>
+        <link href="http://arxiv.org/abs/2302.00727"/>
+        <updated>2023-02-03T07:14:54.848Z</updated>
+        <summary type="html"><![CDATA[Sing-Yuan Yeh, Fu-Chieh Chang, Chang-Wei Yueh, Pei-Yuan Wu, Alberto
+  Bernacchia, Sattar Vakili]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sharp Lower Bounds on Interpolation by Deep ReLU Neural Networks at
+  Irregularly Spaced Data]]></title>
+        <id>http://arxiv.org/abs/2302.00834</id>
+        <link href="http://arxiv.org/abs/2302.00834"/>
+        <updated>2023-02-03T07:14:54.796Z</updated>
+        <summary type="html"><![CDATA[Jonathan W. Siegel]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lower Bounds for Learning in Revealing POMDPs]]></title>
+        <id>http://arxiv.org/abs/2302.01333</id>
+        <link href="http://arxiv.org/abs/2302.01333"/>
+        <updated>2023-02-03T07:14:54.790Z</updated>
+        <summary type="html"><![CDATA[Fan Chen, Huan Wang, Caiming Xiong, Song Mei, Yu Bai]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Large-scale Stochastic Optimization of NDCG Surrogates for Deep Learning
+  with Provable Convergence]]></title>
+        <id>http://arxiv.org/abs/2202.12183</id>
+        <link href="http://arxiv.org/abs/2202.12183"/>
+        <updated>2023-02-03T07:14:54.688Z</updated>
+        <summary type="html"><![CDATA[Zi-Hao Qiu, Quanqi Hu, Yongjian Zhong, Lijun Zhang, Tianbao Yang]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Over-parameterised Shallow Neural Networks with Asymmetrical Node
+  Scaling: Global Convergence Guarantees and Feature Learning]]></title>
+        <id>http://arxiv.org/abs/2302.01002</id>
+        <link href="http://arxiv.org/abs/2302.01002"/>
+        <updated>2023-02-03T07:14:54.681Z</updated>
+        <summary type="html"><![CDATA[Francois Caron, Fadhel Ayed, Paul Jung, Hoil Lee, Juho Lee, Hongseok
+  Yang]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Whats Missing? Learning Hidden Markov Models When the Locations of
+  Missing Observations are Unknown]]></title>
+        <id>http://arxiv.org/abs/2203.06527</id>
+        <link href="http://arxiv.org/abs/2203.06527"/>
+        <updated>2023-02-02T07:14:33.123Z</updated>
+        <summary type="html"><![CDATA[Binyamin Perets, Mark Kozdoba, Shie Mannor]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Optimal Learning of Deep Random Networks of Extensive-width]]></title>
+        <id>http://arxiv.org/abs/2302.00375</id>
+        <link href="http://arxiv.org/abs/2302.00375"/>
+        <updated>2023-02-02T07:14:32.995Z</updated>
+        <summary type="html"><![CDATA[Hugo Cui, Florent Krzakala, Lenka Zdeborov\'a]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gradient Descent in Neural Networks as Sequential Learning in RKBS]]></title>
+        <id>http://arxiv.org/abs/2302.00205</id>
+        <link href="http://arxiv.org/abs/2302.00205"/>
+        <updated>2023-02-02T07:14:32.969Z</updated>
+        <summary type="html"><![CDATA[Alistair Shilton, Sunil Gupta, Santu Rana, Svetha Venkatesh]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Quantum machine learning beyond kernel methods]]></title>
+        <id>http://arxiv.org/abs/2110.13162</id>
+        <link href="http://arxiv.org/abs/2110.13162"/>
+        <updated>2023-02-02T07:14:32.960Z</updated>
+        <summary type="html"><![CDATA[Sofiene Jerbi, Lukas J. Fiderer, Hendrik Poulsen Nautrup, Jonas M.
+  K\"ubler, Hans J. Briegel, Vedran Dunjko]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Deep learning for $\psi$-weakly dependent processes]]></title>
+        <id>http://arxiv.org/abs/2302.00333</id>
+        <link href="http://arxiv.org/abs/2302.00333"/>
+        <updated>2023-02-02T07:14:32.936Z</updated>
+        <summary type="html"><![CDATA[William Kengne, Wade Modou]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bayesian Learning for Neural Networks: an algorithmic survey]]></title>
+        <id>http://arxiv.org/abs/2211.11865</id>
+        <link href="http://arxiv.org/abs/2211.11865"/>
+        <updated>2023-02-01T07:15:14.907Z</updated>
+        <summary type="html"><![CDATA[Martin Magris, Alexandros Iosifidis]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Unified Causal View of Domain Invariant Representation Learning]]></title>
+        <id>http://arxiv.org/abs/2208.06987</id>
+        <link href="http://arxiv.org/abs/2208.06987"/>
+        <updated>2023-02-01T07:15:14.899Z</updated>
+        <summary type="html"><![CDATA[Zihao Wang, Victor Veitch]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[An $l_1$-oracle inequality for the Lasso in high-dimensional mixtures of
+  experts models]]></title>
+        <id>http://arxiv.org/abs/2009.10622</id>
+        <link href="http://arxiv.org/abs/2009.10622"/>
+        <updated>2023-02-01T07:15:14.893Z</updated>
+        <summary type="html"><![CDATA[TrungTin Nguyen, Hien D Nguyen, Faicel Chamroukhi, Geoffrey J
+  McLachlan]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learning in POMDPs is Sample-Efficient with Hindsight Observability]]></title>
+        <id>http://arxiv.org/abs/2301.13857</id>
+        <link href="http://arxiv.org/abs/2301.13857"/>
+        <updated>2023-02-01T07:15:14.883Z</updated>
+        <summary type="html"><![CDATA[Jonathan N. Lee, Alekh Agarwal, Christoph Dann, Tong Zhang]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Zero-shot-Learning Cross-Modality Data Translation Through Mutual
+  Information Guided Stochastic Diffusion]]></title>
+        <id>http://arxiv.org/abs/2301.13743</id>
+        <link href="http://arxiv.org/abs/2301.13743"/>
+        <updated>2023-02-01T07:15:14.766Z</updated>
+        <summary type="html"><![CDATA[Zihao Wang, Yingyu Yang, Maxime Sermesant, Herv\'e Delingette, Ona Wu]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Transformer升级之路：8、长度外推性与位置鲁棒性]]></title>
+        <id>https://kexue.fm/archives/9444</id>
+        <link href="https://kexue.fm/archives/9444"/>
+        <updated>2023-01-31T13:18:00.000Z</updated>
+        <summary type="html"><![CDATA[上一篇文章《Transformer升级之路：7、长度外推性与局部注意力》我们讨论了Transformer的长度外推性，得出的结论是长度外推性是一个训练和预测的不一致问题，而解决这个不一致的主要思...]]></summary>
+        <author>
+            <name>苏剑林</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[On Learning Necessary and Sufficient Causal Graphs]]></title>
+        <id>http://arxiv.org/abs/2301.12389</id>
+        <link href="http://arxiv.org/abs/2301.12389"/>
+        <updated>2023-01-31T12:31:27.090Z</updated>
+        <summary type="html"><![CDATA[Hengrui Cai, Yixin Wang, Michael Jordan, Rui Song]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jump Interval-Learning for Individualized Decision Making]]></title>
+        <id>http://arxiv.org/abs/2111.08885</id>
+        <link href="http://arxiv.org/abs/2111.08885"/>
+        <updated>2023-01-31T12:31:27.078Z</updated>
+        <summary type="html"><![CDATA[Hengrui Cai, Chengchun Shi, Rui Song, Wenbin Lu]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SGD and Weight Decay Provably Induce a Low-Rank Bias in Neural Networks]]></title>
+        <id>http://arxiv.org/abs/2206.05794</id>
+        <link href="http://arxiv.org/abs/2206.05794"/>
+        <updated>2023-01-31T07:14:29.882Z</updated>
+        <summary type="html"><![CDATA[Tomer Galanti, Zachary S. Siegel, Aparna Gupte, Tomaso Poggio]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Doubly Robust Interval Estimation for Optimal Policy Evaluation in
+  Online Learning]]></title>
+        <id>http://arxiv.org/abs/2110.15501</id>
+        <link href="http://arxiv.org/abs/2110.15501"/>
+        <updated>2023-01-31T07:14:29.815Z</updated>
+        <summary type="html"><![CDATA[Ye Shen, Hengrui Cai, Rui Song]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Theoretical Perspectives on Deep Learning Methods in Inverse Problems]]></title>
+        <id>http://arxiv.org/abs/2206.14373</id>
+        <link href="http://arxiv.org/abs/2206.14373"/>
+        <updated>2023-01-31T07:14:29.774Z</updated>
+        <summary type="html"><![CDATA[Jonathan Scarlett, Reinhard Heckel, Miguel R. D. Rodrigues, Paul Hand,
+ , Yonina C. Eldar]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Alignment with human representations supports robust few-shot learning]]></title>
+        <id>http://arxiv.org/abs/2301.11990</id>
+        <link href="http://arxiv.org/abs/2301.11990"/>
+        <updated>2023-01-31T07:14:29.765Z</updated>
+        <summary type="html"><![CDATA[Ilia Sucholutsky, Thomas L. Griffiths]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Compression, Generalization and Learning]]></title>
+        <id>http://arxiv.org/abs/2301.12767</id>
+        <link href="http://arxiv.org/abs/2301.12767"/>
+        <updated>2023-01-31T07:14:29.748Z</updated>
+        <summary type="html"><![CDATA[Marco C. Campi, Simone Garatti]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Conformal inference is (almost) free for neural networks trained with
+  early stopping]]></title>
+        <id>http://arxiv.org/abs/2301.11556</id>
+        <link href="http://arxiv.org/abs/2301.11556"/>
+        <updated>2023-01-30T07:14:54.708Z</updated>
+        <summary type="html"><![CDATA[Ziyi Liang, Yanfei Zhou, Matteo Sesia]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Explaining Patterns in Data with Language Models via Interpretable
+  Autoprompting]]></title>
+        <id>http://arxiv.org/abs/2210.01848</id>
+        <link href="http://arxiv.org/abs/2210.01848"/>
+        <updated>2023-01-30T07:14:54.649Z</updated>
+        <summary type="html"><![CDATA[Chandan Singh, John X. Morris, Jyoti Aneja, Alexander M. Rush,
+  Jianfeng Gao]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Understanding Incremental Learning of Gradient Descent: A Fine-grained
+  Analysis of Matrix Sensing]]></title>
+        <id>http://arxiv.org/abs/2301.11500</id>
+        <link href="http://arxiv.org/abs/2301.11500"/>
+        <updated>2023-01-30T07:14:54.644Z</updated>
+        <summary type="html"><![CDATA[Jikai Jin, Zhiyuan Li, Kaifeng Lyu, Simon S. Du, Jason D.
+  Lee]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Myriad: a real-world testbed to bridge trajectory optimization and deep
+  learning]]></title>
+        <id>http://arxiv.org/abs/2202.10600</id>
+        <link href="http://arxiv.org/abs/2202.10600"/>
+        <updated>2023-01-30T07:14:54.629Z</updated>
+        <summary type="html"><![CDATA[Nikolaus H. R. Howe, Simon Dufort-Labb\'e, Nitarshan Rajkumar,
+  Pierre-Luc Bacon]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Deep Learning Method for Comparing Bayesian Hierarchical Models]]></title>
+        <id>http://arxiv.org/abs/2301.11873</id>
+        <link href="http://arxiv.org/abs/2301.11873"/>
+        <updated>2023-01-30T07:14:54.619Z</updated>
+        <summary type="html"><![CDATA[Lasse Elsem\"uller, Martin Schnuerch, Paul-Christian B\"urkner, Stefan
+  T. Radev]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Theory announcements: Prizes, CFP, and more]]></title>
+        <id>http://windowsontheory.org/?p=8517</id>
+        <link href="https://windowsontheory.org/2023/01/27/theory-announcements-prizes-cfp-and-more/"/>
+        <updated>2023-01-27T17:41:06.000Z</updated>
+        <summary type="html"><![CDATA[Related to my last post on the FOCS 2023 conjectures track, the chairs now put together an FAQ about it. ACM SIGACT is soliciting nominations for several prizes: Knuth Prize by February 15, Distinguished service award by March 1, and Gödel prize by March 31. NSF is looking for a Program Director for the Algorithmic … Continue reading Theory announcements: Prizes, CFP, and more]]></summary>
+        <author>
+            <name>Boaz Barak</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Neural Continuous-Discrete State Space Models for Irregularly-Sampled
+  Time Series]]></title>
+        <id>http://arxiv.org/abs/2301.11308</id>
+        <link href="http://arxiv.org/abs/2301.11308"/>
+        <updated>2023-01-27T09:15:42.478Z</updated>
+        <summary type="html"><![CDATA[Abdul Fatir Ansari, Alvin Heng, Andre Lim, Harold Soh]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Coin Sampling: Gradient-Based Bayesian Inference without Learning Rates]]></title>
+        <id>http://arxiv.org/abs/2301.11294</id>
+        <link href="http://arxiv.org/abs/2301.11294"/>
+        <updated>2023-01-27T07:14:33.579Z</updated>
+        <summary type="html"><![CDATA[Louis Sharrock, Christopher Nemeth]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Graph Neural Tangent Kernel: Convergence on Large Graphs]]></title>
+        <id>http://arxiv.org/abs/2301.10808</id>
+        <link href="http://arxiv.org/abs/2301.10808"/>
+        <updated>2023-01-27T07:14:33.564Z</updated>
+        <summary type="html"><![CDATA[Sanjukta Krishnagopal, Luana Ruiz]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Incorporating Prior Knowledge into Neural Networks through an Implicit
+  Composite Kernel]]></title>
+        <id>http://arxiv.org/abs/2205.07384</id>
+        <link href="http://arxiv.org/abs/2205.07384"/>
+        <updated>2023-01-27T07:14:33.522Z</updated>
+        <summary type="html"><![CDATA[Ziyang Jiang, Tongshu Zheng, Yiling Liu, David Carlson]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Principled Reinforcement Learning with Human Feedback from Pairwise or
+  $K$-wise Comparisons]]></title>
+        <id>http://arxiv.org/abs/2301.11270</id>
+        <link href="http://arxiv.org/abs/2301.11270"/>
+        <updated>2023-01-27T07:14:33.512Z</updated>
+        <summary type="html"><![CDATA[Banghua Zhu, Jiantao Jiao, Michael I. Jordan]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Neural Architecture Search: Insights from 1000 Papers]]></title>
+        <id>http://arxiv.org/abs/2301.08727</id>
+        <link href="http://arxiv.org/abs/2301.08727"/>
+        <updated>2023-01-26T07:15:18.401Z</updated>
+        <summary type="html"><![CDATA[Colin White, Mahmoud Safari, Rhea Sukthanker, Binxin Ru, Thomas
+  Elsken, Arber Zela, Debadeepta Dey, Frank Hutter]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Data-Driven Certification of Neural Networks with Random Input Noise]]></title>
+        <id>http://arxiv.org/abs/2010.01171</id>
+        <link href="http://arxiv.org/abs/2010.01171"/>
+        <updated>2023-01-26T07:15:18.327Z</updated>
+        <summary type="html"><![CDATA[Brendon G. Anderson, Somayeh Sojoudi]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learning Dynamical Systems from Data: A Simple Cross-Validation
+  Perspective, Part V: Sparse Kernel Flows for 132 Chaotic Dynamical Systems]]></title>
+        <id>http://arxiv.org/abs/2301.10321</id>
+        <link href="http://arxiv.org/abs/2301.10321"/>
+        <updated>2023-01-26T07:15:18.319Z</updated>
+        <summary type="html"><![CDATA[Lu Yang, Xiuwen Sun, Boumediene Hamzi, Houman Owhadi and
+  Naiming Xie]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Meta-Learning PAC-Bayes Priors in Model Averaging]]></title>
+        <id>http://arxiv.org/abs/1912.11252</id>
+        <link href="http://arxiv.org/abs/1912.11252"/>
+        <updated>2023-01-26T07:15:18.306Z</updated>
+        <summary type="html"><![CDATA[Yimin Huang, Weiran Huang, Liang Li, Zhenguo Li]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Signature Methods in Machine Learning]]></title>
+        <id>http://arxiv.org/abs/2206.14674</id>
+        <link href="http://arxiv.org/abs/2206.14674"/>
+        <updated>2023-01-26T07:15:18.283Z</updated>
+        <summary type="html"><![CDATA[Terry Lyons, Andrew D. McLeod]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Online PAC-Bayes Learning]]></title>
+        <id>http://arxiv.org/abs/2206.00024</id>
+        <link href="http://arxiv.org/abs/2206.00024"/>
+        <updated>2023-01-25T07:17:18.809Z</updated>
+        <summary type="html"><![CDATA[Maxime Haddouche, Benjamin Guedj]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Wholistic View of Continual Learning with Deep Neural Networks:
+  Forgotten Lessons and the Bridge to Active and Open World Learning]]></title>
+        <id>http://arxiv.org/abs/2009.01797</id>
+        <link href="http://arxiv.org/abs/2009.01797"/>
+        <updated>2023-01-25T07:17:18.800Z</updated>
+        <summary type="html"><![CDATA[Martin Mundt, Yongwon Hong, Iuliia Pliushch, Visvanathan Ramesh]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Proportional Fairness in Federated Learning]]></title>
+        <id>http://arxiv.org/abs/2202.01666</id>
+        <link href="http://arxiv.org/abs/2202.01666"/>
+        <updated>2023-01-25T07:17:18.791Z</updated>
+        <summary type="html"><![CDATA[Guojun Zhang, Saber Malekmohammadi, Xi Chen, Yaoliang Yu]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Incorporating functional summary information in Bayesian neural networks
+  using a Dirichlet process likelihood approach]]></title>
+        <id>http://arxiv.org/abs/2207.01234</id>
+        <link href="http://arxiv.org/abs/2207.01234"/>
+        <updated>2023-01-25T07:17:18.780Z</updated>
+        <summary type="html"><![CDATA[Vishnu Raj, Tianyu Cui, Markus Heinonen, Pekka Marttinen]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SpArX: Sparse Argumentative Explanations for Neural Networks]]></title>
+        <id>http://arxiv.org/abs/2301.09559</id>
+        <link href="http://arxiv.org/abs/2301.09559"/>
+        <updated>2023-01-24T07:14:13.408Z</updated>
+        <summary type="html"><![CDATA[Hamed Ayoobi, Nico Potyka, Francesca Toni]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lazy vs hasty: linearization in deep networks impacts learning schedule
+  based on example difficulty]]></title>
+        <id>http://arxiv.org/abs/2209.09658</id>
+        <link href="http://arxiv.org/abs/2209.09658"/>
+        <updated>2023-01-24T07:14:13.270Z</updated>
+        <summary type="html"><![CDATA[Thomas George, Guillaume Lajoie, Aristide Baratin]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Indirect Active Learning]]></title>
+        <id>http://arxiv.org/abs/2206.01454</id>
+        <link href="http://arxiv.org/abs/2206.01454"/>
+        <updated>2023-01-24T07:14:13.223Z</updated>
+        <summary type="html"><![CDATA[Shashank Singh]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Near-Minimax Optimal Estimation With Shallow ReLU Neural Networks]]></title>
+        <id>http://arxiv.org/abs/2109.08844</id>
+        <link href="http://arxiv.org/abs/2109.08844"/>
+        <updated>2023-01-24T07:14:13.213Z</updated>
+        <summary type="html"><![CDATA[Rahul Parhi, Robert D. Nowak]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pruning coupled with learning, ensembles of minimal neural networks, and
+  future of XAI]]></title>
+        <id>http://arxiv.org/abs/2005.06284</id>
+        <link href="http://arxiv.org/abs/2005.06284"/>
+        <updated>2023-01-24T07:14:13.206Z</updated>
+        <summary type="html"><![CDATA[Alexander N. Gorban, Evgeny M. Mirkes]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Trifference Problem]]></title>
+        <id>http://gilkalai.wordpress.com/2023/01/24/the-trifference-problem/</id>
+        <link href="https://gilkalai.wordpress.com/2023/01/24/the-trifference-problem/"/>
+        <updated>2023-01-23T22:20:42.000Z</updated>
+        <summary type="html"><![CDATA[Originally posted on Anurag's Math Blog: 
+What is the largest possible size of a set of ternary strings of length , with the property that for any three distinct strings in , there is a position where they all…]]></summary>
+        <author>
+            <name>Gil Kalai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Self-Supervised Learning for Data Scarcity in a Fatigue Damage
+  Prognostic Problem]]></title>
+        <id>http://arxiv.org/abs/2301.08441</id>
+        <link href="http://arxiv.org/abs/2301.08441"/>
+        <updated>2023-01-23T07:14:58.219Z</updated>
+        <summary type="html"><![CDATA[Anass Akrim, Christian Gogu, Rob Vingerhoeds, Michel Sala\"un]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learning from non-irreducible Markov chains]]></title>
+        <id>http://arxiv.org/abs/2110.04338</id>
+        <link href="http://arxiv.org/abs/2110.04338"/>
+        <updated>2023-01-23T07:14:58.200Z</updated>
+        <summary type="html"><![CDATA[Nikola Sandri\'c, Stjepan \v{S}ebek]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AdaEnsemble: Learning Adaptively Sparse Structured Ensemble Network for
+  Click-Through Rate Prediction]]></title>
+        <id>http://arxiv.org/abs/2301.08353</id>
+        <link href="http://arxiv.org/abs/2301.08353"/>
+        <updated>2023-01-23T07:14:58.165Z</updated>
+        <summary type="html"><![CDATA[YaChen Yan, Liubo Li]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Interpretability Study on Deep Learning for Jet Physics at the Large
+  Hadron Collider]]></title>
+        <id>http://arxiv.org/abs/1911.01872</id>
+        <link href="http://arxiv.org/abs/1911.01872"/>
+        <updated>2023-01-23T07:14:58.159Z</updated>
+        <summary type="html"><![CDATA[Taoli Cheng]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Global Nash Equilibrium in Non-convex Multi-player Game: Theory and
+  Algorithms]]></title>
+        <id>http://arxiv.org/abs/2301.08015</id>
+        <link href="http://arxiv.org/abs/2301.08015"/>
+        <updated>2023-01-20T10:18:18.550Z</updated>
+        <summary type="html"><![CDATA[Guanpu Chen, Gehui Xu, Fengxiang He, Yiguang Hong, Leszek Rutkowski,
+ , Dacheng Tao]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Score-based Causal Representation Learning with Interventions]]></title>
+        <id>http://arxiv.org/abs/2301.08230</id>
+        <link href="http://arxiv.org/abs/2301.08230"/>
+        <updated>2023-01-20T07:14:48.286Z</updated>
+        <summary type="html"><![CDATA[Burak Varici, Emre Acarturk, Karthikeyan Shanmugam, Abhishek Kumar,
+  Ali Tajer]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learning to Rank by Causal Effects Without Data to Accurately Estimate
+  Causal Effects]]></title>
+        <id>http://arxiv.org/abs/2206.12532</id>
+        <link href="http://arxiv.org/abs/2206.12532"/>
+        <updated>2023-01-20T07:14:48.281Z</updated>
+        <summary type="html"><![CDATA[Carlos Fern\'andez-Lor\'ia, Jorge Lor\'ia]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Everything is Connected: Graph Neural Networks]]></title>
+        <id>http://arxiv.org/abs/2301.08210</id>
+        <link href="http://arxiv.org/abs/2301.08210"/>
+        <updated>2023-01-20T07:14:48.240Z</updated>
+        <summary type="html"><![CDATA[Petar Veli\v{c}kovi\'c]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learning-Rate-Free Learning by D-Adaptation]]></title>
+        <id>http://arxiv.org/abs/2301.07733</id>
+        <link href="http://arxiv.org/abs/2301.07733"/>
+        <updated>2023-01-20T07:14:48.231Z</updated>
+        <summary type="html"><![CDATA[Aaron Defazio, Konstantin Mishchenko]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Non-IID Quantum Federated Learning with One-shot Communication
+  Complexity]]></title>
+        <id>http://arxiv.org/abs/2209.00768</id>
+        <link href="http://arxiv.org/abs/2209.00768"/>
+        <updated>2023-01-19T07:14:39.299Z</updated>
+        <summary type="html"><![CDATA[Haimeng Zhao]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Operator Learning Framework for Digital Twin and Complex Engineering
+  Systems]]></title>
+        <id>http://arxiv.org/abs/2301.06701</id>
+        <link href="http://arxiv.org/abs/2301.06701"/>
+        <updated>2023-01-19T07:14:39.274Z</updated>
+        <summary type="html"><![CDATA[Kazuma Kobayashi, James Daniell, Syed B. Alam]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Improving Federated Learning Personalization via Model Agnostic Meta
+  Learning]]></title>
+        <id>http://arxiv.org/abs/1909.12488</id>
+        <link href="http://arxiv.org/abs/1909.12488"/>
+        <updated>2023-01-19T07:14:39.253Z</updated>
+        <summary type="html"><![CDATA[Yihan Jiang, Jakub Kone\v{c}n\'y, Keith Rush, Sreeram Kannan]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Generalized Balancing Weights via Deep Neural Networks]]></title>
+        <id>http://arxiv.org/abs/2211.07533</id>
+        <link href="http://arxiv.org/abs/2211.07533"/>
+        <updated>2023-01-19T07:14:39.225Z</updated>
+        <summary type="html"><![CDATA[Yoshiaki Kitazawa]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Large Deviations for Classification Performance Analysis of Machine
+  Learning Systems]]></title>
+        <id>http://arxiv.org/abs/2301.07104</id>
+        <link href="http://arxiv.org/abs/2301.07104"/>
+        <updated>2023-01-19T07:14:39.193Z</updated>
+        <summary type="html"><![CDATA[Paolo Braca, Leonardo M. Millefiori, Augusto Aubry, Antonio De Maio,
+  Peter Willett]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Efficient and Accurate Estimation of Lipschitz Constants for Deep Neural
+  Networks]]></title>
+        <id>http://arxiv.org/abs/1906.04893</id>
+        <link href="http://arxiv.org/abs/1906.04893"/>
+        <updated>2023-01-18T07:14:58.343Z</updated>
+        <summary type="html"><![CDATA[Mahyar Fazlyab, Alexander Robey, Hamed Hassani, Manfred Morari, George
+  J. Pappas]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Recipes for when Physics Fails: Recovering Robust Learning of Physics
+  Informed Neural Networks]]></title>
+        <id>http://arxiv.org/abs/2110.13330</id>
+        <link href="http://arxiv.org/abs/2110.13330"/>
+        <updated>2023-01-18T07:14:58.324Z</updated>
+        <summary type="html"><![CDATA[Chandrajit Bajaj, Luke McLennan, Timothy Andeen, Avik Roy]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Recurrent Convolutional Neural Networks Learn Succinct Learning
+  Algorithms]]></title>
+        <id>http://arxiv.org/abs/2209.00735</id>
+        <link href="http://arxiv.org/abs/2209.00735"/>
+        <updated>2023-01-18T07:14:58.308Z</updated>
+        <summary type="html"><![CDATA[Surbhi Goel, Sham Kakade, Adam Tauman Kalai, Cyril Zhang]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Transformers as Algorithms: Generalization and Implicit Model Selection
+  in In-context Learning]]></title>
+        <id>http://arxiv.org/abs/2301.07067</id>
+        <link href="http://arxiv.org/abs/2301.07067"/>
+        <updated>2023-01-18T07:14:58.200Z</updated>
+        <summary type="html"><![CDATA[Yingcong Li, M. Emrullah Ildiz, Dimitris Papailiopoulos, Samet Oymak]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Annealing Double-Head: An Architecture for Online Calibration of Deep
+  Neural Networks]]></title>
+        <id>http://arxiv.org/abs/2212.13621</id>
+        <link href="http://arxiv.org/abs/2212.13621"/>
+        <updated>2023-01-18T07:14:58.192Z</updated>
+        <summary type="html"><![CDATA[Erdong Guo, David Draper, Maria De Iorio]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Weighed $\ell_1$ on the simplex: Compressive sensing meets locality]]></title>
+        <id>http://arxiv.org/abs/2104.13894</id>
+        <link href="http://arxiv.org/abs/2104.13894"/>
+        <updated>2023-01-17T07:14:35.264Z</updated>
+        <summary type="html"><![CDATA[Abiy Tasissa, Pranay Tankala, Demba Ba]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New in FOCS 2023: A conjectures track]]></title>
+        <id>http://windowsontheory.org/?p=8515</id>
+        <link href="https://windowsontheory.org/2023/01/16/new-in-focs-2023-a-conjectures-track/"/>
+        <updated>2023-01-16T22:30:27.000Z</updated>
+        <summary type="html"><![CDATA[This year, FOCS 2023 will include something new: a Conjectures Track, separate from the Main Track. Submissions to the Main Track will be evaluated along similar lines as STOC/FOCS papers typically are, aiming to accept papers that obtain the very best results across all fields of theoretical computer science. Submissions to the new Conjectures Track … Continue reading New in FOCS 2023: A conjectures track]]></summary>
+        <author>
+            <name>Boaz Barak</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[On the infinite-depth limit of finite-width neural networks]]></title>
+        <id>http://arxiv.org/abs/2210.00688</id>
+        <link href="http://arxiv.org/abs/2210.00688"/>
+        <updated>2023-01-16T07:15:13.039Z</updated>
+        <summary type="html"><![CDATA[Soufiane Hayou]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Scalable Batch Acquisition for Deep Bayesian Active Learning]]></title>
+        <id>http://arxiv.org/abs/2301.05490</id>
+        <link href="http://arxiv.org/abs/2301.05490"/>
+        <updated>2023-01-16T07:15:13.013Z</updated>
+        <summary type="html"><![CDATA[Aleksandr Rubashevskii, Daria Kotova, Maxim Panov]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Neural network with optimal neuron activation functions based on
+  additive Gaussian process regression]]></title>
+        <id>http://arxiv.org/abs/2301.05567</id>
+        <link href="http://arxiv.org/abs/2301.05567"/>
+        <updated>2023-01-16T07:15:12.988Z</updated>
+        <summary type="html"><![CDATA[Sergei Manzhos, Manabu Ihara]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Port-metriplectic neural networks: thermodynamics-informed machine
+  learning of complex physical systems]]></title>
+        <id>http://arxiv.org/abs/2211.01873</id>
+        <link href="http://arxiv.org/abs/2211.01873"/>
+        <updated>2023-01-16T07:15:12.888Z</updated>
+        <summary type="html"><![CDATA[Quercus Hern\'andez, Alberto Bad\'ias, Francisco Chinesta, El\'ias
+  Cueto]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Langevin algorithms for Markovian Neural Networks and Deep Stochastic
+  control]]></title>
+        <id>http://arxiv.org/abs/2212.12018</id>
+        <link href="http://arxiv.org/abs/2212.12018"/>
+        <updated>2023-01-16T07:15:12.831Z</updated>
+        <summary type="html"><![CDATA[Pierre Bras, Gilles Pag\`es]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+</feed>
