@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-02-14T19:13:30.272Z</updated>
+    <updated>2023-02-14T20:17:49.736Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -1148,60 +1148,6 @@ What is the largest possible size of a set of ternary strings of length , with t
         <summary type="html"><![CDATA[This year, FOCS 2023 will include something new: a Conjectures Track, separate from the Main Track. Submissions to the Main Track will be evaluated along similar lines as STOC/FOCS papers typically are, aiming to accept papers that obtain the very best results across all fields of theoretical computer science. Submissions to the new Conjectures Track … Continue reading New in FOCS 2023: A conjectures track]]></summary>
         <author>
             <name>Boaz Barak</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[On the infinite-depth limit of finite-width neural networks]]></title>
-        <id>http://arxiv.org/abs/2210.00688</id>
-        <link href="http://arxiv.org/abs/2210.00688"/>
-        <updated>2023-01-16T07:15:13.039Z</updated>
-        <summary type="html"><![CDATA[Soufiane Hayou]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Scalable Batch Acquisition for Deep Bayesian Active Learning]]></title>
-        <id>http://arxiv.org/abs/2301.05490</id>
-        <link href="http://arxiv.org/abs/2301.05490"/>
-        <updated>2023-01-16T07:15:13.013Z</updated>
-        <summary type="html"><![CDATA[Aleksandr Rubashevskii, Daria Kotova, Maxim Panov]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Neural network with optimal neuron activation functions based on
-  additive Gaussian process regression]]></title>
-        <id>http://arxiv.org/abs/2301.05567</id>
-        <link href="http://arxiv.org/abs/2301.05567"/>
-        <updated>2023-01-16T07:15:12.988Z</updated>
-        <summary type="html"><![CDATA[Sergei Manzhos, Manabu Ihara]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Port-metriplectic neural networks: thermodynamics-informed machine
-  learning of complex physical systems]]></title>
-        <id>http://arxiv.org/abs/2211.01873</id>
-        <link href="http://arxiv.org/abs/2211.01873"/>
-        <updated>2023-01-16T07:15:12.888Z</updated>
-        <summary type="html"><![CDATA[Quercus Hern\'andez, Alberto Bad\'ias, Francisco Chinesta, El\'ias
-  Cueto]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Langevin algorithms for Markovian Neural Networks and Deep Stochastic
-  control]]></title>
-        <id>http://arxiv.org/abs/2212.12018</id>
-        <link href="http://arxiv.org/abs/2212.12018"/>
-        <updated>2023-01-16T07:15:12.831Z</updated>
-        <summary type="html"><![CDATA[Pierre Bras, Gilles Pag\`es]]></summary>
-        <author>
-            <name>arxivist feed</name>
         </author>
     </entry>
 </feed>
