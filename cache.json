@@ -1046,6 +1046,16 @@
       "siteUrl": "https://gilkalai.wordpress.com",
       "articles": [
         {
+          "id": "http://gilkalai.wordpress.com/?p=23866",
+          "author": "Gil Kalai",
+          "description": "What is the density of a subset of that guarantees that contains a 3-term arithmetic progression? And, more generally, if the density of is what is the minimum number of 3-terms AP that contains? These problems and the more general … Continue reading →",
+          "link": "https://gilkalai.wordpress.com/2023/02/14/absolutely-sensational-morning-news-zander-kelley-and-raghua-meka-proved-behrend-type-bounds-for-3aps/",
+          "publishedOn": "2023-02-14T07:42:46.000Z",
+          "wordCount": 3211,
+          "title": "Absolutely Sensational Morning News – Zander Kelley and Raghua Meka proved Behrend-type bounds for 3APs",
+          "imageUrl": "https://gilkalai.files.wordpress.com/2023/02/3-term-ap-1.jpg"
+        },
+        {
           "id": "http://gilkalai.wordpress.com/2023/01/24/the-trifference-problem/",
           "author": "Gil Kalai",
           "description": "Originally posted on Anurag's Math Blog: \nWhat is the largest possible size of a set of ternary strings of length , with the property that for any three distinct strings in , there is a position where they all…",
@@ -1101,6 +1111,16 @@
       "feedUrl": "https://kexue.fm/feed/",
       "siteUrl": "https://kexue.fm/",
       "articles": [
+        {
+          "id": "https://kexue.fm/archives/9467",
+          "author": "苏剑林",
+          "description": "Wasserstein距离（下面简称“W距离”），是基于最优传输思想来度量两个概率分布差异程度的距离函数，笔者之前在《从Wasserstein距离、对偶理论到WGAN》等博文中也做过介绍。对于很...",
+          "link": "https://kexue.fm/archives/9467",
+          "publishedOn": "2023-02-14T07:18:00.000Z",
+          "wordCount": 1835,
+          "title": "生成扩散模型漫谈（十六）：W距离 ≤ 得分匹配",
+          "imageUrl": null
+        },
         {
           "id": "https://kexue.fm/archives/9461",
           "author": "苏剑林",
