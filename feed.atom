@@ -2,10 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-02-14T06:21:50.598Z</updated>
+    <updated>2023-02-14T07:15:44.582Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[DAG Learning on the Permutahedron]]></title>
+        <id>http://arxiv.org/abs/2301.11898</id>
+        <link href="http://arxiv.org/abs/2301.11898"/>
+        <updated>2023-02-14T07:15:42.457Z</updated>
+        <summary type="html"><![CDATA[Valentina Zantedeschi, Luca Franceschi, Jean Kaddour, Matt J. Kusner,
+  Vlad Niculae]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Variational Bayesian Neural Networks via Resolution of Singularities]]></title>
+        <id>http://arxiv.org/abs/2302.06035</id>
+        <link href="http://arxiv.org/abs/2302.06035"/>
+        <updated>2023-02-14T07:15:42.449Z</updated>
+        <summary type="html"><![CDATA[Susan Wei, Edmund Lau]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Graph Neural Network-Inspired Kernels for Gaussian Processes in
+  Semi-Supervised Learning]]></title>
+        <id>http://arxiv.org/abs/2302.05828</id>
+        <link href="http://arxiv.org/abs/2302.05828"/>
+        <updated>2023-02-14T07:15:42.429Z</updated>
+        <summary type="html"><![CDATA[Zehao Niu, Mihai Anitescu, Jie Chen]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Rigorous Framework for the Mean Field Limit of Multilayer Neural
+  Networks]]></title>
+        <id>http://arxiv.org/abs/2001.11443</id>
+        <link href="http://arxiv.org/abs/2001.11443"/>
+        <updated>2023-02-14T07:15:42.400Z</updated>
+        <summary type="html"><![CDATA[Phan-Minh Nguyen, Huy Tuan Pham]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[High-Resolution Peak Demand Estimation Using Generalized Additive Models
   and Deep Neural Networks]]></title>
