@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-02-15T10:18:47.046Z</updated>
+    <updated>2023-02-15T11:14:15.799Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -1191,16 +1191,6 @@ What is the largest possible size of a set of ternary strings of length , with t
         <summary type="html"><![CDATA[Abiy Tasissa, Pranay Tankala, Demba Ba]]></summary>
         <author>
             <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New in FOCS 2023: A conjectures track]]></title>
-        <id>http://windowsontheory.org/?p=8515</id>
-        <link href="https://windowsontheory.org/2023/01/16/new-in-focs-2023-a-conjectures-track/"/>
-        <updated>2023-01-16T22:30:27.000Z</updated>
-        <summary type="html"><![CDATA[This year, FOCS 2023 will include something new: a Conjectures Track, separate from the Main Track. Submissions to the Main Track will be evaluated along similar lines as STOC/FOCS papers typically are, aiming to accept papers that obtain the very best results across all fields of theoretical computer science. Submissions to the new Conjectures Track … Continue reading New in FOCS 2023: A conjectures track]]></summary>
-        <author>
-            <name>Boaz Barak</name>
         </author>
     </entry>
 </feed>
