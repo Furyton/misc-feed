@@ -6,6 +6,56 @@
       "siteUrl": "https://www.arxivist.com",
       "articles": [
         {
+          "id": "http://arxiv.org/abs/2302.07260",
+          "author": null,
+          "description": "Mohamed Aziz Bhouri, Michael Joly, Robert Yu, Soumalya Sarkar\n , Paris Perdikaris",
+          "link": "http://arxiv.org/abs/2302.07260",
+          "publishedOn": "2023-02-15T07:15:22.508Z",
+          "wordCount": 667,
+          "title": "Scalable Bayesian optimization with high-dimensional outputs using\n  randomized prior networks",
+          "imageUrl": null
+        },
+        {
+          "id": "http://arxiv.org/abs/2302.06005",
+          "author": null,
+          "description": "Steve Hanneke, Aryeh Kontorovich, Guy Kornowski",
+          "link": "http://arxiv.org/abs/2302.06005",
+          "publishedOn": "2023-02-15T07:15:22.492Z",
+          "wordCount": 628,
+          "title": "Near-optimal learning with average H\\\"older smoothness",
+          "imageUrl": null
+        },
+        {
+          "id": "http://arxiv.org/abs/2302.03115",
+          "author": null,
+          "description": "Robert Istvan Busa-Fekete, Heejin Choi, Travis Dick, Claudio Gentile,\n  Andres Munoz medina",
+          "link": "http://arxiv.org/abs/2302.03115",
+          "publishedOn": "2023-02-15T07:15:22.482Z",
+          "wordCount": 643,
+          "title": "Easy Learning from Label Proportions",
+          "imageUrl": null
+        },
+        {
+          "id": "http://arxiv.org/abs/2302.07263",
+          "author": null,
+          "description": "Naren Sarayu Manoj, Nathan Srebro",
+          "link": "http://arxiv.org/abs/2302.07263",
+          "publishedOn": "2023-02-15T07:15:22.474Z",
+          "wordCount": 483,
+          "title": "Interpolation Learning With Minimum Description Length",
+          "imageUrl": null
+        },
+        {
+          "id": "http://arxiv.org/abs/2302.07186",
+          "author": null,
+          "description": "Moise Blanchard, Steve Hanneke, Patrick Jaillet",
+          "link": "http://arxiv.org/abs/2302.07186",
+          "publishedOn": "2023-02-15T07:15:22.450Z",
+          "wordCount": 646,
+          "title": "Non-stationary Contextual Bandits and Universal Learning",
+          "imageUrl": null
+        },
+        {
           "id": "http://arxiv.org/abs/2301.11898",
           "author": null,
           "description": "Valentina Zantedeschi, Luca Franceschi, Jean Kaddour, Matt J. Kusner,\n  Vlad Niculae",

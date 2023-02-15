@@ -2,10 +2,63 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-02-15T06:21:54.350Z</updated>
+    <updated>2023-02-15T07:15:23.872Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Scalable Bayesian optimization with high-dimensional outputs using
+  randomized prior networks]]></title>
+        <id>http://arxiv.org/abs/2302.07260</id>
+        <link href="http://arxiv.org/abs/2302.07260"/>
+        <updated>2023-02-15T07:15:22.508Z</updated>
+        <summary type="html"><![CDATA[Mohamed Aziz Bhouri, Michael Joly, Robert Yu, Soumalya Sarkar
+ , Paris Perdikaris]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Near-optimal learning with average H\"older smoothness]]></title>
+        <id>http://arxiv.org/abs/2302.06005</id>
+        <link href="http://arxiv.org/abs/2302.06005"/>
+        <updated>2023-02-15T07:15:22.492Z</updated>
+        <summary type="html"><![CDATA[Steve Hanneke, Aryeh Kontorovich, Guy Kornowski]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Easy Learning from Label Proportions]]></title>
+        <id>http://arxiv.org/abs/2302.03115</id>
+        <link href="http://arxiv.org/abs/2302.03115"/>
+        <updated>2023-02-15T07:15:22.482Z</updated>
+        <summary type="html"><![CDATA[Robert Istvan Busa-Fekete, Heejin Choi, Travis Dick, Claudio Gentile,
+  Andres Munoz medina]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Interpolation Learning With Minimum Description Length]]></title>
+        <id>http://arxiv.org/abs/2302.07263</id>
+        <link href="http://arxiv.org/abs/2302.07263"/>
+        <updated>2023-02-15T07:15:22.474Z</updated>
+        <summary type="html"><![CDATA[Naren Sarayu Manoj, Nathan Srebro]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Non-stationary Contextual Bandits and Universal Learning]]></title>
+        <id>http://arxiv.org/abs/2302.07186</id>
+        <link href="http://arxiv.org/abs/2302.07186"/>
+        <updated>2023-02-15T07:15:22.450Z</updated>
+        <summary type="html"><![CDATA[Moise Blanchard, Steve Hanneke, Patrick Jaillet]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Absolutely Sensational Morning News – Zander Kelley and Raghua Meka proved Behrend-type bounds for 3APs]]></title>
         <id>http://gilkalai.wordpress.com/?p=23866</id>
