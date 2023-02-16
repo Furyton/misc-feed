@@ -1152,6 +1152,16 @@
       "siteUrl": "https://kexue.fm/",
       "articles": [
         {
+          "id": "https://kexue.fm/archives/9473",
+          "author": "苏剑林",
+          "description": "昨天在Arixv上发现了Google新发的一篇论文《Symbolic Discovery of Optimization Algorithms》，主要是讲自动搜索优化器的，咋看上去没啥意思，因为...",
+          "link": "https://kexue.fm/archives/9473",
+          "publishedOn": "2023-02-16T14:38:00.000Z",
+          "wordCount": 1572,
+          "title": "Google新搜出的优化器Lion：效率与效果兼得的“训练狮”",
+          "imageUrl": null
+        },
+        {
           "id": "https://kexue.fm/archives/9467",
           "author": "苏剑林",
           "description": "Wasserstein距离（下面简称“W距离”），是基于最优传输思想来度量两个概率分布差异程度的距离函数，笔者之前在《从Wasserstein距离、对偶理论到WGAN》等博文中也做过介绍。对于很...",
