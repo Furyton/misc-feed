@@ -6,6 +6,16 @@
       "siteUrl": "https://www.arxivist.com",
       "articles": [
         {
+          "id": "http://arxiv.org/abs/2302.07426",
+          "author": null,
+          "description": "Amit Daniely, Nathan Srebro, Gal Vardi",
+          "link": "http://arxiv.org/abs/2302.07426",
+          "publishedOn": "2023-02-16T08:21:41.214Z",
+          "wordCount": 619,
+          "title": "Efficiently Learning Neural Networks: What Assumptions May Suffice?",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
           "id": "http://arxiv.org/abs/2302.07419",
           "author": null,
           "description": "Hajime Yoshino",
