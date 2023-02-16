@@ -2,10 +2,63 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-02-16T06:21:23.918Z</updated>
+    <updated>2023-02-16T07:15:33.857Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Spatially heterogeneous learning by a deep student machine]]></title>
+        <id>http://arxiv.org/abs/2302.07419</id>
+        <link href="http://arxiv.org/abs/2302.07419"/>
+        <updated>2023-02-16T07:15:32.227Z</updated>
+        <summary type="html"><![CDATA[Hajime Yoshino]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cliff-Learning]]></title>
+        <id>http://arxiv.org/abs/2302.07348</id>
+        <link href="http://arxiv.org/abs/2302.07348"/>
+        <updated>2023-02-16T07:15:32.187Z</updated>
+        <summary type="html"><![CDATA[Tony T. Wang, Igor Zablotchi, Nir Shavit, Jonathan S. Rosenfeld]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Towards Understanding Ensemble, Knowledge Distillation and
+  Self-Distillation in Deep Learning]]></title>
+        <id>http://arxiv.org/abs/2012.09816</id>
+        <link href="http://arxiv.org/abs/2012.09816"/>
+        <updated>2023-02-16T07:15:32.180Z</updated>
+        <summary type="html"><![CDATA[Zeyuan Allen-Zhu, Yuanzhi Li]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Improved Online Conformal Prediction via Strongly Adaptive Online
+  Learning]]></title>
+        <id>http://arxiv.org/abs/2302.07869</id>
+        <link href="http://arxiv.org/abs/2302.07869"/>
+        <updated>2023-02-16T07:15:32.107Z</updated>
+        <summary type="html"><![CDATA[Aadyot Bhatnagar, Huan Wang, Caiming Xiong, Yu Bai]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Continuous PDE Dynamics Forecasting with Implicit Neural Representations]]></title>
+        <id>http://arxiv.org/abs/2209.14855</id>
+        <link href="http://arxiv.org/abs/2209.14855"/>
+        <updated>2023-02-16T07:15:32.079Z</updated>
+        <summary type="html"><![CDATA[Yuan Yin, Matthieu Kirchmeyer, Jean-Yves Franceschi, Alain
+  Rakotomamonjy, Patrick Gallinari]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Scalable Bayesian optimization with high-dimensional outputs using
   randomized prior networks]]></title>
