@@ -1119,6 +1119,16 @@
       "siteUrl": "https://windowsontheory.org",
       "articles": [
         {
+          "id": "http://windowsontheory.org/?p=8529",
+          "author": "Boaz Barak",
+          "description": "In my previous post I discussed how large language models can be thoughts of as the hero of the movie “memento” – their long-term memory is intact but they have limited context, which can be an issue in retrieving not just facts that happened after the training, but also the relevant facts that did appear … Continue reading Chatting with Claude",
+          "link": "https://windowsontheory.org/2023/02/17/chatting-with-claude/",
+          "publishedOn": "2023-02-17T16:04:27.000Z",
+          "wordCount": 77490,
+          "title": "Chatting with Claude",
+          "imageUrl": "https://s0.wp.com/i/blank.jpg"
+        },
+        {
           "id": "http://windowsontheory.org/?p=8517",
           "author": "Boaz Barak",
           "description": "Related to my last post on the FOCS 2023 conjectures track, the chairs now put together an FAQ about it. ACM SIGACT is soliciting nominations for several prizes: Knuth Prize by February 15, Distinguished service award by March 1, and Gödel prize by March 31. NSF is looking for a Program Director for the Algorithmic … Continue reading Theory announcements: Prizes, CFP, and more",
