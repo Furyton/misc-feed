@@ -6,6 +6,46 @@
       "siteUrl": "https://www.arxivist.com",
       "articles": [
         {
+          "id": "http://arxiv.org/abs/2301.05490",
+          "author": null,
+          "description": "Aleksandr Rubashevskii, Daria Kotova, Maxim Panov",
+          "link": "http://arxiv.org/abs/2301.05490",
+          "publishedOn": "2023-02-17T07:15:20.289Z",
+          "wordCount": 613,
+          "title": "Scalable Batch Acquisition for Deep Bayesian Active Learning",
+          "imageUrl": null
+        },
+        {
+          "id": "http://arxiv.org/abs/2302.07409",
+          "author": null,
+          "description": "Preetham Mohan, Ambuj Tewari",
+          "link": "http://arxiv.org/abs/2302.07409",
+          "publishedOn": "2023-02-17T07:15:20.246Z",
+          "wordCount": 616,
+          "title": "Quantum Learning Theory Beyond Batch Binary Classification",
+          "imageUrl": null
+        },
+        {
+          "id": "http://arxiv.org/abs/2302.07930",
+          "author": null,
+          "description": "Hengkang Wang, Han Lu, Ju Sun, Sandra E Safo",
+          "link": "http://arxiv.org/abs/2302.07930",
+          "publishedOn": "2023-02-17T07:15:19.926Z",
+          "wordCount": 660,
+          "title": "Interpretable Deep Learning Methods for Multiview Learning",
+          "imageUrl": null
+        },
+        {
+          "id": "http://arxiv.org/abs/2302.08215",
+          "author": null,
+          "description": "Dongyoung Go, Tomasz Korbak, Germ\\'an Kruszewski, Jos Rozen, Nahyeon\n  Ryu, Marc Dymetman",
+          "link": "http://arxiv.org/abs/2302.08215",
+          "publishedOn": "2023-02-17T07:15:19.920Z",
+          "wordCount": 630,
+          "title": "Aligning Language Models with Preferences through f-divergence\n  Minimization",
+          "imageUrl": null
+        },
+        {
           "id": "http://arxiv.org/abs/2302.07426",
           "author": null,
           "description": "Amit Daniely, Nathan Srebro, Gal Vardi",
