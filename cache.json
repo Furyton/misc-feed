@@ -6,6 +6,46 @@
       "siteUrl": "https://www.arxivist.com",
       "articles": [
         {
+          "id": "http://arxiv.org/abs/2211.01873",
+          "author": null,
+          "description": "Quercus Hern\\'andez, Alberto Bad\\'ias, Francisco Chinesta, El\\'ias\n  Cueto",
+          "link": "http://arxiv.org/abs/2211.01873",
+          "publishedOn": "2023-02-20T07:15:42.760Z",
+          "wordCount": 592,
+          "title": "Port-metriplectic neural networks: thermodynamics-informed machine\n  learning of complex physical systems",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2302.08635",
+          "author": null,
+          "description": "Shayan Shirahmad Gale Bagi, Zahra Gharaee, Oliver Schulte, Mark\n  Crowley",
+          "link": "http://arxiv.org/abs/2302.08635",
+          "publishedOn": "2023-02-20T07:15:42.717Z",
+          "wordCount": 630,
+          "title": "Generative Causal Representation Learning for Out-of-Distribution Motion\n  Forecasting",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2302.08606",
+          "author": null,
+          "description": "Yihao Fang, Ilsang Ohn, Vijay Gupta, Lizhen Lin",
+          "link": "http://arxiv.org/abs/2302.08606",
+          "publishedOn": "2023-02-20T07:15:42.712Z",
+          "wordCount": 560,
+          "title": "Intrinsic and extrinsic deep learning on manifolds",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2302.08942",
+          "author": null,
+          "description": "Sokhna Diarra Mbacke, Florence Clerc, Pascal Germain",
+          "link": "http://arxiv.org/abs/2302.08942",
+          "publishedOn": "2023-02-20T07:15:42.696Z",
+          "wordCount": 528,
+          "title": "PAC-Bayesian Generalization Bounds for Adversarial Generative Models",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
           "id": "http://arxiv.org/abs/2301.05490",
           "author": null,
           "description": "Aleksandr Rubashevskii, Daria Kotova, Maxim Panov",
