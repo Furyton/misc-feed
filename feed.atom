@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-02-21T19:13:43.751Z</updated>
+    <updated>2023-02-21T20:18:20.953Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -1194,49 +1194,6 @@ Olympics.
 What is the largest possible size of a set of ternary strings of length , with the property that for any three distinct strings in , there is a position where they all…]]></summary>
         <author>
             <name>Gil Kalai</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Self-Supervised Learning for Data Scarcity in a Fatigue Damage
-  Prognostic Problem]]></title>
-        <id>http://arxiv.org/abs/2301.08441</id>
-        <link href="http://arxiv.org/abs/2301.08441"/>
-        <updated>2023-01-23T07:14:58.219Z</updated>
-        <summary type="html"><![CDATA[Anass Akrim, Christian Gogu, Rob Vingerhoeds, Michel Sala\"un]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learning from non-irreducible Markov chains]]></title>
-        <id>http://arxiv.org/abs/2110.04338</id>
-        <link href="http://arxiv.org/abs/2110.04338"/>
-        <updated>2023-01-23T07:14:58.200Z</updated>
-        <summary type="html"><![CDATA[Nikola Sandri\'c, Stjepan \v{S}ebek]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AdaEnsemble: Learning Adaptively Sparse Structured Ensemble Network for
-  Click-Through Rate Prediction]]></title>
-        <id>http://arxiv.org/abs/2301.08353</id>
-        <link href="http://arxiv.org/abs/2301.08353"/>
-        <updated>2023-01-23T07:14:58.165Z</updated>
-        <summary type="html"><![CDATA[YaChen Yan, Liubo Li]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Interpretability Study on Deep Learning for Jet Physics at the Large
-  Hadron Collider]]></title>
-        <id>http://arxiv.org/abs/1911.01872</id>
-        <link href="http://arxiv.org/abs/1911.01872"/>
-        <updated>2023-01-23T07:14:58.159Z</updated>
-        <summary type="html"><![CDATA[Taoli Cheng]]></summary>
-        <author>
-            <name>arxivist feed</name>
         </author>
     </entry>
 </feed>
