@@ -1069,6 +1069,16 @@
       "siteUrl": "https://windowsontheory.org",
       "articles": [
         {
+          "id": "http://windowsontheory.org/?p=8548",
+          "author": "Boaz Barak",
+          "description": "See arxiv link for paper by Nikhil Vyas, Sham Kakade, and me. Conditional generative models hold much promise for novel content creation. Whether it is generating a snippet of code, piece of text, or image, such models can potentially save substantial human effort and unlock new capabilities. But there is a fly in this ointment. … Continue reading Provable Copyright Protection for Generative Models",
+          "link": "https://windowsontheory.org/2023/02/21/provable-copyright-protection-for-generative-models/",
+          "publishedOn": "2023-02-22T02:22:01.000Z",
+          "wordCount": 78016,
+          "title": "Provable Copyright Protection for Generative Models",
+          "imageUrl": "https://windowsontheory.files.wordpress.com/2023/02/featured.png"
+        },
+        {
           "id": "http://windowsontheory.org/?p=8529",
           "author": "Boaz Barak",
           "description": "In my previous post I discussed how large language models can be thoughts of as the hero of the movie “memento” – their long-term memory is intact but they have limited context, which can be an issue in retrieving not just facts that happened after the training, but also the relevant facts that did appear … Continue reading Chatting with Claude",

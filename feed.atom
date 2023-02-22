@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-02-22T01:22:28.013Z</updated>
+    <updated>2023-02-22T02:47:54.214Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Provable Copyright Protection for Generative Models]]></title>
+        <id>http://windowsontheory.org/?p=8548</id>
+        <link href="https://windowsontheory.org/2023/02/21/provable-copyright-protection-for-generative-models/"/>
+        <updated>2023-02-22T02:22:01.000Z</updated>
+        <summary type="html"><![CDATA[See arxiv link for paper by Nikhil Vyas, Sham Kakade, and me. Conditional generative models hold much promise for novel content creation. Whether it is generating a snippet of code, piece of text, or image, such models can potentially save substantial human effort and unlock new capabilities. But there is a fly in this ointment. … Continue reading Provable Copyright Protection for Generative Models]]></summary>
+        <author>
+            <name>Boaz Barak</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hardness of Agnostically Learning Halfspaces from Worst-Case Lattice
   Problems]]></title>
