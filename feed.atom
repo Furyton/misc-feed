@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-02-22T19:12:54.060Z</updated>
+    <updated>2023-02-22T20:18:11.488Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -1225,58 +1225,6 @@ Where: MB0.07]]></summary>
         <link href="http://arxiv.org/abs/2207.01234"/>
         <updated>2023-01-25T07:17:18.780Z</updated>
         <summary type="html"><![CDATA[Vishnu Raj, Tianyu Cui, Markus Heinonen, Pekka Marttinen]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SpArX: Sparse Argumentative Explanations for Neural Networks]]></title>
-        <id>http://arxiv.org/abs/2301.09559</id>
-        <link href="http://arxiv.org/abs/2301.09559"/>
-        <updated>2023-01-24T07:14:13.408Z</updated>
-        <summary type="html"><![CDATA[Hamed Ayoobi, Nico Potyka, Francesca Toni]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lazy vs hasty: linearization in deep networks impacts learning schedule
-  based on example difficulty]]></title>
-        <id>http://arxiv.org/abs/2209.09658</id>
-        <link href="http://arxiv.org/abs/2209.09658"/>
-        <updated>2023-01-24T07:14:13.270Z</updated>
-        <summary type="html"><![CDATA[Thomas George, Guillaume Lajoie, Aristide Baratin]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Indirect Active Learning]]></title>
-        <id>http://arxiv.org/abs/2206.01454</id>
-        <link href="http://arxiv.org/abs/2206.01454"/>
-        <updated>2023-01-24T07:14:13.223Z</updated>
-        <summary type="html"><![CDATA[Shashank Singh]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Near-Minimax Optimal Estimation With Shallow ReLU Neural Networks]]></title>
-        <id>http://arxiv.org/abs/2109.08844</id>
-        <link href="http://arxiv.org/abs/2109.08844"/>
-        <updated>2023-01-24T07:14:13.213Z</updated>
-        <summary type="html"><![CDATA[Rahul Parhi, Robert D. Nowak]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pruning coupled with learning, ensembles of minimal neural networks, and
-  future of XAI]]></title>
-        <id>http://arxiv.org/abs/2005.06284</id>
-        <link href="http://arxiv.org/abs/2005.06284"/>
-        <updated>2023-01-24T07:14:13.206Z</updated>
-        <summary type="html"><![CDATA[Alexander N. Gorban, Evgeny M. Mirkes]]></summary>
         <author>
             <name>arxivist feed</name>
         </author>
