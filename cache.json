@@ -6,6 +6,56 @@
       "siteUrl": "https://www.arxivist.com",
       "articles": [
         {
+          "id": "http://arxiv.org/abs/2302.10840",
+          "author": null,
+          "description": "Neil Dey, Jonathan P. Williams",
+          "link": "http://arxiv.org/abs/2302.10840",
+          "publishedOn": "2023-02-22T07:15:27.871Z",
+          "wordCount": 580,
+          "title": "Valid Inference for Machine Learning Model Parameters",
+          "imageUrl": null
+        },
+        {
+          "id": "http://arxiv.org/abs/2302.10726",
+          "author": null,
+          "description": "Nikita Puchkin, Nikita Zhivotovskiy",
+          "link": "http://arxiv.org/abs/2302.10726",
+          "publishedOn": "2023-02-22T07:15:27.850Z",
+          "wordCount": 545,
+          "title": "Exploring Local Norms in Exp-concave Statistical Learning",
+          "imageUrl": null
+        },
+        {
+          "id": "http://arxiv.org/abs/2302.10804",
+          "author": null,
+          "description": "Yang Sun, Yifan Xie",
+          "link": "http://arxiv.org/abs/2302.10804",
+          "publishedOn": "2023-02-22T07:15:27.844Z",
+          "wordCount": 562,
+          "title": "GDBN: a Graph Neural Network Approach to Dynamic Bayesian Network",
+          "imageUrl": null
+        },
+        {
+          "id": "http://arxiv.org/abs/2302.10701",
+          "author": null,
+          "description": "Yanzhi Chen, Weihao Sun, Yingzhen Li, Adrian Weller",
+          "link": "http://arxiv.org/abs/2302.10701",
+          "publishedOn": "2023-02-22T07:15:27.532Z",
+          "wordCount": 610,
+          "title": "Scalable Infomin Learning",
+          "imageUrl": null
+        },
+        {
+          "id": "http://arxiv.org/abs/2302.10322",
+          "author": null,
+          "description": "Bobby He, James Martens, Guodong Zhang, Aleksandar Botev, Andrew\n  Brock, Samuel L Smith, Yee Whye Teh",
+          "link": "http://arxiv.org/abs/2302.10322",
+          "publishedOn": "2023-02-22T07:15:27.486Z",
+          "wordCount": 661,
+          "title": "Deep Transformers without Shortcuts: Modifying Self-attention for\n  Faithful Signal Propagation",
+          "imageUrl": null
+        },
+        {
           "id": "http://arxiv.org/abs/2207.14030",
           "author": null,
           "description": "Stefan Tiegel",
