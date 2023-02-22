@@ -1225,6 +1225,33 @@
           "imageUrl": "https://mlfoundations.org/img/icon-192.png"
         }
       ]
+    },
+    {
+      "title": "Statistics » Event Diary",
+      "feedUrl": "https://warwick.ac.uk/sitebuilder2/api/rss/news.rss?page=/fac/sci/statistics/event_diary/&tag=CRiSM%20seminars&rss=true&view=upcoming",
+      "siteUrl": "https://warwick.ac.uk/fac/sci/statistics/event_diary/",
+      "articles": [
+        {
+          "id": "8a1785d88659e0df01866f1c32713ef9",
+          "author": "Statistics",
+          "description": "When:\r\n\t\r\n  \t\t13:00\r\n\t\t-\r\n\t\t14:00, Wed, 03 May '23\r\n\r\n\t\nWhere: MB0.07",
+          "link": "https://warwick.ac.uk/fac/sci/statistics/event_diary/?calendarItem=8a1785d88659e0df01866f1c32713ef8",
+          "publishedOn": "2023-02-20T13:56:04.000Z",
+          "wordCount": 307,
+          "title": "03/05 1pm-2pm: CRiSM Seminar",
+          "imageUrl": null
+        },
+        {
+          "id": "8a17841b862bed270186308c0ac02065",
+          "author": "Statistics",
+          "description": "When:\r\n\t\r\n  \t\t13:00\r\n\t\t-\r\n\t\t14:00, Wed, 17 May '23\r\n\r\n\t\nWhere: MB0.07",
+          "link": "https://warwick.ac.uk/fac/sci/statistics/event_diary/?calendarItem=8a17841b862bed270186308c0ac02064",
+          "publishedOn": "2023-02-08T10:22:09.000Z",
+          "wordCount": 307,
+          "title": "17/05 1pm-2pm: CRiSM Seminar",
+          "imageUrl": null
+        }
+      ]
     }
   ],
   "cliVersion": "1.15.1"

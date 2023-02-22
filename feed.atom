@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-02-22T15:17:46.845Z</updated>
+    <updated>2023-02-22T15:47:27.615Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -118,6 +118,23 @@
         <summary type="html"><![CDATA[Miguel del Alamo]]></summary>
         <author>
             <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[03/05 1pm-2pm: CRiSM Seminar]]></title>
+        <id>8a1785d88659e0df01866f1c32713ef9</id>
+        <link href="https://warwick.ac.uk/fac/sci/statistics/event_diary/?calendarItem=8a1785d88659e0df01866f1c32713ef8"/>
+        <updated>2023-02-20T13:56:04.000Z</updated>
+        <summary type="html"><![CDATA[When:
+	
+  		13:00
+		-
+		14:00, Wed, 03 May '23
+
+	
+Where: MB0.07]]></summary>
+        <author>
+            <name>Statistics</name>
         </author>
     </entry>
     <entry>
@@ -587,6 +604,23 @@ Olympics.
         <summary type="html"><![CDATA[Michael Hagmann, Stefan Riezler]]></summary>
         <author>
             <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[17/05 1pm-2pm: CRiSM Seminar]]></title>
+        <id>8a17841b862bed270186308c0ac02065</id>
+        <link href="https://warwick.ac.uk/fac/sci/statistics/event_diary/?calendarItem=8a17841b862bed270186308c0ac02064"/>
+        <updated>2023-02-08T10:22:09.000Z</updated>
+        <summary type="html"><![CDATA[When:
+	
+  		13:00
+		-
+		14:00, Wed, 17 May '23
+
+	
+Where: MB0.07]]></summary>
+        <author>
+            <name>Statistics</name>
         </author>
     </entry>
     <entry>
