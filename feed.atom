@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-02-22T10:18:45.336Z</updated>
+    <updated>2023-02-22T11:14:14.517Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -1245,17 +1245,6 @@ Olympics.
         <summary type="html"><![CDATA[Alexander N. Gorban, Evgeny M. Mirkes]]></summary>
         <author>
             <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Trifference Problem]]></title>
-        <id>http://gilkalai.wordpress.com/2023/01/24/the-trifference-problem/</id>
-        <link href="https://gilkalai.wordpress.com/2023/01/24/the-trifference-problem/"/>
-        <updated>2023-01-23T22:20:42.000Z</updated>
-        <summary type="html"><![CDATA[Originally posted on Anurag's Math Blog: 
-What is the largest possible size of a set of ternary strings of length , with the property that for any three distinct strings in , there is a position where they all…]]></summary>
-        <author>
-            <name>Gil Kalai</name>
         </author>
     </entry>
 </feed>
