@@ -6,6 +6,56 @@
       "siteUrl": "https://www.arxivist.com",
       "articles": [
         {
+          "id": "http://arxiv.org/abs/2206.15215",
+          "author": null,
+          "description": "Kamel Lahouel, Michael Wells, Victor Rielly, Ethan Lew, David Lovitz,\n , Bruno M. Jedynak",
+          "link": "http://arxiv.org/abs/2206.15215",
+          "publishedOn": "2023-02-23T07:15:16.966Z",
+          "wordCount": 570,
+          "title": "Learning nonparametric ordinary differential equations from noisy data",
+          "imageUrl": null
+        },
+        {
+          "id": "http://arxiv.org/abs/2302.11269",
+          "author": null,
+          "description": "Song Duong, Alberto Lumbreras, Mike Gartrell, Patrick Gallinari",
+          "link": "http://arxiv.org/abs/2302.11269",
+          "publishedOn": "2023-02-23T07:15:16.956Z",
+          "wordCount": 644,
+          "title": "Learning from Multiple Sources for Data-to-Text and Text-to-Data",
+          "imageUrl": null
+        },
+        {
+          "id": "http://arxiv.org/abs/2302.11055",
+          "author": null,
+          "description": "Emmanuel Abbe, Enric Boix-Adsera, Theodor Misiakiewicz",
+          "link": "http://arxiv.org/abs/2302.11055",
+          "publishedOn": "2023-02-23T07:15:16.951Z",
+          "wordCount": 607,
+          "title": "SGD learning on neural networks: leap complexity and saddle-to-saddle\n  dynamics",
+          "imageUrl": null
+        },
+        {
+          "id": "http://arxiv.org/abs/2210.14420",
+          "author": null,
+          "description": "Yunzhe Zhou, Zhengling Qi, Chengchun Shi, Lexin Li",
+          "link": "http://arxiv.org/abs/2210.14420",
+          "publishedOn": "2023-02-23T07:15:16.921Z",
+          "wordCount": 680,
+          "title": "Optimizing Pessimism in Dynamic Treatment Regimes: A Bayesian Learning\n  Approach",
+          "imageUrl": null
+        },
+        {
+          "id": "http://arxiv.org/abs/2302.11479",
+          "author": null,
+          "description": "Indro Spinelli, Riccardo Bianchini, Simone Scardapane",
+          "link": "http://arxiv.org/abs/2302.11479",
+          "publishedOn": "2023-02-23T07:15:16.855Z",
+          "wordCount": 681,
+          "title": "Drop Edges and Adapt: a Fairness Enforcing Fine-tuning for Graph Neural\n  Networks",
+          "imageUrl": null
+        },
+        {
           "id": "http://arxiv.org/abs/2302.10840",
           "author": null,
           "description": "Neil Dey, Jonathan P. Williams",
