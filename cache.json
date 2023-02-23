@@ -1152,6 +1152,16 @@
       "siteUrl": "https://kexue.fm/",
       "articles": [
         {
+          "id": "https://kexue.fm/archives/9497",
+          "author": "苏剑林",
+          "description": "历史总是惊人地相似。当初笔者在写《生成扩散模型漫谈（十四）：构建ODE的一般步骤（上）》（当时还没有“上”这个后缀）时，以为自己已经搞清楚了构建ODE式扩散的一般步骤，结果读者 @gaohuaz...",
+          "link": "https://kexue.fm/archives/9497",
+          "publishedOn": "2023-02-23T12:54:00.000Z",
+          "wordCount": 1641,
+          "title": "生成扩散模型漫谈（十七）：构建ODE的一般步骤（下）",
+          "imageUrl": null
+        },
+        {
           "id": "https://kexue.fm/archives/9473",
           "author": "苏剑林",
           "description": "昨天在Arixv上发现了Google新发的一篇论文《Symbolic Discovery of Optimization Algorithms》，主要是讲自动搜索优化器的，咋看上去没啥意思，因为...",
