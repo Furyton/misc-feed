@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-02-26T05:15:25.241Z</updated>
+    <updated>2023-02-26T06:20:43.136Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -1197,16 +1197,6 @@ Where: MB0.07]]></summary>
   T. Radev]]></summary>
         <author>
             <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Theory announcements: Prizes, CFP, and more]]></title>
-        <id>http://windowsontheory.org/?p=8517</id>
-        <link href="https://windowsontheory.org/2023/01/27/theory-announcements-prizes-cfp-and-more/"/>
-        <updated>2023-01-27T17:41:06.000Z</updated>
-        <summary type="html"><![CDATA[Related to my last post on the FOCS 2023 conjectures track, the chairs now put together an FAQ about it. ACM SIGACT is soliciting nominations for several prizes: Knuth Prize by February 15, Distinguished service award by March 1, and Gödel prize by March 31. NSF is looking for a Program Director for the Algorithmic … Continue reading Theory announcements: Prizes, CFP, and more]]></summary>
-        <author>
-            <name>Boaz Barak</name>
         </author>
     </entry>
 </feed>
