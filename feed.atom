@@ -2,10 +2,63 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-02-27T06:22:26.330Z</updated>
+    <updated>2023-02-27T07:15:52.967Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Variational Linearized Laplace Approximation for Bayesian Deep Learning]]></title>
+        <id>http://arxiv.org/abs/2302.12565</id>
+        <link href="http://arxiv.org/abs/2302.12565"/>
+        <updated>2023-02-27T07:15:52.156Z</updated>
+        <summary type="html"><![CDATA[Luis A. Ortega, Sim\'on Rodr\'iguez Santana, Daniel Hern\'andez-Lobato]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Beyond Moments: Robustly Learning Affine Transformations with
+  Asymptotically Optimal Error]]></title>
+        <id>http://arxiv.org/abs/2302.12289</id>
+        <link href="http://arxiv.org/abs/2302.12289"/>
+        <updated>2023-02-27T07:15:52.139Z</updated>
+        <summary type="html"><![CDATA[He Jia, Pravesh K . Kothari, Santosh S. Vempala]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Reward Learning as Doubly Nonparametric Bandits: Optimal Design and
+  Scaling Laws]]></title>
+        <id>http://arxiv.org/abs/2302.12349</id>
+        <link href="http://arxiv.org/abs/2302.12349"/>
+        <updated>2023-02-27T07:15:52.115Z</updated>
+        <summary type="html"><![CDATA[Kush Bhatia, Wenshuo Guo, Jacob Steinhardt]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lower Bounds on the Depth of Integral ReLU Neural Networks via Lattice
+  Polytopes]]></title>
+        <id>http://arxiv.org/abs/2302.12553</id>
+        <link href="http://arxiv.org/abs/2302.12553"/>
+        <updated>2023-02-27T07:15:52.109Z</updated>
+        <summary type="html"><![CDATA[Christian Haase, Christoph Hertrich, Georg Loho]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Uncertainty Injection: A Deep Learning Method for Robust Optimization]]></title>
+        <id>http://arxiv.org/abs/2302.12304</id>
+        <link href="http://arxiv.org/abs/2302.12304"/>
+        <updated>2023-02-27T07:15:52.100Z</updated>
+        <summary type="html"><![CDATA[Wei Cui, Wei Yu]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Chelsea Finn - Neural networks make stuff up. What should we do about it?]]></title>
         <id>https://mlfoundations.org/talk/finn/</id>
