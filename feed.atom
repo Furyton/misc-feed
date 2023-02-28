@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-02-28T16:24:03.525Z</updated>
+    <updated>2023-02-28T17:15:58.979Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Alef’s Corner: Democracy (Israel, 2023)]]></title>
+        <id>http://gilkalai.wordpress.com/?p=23914</id>
+        <link href="https://gilkalai.wordpress.com/2023/02/28/alefs-corner-democracy-israel-2023/"/>
+        <updated>2023-02-28T16:27:04.000Z</updated>
+        <summary type="html"><![CDATA[Democracy in Hebrew is דמוקרטיה represented by the letter “dalet” ד]]></summary>
+        <author>
+            <name>Gil Kalai</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[生成扩散模型漫谈（十八）：得分匹配 = 条件得分匹配]]></title>
         <id>https://kexue.fm/archives/9509</id>
