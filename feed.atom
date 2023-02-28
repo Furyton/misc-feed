@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-02-28T13:26:10.426Z</updated>
+    <updated>2023-02-28T14:16:14.936Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[生成扩散模型漫谈（十八）：得分匹配 = 条件得分匹配]]></title>
+        <id>https://kexue.fm/archives/9509</id>
+        <link href="https://kexue.fm/archives/9509"/>
+        <updated>2023-02-28T13:23:00.000Z</updated>
+        <summary type="html"><![CDATA[在前面的介绍中，我们多次提及“得分匹配”和“条件得分匹配”，它们是扩散模型、能量模型等经常出现的概念，特别是很多文章直接说扩散模型的训练目标是“得分匹配”，但事实上当前主流的扩散模型如DDPM的...]]></summary>
+        <author>
+            <name>苏剑林</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Empowering Graph Representation Learning with Test-Time Graph
   Transformation]]></title>

@@ -1142,6 +1142,16 @@
       "siteUrl": "https://kexue.fm/",
       "articles": [
         {
+          "id": "https://kexue.fm/archives/9509",
+          "author": "苏剑林",
+          "description": "在前面的介绍中，我们多次提及“得分匹配”和“条件得分匹配”，它们是扩散模型、能量模型等经常出现的概念，特别是很多文章直接说扩散模型的训练目标是“得分匹配”，但事实上当前主流的扩散模型如DDPM的...",
+          "link": "https://kexue.fm/archives/9509",
+          "publishedOn": "2023-02-28T13:23:00.000Z",
+          "wordCount": 1610,
+          "title": "生成扩散模型漫谈（十八）：得分匹配 = 条件得分匹配",
+          "imageUrl": null
+        },
+        {
           "id": "https://kexue.fm/archives/9497",
           "author": "苏剑林",
           "description": "历史总是惊人地相似。当初笔者在写《生成扩散模型漫谈（十四）：构建ODE的一般步骤（上）》（当时还没有“上”这个后缀）时，以为自己已经搞清楚了构建ODE式扩散的一般步骤，结果读者 @gaohuaz...",
