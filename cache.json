@@ -1716,6 +1716,16 @@
       "siteUrl": "http://ai.googleblog.com/",
       "articles": [
         {
+          "id": "http://ai.googleblog.com/2023/03/teaching-old-labels-new-tricks-in.html",
+          "author": null,
+          "description": "Posted by Minji Yoon, Research Intern, and Bryan Perozzi, Research Scientist, Google Research, Graph Mining Team  \nIndustrial applications of machine learning are commonly composed of various items that have differing data modalities or feature distributions. Heterogeneous graphs (HGs) offer a unified view of these multimodal data systems by defining multiple types of nodes (for each data type) and edges (for the relation between data items). For instance, e-commerce networks might have [user, product, review] nodes or video platforms might have [channel, user, video, comment] nodes. Heterogeneous graph neural networks (HGNNs) learn node embeddings summarizing each node’s relationships into a vector. However, in real world HGs, there is often a label imbalance issue between different node …",
+          "link": "http://ai.googleblog.com/2023/03/teaching-old-labels-new-tricks-in.html",
+          "publishedOn": "2023-03-01T18:15:00.000Z",
+          "wordCount": 28014,
+          "title": "Teaching old labels new tricks in heterogeneous graphs",
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5RoYlrnWBikJa4ZuA_UsWHFGzlxeJbfOr1ZMRYM5dusF2ijZAn7Pf_lGoUV9MY_Il2NOp1p9ONHTFaDzX8hhRXqQmlG42h4_0e1N3kN_W7act0JIstWyiNOC7neqgkP15XbFS7rmGD6xqUARP2KeGIrq0CHD0h2_4Kh0gsqPYPL0LSdiQ-Qi7dJ-Bwg/w1200-h630-p-k-no-nu/KTN%20hero.jpg"
+        },
+        {
           "id": "http://ai.googleblog.com/2023/02/datasets-at-your-fingertips-in-google.html",
           "author": null,
           "description": "Posted by Natasha Noy, Research Scientist, and Omar Benjelloun, Software Engineer, Google Research  \nAccess to datasets is critical to many of today's endeavors across verticals and industries, whether scientific research, business analysis, or public policy. In the scientific community and throughout various levels of the public sector, reproducibility and transparency are essential for progress, so sharing data is vital. For one example, in the United States a recent new policy requires free and equitable access to outcomes of all federally funded research, including data and statistical information along with publications. \n\nTo facilitate discovery of content with this level of statistical detail and better distill this information from across the web, Google now makes it easier to sear…",

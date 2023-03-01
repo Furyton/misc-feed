@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-03-01T18:21:50.413Z</updated>
+    <updated>2023-03-01T19:14:22.726Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Teaching old labels new tricks in heterogeneous graphs]]></title>
+        <id>http://ai.googleblog.com/2023/03/teaching-old-labels-new-tricks-in.html</id>
+        <link href="http://ai.googleblog.com/2023/03/teaching-old-labels-new-tricks-in.html"/>
+        <updated>2023-03-01T18:15:00.000Z</updated>
+        <summary type="html"><![CDATA[Posted by Minji Yoon, Research Intern, and Bryan Perozzi, Research Scientist, Google Research, Graph Mining Team  
+Industrial applications of machine learning are commonly composed of various items that have differing data modalities or feature distributions. Heterogeneous graphs (HGs) offer a unified view of these multimodal data systems by defining multiple types of nodes (for each data type) and edges (for the relation between data items). For instance, e-commerce networks might have [user, product, review] nodes or video platforms might have [channel, user, video, comment] nodes. Heterogeneous graph neural networks (HGNNs) learn node embeddings summarizing each node’s relationships into a vector. However, in real world HGs, there is often a label imbalance issue between different node …]]></summary>
+        <author>
+            <name>Google AI Blog</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Learning ReLU networks to high uniform accuracy is intractable]]></title>
         <id>http://arxiv.org/abs/2205.13531</id>
