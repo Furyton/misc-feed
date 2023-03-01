@@ -2,10 +2,64 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-03-01T06:22:58.074Z</updated>
+    <updated>2023-03-01T07:15:24.769Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Learning ReLU networks to high uniform accuracy is intractable]]></title>
+        <id>http://arxiv.org/abs/2205.13531</id>
+        <link href="http://arxiv.org/abs/2205.13531"/>
+        <updated>2023-03-01T07:15:24.618Z</updated>
+        <summary type="html"><![CDATA[Julius Berner, Philipp Grohs, Felix Voigtlaender]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Agent-based Graph Neural Networks]]></title>
+        <id>http://arxiv.org/abs/2206.11010</id>
+        <link href="http://arxiv.org/abs/2206.11010"/>
+        <updated>2023-03-01T07:15:24.573Z</updated>
+        <summary type="html"><![CDATA[Karolis Martinkus, P\'al Andr\'as Papp, Benedikt Schesch, Roger
+  Wattenhofer]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How optimal transport can tackle gender biases in multi-class
+  neural-network classifiers for job recommendations?]]></title>
+        <id>http://arxiv.org/abs/2302.14063</id>
+        <link href="http://arxiv.org/abs/2302.14063"/>
+        <updated>2023-03-01T07:15:24.513Z</updated>
+        <summary type="html"><![CDATA[Fanny Jourdan, Titon Tshiongo Kaninku, Nicholas Asher, Jean-Michel
+  Loubes, Laurent Risser]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learning Hidden Markov Models Using Conditional Samples]]></title>
+        <id>http://arxiv.org/abs/2302.14753</id>
+        <link href="http://arxiv.org/abs/2302.14753"/>
+        <updated>2023-03-01T07:15:24.508Z</updated>
+        <summary type="html"><![CDATA[Sham M. Kakade, Akshay Krishnamurthy, Gaurav Mahajan, Cyril Zhang]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Understanding The Robustness of Self-supervised Learning Through Topic
+  Modeling]]></title>
+        <id>http://arxiv.org/abs/2203.03539</id>
+        <link href="http://arxiv.org/abs/2203.03539"/>
+        <updated>2023-03-01T07:15:24.466Z</updated>
+        <summary type="html"><![CDATA[Zeping Luo, Shiyou Wu, Cindy Weng, Mo Zhou, Rong Ge]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Alef’s Corner: Democracy (Israel, 2023)]]></title>
         <id>http://gilkalai.wordpress.com/?p=23914</id>
