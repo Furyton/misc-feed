@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-03-01T22:16:33.063Z</updated>
+    <updated>2023-03-01T23:17:39.492Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Understanding the attention mechanism in sequence models]]></title>
+        <id>63f42411c79d98004d9f8686</id>
+        <link href="https://www.jeremyjordan.me/attention/"/>
+        <updated>2023-03-01T22:44:22.000Z</updated>
+        <summary type="html"><![CDATA[In this blog post, we'll discuss a key innovation in sequence-to-sequence model architectures: the attention mechanism. This architecture innovation dramatically improved model performance for sequence-to-sequence tasks such as machine translation and text summarization. 
+Moreover, the success of this attention mechanism led to the seminal paper, "Attention Is]]></summary>
+        <author>
+            <name>Jeremy Jordan</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Teaching old labels new tricks in heterogeneous graphs]]></title>
         <id>http://ai.googleblog.com/2023/03/teaching-old-labels-new-tricks-in.html</id>
