@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-03-02T21:15:16.719Z</updated>
+    <updated>2023-03-02T22:15:49.787Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Distributed differential privacy for federated learning]]></title>
+        <id>http://ai.googleblog.com/2023/03/distributed-differential-privacy-for.html</id>
+        <link href="http://ai.googleblog.com/2023/03/distributed-differential-privacy-for.html"/>
+        <updated>2023-03-02T21:14:00.003Z</updated>
+        <summary type="html"><![CDATA[Posted by Florian Hartmann, Software Engineer, and Peter Kairouz, Research Scientist, Google Research  
+Federated learning is a distributed way of training machine learning (ML) models where data is locally processed and only focused model updates and metrics that are intended for immediate aggregation are shared with a server that orchestrates training. This allows the training of models on locally available signals without exposing raw data to servers, increasing user privacy. In 2021, we announced that we are using federated learning to train Smart Text Selection models, an Android feature that helps users select and copy text easily by predicting what text they want to select and then automatically expanding the selection for them. 
+ 
+Since that launch, we have worked to improve the pr…]]></summary>
+        <author>
+            <name>Google AI Blog</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Learning time-scales in two-layers neural networks]]></title>
         <id>http://arxiv.org/abs/2303.00055</id>

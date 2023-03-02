@@ -1627,6 +1627,16 @@
       "siteUrl": "http://ai.googleblog.com/",
       "articles": [
         {
+          "id": "http://ai.googleblog.com/2023/03/distributed-differential-privacy-for.html",
+          "author": null,
+          "description": "Posted by Florian Hartmann, Software Engineer, and Peter Kairouz, Research Scientist, Google Research  \nFederated learning is a distributed way of training machine learning (ML) models where data is locally processed and only focused model updates and metrics that are intended for immediate aggregation are shared with a server that orchestrates training. This allows the training of models on locally available signals without exposing raw data to servers, increasing user privacy. In 2021, we announced that we are using federated learning to train Smart Text Selection models, an Android feature that helps users select and copy text easily by predicting what text they want to select and then automatically expanding the selection for them. \n \nSince that launch, we have worked to improve the pr…",
+          "link": "http://ai.googleblog.com/2023/03/distributed-differential-privacy-for.html",
+          "publishedOn": "2023-03-02T21:14:00.003Z",
+          "wordCount": 27876,
+          "title": "Distributed differential privacy for federated learning",
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiiaQOGpI7o--dVGtKdtsOHsfv4cnThM_Iak2lxcov0ItD-KAtM_8XVcM9a2v33d93-gdW8pQCbdXObzkq74x4ohXgCL9Scqu_3e27MiBxnl-b8vSLbblEKKd0NGOdbrU2hys4PkL5_IFlUX-PJ_13VpXxC_RTpOOI50z5oJFgJH2QwKRLCwBZStqIp3w/w1200-h630-p-k-no-nu/DDPforFL.png"
+        },
+        {
           "id": "http://ai.googleblog.com/2023/03/teaching-old-labels-new-tricks-in.html",
           "author": null,
           "description": "Posted by Minji Yoon, Research Intern, and Bryan Perozzi, Research Scientist, Google Research, Graph Mining Team  \nIndustrial applications of machine learning are commonly composed of various items that have differing data modalities or feature distributions. Heterogeneous graphs (HGs) offer a unified view of these multimodal data systems by defining multiple types of nodes (for each data type) and edges (for the relation between data items). For instance, e-commerce networks might have [user, product, review] nodes or video platforms might have [channel, user, video, comment] nodes. Heterogeneous graph neural networks (HGNNs) learn node embeddings summarizing each node’s relationships into a vector. However, in real world HGs, there is often a label imbalance issue between different node …",
