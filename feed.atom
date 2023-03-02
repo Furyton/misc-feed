@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-03-01T23:17:39.492Z</updated>
+    <updated>2023-03-02T01:37:25.870Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[keep thunderbird alive!]]></title>
+        <id>http://xianblog.wordpress.com/?p=52316</id>
+        <link href="https://xianblog.wordpress.com/2023/03/02/52316/"/>
+        <updated>2023-03-01T23:23:28.000Z</updated>
+        <summary type="html"><![CDATA[Visit the post for more.]]></summary>
+        <author>
+            <name>xi'an</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Understanding the attention mechanism in sequence models]]></title>
         <id>63f42411c79d98004d9f8686</id>
@@ -1894,36 +1904,6 @@ Read more...]]></summary>
         <summary type="html"><![CDATA[推荐语：还在纠结数据特征如何进行正态化吗？这个包 bestNormalize 提供了多种变换方法的合并调用，并可以通过基于拟合优度的统计量来为你选出最好的方法。 推荐人：]]></summary>
         <author>
             <name>统计之都</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Transformer升级之路：8、长度外推性与位置鲁棒性]]></title>
-        <id>https://kexue.fm/archives/9444</id>
-        <link href="https://kexue.fm/archives/9444"/>
-        <updated>2023-01-31T13:18:00.000Z</updated>
-        <summary type="html"><![CDATA[上一篇文章《Transformer升级之路：7、长度外推性与局部注意力》我们讨论了Transformer的长度外推性，得出的结论是长度外推性是一个训练和预测的不一致问题，而解决这个不一致的主要思...]]></summary>
-        <author>
-            <name>苏剑林</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[On Learning Necessary and Sufficient Causal Graphs]]></title>
-        <id>http://arxiv.org/abs/2301.12389</id>
-        <link href="http://arxiv.org/abs/2301.12389"/>
-        <updated>2023-01-31T12:31:27.090Z</updated>
-        <summary type="html"><![CDATA[Hengrui Cai, Yixin Wang, Michael Jordan, Rui Song]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Jump Interval-Learning for Individualized Decision Making]]></title>
-        <id>http://arxiv.org/abs/2111.08885</id>
-        <link href="http://arxiv.org/abs/2111.08885"/>
-        <updated>2023-01-31T12:31:27.078Z</updated>
-        <summary type="html"><![CDATA[Hengrui Cai, Chengchun Shi, Rui Song, Wenbin Lu]]></summary>
-        <author>
-            <name>arxivist feed</name>
         </author>
     </entry>
 </feed>

@@ -984,26 +984,6 @@
           "wordCount": 653,
           "title": "Zero-shot-Learning Cross-Modality Data Translation Through Mutual\n  Information Guided Stochastic Diffusion",
           "imageUrl": null
-        },
-        {
-          "id": "http://arxiv.org/abs/2301.12389",
-          "author": null,
-          "description": "Hengrui Cai, Yixin Wang, Michael Jordan, Rui Song",
-          "link": "http://arxiv.org/abs/2301.12389",
-          "publishedOn": "2023-01-31T12:31:27.090Z",
-          "wordCount": 668,
-          "title": "On Learning Necessary and Sufficient Causal Graphs",
-          "imageUrl": null
-        },
-        {
-          "id": "http://arxiv.org/abs/2111.08885",
-          "author": null,
-          "description": "Hengrui Cai, Chengchun Shi, Rui Song, Wenbin Lu",
-          "link": "http://arxiv.org/abs/2111.08885",
-          "publishedOn": "2023-01-31T12:31:27.078Z",
-          "wordCount": 692,
-          "title": "Jump Interval-Learning for Individualized Decision Making",
-          "imageUrl": null
         }
       ]
     },
@@ -1149,16 +1129,6 @@
           "publishedOn": "2023-02-11T11:09:00.000Z",
           "wordCount": 1656,
           "title": "测试函数法推导连续性方程和Fokker-Planck方程",
-          "imageUrl": null
-        },
-        {
-          "id": "https://kexue.fm/archives/9444",
-          "author": "苏剑林",
-          "description": "上一篇文章《Transformer升级之路：7、长度外推性与局部注意力》我们讨论了Transformer的长度外推性，得出的结论是长度外推性是一个训练和预测的不一致问题，而解决这个不一致的主要思...",
-          "link": "https://kexue.fm/archives/9444",
-          "publishedOn": "2023-01-31T13:18:00.000Z",
-          "wordCount": 1594,
-          "title": "Transformer升级之路：8、长度外推性与位置鲁棒性",
           "imageUrl": null
         }
       ]
@@ -1536,6 +1506,16 @@
       "feedUrl": "https://xianblog.wordpress.com/feed/",
       "siteUrl": "https://xianblog.wordpress.com",
       "articles": [
+        {
+          "id": "http://xianblog.wordpress.com/?p=52316",
+          "author": "xi'an",
+          "description": "Visit the post for more.",
+          "link": "https://xianblog.wordpress.com/2023/03/02/52316/",
+          "publishedOn": "2023-03-01T23:23:28.000Z",
+          "wordCount": 1721,
+          "title": "keep thunderbird alive!",
+          "imageUrl": "https://xianblog.files.wordpress.com/2023/02/temp-2.png"
+        },
         {
           "id": "http://xianblog.wordpress.com/?p=52249",
           "author": "xi'an",
