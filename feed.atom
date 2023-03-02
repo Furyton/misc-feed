@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-03-02T19:12:58.831Z</updated>
+    <updated>2023-03-02T20:18:50.229Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -1873,59 +1873,6 @@ Language models are now capable of performing many new natural language processi
 In “The Flan Collection: Designing Data and Methods for Effective Instruction Tuning”, we closely examine and release a newer and more extensive publicly ava…]]></summary>
         <author>
             <name>Google AI Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bayesian Learning for Neural Networks: an algorithmic survey]]></title>
-        <id>http://arxiv.org/abs/2211.11865</id>
-        <link href="http://arxiv.org/abs/2211.11865"/>
-        <updated>2023-02-01T07:15:14.907Z</updated>
-        <summary type="html"><![CDATA[Martin Magris, Alexandros Iosifidis]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Unified Causal View of Domain Invariant Representation Learning]]></title>
-        <id>http://arxiv.org/abs/2208.06987</id>
-        <link href="http://arxiv.org/abs/2208.06987"/>
-        <updated>2023-02-01T07:15:14.899Z</updated>
-        <summary type="html"><![CDATA[Zihao Wang, Victor Veitch]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[An $l_1$-oracle inequality for the Lasso in high-dimensional mixtures of
-  experts models]]></title>
-        <id>http://arxiv.org/abs/2009.10622</id>
-        <link href="http://arxiv.org/abs/2009.10622"/>
-        <updated>2023-02-01T07:15:14.893Z</updated>
-        <summary type="html"><![CDATA[TrungTin Nguyen, Hien D Nguyen, Faicel Chamroukhi, Geoffrey J
-  McLachlan]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learning in POMDPs is Sample-Efficient with Hindsight Observability]]></title>
-        <id>http://arxiv.org/abs/2301.13857</id>
-        <link href="http://arxiv.org/abs/2301.13857"/>
-        <updated>2023-02-01T07:15:14.883Z</updated>
-        <summary type="html"><![CDATA[Jonathan N. Lee, Alekh Agarwal, Christoph Dann, Tong Zhang]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Zero-shot-Learning Cross-Modality Data Translation Through Mutual
-  Information Guided Stochastic Diffusion]]></title>
-        <id>http://arxiv.org/abs/2301.13743</id>
-        <link href="http://arxiv.org/abs/2301.13743"/>
-        <updated>2023-02-01T07:15:14.766Z</updated>
-        <summary type="html"><![CDATA[Zihao Wang, Yingyu Yang, Maxime Sermesant, Herv\'e Delingette, Ona Wu]]></summary>
-        <author>
-            <name>arxivist feed</name>
         </author>
     </entry>
 </feed>
