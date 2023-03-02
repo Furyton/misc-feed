@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-03-02T11:14:55.118Z</updated>
+    <updated>2023-03-02T12:33:02.086Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -1926,37 +1926,6 @@ In “The Flan Collection: Designing Data and Methods for Effective Instruction 
         <summary type="html"><![CDATA[Zihao Wang, Yingyu Yang, Maxime Sermesant, Herv\'e Delingette, Ona Wu]]></summary>
         <author>
             <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Don't bother trying to estimate Pandas memory usage]]></title>
-        <id>https://pythonspeed.com/articles/estimating-pandas-memory/</id>
-        <link href="https://pythonspeed.com/articles/estimating-pandas-memory/"/>
-        <updated>2023-02-01T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[You have a file with data you want to process with Pandas, and you want to make sure you won’t run out of memory.
-How do you estimate memory usage given the file size?
-At times you may see estimates like these:
-“Have 5 to 10 times as much RAM as the size of your dataset”, or
-“several times the size of your dataset”, or
-2×-3× the size of the dataset.
-All of these estimates can both under- and over-estimate memory usage, depending on the situation.
-In fact, I will go so far as to say that estimating memory usage is just not worth doing.
-In particular, this article will:
-Demonstrate the very broad range of memory usage you will see just from loading the data, before any processing is done.
-Cover alternative approaches to estimation: measurement and streaming.
-Read more...]]></summary>
-        <author>
-            <name>Python⇒Speed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[统计月读（2023 年 1 月）]]></title>
-        <id>https://cosx.org/2023/02/monthly/</id>
-        <link href="https://cosx.org/2023/02/monthly/"/>
-        <updated>2023-02-01T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[推荐语：还在纠结数据特征如何进行正态化吗？这个包 bestNormalize 提供了多种变换方法的合并调用，并可以通过基于拟合优度的统计量来为你选出最好的方法。 推荐人：]]></summary>
-        <author>
-            <name>统计之都</name>
         </author>
     </entry>
 </feed>

@@ -1263,16 +1263,6 @@
           "wordCount": 2074,
           "title": "Python's multiprocessing performance problem",
           "imageUrl": "https://pythonspeed.com/assets/titles/faster-multiprocessing-pickle.png"
-        },
-        {
-          "id": "https://pythonspeed.com/articles/estimating-pandas-memory/",
-          "author": null,
-          "description": "You have a file with data you want to process with Pandas, and you want to make sure you won’t run out of memory.\nHow do you estimate memory usage given the file size?\nAt times you may see estimates like these:\n“Have 5 to 10 times as much RAM as the size of your dataset”, or\n“several times the size of your dataset”, or\n2×-3× the size of the dataset.\nAll of these estimates can both under- and over-estimate memory usage, depending on the situation.\nIn fact, I will go so far as to say that estimating memory usage is just not worth doing.\nIn particular, this article will:\nDemonstrate the very broad range of memory usage you will see just from loading the data, before any processing is done.\nCover alternative approaches to estimation: measurement and streaming.\nRead more...",
-          "link": "https://pythonspeed.com/articles/estimating-pandas-memory/",
-          "publishedOn": "2023-02-01T00:00:00.000Z",
-          "wordCount": 1643,
-          "title": "Don't bother trying to estimate Pandas memory usage",
-          "imageUrl": "https://pythonspeed.com/assets/titles/estimating-pandas-memory.png"
         }
       ]
     },
@@ -1309,16 +1299,6 @@
           "publishedOn": "2023-02-10T00:00:00.000Z",
           "wordCount": 25564,
           "title": "DT 包速查手册",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cosx.org/2023/02/monthly/",
-          "author": null,
-          "description": "推荐语：还在纠结数据特征如何进行正态化吗？这个包 bestNormalize 提供了多种变换方法的合并调用，并可以通过基于拟合优度的统计量来为你选出最好的方法。 推荐人：",
-          "link": "https://cosx.org/2023/02/monthly/",
-          "publishedOn": "2023-02-01T00:00:00.000Z",
-          "wordCount": 144,
-          "title": "统计月读（2023 年 1 月）",
           "imageUrl": null
         }
       ]
