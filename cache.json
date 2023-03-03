@@ -1825,16 +1825,6 @@
           "wordCount": 27256,
           "title": "Open Source Vizier: Towards reliable and flexible hyperparameter and blackbox optimization",
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEikPG-Aj1VCXtxpt22YM1q22-ieQFmruJ1QGpSBqaL8rYCZYoPo2zLzB_-w7bCRl_yBQXk6CZZp1B9pueu9JWSdQg-ym7pYrk6qoxXVqwezne75ISK_nGB8Q9qAJJUAeoNqdBnzwdMyCYBLqET2L-kO_VMjLJtfFnl2eQfaT3YgrH7BrGe6jmpv4Vl4Tw/w1200-h630-p-k-no-nu/image2.png"
-        },
-        {
-          "id": "http://ai.googleblog.com/2023/02/the-flan-collection-advancing-open.html",
-          "author": null,
-          "description": "Posted by Shayne Longpre, Student Researcher, and Adam Roberts, Senior Staff Software Engineer, Google Research, Brain Team  \nLanguage models are now capable of performing many new natural language processing (NLP) tasks by reading instructions, often that they hadn’t seen before. The ability to reason on new tasks is mostly credited to training models on a wide variety of unique instructions, known as “instruction tuning”, which was introduced by FLAN and extended in T0, Super-Natural Instructions, MetaICL, and InstructGPT. However, much of the data that drives these advances remain unreleased to the broader research community. \n    \nIn “The Flan Collection: Designing Data and Methods for Effective Instruction Tuning”, we closely examine and release a newer and more extensive publicly ava…",
-          "link": "http://ai.googleblog.com/2023/02/the-flan-collection-advancing-open.html",
-          "publishedOn": "2023-02-01T18:16:00.003Z",
-          "wordCount": 27532,
-          "title": "The Flan Collection: Advancing open source methods for instruction tuning",
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiotQFCQbWQFG-jO_skmh_FqnSsh4q2DQTy2JTwLzV8cH8he3epYtMJaZNZx_nBD67sESNzHbcfgzm1VzmeHoEfgcWRKXAAvOmozfp_DfUJZVFxB0XOEr31rHVbTGOygBBD4b62qULCvIWgIXI8nHC6KPuvEM7GQ9Lb8sW-hoik7EEXgp25-9269_-Ktw/w1200-h630-p-k-no-nu/Flan2.png"
         }
       ]
     },
