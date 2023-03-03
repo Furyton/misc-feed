@@ -2,10 +2,62 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-03-03T06:22:16.110Z</updated>
+    <updated>2023-03-03T07:16:00.925Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[In all LikelihoodS: How to Reliably Select Pseudo-Labeled Data for
+  Self-Training in Semi-Supervised Learning]]></title>
+        <id>http://arxiv.org/abs/2303.01117</id>
+        <link href="http://arxiv.org/abs/2303.01117"/>
+        <updated>2023-03-03T07:15:56.301Z</updated>
+        <summary type="html"><![CDATA[Julian Rodemann, Christoph Jansen, Georg Schollmeyer, Thomas Augustin]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NTS-NOTEARS: Learning Nonparametric DBNs With Prior Knowledge]]></title>
+        <id>http://arxiv.org/abs/2109.04286</id>
+        <link href="http://arxiv.org/abs/2109.04286"/>
+        <updated>2023-03-03T07:15:55.453Z</updated>
+        <summary type="html"><![CDATA[Xiangyu Sun, Oliver Schulte, Guiliang Liu, Pascal Poupart]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Weighted Ensemble Self-Supervised Learning]]></title>
+        <id>http://arxiv.org/abs/2211.09981</id>
+        <link href="http://arxiv.org/abs/2211.09981"/>
+        <updated>2023-03-03T07:15:55.448Z</updated>
+        <summary type="html"><![CDATA[Yangjun Ruan, Saurabh Singh, Warren Morningstar, Alexander A. Alemi,
+  Sergey Ioffe, Ian Fischer, Joshua V. Dillon]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Towards the Generalization of Contrastive Self-Supervised Learning]]></title>
+        <id>http://arxiv.org/abs/2111.00743</id>
+        <link href="http://arxiv.org/abs/2111.00743"/>
+        <updated>2023-03-03T07:15:54.783Z</updated>
+        <summary type="html"><![CDATA[Weiran Huang, Mingyang Yi, Xuyang Zhao, Zihao Jiang]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sparse-penalized deep neural networks estimator under weak dependence]]></title>
+        <id>http://arxiv.org/abs/2303.01406</id>
+        <link href="http://arxiv.org/abs/2303.01406"/>
+        <updated>2023-03-03T07:15:54.769Z</updated>
+        <summary type="html"><![CDATA[William Kengne, Modou Wade]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[sticker for birds]]></title>
         <id>http://xianblog.wordpress.com/?p=52235</id>
