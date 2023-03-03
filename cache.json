@@ -974,56 +974,6 @@
           "wordCount": 559,
           "title": "Over-parameterised Shallow Neural Networks with Asymmetrical Node\n  Scaling: Global Convergence Guarantees and Feature Learning",
           "imageUrl": null
-        },
-        {
-          "id": "http://arxiv.org/abs/2203.06527",
-          "author": null,
-          "description": "Binyamin Perets, Mark Kozdoba, Shie Mannor",
-          "link": "http://arxiv.org/abs/2203.06527",
-          "publishedOn": "2023-02-02T07:14:33.123Z",
-          "wordCount": 693,
-          "title": "Whats Missing? Learning Hidden Markov Models When the Locations of\n  Missing Observations are Unknown",
-          "imageUrl": null
-        },
-        {
-          "id": "http://arxiv.org/abs/2302.00375",
-          "author": null,
-          "description": "Hugo Cui, Florent Krzakala, Lenka Zdeborov\\'a",
-          "link": "http://arxiv.org/abs/2302.00375",
-          "publishedOn": "2023-02-02T07:14:32.995Z",
-          "wordCount": 578,
-          "title": "Optimal Learning of Deep Random Networks of Extensive-width",
-          "imageUrl": null
-        },
-        {
-          "id": "http://arxiv.org/abs/2302.00205",
-          "author": null,
-          "description": "Alistair Shilton, Sunil Gupta, Santu Rana, Svetha Venkatesh",
-          "link": "http://arxiv.org/abs/2302.00205",
-          "publishedOn": "2023-02-02T07:14:32.969Z",
-          "wordCount": 644,
-          "title": "Gradient Descent in Neural Networks as Sequential Learning in RKBS",
-          "imageUrl": null
-        },
-        {
-          "id": "http://arxiv.org/abs/2110.13162",
-          "author": null,
-          "description": "Sofiene Jerbi, Lukas J. Fiderer, Hendrik Poulsen Nautrup, Jonas M.\n  K\\\"ubler, Hans J. Briegel, Vedran Dunjko",
-          "link": "http://arxiv.org/abs/2110.13162",
-          "publishedOn": "2023-02-02T07:14:32.960Z",
-          "wordCount": 705,
-          "title": "Quantum machine learning beyond kernel methods",
-          "imageUrl": null
-        },
-        {
-          "id": "http://arxiv.org/abs/2302.00333",
-          "author": null,
-          "description": "William Kengne, Wade Modou",
-          "link": "http://arxiv.org/abs/2302.00333",
-          "publishedOn": "2023-02-02T07:14:32.936Z",
-          "wordCount": 554,
-          "title": "Deep learning for $\\psi$-weakly dependent processes",
-          "imageUrl": null
         }
       ]
     },
@@ -1424,16 +1374,6 @@
           "wordCount": 2124,
           "title": "Democratizing AI with PyTorch Foundation and ROCm™ support for PyTorch",
           "imageUrl": "https://pytorch.org/assets/images/pytorch-logo.png"
-        },
-        {
-          "id": "https://pytorch.org/blog/deprecation-cuda-python-support/",
-          "author": null,
-          "description": "For the upcoming PyTorch 2.0 feature release (target March 2023), we will target CUDA 11.7 as the stable version and CUDA 11.8 as the experimental version of CUDA and Python &gt;=3.8, &lt;=3.11.",
-          "link": "https://pytorch.org/blog/deprecation-cuda-python-support/",
-          "publishedOn": "2023-02-02T08:00:00.000Z",
-          "wordCount": 709,
-          "title": "Deprecation of CUDA 11.6 and Python 3.7 Support",
-          "imageUrl": "https://pytorch.org/assets/images/pytorch-logo.png"
         }
       ]
     },
@@ -1686,6 +1626,16 @@
       "feedUrl": "http://feeds.feedburner.com/blogspot/gJZg",
       "siteUrl": "http://ai.googleblog.com/",
       "articles": [
+        {
+          "id": "http://ai.googleblog.com/2023/03/performer-mpc-navigation-via-real-time.html",
+          "author": null,
+          "description": "Posted by Krzysztof Choromanski, Staff Research Scientist, Robotics at Google, and Xuesu Xiao, Visiting Researcher, George Mason University   \nDespite decades of research, we don’t see many mobile robots roaming our homes, offices, and streets. Real-world robot navigation in human-centric environments remains an unsolved problem. These challenging situations require safe and efficient navigation through tight spaces, such as squeezing between coffee tables and couches, maneuvering in tight corners, doorways, untidy rooms, and more. An equally critical requirement is to navigate in a manner that complies with unwritten social norms around people, for example, yielding at blind corners or staying at a comfortable distance. Google Research is committed to examining how advances in ML may enab…",
+          "link": "http://ai.googleblog.com/2023/03/performer-mpc-navigation-via-real-time.html",
+          "publishedOn": "2023-03-03T18:20:00.000Z",
+          "wordCount": 27800,
+          "title": "Performer-MPC: Navigation via real-time, on-robot transformers",
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhGjlA51CwGK8jDynkq00hMCopyh2JWc_6MhtS22XOGVUt9g51r6uohzPK_dxrM6lHikIXxm0V416CUDqaCRw1PFhWLIQNBlXeuUMqwKqLlkvV8Mm9DYHUHCQCwmHfb_C6aIHr86pXVpHoskC_9Xq44l5_XzVygE61DModW4nWEkk6NBKkiB5muJRAw3Q/w1200-h630-p-k-no-nu/Performer-MPC%20here.jpg"
+        },
         {
           "id": "http://ai.googleblog.com/2023/03/distributed-differential-privacy-for.html",
           "author": null,

@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-03-03T19:13:56.488Z</updated>
+    <updated>2023-03-03T20:18:31.076Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Performer-MPC: Navigation via real-time, on-robot transformers]]></title>
+        <id>http://ai.googleblog.com/2023/03/performer-mpc-navigation-via-real-time.html</id>
+        <link href="http://ai.googleblog.com/2023/03/performer-mpc-navigation-via-real-time.html"/>
+        <updated>2023-03-03T18:20:00.000Z</updated>
+        <summary type="html"><![CDATA[Posted by Krzysztof Choromanski, Staff Research Scientist, Robotics at Google, and Xuesu Xiao, Visiting Researcher, George Mason University   
+Despite decades of research, we don’t see many mobile robots roaming our homes, offices, and streets. Real-world robot navigation in human-centric environments remains an unsolved problem. These challenging situations require safe and efficient navigation through tight spaces, such as squeezing between coffee tables and couches, maneuvering in tight corners, doorways, untidy rooms, and more. An equally critical requirement is to navigate in a manner that complies with unwritten social norms around people, for example, yielding at blind corners or staying at a comfortable distance. Google Research is committed to examining how advances in ML may enab…]]></summary>
+        <author>
+            <name>Google AI Blog</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Japanese arrow emojis]]></title>
         <id>https://languagelog.ldc.upenn.edu/nll/?p=58135</id>
@@ -1883,68 +1894,6 @@ As part of Google’s mission to help people access trusted information in criti
 Google Vizier is the de-facto system for blackbox optimization over objective functions and hyperparameters across Google, having serviced some of Google’s largest research efforts and optimized a wide range of products (e.g., Search, Ads, YouTube). For research, it has not only reduced language model latency for users, designed computer architectures, accelerated hardware, assisted protein discovery, and enhanced robotics, but also provided a reliable backend interface for users to search for neural architectures and evolve reinforcement learning algorithms. To operate at the scale of optimizing thousands of users’ critical systems and tuning millions of machine learning…]]></summary>
         <author>
             <name>Google AI Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Deprecation of CUDA 11.6 and Python 3.7 Support]]></title>
-        <id>https://pytorch.org/blog/deprecation-cuda-python-support/</id>
-        <link href="https://pytorch.org/blog/deprecation-cuda-python-support/"/>
-        <updated>2023-02-02T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[For the upcoming PyTorch 2.0 feature release (target March 2023), we will target CUDA 11.7 as the stable version and CUDA 11.8 as the experimental version of CUDA and Python &gt;=3.8, &lt;=3.11.]]></summary>
-        <author>
-            <name>PyTorch Website</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Whats Missing? Learning Hidden Markov Models When the Locations of
-  Missing Observations are Unknown]]></title>
-        <id>http://arxiv.org/abs/2203.06527</id>
-        <link href="http://arxiv.org/abs/2203.06527"/>
-        <updated>2023-02-02T07:14:33.123Z</updated>
-        <summary type="html"><![CDATA[Binyamin Perets, Mark Kozdoba, Shie Mannor]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Optimal Learning of Deep Random Networks of Extensive-width]]></title>
-        <id>http://arxiv.org/abs/2302.00375</id>
-        <link href="http://arxiv.org/abs/2302.00375"/>
-        <updated>2023-02-02T07:14:32.995Z</updated>
-        <summary type="html"><![CDATA[Hugo Cui, Florent Krzakala, Lenka Zdeborov\'a]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gradient Descent in Neural Networks as Sequential Learning in RKBS]]></title>
-        <id>http://arxiv.org/abs/2302.00205</id>
-        <link href="http://arxiv.org/abs/2302.00205"/>
-        <updated>2023-02-02T07:14:32.969Z</updated>
-        <summary type="html"><![CDATA[Alistair Shilton, Sunil Gupta, Santu Rana, Svetha Venkatesh]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Quantum machine learning beyond kernel methods]]></title>
-        <id>http://arxiv.org/abs/2110.13162</id>
-        <link href="http://arxiv.org/abs/2110.13162"/>
-        <updated>2023-02-02T07:14:32.960Z</updated>
-        <summary type="html"><![CDATA[Sofiene Jerbi, Lukas J. Fiderer, Hendrik Poulsen Nautrup, Jonas M.
-  K\"ubler, Hans J. Briegel, Vedran Dunjko]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Deep learning for $\psi$-weakly dependent processes]]></title>
-        <id>http://arxiv.org/abs/2302.00333</id>
-        <link href="http://arxiv.org/abs/2302.00333"/>
-        <updated>2023-02-02T07:14:32.936Z</updated>
-        <summary type="html"><![CDATA[William Kengne, Wade Modou]]></summary>
-        <author>
-            <name>arxivist feed</name>
         </author>
     </entry>
 </feed>
