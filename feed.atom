@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-03-03T14:15:50.336Z</updated>
+    <updated>2023-03-03T15:18:08.455Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Japanese arrow emojis]]></title>
+        <id>https://languagelog.ldc.upenn.edu/nll/?p=58135</id>
+        <link href="https://languagelog.ldc.upenn.edu/nll/?p=58135&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=japanese-arrow-emojis"/>
+        <updated>2023-03-03T15:05:03.000Z</updated>
+        <summary type="html"><![CDATA[I often receive anguished inquiries about emojis, emoticons, hanzi, hangul, kana, and similar matters.  I try to answer as many of them as I can, and many of them have important implications for the nature of writing, the relationship between speech and script, cultural interactions and contexts, and so forth. Back in mid-January, there was […]]]></summary>
+        <author>
+            <name>Victor Mair</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[In all LikelihoodS: How to Reliably Select Pseudo-Labeled Data for
   Self-Training in Semi-Supervised Learning]]></title>
