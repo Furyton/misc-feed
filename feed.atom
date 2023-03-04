@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-03-04T19:13:15.643Z</updated>
+    <updated>2023-03-04T20:17:20.531Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -1853,61 +1853,6 @@ As part of Google’s mission to help people access trusted information in criti
         <summary type="html"><![CDATA[Deep learning algorithms are responsible for a technological revolution in a variety of tasks, yet understanding why they work remains a challenge.  A particularly puzzling fact is their ability to learn high-dimensional tasks. Due to the curse of dimensionality (the fact that accurate sampling cannot be achieved in high dimension), this should be generically impossible.  Learnable tasks (such as classifying images) must present a lot of structure, whose nature is debated. I will discuss three properties of data plausibly connected to their learnability: locality, sparsity, and their hierarchical/combinatorial aspect, both from  empirical and simple model viewpoints. I will discuss the importance of distinguishing  different training regimes, when a representation of the data is learnt, or not.]]></summary>
         <author>
             <name>Harvard ML Foundations</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sample Complexity of Kernel-Based Q-Learning]]></title>
-        <id>http://arxiv.org/abs/2302.00727</id>
-        <link href="http://arxiv.org/abs/2302.00727"/>
-        <updated>2023-02-03T07:14:54.848Z</updated>
-        <summary type="html"><![CDATA[Sing-Yuan Yeh, Fu-Chieh Chang, Chang-Wei Yueh, Pei-Yuan Wu, Alberto
-  Bernacchia, Sattar Vakili]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sharp Lower Bounds on Interpolation by Deep ReLU Neural Networks at
-  Irregularly Spaced Data]]></title>
-        <id>http://arxiv.org/abs/2302.00834</id>
-        <link href="http://arxiv.org/abs/2302.00834"/>
-        <updated>2023-02-03T07:14:54.796Z</updated>
-        <summary type="html"><![CDATA[Jonathan W. Siegel]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lower Bounds for Learning in Revealing POMDPs]]></title>
-        <id>http://arxiv.org/abs/2302.01333</id>
-        <link href="http://arxiv.org/abs/2302.01333"/>
-        <updated>2023-02-03T07:14:54.790Z</updated>
-        <summary type="html"><![CDATA[Fan Chen, Huan Wang, Caiming Xiong, Song Mei, Yu Bai]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Large-scale Stochastic Optimization of NDCG Surrogates for Deep Learning
-  with Provable Convergence]]></title>
-        <id>http://arxiv.org/abs/2202.12183</id>
-        <link href="http://arxiv.org/abs/2202.12183"/>
-        <updated>2023-02-03T07:14:54.688Z</updated>
-        <summary type="html"><![CDATA[Zi-Hao Qiu, Quanqi Hu, Yongjian Zhong, Lijun Zhang, Tianbao Yang]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Over-parameterised Shallow Neural Networks with Asymmetrical Node
-  Scaling: Global Convergence Guarantees and Feature Learning]]></title>
-        <id>http://arxiv.org/abs/2302.01002</id>
-        <link href="http://arxiv.org/abs/2302.01002"/>
-        <updated>2023-02-03T07:14:54.681Z</updated>
-        <summary type="html"><![CDATA[Francois Caron, Fadhel Ayed, Paul Jung, Hoil Lee, Juho Lee, Hongseok
-  Yang]]></summary>
-        <author>
-            <name>arxivist feed</name>
         </author>
     </entry>
 </feed>
