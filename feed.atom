@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-03-04T08:20:56.856Z</updated>
+    <updated>2023-03-04T09:15:36.492Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -1878,21 +1878,6 @@ As part of Google’s mission to help people access trusted information in criti
   Yang]]></summary>
         <author>
             <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google Research, 2022 & beyond: ML & computer systems]]></title>
-        <id>http://ai.googleblog.com/2023/02/google-research-2022-beyond-ml-computer.html</id>
-        <link href="http://ai.googleblog.com/2023/02/google-research-2022-beyond-ml-computer.html"/>
-        <updated>2023-02-02T21:13:00.008Z</updated>
-        <summary type="html"><![CDATA[Posted by Phitchaya Mangpo Phothilimthana, Staff Research Scientist, and Adam Paszke, Staff Research Scientist, Google Research    
-    
-
-(This is Part 3 in our series of posts covering different topical areas of research at Google. You can find other posts in the series here.)
-   
-  Great machine learning (ML) research requires great systems. With the increasing sophistication of the algorithms and hardware in use today and with the scale at which they run, the complexity of the software necessary to carry out day-to-day tasks only increases. In this post, we provide an overview of the numerous advances made across Google this past year in systems for ML that enable us to support the serving and training of complex models while easing the complexity of implementation for end users. This b…]]></summary>
-        <author>
-            <name>Google AI Blog</name>
         </author>
     </entry>
 </feed>
