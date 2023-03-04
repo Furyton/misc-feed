@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-03-04T05:15:40.799Z</updated>
+    <updated>2023-03-04T06:21:13.458Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -1891,17 +1891,6 @@ As part of Google’s mission to help people access trusted information in criti
 (This is Part 3 in our series of posts covering different topical areas of research at Google. You can find other posts in the series here.)
    
   Great machine learning (ML) research requires great systems. With the increasing sophistication of the algorithms and hardware in use today and with the scale at which they run, the complexity of the software necessary to carry out day-to-day tasks only increases. In this post, we provide an overview of the numerous advances made across Google this past year in systems for ML that enable us to support the serving and training of complex models while easing the complexity of implementation for end users. This b…]]></summary>
-        <author>
-            <name>Google AI Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Open Source Vizier: Towards reliable and flexible hyperparameter and blackbox optimization]]></title>
-        <id>http://ai.googleblog.com/2023/02/open-source-vizier-towards-reliable-and.html</id>
-        <link href="http://ai.googleblog.com/2023/02/open-source-vizier-towards-reliable-and.html"/>
-        <updated>2023-02-02T17:56:00.002Z</updated>
-        <summary type="html"><![CDATA[Posted by Xingyou (Richard) Song, Research Scientist, and Chansoo Lee, Software Engineer, Google Research, Brain Team  
-Google Vizier is the de-facto system for blackbox optimization over objective functions and hyperparameters across Google, having serviced some of Google’s largest research efforts and optimized a wide range of products (e.g., Search, Ads, YouTube). For research, it has not only reduced language model latency for users, designed computer architectures, accelerated hardware, assisted protein discovery, and enhanced robotics, but also provided a reliable backend interface for users to search for neural architectures and evolve reinforcement learning algorithms. To operate at the scale of optimizing thousands of users’ critical systems and tuning millions of machine learning…]]></summary>
         <author>
             <name>Google AI Blog</name>
         </author>
