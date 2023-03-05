@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-03-05T01:43:46.082Z</updated>
+    <updated>2023-03-05T03:00:06.149Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -1853,16 +1853,6 @@ The explosion in deep learning a decade ago was catapulted in part by the conver
 As part of Google’s mission to help people access trusted information in critical moments, we use satellite imagery and machine learning (ML) to track wildfires and inform affected communities. Our wildfire tracker was recently expanded. It provides updated fire boundary information every 10–15 minutes, is more accurate than similar satellite products, and improves on our previous work. These boundaries are shown for large fires in the continental US, Mexico, and most of Cana…]]></summary>
         <author>
             <name>Google AI Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Matthieu Wyart - Data structure and curse of dimensionality in deep learning]]></title>
-        <id>https://mlfoundations.org/talk/wyart/</id>
-        <link href="https://mlfoundations.org/talk/wyart/"/>
-        <updated>2023-02-03T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Deep learning algorithms are responsible for a technological revolution in a variety of tasks, yet understanding why they work remains a challenge.  A particularly puzzling fact is their ability to learn high-dimensional tasks. Due to the curse of dimensionality (the fact that accurate sampling cannot be achieved in high dimension), this should be generically impossible.  Learnable tasks (such as classifying images) must present a lot of structure, whose nature is debated. I will discuss three properties of data plausibly connected to their learnability: locality, sparsity, and their hierarchical/combinatorial aspect, both from  empirical and simple model viewpoints. I will discuss the importance of distinguishing  different training regimes, when a representation of the data is learnt, or not.]]></summary>
-        <author>
-            <name>Harvard ML Foundations</name>
         </author>
     </entry>
 </feed>

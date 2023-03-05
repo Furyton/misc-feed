@@ -1113,16 +1113,6 @@
           "wordCount": 181,
           "title": "Roger Grosse - Studying Neural Net Generalization through Influence Functions",
           "imageUrl": "https://mlfoundations.org/img/icon-192.png"
-        },
-        {
-          "id": "https://mlfoundations.org/talk/wyart/",
-          "author": null,
-          "description": "Deep learning algorithms are responsible for a technological revolution in a variety of tasks, yet understanding why they work remains a challenge.  A particularly puzzling fact is their ability to learn high-dimensional tasks. Due to the curse of dimensionality (the fact that accurate sampling cannot be achieved in high dimension), this should be generically impossible.  Learnable tasks (such as classifying images) must present a lot of structure, whose nature is debated. I will discuss three properties of data plausibly connected to their learnability: locality, sparsity, and their hierarchical/combinatorial aspect, both from  empirical and simple model viewpoints. I will discuss the importance of distinguishing  different training regimes, when a representation of the data is learnt, or not.",
-          "link": "https://mlfoundations.org/talk/wyart/",
-          "publishedOn": "2023-02-03T14:00:00.000Z",
-          "wordCount": 186,
-          "title": "Matthieu Wyart - Data structure and curse of dimensionality in deep learning",
-          "imageUrl": "https://mlfoundations.org/img/icon-192.png"
         }
       ]
     },
