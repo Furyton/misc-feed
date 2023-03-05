@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-03-05T05:15:43.612Z</updated>
+    <updated>2023-03-05T06:20:23.022Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -1840,19 +1840,6 @@ The explosion in deep learning a decade ago was catapulted in part by the conver
         <summary type="html"><![CDATA[Wolfgang Messner]]></summary>
         <author>
             <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Real-time tracking of wildfire boundaries using satellite imagery]]></title>
-        <id>http://ai.googleblog.com/2023/02/real-time-tracking-of-wildfire.html</id>
-        <link href="http://ai.googleblog.com/2023/02/real-time-tracking-of-wildfire.html"/>
-        <updated>2023-02-03T18:05:00.012Z</updated>
-        <summary type="html"><![CDATA[Posted by Zvika Ben-Haim and Omer Nevo, Software Engineers, Google Research   
-   As global temperatures rise, wildfires around the world are becoming more frequent and more dangerous. Their effects are felt by many communities as people evacuate their homes or suffer harm even from proximity to the fire and smoke.  
-
-As part of Google’s mission to help people access trusted information in critical moments, we use satellite imagery and machine learning (ML) to track wildfires and inform affected communities. Our wildfire tracker was recently expanded. It provides updated fire boundary information every 10–15 minutes, is more accurate than similar satellite products, and improves on our previous work. These boundaries are shown for large fires in the continental US, Mexico, and most of Cana…]]></summary>
-        <author>
-            <name>Google AI Blog</name>
         </author>
     </entry>
 </feed>
