@@ -1667,6 +1667,16 @@
       "siteUrl": "http://ai.googleblog.com/",
       "articles": [
         {
+          "id": "http://ai.googleblog.com/2023/03/universal-speech-model-usm-state-of-art.html",
+          "author": null,
+          "description": "Posted by Yu Zhang, Research Scientist, and James Qin, Software Engineer, Google Research  \nLast November, we announced the 1,000 Languages Initiative, an ambitious commitment to build a machine learning (ML) model that would support the world’s one thousand most-spoken languages, bringing greater inclusion to billions of people around the globe. However, some of these languages are spoken by fewer than twenty million people, so a core challenge is how to support languages for which there are relatively few speakers or limited available data. \n\nToday, we are excited to share more about the Universal Speech Model (USM), a critical first step towards supporting 1,000 languages. USM is a family of state-of-the-art speech models with 2B parameters trained on 12 million hours of speech and 28 b…",
+          "link": "http://ai.googleblog.com/2023/03/universal-speech-model-usm-state-of-art.html",
+          "publishedOn": "2023-03-06T18:06:00.004Z",
+          "wordCount": 27664,
+          "title": "Universal Speech Model (USM): State-of-the-art speech AI for 100+ languages",
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiAF6WlSalZr_8FX6lnE2TEVj0IPENr_72jk-rCc0Aygz-y3JohbaYAyuKGYiEjTtCR5E38GalUT49ROJLtgTGzsCvUGdNsQ16dHfSIEYhdGMU1kynDmdXbet8pRiS9KPTO7GOGu1enPgfrDRvMbn3Jq7Kzce30mLwAvWJuzqmUU2zVKvoGOSv7jcxT9Q/w1200-h630-p-k-no-nu/USM.png"
+        },
+        {
           "id": "http://ai.googleblog.com/2023/03/performer-mpc-navigation-via-real-time.html",
           "author": null,
           "description": "Posted by Krzysztof Choromanski, Staff Research Scientist, Robotics at Google, and Xuesu Xiao, Visiting Researcher, George Mason University   \nDespite decades of research, we don’t see many mobile robots roaming our homes, offices, and streets. Real-world robot navigation in human-centric environments remains an unsolved problem. These challenging situations require safe and efficient navigation through tight spaces, such as squeezing between coffee tables and couches, maneuvering in tight corners, doorways, untidy rooms, and more. An equally critical requirement is to navigate in a manner that complies with unwritten social norms around people, for example, yielding at blind corners or staying at a comfortable distance. Google Research is committed to examining how advances in ML may enab…",
