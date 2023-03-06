@@ -6,6 +6,56 @@
       "siteUrl": "https://www.arxivist.com",
       "articles": [
         {
+          "id": "http://arxiv.org/abs/2303.02060",
+          "author": null,
+          "description": "Iris R. Stone, Yotam Sagiv, Il Memming Park, Jonathan W. Pillow",
+          "link": "http://arxiv.org/abs/2303.02060",
+          "publishedOn": "2023-03-06T07:16:08.680Z",
+          "wordCount": 610,
+          "title": "Spectral learning of Bernoulli linear dynamical systems models for\n  decision-making",
+          "imageUrl": null
+        },
+        {
+          "id": "http://arxiv.org/abs/2302.03241",
+          "author": null,
+          "description": "Zixuan Ke, Yijia Shao, Haowei Lin, Tatsuya Konishi, Gyuhak Kim, and\n  Bing Liu",
+          "link": "http://arxiv.org/abs/2302.03241",
+          "publishedOn": "2023-03-06T07:16:08.209Z",
+          "wordCount": 652,
+          "title": "Continual Learning of Language Models",
+          "imageUrl": null
+        },
+        {
+          "id": "http://arxiv.org/abs/2103.15532",
+          "author": null,
+          "description": "See Hian Lee, Feng Ji, Wee Peng Tay",
+          "link": "http://arxiv.org/abs/2103.15532",
+          "publishedOn": "2023-03-06T07:16:08.165Z",
+          "wordCount": 622,
+          "title": "Learning on heterogeneous graphs using high-order relations",
+          "imageUrl": null
+        },
+        {
+          "id": "http://arxiv.org/abs/2203.07512",
+          "author": null,
+          "description": "Hugo Schmutz, Olivier Humbert, Pierre-Alexandre Mattei",
+          "link": "http://arxiv.org/abs/2203.07512",
+          "publishedOn": "2023-03-06T07:16:06.488Z",
+          "wordCount": 665,
+          "title": "Don't fear the unlabelled: safe semi-supervised learning via simple\n  debiasing",
+          "imageUrl": null
+        },
+        {
+          "id": "http://arxiv.org/abs/2303.02045",
+          "author": null,
+          "description": "Danruo Deng, Guangyong Chen, Yang Yu, Furui Liu, Pheng-Ann Heng",
+          "link": "http://arxiv.org/abs/2303.02045",
+          "publishedOn": "2023-03-06T07:16:06.482Z",
+          "wordCount": 615,
+          "title": "Uncertainty Estimation by Fisher Information-based Evidential Deep\n  Learning",
+          "imageUrl": null
+        },
+        {
           "id": "http://arxiv.org/abs/2303.01117",
           "author": null,
           "description": "Julian Rodemann, Christoph Jansen, Georg Schollmeyer, Thomas Augustin",

@@ -2,10 +2,64 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-03-06T06:22:55.714Z</updated>
+    <updated>2023-03-06T07:16:14.691Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Spectral learning of Bernoulli linear dynamical systems models for
+  decision-making]]></title>
+        <id>http://arxiv.org/abs/2303.02060</id>
+        <link href="http://arxiv.org/abs/2303.02060"/>
+        <updated>2023-03-06T07:16:08.680Z</updated>
+        <summary type="html"><![CDATA[Iris R. Stone, Yotam Sagiv, Il Memming Park, Jonathan W. Pillow]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Continual Learning of Language Models]]></title>
+        <id>http://arxiv.org/abs/2302.03241</id>
+        <link href="http://arxiv.org/abs/2302.03241"/>
+        <updated>2023-03-06T07:16:08.209Z</updated>
+        <summary type="html"><![CDATA[Zixuan Ke, Yijia Shao, Haowei Lin, Tatsuya Konishi, Gyuhak Kim, and
+  Bing Liu]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learning on heterogeneous graphs using high-order relations]]></title>
+        <id>http://arxiv.org/abs/2103.15532</id>
+        <link href="http://arxiv.org/abs/2103.15532"/>
+        <updated>2023-03-06T07:16:08.165Z</updated>
+        <summary type="html"><![CDATA[See Hian Lee, Feng Ji, Wee Peng Tay]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Don't fear the unlabelled: safe semi-supervised learning via simple
+  debiasing]]></title>
+        <id>http://arxiv.org/abs/2203.07512</id>
+        <link href="http://arxiv.org/abs/2203.07512"/>
+        <updated>2023-03-06T07:16:06.488Z</updated>
+        <summary type="html"><![CDATA[Hugo Schmutz, Olivier Humbert, Pierre-Alexandre Mattei]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Uncertainty Estimation by Fisher Information-based Evidential Deep
+  Learning]]></title>
+        <id>http://arxiv.org/abs/2303.02045</id>
+        <link href="http://arxiv.org/abs/2303.02045"/>
+        <updated>2023-03-06T07:16:06.482Z</updated>
+        <summary type="html"><![CDATA[Danruo Deng, Guangyong Chen, Yang Yu, Furui Liu, Pheng-Ann Heng]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[slice samplers for nested sampling]]></title>
         <id>http://xianblog.wordpress.com/?p=52350</id>
