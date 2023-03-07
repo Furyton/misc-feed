@@ -984,46 +984,6 @@
           "wordCount": 648,
           "title": "Learning Variational Models with Unrolling and Bilevel Optimization",
           "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
-        },
-        {
-          "id": "http://arxiv.org/abs/2212.10839",
-          "author": null,
-          "description": "Jiongli Zhu, Sainyam Galhotra, Nazanin Sabri, Babak Salimi",
-          "link": "http://arxiv.org/abs/2212.10839",
-          "publishedOn": "2023-02-06T07:14:56.460Z",
-          "wordCount": 579,
-          "title": "Consistent Range Approximation for Fair Predictive Modeling",
-          "imageUrl": null
-        },
-        {
-          "id": "http://arxiv.org/abs/2302.01771",
-          "author": null,
-          "description": "Jose Gonz\\'alez-Abad, Jorge Ba\\~no-Medina, Jos\\'e Manuel Guti\\'errez",
-          "link": "http://arxiv.org/abs/2302.01771",
-          "publishedOn": "2023-02-06T07:14:56.443Z",
-          "wordCount": 601,
-          "title": "Using Explainability to Inform Statistical Downscaling Based on Deep\n  Learning Beyond Standard Validation Approaches",
-          "imageUrl": null
-        },
-        {
-          "id": "http://arxiv.org/abs/2203.04706",
-          "author": null,
-          "description": "Line H. Clemmensen, Rune D. Kj{\\ae}rsgaard",
-          "link": "http://arxiv.org/abs/2203.04706",
-          "publishedOn": "2023-02-06T07:14:56.424Z",
-          "wordCount": 620,
-          "title": "Data Representativity for Machine Learning and AI Systems",
-          "imageUrl": null
-        },
-        {
-          "id": "http://arxiv.org/abs/2302.01407",
-          "author": null,
-          "description": "Wolfgang Messner",
-          "link": "http://arxiv.org/abs/2302.01407",
-          "publishedOn": "2023-02-06T07:14:56.419Z",
-          "wordCount": 621,
-          "title": "Hypothesis Testing and Machine Learning: Interpreting Variable Effects\n  in Deep Artificial Neural Networks using Cohen's f2",
-          "imageUrl": null
         }
       ]
     },
@@ -1055,6 +1015,16 @@
       "feedUrl": "https://gilkalai.wordpress.com/feed/",
       "siteUrl": "https://gilkalai.wordpress.com",
       "articles": [
+        {
+          "id": "http://gilkalai.wordpress.com/?p=23935",
+          "author": "Gil Kalai",
+          "description": "Greg Kuperberg is having a short visit in Israel and yesterday he gave a fantastic lecture on an improved bound for the Kitaev-Solovay theorem. Here is a videotaped lecture of Greg on the same topic in QIP2023. Kitaev-Solovay theorem from … Continue reading →",
+          "link": "https://gilkalai.wordpress.com/2023/03/07/greg-kuperberg-tel-aviv-university/",
+          "publishedOn": "2023-03-07T19:45:54.000Z",
+          "wordCount": 3346,
+          "title": "Greg Kuperberg @ Tel Aviv University",
+          "imageUrl": "https://gilkalai.files.wordpress.com/2023/03/zigzagolf.png"
+        },
         {
           "id": "http://gilkalai.wordpress.com/?p=23922",
           "author": "Gil Kalai",
@@ -1494,6 +1464,16 @@
       "siteUrl": "https://gilkalai.wordpress.com",
       "articles": [
         {
+          "id": "http://gilkalai.wordpress.com/?p=23935",
+          "author": "Gil Kalai",
+          "description": "Greg Kuperberg is having a short visit in Israel and yesterday he gave a fantastic lecture on an improved bound for the Kitaev-Solovay theorem. Here is a videotaped lecture of Greg on the same topic in QIP2023. Kitaev-Solovay theorem from … Continue reading →",
+          "link": "https://gilkalai.wordpress.com/2023/03/07/greg-kuperberg-tel-aviv-university/",
+          "publishedOn": "2023-03-07T19:45:54.000Z",
+          "wordCount": 3346,
+          "title": "Greg Kuperberg @ Tel Aviv University",
+          "imageUrl": "https://gilkalai.files.wordpress.com/2023/03/zigzagolf.png"
+        },
+        {
           "id": "http://gilkalai.wordpress.com/?p=23922",
           "author": "Gil Kalai",
           "description": "We are running tomorrow the annual Israeli workshop in algorithmic game theory. Where: Reichman University. The conference will take place in room EL03, Adelson building.  Program: here. Registration: here (free). Main speakers: Moshe Babaioff (Microsoft Research), Gil Kalai (Reichman University … Continue reading →",
@@ -1736,6 +1716,16 @@
       "feedUrl": "http://feeds.feedburner.com/blogspot/gJZg",
       "siteUrl": "http://ai.googleblog.com/",
       "articles": [
+        {
+          "id": "http://ai.googleblog.com/2023/03/announcing-icdar-2023-competition-on.html",
+          "author": null,
+          "description": "Posted by Shangbang Long, Software Engineer, Google Research   \nThe last few decades have witnessed the rapid development of Optical Character Recognition (OCR) technology, which has evolved from an academic benchmark task used in early breakthroughs of deep learning research to tangible products available in consumer devices and to third party developers for daily use. These OCR products digitize and democratize the valuable information that is stored in paper or image-based sources (e.g., books, magazines, newspapers, forms, street signs, restaurant menus) so that they can be indexed, searched, translated, and further processed by state-of-the-art natural language processing techniques.  \n \nResearch in scene text detection and recognition (or scene text spotting) has been the major drive…",
+          "link": "http://ai.googleblog.com/2023/03/announcing-icdar-2023-competition-on.html",
+          "publishedOn": "2023-03-07T18:10:00.001Z",
+          "wordCount": 27354,
+          "title": "Announcing the ICDAR 2023 Competition on Hierarchical Text Detection and Recognition",
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgGR9HCXD-YGjWLgB8FY_2fBliM59O4xeOcTq2b1u6EjvM6Z82-Dr1pkPr9Ama3F9sxHxwWRM6V9dhtJqQcFeVrAezNOnrFtnuQOqhC-SK0TsxX4tHMMds9ppRlH90pQmtlMC2n-qAvD1ixial-yweFW3sO-JvkAyDDIWNfvBsPohPaS0MtAgTIkp-etQ/w1200-h630-p-k-no-nu/Hiertext%20hero.jpg"
+        },
         {
           "id": "http://ai.googleblog.com/2023/03/universal-speech-model-usm-state-of-art.html",
           "author": null,
