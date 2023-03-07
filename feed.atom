@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-03-06T23:17:56.171Z</updated>
+    <updated>2023-03-07T01:39:16.793Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Anti-collision particle physics]]></title>
+        <id>https://languagelog.ldc.upenn.edu/nll/?p=58156</id>
+        <link href="https://languagelog.ldc.upenn.edu/nll/?p=58156&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=anti-collision-particle-physics"/>
+        <updated>2023-03-07T01:13:30.000Z</updated>
+        <summary type="html"><![CDATA[From the Temu website. They're the kind of bumper buttons you put on cabinet doors or sometimes on the bottoms of fragile things. IKEA furniture used to come with a couple of these. Just peel and stick in the corner so cabinet doors don't slam. Selected readings "'These can be aptly compared with the challenges, problems, […]]]></summary>
+        <author>
+            <name>Victor Mair</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ABConic mean evidence approximation]]></title>
+        <id>http://xianblog.wordpress.com/?p=52370</id>
+        <link href="https://xianblog.wordpress.com/2023/03/07/abconic-mean-evidence-approximation/"/>
+        <updated>2023-03-06T23:23:28.000Z</updated>
+        <summary type="html"><![CDATA[Following a question on X validated about evidence approximation in ABC settings, i.e., on returning an approximation of the evidence based on the outputs of parallel ABC runs for the models under comparison, I wondered at the relevance of an harmonic mean estimator in that context. Rather than using the original ABC algorithm that proposes […]]]></summary>
+        <author>
+            <name>xi'an</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Universal Speech Model (USM): State-of-the-art speech AI for 100+ languages]]></title>
         <id>http://ai.googleblog.com/2023/03/universal-speech-model-usm-state-of-art.html</id>
