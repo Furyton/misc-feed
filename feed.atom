@@ -2,10 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-03-08T06:22:03.802Z</updated>
+    <updated>2023-03-08T07:16:11.160Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Learning particle swarming models from data with Gaussian processes]]></title>
+        <id>http://arxiv.org/abs/2106.02735</id>
+        <link href="http://arxiv.org/abs/2106.02735"/>
+        <updated>2023-03-08T07:16:07.576Z</updated>
+        <summary type="html"><![CDATA[Jinchao Feng, Charles Kulick, Yunxiang Ren, Sui Tang]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Using multimodal learning and deep generative models for corporate
+  bankruptcy prediction]]></title>
+        <id>http://arxiv.org/abs/2211.08405</id>
+        <link href="http://arxiv.org/abs/2211.08405"/>
+        <updated>2023-03-08T07:16:07.571Z</updated>
+        <summary type="html"><![CDATA[Rogelio A. Mancisidor]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Prior and Posterior Networks: A Survey on Evidential Deep Learning
+  Methods For Uncertainty Estimation]]></title>
+        <id>http://arxiv.org/abs/2110.03051</id>
+        <link href="http://arxiv.org/abs/2110.03051"/>
+        <updated>2023-03-08T07:16:07.563Z</updated>
+        <summary type="html"><![CDATA[Dennis Ulmer, Christian Hardmeier, Jes Frellsen]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Free Lunch from the Noise: Provable and Practical Exploration for
+  Representation Learning]]></title>
+        <id>http://arxiv.org/abs/2111.11485</id>
+        <link href="http://arxiv.org/abs/2111.11485"/>
+        <updated>2023-03-08T07:16:07.545Z</updated>
+        <summary type="html"><![CDATA[Tongzheng Ren, Tianjun Zhang, Csaba Szepesv\'ari, Bo Dai]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hanmoji, part 2]]></title>
         <id>https://languagelog.ldc.upenn.edu/nll/?p=58169</id>
