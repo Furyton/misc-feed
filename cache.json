@@ -1517,6 +1517,16 @@
       "siteUrl": "https://xianblog.wordpress.com",
       "articles": [
         {
+          "id": "http://xianblog.wordpress.com/?p=52505",
+          "author": "xi'an",
+          "description": "Visit the post for more.",
+          "link": "https://xianblog.wordpress.com/2023/03/08/international-womens-day-2023-and-how-far-from-a-fair-society/",
+          "publishedOn": "2023-03-07T23:23:13.000Z",
+          "wordCount": 1748,
+          "title": "International Women’s Day 2023 [and how far from a fair society…]",
+          "imageUrl": "https://xianblog.files.wordpress.com/2023/03/temp-6.png"
+        },
+        {
           "id": "http://xianblog.wordpress.com/?p=52370",
           "author": "xi'an",
           "description": "Following a question on X validated about evidence approximation in ABC settings, i.e., on returning an approximation of the evidence based on the outputs of parallel ABC runs for the models under comparison, I wondered at the relevance of an harmonic mean estimator in that context. Rather than using the original ABC algorithm that proposes […]",
@@ -1919,6 +1929,16 @@
       "feedUrl": "https://languagelog.ldc.upenn.edu/nll/?feed=rss2",
       "siteUrl": "https://languagelog.ldc.upenn.edu/nll",
       "articles": [
+        {
+          "id": "https://languagelog.ldc.upenn.edu/nll/?p=58169",
+          "author": "Victor Mair",
+          "description": "\"Hanmoji\" is a portmanteau consisting of the first syllable of hanzi (\"Chinese character\") and the second part of emoji. From Bob Bauer: Have you heard of or seen the book entitled The Hanmoji Handbook: Your Guide to the Chinese Language through Emoji, MITeen Press, published August 30, 2022? The day before yesterday (Thursday, 2 March […]",
+          "link": "https://languagelog.ldc.upenn.edu/nll/?p=58169&utm_source=rss&utm_medium=rss&utm_campaign=hanmoji-part-2",
+          "publishedOn": "2023-03-07T23:26:52.000Z",
+          "wordCount": 2116,
+          "title": "Hanmoji, part 2",
+          "imageUrl": null
+        },
         {
           "id": "https://languagelog.ldc.upenn.edu/nll/?p=58156",
           "author": "Victor Mair",
