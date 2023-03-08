@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-03-08T19:14:06.260Z</updated>
+    <updated>2023-03-08T20:18:42.270Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -2044,48 +2044,6 @@ The explosion in deep learning a decade ago was catapulted in part by the conver
  As these models increasingly find themselves deployed in production and business applications, the efficiency and costs of these models has gon…]]></summary>
         <author>
             <name>Google AI Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pre-screening breast cancer with machine learning and deep learning]]></title>
-        <id>http://arxiv.org/abs/2302.02406</id>
-        <link href="http://arxiv.org/abs/2302.02406"/>
-        <updated>2023-02-07T07:14:35.000Z</updated>
-        <summary type="html"><![CDATA[Rolando Gonzales Martinez, Daan-Max van Dongen]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[On a continuous time model of gradient descent dynamics and instability
-  in deep learning]]></title>
-        <id>http://arxiv.org/abs/2302.01952</id>
-        <link href="http://arxiv.org/abs/2302.01952"/>
-        <updated>2023-02-07T07:14:34.986Z</updated>
-        <summary type="html"><![CDATA[Mihaela Rosca, Yan Wu, Chongli Qin, Benoit Dherin]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Robust Fine-Tuning of Deep Neural Networks with Hessian-based
-  Generalization Guarantees]]></title>
-        <id>http://arxiv.org/abs/2206.02659</id>
-        <link href="http://arxiv.org/abs/2206.02659"/>
-        <updated>2023-02-07T07:14:34.944Z</updated>
-        <summary type="html"><![CDATA[Haotian Ju, Dongyue Li, Hongyang R. Zhang]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learning Variational Models with Unrolling and Bilevel Optimization]]></title>
-        <id>http://arxiv.org/abs/2209.12651</id>
-        <link href="http://arxiv.org/abs/2209.12651"/>
-        <updated>2023-02-07T07:14:34.934Z</updated>
-        <summary type="html"><![CDATA[Christoph Brauer, Niklas Breustedt, Timo de Wolff, Dirk A. Lorenz]]></summary>
-        <author>
-            <name>arxivist feed</name>
         </author>
     </entry>
 </feed>
