@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-03-09T07:16:04.767Z</updated>
+    <updated>2023-03-09T08:22:53.378Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -2103,22 +2103,6 @@ Where: MB0.07]]></summary>
         <summary type="html"><![CDATA[Niladri S. Chatterji, Philip M. Long]]></summary>
         <author>
             <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google Research, 2022 & beyond: Algorithms for efficient deep learning]]></title>
-        <id>http://ai.googleblog.com/2023/02/google-research-2022-beyond-algorithms.html</id>
-        <link href="http://ai.googleblog.com/2023/02/google-research-2022-beyond-algorithms.html"/>
-        <updated>2023-02-07T19:42:00.020Z</updated>
-        <summary type="html"><![CDATA[Posted by Sanjiv Kumar, VP and Google Fellow, Google Research    
-    
-
-(This is Part 4 in our series of posts covering different topical areas of research at Google. You can find other posts in the series here.)
-   
-The explosion in deep learning a decade ago was catapulted in part by the convergence of new algorithms and architectures, a marked increase in data, and access to greater compute. In the last 10 years, AI and ML models have become bigger and more sophisticated — they’re deeper, more complex, with more parameters, and trained on much more data, resulting in some of the most transformative outcomes in the history of machine learning.  
- As these models increasingly find themselves deployed in production and business applications, the efficiency and costs of these models has gon…]]></summary>
-        <author>
-            <name>Google AI Blog</name>
         </author>
     </entry>
 </feed>
