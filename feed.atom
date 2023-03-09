@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-03-09T01:36:59.059Z</updated>
+    <updated>2023-03-09T02:53:04.733Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Questions and answers, part 2 (a veritable juggernaut)]]></title>
+        <id>https://languagelog.ldc.upenn.edu/nll/?p=58172</id>
+        <link href="https://languagelog.ldc.upenn.edu/nll/?p=58172&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=questions-and-answers-part-2-a-veritable-juggernaut"/>
+        <updated>2023-03-09T02:02:44.000Z</updated>
+        <summary type="html"><![CDATA[In my experience, folks have different approaches / attitudes to questions (and answers): 1. some people love to ask questions 2. some people like to answer questions 3. some people don't like to ask questions 4. some people don't like to be asked questions 5. some people like to ask a question as a prelude […]]]></summary>
+        <author>
+            <name>Victor Mair</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[the secret history of the Lord of Musashi [book review]]]></title>
         <id>http://xianblog.wordpress.com/?p=52404</id>
@@ -587,6 +597,16 @@ Industrial applications of machine learning are commonly composed of various ite
         <summary type="html"><![CDATA[Zeping Luo, Shiyou Wu, Cindy Weng, Mo Zhou, Rong Ge]]></summary>
         <author>
             <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[统计月读（2023 年 2 月）]]></title>
+        <id>https://cosx.org/2023/03/monthly/</id>
+        <link href="https://cosx.org/2023/03/monthly/"/>
+        <updated>2023-03-01T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[推荐语：Gurobi是由美国 Gurobi Optimization 公司开发新一代大规模优化器，能够处理很多优化问题，充分利用多核处理器优势，且支持并行计算。这篇博客提供了如何]]></summary>
+        <author>
+            <name>统计之都</name>
         </author>
     </entry>
     <entry>

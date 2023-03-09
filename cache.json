@@ -1262,6 +1262,16 @@
       "siteUrl": "https://cosx.org/",
       "articles": [
         {
+          "id": "https://cosx.org/2023/03/monthly/",
+          "author": null,
+          "description": "推荐语：Gurobi是由美国 Gurobi Optimization 公司开发新一代大规模优化器，能够处理很多优化问题，充分利用多核处理器优势，且支持并行计算。这篇博客提供了如何",
+          "link": "https://cosx.org/2023/03/monthly/",
+          "publishedOn": "2023-03-01T00:00:00.000Z",
+          "wordCount": 150,
+          "title": "统计月读（2023 年 2 月）",
+          "imageUrl": null
+        },
+        {
           "id": "https://cosx.org/2023/02/earthquake/",
           "author": null,
           "description": "1 写作背景 2 本文结构 3 地震背景信息 4 1973-2022 年全球地震变化 4.1 数据准备 4.2 震次趋势（年度） 4.3 震级分布（总体情况） 4.4 震级分布（按年分组） 4.4.1 抖动图 4.4.2 岭线图",
@@ -1959,6 +1969,16 @@
       "feedUrl": "https://languagelog.ldc.upenn.edu/nll/?feed=rss2",
       "siteUrl": "https://languagelog.ldc.upenn.edu/nll",
       "articles": [
+        {
+          "id": "https://languagelog.ldc.upenn.edu/nll/?p=58172",
+          "author": "Victor Mair",
+          "description": "In my experience, folks have different approaches / attitudes to questions (and answers): 1. some people love to ask questions 2. some people like to answer questions 3. some people don't like to ask questions 4. some people don't like to be asked questions 5. some people like to ask a question as a prelude […]",
+          "link": "https://languagelog.ldc.upenn.edu/nll/?p=58172&utm_source=rss&utm_medium=rss&utm_campaign=questions-and-answers-part-2-a-veritable-juggernaut",
+          "publishedOn": "2023-03-09T02:02:44.000Z",
+          "wordCount": 2521,
+          "title": "Questions and answers, part 2 (a veritable juggernaut)",
+          "imageUrl": null
+        },
         {
           "id": "https://languagelog.ldc.upenn.edu/nll/?p=58169",
           "author": "Victor Mair",
