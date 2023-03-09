@@ -974,56 +974,6 @@
           "wordCount": 655,
           "title": "Towards Inferential Reproducibility of Machine Learning Research",
           "imageUrl": null
-        },
-        {
-          "id": "http://arxiv.org/abs/2302.03068",
-          "author": null,
-          "description": "Yann Dubois, Tatsunori Hashimoto, Percy Liang",
-          "link": "http://arxiv.org/abs/2302.03068",
-          "publishedOn": "2023-02-08T07:15:18.338Z",
-          "wordCount": 601,
-          "title": "Evaluating Self-Supervised Learning via Risk Decomposition",
-          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
-        },
-        {
-          "id": "http://arxiv.org/abs/2302.03358",
-          "author": null,
-          "description": "Junfeng Chen, Kailiang Wu",
-          "link": "http://arxiv.org/abs/2302.03358",
-          "publishedOn": "2023-02-08T07:15:18.328Z",
-          "wordCount": 736,
-          "title": "Deep-OSG: A deep learning approach for approximating a family of\n  operators in semigroup to model unknown autonomous systems",
-          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
-        },
-        {
-          "id": "http://arxiv.org/abs/2302.03459",
-          "author": null,
-          "description": "Francis Bach (SIERRA)",
-          "link": "http://arxiv.org/abs/2302.03459",
-          "publishedOn": "2023-02-08T07:15:18.317Z",
-          "wordCount": 570,
-          "title": "On the relationship between multivariate splines and infinitely-wide\n  neural networks",
-          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
-        },
-        {
-          "id": "http://arxiv.org/abs/2302.03067",
-          "author": null,
-          "description": "Tim Genewein, Gr\\'egoire Del\\'etang, Anian Ruoss, Li Kevin Wenliang,\n  Elliot Catt, Vincent Dutordoir, Jordi Grau-Moya, Laurent Orseau, Marcus\n  Hutter, Joel Veness",
-          "link": "http://arxiv.org/abs/2302.03067",
-          "publishedOn": "2023-02-08T07:15:18.168Z",
-          "wordCount": 571,
-          "title": "Memory-Based Meta-Learning on Non-Stationary Distributions",
-          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
-        },
-        {
-          "id": "http://arxiv.org/abs/2209.09315",
-          "author": null,
-          "description": "Niladri S. Chatterji, Philip M. Long",
-          "link": "http://arxiv.org/abs/2209.09315",
-          "publishedOn": "2023-02-08T07:15:18.156Z",
-          "wordCount": 601,
-          "title": "Deep Linear Networks can Benignly Overfit when Shallow Ones Do",
-          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
         }
       ]
     },
@@ -1807,6 +1757,16 @@
       "siteUrl": "http://ai.googleblog.com/",
       "articles": [
         {
+          "id": "http://ai.googleblog.com/2023/03/the-birdclef-2023-challenge-pushing.html",
+          "author": null,
+          "description": "Posted by Tom Denton, Software Engineer, Google Research, Brain Team   \nWorldwide bird populations are declining at an alarming rate, with approximately 48% of existing bird species known or suspected to be experiencing population declines. For instance, the U.S. and Canada have reported 29% fewer birds since 1970. \n\nEffective monitoring of bird populations is essential for the development of solutions that promote conservation. Monitoring allows researchers to better understand the severity of the problem for specific bird populations and evaluate whether existing interventions are working. To scale monitoring, bird researchers have started analyzing ecosystems remotely using bird sound recordings instead of physically in-person via passive acoustic monitoring. Researchers can gather thou…",
+          "link": "http://ai.googleblog.com/2023/03/the-birdclef-2023-challenge-pushing.html",
+          "publishedOn": "2023-03-09T19:27:00.001Z",
+          "wordCount": 27391,
+          "title": "The BirdCLEF 2023 Challenge: Pushing the frontiers of biodiversity monitoring",
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhEDfVsru-hASd9drkbDAf-UzHO5fH5hQeG6lYYL4ACw1xNMeVBMo7F9qPErxuDPHjoFMl7JlV2QnzYLhjcgTF9c1KfLBcbXyt1Y2Y1rl1AD6gVBQD6snUcqqOUF97MZvJxpsKY5tcOikesR8fH4uqREjhysy_pStAWu2prnyzK4EOCAiRPbbgjE0LORA/w1200-h630-p-k-no-nu/BirdCLEF%20hero.jpg"
+        },
+        {
           "id": "http://ai.googleblog.com/2023/03/announcing-icdar-2023-competition-on.html",
           "author": null,
           "description": "Posted by Shangbang Long, Software Engineer, Google Research   \nThe last few decades have witnessed the rapid development of Optical Character Recognition (OCR) technology, which has evolved from an academic benchmark task used in early breakthroughs of deep learning research to tangible products available in consumer devices and to third party developers for daily use. These OCR products digitize and democratize the valuable information that is stored in paper or image-based sources (e.g., books, magazines, newspapers, forms, street signs, restaurant menus) so that they can be indexed, searched, translated, and further processed by state-of-the-art natural language processing techniques.  \n \nResearch in scene text detection and recognition (or scene text spotting) has been the major drive…",
@@ -1999,6 +1959,16 @@
       "feedUrl": "https://languagelog.ldc.upenn.edu/nll/?feed=rss2",
       "siteUrl": "https://languagelog.ldc.upenn.edu/nll",
       "articles": [
+        {
+          "id": "https://languagelog.ldc.upenn.edu/nll/?p=58160",
+          "author": "Victor Mair",
+          "description": "From Kiewwoo Goh: The actual transcription and translation of the first two lines and their one line English mistranslation should be: Shénme dōu shì jiǎ de Zhǐyǒu kǔ shì zhēn de 什么都是假的 只有苦是真的 Everything is false Only suffering is real The next big, composite, quadripartite glyph consists of four \"kǔ 苦\" (\"bitterness; suffering\") stacked side by side and on top of each […]",
+          "link": "https://languagelog.ldc.upenn.edu/nll/?p=58160&utm_source=rss&utm_medium=rss&utm_campaign=the-reality-of-happiness-is-bitterness",
+          "publishedOn": "2023-03-09T19:55:38.000Z",
+          "wordCount": 2023,
+          "title": "The reality of Happiness is Bitterness",
+          "imageUrl": null
+        },
         {
           "id": "https://languagelog.ldc.upenn.edu/nll/?p=58172",
           "author": "Victor Mair",
