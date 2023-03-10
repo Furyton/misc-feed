@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-03-10T19:13:35.645Z</updated>
+    <updated>2023-03-10T20:17:54.356Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -2102,58 +2102,6 @@ The Google Quantum AI team is building quantum computers with superconducting mi
 In this post, we highlight one aspect of this supplemental hardware: our superconducting microwave amplifiers. In “Readout of a Quantum Processor with High Dynamic Range Josephson Parametric Amplifiers”, published in Applied Physics Letters, w…]]></summary>
         <author>
             <name>Google AI Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Modern Mathematics of Deep Learning]]></title>
-        <id>http://arxiv.org/abs/2105.04026</id>
-        <link href="http://arxiv.org/abs/2105.04026"/>
-        <updated>2023-02-09T07:15:17.534Z</updated>
-        <summary type="html"><![CDATA[Julius Berner, Philipp Grohs, Gitta Kutyniok, Philipp Petersen]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Boundary Graph Neural Networks for 3D Simulations]]></title>
-        <id>http://arxiv.org/abs/2106.11299</id>
-        <link href="http://arxiv.org/abs/2106.11299"/>
-        <updated>2023-02-09T07:15:17.420Z</updated>
-        <summary type="html"><![CDATA[Andreas Mayr, Sebastian Lehner, Arno Mayrhofer, Christoph Kloss, Sepp
-  Hochreiter, Johannes Brandstetter]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fortuna: A Library for Uncertainty Quantification in Deep Learning]]></title>
-        <id>http://arxiv.org/abs/2302.04019</id>
-        <link href="http://arxiv.org/abs/2302.04019"/>
-        <updated>2023-02-09T07:15:17.394Z</updated>
-        <summary type="html"><![CDATA[Gianluca Detommaso, Alberto Gasparin, Michele Donini, Matthias Seeger,
-  Andrew Gordon Wilson, Cedric Archambeau]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TVAE: Triplet-Based Variational Autoencoder using Metric Learning]]></title>
-        <id>http://arxiv.org/abs/1802.04403</id>
-        <link href="http://arxiv.org/abs/1802.04403"/>
-        <updated>2023-02-09T07:15:17.315Z</updated>
-        <summary type="html"><![CDATA[Haque Ishfaq, Assaf Hoogi, Daniel Rubin]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Towards Inferential Reproducibility of Machine Learning Research]]></title>
-        <id>http://arxiv.org/abs/2302.04054</id>
-        <link href="http://arxiv.org/abs/2302.04054"/>
-        <updated>2023-02-09T07:15:17.308Z</updated>
-        <summary type="html"><![CDATA[Michael Hagmann, Stefan Riezler]]></summary>
-        <author>
-            <name>arxivist feed</name>
         </author>
     </entry>
 </feed>
