@@ -6,6 +6,56 @@
       "siteUrl": "https://www.arxivist.com",
       "articles": [
         {
+          "id": "http://arxiv.org/abs/2303.05490",
+          "author": null,
+          "description": "Zhezheng Luo, Jiayuan Mao, Joshua B. Tenenbaum, Leslie Pack Kaelbling",
+          "link": "http://arxiv.org/abs/2303.05490",
+          "publishedOn": "2023-03-10T07:15:52.089Z",
+          "wordCount": 587,
+          "title": "On the Expressiveness and Generalization of Hypergraph Neural Networks",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2303.05506",
+          "author": null,
+          "description": "Alan Jeffares, Tennison Liu, Jonathan Crabb\\'e, Fergus Imrie, Mihaela\n  van der Schaar",
+          "link": "http://arxiv.org/abs/2303.05506",
+          "publishedOn": "2023-03-10T07:15:52.084Z",
+          "wordCount": 672,
+          "title": "TANGOS: Regularizing Tabular Neural Networks through Gradient\n  Orthogonalization and Specialization",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2303.05487",
+          "author": null,
+          "description": "Zhezheng Luo, Jiayuan Mao, Jiajun Wu, Tom\\'as Lozano-P\\'erez, Joshua\n  B. Tenenbaum, Leslie Pack Kaelbling",
+          "link": "http://arxiv.org/abs/2303.05487",
+          "publishedOn": "2023-03-10T07:15:52.064Z",
+          "wordCount": 582,
+          "title": "Learning Rational Subgoals from Demonstrations and Instructions",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2303.04859",
+          "author": null,
+          "description": "Mohsen Heidari, Wojciech Szpankowski",
+          "link": "http://arxiv.org/abs/2303.04859",
+          "publishedOn": "2023-03-10T07:15:52.059Z",
+          "wordCount": 699,
+          "title": "Agnostic PAC Learning of k-juntas Using L2-Polynomial Regression",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2112.09427",
+          "author": null,
+          "description": "Steven Vander Eeckt, Hugo Van hamme",
+          "link": "http://arxiv.org/abs/2112.09427",
+          "publishedOn": "2023-03-10T07:15:52.029Z",
+          "wordCount": 649,
+          "title": "Continual Learning for Monolingual End-to-End Automatic Speech\n  Recognition",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
           "id": "http://arxiv.org/abs/2206.06169",
           "author": null,
           "description": "Phillip Lippe, Sara Magliacane, Sindy L\\\"owe, Yuki M. Asano, Taco\n  Cohen, Efstratios Gavves",
@@ -1945,16 +1995,6 @@
           "wordCount": 27710,
           "title": "Amplification at the quantum limit",
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhqNvn9gEFn3OBGBPvTRAK8fABdsheakwU57W3nhoD5IGAI-7xiWJSe-oiwj5j06XrsYyaeMy9l1d_vbFmqYgcWN54SB1uvpJq05Qym_wGZmlB0BhQtThGh7kj8grVXLqiEBqsDrRG_lo1w8-zzYynJTtkZwP72ZNKK3qBnc_T5AbkKKxjtvQg9WaAg4w/w1200-h630-p-k-no-nu/Quantum-hero.png"
-        },
-        {
-          "id": "http://ai.googleblog.com/2023/02/unsupervised-and-semi-supervised.html",
-          "author": null,
-          "description": "Posted by Jinsung Yoon and Sercan O. Arik, Research Scientists, Google Research, Cloud AI Team  \nAnomaly detection (AD), the task of distinguishing anomalies from normal data, plays a vital role in many real-world applications, such as detecting faulty products from vision sensors in manufacturing, fraudulent behaviors in financial transactions, or network security threats. Depending on the availability of the type of data — negative (normal) vs. positive (anomalous) and the availability of their labels — the task of AD involves different challenges. \n  \n\n\n(a) Fully supervised anomaly detection, (b) normal-only anomaly detection, (c, d, e) semi-supervised anomaly detection, (f) unsupervised anomaly detection.\n\n  \nWhile most previous works were shown to be effective for cases with fully-lab…",
-          "link": "http://ai.googleblog.com/2023/02/unsupervised-and-semi-supervised.html",
-          "publishedOn": "2023-02-08T18:41:00.003Z",
-          "wordCount": 27715,
-          "title": "Unsupervised and semi-supervised anomaly detection with data-centric ML",
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjvrhdr9tTytn34C6ReW5r9jASncbpkcJ9E--UtcVMdRMGt1yKV2EGHNI4BB_IDBmlopjf2W2OxqcokUUj6JdtrwEEb1mwHJUm1j_mWfXreDkdzSBMuYHibQOX3wdExOr9IuPeEOASxKap-50Bf16oPJgnPpXbV_xOj7TG1fRq5mJnw2CTZWO13hGNvoQ/w1200-h630-p-k-no-nu/image6.png"
         }
       ]
     },
