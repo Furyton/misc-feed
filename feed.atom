@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-03-10T11:14:48.145Z</updated>
+    <updated>2023-03-10T12:33:38.479Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -14,6 +14,26 @@
         <summary type="html"><![CDATA[Researchers have proposed many methods to make neural networks more reliable under distribution shift, yet there is still large room for improvement. Are better training algorithms or training data the more promising way forward? In this talk, we study this question in the context of OpenAI’s CLIP model for learning from image-text data. First, we survey the current robustness landscape based on a large-scale experimental study involving more than 200 different models and test conditions. The CLIP models stand out with unprecedented robustness on multiple challenging distribution shifts. To further improve CLIP, we then introduce new methods for reliably fine-tuning models by interpolating the weights of multiple models. Next, we investigate the cause of CLIP’s robustness via controlled experiments to disentangle the influence of language supervision and training distribution. While CLIP leveraged large scale language supervision for the first time, its robustness actually comes from the pre-training dataset. We conclude with a brief overview of ongoing work to improve pre-training datasets: LAION-5B, the largest public image-text dataset, and initial experiments to increase the robustness induced by pre-training data. Bio: Ludwig Schmidt is an assistant professor in the Paul G. Allen School of Computer Science & Engineering at the University of Washington. Ludwig’s research interests revolve around the empirical foundations of machine learning, often with a focus on datasets, reliable generalization, and large models. Ludwig completed his PhD at MIT under the supervision of Piotr Indyk and was a postdoc at UC Berkeley hosted by Benjamin Recht and Moritz Hardt. Recently, Ludwig’s research group contributed to multimodal language & vision models by creating OpenCLIP and the LAION-5B dataset. Ludwig’s research received a new horizons award at EAAMO, best paper awards at ICML & NeurIPS, a best paper finalist at CVPR, and the Sprowls dissertation award from MIT.]]></summary>
         <author>
             <name>Harvard ML Foundations</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Subspace Designs, Unit and Distinct Distances, and Piercing Standard Boxes.]]></title>
+        <id>http://gilkalai.wordpress.com/?p=23968</id>
+        <link href="https://gilkalai.wordpress.com/2023/03/10/subspace-designs-unit-and-distinct-distances-and-piercing-standard-boxes/"/>
+        <updated>2023-03-10T11:28:42.000Z</updated>
+        <summary type="html"><![CDATA[A lot of things are happening and let me briefly report on three major advancements in combinatorics. Peter Keevash, Ashwin Sah and Mehtaab Sawhney proved the existence of subspace designs with any given parameters, provided that the dimension of the … Continue reading →]]></summary>
+        <author>
+            <name>Gil Kalai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Subspace Designs, Unit and Distinct Distances, and Piercing Standard Boxes.]]></title>
+        <id>http://gilkalai.wordpress.com/?p=23968</id>
+        <link href="https://gilkalai.wordpress.com/2023/03/10/subspace-designs-unit-and-distinct-distances-and-piercing-standard-boxes/"/>
+        <updated>2023-03-10T11:28:42.000Z</updated>
+        <summary type="html"><![CDATA[A lot of things are happening and let me briefly report on three major advancements in combinatorics. Peter Keevash, Ashwin Sah and Mehtaab Sawhney proved the existence of subspace designs with any given parameters, provided that the dimension of the … Continue reading →]]></summary>
+        <author>
+            <name>Gil Kalai</name>
         </author>
     </entry>
     <entry>
