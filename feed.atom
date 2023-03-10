@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-03-10T17:15:22.580Z</updated>
+    <updated>2023-03-10T18:20:11.461Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[PaLM-E: An embodied multimodal language model]]></title>
+        <id>http://ai.googleblog.com/2023/03/palm-e-embodied-multimodal-language.html</id>
+        <link href="http://ai.googleblog.com/2023/03/palm-e-embodied-multimodal-language.html"/>
+        <updated>2023-03-10T17:25:00.002Z</updated>
+        <summary type="html"><![CDATA[Posted by Danny Driess, Student Researcher, and Pete Florence, Research Scientist, Robotics at Google  
+Recent years have seen tremendous advances across machine learning domains, from models that can explain jokes or answer visual questions in a variety of languages to those that can produce images based on text descriptions. Such innovations have been possible due to the increase in availability of large scale datasets along with novel advances that enable the training of models on these data. While scaling of robotics models has seen some success, it is outpaced by other domains due to a lack of datasets available on a scale comparable to large text corpora or image datasets.  
+  
+Today we introduce PaLM-E, a new generalist robotics model that overcomes these issues by transferring know…]]></summary>
+        <author>
+            <name>Google AI Blog</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ludwig Schmidt - A data-centric view on reliable generalization: From ImageNet to LAION-5B]]></title>
         <id>https://mlfoundations.org/talk/schmidt/</id>
