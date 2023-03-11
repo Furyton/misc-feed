@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-03-11T11:12:51.410Z</updated>
+    <updated>2023-03-11T12:29:52.775Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -2089,16 +2089,6 @@ Robust algorithm design is the backbone of systems across Google, particularly f
         <summary type="html"><![CDATA[Luis Basora, Arthur Viens, Manuel Arias Chao, Xavier Olive]]></summary>
         <author>
             <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DT 包速查手册]]></title>
-        <id>https://cosx.org/2023/02/dt-manual/</id>
-        <link href="https://cosx.org/2023/02/dt-manual/"/>
-        <updated>2023-02-10T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[1 静态样式 1.1 基本说明 1.1.1 术语约定 1.1.2 参数位置 1.1.3 回调函数 1.2 表格基础 1.2.1 高度（height）、宽度（width） 1.2.2 行名（rownames） 1.2.3 列名（co]]></summary>
-        <author>
-            <name>统计之都</name>
         </author>
     </entry>
 </feed>
