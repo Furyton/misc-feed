@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-03-11T06:19:37.697Z</updated>
+    <updated>2023-03-11T07:13:46.718Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -2099,19 +2099,6 @@ Robust algorithm design is the backbone of systems across Google, particularly f
         <summary type="html"><![CDATA[1 静态样式 1.1 基本说明 1.1.1 术语约定 1.1.2 参数位置 1.1.3 回调函数 1.2 表格基础 1.2.1 高度（height）、宽度（width） 1.2.2 行名（rownames） 1.2.3 列名（co]]></summary>
         <author>
             <name>统计之都</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amplification at the quantum limit]]></title>
-        <id>http://ai.googleblog.com/2023/02/amplification-at-quantum-limit.html</id>
-        <link href="http://ai.googleblog.com/2023/02/amplification-at-quantum-limit.html"/>
-        <updated>2023-02-09T19:03:00.008Z</updated>
-        <summary type="html"><![CDATA[Posted by Ted White and Ofer Naaman, Staff Research Scientists, Google Quantum AI   
-The Google Quantum AI team is building quantum computers with superconducting microwave circuits, but much like a classical computer the superconducting processor at the heart of these computers is only part of the story. An entire technology stack of peripheral hardware is required to make the quantum computer work properly. In many cases these parts must be custom designed, requiring extensive research and development to reach the highest levels of performance.   
-
-In this post, we highlight one aspect of this supplemental hardware: our superconducting microwave amplifiers. In “Readout of a Quantum Processor with High Dynamic Range Josephson Parametric Amplifiers”, published in Applied Physics Letters, w…]]></summary>
-        <author>
-            <name>Google AI Blog</name>
         </author>
     </entry>
 </feed>
