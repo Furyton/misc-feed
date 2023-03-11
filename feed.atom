@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-03-11T19:12:26.052Z</updated>
+    <updated>2023-03-11T20:16:17.432Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Idle thoughts upon the Ides of March:  the feathered man]]></title>
+        <id>https://languagelog.ldc.upenn.edu/nll/?p=58178</id>
+        <link href="https://languagelog.ldc.upenn.edu/nll/?p=58178&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=idle-thoughts-upon-the-ides-of-march-the-feathered-man"/>
+        <updated>2023-03-11T19:16:11.000Z</updated>
+        <summary type="html"><![CDATA[It's a bad month in general:  dark, dreary, drizzly, dank, and damp.  Soon one's thoughts are flitting* about as though one had taken wings, like Eros or Cupid. In Chinese mythology, there is a deity called Yǔrén 羽人 ("Feathered Man").  It has an ambiguous origin — first appears in Shānhǎi jīng 山海經 (Classic of the […]]]></summary>
+        <author>
+            <name>Victor Mair</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[off to BayesComp!]]></title>
         <id>http://xianblog.wordpress.com/?p=52425</id>
@@ -2046,49 +2056,6 @@ Robust algorithm design is the backbone of systems across Google, particularly f
         <summary type="html"><![CDATA[How can we trace surprising behaviors of machine learning models back to their training data? Influence functions aim to predict how the trained model would change if a specific training example were added to the training set. I'll address two issues that have blocked their applicability to large-scale neural nets: apparent inaccuracy of the results, and the difficulty of computing inverse-Hessian-vector products. Towards the former issue, I'll reformulate the goals of influence estimation in a way that applies to overparameterized, incompletely trained models, and argue that the apparent inaccuracy was largely illusory. I'll then discuss an approach to scaling influence estimation to large language models and show some resulting insights into their patterns of generalization.]]></summary>
         <author>
             <name>Harvard ML Foundations</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Generalization in Graph Neural Networks: Improved PAC-Bayesian Bounds on
-  Graph Diffusion]]></title>
-        <id>http://arxiv.org/abs/2302.04451</id>
-        <link href="http://arxiv.org/abs/2302.04451"/>
-        <updated>2023-02-10T07:15:38.755Z</updated>
-        <summary type="html"><![CDATA[Haotian Ju, Dongyue Li, Aneesh Sharma, Hongyang R. Zhang]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Discovering the Compositional Structure of Vector Representations with
-  Role Learning Networks]]></title>
-        <id>http://arxiv.org/abs/1910.09113</id>
-        <link href="http://arxiv.org/abs/1910.09113"/>
-        <updated>2023-02-10T07:15:38.665Z</updated>
-        <summary type="html"><![CDATA[Paul Soulos, Tom McCoy, Tal Linzen, Paul Smolensky]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meta-ticket: Finding optimal subnetworks for few-shot learning within
-  randomly initialized neural networks]]></title>
-        <id>http://arxiv.org/abs/2205.15619</id>
-        <link href="http://arxiv.org/abs/2205.15619"/>
-        <updated>2023-02-10T07:15:38.657Z</updated>
-        <summary type="html"><![CDATA[Daiki Chijiwa, Shin'ya Yamaguchi, Atsutoshi Kumagai, Yasutoshi Ida]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Benchmark on Uncertainty Quantification for Deep Learning Prognostics]]></title>
-        <id>http://arxiv.org/abs/2302.04730</id>
-        <link href="http://arxiv.org/abs/2302.04730"/>
-        <updated>2023-02-10T07:15:38.647Z</updated>
-        <summary type="html"><![CDATA[Luis Basora, Arthur Viens, Manuel Arias Chao, Xavier Olive]]></summary>
-        <author>
-            <name>arxivist feed</name>
         </author>
     </entry>
 </feed>

@@ -934,46 +934,6 @@
           "wordCount": 596,
           "title": "DNArch: Learning Convolutional Neural Architectures by Backpropagation",
           "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
-        },
-        {
-          "id": "http://arxiv.org/abs/2302.04451",
-          "author": null,
-          "description": "Haotian Ju, Dongyue Li, Aneesh Sharma, Hongyang R. Zhang",
-          "link": "http://arxiv.org/abs/2302.04451",
-          "publishedOn": "2023-02-10T07:15:38.755Z",
-          "wordCount": 639,
-          "title": "Generalization in Graph Neural Networks: Improved PAC-Bayesian Bounds on\n  Graph Diffusion",
-          "imageUrl": null
-        },
-        {
-          "id": "http://arxiv.org/abs/1910.09113",
-          "author": null,
-          "description": "Paul Soulos, Tom McCoy, Tal Linzen, Paul Smolensky",
-          "link": "http://arxiv.org/abs/1910.09113",
-          "publishedOn": "2023-02-10T07:15:38.665Z",
-          "wordCount": 617,
-          "title": "Discovering the Compositional Structure of Vector Representations with\n  Role Learning Networks",
-          "imageUrl": null
-        },
-        {
-          "id": "http://arxiv.org/abs/2205.15619",
-          "author": null,
-          "description": "Daiki Chijiwa, Shin'ya Yamaguchi, Atsutoshi Kumagai, Yasutoshi Ida",
-          "link": "http://arxiv.org/abs/2205.15619",
-          "publishedOn": "2023-02-10T07:15:38.657Z",
-          "wordCount": 695,
-          "title": "Meta-ticket: Finding optimal subnetworks for few-shot learning within\n  randomly initialized neural networks",
-          "imageUrl": null
-        },
-        {
-          "id": "http://arxiv.org/abs/2302.04730",
-          "author": null,
-          "description": "Luis Basora, Arthur Viens, Manuel Arias Chao, Xavier Olive",
-          "link": "http://arxiv.org/abs/2302.04730",
-          "publishedOn": "2023-02-10T07:15:38.647Z",
-          "wordCount": 678,
-          "title": "A Benchmark on Uncertainty Quantification for Deep Learning Prognostics",
-          "imageUrl": null
         }
       ]
     },
@@ -1979,6 +1939,16 @@
       "feedUrl": "https://languagelog.ldc.upenn.edu/nll/?feed=rss2",
       "siteUrl": "https://languagelog.ldc.upenn.edu/nll",
       "articles": [
+        {
+          "id": "https://languagelog.ldc.upenn.edu/nll/?p=58178",
+          "author": "Victor Mair",
+          "description": "It's a bad month in general:  dark, dreary, drizzly, dank, and damp.  Soon one's thoughts are flitting* about as though one had taken wings, like Eros or Cupid. In Chinese mythology, there is a deity called Yǔrén 羽人 (\"Feathered Man\").  It has an ambiguous origin — first appears in Shānhǎi jīng 山海經 (Classic of the […]",
+          "link": "https://languagelog.ldc.upenn.edu/nll/?p=58178&utm_source=rss&utm_medium=rss&utm_campaign=idle-thoughts-upon-the-ides-of-march-the-feathered-man",
+          "publishedOn": "2023-03-11T19:16:11.000Z",
+          "wordCount": 2424,
+          "title": "Idle thoughts upon the Ides of March:  the feathered man",
+          "imageUrl": null
+        },
         {
           "id": "https://languagelog.ldc.upenn.edu/nll/?p=58175",
           "author": "Victor Mair",
