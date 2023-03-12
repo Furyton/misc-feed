@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-03-12T01:27:03.039Z</updated>
+    <updated>2023-03-12T02:46:44.414Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -2056,16 +2056,6 @@ Olympics.
 Robust algorithm design is the backbone of systems across Google, particularly for our ML and AI models. Hence, developing algorithms with improved efficiency, performance and speed remains a high priority as it empowers services ranging from Search and Ads to Maps and YouTube. Google Research has been at the forefront of this effort, developing many innovations from privacy-safe recommendation systems to scalable solutions for large-scale ML. In 2022, we continued this journey, and advanced the state-of-the-art in several related areas. Here we highlight our progress in a …]]></summary>
         <author>
             <name>Google AI Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Roger Grosse - Studying Neural Net Generalization through Influence Functions]]></title>
-        <id>https://mlfoundations.org/talk/grosse/</id>
-        <link href="https://mlfoundations.org/talk/grosse/"/>
-        <updated>2023-02-10T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[How can we trace surprising behaviors of machine learning models back to their training data? Influence functions aim to predict how the trained model would change if a specific training example were added to the training set. I'll address two issues that have blocked their applicability to large-scale neural nets: apparent inaccuracy of the results, and the difficulty of computing inverse-Hessian-vector products. Towards the former issue, I'll reformulate the goals of influence estimation in a way that applies to overparameterized, incompletely trained models, and argue that the apparent inaccuracy was largely illusory. I'll then discuss an approach to scaling influence estimation to large language models and show some resulting insights into their patterns of generalization.]]></summary>
-        <author>
-            <name>Harvard ML Foundations</name>
         </author>
     </entry>
 </feed>
