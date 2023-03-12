@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-03-12T22:14:41.231Z</updated>
+    <updated>2023-03-12T23:15:54.589Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -2003,16 +2003,6 @@ Within our lifetimes, we will see robotic technologies that can help with everyd
         <summary type="html"><![CDATA[David W. Romero, Neil Zeghidour]]></summary>
         <author>
             <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[测试函数法推导连续性方程和Fokker-Planck方程]]></title>
-        <id>https://kexue.fm/archives/9461</id>
-        <link href="https://kexue.fm/archives/9461"/>
-        <updated>2023-02-11T11:09:00.000Z</updated>
-        <summary type="html"><![CDATA[在文章《生成扩散模型漫谈（六）：一般框架之ODE篇》中，我们推导了SDE的Fokker-Planck方程；而在《生成扩散模型漫谈（十二）：“硬刚”扩散ODE》中，我们单独推导了ODE的连续性方程...]]></summary>
-        <author>
-            <name>苏剑林</name>
         </author>
     </entry>
 </feed>
