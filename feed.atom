@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-03-12T07:13:54.935Z</updated>
+    <updated>2023-03-12T08:19:17.328Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -2040,22 +2040,6 @@ Olympics.
 …]]></summary>
         <author>
             <name>Free Mind</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google Research, 2022 & beyond: Algorithmic advances]]></title>
-        <id>http://ai.googleblog.com/2023/02/google-research-2022-beyond-algorithmic.html</id>
-        <link href="http://ai.googleblog.com/2023/02/google-research-2022-beyond-algorithmic.html"/>
-        <updated>2023-02-10T20:08:00.022Z</updated>
-        <summary type="html"><![CDATA[Posted by Vahab Mirrokni, VP and Google Fellow, Google Research    
-    
-
-(This is Part 5 in our series of posts covering different topical areas of research at Google. You can find other posts in the series here.)
-   
-
-Robust algorithm design is the backbone of systems across Google, particularly for our ML and AI models. Hence, developing algorithms with improved efficiency, performance and speed remains a high priority as it empowers services ranging from Search and Ads to Maps and YouTube. Google Research has been at the forefront of this effort, developing many innovations from privacy-safe recommendation systems to scalable solutions for large-scale ML. In 2022, we continued this journey, and advanced the state-of-the-art in several related areas. Here we highlight our progress in a …]]></summary>
-        <author>
-            <name>Google AI Blog</name>
         </author>
     </entry>
 </feed>
