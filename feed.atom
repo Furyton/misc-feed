@@ -2,10 +2,65 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-03-13T06:21:54.691Z</updated>
+    <updated>2023-03-13T07:15:17.058Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[DORA: Exploring outlier representations in Deep Neural Networks]]></title>
+        <id>http://arxiv.org/abs/2206.04530</id>
+        <link href="http://arxiv.org/abs/2206.04530"/>
+        <updated>2023-03-13T07:15:14.746Z</updated>
+        <summary type="html"><![CDATA[Kirill Bykov, Mayukh Deb, Dennis Grinwald, Klaus-Robert M\"uller,
+  Marina M.-C. H\"ohne]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[An analytic theory for the dynamics of wide quantum neural networks]]></title>
+        <id>http://arxiv.org/abs/2203.16711</id>
+        <link href="http://arxiv.org/abs/2203.16711"/>
+        <updated>2023-03-13T07:15:14.740Z</updated>
+        <summary type="html"><![CDATA[Junyu Liu, Khadijeh Najafi, Kunal Sharma, Francesco Tacchino, Liang
+  Jiang, Antonio Mezzacapo]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[POLICE: Provably Optimal Linear Constraint Enforcement for Deep Neural
+  Networks]]></title>
+        <id>http://arxiv.org/abs/2211.01340</id>
+        <link href="http://arxiv.org/abs/2211.01340"/>
+        <updated>2023-03-13T07:15:14.703Z</updated>
+        <summary type="html"><![CDATA[Randall Balestriero, Yann LeCun]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Variance-aware robust reinforcement learning with linear function
+  approximation with heavy-tailed rewards]]></title>
+        <id>http://arxiv.org/abs/2303.05606</id>
+        <link href="http://arxiv.org/abs/2303.05606"/>
+        <updated>2023-03-13T07:15:14.697Z</updated>
+        <summary type="html"><![CDATA[Xiang Li, Qiang Sun]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Seq2Seq Surrogates of Epidemic Models to Facilitate Bayesian Inference]]></title>
+        <id>http://arxiv.org/abs/2209.09617</id>
+        <link href="http://arxiv.org/abs/2209.09617"/>
+        <updated>2023-03-13T07:15:14.690Z</updated>
+        <summary type="html"><![CDATA[Giovanni Charles, Timothy M. Wolock, Peter Winskill, Azra Ghani, Samir
+  Bhatt, Seth Flaxman]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[alone in Napoli]]></title>
         <id>http://xianblog.wordpress.com/?p=52333</id>
