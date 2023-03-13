@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-03-13T22:16:26.093Z</updated>
+    <updated>2023-03-13T23:16:56.126Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Transcriptional Chinese animal imagery for English daily greetings]]></title>
+        <id>https://languagelog.ldc.upenn.edu/nll/?p=58199</id>
+        <link href="https://languagelog.ldc.upenn.edu/nll/?p=58199&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=transcriptional-chinese-animal-imagery-for-english-daily-greetings"/>
+        <updated>2023-03-13T22:35:47.000Z</updated>
+        <summary type="html"><![CDATA[As those students who take my early morning classes know, I sometimes greet them with "gǒutóu māo níng 狗头猫咛" ("good morning"; lit. "dog's head cat's meow").  I learned that method of transcription from my father-in-law, who didn't know the alphabet but picked up a few words of English and wanted to write them down for […]]]></summary>
+        <author>
+            <name>Victor Mair</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[DORA: Exploring outlier representations in Deep Neural Networks]]></title>
         <id>http://arxiv.org/abs/2206.04530</id>
