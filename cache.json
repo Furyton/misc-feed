@@ -1151,6 +1151,16 @@
       "siteUrl": "https://kexue.fm/",
       "articles": [
         {
+          "id": "https://kexue.fm/archives/9526",
+          "author": "苏剑林",
+          "description": "众所周知，分类问题的常规评估指标是正确率，而标准的损失函数则是交叉熵，交叉熵有着收敛快的优点，但它并非是正确率的光滑近似，这就带来了训练和预测的不一致性问题。另一方面，当训练样本的预测概率很低时...",
+          "link": "https://kexue.fm/archives/9526",
+          "publishedOn": "2023-03-14T08:01:00.000Z",
+          "wordCount": 1458,
+          "title": "缓解交叉熵过度自信的一个简明方案",
+          "imageUrl": null
+        },
+        {
           "id": "https://kexue.fm/archives/9512",
           "author": "苏剑林",
           "description": "这段时间笔者一直在实验《Google新搜出的优化器Lion：效率与效果兼得的“训练狮”》所介绍的Lion优化器。之所以对Lion饶有兴致，是因为它跟笔者之前的关于理想优化器的一些想法不谋而合，但...",
