@@ -2,10 +2,55 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-03-14T06:22:05.235Z</updated>
+    <updated>2023-03-14T07:16:33.527Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Score Attack: A Lower Bound Technique for Optimal Differentially Private
+  Learning]]></title>
+        <id>http://arxiv.org/abs/2303.07152</id>
+        <link href="http://arxiv.org/abs/2303.07152"/>
+        <updated>2023-03-14T07:16:32.259Z</updated>
+        <summary type="html"><![CDATA[T. Tony Cai, Yichen Wang, Linjun Zhang]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stabilizing Transformer Training by Preventing Attention Entropy
+  Collapse]]></title>
+        <id>http://arxiv.org/abs/2303.06296</id>
+        <link href="http://arxiv.org/abs/2303.06296"/>
+        <updated>2023-03-14T07:16:32.215Z</updated>
+        <summary type="html"><![CDATA[Shuangfei Zhai, Tatiana Likhomanenko, Etai Littwin, Dan Busbridge,
+  Jason Ramapuram, Yizhe Zhang, Jiatao Gu, Josh Susskind]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Comparing statistical and machine learning methods for time series
+  forecasting in data-driven logistics -- A simulation study]]></title>
+        <id>http://arxiv.org/abs/2303.07139</id>
+        <link href="http://arxiv.org/abs/2303.07139"/>
+        <updated>2023-03-14T07:16:32.191Z</updated>
+        <summary type="html"><![CDATA[Lena Schmid, Moritz Roidl, Markus Pauly]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Deep Feature Screening: Feature Selection for Ultra High-Dimensional
+  Data via Deep Neural Networks]]></title>
+        <id>http://arxiv.org/abs/2204.01682</id>
+        <link href="http://arxiv.org/abs/2204.01682"/>
+        <updated>2023-03-14T07:16:31.952Z</updated>
+        <summary type="html"><![CDATA[Kexuan Li, Fangfang Wang, Lingli Yang, Ruiqi Liu]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[kuva Lapista² [jatp]]]></title>
         <id>http://xianblog.wordpress.com/?p=52544</id>

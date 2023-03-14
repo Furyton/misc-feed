@@ -6,6 +6,46 @@
       "siteUrl": "https://www.arxivist.com",
       "articles": [
         {
+          "id": "http://arxiv.org/abs/2303.07152",
+          "author": null,
+          "description": "T. Tony Cai, Yichen Wang, Linjun Zhang",
+          "link": "http://arxiv.org/abs/2303.07152",
+          "publishedOn": "2023-03-14T07:16:32.259Z",
+          "wordCount": 627,
+          "title": "Score Attack: A Lower Bound Technique for Optimal Differentially Private\n  Learning",
+          "imageUrl": null
+        },
+        {
+          "id": "http://arxiv.org/abs/2303.06296",
+          "author": null,
+          "description": "Shuangfei Zhai, Tatiana Likhomanenko, Etai Littwin, Dan Busbridge,\n  Jason Ramapuram, Yizhe Zhang, Jiatao Gu, Josh Susskind",
+          "link": "http://arxiv.org/abs/2303.06296",
+          "publishedOn": "2023-03-14T07:16:32.215Z",
+          "wordCount": 716,
+          "title": "Stabilizing Transformer Training by Preventing Attention Entropy\n  Collapse",
+          "imageUrl": null
+        },
+        {
+          "id": "http://arxiv.org/abs/2303.07139",
+          "author": null,
+          "description": "Lena Schmid, Moritz Roidl, Markus Pauly",
+          "link": "http://arxiv.org/abs/2303.07139",
+          "publishedOn": "2023-03-14T07:16:32.191Z",
+          "wordCount": 527,
+          "title": "Comparing statistical and machine learning methods for time series\n  forecasting in data-driven logistics -- A simulation study",
+          "imageUrl": null
+        },
+        {
+          "id": "http://arxiv.org/abs/2204.01682",
+          "author": null,
+          "description": "Kexuan Li, Fangfang Wang, Lingli Yang, Ruiqi Liu",
+          "link": "http://arxiv.org/abs/2204.01682",
+          "publishedOn": "2023-03-14T07:16:31.952Z",
+          "wordCount": 636,
+          "title": "Deep Feature Screening: Feature Selection for Ultra High-Dimensional\n  Data via Deep Neural Networks",
+          "imageUrl": null
+        },
+        {
           "id": "http://arxiv.org/abs/2206.04530",
           "author": null,
           "description": "Kirill Bykov, Mayukh Deb, Dennis Grinwald, Klaus-Robert M\\\"uller,\n  Marina M.-C. H\\\"ohne",
