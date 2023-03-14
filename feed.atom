@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-03-14T18:25:08.154Z</updated>
+    <updated>2023-03-14T19:16:48.184Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Learning from deep learning: a case study of feature discovery and validation in pathology]]></title>
+        <id>http://ai.googleblog.com/2023/03/learning-from-deep-learning-case-study.html</id>
+        <link href="http://ai.googleblog.com/2023/03/learning-from-deep-learning-case-study.html"/>
+        <updated>2023-03-14T18:16:00.004Z</updated>
+        <summary type="html"><![CDATA[Posted by Ellery Wulczyn and Yun Liu, Google Research  
+When a patient is diagnosed with cancer, one of the most important steps is examination of the tumor under a microscope by pathologists to determine the cancer stage and to characterize the tumor. This information is central to understanding clinical prognosis (i.e., likely patient outcomes) and for determining the most appropriate treatment, such as undergoing surgery alone versus surgery plus chemotherapy. Developing machine learning (ML) tools in pathology to assist with the microscopic review represents a compelling research area with many potential applications. 
+
+Previous studies have shown that ML can accurately identify and classify tumors in pathology images and can even predict patient prognosis using known pathology feature…]]></summary>
+        <author>
+            <name>Google AI Blog</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[缓解交叉熵过度自信的一个简明方案]]></title>
         <id>https://kexue.fm/archives/9526</id>
@@ -2111,48 +2124,6 @@ Within our lifetimes, we will see robotic technologies that can help with everyd
         <summary type="html"><![CDATA[Back in May of 2022 I transferred teams at Google to work on Fully Homomorphic Encryption (newsletter announcement). Since then I’ve been working on a variety of projects in the space, including being the primary maintainer on github.com/google/fully-homomorphic-encryption, which is an open source FHE compiler for C++. This article will be an introduction to how […]]]></summary>
         <author>
             <name>j2kun</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[High-Resolution Peak Demand Estimation Using Generalized Additive Models
-  and Deep Neural Networks]]></title>
-        <id>http://arxiv.org/abs/2203.03342</id>
-        <link href="http://arxiv.org/abs/2203.03342"/>
-        <updated>2023-02-13T07:15:35.979Z</updated>
-        <summary type="html"><![CDATA[Jonathan Berrisch, Micha{\l} Narajewski, Florian Ziel]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MoreauGrad: Sparse and Robust Interpretation of Neural Networks via
-  Moreau Envelope]]></title>
-        <id>http://arxiv.org/abs/2302.05294</id>
-        <link href="http://arxiv.org/abs/2302.05294"/>
-        <updated>2023-02-13T07:15:35.565Z</updated>
-        <summary type="html"><![CDATA[Jingwei Zhang, Farzan Farnia]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Interventional Causal Representation Learning]]></title>
-        <id>http://arxiv.org/abs/2209.11924</id>
-        <link href="http://arxiv.org/abs/2209.11924"/>
-        <updated>2023-02-13T07:15:35.551Z</updated>
-        <summary type="html"><![CDATA[Kartik Ahuja, Divyat Mahajan, Yixin Wang, Yoshua Bengio]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DNArch: Learning Convolutional Neural Architectures by Backpropagation]]></title>
-        <id>http://arxiv.org/abs/2302.05400</id>
-        <link href="http://arxiv.org/abs/2302.05400"/>
-        <updated>2023-02-13T07:15:35.538Z</updated>
-        <summary type="html"><![CDATA[David W. Romero, Neil Zeghidour]]></summary>
-        <author>
-            <name>arxivist feed</name>
         </author>
     </entry>
 </feed>

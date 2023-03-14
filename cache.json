@@ -984,46 +984,6 @@
           "wordCount": 783,
           "title": "A Rigorous Framework for the Mean Field Limit of Multilayer Neural\n  Networks",
           "imageUrl": null
-        },
-        {
-          "id": "http://arxiv.org/abs/2203.03342",
-          "author": null,
-          "description": "Jonathan Berrisch, Micha{\\l} Narajewski, Florian Ziel",
-          "link": "http://arxiv.org/abs/2203.03342",
-          "publishedOn": "2023-02-13T07:15:35.979Z",
-          "wordCount": 830,
-          "title": "High-Resolution Peak Demand Estimation Using Generalized Additive Models\n  and Deep Neural Networks",
-          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
-        },
-        {
-          "id": "http://arxiv.org/abs/2302.05294",
-          "author": null,
-          "description": "Jingwei Zhang, Farzan Farnia",
-          "link": "http://arxiv.org/abs/2302.05294",
-          "publishedOn": "2023-02-13T07:15:35.565Z",
-          "wordCount": 616,
-          "title": "MoreauGrad: Sparse and Robust Interpretation of Neural Networks via\n  Moreau Envelope",
-          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
-        },
-        {
-          "id": "http://arxiv.org/abs/2209.11924",
-          "author": null,
-          "description": "Kartik Ahuja, Divyat Mahajan, Yixin Wang, Yoshua Bengio",
-          "link": "http://arxiv.org/abs/2209.11924",
-          "publishedOn": "2023-02-13T07:15:35.551Z",
-          "wordCount": 632,
-          "title": "Interventional Causal Representation Learning",
-          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
-        },
-        {
-          "id": "http://arxiv.org/abs/2302.05400",
-          "author": null,
-          "description": "David W. Romero, Neil Zeghidour",
-          "link": "http://arxiv.org/abs/2302.05400",
-          "publishedOn": "2023-02-13T07:15:35.538Z",
-          "wordCount": 596,
-          "title": "DNArch: Learning Convolutional Neural Architectures by Backpropagation",
-          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
         }
       ]
     },
@@ -1855,6 +1815,16 @@
       "feedUrl": "http://feeds.feedburner.com/blogspot/gJZg",
       "siteUrl": "http://ai.googleblog.com/",
       "articles": [
+        {
+          "id": "http://ai.googleblog.com/2023/03/learning-from-deep-learning-case-study.html",
+          "author": null,
+          "description": "Posted by Ellery Wulczyn and Yun Liu, Google Research  \nWhen a patient is diagnosed with cancer, one of the most important steps is examination of the tumor under a microscope by pathologists to determine the cancer stage and to characterize the tumor. This information is central to understanding clinical prognosis (i.e., likely patient outcomes) and for determining the most appropriate treatment, such as undergoing surgery alone versus surgery plus chemotherapy. Developing machine learning (ML) tools in pathology to assist with the microscopic review represents a compelling research area with many potential applications. \n\nPrevious studies have shown that ML can accurately identify and classify tumors in pathology images and can even predict patient prognosis using known pathology feature…",
+          "link": "http://ai.googleblog.com/2023/03/learning-from-deep-learning-case-study.html",
+          "publishedOn": "2023-03-14T18:16:00.004Z",
+          "wordCount": 27628,
+          "title": "Learning from deep learning: a case study of feature discovery and validation in pathology",
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj3EL99qmeogEZryesEPlH-pp_akdzLfek1zinRdpoTW1tsebb-uRCQoKxrKLPSBKxvjxdyP5Eh8t43CIcOR2yaj7PZPUifUMEN-2eDXXIUMB2xHOs-2LIuzRN-LT6TkupmMVZpHfTnWrX6xjOQxSiPuSzw-l_dgH-mBLPEaSGLG_RuhCRCQslU_X1uoA/w1200-h630-p-k-no-nu/TAF.png"
+        },
         {
           "id": "http://ai.googleblog.com/2023/03/palm-e-embodied-multimodal-language.html",
           "author": null,
