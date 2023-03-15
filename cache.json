@@ -1466,16 +1466,6 @@
           "wordCount": 3531,
           "title": "Sample Extraction from RLWE to LWE",
           "imageUrl": "https://s0.wp.com/i/blank.jpg"
-        },
-        {
-          "id": "https://jeremykun.com/?p=119079",
-          "author": "j2kun",
-          "description": "Back in May of 2022 I transferred teams at Google to work on Fully Homomorphic Encryption (newsletter announcement). Since then I’ve been working on a variety of projects in the space, including being the primary maintainer on github.com/google/fully-homomorphic-encryption, which is an open source FHE compiler for C++. This article will be an introduction to how […]",
-          "link": "https://jeremykun.com/2023/02/13/googles-fully-homomorphic-encryption-compiler-a-primer/",
-          "publishedOn": "2023-02-13T19:34:01.000Z",
-          "wordCount": 7454,
-          "title": "Google’s Fully Homomorphic Encryption Compiler — A Primer",
-          "imageUrl": "https://s0.wp.com/i/blank.jpg"
         }
       ]
     },
@@ -1565,6 +1555,16 @@
       "feedUrl": "https://xianblog.wordpress.com/feed/",
       "siteUrl": "https://xianblog.wordpress.com",
       "articles": [
+        {
+          "id": "http://xianblog.wordpress.com/?p=52563",
+          "author": "xi'an",
+          "description": "On the second day of our workshop, Aki Vehtari gave a short talk about his recent works on speed up post processing by importance sampling a simulation of an imprecise version of the likelihood until the desired precision is attained, importance corrected by Pareto smoothing¹⁵. A very interesting foray into the meaning of practical models […]",
+          "link": "https://xianblog.wordpress.com/2023/03/15/abc-in-lapland%c2%b2/",
+          "publishedOn": "2023-03-15T08:17:18.000Z",
+          "wordCount": 2130,
+          "title": "ABC in Lapland²",
+          "imageUrl": "https://xianblog.files.wordpress.com/2023/03/1678779651088-e1678780260708.jpg"
+        },
         {
           "id": "http://xianblog.wordpress.com/?p=52548",
           "author": "xi'an",
