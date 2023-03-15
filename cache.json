@@ -984,46 +984,6 @@
           "wordCount": 646,
           "title": "Non-stationary Contextual Bandits and Universal Learning",
           "imageUrl": null
-        },
-        {
-          "id": "http://arxiv.org/abs/2301.11898",
-          "author": null,
-          "description": "Valentina Zantedeschi, Luca Franceschi, Jean Kaddour, Matt J. Kusner,\n  Vlad Niculae",
-          "link": "http://arxiv.org/abs/2301.11898",
-          "publishedOn": "2023-02-14T07:15:42.457Z",
-          "wordCount": 604,
-          "title": "DAG Learning on the Permutahedron",
-          "imageUrl": null
-        },
-        {
-          "id": "http://arxiv.org/abs/2302.06035",
-          "author": null,
-          "description": "Susan Wei, Edmund Lau",
-          "link": "http://arxiv.org/abs/2302.06035",
-          "publishedOn": "2023-02-14T07:15:42.449Z",
-          "wordCount": 587,
-          "title": "Variational Bayesian Neural Networks via Resolution of Singularities",
-          "imageUrl": null
-        },
-        {
-          "id": "http://arxiv.org/abs/2302.05828",
-          "author": null,
-          "description": "Zehao Niu, Mihai Anitescu, Jie Chen",
-          "link": "http://arxiv.org/abs/2302.05828",
-          "publishedOn": "2023-02-14T07:15:42.429Z",
-          "wordCount": 643,
-          "title": "Graph Neural Network-Inspired Kernels for Gaussian Processes in\n  Semi-Supervised Learning",
-          "imageUrl": null
-        },
-        {
-          "id": "http://arxiv.org/abs/2001.11443",
-          "author": null,
-          "description": "Phan-Minh Nguyen, Huy Tuan Pham",
-          "link": "http://arxiv.org/abs/2001.11443",
-          "publishedOn": "2023-02-14T07:15:42.400Z",
-          "wordCount": 783,
-          "title": "A Rigorous Framework for the Mean Field Limit of Multilayer Neural\n  Networks",
-          "imageUrl": null
         }
       ]
     },
@@ -1083,16 +1043,6 @@
           "wordCount": 3070,
           "title": "Alef’s Corner: Democracy (Israel, 2023)",
           "imageUrl": "https://gilkalai.files.wordpress.com/2023/02/dem2.jpeg"
-        },
-        {
-          "id": "http://gilkalai.wordpress.com/?p=23866",
-          "author": "Gil Kalai",
-          "description": "What is the density of a subset of that guarantees that contains a 3-term arithmetic progression? And, more generally, if the density of is what is the minimum number of 3-terms AP that contains? These problems and the more general … Continue reading →",
-          "link": "https://gilkalai.wordpress.com/2023/02/14/absolutely-sensational-morning-news-zander-kelley-and-raghua-meka-proved-behrend-type-bounds-for-3aps/",
-          "publishedOn": "2023-02-14T07:42:46.000Z",
-          "wordCount": 3211,
-          "title": "Absolutely Sensational Morning News – Zander Kelley and Raghua Meka proved Behrend-type bounds for 3APs",
-          "imageUrl": "https://gilkalai.files.wordpress.com/2023/02/3-term-ap-1.jpg"
         }
       ]
     },
@@ -1198,16 +1148,6 @@
           "publishedOn": "2023-02-16T14:38:00.000Z",
           "wordCount": 1572,
           "title": "Google新搜出的优化器Lion：效率与效果兼得的“训练狮”",
-          "imageUrl": null
-        },
-        {
-          "id": "https://kexue.fm/archives/9467",
-          "author": "苏剑林",
-          "description": "Wasserstein距离（下面简称“W距离”），是基于最优传输思想来度量两个概率分布差异程度的距离函数，笔者之前在《从Wasserstein距离、对偶理论到WGAN》等博文中也做过介绍。对于很...",
-          "link": "https://kexue.fm/archives/9467",
-          "publishedOn": "2023-02-14T07:18:00.000Z",
-          "wordCount": 1835,
-          "title": "生成扩散模型漫谈（十六）：W距离 ≤ 得分匹配",
           "imageUrl": null
         }
       ]
@@ -1435,13 +1375,23 @@
       "siteUrl": "https://pytorch.org/",
       "articles": [
         {
-          "id": "https://pytorch.org/blog/democratizing-ai-with-pytorch/",
+          "id": "https://pytorch.org/blog/new-library-updates-in-pytorch-2.0/",
           "author": null,
-          "description": "<div type=\"html\"/>",
-          "link": "https://pytorch.org/blog/democratizing-ai-with-pytorch/",
-          "publishedOn": "2023-02-14T08:00:00.000Z",
-          "wordCount": 2124,
-          "title": "Democratizing AI with PyTorch Foundation and ROCm™ support for PyTorch",
+          "description": "Summary",
+          "link": "https://pytorch.org/blog/new-library-updates-in-pytorch-2.0/",
+          "publishedOn": "2023-03-13T07:00:00.000Z",
+          "wordCount": 1565,
+          "title": "New Library Updates in PyTorch 2.0",
+          "imageUrl": "https://pytorch.org/assets/images/pytorch-logo.png"
+        },
+        {
+          "id": "https://pytorch.org/blog/pytorch-2.0-release/",
+          "author": null,
+          "description": "We are excited to announce the release of PyTorch® 2.0 which we highlighted during the PyTorch Conference on 12/2/22! PyTorch 2.0 offers the same eager-mode development and user experience, while fundamentally changing and supercharging how PyTorch operates at compiler level under the hood with faster performance and support for Dynamic Shapes and Distributed.",
+          "link": "https://pytorch.org/blog/pytorch-2.0-release/",
+          "publishedOn": "2023-03-13T07:00:00.000Z",
+          "wordCount": 3526,
+          "title": "PyTorch 2.0: Our next generation release that is faster, more Pythonic and Dynamic as ever",
           "imageUrl": "https://pytorch.org/assets/images/pytorch-logo.png"
         }
       ]
@@ -1531,16 +1481,6 @@
           "wordCount": 3070,
           "title": "Alef’s Corner: Democracy (Israel, 2023)",
           "imageUrl": "https://gilkalai.files.wordpress.com/2023/02/dem2.jpeg"
-        },
-        {
-          "id": "http://gilkalai.wordpress.com/?p=23866",
-          "author": "Gil Kalai",
-          "description": "What is the density of a subset of that guarantees that contains a 3-term arithmetic progression? And, more generally, if the density of is what is the minimum number of 3-terms AP that contains? These problems and the more general … Continue reading →",
-          "link": "https://gilkalai.wordpress.com/2023/02/14/absolutely-sensational-morning-news-zander-kelley-and-raghua-meka-proved-behrend-type-bounds-for-3aps/",
-          "publishedOn": "2023-02-14T07:42:46.000Z",
-          "wordCount": 3211,
-          "title": "Absolutely Sensational Morning News – Zander Kelley and Raghua Meka proved Behrend-type bounds for 3APs",
-          "imageUrl": "https://gilkalai.files.wordpress.com/2023/02/3-term-ap-1.jpg"
         }
       ]
     },

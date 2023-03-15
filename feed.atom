@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-03-15T19:13:36.586Z</updated>
+    <updated>2023-03-15T20:17:54.478Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -230,6 +230,26 @@ Previous studies have shown that ML can accurately identify and classify tumors 
   Bhatt, Seth Flaxman]]></summary>
         <author>
             <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New Library Updates in PyTorch 2.0]]></title>
+        <id>https://pytorch.org/blog/new-library-updates-in-pytorch-2.0/</id>
+        <link href="https://pytorch.org/blog/new-library-updates-in-pytorch-2.0/"/>
+        <updated>2023-03-13T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Summary]]></summary>
+        <author>
+            <name>PyTorch Website</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PyTorch 2.0: Our next generation release that is faster, more Pythonic and Dynamic as ever]]></title>
+        <id>https://pytorch.org/blog/pytorch-2.0-release/</id>
+        <link href="https://pytorch.org/blog/pytorch-2.0-release/"/>
+        <updated>2023-03-13T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[We are excited to announce the release of PyTorch® 2.0 which we highlighted during the PyTorch Conference on 12/2/22! PyTorch 2.0 offers the same eager-mode development and user experience, while fundamentally changing and supercharging how PyTorch operates at compiler level under the hood with faster performance and support for Dynamic Shapes and Distributed.]]></summary>
+        <author>
+            <name>PyTorch Website</name>
         </author>
     </entry>
     <entry>
@@ -2114,89 +2134,6 @@ Within our lifetimes, we will see robotic technologies that can help with everyd
  In 2022, we focused on challenges that come with enabling robots to be more helpful to people: 1) allowing robots and humans to communicate more efficiently and nat…]]></summary>
         <author>
             <name>Google AI Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Democratizing AI with PyTorch Foundation and ROCm™ support for PyTorch]]></title>
-        <id>https://pytorch.org/blog/democratizing-ai-with-pytorch/</id>
-        <link href="https://pytorch.org/blog/democratizing-ai-with-pytorch/"/>
-        <updated>2023-02-14T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<div type="html"/>]]></summary>
-        <author>
-            <name>PyTorch Website</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Absolutely Sensational Morning News – Zander Kelley and Raghua Meka proved Behrend-type bounds for 3APs]]></title>
-        <id>http://gilkalai.wordpress.com/?p=23866</id>
-        <link href="https://gilkalai.wordpress.com/2023/02/14/absolutely-sensational-morning-news-zander-kelley-and-raghua-meka-proved-behrend-type-bounds-for-3aps/"/>
-        <updated>2023-02-14T07:42:46.000Z</updated>
-        <summary type="html"><![CDATA[What is the density of a subset of that guarantees that contains a 3-term arithmetic progression? And, more generally, if the density of is what is the minimum number of 3-terms AP that contains? These problems and the more general … Continue reading →]]></summary>
-        <author>
-            <name>Gil Kalai</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Absolutely Sensational Morning News – Zander Kelley and Raghua Meka proved Behrend-type bounds for 3APs]]></title>
-        <id>http://gilkalai.wordpress.com/?p=23866</id>
-        <link href="https://gilkalai.wordpress.com/2023/02/14/absolutely-sensational-morning-news-zander-kelley-and-raghua-meka-proved-behrend-type-bounds-for-3aps/"/>
-        <updated>2023-02-14T07:42:46.000Z</updated>
-        <summary type="html"><![CDATA[What is the density of a subset of that guarantees that contains a 3-term arithmetic progression? And, more generally, if the density of is what is the minimum number of 3-terms AP that contains? These problems and the more general … Continue reading →]]></summary>
-        <author>
-            <name>Gil Kalai</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[生成扩散模型漫谈（十六）：W距离 ≤ 得分匹配]]></title>
-        <id>https://kexue.fm/archives/9467</id>
-        <link href="https://kexue.fm/archives/9467"/>
-        <updated>2023-02-14T07:18:00.000Z</updated>
-        <summary type="html"><![CDATA[Wasserstein距离（下面简称“W距离”），是基于最优传输思想来度量两个概率分布差异程度的距离函数，笔者之前在《从Wasserstein距离、对偶理论到WGAN》等博文中也做过介绍。对于很...]]></summary>
-        <author>
-            <name>苏剑林</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DAG Learning on the Permutahedron]]></title>
-        <id>http://arxiv.org/abs/2301.11898</id>
-        <link href="http://arxiv.org/abs/2301.11898"/>
-        <updated>2023-02-14T07:15:42.457Z</updated>
-        <summary type="html"><![CDATA[Valentina Zantedeschi, Luca Franceschi, Jean Kaddour, Matt J. Kusner,
-  Vlad Niculae]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Variational Bayesian Neural Networks via Resolution of Singularities]]></title>
-        <id>http://arxiv.org/abs/2302.06035</id>
-        <link href="http://arxiv.org/abs/2302.06035"/>
-        <updated>2023-02-14T07:15:42.449Z</updated>
-        <summary type="html"><![CDATA[Susan Wei, Edmund Lau]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Graph Neural Network-Inspired Kernels for Gaussian Processes in
-  Semi-Supervised Learning]]></title>
-        <id>http://arxiv.org/abs/2302.05828</id>
-        <link href="http://arxiv.org/abs/2302.05828"/>
-        <updated>2023-02-14T07:15:42.429Z</updated>
-        <summary type="html"><![CDATA[Zehao Niu, Mihai Anitescu, Jie Chen]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Rigorous Framework for the Mean Field Limit of Multilayer Neural
-  Networks]]></title>
-        <id>http://arxiv.org/abs/2001.11443</id>
-        <link href="http://arxiv.org/abs/2001.11443"/>
-        <updated>2023-02-14T07:15:42.400Z</updated>
-        <summary type="html"><![CDATA[Phan-Minh Nguyen, Huy Tuan Pham]]></summary>
-        <author>
-            <name>arxivist feed</name>
         </author>
     </entry>
 </feed>
