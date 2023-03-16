@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-03-16T08:21:39.590Z</updated>
+    <updated>2023-03-16T09:18:02.150Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[复旦邱锡鹏：深度剖析 ChatGPT 类大语言模型的关键技术]]></title>
+        <id>https://www.52nlp.cn/?p=13428</id>
+        <link href="https://www.52nlp.cn/%e5%a4%8d%e6%97%a6%e9%82%b1%e9%94%a1%e9%b9%8f%ef%bc%9a%e6%b7%b1%e5%ba%a6%e5%89%96%e6%9e%90-chatgpt-%e7%b1%bb%e5%a4%a7%e8%af%ad%e8%a8%80%e6%a8%a1%e5%9e%8b%e7%9a%84%e5%85%b3%e9%94%ae%e6%8a%80%e6%9c%af"/>
+        <updated>2023-03-16T08:42:14.000Z</updated>
+        <summary type="html"><![CDATA[内容来源：ChatGPT 及大模型专题研讨会分享嘉宾：复旦大教授 邱锡鹏分享主题：《对话式大型语言模型》转载自 […]]]></summary>
+        <author>
+            <name>达观数据</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Benefits of Mixup for Feature Learning]]></title>
         <id>http://arxiv.org/abs/2303.08433</id>
@@ -2191,23 +2201,6 @@ However, DP algorithms tend to be less accurate than their non-private counterpa
         <summary type="html"><![CDATA[Moise Blanchard, Steve Hanneke, Patrick Jaillet]]></summary>
         <author>
             <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google Research, 2022 & beyond: Robotics]]></title>
-        <id>http://ai.googleblog.com/2023/02/google-research-2022-beyond-robotics.html</id>
-        <link href="http://ai.googleblog.com/2023/02/google-research-2022-beyond-robotics.html"/>
-        <updated>2023-02-14T20:48:00.005Z</updated>
-        <summary type="html"><![CDATA[Posted by Kendra Byrne, Senior Product Manager, and Jie Tan, Staff Research Scientist, Robotics at Google    
-    
-
-(This is Part 6 in our series of posts covering different topical areas of research at Google. You can find other posts in the series here.)
-   
-
-Within our lifetimes, we will see robotic technologies that can help with everyday activities, enhancing human productivity and quality of life. Before robotics can be broadly useful in helping with practical day-to-day tasks in people-centered spaces — spaces designed for people, not machines — they need to be able to safely & competently provide assistance to people. 
- In 2022, we focused on challenges that come with enabling robots to be more helpful to people: 1) allowing robots and humans to communicate more efficiently and nat…]]></summary>
-        <author>
-            <name>Google AI Blog</name>
         </author>
     </entry>
 </feed>
