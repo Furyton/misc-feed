@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-03-16T19:13:46.209Z</updated>
+    <updated>2023-03-16T20:17:43.586Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Responsible AI at Google Research: The Impact Lab]]></title>
+        <id>http://ai.googleblog.com/2023/03/responsible-ai-at-google-research.html</id>
+        <link href="http://ai.googleblog.com/2023/03/responsible-ai-at-google-research.html"/>
+        <updated>2023-03-16T20:13:00.001Z</updated>
+        <summary type="html"><![CDATA[Posted by Jamila Smith-Loud, Human Rights & Social Impact Research Lead, Google Research, Responsible AI and Human-Centered Technology Team 
+    
+
+Globalized technology has the potential to create large-scale societal impact, and having a grounded research approach rooted in existing international human and civil rights standards is a critical component to assuring responsible and ethical AI development and deployment. The Impact Lab team, part of Google’s Responsible AI Team, employs a range of interdisciplinary methodologies to ensure critical and rich analysis of the potential implications of technology development. The team’s mission is to examine socioeconomic and human rights impacts of AI,  publish foundational research, and incubate novel mitigations enabling machine learning (ML) …]]></summary>
+        <author>
+            <name>Google AI Blog</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Some News from a Seminar in Cambridge]]></title>
         <id>http://gilkalai.wordpress.com/?p=24009</id>
@@ -2188,59 +2201,6 @@ Differential privacy (DP) machine learning algorithms protect user data by limit
 However, DP algorithms tend to be less accurate than their non-private counterparts because satisfying DP is a worst-case requirement: one has to add noise to “hide” changes in any potential input point, including "unlikely points’’ that have a significant impact on the aggregation. For example, suppose we want to privately estimate the average of a dataset, and we know that a sphere of dia…]]></summary>
         <author>
             <name>Google AI Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Scalable Bayesian optimization with high-dimensional outputs using
-  randomized prior networks]]></title>
-        <id>http://arxiv.org/abs/2302.07260</id>
-        <link href="http://arxiv.org/abs/2302.07260"/>
-        <updated>2023-02-15T07:15:22.508Z</updated>
-        <summary type="html"><![CDATA[Mohamed Aziz Bhouri, Michael Joly, Robert Yu, Soumalya Sarkar
- , Paris Perdikaris]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Near-optimal learning with average H\"older smoothness]]></title>
-        <id>http://arxiv.org/abs/2302.06005</id>
-        <link href="http://arxiv.org/abs/2302.06005"/>
-        <updated>2023-02-15T07:15:22.492Z</updated>
-        <summary type="html"><![CDATA[Steve Hanneke, Aryeh Kontorovich, Guy Kornowski]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Easy Learning from Label Proportions]]></title>
-        <id>http://arxiv.org/abs/2302.03115</id>
-        <link href="http://arxiv.org/abs/2302.03115"/>
-        <updated>2023-02-15T07:15:22.482Z</updated>
-        <summary type="html"><![CDATA[Robert Istvan Busa-Fekete, Heejin Choi, Travis Dick, Claudio Gentile,
-  Andres Munoz medina]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Interpolation Learning With Minimum Description Length]]></title>
-        <id>http://arxiv.org/abs/2302.07263</id>
-        <link href="http://arxiv.org/abs/2302.07263"/>
-        <updated>2023-02-15T07:15:22.474Z</updated>
-        <summary type="html"><![CDATA[Naren Sarayu Manoj, Nathan Srebro]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Non-stationary Contextual Bandits and Universal Learning]]></title>
-        <id>http://arxiv.org/abs/2302.07186</id>
-        <link href="http://arxiv.org/abs/2302.07186"/>
-        <updated>2023-02-15T07:15:22.450Z</updated>
-        <summary type="html"><![CDATA[Moise Blanchard, Steve Hanneke, Patrick Jaillet]]></summary>
-        <author>
-            <name>arxivist feed</name>
         </author>
     </entry>
 </feed>

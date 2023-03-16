@@ -984,56 +984,6 @@
           "wordCount": 634,
           "title": "Continuous PDE Dynamics Forecasting with Implicit Neural Representations",
           "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
-        },
-        {
-          "id": "http://arxiv.org/abs/2302.07260",
-          "author": null,
-          "description": "Mohamed Aziz Bhouri, Michael Joly, Robert Yu, Soumalya Sarkar\n , Paris Perdikaris",
-          "link": "http://arxiv.org/abs/2302.07260",
-          "publishedOn": "2023-02-15T07:15:22.508Z",
-          "wordCount": 667,
-          "title": "Scalable Bayesian optimization with high-dimensional outputs using\n  randomized prior networks",
-          "imageUrl": null
-        },
-        {
-          "id": "http://arxiv.org/abs/2302.06005",
-          "author": null,
-          "description": "Steve Hanneke, Aryeh Kontorovich, Guy Kornowski",
-          "link": "http://arxiv.org/abs/2302.06005",
-          "publishedOn": "2023-02-15T07:15:22.492Z",
-          "wordCount": 628,
-          "title": "Near-optimal learning with average H\\\"older smoothness",
-          "imageUrl": null
-        },
-        {
-          "id": "http://arxiv.org/abs/2302.03115",
-          "author": null,
-          "description": "Robert Istvan Busa-Fekete, Heejin Choi, Travis Dick, Claudio Gentile,\n  Andres Munoz medina",
-          "link": "http://arxiv.org/abs/2302.03115",
-          "publishedOn": "2023-02-15T07:15:22.482Z",
-          "wordCount": 643,
-          "title": "Easy Learning from Label Proportions",
-          "imageUrl": null
-        },
-        {
-          "id": "http://arxiv.org/abs/2302.07263",
-          "author": null,
-          "description": "Naren Sarayu Manoj, Nathan Srebro",
-          "link": "http://arxiv.org/abs/2302.07263",
-          "publishedOn": "2023-02-15T07:15:22.474Z",
-          "wordCount": 483,
-          "title": "Interpolation Learning With Minimum Description Length",
-          "imageUrl": null
-        },
-        {
-          "id": "http://arxiv.org/abs/2302.07186",
-          "author": null,
-          "description": "Moise Blanchard, Steve Hanneke, Patrick Jaillet",
-          "link": "http://arxiv.org/abs/2302.07186",
-          "publishedOn": "2023-02-15T07:15:22.450Z",
-          "wordCount": 646,
-          "title": "Non-stationary Contextual Bandits and Universal Learning",
-          "imageUrl": null
         }
       ]
     },
@@ -1905,6 +1855,16 @@
       "feedUrl": "http://feeds.feedburner.com/blogspot/gJZg",
       "siteUrl": "http://ai.googleblog.com/",
       "articles": [
+        {
+          "id": "http://ai.googleblog.com/2023/03/responsible-ai-at-google-research.html",
+          "author": null,
+          "description": "Posted by Jamila Smith-Loud, Human Rights & Social Impact Research Lead, Google Research, Responsible AI and Human-Centered Technology Team \n    \n\nGlobalized technology has the potential to create large-scale societal impact, and having a grounded research approach rooted in existing international human and civil rights standards is a critical component to assuring responsible and ethical AI development and deployment. The Impact Lab team, part of Google’s Responsible AI Team, employs a range of interdisciplinary methodologies to ensure critical and rich analysis of the potential implications of technology development. The team’s mission is to examine socioeconomic and human rights impacts of AI,  publish foundational research, and incubate novel mitigations enabling machine learning (ML) …",
+          "link": "http://ai.googleblog.com/2023/03/responsible-ai-at-google-research.html",
+          "publishedOn": "2023-03-16T20:13:00.001Z",
+          "wordCount": 27804,
+          "title": "Responsible AI at Google Research: The Impact Lab",
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0_xt0D2xUP3mwnbE3nDQnzFidTPor0WNxYjtgeP52PqJyESFPpzT816Z814WUFn3Fg6uCWOIfopeQHktNpCxNhZ2cmcxbPBkRqMbHsoO13Jhv41vQeSHBY_Lv9_8yKO5IPhBVrRubnfQdMhjvibx8SJVldllA7SzrxxCYywwAgJLM2En0R2iF9TQ_lg/w1200-h630-p-k-no-nu/RAI%20Impact%20Lab%2002%20med%20topbottom.gif"
+        },
         {
           "id": "http://ai.googleblog.com/2023/03/learning-from-deep-learning-case-study.html",
           "author": null,
