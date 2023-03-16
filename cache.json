@@ -1425,6 +1425,16 @@
       "siteUrl": "https://pytorch.org/",
       "articles": [
         {
+          "id": "https://pytorch.org/blog/accelerated-diffusers-pt-20/",
+          "author": null,
+          "description": "PyTorch 2.0 has just been released. Its flagship new feature is torch.compile(), a one-line code change that promises to automatically improve performance across codebases. We have previously checked on that promise in Hugging Face Transformers and TIMM models, and delved deep into its motivation, architecture and the road ahead.",
+          "link": "https://pytorch.org/blog/accelerated-diffusers-pt-20/",
+          "publishedOn": "2023-03-16T07:00:00.000Z",
+          "wordCount": 1665,
+          "title": "Accelerated Diffusers with PyTorch 2.0",
+          "imageUrl": "https://pytorch.org/assets/images/pytorch-logo.png"
+        },
+        {
           "id": "https://pytorch.org/blog/new-library-updates-in-pytorch-2.0/",
           "author": null,
           "description": "Summary",
