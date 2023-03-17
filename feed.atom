@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-03-17T20:17:25.727Z</updated>
+    <updated>2023-03-17T21:14:12.922Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -2218,16 +2218,6 @@ Read more...]]></summary>
         <summary type="html"><![CDATA[昨天在Arixv上发现了Google新发的一篇论文《Symbolic Discovery of Optimization Algorithms》，主要是讲自动搜索优化器的，咋看上去没啥意思，因为...]]></summary>
         <author>
             <name>苏剑林</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Efficiently Learning Neural Networks: What Assumptions May Suffice?]]></title>
-        <id>http://arxiv.org/abs/2302.07426</id>
-        <link href="http://arxiv.org/abs/2302.07426"/>
-        <updated>2023-02-16T08:21:41.214Z</updated>
-        <summary type="html"><![CDATA[Amit Daniely, Nathan Srebro, Gal Vardi]]></summary>
-        <author>
-            <name>arxivist feed</name>
         </author>
     </entry>
 </feed>
