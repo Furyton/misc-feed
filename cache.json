@@ -1111,6 +1111,16 @@
       "siteUrl": "https://kexue.fm/",
       "articles": [
         {
+          "id": "https://kexue.fm/archives/9529",
+          "author": "苏剑林",
+          "description": "LLM是“Large Language Model”的简写，目前一般指百亿参数以上的语言模型，主要面向文本生成任务。跟小尺度模型（10亿或以内量级）的“百花齐放”不同，目前LLM的一个现状是De...",
+          "link": "https://kexue.fm/archives/9529",
+          "publishedOn": "2023-03-17T02:44:00.000Z",
+          "wordCount": 1462,
+          "title": "为什么现在的LLM都是Decoder-only的架构？",
+          "imageUrl": null
+        },
+        {
           "id": "https://kexue.fm/archives/9526",
           "author": "苏剑林",
           "description": "众所周知，分类问题的常规评估指标是正确率，而标准的损失函数则是交叉熵，交叉熵有着收敛快的优点，但它并非是正确率的光滑近似，这就带来了训练和预测的不一致性问题。另一方面，当训练样本的预测概率很低时...",
