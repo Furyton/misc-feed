@@ -6,6 +6,46 @@
       "siteUrl": "https://www.arxivist.com",
       "articles": [
         {
+          "id": "http://arxiv.org/abs/2205.13789",
+          "author": null,
+          "description": "Gianluigi Lopardo, Frederic Precioso, Damien Garreau",
+          "link": "http://arxiv.org/abs/2205.13789",
+          "publishedOn": "2023-03-17T07:15:04.611Z",
+          "wordCount": 708,
+          "title": "A Sea of Words: An In-Depth Analysis of Anchors for Text Data",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2303.09470",
+          "author": null,
+          "description": "Farooq Ahmad Wani, Maria Sofia Bucarelli, Fabrizio Silvestri",
+          "link": "http://arxiv.org/abs/2303.09470",
+          "publishedOn": "2023-03-17T07:15:04.606Z",
+          "wordCount": 670,
+          "title": "Combining Distance to Class Centroids and Outlier Discounting for\n  Improved Learning with Noisy Labels",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2303.09154",
+          "author": null,
+          "description": "Naoki Hayashi, Yoshihide Sawada",
+          "link": "http://arxiv.org/abs/2303.09154",
+          "publishedOn": "2023-03-17T07:15:04.600Z",
+          "wordCount": 739,
+          "title": "Bayesian Generalization Error in Linear Neural Networks with Concept\n  Bottleneck Structure and Multitask Formulation",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2105.14835",
+          "author": null,
+          "description": "Christoph Hertrich, Amitabh Basu, Marco Di Summa, Martin Skutella",
+          "link": "http://arxiv.org/abs/2105.14835",
+          "publishedOn": "2023-03-17T07:15:04.592Z",
+          "wordCount": 718,
+          "title": "Towards Lower Bounds on the Depth of ReLU Neural Networks",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
           "id": "http://arxiv.org/abs/2303.08433",
           "author": null,
           "description": "Difan Zou, Yuan Cao, Yuanzhi Li, Quanquan Gu",
@@ -2055,16 +2095,6 @@
           "wordCount": 27834,
           "title": "FRMT: A benchmark for few-shot region-aware machine translation",
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh05ejRDoxBALX0lt_ulHrMQsweVyb1DfhP-k5zjshuE3-NblED5gJkA8exXmCNYYdP3rrraUxRDj8G6yD_vDjpi6TNjmeaa732KLWy2I0PUr-xoNcLx3LhFTCBQkI6AG_obik5nC9E9LaPE49fhTgPFArOtbz9ePJHbNY3dHfoCgJcFp3uswlZ90FGvQ/w1200-h630-p-k-no-nu/MQMperformance-hero.jpg"
-        },
-        {
-          "id": "http://ai.googleblog.com/2023/02/friendlycore-novel-differentially.html",
-          "author": null,
-          "description": "Posted by Haim Kaplan and Yishay Mansour, Research Scientists, Google Research   \nDifferential privacy (DP) machine learning algorithms protect user data by limiting the effect of each data point on an aggregated output with a mathematical guarantee. Intuitively the guarantee implies that changing a single user’s contribution should not significantly change the output distribution of the DP algorithm. \n\nHowever, DP algorithms tend to be less accurate than their non-private counterparts because satisfying DP is a worst-case requirement: one has to add noise to “hide” changes in any potential input point, including \"unlikely points’’ that have a significant impact on the aggregation. For example, suppose we want to privately estimate the average of a dataset, and we know that a sphere of dia…",
-          "link": "http://ai.googleblog.com/2023/02/friendlycore-novel-differentially.html",
-          "publishedOn": "2023-02-15T18:52:00.002Z",
-          "wordCount": 27838,
-          "title": "FriendlyCore: A novel differentially private aggregation framework",
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiyPiYFN7skGuyMGaA0hHSsxTAKTFT89VBXkdhNLr49dxiNrIS7UIecjPctWWrbwt_YkR0lJUq5k8J2PQrwq_PAq5tkQ6IbdzTo-asO0K2f3-KsBB--iOpklbOVeSd3mOgsOyE5fnR22-Vu-aKN4YNfYyh93McgH6ooJrCvN3dZ21Wo41X2OSK6405PtQ/w1200-h630-p-k-no-nu/FriendlyCore%20hero.png"
         }
       ]
     },

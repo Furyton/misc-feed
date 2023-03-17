@@ -2,10 +2,52 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-03-17T06:19:40.569Z</updated>
+    <updated>2023-03-17T07:15:09.354Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[A Sea of Words: An In-Depth Analysis of Anchors for Text Data]]></title>
+        <id>http://arxiv.org/abs/2205.13789</id>
+        <link href="http://arxiv.org/abs/2205.13789"/>
+        <updated>2023-03-17T07:15:04.611Z</updated>
+        <summary type="html"><![CDATA[Gianluigi Lopardo, Frederic Precioso, Damien Garreau]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Combining Distance to Class Centroids and Outlier Discounting for
+  Improved Learning with Noisy Labels]]></title>
+        <id>http://arxiv.org/abs/2303.09470</id>
+        <link href="http://arxiv.org/abs/2303.09470"/>
+        <updated>2023-03-17T07:15:04.606Z</updated>
+        <summary type="html"><![CDATA[Farooq Ahmad Wani, Maria Sofia Bucarelli, Fabrizio Silvestri]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bayesian Generalization Error in Linear Neural Networks with Concept
+  Bottleneck Structure and Multitask Formulation]]></title>
+        <id>http://arxiv.org/abs/2303.09154</id>
+        <link href="http://arxiv.org/abs/2303.09154"/>
+        <updated>2023-03-17T07:15:04.600Z</updated>
+        <summary type="html"><![CDATA[Naoki Hayashi, Yoshihide Sawada]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Towards Lower Bounds on the Depth of ReLU Neural Networks]]></title>
+        <id>http://arxiv.org/abs/2105.14835</id>
+        <link href="http://arxiv.org/abs/2105.14835"/>
+        <updated>2023-03-17T07:15:04.592Z</updated>
+        <summary type="html"><![CDATA[Christoph Hertrich, Amitabh Basu, Marco Di Summa, Martin Skutella]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[为什么现在的LLM都是Decoder-only的架构？]]></title>
         <id>https://kexue.fm/archives/9529</id>
@@ -2218,19 +2260,6 @@ Read more...]]></summary>
   Rakotomamonjy, Patrick Gallinari]]></summary>
         <author>
             <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FriendlyCore: A novel differentially private aggregation framework]]></title>
-        <id>http://ai.googleblog.com/2023/02/friendlycore-novel-differentially.html</id>
-        <link href="http://ai.googleblog.com/2023/02/friendlycore-novel-differentially.html"/>
-        <updated>2023-02-15T18:52:00.002Z</updated>
-        <summary type="html"><![CDATA[Posted by Haim Kaplan and Yishay Mansour, Research Scientists, Google Research   
-Differential privacy (DP) machine learning algorithms protect user data by limiting the effect of each data point on an aggregated output with a mathematical guarantee. Intuitively the guarantee implies that changing a single user’s contribution should not significantly change the output distribution of the DP algorithm. 
-
-However, DP algorithms tend to be less accurate than their non-private counterparts because satisfying DP is a worst-case requirement: one has to add noise to “hide” changes in any potential input point, including "unlikely points’’ that have a significant impact on the aggregation. For example, suppose we want to privately estimate the average of a dataset, and we know that a sphere of dia…]]></summary>
-        <author>
-            <name>Google AI Blog</name>
         </author>
     </entry>
 </feed>
