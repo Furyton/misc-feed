@@ -1359,7 +1359,18 @@
       "title": "Causal Analysis in Theory and Practice",
       "feedUrl": "http://causality.cs.ucla.edu/blog/index.php/feed/",
       "siteUrl": "http://causality.cs.ucla.edu/blog",
-      "articles": []
+      "articles": [
+        {
+          "id": "http://causality.cs.ucla.edu/blog/?p=2463",
+          "author": "Scott Mueller",
+          "description": "Scott Mueller and Judea Pearl Introduction This note supplements the analysis of [Mueller and Pearl 2023] by introducing an important restriction on the data obtained from Randomized Control Trials (RCT). In Mueller and Pearl, it is assumed that RCTs provide estimates of two probabilities, \\(P(y_t)\\) and \\(P(y_c)\\), standing for the probability of the outcome \\(Y\\) […]",
+          "link": "http://causality.cs.ucla.edu/blog/index.php/2023/03/17/personalized-decision-making-under-concurrent-controlled-rct-data/",
+          "publishedOn": "2023-03-17T02:31:21.000Z",
+          "wordCount": 2520,
+          "title": "Personalized Decision Making under Concurrent-Controlled RCT Data",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "YongYuan's homepage",

@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-03-17T01:19:55.682Z</updated>
+    <updated>2023-03-17T02:37:18.321Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Personalized Decision Making under Concurrent-Controlled RCT Data]]></title>
+        <id>http://causality.cs.ucla.edu/blog/?p=2463</id>
+        <link href="http://causality.cs.ucla.edu/blog/index.php/2023/03/17/personalized-decision-making-under-concurrent-controlled-rct-data/"/>
+        <updated>2023-03-17T02:31:21.000Z</updated>
+        <summary type="html"><![CDATA[Scott Mueller and Judea Pearl Introduction This note supplements the analysis of [Mueller and Pearl 2023] by introducing an important restriction on the data obtained from Randomized Control Trials (RCT). In Mueller and Pearl, it is assumed that RCTs provide estimates of two probabilities, \(P(y_t)\) and \(P(y_c)\), standing for the probability of the outcome \(Y\) […]]]></summary>
+        <author>
+            <name>Scott Mueller</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[kuva Lapista³ [jatp]]]></title>
         <id>http://xianblog.wordpress.com/?p=52580</id>
