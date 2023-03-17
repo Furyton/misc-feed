@@ -1927,6 +1927,16 @@
       "siteUrl": "http://ai.googleblog.com/",
       "articles": [
         {
+          "id": "http://ai.googleblog.com/2023/03/vid2seq-pretrained-visual-language.html",
+          "author": null,
+          "description": "Posted by Antoine Yang, Student Researcher, and Arsha Nagrani, Research Scientist, Google Research, Perception team    \nVideos have become an increasingly important part of our daily lives, spanning fields such as entertainment, education, and communication. Understanding the content of videos, however, is a challenging task as videos often contain multiple events occurring at different time scales. For example, a video of a musher hitching up dogs to a dog sled before they all race away involves a long event (the dogs pulling the sled) and a short event (the dogs being hitched to the sled). One way to spur research in video understanding is via the task of dense video captioning, which consists of temporally localizing and describing all events in a minutes-long video. This differs from s…",
+          "link": "http://ai.googleblog.com/2023/03/vid2seq-pretrained-visual-language.html",
+          "publishedOn": "2023-03-17T17:52:00.000Z",
+          "wordCount": 27335,
+          "title": "Vid2Seq: a pretrained visual language model for describing multi-event videos",
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjHtk7OVsHP9wL1VeyfiCOHb-LCeghUT5XkqLgc0LPqDpsMHohSOtX3L30qC7ZucZwZwGXiestgfkaC0mbspsxV74wmJhIBzCM-D0nDIKP2eY_4lhHnh7237N6bo9kq7xubTi6aTxr_TUQU34V4Fip0KSe9osGR_JbWRtjNUkKsD6EgdV-ACWzgdMOHow/w1200-h630-p-k-no-nu/Vid2Seq.png"
+        },
+        {
           "id": "http://ai.googleblog.com/2023/03/responsible-ai-at-google-research.html",
           "author": null,
           "description": "Posted by Jamila Smith-Loud, Human Rights & Social Impact Research Lead, Google Research, Responsible AI and Human-Centered Technology Team \n    \n\nGlobalized technology has the potential to create large-scale societal impact, and having a grounded research approach rooted in existing international human and civil rights standards is a critical component to assuring responsible and ethical AI development and deployment. The Impact Lab team, part of Google’s Responsible AI Team, employs a range of interdisciplinary methodologies to ensure critical and rich analysis of the potential implications of technology development. The team’s mission is to examine socioeconomic and human rights impacts of AI,  publish foundational research, and incubate novel mitigations enabling machine learning (ML) …",
