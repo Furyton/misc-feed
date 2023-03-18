@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-03-17T23:15:53.867Z</updated>
+    <updated>2023-03-18T01:19:29.137Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[kuva Lapista⁴]]></title>
+        <id>http://xianblog.wordpress.com/?p=52604</id>
+        <link href="https://xianblog.wordpress.com/2023/03/18/kuva-lapista%e2%81%b4/"/>
+        <updated>2023-03-17T23:23:15.000Z</updated>
+        <summary type="html"><![CDATA[Visit the post for more.]]></summary>
+        <author>
+            <name>xi'an</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Vid2Seq: a pretrained visual language model for describing multi-event videos]]></title>
         <id>http://ai.googleblog.com/2023/03/vid2seq-pretrained-visual-language.html</id>
