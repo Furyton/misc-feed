@@ -1212,18 +1212,7 @@
       "title": "Python⇒Speed",
       "feedUrl": "https://pythonspeed.com/atom.xml",
       "siteUrl": "https://pythonspeed.com/atom.xml",
-      "articles": [
-        {
-          "id": "https://pythonspeed.com/articles/faster-multiprocessing-pickle/",
-          "author": null,
-          "description": "Because Python has limited parallelism when using threads, using worker processes is a common way to take advantage of multiple CPU cores.\nThe multiprocessing module is built-in to the standard library, so it’s frequently used for this purpose.\nBut while multiple processes let you take advantage of multiple CPUs, moving data between processes can be very slow.\nAnd that can reduce some of the performance benefits of using worker processes.\nLet’s see:\nWhy processes can have performance problems that threads don’t.\nA number of ways to work around or deal with this performance overhead.\nA bad solution you don’t want to us.\nRead more...",
-          "link": "https://pythonspeed.com/articles/faster-multiprocessing-pickle/",
-          "publishedOn": "2023-02-17T00:00:00.000Z",
-          "wordCount": 2074,
-          "title": "Python's multiprocessing performance problem",
-          "imageUrl": "https://pythonspeed.com/assets/titles/faster-multiprocessing-pickle.png"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "统计之都",
@@ -2080,6 +2069,16 @@
       "feedUrl": "https://languagelog.ldc.upenn.edu/nll/?feed=rss2",
       "siteUrl": "https://languagelog.ldc.upenn.edu/nll",
       "articles": [
+        {
+          "id": "https://languagelog.ldc.upenn.edu/nll/?p=58232",
+          "author": "Mark Liberman",
+          "description": "As the S2O website explains, “Subscribe to Open” (S2O) is a pragmatic approach for converting subscription journals to open access—free and immediate online availability of research—without reliance on either article processing charges (APCs) or altruism. […] S2O allows publishers to convert journals from subscriptions to OA, one year at a time. Using S2O, a publisher […]",
+          "link": "https://languagelog.ldc.upenn.edu/nll/?p=58232&utm_source=rss&utm_medium=rss&utm_campaign=subscribe-to-open",
+          "publishedOn": "2023-03-18T12:02:34.000Z",
+          "wordCount": 2065,
+          "title": "\"Subscribe to Open\"",
+          "imageUrl": null
+        },
         {
           "id": "https://languagelog.ldc.upenn.edu/nll/?p=58210",
           "author": "Victor Mair",

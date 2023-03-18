@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-03-18T11:13:00.480Z</updated>
+    <updated>2023-03-18T12:29:31.159Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA["Subscribe to Open"]]></title>
+        <id>https://languagelog.ldc.upenn.edu/nll/?p=58232</id>
+        <link href="https://languagelog.ldc.upenn.edu/nll/?p=58232&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=subscribe-to-open"/>
+        <updated>2023-03-18T12:02:34.000Z</updated>
+        <summary type="html"><![CDATA[As the S2O website explains, “Subscribe to Open” (S2O) is a pragmatic approach for converting subscription journals to open access—free and immediate online availability of research—without reliance on either article processing charges (APCs) or altruism. […] S2O allows publishers to convert journals from subscriptions to OA, one year at a time. Using S2O, a publisher […]]]></summary>
+        <author>
+            <name>Mark Liberman</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Black hole information recovery from gravitational waves]]></title>
         <id>http://arxiv.org/abs/2211.13736</id>
@@ -2210,24 +2220,6 @@ Many languages spoken worldwide cover numerous regional varieties (sometimes cal
   Ryu, Marc Dymetman]]></summary>
         <author>
             <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Python's multiprocessing performance problem]]></title>
-        <id>https://pythonspeed.com/articles/faster-multiprocessing-pickle/</id>
-        <link href="https://pythonspeed.com/articles/faster-multiprocessing-pickle/"/>
-        <updated>2023-02-17T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Because Python has limited parallelism when using threads, using worker processes is a common way to take advantage of multiple CPU cores.
-The multiprocessing module is built-in to the standard library, so it’s frequently used for this purpose.
-But while multiple processes let you take advantage of multiple CPUs, moving data between processes can be very slow.
-And that can reduce some of the performance benefits of using worker processes.
-Let’s see:
-Why processes can have performance problems that threads don’t.
-A number of ways to work around or deal with this performance overhead.
-A bad solution you don’t want to us.
-Read more...]]></summary>
-        <author>
-            <name>Python⇒Speed</name>
         </author>
     </entry>
 </feed>
