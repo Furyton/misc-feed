@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-03-18T19:12:52.926Z</updated>
+    <updated>2023-03-18T20:16:40.586Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -2178,48 +2178,6 @@ Many languages spoken worldwide cover numerous regional varieties (sometimes cal
         <summary type="html"><![CDATA[In my previous post I discussed how large language models can be thoughts of as the hero of the movie “memento” – their long-term memory is intact but they have limited context, which can be an issue in retrieving not just facts that happened after the training, but also the relevant facts that did appear … Continue reading Chatting with Claude]]></summary>
         <author>
             <name>Boaz Barak</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Scalable Batch Acquisition for Deep Bayesian Active Learning]]></title>
-        <id>http://arxiv.org/abs/2301.05490</id>
-        <link href="http://arxiv.org/abs/2301.05490"/>
-        <updated>2023-02-17T07:15:20.289Z</updated>
-        <summary type="html"><![CDATA[Aleksandr Rubashevskii, Daria Kotova, Maxim Panov]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Quantum Learning Theory Beyond Batch Binary Classification]]></title>
-        <id>http://arxiv.org/abs/2302.07409</id>
-        <link href="http://arxiv.org/abs/2302.07409"/>
-        <updated>2023-02-17T07:15:20.246Z</updated>
-        <summary type="html"><![CDATA[Preetham Mohan, Ambuj Tewari]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Interpretable Deep Learning Methods for Multiview Learning]]></title>
-        <id>http://arxiv.org/abs/2302.07930</id>
-        <link href="http://arxiv.org/abs/2302.07930"/>
-        <updated>2023-02-17T07:15:19.926Z</updated>
-        <summary type="html"><![CDATA[Hengkang Wang, Han Lu, Ju Sun, Sandra E Safo]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Aligning Language Models with Preferences through f-divergence
-  Minimization]]></title>
-        <id>http://arxiv.org/abs/2302.08215</id>
-        <link href="http://arxiv.org/abs/2302.08215"/>
-        <updated>2023-02-17T07:15:19.920Z</updated>
-        <summary type="html"><![CDATA[Dongyoung Go, Tomasz Korbak, Germ\'an Kruszewski, Jos Rozen, Nahyeon
-  Ryu, Marc Dymetman]]></summary>
-        <author>
-            <name>arxivist feed</name>
         </author>
     </entry>
 </feed>
