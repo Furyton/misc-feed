@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-03-19T03:18:27.425Z</updated>
+    <updated>2023-03-19T04:19:31.071Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -2180,26 +2180,6 @@ Where: MB0.07]]></summary>
 Many languages spoken worldwide cover numerous regional varieties (sometimes called dialects), such as Brazilian and European Portuguese or Mainland and Taiwan Mandarin Chinese. Although such varieties are often mutually intelligible to their speakers, there are still important differences. For example, the Brazilian Portuguese word for “bus” is ônibus, while the European Portuguese word is autocarro. Yet, today’s machine translation (MT) systems typically do not allow users to specify which variety of a language to translate into. This may lead to confusion if the system outputs the “wrong” variety or mixes varieties in an unnatural way. Also, region-unaware MT systems tend to favor whichever v…]]></summary>
         <author>
             <name>Google AI Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chatting with Claude]]></title>
-        <id>http://windowsontheory.org/?p=8529</id>
-        <link href="https://windowsontheory.org/2023/02/17/chatting-with-claude/"/>
-        <updated>2023-02-17T16:04:27.000Z</updated>
-        <summary type="html"><![CDATA[In my previous post I discussed how large language models can be thoughts of as the hero of the movie “memento” – their long-term memory is intact but they have limited context, which can be an issue in retrieving not just facts that happened after the training, but also the relevant facts that did appear … Continue reading Chatting with Claude]]></summary>
-        <author>
-            <name>Boaz Barak</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chatting with Claude]]></title>
-        <id>http://windowsontheory.org/?p=8529</id>
-        <link href="https://windowsontheory.org/2023/02/17/chatting-with-claude/"/>
-        <updated>2023-02-17T16:04:27.000Z</updated>
-        <summary type="html"><![CDATA[In my previous post I discussed how large language models can be thoughts of as the hero of the movie “memento” – their long-term memory is intact but they have limited context, which can be an issue in retrieving not just facts that happened after the training, but also the relevant facts that did appear … Continue reading Chatting with Claude]]></summary>
-        <author>
-            <name>Boaz Barak</name>
         </author>
     </entry>
 </feed>
