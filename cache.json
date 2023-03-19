@@ -1995,16 +1995,6 @@
           "wordCount": 27771,
           "title": "Google Research, 2022 & beyond: Natural sciences",
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEix7ysOvKywfcFd0GeRVdXpPOmJB8uIPg68lNdAX6b8dW4yieXk-9f5ynAN9ZOQz0w0f_nB6waKc-Uo5qy1jxvtqvbVuIno8J-ehR0nh_pZm4P1VvMfRLJCZ6OaqKg0qoOWfInpdb4LWQZlqj7Ah9zkvOwHtBSJ3QiD1XGhB-vSSWId5HiLYuOKDGhSew/w1200-h630-p-k-no-nu/PfamDatabase-hero.jpg"
-        },
-        {
-          "id": "http://ai.googleblog.com/2023/02/frmt-benchmark-for-few-shot-region.html",
-          "author": null,
-          "description": "Posted by Parker Riley, Software Engineer, and Jan Botha, Research Scientist, Google Research  \nMany languages spoken worldwide cover numerous regional varieties (sometimes called dialects), such as Brazilian and European Portuguese or Mainland and Taiwan Mandarin Chinese. Although such varieties are often mutually intelligible to their speakers, there are still important differences. For example, the Brazilian Portuguese word for “bus” is ônibus, while the European Portuguese word is autocarro. Yet, today’s machine translation (MT) systems typically do not allow users to specify which variety of a language to translate into. This may lead to confusion if the system outputs the “wrong” variety or mixes varieties in an unnatural way. Also, region-unaware MT systems tend to favor whichever v…",
-          "link": "http://ai.googleblog.com/2023/02/frmt-benchmark-for-few-shot-region.html",
-          "publishedOn": "2023-02-17T18:20:00.004Z",
-          "wordCount": 27834,
-          "title": "FRMT: A benchmark for few-shot region-aware machine translation",
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh05ejRDoxBALX0lt_ulHrMQsweVyb1DfhP-k5zjshuE3-NblED5gJkA8exXmCNYYdP3rrraUxRDj8G6yD_vDjpi6TNjmeaa732KLWy2I0PUr-xoNcLx3LhFTCBQkI6AG_obik5nC9E9LaPE49fhTgPFArOtbz9ePJHbNY3dHfoCgJcFp3uswlZ90FGvQ/w1200-h630-p-k-no-nu/MQMperformance-hero.jpg"
         }
       ]
     },
