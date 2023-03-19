@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-03-18T23:15:48.248Z</updated>
+    <updated>2023-03-19T01:27:20.370Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[optimal scaling for proximal MALA [All about that Bayes seminar, 21/03, Palaiseau]]]></title>
+        <id>http://xianblog.wordpress.com/?p=52571</id>
+        <link href="https://xianblog.wordpress.com/2023/03/19/optimal-scaling-for-proximal-mala-21-03/"/>
+        <updated>2023-03-18T23:23:18.000Z</updated>
+        <summary type="html"><![CDATA[An All about that Bayes seminar next Tuesday, at 2pm, at AgroParisTech, Francesca Crucinio (formerly Warwick and now ENSAE): We consider a recently proposed class of MCMC methods which uses proximity maps instead of gradients to build proposal mechanisms which can be employed for both differentiable and non-differentiable targets. These methods have been shown to […]]]></summary>
+        <author>
+            <name>xi'an</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA["Subscribe to Open"]]></title>
         <id>https://languagelog.ldc.upenn.edu/nll/?p=58232</id>
@@ -327,6 +337,18 @@ Globalized technology has the potential to create large-scale societal impact, a
         <summary type="html"><![CDATA[Christopher J. Urban, Daniel J. Bauer]]></summary>
         <author>
             <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Prompt Engineering]]></title>
+        <id>https://lilianweng.github.io/posts/2023-03-15-prompt-engineering/</id>
+        <link href="https://lilianweng.github.io/posts/2023-03-15-prompt-engineering/"/>
+        <updated>2023-03-15T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Prompt Engineering, also known as In-Context Prompting, refers to methods for how to communicate with LLM to steer its behavior for desired outcomes without updating the model weights. It is an empirical science and the effect of prompt engineering methods can vary a lot among models, thus requiring heavy experimentation and heuristics.
+Useful resources:
+ OpenAI Cookbook has many in-depth examples for how to utilize LLM efficiently. Prompt Engineering Guide repo contains a pretty comprehensive collection of education materials on prompt engineering.]]></summary>
+        <author>
+            <name>Lil'Log</name>
         </author>
     </entry>
     <entry>
