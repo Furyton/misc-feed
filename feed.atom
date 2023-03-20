@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-03-20T08:21:56.878Z</updated>
+    <updated>2023-03-20T09:17:28.647Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -47,6 +47,16 @@
         <summary type="html"><![CDATA[Gen Li, Yuting Wei]]></summary>
         <author>
             <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《为什么现在的LLM都是Decoder-only的架构？》FAQ]]></title>
+        <id>https://kexue.fm/archives/9547</id>
+        <link href="https://kexue.fm/archives/9547"/>
+        <updated>2023-03-20T06:53:00.000Z</updated>
+        <summary type="html"><![CDATA[上周笔者写了《为什么现在的LLM都是Decoder-only的架构？》，总结了一下我在这个问题上的一些实验结论和猜测。果然是热点问题流量大，paperweekly的转发没多久阅读量就破万了，知乎...]]></summary>
+        <author>
+            <name>苏剑林</name>
         </author>
     </entry>
     <entry>

@@ -1091,6 +1091,16 @@
       "siteUrl": "https://kexue.fm/",
       "articles": [
         {
+          "id": "https://kexue.fm/archives/9547",
+          "author": "苏剑林",
+          "description": "上周笔者写了《为什么现在的LLM都是Decoder-only的架构？》，总结了一下我在这个问题上的一些实验结论和猜测。果然是热点问题流量大，paperweekly的转发没多久阅读量就破万了，知乎...",
+          "link": "https://kexue.fm/archives/9547",
+          "publishedOn": "2023-03-20T06:53:00.000Z",
+          "wordCount": 1391,
+          "title": "《为什么现在的LLM都是Decoder-only的架构？》FAQ",
+          "imageUrl": null
+        },
+        {
           "id": "https://kexue.fm/archives/9529",
           "author": "苏剑林",
           "description": "LLM是“Large Language Model”的简写，目前一般指百亿参数以上的语言模型，主要面向文本生成任务。跟小尺度模型（10亿或以内量级）的“百花齐放”不同，目前LLM的一个现状是De...",
