@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-03-20T23:15:30.023Z</updated>
+    <updated>2023-03-21T01:15:57.154Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[JAGS Workshop [10-14 July 2023]]]></title>
+        <id>http://xianblog.wordpress.com/?p=52500</id>
+        <link href="https://xianblog.wordpress.com/2023/03/21/jags-workshop-10-14-july-2023/"/>
+        <updated>2023-03-20T23:23:44.000Z</updated>
+        <summary type="html"><![CDATA[Hey, JAGS users and would-be users, be warned that registration is now open for the annual JAGS workshop on probabilistic modelling for cognitive science. The tenth instalment of this workshop takes place July 10–14, 2023 in Amsterdam and online. This workshop is meant for researchers who want to learn how to apply Bayesian inference in […]]]></summary>
+        <author>
+            <name>xi'an</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Chateau Puy-Bardens [second hand Cadillac]]]></title>
         <id>http://xianblog.wordpress.com/?p=52434</id>
