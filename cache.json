@@ -6,6 +6,56 @@
       "siteUrl": "https://www.arxivist.com",
       "articles": [
         {
+          "id": "http://arxiv.org/abs/2303.10761",
+          "author": null,
+          "description": "Ruslan Vasilev, Alexander D'yakonov",
+          "link": "http://arxiv.org/abs/2303.10761",
+          "publishedOn": "2023-03-21T07:14:24.812Z",
+          "wordCount": 587,
+          "title": "Calibration of Neural Networks",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2102.06548",
+          "author": null,
+          "description": "Gen Li, Changxiao Cai, Yuxin Chen, Yuting Wei, Yuejie Chi",
+          "link": "http://arxiv.org/abs/2102.06548",
+          "publishedOn": "2023-03-21T07:14:24.806Z",
+          "wordCount": 772,
+          "title": "Is Q-Learning Minimax Optimal? A Tight Sample Complexity Analysis",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2302.07419",
+          "author": null,
+          "description": "Hajime Yoshino",
+          "link": "http://arxiv.org/abs/2302.07419",
+          "publishedOn": "2023-03-21T07:14:24.799Z",
+          "wordCount": 813,
+          "title": "Spatially heterogeneous learning by a deep student machine",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2205.11765",
+          "author": null,
+          "description": "Banghua Zhu, Lun Wang, Qi Pang, Shuai Wang, Jiantao Jiao, Dawn Song,\n  Michael I. Jordan",
+          "link": "http://arxiv.org/abs/2205.11765",
+          "publishedOn": "2023-03-21T07:14:24.793Z",
+          "wordCount": 625,
+          "title": "Byzantine-Robust Federated Learning with Optimal Statistical Rates and\n  Privacy Guarantees",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2303.11060",
+          "author": null,
+          "description": "Xavier Warin",
+          "link": "http://arxiv.org/abs/2303.11060",
+          "publishedOn": "2023-03-21T07:14:24.768Z",
+          "wordCount": 554,
+          "title": "Quantile and moment neural networks for learning functionals of\n  distributions",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
           "id": "http://arxiv.org/abs/2303.10019",
           "author": null,
           "description": "Jonathan Berrisch, Florian Ziel",

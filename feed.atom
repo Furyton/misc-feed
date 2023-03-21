@@ -2,10 +2,63 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-03-21T06:20:10.135Z</updated>
+    <updated>2023-03-21T07:14:30.559Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Calibration of Neural Networks]]></title>
+        <id>http://arxiv.org/abs/2303.10761</id>
+        <link href="http://arxiv.org/abs/2303.10761"/>
+        <updated>2023-03-21T07:14:24.812Z</updated>
+        <summary type="html"><![CDATA[Ruslan Vasilev, Alexander D'yakonov]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Is Q-Learning Minimax Optimal? A Tight Sample Complexity Analysis]]></title>
+        <id>http://arxiv.org/abs/2102.06548</id>
+        <link href="http://arxiv.org/abs/2102.06548"/>
+        <updated>2023-03-21T07:14:24.806Z</updated>
+        <summary type="html"><![CDATA[Gen Li, Changxiao Cai, Yuxin Chen, Yuting Wei, Yuejie Chi]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Spatially heterogeneous learning by a deep student machine]]></title>
+        <id>http://arxiv.org/abs/2302.07419</id>
+        <link href="http://arxiv.org/abs/2302.07419"/>
+        <updated>2023-03-21T07:14:24.799Z</updated>
+        <summary type="html"><![CDATA[Hajime Yoshino]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Byzantine-Robust Federated Learning with Optimal Statistical Rates and
+  Privacy Guarantees]]></title>
+        <id>http://arxiv.org/abs/2205.11765</id>
+        <link href="http://arxiv.org/abs/2205.11765"/>
+        <updated>2023-03-21T07:14:24.793Z</updated>
+        <summary type="html"><![CDATA[Banghua Zhu, Lun Wang, Qi Pang, Shuai Wang, Jiantao Jiao, Dawn Song,
+  Michael I. Jordan]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Quantile and moment neural networks for learning functionals of
+  distributions]]></title>
+        <id>http://arxiv.org/abs/2303.11060</id>
+        <link href="http://arxiv.org/abs/2303.11060"/>
+        <updated>2023-03-21T07:14:24.768Z</updated>
+        <summary type="html"><![CDATA[Xavier Warin]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[JAGS Workshop [10-14 July 2023]]]></title>
         <id>http://xianblog.wordpress.com/?p=52500</id>
