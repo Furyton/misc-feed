@@ -1199,18 +1199,7 @@
       "title": "Statistics » Event Diary",
       "feedUrl": "https://warwick.ac.uk/sitebuilder2/api/rss/news.rss?page=/fac/sci/statistics/event_diary/&tag=CRiSM%20seminars&rss=true&view=upcoming",
       "siteUrl": "https://warwick.ac.uk/fac/sci/statistics/event_diary/",
-      "articles": [
-        {
-          "id": "8a1785d88659e0df01866f1c32713ef9",
-          "author": "Statistics",
-          "description": "When:\r\n\t\r\n  \t\t13:00\r\n\t\t-\r\n\t\t14:00, Wed, 03 May '23\r\n\r\n\t\nWhere: MB0.07",
-          "link": "https://warwick.ac.uk/fac/sci/statistics/event_diary/?calendarItem=8a1785d88659e0df01866f1c32713ef8",
-          "publishedOn": "2023-02-20T13:56:04.000Z",
-          "wordCount": 307,
-          "title": "03/05 1pm-2pm: CRiSM Seminar",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "arg min blog",
@@ -1229,6 +1218,16 @@
       "feedUrl": "https://cosx.org/index.xml",
       "siteUrl": "https://cosx.org/",
       "articles": [
+        {
+          "id": "https://cosx.org/2023/03/50-years-of-data-science-cn/",
+          "author": null,
+          "description": "统计之都编辑部按：本文译自 Donoho (2017): 50 Years of Data Science，发表在 Journal of Computational and Graphical Statistics 杂志。在正式发表前数年，其初版就广为流传，引发了学术界深入、持续的讨",
+          "link": "https://cosx.org/2023/03/50-years-of-data-science-cn/",
+          "publishedOn": "2023-03-21T00:00:00.000Z",
+          "wordCount": 3156,
+          "title": "Donoho: 数据科学50年",
+          "imageUrl": null
+        },
         {
           "id": "https://cosx.org/2023/03/monthly/",
           "author": null,
