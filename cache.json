@@ -1466,6 +1466,16 @@
       "siteUrl": "https://pytorch.org/",
       "articles": [
         {
+          "id": "https://pytorch.org/blog/pytorch-2.0-xla/",
+          "author": null,
+          "description": "Today, we are excited to share our latest work for PyTorch/XLA 2.0. The release of PyTorch 2.0 is yet another major milestone for this storied community and we are excited to continue to be part of it. When the PyTorch/XLA project started in 2018 between Google and Meta, the focus was on bringing cutting edge Cloud TPUs to help support the PyTorch community. Along the way, others in the community such as Amazon joined the project and very quickly the community expanded. We are excited about XLA’s direction and the benefits this project continues to bring to the PyTorch community. In this blog we’d like to showcase some key features that have been in development, show code snippets, and illustrate the benefit through some benchmarks.",
+          "link": "https://pytorch.org/blog/pytorch-2.0-xla/",
+          "publishedOn": "2023-03-22T07:00:00.000Z",
+          "wordCount": 2069,
+          "title": "PyTorch 2.0 &amp; XLA—The Latest Cutting Edge Features",
+          "imageUrl": "https://pytorch.org/assets/images/pytorch-logo.png"
+        },
+        {
           "id": "https://pytorch.org/blog/accelerated-diffusers-pt-20/",
           "author": null,
           "description": "PyTorch 2.0 has just been released. Its flagship new feature is torch.compile(), a one-line code change that promises to automatically improve performance across codebases. We have previously checked on that promise in Hugging Face Transformers and TIMM models, and delved deep into its motivation, architecture and the road ahead.",
