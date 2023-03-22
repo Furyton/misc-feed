@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-03-22T14:14:50.887Z</updated>
+    <updated>2023-03-22T15:17:23.363Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[We May be Surprised Again: Why I take LLMs seriously.]]></title>
+        <id>6409ab352445f5003d117961</id>
+        <link href="https://www.inference.vc/we-may-be-surprised-again/"/>
+        <updated>2023-03-22T14:55:54.000Z</updated>
+        <summary type="html"><![CDATA["Deep Learning is Easy, Learn something Harder" - I proclaimed in one of my early and provocative blog posts from 2016. While some observations were fair, that post is now evidence that I clearly underestimated the the impact simple techniques will have, and probably gave counterproductive advice.
+I]]></summary>
+        <author>
+            <name>Ferenc Huszar</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Fighting Money Laundering with Statistics and Machine Learning]]></title>
         <id>http://arxiv.org/abs/2201.04207</id>
@@ -68,6 +79,16 @@
         <summary type="html"><![CDATA["The practical value of LLMs is high enough that it will induce Chinese to seek out the best systems, and they will not be censored by China.” "Yes, the Chinese Great Firewall will be collapsing" by  Tyler Cowen Marginal Revolution (March 21, 2023) Something that the PRC censors had not predicted: As framed from China: […]]]></summary>
         <author>
             <name>Victor Mair</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[畅谈 GhatGPT 在学界的应用]]></title>
+        <id>https://cosx.org/2023/03/chatgpt-in-education/</id>
+        <link href="https://cosx.org/2023/03/chatgpt-in-education/"/>
+        <updated>2023-03-22T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[本文根据作者在 2023 年 2 月 18 日统计之都云讲堂的发言整理修改而成。 1 惊人的体验 最近试用了一下 ChatGPT。正如很多人描绘的那样，这个产品震撼人心]]></summary>
+        <author>
+            <name>统计之都</name>
         </author>
     </entry>
     <entry>

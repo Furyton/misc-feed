@@ -1269,6 +1269,16 @@
       "siteUrl": "https://cosx.org/",
       "articles": [
         {
+          "id": "https://cosx.org/2023/03/chatgpt-in-education/",
+          "author": null,
+          "description": "本文根据作者在 2023 年 2 月 18 日统计之都云讲堂的发言整理修改而成。 1 惊人的体验 最近试用了一下 ChatGPT。正如很多人描绘的那样，这个产品震撼人心",
+          "link": "https://cosx.org/2023/03/chatgpt-in-education/",
+          "publishedOn": "2023-03-22T00:00:00.000Z",
+          "wordCount": 251,
+          "title": "畅谈 GhatGPT 在学界的应用",
+          "imageUrl": null
+        },
+        {
           "id": "https://cosx.org/2023/03/50-years-of-data-science-cn/",
           "author": null,
           "description": "统计之都编辑部按：本文译自 Donoho (2017): 50 Years of Data Science，发表在 Journal of Computational and Graphical Statistics 杂志。在正式发表前数年，其初版就广为流传，引发了学术界深入、持续的讨",
@@ -1372,7 +1382,18 @@
       "title": "inFERENCe",
       "feedUrl": "https://www.inference.vc/rss/",
       "siteUrl": "https://www.inference.vc/",
-      "articles": []
+      "articles": [
+        {
+          "id": "6409ab352445f5003d117961",
+          "author": "Ferenc Huszar",
+          "description": "\"Deep Learning is Easy, Learn something Harder\" - I proclaimed in one of my early and provocative blog posts from 2016. While some observations were fair, that post is now evidence that I clearly underestimated the the impact simple techniques will have, and probably gave counterproductive advice.\nI",
+          "link": "https://www.inference.vc/we-may-be-surprised-again/",
+          "publishedOn": "2023-03-22T14:55:54.000Z",
+          "wordCount": 1989,
+          "title": "We May be Surprised Again: Why I take LLMs seriously.",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "Eric Jang",
