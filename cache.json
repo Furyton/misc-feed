@@ -6,6 +6,56 @@
       "siteUrl": "https://www.arxivist.com",
       "articles": [
         {
+          "id": "http://arxiv.org/abs/2201.04207",
+          "author": null,
+          "description": "Rasmus Jensen, Alexandros Iosifidis",
+          "link": "http://arxiv.org/abs/2201.04207",
+          "publishedOn": "2023-03-22T07:14:22.810Z",
+          "wordCount": 667,
+          "title": "Fighting Money Laundering with Statistics and Machine Learning",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2303.11454",
+          "author": null,
+          "description": "Jakob Heiss, Josef Teichmann, Hanna Wutte",
+          "link": "http://arxiv.org/abs/2303.11454",
+          "publishedOn": "2023-03-22T07:14:22.779Z",
+          "wordCount": 710,
+          "title": "How (Implicit) Regularization of ReLU Neural Networks Characterizes the\n  Learned Function -- Part II: the Multi-D Case of Two Layers with Random First\n  Layer",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2303.11453",
+          "author": null,
+          "description": "Nived Rajaraman, Devvrit, Aryan Mokhtari, Kannan Ramchandran",
+          "link": "http://arxiv.org/abs/2303.11453",
+          "publishedOn": "2023-03-22T07:14:18.103Z",
+          "wordCount": 813,
+          "title": "Greedy Pruning with Group Lasso Provably Generalizes for Matrix Sensing\n  and Neural Networks with Quadratic Activations",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2303.11650",
+          "author": null,
+          "description": "Fabien Lauer (ABC)",
+          "link": "http://arxiv.org/abs/2303.11650",
+          "publishedOn": "2023-03-22T07:14:18.096Z",
+          "wordCount": 605,
+          "title": "Uniform Risk Bounds for Learning with Dependent Data Sequences",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2303.11733",
+          "author": null,
+          "description": "Karthick Panner Selvam, Mats Brorsson",
+          "link": "http://arxiv.org/abs/2303.11733",
+          "publishedOn": "2023-03-22T07:14:18.059Z",
+          "wordCount": 710,
+          "title": "DIPPM: a Deep Learning Inference Performance Predictive Model using\n  Graph Neural Networks",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
           "id": "http://arxiv.org/abs/2303.10761",
           "author": null,
           "description": "Ruslan Vasilev, Alexander D'yakonov",

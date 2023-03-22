@@ -2,10 +2,64 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-03-22T06:19:44.370Z</updated>
+    <updated>2023-03-22T07:14:24.406Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Fighting Money Laundering with Statistics and Machine Learning]]></title>
+        <id>http://arxiv.org/abs/2201.04207</id>
+        <link href="http://arxiv.org/abs/2201.04207"/>
+        <updated>2023-03-22T07:14:22.810Z</updated>
+        <summary type="html"><![CDATA[Rasmus Jensen, Alexandros Iosifidis]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How (Implicit) Regularization of ReLU Neural Networks Characterizes the
+  Learned Function -- Part II: the Multi-D Case of Two Layers with Random First
+  Layer]]></title>
+        <id>http://arxiv.org/abs/2303.11454</id>
+        <link href="http://arxiv.org/abs/2303.11454"/>
+        <updated>2023-03-22T07:14:22.779Z</updated>
+        <summary type="html"><![CDATA[Jakob Heiss, Josef Teichmann, Hanna Wutte]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Greedy Pruning with Group Lasso Provably Generalizes for Matrix Sensing
+  and Neural Networks with Quadratic Activations]]></title>
+        <id>http://arxiv.org/abs/2303.11453</id>
+        <link href="http://arxiv.org/abs/2303.11453"/>
+        <updated>2023-03-22T07:14:18.103Z</updated>
+        <summary type="html"><![CDATA[Nived Rajaraman, Devvrit, Aryan Mokhtari, Kannan Ramchandran]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Uniform Risk Bounds for Learning with Dependent Data Sequences]]></title>
+        <id>http://arxiv.org/abs/2303.11650</id>
+        <link href="http://arxiv.org/abs/2303.11650"/>
+        <updated>2023-03-22T07:14:18.096Z</updated>
+        <summary type="html"><![CDATA[Fabien Lauer (ABC)]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DIPPM: a Deep Learning Inference Performance Predictive Model using
+  Graph Neural Networks]]></title>
+        <id>http://arxiv.org/abs/2303.11733</id>
+        <link href="http://arxiv.org/abs/2303.11733"/>
+        <updated>2023-03-22T07:14:18.059Z</updated>
+        <summary type="html"><![CDATA[Karthick Panner Selvam, Mats Brorsson]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ChatGPT-4:  threat or boon to the Great Firewall?]]></title>
         <id>https://languagelog.ldc.upenn.edu/nll/?p=58250</id>
