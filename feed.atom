@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-03-23T19:12:32.404Z</updated>
+    <updated>2023-03-23T20:17:09.762Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Visual language maps for robot navigation]]></title>
+        <id>http://ai.googleblog.com/2023/03/visual-language-maps-for-robot.html</id>
+        <link href="http://ai.googleblog.com/2023/03/visual-language-maps-for-robot.html"/>
+        <updated>2023-03-23T19:08:00.005Z</updated>
+        <summary type="html"><![CDATA[Posted by Oier Mees, PhD Student, University of Freiburg, and Andy Zeng, Research Scientist, Robotics at Google   
+People are excellent navigators of the physical world, due in part to their remarkable ability to build cognitive maps that form the basis of spatial memory — from localizing landmarks at varying ontological levels (like a book on a shelf in the living room) to determining whether a layout permits navigation from point A to point B. Building robots that are proficient at navigation requires an interconnected understanding of (a) vision and natural language (to associate landmarks or follow instructions), and (b) spatial reasoning (to connect a map representing an environment to the true spatial distribution of objects). While there have been many recent advances in training jo…]]></summary>
+        <author>
+            <name>Google AI Blog</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Scalable Bayesian optimization with high-dimensional outputs using
   randomized prior networks]]></title>
@@ -2324,58 +2335,6 @@ Many years from today, scientists will be able to use fault-tolerant quantum com
 Currently, the error rates of the qubits on our 3rd generation Sycamore processor are typically between 1 in 10,000 to 1 in 100. Through our work and that of others, we understand that developing large-scale quantum computers will require far lower error rates. We will n…]]></summary>
         <author>
             <name>Google AI Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Valid Inference for Machine Learning Model Parameters]]></title>
-        <id>http://arxiv.org/abs/2302.10840</id>
-        <link href="http://arxiv.org/abs/2302.10840"/>
-        <updated>2023-02-22T07:15:27.871Z</updated>
-        <summary type="html"><![CDATA[Neil Dey, Jonathan P. Williams]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Exploring Local Norms in Exp-concave Statistical Learning]]></title>
-        <id>http://arxiv.org/abs/2302.10726</id>
-        <link href="http://arxiv.org/abs/2302.10726"/>
-        <updated>2023-02-22T07:15:27.850Z</updated>
-        <summary type="html"><![CDATA[Nikita Puchkin, Nikita Zhivotovskiy]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GDBN: a Graph Neural Network Approach to Dynamic Bayesian Network]]></title>
-        <id>http://arxiv.org/abs/2302.10804</id>
-        <link href="http://arxiv.org/abs/2302.10804"/>
-        <updated>2023-02-22T07:15:27.844Z</updated>
-        <summary type="html"><![CDATA[Yang Sun, Yifan Xie]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Scalable Infomin Learning]]></title>
-        <id>http://arxiv.org/abs/2302.10701</id>
-        <link href="http://arxiv.org/abs/2302.10701"/>
-        <updated>2023-02-22T07:15:27.532Z</updated>
-        <summary type="html"><![CDATA[Yanzhi Chen, Weihao Sun, Yingzhen Li, Adrian Weller]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Deep Transformers without Shortcuts: Modifying Self-attention for
-  Faithful Signal Propagation]]></title>
-        <id>http://arxiv.org/abs/2302.10322</id>
-        <link href="http://arxiv.org/abs/2302.10322"/>
-        <updated>2023-02-22T07:15:27.486Z</updated>
-        <summary type="html"><![CDATA[Bobby He, James Martens, Guodong Zhang, Aleksandar Botev, Andrew
-  Brock, Samuel L Smith, Yee Whye Teh]]></summary>
-        <author>
-            <name>arxivist feed</name>
         </author>
     </entry>
 </feed>

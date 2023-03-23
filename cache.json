@@ -984,56 +984,6 @@
           "wordCount": 681,
           "title": "Drop Edges and Adapt: a Fairness Enforcing Fine-tuning for Graph Neural\n  Networks",
           "imageUrl": null
-        },
-        {
-          "id": "http://arxiv.org/abs/2302.10840",
-          "author": null,
-          "description": "Neil Dey, Jonathan P. Williams",
-          "link": "http://arxiv.org/abs/2302.10840",
-          "publishedOn": "2023-02-22T07:15:27.871Z",
-          "wordCount": 580,
-          "title": "Valid Inference for Machine Learning Model Parameters",
-          "imageUrl": null
-        },
-        {
-          "id": "http://arxiv.org/abs/2302.10726",
-          "author": null,
-          "description": "Nikita Puchkin, Nikita Zhivotovskiy",
-          "link": "http://arxiv.org/abs/2302.10726",
-          "publishedOn": "2023-02-22T07:15:27.850Z",
-          "wordCount": 545,
-          "title": "Exploring Local Norms in Exp-concave Statistical Learning",
-          "imageUrl": null
-        },
-        {
-          "id": "http://arxiv.org/abs/2302.10804",
-          "author": null,
-          "description": "Yang Sun, Yifan Xie",
-          "link": "http://arxiv.org/abs/2302.10804",
-          "publishedOn": "2023-02-22T07:15:27.844Z",
-          "wordCount": 562,
-          "title": "GDBN: a Graph Neural Network Approach to Dynamic Bayesian Network",
-          "imageUrl": null
-        },
-        {
-          "id": "http://arxiv.org/abs/2302.10701",
-          "author": null,
-          "description": "Yanzhi Chen, Weihao Sun, Yingzhen Li, Adrian Weller",
-          "link": "http://arxiv.org/abs/2302.10701",
-          "publishedOn": "2023-02-22T07:15:27.532Z",
-          "wordCount": 610,
-          "title": "Scalable Infomin Learning",
-          "imageUrl": null
-        },
-        {
-          "id": "http://arxiv.org/abs/2302.10322",
-          "author": null,
-          "description": "Bobby He, James Martens, Guodong Zhang, Aleksandar Botev, Andrew\n  Brock, Samuel L Smith, Yee Whye Teh",
-          "link": "http://arxiv.org/abs/2302.10322",
-          "publishedOn": "2023-02-22T07:15:27.486Z",
-          "wordCount": 661,
-          "title": "Deep Transformers without Shortcuts: Modifying Self-attention for\n  Faithful Signal Propagation",
-          "imageUrl": null
         }
       ]
     },
@@ -1967,6 +1917,16 @@
       "feedUrl": "http://feeds.feedburner.com/blogspot/gJZg",
       "siteUrl": "http://ai.googleblog.com/",
       "articles": [
+        {
+          "id": "http://ai.googleblog.com/2023/03/visual-language-maps-for-robot.html",
+          "author": null,
+          "description": "Posted by Oier Mees, PhD Student, University of Freiburg, and Andy Zeng, Research Scientist, Robotics at Google   \nPeople are excellent navigators of the physical world, due in part to their remarkable ability to build cognitive maps that form the basis of spatial memory — from localizing landmarks at varying ontological levels (like a book on a shelf in the living room) to determining whether a layout permits navigation from point A to point B. Building robots that are proficient at navigation requires an interconnected understanding of (a) vision and natural language (to associate landmarks or follow instructions), and (b) spatial reasoning (to connect a map representing an environment to the true spatial distribution of objects). While there have been many recent advances in training jo…",
+          "link": "http://ai.googleblog.com/2023/03/visual-language-maps-for-robot.html",
+          "publishedOn": "2023-03-23T19:08:00.005Z",
+          "wordCount": 27416,
+          "title": "Visual language maps for robot navigation",
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-nWkkEWJtdH6QKQ8NY33xBVhwbc8_p7htzuMSn0S_eeDlSfQL798s95Ifaq-c6Z4qvv0YXUbFkeo6McMb6BnGdbyTXIC8PBkU5Ovlr9AjwzZ9ddyx8VER-iM0u91VZYkHuBqTLMOc_D_tgLrUekxZjmtqarbiZEbHSvydqSD61fT1XTXRHJ0SdG0nQA/w1200-h630-p-k-no-nu/VLMaps%20hero.jpg"
+        },
         {
           "id": "http://ai.googleblog.com/2023/03/vid2seq-pretrained-visual-language.html",
           "author": null,
