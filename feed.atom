@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-03-23T11:13:26.094Z</updated>
+    <updated>2023-03-23T12:32:02.092Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -2375,26 +2375,6 @@ Currently, the error rates of the qubits on our 3rd generation Sycamore processo
         <summary type="html"><![CDATA[See arxiv link for paper by Nikhil Vyas, Sham Kakade, and me. Conditional generative models hold much promise for novel content creation. Whether it is generating a snippet of code, piece of text, or image, such models can potentially save substantial human effort and unlock new capabilities. But there is a fly in this ointment. … Continue reading Provable Copyright Protection for Generative Models]]></summary>
         <author>
             <name>Boaz Barak</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[统计之都访谈第47期：斯坦福大学青椒--雷理骅访谈]]></title>
-        <id>https://cosx.org/2023/02/interview-of-lihua-lei/</id>
-        <link href="https://cosx.org/2023/02/interview-of-lihua-lei/"/>
-        <updated>2023-02-22T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[统计之都访谈第47期。2022年8月初，正是北美一年一届的 Joint Statistical Meetings。统计之都在会议间隔对雷理骅进行了采访。在本文发布之际，雷理骅]]></summary>
-        <author>
-            <name>统计之都</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[stops making sense [cover]]></title>
-        <id>http://xianblog.wordpress.com/?p=52253</id>
-        <link href="https://xianblog.wordpress.com/2023/02/22/stops-making-sense-cover/"/>
-        <updated>2023-02-21T23:23:07.000Z</updated>
-        <summary type="html"><![CDATA[Visit the post for more.]]></summary>
-        <author>
-            <name>xi'an</name>
         </author>
     </entry>
 </feed>
