@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-03-23T17:14:30.486Z</updated>
+    <updated>2023-03-23T18:19:29.796Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -79,6 +79,27 @@
         <summary type="html"><![CDATA[Sean Carroll's Preposterous Universe Podcast #230 Raphaël Millière on How Artificial Intelligence Thinks, March 20, 2023 / Philosophy, Technology, Thinking / Comments     Includes transcript of the two hour podcast. Welcome to another episode of Sean Carroll's Mindscape. Today, we're joined by Raphaël Millière, a philosopher and cognitive scientist at Columbia University. We'll be exploring the […]]]></summary>
         <author>
             <name>Victor Mair</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Speeding up text processing in Python (is hard)]]></title>
+        <id>https://pythonspeed.com/articles/faster-text-processing/</id>
+        <link href="https://pythonspeed.com/articles/faster-text-processing/"/>
+        <updated>2023-03-23T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[If you’re doing text or string manipulation in Python, what do you do if your code is too slow?
+Assuming your algorithm is reasonably efficient, the next step is to try faster alternatives to Python: a compiled extension.
+Unfortunately, this is harder than it seems.
+Some options don’t offer an easy path to optimizations, others are actually slower.
+To see this limitation in action, we’ll consider some alternatives:
+Pure Python, with the default Python interpreter.
+Cython.
+mypyc.
+Rust.
+Pure Python, with the PyPy interpreter.
+We’ll also consider what can be done if these option don’t help.
+Read more...]]></summary>
+        <author>
+            <name>Python⇒Speed</name>
         </author>
     </entry>
     <entry>
