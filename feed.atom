@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-03-23T09:15:55.522Z</updated>
+    <updated>2023-03-23T10:17:32.199Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -2395,23 +2395,6 @@ Currently, the error rates of the qubits on our 3rd generation Sycamore processo
         <summary type="html"><![CDATA[Visit the post for more.]]></summary>
         <author>
             <name>xi'an</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google Research, 2022 & beyond: Natural sciences]]></title>
-        <id>http://ai.googleblog.com/2023/02/google-research-2022-beyond-natural.html</id>
-        <link href="http://ai.googleblog.com/2023/02/google-research-2022-beyond-natural.html"/>
-        <updated>2023-02-21T22:16:00.006Z</updated>
-        <summary type="html"><![CDATA[Posted by John Platt, Distinguished Scientist, Google Research    
-    
-
-(This is Part 7 in our series of posts covering different topical areas of research at Google. You can find other posts in the series here.)
-   
-
-It's an incredibly exciting time to be a scientist. With the amazing advances in machine learning (ML) and quantum computing, we now have powerful new tools that enable us to act on our curiosity, collaborate in new ways, and radically accelerate progress toward breakthrough scientific discoveries. 
-Since joining Google Research eight years ago, I’ve had the privilege of being part of a community of talented researchers fascinated by applying cutting-edge computing to push the boundaries of what is possible in applied science. Our teams are exploring topics across the physic…]]></summary>
-        <author>
-            <name>Google AI Blog</name>
         </author>
     </entry>
 </feed>
