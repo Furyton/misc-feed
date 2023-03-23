@@ -2,10 +2,65 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-03-23T06:20:09.183Z</updated>
+    <updated>2023-03-23T07:14:12.600Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Scalable Bayesian optimization with high-dimensional outputs using
+  randomized prior networks]]></title>
+        <id>http://arxiv.org/abs/2302.07260</id>
+        <link href="http://arxiv.org/abs/2302.07260"/>
+        <updated>2023-03-23T07:14:03.565Z</updated>
+        <summary type="html"><![CDATA[Mohamed Aziz Bhouri, Michael Joly, Robert Yu, Soumalya Sarkar
+ , Paris Perdikaris]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Unbiased Supervised Contrastive Learning]]></title>
+        <id>http://arxiv.org/abs/2211.05568</id>
+        <link href="http://arxiv.org/abs/2211.05568"/>
+        <updated>2023-03-23T07:14:03.543Z</updated>
+        <summary type="html"><![CDATA[Carlo Alberto Barbano, Benoit Dufumier, Enzo Tartaglione, Marco
+  Grangetto, Pietro Gori]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Near-optimal inference in adaptive linear regression]]></title>
+        <id>http://arxiv.org/abs/2107.02266</id>
+        <link href="http://arxiv.org/abs/2107.02266"/>
+        <updated>2023-03-23T07:14:03.530Z</updated>
+        <summary type="html"><![CDATA[Koulik Khamaru, Yash Deshpande, Tor Lattimore, Lester Mackey, Martin
+  J. Wainwright]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hardness of Independent Learning and Sparse Equilibrium Computation in
+  Markov Games]]></title>
+        <id>http://arxiv.org/abs/2303.12287</id>
+        <link href="http://arxiv.org/abs/2303.12287"/>
+        <updated>2023-03-23T07:14:03.488Z</updated>
+        <summary type="html"><![CDATA[Dylan J. Foster, Noah Golowich, Sham M. Kakade]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Universal Approximation Property of Hamiltonian Deep Neural Networks]]></title>
+        <id>http://arxiv.org/abs/2303.12147</id>
+        <link href="http://arxiv.org/abs/2303.12147"/>
+        <updated>2023-03-23T07:14:03.468Z</updated>
+        <summary type="html"><![CDATA[Muhammad Zakwan, Massimiliano d'Angelo, Giancarlo Ferrari-Trecate]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Pablumese]]></title>
         <id>https://languagelog.ldc.upenn.edu/nll/?p=58260</id>

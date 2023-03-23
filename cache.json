@@ -6,6 +6,56 @@
       "siteUrl": "https://www.arxivist.com",
       "articles": [
         {
+          "id": "http://arxiv.org/abs/2302.07260",
+          "author": null,
+          "description": "Mohamed Aziz Bhouri, Michael Joly, Robert Yu, Soumalya Sarkar\n , Paris Perdikaris",
+          "link": "http://arxiv.org/abs/2302.07260",
+          "publishedOn": "2023-03-23T07:14:03.565Z",
+          "wordCount": 762,
+          "title": "Scalable Bayesian optimization with high-dimensional outputs using\n  randomized prior networks",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2211.05568",
+          "author": null,
+          "description": "Carlo Alberto Barbano, Benoit Dufumier, Enzo Tartaglione, Marco\n  Grangetto, Pietro Gori",
+          "link": "http://arxiv.org/abs/2211.05568",
+          "publishedOn": "2023-03-23T07:14:03.543Z",
+          "wordCount": 702,
+          "title": "Unbiased Supervised Contrastive Learning",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2107.02266",
+          "author": null,
+          "description": "Koulik Khamaru, Yash Deshpande, Tor Lattimore, Lester Mackey, Martin\n  J. Wainwright",
+          "link": "http://arxiv.org/abs/2107.02266",
+          "publishedOn": "2023-03-23T07:14:03.530Z",
+          "wordCount": 676,
+          "title": "Near-optimal inference in adaptive linear regression",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2303.12287",
+          "author": null,
+          "description": "Dylan J. Foster, Noah Golowich, Sham M. Kakade",
+          "link": "http://arxiv.org/abs/2303.12287",
+          "publishedOn": "2023-03-23T07:14:03.488Z",
+          "wordCount": 814,
+          "title": "Hardness of Independent Learning and Sparse Equilibrium Computation in\n  Markov Games",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2303.12147",
+          "author": null,
+          "description": "Muhammad Zakwan, Massimiliano d'Angelo, Giancarlo Ferrari-Trecate",
+          "link": "http://arxiv.org/abs/2303.12147",
+          "publishedOn": "2023-03-23T07:14:03.468Z",
+          "wordCount": 602,
+          "title": "Universal Approximation Property of Hamiltonian Deep Neural Networks",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
           "id": "http://arxiv.org/abs/2201.04207",
           "author": null,
           "description": "Rasmus Jensen, Alexandros Iosifidis",
