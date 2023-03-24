@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-03-24T19:12:27.595Z</updated>
+    <updated>2023-03-24T20:16:37.813Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Detecting novel systemic biomarkers in external eye photos]]></title>
+        <id>http://ai.googleblog.com/2023/03/detecting-novel-systemic-biomarkers-in.html</id>
+        <link href="http://ai.googleblog.com/2023/03/detecting-novel-systemic-biomarkers-in.html"/>
+        <updated>2023-03-24T19:13:00.001Z</updated>
+        <summary type="html"><![CDATA[Posted by Boris Babenko, Software Engineer, and Akib Uddin, Product Manager, Google Research    
+Last year we presented results demonstrating that a deep learning system (DLS) can be trained to analyze external eye photos and predict a person’s diabetic retinal disease status and elevated glycated hemoglobin (or HbA1c, a biomarker that indicates the three-month average level of blood glucose). It was previously unknown that external eye photos contained signals for these conditions. This exciting finding suggested the potential to reduce the need for specialized equipment since such photos can be captured using smartphones and other consumer devices. Encouraged by these findings, we set out to discover what other biomarkers can be found in this imaging modality. 
+
+In “A deep learning model…]]></summary>
+        <author>
+            <name>Google AI Blog</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[can you not]]></title>
         <id>https://languagelog.ldc.upenn.edu/nll/?p=58263</id>
@@ -2293,60 +2306,6 @@ Google’s focus on AI stems from the conviction that this transformational tech
         <summary type="html"><![CDATA[历史总是惊人地相似。当初笔者在写《生成扩散模型漫谈（十四）：构建ODE的一般步骤（上）》（当时还没有“上”这个后缀）时，以为自己已经搞清楚了构建ODE式扩散的一般步骤，结果读者 @gaohuaz...]]></summary>
         <author>
             <name>苏剑林</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learning nonparametric ordinary differential equations from noisy data]]></title>
-        <id>http://arxiv.org/abs/2206.15215</id>
-        <link href="http://arxiv.org/abs/2206.15215"/>
-        <updated>2023-02-23T07:15:16.966Z</updated>
-        <summary type="html"><![CDATA[Kamel Lahouel, Michael Wells, Victor Rielly, Ethan Lew, David Lovitz,
- , Bruno M. Jedynak]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learning from Multiple Sources for Data-to-Text and Text-to-Data]]></title>
-        <id>http://arxiv.org/abs/2302.11269</id>
-        <link href="http://arxiv.org/abs/2302.11269"/>
-        <updated>2023-02-23T07:15:16.956Z</updated>
-        <summary type="html"><![CDATA[Song Duong, Alberto Lumbreras, Mike Gartrell, Patrick Gallinari]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SGD learning on neural networks: leap complexity and saddle-to-saddle
-  dynamics]]></title>
-        <id>http://arxiv.org/abs/2302.11055</id>
-        <link href="http://arxiv.org/abs/2302.11055"/>
-        <updated>2023-02-23T07:15:16.951Z</updated>
-        <summary type="html"><![CDATA[Emmanuel Abbe, Enric Boix-Adsera, Theodor Misiakiewicz]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Optimizing Pessimism in Dynamic Treatment Regimes: A Bayesian Learning
-  Approach]]></title>
-        <id>http://arxiv.org/abs/2210.14420</id>
-        <link href="http://arxiv.org/abs/2210.14420"/>
-        <updated>2023-02-23T07:15:16.921Z</updated>
-        <summary type="html"><![CDATA[Yunzhe Zhou, Zhengling Qi, Chengchun Shi, Lexin Li]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Drop Edges and Adapt: a Fairness Enforcing Fine-tuning for Graph Neural
-  Networks]]></title>
-        <id>http://arxiv.org/abs/2302.11479</id>
-        <link href="http://arxiv.org/abs/2302.11479"/>
-        <updated>2023-02-23T07:15:16.855Z</updated>
-        <summary type="html"><![CDATA[Indro Spinelli, Riccardo Bianchini, Simone Scardapane]]></summary>
-        <author>
-            <name>arxivist feed</name>
         </author>
     </entry>
 </feed>
