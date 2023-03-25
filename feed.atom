@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-03-25T06:19:19.528Z</updated>
+    <updated>2023-03-25T07:13:32.717Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -2278,22 +2278,6 @@ With these su…]]></summary>
         <updated>2023-02-23T21:21:00.000Z</updated>
         <summary type="html"><![CDATA[Posted by Aviral Kumar, Student Researcher, and Sergey Levine, Research Scientist, Google Research    
 Reinforcement learning (RL) algorithms can learn skills to solve decision-making tasks like playing games, enabling robots to pick up objects, or even optimizing microchip designs. However, running RL algorithms in the real world requires expensive active data collection. Pre-training on diverse datasets has proven to enable data-efficient fine-tuning for individual downstream tasks in natural language processing (NLP) and vision problems. In the same way that BERT or GPT-3 models provide general-purpose initialization for NLP, large RL–pre-trained models could provide general-purpose initialization for decision-making. So, we ask the question: Can we enable similar pre-training to accele…]]></summary>
-        <author>
-            <name>Google AI Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google Research, 2022 & beyond: Health]]></title>
-        <id>http://ai.googleblog.com/2023/02/google-research-2022-beyond-health.html</id>
-        <link href="http://ai.googleblog.com/2023/02/google-research-2022-beyond-health.html"/>
-        <updated>2023-02-23T19:01:00.006Z</updated>
-        <summary type="html"><![CDATA[Posted by Greg Corrado, Distinguished Scientist, and Yossi Matias, VP Engineering and Research, Google Research    
-    
-
-(This is Part 8 in our series of posts covering different topical areas of research at Google. You can find other posts in the series here.)
-   
-
-Google’s focus on AI stems from the conviction that this transformational technology will benefit society through its capacity to assist, complement, and empower people in almost every field and sector.  In no area is the magnitude of this opportunity greater than in the spheres of healthcare and medicine.  Commensurate with our mission to demonstrate these societal benefits, Google Research’s programs in applied machine learning (ML) have helped place Alphabet among the top five most impactful corporate research institutions …]]></summary>
         <author>
             <name>Google AI Blog</name>
         </author>
