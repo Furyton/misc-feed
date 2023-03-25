@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-03-24T23:15:22.125Z</updated>
+    <updated>2023-03-25T01:14:34.709Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[La “main de Moscou“ ?]]></title>
+        <id>http://xianblog.wordpress.com/?p=52640</id>
+        <link href="https://xianblog.wordpress.com/2023/03/25/la-main-de-moscou/"/>
+        <updated>2023-03-24T23:23:33.000Z</updated>
+        <summary type="html"><![CDATA[Visit the post for more.]]></summary>
+        <author>
+            <name>xi'an</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Detecting novel systemic biomarkers in external eye photos]]></title>
         <id>http://ai.googleblog.com/2023/03/detecting-novel-systemic-biomarkers-in.html</id>
@@ -2286,26 +2296,6 @@ Reinforcement learning (RL) algorithms can learn skills to solve decision-making
 Google’s focus on AI stems from the conviction that this transformational technology will benefit society through its capacity to assist, complement, and empower people in almost every field and sector.  In no area is the magnitude of this opportunity greater than in the spheres of healthcare and medicine.  Commensurate with our mission to demonstrate these societal benefits, Google Research’s programs in applied machine learning (ML) have helped place Alphabet among the top five most impactful corporate research institutions …]]></summary>
         <author>
             <name>Google AI Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vignettes of quality data impoverishment in the world of PRC AI]]></title>
-        <id>https://languagelog.ldc.upenn.edu/nll/?p=58068</id>
-        <link href="https://languagelog.ldc.upenn.edu/nll/?p=58068&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=vignettes-of-quality-data-impoverishment-in-the-world-of-prc-ai"/>
-        <updated>2023-02-23T13:00:49.000Z</updated>
-        <summary type="html"><![CDATA[Some snippets: Limited data sets a hurdle as China plays catch-up to ChatGPT Lack of high-quality Chinese texts on Internet a barrier to training AI models. Ryan McMorrow, Nian Liu, Eleanor Olcott, and Madhumita Murgia, FT, Ars Technica (2/21/23) … Baidu struggled with its previous attempt at a chatbot, known as Plato, which analysts said […]]]></summary>
-        <author>
-            <name>Victor Mair</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[生成扩散模型漫谈（十七）：构建ODE的一般步骤（下）]]></title>
-        <id>https://kexue.fm/archives/9497</id>
-        <link href="https://kexue.fm/archives/9497"/>
-        <updated>2023-02-23T12:54:00.000Z</updated>
-        <summary type="html"><![CDATA[历史总是惊人地相似。当初笔者在写《生成扩散模型漫谈（十四）：构建ODE的一般步骤（上）》（当时还没有“上”这个后缀）时，以为自己已经搞清楚了构建ODE式扩散的一般步骤，结果读者 @gaohuaz...]]></summary>
-        <author>
-            <name>苏剑林</name>
         </author>
     </entry>
 </feed>

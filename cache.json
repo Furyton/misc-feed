@@ -1139,16 +1139,6 @@
           "wordCount": 1610,
           "title": "生成扩散模型漫谈（十八）：得分匹配 = 条件得分匹配",
           "imageUrl": null
-        },
-        {
-          "id": "https://kexue.fm/archives/9497",
-          "author": "苏剑林",
-          "description": "历史总是惊人地相似。当初笔者在写《生成扩散模型漫谈（十四）：构建ODE的一般步骤（上）》（当时还没有“上”这个后缀）时，以为自己已经搞清楚了构建ODE式扩散的一般步骤，结果读者 @gaohuaz...",
-          "link": "https://kexue.fm/archives/9497",
-          "publishedOn": "2023-02-23T12:54:00.000Z",
-          "wordCount": 1641,
-          "title": "生成扩散模型漫谈（十七）：构建ODE的一般步骤（下）",
-          "imageUrl": null
         }
       ]
     },
@@ -1557,6 +1547,16 @@
       "feedUrl": "https://xianblog.wordpress.com/feed/",
       "siteUrl": "https://xianblog.wordpress.com",
       "articles": [
+        {
+          "id": "http://xianblog.wordpress.com/?p=52640",
+          "author": "xi'an",
+          "description": "Visit the post for more.",
+          "link": "https://xianblog.wordpress.com/2023/03/25/la-main-de-moscou/",
+          "publishedOn": "2023-03-24T23:23:33.000Z",
+          "wordCount": 1724,
+          "title": "La “main de Moscou“ ?",
+          "imageUrl": "https://xianblog.files.wordpress.com/2023/03/1679572020607-e1679572553171.jpg"
+        },
         {
           "id": "http://xianblog.wordpress.com/?p=52611",
           "author": "xi'an",
@@ -2429,16 +2429,6 @@
           "publishedOn": "2023-02-23T23:35:41.000Z",
           "wordCount": 5011,
           "title": "The impenetrability of cursive for students from the PRC",
-          "imageUrl": null
-        },
-        {
-          "id": "https://languagelog.ldc.upenn.edu/nll/?p=58068",
-          "author": "Victor Mair",
-          "description": "Some snippets: Limited data sets a hurdle as China plays catch-up to ChatGPT Lack of high-quality Chinese texts on Internet a barrier to training AI models. Ryan McMorrow, Nian Liu, Eleanor Olcott, and Madhumita Murgia, FT, Ars Technica (2/21/23) … Baidu struggled with its previous attempt at a chatbot, known as Plato, which analysts said […]",
-          "link": "https://languagelog.ldc.upenn.edu/nll/?p=58068&utm_source=rss&utm_medium=rss&utm_campaign=vignettes-of-quality-data-impoverishment-in-the-world-of-prc-ai",
-          "publishedOn": "2023-02-23T13:00:49.000Z",
-          "wordCount": 3484,
-          "title": "Vignettes of quality data impoverishment in the world of PRC AI",
           "imageUrl": null
         }
       ]
