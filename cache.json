@@ -2066,16 +2066,6 @@
           "wordCount": 27808,
           "title": "A vision-language approach for foundational UI understanding",
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgW5CB9_RuAX16vtEzEBDTIGPJmNVYYYwG8h5Um3swCiMXMt2j_Y7QYQG2JXHplG_lkYDxtsBH-1BJfw2NoEcwa_y_n2BQQ8eUvwB83ILBi6PykILGwCIF2gp9SPpG7h_ScS0_VlaV8sXXbbfs98NHjNZPdu_UkhwifGUxmvcmK652dB4D4FF4yvJmMQg/w1200-h630-p-k-no-nu/Spotlight%20hero.jpeg"
-        },
-        {
-          "id": "http://ai.googleblog.com/2023/02/pre-training-generalist-agents-using.html",
-          "author": null,
-          "description": "Posted by Aviral Kumar, Student Researcher, and Sergey Levine, Research Scientist, Google Research    \nReinforcement learning (RL) algorithms can learn skills to solve decision-making tasks like playing games, enabling robots to pick up objects, or even optimizing microchip designs. However, running RL algorithms in the real world requires expensive active data collection. Pre-training on diverse datasets has proven to enable data-efficient fine-tuning for individual downstream tasks in natural language processing (NLP) and vision problems. In the same way that BERT or GPT-3 models provide general-purpose initialization for NLP, large RL–pre-trained models could provide general-purpose initialization for decision-making. So, we ask the question: Can we enable similar pre-training to accele…",
-          "link": "http://ai.googleblog.com/2023/02/pre-training-generalist-agents-using.html",
-          "publishedOn": "2023-02-23T21:21:00.000Z",
-          "wordCount": 27710,
-          "title": "Pre-training generalist agents using offline reinforcement learning",
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhZ4HZVqEbOa7ukSJq5evzIxtdtG8RhDBcAXiK2VYQqCdNTVE3B_BVt3YPVGZYS6QkoCN4QIqSwhQxIri5a8H4HJR5CIA8ZXIFmSViswLVhulen7cBVov5FZ6nrQIKXkZ3V7VMwom0Da8JFOr_rLRlmjfOIzTMhhIyH9wACVZ2sW4nZtXTNAbgwAsOclA/w1200-h630-p-k-no-nu/Scaled%20Hero.jpg"
         }
       ]
     },
