@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-03-26T08:18:32.418Z</updated>
+    <updated>2023-03-26T09:14:08.379Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -2192,19 +2192,6 @@ Sharing knowledge is essential to Google’s research philosophy — it accelera
         <summary type="html"><![CDATA[Visit the post for more.]]></summary>
         <author>
             <name>xi'an</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A vision-language approach for foundational UI understanding]]></title>
-        <id>http://ai.googleblog.com/2023/02/a-vision-language-approach-for.html</id>
-        <link href="http://ai.googleblog.com/2023/02/a-vision-language-approach-for.html"/>
-        <updated>2023-02-24T20:21:00.001Z</updated>
-        <summary type="html"><![CDATA[Posted by Yang Li, Research Scientist, and Gang Li, Software Engineer, Google Research   
-The computational understanding of user interfaces (UI) is a key step towards achieving intelligent UI behaviors. Previously, we investigated various UI modeling tasks, including widget captioning, screen summarization, and command grounding, that address diverse interaction scenarios such as automation and accessibility. We also demonstrated how machine learning can help user experience practitioners improve UI quality by diagnosing tappability confusion and providing insights for improving UI design. These works along with those developed by others in the field have showcased how deep neural networks can potentially transform end user experiences and the interaction design practice.  
-
-With these su…]]></summary>
-        <author>
-            <name>Google AI Blog</name>
         </author>
     </entry>
 </feed>
