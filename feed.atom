@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-03-25T23:14:52.371Z</updated>
+    <updated>2023-03-26T01:22:16.625Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[signed mixtures [X’ed]]]></title>
+        <id>http://xianblog.wordpress.com/?p=52462</id>
+        <link href="https://xianblog.wordpress.com/2023/03/26/signed-mixtures-xed/"/>
+        <updated>2023-03-25T23:23:42.000Z</updated>
+        <summary type="html"><![CDATA[Following a question on X validated, the hypoexponential distribution, I came across (for the second time) a realistic example of a mixture (of exponentials) whose density wrote as a signed mixture, i.e. involving both negative and positive weights (with sum still equal to one). Namely, representing the density of a sum of d Exponential variates. […]]]></summary>
+        <author>
+            <name>xi'an</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[E-mail etiquette]]></title>
         <id>https://languagelog.ldc.upenn.edu/nll/?p=58268</id>

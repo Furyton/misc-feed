@@ -1508,6 +1508,16 @@
       "siteUrl": "https://xianblog.wordpress.com",
       "articles": [
         {
+          "id": "http://xianblog.wordpress.com/?p=52462",
+          "author": "xi'an",
+          "description": "Following a question on X validated, the hypoexponential distribution, I came across (for the second time) a realistic example of a mixture (of exponentials) whose density wrote as a signed mixture, i.e. involving both negative and positive weights (with sum still equal to one). Namely, representing the density of a sum of d Exponential variates. […]",
+          "link": "https://xianblog.wordpress.com/2023/03/26/signed-mixtures-xed/",
+          "publishedOn": "2023-03-25T23:23:42.000Z",
+          "wordCount": 1770,
+          "title": "signed mixtures [X’ed]",
+          "imageUrl": "https://secure.gravatar.com/blavatar/c1152fd99c26a547613cfba76091fd4f?s=200&ts=1679793723"
+        },
+        {
           "id": "http://xianblog.wordpress.com/?p=52640",
           "author": "xi'an",
           "description": "Visit the post for more.",
