@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-03-28T19:12:42.083Z</updated>
+    <updated>2023-03-28T20:17:55.180Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -2333,59 +2333,6 @@ Sharing knowledge is essential to Google’s research philosophy — it accelera
         <summary type="html"><![CDATA[In this article I’ll derive a trick used in FHE called sample extraction. In brief, it allows one to partially convert a ciphertext in the Ring Learning With Errors (RLWE) scheme to the Learning With Errors (LWE) scheme. Here are some other articles I’ve written about other FHE building blocks, though they are not prerequisites […]]]></summary>
         <author>
             <name>j2kun</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Variational Linearized Laplace Approximation for Bayesian Deep Learning]]></title>
-        <id>http://arxiv.org/abs/2302.12565</id>
-        <link href="http://arxiv.org/abs/2302.12565"/>
-        <updated>2023-02-27T07:15:52.156Z</updated>
-        <summary type="html"><![CDATA[Luis A. Ortega, Sim\'on Rodr\'iguez Santana, Daniel Hern\'andez-Lobato]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Beyond Moments: Robustly Learning Affine Transformations with
-  Asymptotically Optimal Error]]></title>
-        <id>http://arxiv.org/abs/2302.12289</id>
-        <link href="http://arxiv.org/abs/2302.12289"/>
-        <updated>2023-02-27T07:15:52.139Z</updated>
-        <summary type="html"><![CDATA[He Jia, Pravesh K . Kothari, Santosh S. Vempala]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Reward Learning as Doubly Nonparametric Bandits: Optimal Design and
-  Scaling Laws]]></title>
-        <id>http://arxiv.org/abs/2302.12349</id>
-        <link href="http://arxiv.org/abs/2302.12349"/>
-        <updated>2023-02-27T07:15:52.115Z</updated>
-        <summary type="html"><![CDATA[Kush Bhatia, Wenshuo Guo, Jacob Steinhardt]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lower Bounds on the Depth of Integral ReLU Neural Networks via Lattice
-  Polytopes]]></title>
-        <id>http://arxiv.org/abs/2302.12553</id>
-        <link href="http://arxiv.org/abs/2302.12553"/>
-        <updated>2023-02-27T07:15:52.109Z</updated>
-        <summary type="html"><![CDATA[Christian Haase, Christoph Hertrich, Georg Loho]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Uncertainty Injection: A Deep Learning Method for Robust Optimization]]></title>
-        <id>http://arxiv.org/abs/2302.12304</id>
-        <link href="http://arxiv.org/abs/2302.12304"/>
-        <updated>2023-02-27T07:15:52.100Z</updated>
-        <summary type="html"><![CDATA[Wei Cui, Wei Yu]]></summary>
-        <author>
-            <name>arxivist feed</name>
         </author>
     </entry>
 </feed>
