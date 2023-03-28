@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-03-28T18:20:18.070Z</updated>
+    <updated>2023-03-28T19:12:42.083Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Leveraging transfer learning for large scale differentially private image classification]]></title>
+        <id>http://ai.googleblog.com/2023/03/leveraging-transfer-learning-for-large.html</id>
+        <link href="http://ai.googleblog.com/2023/03/leveraging-transfer-learning-for-large.html"/>
+        <updated>2023-03-28T18:26:00.000Z</updated>
+        <summary type="html"><![CDATA[Posted by Harsh Mehta, Software Engineer, and Walid Krichene, Research Scientist, Google Research  
+Large deep learning models are becoming the workhorse of a variety of critical machine learning (ML) tasks. However, it has been shown that without any protection it is plausible for bad actors to attack a variety of models, across modalities, to reveal information from individual training examples. As such, it’s essential to protect against this sort of information leakage. 
+
+Differential privacy (DP) provides formal protection against an attacker who aims to extract information about the training data. The most popular method for DP training in deep learning is differentially private stochastic gradient descent (DP-SGD). The core recipe implements a common theme in DP: “fuzzing” an algorit…]]></summary>
+        <author>
+            <name>Google AI Blog</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Google新作试图“复活”RNN：RNN能否再次辉煌？]]></title>
         <id>https://kexue.fm/archives/9554</id>
