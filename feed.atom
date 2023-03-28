@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-03-28T11:13:49.228Z</updated>
+    <updated>2023-03-28T12:33:06.790Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[PIE Day]]></title>
+        <id>https://languagelog.ldc.upenn.edu/nll/?p=58286</id>
+        <link href="https://languagelog.ldc.upenn.edu/nll/?p=58286&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=pie-day"/>
+        <updated>2023-03-28T11:19:35.000Z</updated>
+        <summary type="html"><![CDATA[Today SMBC: Mouseover title: "If anyone does this, please pour out a glass of eggnog antecedent beverage for me." The aftercomic:]]></summary>
+        <author>
+            <name>Mark Liberman</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Port-metriplectic neural networks: thermodynamics-informed machine
   learning of complex physical systems]]></title>
@@ -2353,16 +2363,6 @@ Sharing knowledge is essential to Google’s research philosophy — it accelera
         <summary type="html"><![CDATA[Wei Cui, Wei Yu]]></summary>
         <author>
             <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Diophantine riddle]]></title>
-        <id>http://xianblog.wordpress.com/?p=52260</id>
-        <link href="https://xianblog.wordpress.com/2023/02/27/diophantine-riddle/"/>
-        <updated>2023-02-26T23:23:08.000Z</updated>
-        <summary type="html"><![CDATA[The weekly riddle from The Riddler is to find solutions to the Diophantine equation c³-c=b²+4 (when b and c are positive integers). First, forget about ChatGPT since it states this is a Pell equation. With a wrong argument. Second, when running a basic R code, using as.double to handle larger integers, the only solution less […]]]></summary>
-        <author>
-            <name>xi'an</name>
         </author>
     </entry>
 </feed>

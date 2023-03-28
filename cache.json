@@ -1966,16 +1966,6 @@
           "wordCount": 2305,
           "title": "a journal of the plague, sword, and famine year [with avocados]",
           "imageUrl": "https://brewminate.com/wp-content/uploads/2020/04/041220-32-History-Daniel-Defoe-Literature-Plague-Disease.jpg"
-        },
-        {
-          "id": "http://xianblog.wordpress.com/?p=52260",
-          "author": "xi'an",
-          "description": "The weekly riddle from The Riddler is to find solutions to the Diophantine equation c³-c=b²+4 (when b and c are positive integers). First, forget about ChatGPT since it states this is a Pell equation. With a wrong argument. Second, when running a basic R code, using as.double to handle larger integers, the only solution less […]",
-          "link": "https://xianblog.wordpress.com/2023/02/27/diophantine-riddle/",
-          "publishedOn": "2023-02-26T23:23:08.000Z",
-          "wordCount": 2002,
-          "title": "Diophantine riddle",
-          "imageUrl": "https://xianblog.files.wordpress.com/2023/02/temp-1.png"
         }
       ]
     },
@@ -2201,6 +2191,16 @@
       "feedUrl": "https://languagelog.ldc.upenn.edu/nll/?feed=rss2",
       "siteUrl": "https://languagelog.ldc.upenn.edu/nll",
       "articles": [
+        {
+          "id": "https://languagelog.ldc.upenn.edu/nll/?p=58286",
+          "author": "Mark Liberman",
+          "description": "Today SMBC: Mouseover title: \"If anyone does this, please pour out a glass of eggnog antecedent beverage for me.\" The aftercomic:",
+          "link": "https://languagelog.ldc.upenn.edu/nll/?p=58286&utm_source=rss&utm_medium=rss&utm_campaign=pie-day",
+          "publishedOn": "2023-03-28T11:19:35.000Z",
+          "wordCount": 1866,
+          "title": "PIE Day",
+          "imageUrl": null
+        },
         {
           "id": "https://languagelog.ldc.upenn.edu/nll/?p=58271",
           "author": "Victor Mair",
