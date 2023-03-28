@@ -2,10 +2,63 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-03-28T06:20:26.130Z</updated>
+    <updated>2023-03-28T07:15:07.547Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Bao: Learning to Steer Query Optimizers]]></title>
+        <id>http://arxiv.org/abs/2004.03814</id>
+        <link href="http://arxiv.org/abs/2004.03814"/>
+        <updated>2023-03-28T07:15:05.408Z</updated>
+        <summary type="html"><![CDATA[Ryan Marcus, Parimarjan Negi, Hongzi Mao, Nesime Tatbul, Mohammad
+  Alizadeh, Tim Kraska]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Differential forms, Fukaya $A_\infty$ algebras, and Gromov-Witten axioms]]></title>
+        <id>http://arxiv.org/abs/1608.01304</id>
+        <link href="http://arxiv.org/abs/1608.01304"/>
+        <updated>2023-03-28T07:15:05.401Z</updated>
+        <summary type="html"><![CDATA[Jake P. Solomon, Sara B. Tukachinsky]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Orbit closures of unipotent flows for hyperbolic manifolds with Fuchsian
+  ends]]></title>
+        <id>http://arxiv.org/abs/1902.06621</id>
+        <link href="http://arxiv.org/abs/1902.06621"/>
+        <updated>2023-03-28T07:15:05.381Z</updated>
+        <summary type="html"><![CDATA[Minju Lee, Hee Oh]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Generalized domination structure in cubic graphs]]></title>
+        <id>http://arxiv.org/abs/1901.10781</id>
+        <link href="http://arxiv.org/abs/1901.10781"/>
+        <updated>2023-03-28T07:15:05.375Z</updated>
+        <summary type="html"><![CDATA[Misa Nakanishi]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learned Garbage Collection]]></title>
+        <id>http://arxiv.org/abs/2004.13301</id>
+        <link href="http://arxiv.org/abs/2004.13301"/>
+        <updated>2023-03-28T07:15:05.338Z</updated>
+        <summary type="html"><![CDATA[Lujing Cen, Ryan Marcus, Hongzi Mao, Justin Gottschlich, Mohammad
+  Alizadeh, Tim Kraska]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Egregious errors]]></title>
         <id>https://languagelog.ldc.upenn.edu/nll/?p=58271</id>
