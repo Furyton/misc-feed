@@ -2,10 +2,73 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-03-27T06:20:49.465Z</updated>
+    <updated>2023-03-28T01:19:47.072Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[brave new worlds]]></title>
+        <id>http://xianblog.wordpress.com/?p=52473</id>
+        <link href="https://xianblog.wordpress.com/2023/03/28/brave-new-worlds/"/>
+        <updated>2023-03-27T22:23:14.000Z</updated>
+        <summary type="html"><![CDATA[The 23 Feb issue of Nature has several “political” articles, if not the title, which refers to the James Webb space telescope bringing in a wealth of information on exoplanets (through five Nature papers!). Beyond the usual editorial (on the need to help rebuilding Ukraine’s research infrastructure as an introduction to the main article on […]]]></summary>
+        <author>
+            <name>xi'an</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PRESTO – A multilingual dataset for parsing realistic task-oriented dialogues]]></title>
+        <id>http://ai.googleblog.com/2023/03/presto-multilingual-dataset-for-parsing.html</id>
+        <link href="http://ai.googleblog.com/2023/03/presto-multilingual-dataset-for-parsing.html"/>
+        <updated>2023-03-27T17:02:00.004Z</updated>
+        <summary type="html"><![CDATA[Posted by Rahul Goel and Aditya Gupta, Software Engineers, Google Assistant  
+Virtual assistants are increasingly integrated into our daily routines. They can help with everything from setting alarms to giving map directions and can even assist people with disabilities to more easily manage their homes. As we use these assistants, we are also becoming more accustomed to using natural language to accomplish tasks that we once did by hand.  
+   
+One of the biggest challenges in building a robust virtual assistant is identifying what a user wants and what information is needed to perform the task at hand. In the natural language processing (NLP) literature, this is mainly framed as a task-oriented dialogue parsing task, where a given dialogue needs to be parsed by a system to understand the u…]]></summary>
+        <author>
+            <name>Google AI Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The historical vagaries of a Shanghai temple and town name:  Lu Ji and the "Wenfu" ("Rhapsody on literature")]]></title>
+        <id>https://languagelog.ldc.upenn.edu/nll/?p=58278</id>
+        <link href="https://languagelog.ldc.upenn.edu/nll/?p=58278&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=the-historical-vagaries-of-a-shanghai-temple-and-town-name-lu-ji-and-the-wenfu-rhapsody-on-literature"/>
+        <updated>2023-03-27T13:35:02.000Z</updated>
+        <summary type="html"><![CDATA[From Rostislav Berezkin, who teaches at Fudan University: The place where I stay is called Qibao town, now Minhang district of Shanghai. The name means "Seven Treasures". It comes from the name of the Buddhist temple called Qibaosi. Legend says that the temple was built by the Lu family to commemorate Lu Ji* and Lu […]]]></summary>
+        <author>
+            <name>Victor Mair</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“国产类 ChatGPT ”所存在的差距与挑战-专家圆桌]]></title>
+        <id>https://www.52nlp.cn/?p=13435</id>
+        <link href="https://www.52nlp.cn/%e5%9b%bd%e4%ba%a7%e7%b1%bb-chatgpt-%e6%89%80%e5%ad%98%e5%9c%a8%e7%9a%84%e5%b7%ae%e8%b7%9d%e4%b8%8e%e6%8c%91%e6%88%98-%e4%b8%93%e5%ae%b6%e5%9c%86%e6%a1%8c"/>
+        <updated>2023-03-27T11:02:27.000Z</updated>
+        <summary type="html"><![CDATA[内容来源：ChatGPT 及大模型专题研讨会  转载自CSDN稿件 在经历寒冬、雾霾，甚至大家纷纷看 […]]]></summary>
+        <author>
+            <name>达观数据</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Critical Times in Israel: Last Night’s Demonstrations]]></title>
+        <id>http://gilkalai.wordpress.com/?p=24065</id>
+        <link href="https://gilkalai.wordpress.com/2023/03/27/critical-times-in-israel-last-nights-demonstrations/"/>
+        <updated>2023-03-27T06:54:21.000Z</updated>
+        <summary type="html"><![CDATA[Last night, the demonstrations in Israel regarding the “judicial reforms” escalated after the prime minister Netanyahu fired the defense minister Galant who called to stop the legislation. My wife and I enjoyed a concert and after it we heard loud … Continue reading →]]></summary>
+        <author>
+            <name>Gil Kalai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Critical Times in Israel: Last Night’s Demonstrations]]></title>
+        <id>http://gilkalai.wordpress.com/?p=24065</id>
+        <link href="https://gilkalai.wordpress.com/2023/03/27/critical-times-in-israel-last-nights-demonstrations/"/>
+        <updated>2023-03-27T06:54:21.000Z</updated>
+        <summary type="html"><![CDATA[Last night, the demonstrations in Israel regarding the “judicial reforms” escalated after the prime minister Netanyahu fired the defense minister Galant who called to stop the legislation. My wife and I enjoyed a concert and after it we heard loud … Continue reading →]]></summary>
+        <author>
+            <name>Gil Kalai</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[partenza per Venezia²³]]></title>
         <id>http://xianblog.wordpress.com/?p=52635</id>
@@ -2182,16 +2245,6 @@ Sharing knowledge is essential to Google’s research philosophy — it accelera
         <summary type="html"><![CDATA[Important archeological news from Tainan: South Taiwan park renovation project paused after archaeological artifacts unearthed  Artifact pieces belonging to neolithic Niuchouzi Culture discovered, date back to 3000-4500 years ago. By Stephanie Chiang, Taiwan News (2/26/23) Finds include "orange-colored pottery made of fine sand-bearing rope patterns, polished hoe-axes, polished adze-chisels, and shell mounds." The nature of […]]]></summary>
         <author>
             <name>Victor Mair</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[surveying homelessness]]></title>
-        <id>http://xianblog.wordpress.com/?p=52284</id>
-        <link href="https://xianblog.wordpress.com/2023/02/26/surveying-homelessness/"/>
-        <updated>2023-02-25T23:23:12.000Z</updated>
-        <summary type="html"><![CDATA[A recent NYT article, entitled “582,462 and Counting“, is describing how the USA Federal Administation is running a yearly survey of homeless people. By sending agents and volunteers in the streets and shelters to get an idea of the magnitude of the problem. The figure of 582,462 was the one produced by HUD (the US […]]]></summary>
-        <author>
-            <name>xi'an</name>
         </author>
     </entry>
 </feed>
