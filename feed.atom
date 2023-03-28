@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-03-28T12:33:06.790Z</updated>
+    <updated>2023-03-28T13:23:13.326Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Google新作试图“复活”RNN：RNN能否再次辉煌？]]></title>
+        <id>https://kexue.fm/archives/9554</id>
+        <link href="https://kexue.fm/archives/9554"/>
+        <updated>2023-03-28T12:44:00.000Z</updated>
+        <summary type="html"><![CDATA[当前，像ChatGPT之类的LLM可谓是“风靡全球”。有读者留意到，几乎所有LLM都还是用最初的Multi-Head Scaled-Dot Attention，近年来大量的Efficient工作...]]></summary>
+        <author>
+            <name>苏剑林</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[PIE Day]]></title>
         <id>https://languagelog.ldc.upenn.edu/nll/?p=58286</id>

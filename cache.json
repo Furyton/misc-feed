@@ -1171,6 +1171,16 @@
       "siteUrl": "https://kexue.fm/",
       "articles": [
         {
+          "id": "https://kexue.fm/archives/9554",
+          "author": "苏剑林",
+          "description": "当前，像ChatGPT之类的LLM可谓是“风靡全球”。有读者留意到，几乎所有LLM都还是用最初的Multi-Head Scaled-Dot Attention，近年来大量的Efficient工作...",
+          "link": "https://kexue.fm/archives/9554",
+          "publishedOn": "2023-03-28T12:44:00.000Z",
+          "wordCount": 1660,
+          "title": "Google新作试图“复活”RNN：RNN能否再次辉煌？",
+          "imageUrl": null
+        },
+        {
           "id": "https://kexue.fm/archives/9547",
           "author": "苏剑林",
           "description": "上周笔者写了《为什么现在的LLM都是Decoder-only的架构？》，总结了一下我在这个问题上的一些实验结论和猜测。果然是热点问题流量大，paperweekly的转发没多久阅读量就破万了，知乎...",
