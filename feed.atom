@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-03-29T03:16:51.022Z</updated>
+    <updated>2023-03-29T04:19:47.438Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -2343,16 +2343,6 @@ Sharing knowledge is essential to Google’s research philosophy — it accelera
         <summary type="html"><![CDATA[Let us begin this post with a brief introduction to the 16th-century Hokkien (Minnan) drama, Tale of the Lychee Mirror: The Tale of the Lychee Mirror (traditional Chinese: 荔鏡記; simplified Chinese: 荔镜记; pinyin: Lì jìng jì; Pe̍h-ōe-jī: Nāi-kèng-kì, Lē-kèng-kì) is a play written by an unknown author in the Ming dynasty. Tân Saⁿ and Gō͘-niû […]]]></summary>
         <author>
             <name>Victor Mair</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sample Extraction from RLWE to LWE]]></title>
-        <id>https://jeremykun.com/?p=118643</id>
-        <link href="https://jeremykun.com/2023/02/27/sample-extraction-from-rlwe-to-lwe/"/>
-        <updated>2023-02-27T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In this article I’ll derive a trick used in FHE called sample extraction. In brief, it allows one to partially convert a ciphertext in the Ring Learning With Errors (RLWE) scheme to the Learning With Errors (LWE) scheme. Here are some other articles I’ve written about other FHE building blocks, though they are not prerequisites […]]]></summary>
-        <author>
-            <name>j2kun</name>
         </author>
     </entry>
 </feed>

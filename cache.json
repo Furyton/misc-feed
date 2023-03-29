@@ -1478,18 +1478,7 @@
       "title": "Math ∩ Programming",
       "feedUrl": "https://jeremykun.com/feed/",
       "siteUrl": "https://jeremykun.com",
-      "articles": [
-        {
-          "id": "https://jeremykun.com/?p=118643",
-          "author": "j2kun",
-          "description": "In this article I’ll derive a trick used in FHE called sample extraction. In brief, it allows one to partially convert a ciphertext in the Ring Learning With Errors (RLWE) scheme to the Learning With Errors (LWE) scheme. Here are some other articles I’ve written about other FHE building blocks, though they are not prerequisites […]",
-          "link": "https://jeremykun.com/2023/02/27/sample-extraction-from-rlwe-to-lwe/",
-          "publishedOn": "2023-02-27T16:00:00.000Z",
-          "wordCount": 3531,
-          "title": "Sample Extraction from RLWE to LWE",
-          "imageUrl": "https://s0.wp.com/i/blank.jpg"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Jonty Sinai",
