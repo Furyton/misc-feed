@@ -2,10 +2,66 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-03-29T06:20:31.330Z</updated>
+    <updated>2023-03-29T07:15:02.821Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Mathematical Challenges in Deep Learning]]></title>
+        <id>http://arxiv.org/abs/2303.15464</id>
+        <link href="http://arxiv.org/abs/2303.15464"/>
+        <updated>2023-03-29T07:14:56.860Z</updated>
+        <summary type="html"><![CDATA[Vahid Partovi Nia, Guojun Zhang, Ivan Kobyzev, Michael R. Metel,
+  Xinlin Li, Ke Sun, Sobhan Hemati, Masoud Asgharian, Linglong Kong, Wulong
+  Liu, Boxing Chen]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Generalization and Stability of Interpolating Neural Networks with
+  Minimal Width]]></title>
+        <id>http://arxiv.org/abs/2302.09235</id>
+        <link href="http://arxiv.org/abs/2302.09235"/>
+        <updated>2023-03-29T07:14:56.854Z</updated>
+        <summary type="html"><![CDATA[Hossein Taheri, Christos Thrampoulidis]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learning Rate Schedules in the Presence of Distribution Shift]]></title>
+        <id>http://arxiv.org/abs/2303.15634</id>
+        <link href="http://arxiv.org/abs/2303.15634"/>
+        <updated>2023-03-29T07:14:56.838Z</updated>
+        <summary type="html"><![CDATA[Matthew Fahrbach, Adel Javanmard, Vahab Mirrokni, Pratik Worah]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Statistical Model for Predicting Generalization in Few-Shot
+  Classification]]></title>
+        <id>http://arxiv.org/abs/2212.06461</id>
+        <link href="http://arxiv.org/abs/2212.06461"/>
+        <updated>2023-03-29T07:14:56.832Z</updated>
+        <summary type="html"><![CDATA[Yassir Bendou, Vincent Gripon, Bastien Pasdeloup, Lukas Mauch, Stefan
+  Uhlich, Fabien Cardinaux, Ghouthi Boukli Hacene, Javier Alonso Garcia]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Complementary Domain Adaptation and Generalization for Unsupervised
+  Continual Domain Shift Learning]]></title>
+        <id>http://arxiv.org/abs/2303.15833</id>
+        <link href="http://arxiv.org/abs/2303.15833"/>
+        <updated>2023-03-29T07:14:56.826Z</updated>
+        <summary type="html"><![CDATA[Wonguk Cho, Jinha Park, Taesup Kim]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bayesian inference: challenges, perspectives, and prospects]]></title>
         <id>http://xianblog.wordpress.com/?p=52686</id>
