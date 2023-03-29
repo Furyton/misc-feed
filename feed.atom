@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-03-29T11:13:30.063Z</updated>
+    <updated>2023-03-29T12:34:55.700Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Review of Yoshida Yutaka's Lectures on Sogdian Grammar]]></title>
+        <id>https://languagelog.ldc.upenn.edu/nll/?p=58281</id>
+        <link href="https://languagelog.ldc.upenn.edu/nll/?p=58281&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=review-of-yoshida-yutakas-lectures-on-sogdian-grammar"/>
+        <updated>2023-03-29T11:38:00.000Z</updated>
+        <summary type="html"><![CDATA[Despite its being a Middle Iranian language that has been extinct for a millennium, we've often mentioned Sogdian on Language Log.  That's because of its intrinsic linguistic interest, but also because its speakers, as I have often said, were Eurasian Kulturvermittlers par excellence and outstanding socioeconomic entrepreneurs. Now we have a comprehensive, reliable grammar of […]]]></summary>
+        <author>
+            <name>Victor Mair</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Mathematical Challenges in Deep Learning]]></title>
         <id>http://arxiv.org/abs/2303.15464</id>
@@ -2379,16 +2389,6 @@ Sharing knowledge is essential to Google’s research philosophy — it accelera
         <summary type="html"><![CDATA[Shutong Wu, Sizhe Chen, Cihang Xie, Xiaolin Huang]]></summary>
         <author>
             <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[a journal of the plague, sword, and famine year [with avocados]]]></title>
-        <id>http://xianblog.wordpress.com/?p=52168</id>
-        <link href="https://xianblog.wordpress.com/2023/02/28/a-journal-of-the-plague-sword-and-famine-year-with-avocados/"/>
-        <updated>2023-02-27T23:23:19.000Z</updated>
-        <summary type="html"><![CDATA[Read two books by Alix E. Harrow, A Spindle Splintered and A Mirror Mended, which are modern takes on Sleeping Beauty and Snow White. Rather hilarious for their tone and dry humour, if rather YAs… And Undercover, a novella by Tasmyn Muir. Rather well-build steampunk around a moving city and… zombies. Plus a new volume […]]]></summary>
-        <author>
-            <name>xi'an</name>
         </author>
     </entry>
 </feed>
