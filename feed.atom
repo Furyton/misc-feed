@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-03-29T01:24:17.300Z</updated>
+    <updated>2023-03-29T02:42:23.055Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -175,6 +175,16 @@ Differential privacy (DP) provides formal protection against an attacker who aim
   Alizadeh, Tim Kraska]]></summary>
         <author>
             <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Accelerated PyTorch 2 Transformers]]></title>
+        <id>https://pytorch.org/blog/accelerated-pytorch-2/</id>
+        <link href="https://pytorch.org/blog/accelerated-pytorch-2/"/>
+        <updated>2023-03-28T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The PyTorch 2.0 release includes a new high-performance implementation of the PyTorch Transformer API with the goal of making training and deployment of state-of-the-art Transformer models affordable. Following the successful release of “fastpath” inference execution (“Better Transformer”), this release introduces high-performance support for training and inference using a custom kernel architecture for scaled dot product attention (SPDA).]]></summary>
+        <author>
+            <name>PyTorch Website</name>
         </author>
     </entry>
     <entry>
