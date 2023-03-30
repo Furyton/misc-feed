@@ -2017,6 +2017,16 @@
       "siteUrl": "http://ai.googleblog.com/",
       "articles": [
         {
+          "id": "http://ai.googleblog.com/2023/03/data-centric-ml-benchmarking-announcing.html",
+          "author": null,
+          "description": "Posted by Peter Mattson, Senior Staff Engineer, ML Performance, and Praveen Paritosh, Senior Research Scientist, Google Research, Brain Team  \nMachine learning (ML) offers tremendous potential, from diagnosing cancer to engineering safe self-driving cars to amplifying human productivity. To realize this potential, however, organizations need ML solutions to be reliable with ML solution development that is predictable and tractable. The key to both is a deeper understanding of ML data — how to engineer training datasets that produce high quality models and test datasets that deliver accurate indicators of how close we are to solving the target problem.  \n\nThe process of creating high quality datasets is complicated and error-prone, from the initial selection and cleaning of raw data, to lab…",
+          "link": "http://ai.googleblog.com/2023/03/data-centric-ml-benchmarking-announcing.html",
+          "publishedOn": "2023-03-30T17:05:00.000Z",
+          "wordCount": 27610,
+          "title": "Data-centric ML benchmarking: Announcing DataPerf’s 2023 challenges",
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiNqs7xEpA3TF3ubB0t71VK71jeVnDfXMO5TiaOdzxqcJNTtk3QQFevXaXAdTAaBpIIMJpZXd7COi65F0uw9qp9F2i5NM5z1qdmDQLKMxzPcKdRmshJsv4GypbvPaMeuo_3dMzTpDoIDAAn0i3YBrJxHVrqH6Nx9B_BEqO89-4lPyFOaMHh8h5OocJZiA/w1200-h630-p-k-no-nu/DataPerf%20hero.jpg"
+        },
+        {
           "id": "http://ai.googleblog.com/2023/03/leveraging-transfer-learning-for-large.html",
           "author": null,
           "description": "Posted by Harsh Mehta, Software Engineer, and Walid Krichene, Research Scientist, Google Research  \nLarge deep learning models are becoming the workhorse of a variety of critical machine learning (ML) tasks. However, it has been shown that without any protection it is plausible for bad actors to attack a variety of models, across modalities, to reveal information from individual training examples. As such, it’s essential to protect against this sort of information leakage. \n\nDifferential privacy (DP) provides formal protection against an attacker who aims to extract information about the training data. The most popular method for DP training in deep learning is differentially private stochastic gradient descent (DP-SGD). The core recipe implements a common theme in DP: “fuzzing” an algorit…",
