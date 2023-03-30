@@ -2,10 +2,67 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-03-30T06:20:53.082Z</updated>
+    <updated>2023-03-30T07:14:41.131Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Optimal approximation of $C^k$-functions using shallow complex-valued
+  neural networks]]></title>
+        <id>http://arxiv.org/abs/2303.16813</id>
+        <link href="http://arxiv.org/abs/2303.16813"/>
+        <updated>2023-03-30T07:14:35.526Z</updated>
+        <summary type="html"><![CDATA[Paul Geuchen, Felix Voigtlaender]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Byzantine-Resilient Aggregation Scheme for Federated Learning via
+  Matrix Autoregression on Client Updates]]></title>
+        <id>http://arxiv.org/abs/2303.16668</id>
+        <link href="http://arxiv.org/abs/2303.16668"/>
+        <updated>2023-03-30T07:14:35.476Z</updated>
+        <summary type="html"><![CDATA[Gabriele Tolomei, Edoardo Gabrielli, Dimitri Belli, Vittorio
+  Miori]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Interpolating Discriminant Functions in High-Dimensional Gaussian Latent
+  Mixtures]]></title>
+        <id>http://arxiv.org/abs/2210.14347</id>
+        <link href="http://arxiv.org/abs/2210.14347"/>
+        <updated>2023-03-30T07:14:35.468Z</updated>
+        <summary type="html"><![CDATA[Xin Bing, Marten Wegkamp]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PAC-Bayesian bounds for learning LTI-ss systems with input from
+  empirical loss]]></title>
+        <id>http://arxiv.org/abs/2303.16816</id>
+        <link href="http://arxiv.org/abs/2303.16816"/>
+        <updated>2023-03-30T07:14:35.065Z</updated>
+        <summary type="html"><![CDATA[Deividas Eringis, John Leth, Zheng-Hua Tan, Rafael Wisniewski, Mihaly
+  Petreczky]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nonlinear Independent Component Analysis for Principled Disentanglement
+  in Unsupervised Deep Learning]]></title>
+        <id>http://arxiv.org/abs/2303.16535</id>
+        <link href="http://arxiv.org/abs/2303.16535"/>
+        <updated>2023-03-30T07:14:35.059Z</updated>
+        <summary type="html"><![CDATA[Aapo Hyvarinen, Ilyes Khemakhem, Hiroshi Morioka]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[même pas peur [not afrAId]]]></title>
         <id>http://xianblog.wordpress.com/?p=52702</id>

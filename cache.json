@@ -6,6 +6,56 @@
       "siteUrl": "https://www.arxivist.com",
       "articles": [
         {
+          "id": "http://arxiv.org/abs/2303.16813",
+          "author": null,
+          "description": "Paul Geuchen, Felix Voigtlaender",
+          "link": "http://arxiv.org/abs/2303.16813",
+          "publishedOn": "2023-03-30T07:14:35.526Z",
+          "wordCount": 695,
+          "title": "Optimal approximation of $C^k$-functions using shallow complex-valued\n  neural networks",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2303.16668",
+          "author": null,
+          "description": "Gabriele Tolomei, Edoardo Gabrielli, Dimitri Belli, Vittorio\n  Miori",
+          "link": "http://arxiv.org/abs/2303.16668",
+          "publishedOn": "2023-03-30T07:14:35.476Z",
+          "wordCount": 675,
+          "title": "A Byzantine-Resilient Aggregation Scheme for Federated Learning via\n  Matrix Autoregression on Client Updates",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2210.14347",
+          "author": null,
+          "description": "Xin Bing, Marten Wegkamp",
+          "link": "http://arxiv.org/abs/2210.14347",
+          "publishedOn": "2023-03-30T07:14:35.468Z",
+          "wordCount": 662,
+          "title": "Interpolating Discriminant Functions in High-Dimensional Gaussian Latent\n  Mixtures",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2303.16816",
+          "author": null,
+          "description": "Deividas Eringis, John Leth, Zheng-Hua Tan, Rafael Wisniewski, Mihaly\n  Petreczky",
+          "link": "http://arxiv.org/abs/2303.16816",
+          "publishedOn": "2023-03-30T07:14:35.065Z",
+          "wordCount": 665,
+          "title": "PAC-Bayesian bounds for learning LTI-ss systems with input from\n  empirical loss",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2303.16535",
+          "author": null,
+          "description": "Aapo Hyvarinen, Ilyes Khemakhem, Hiroshi Morioka",
+          "link": "http://arxiv.org/abs/2303.16535",
+          "publishedOn": "2023-03-30T07:14:35.059Z",
+          "wordCount": 686,
+          "title": "Nonlinear Independent Component Analysis for Principled Disentanglement\n  in Unsupervised Deep Learning",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
           "id": "http://arxiv.org/abs/2303.15464",
           "author": null,
           "description": "Vahid Partovi Nia, Guojun Zhang, Ivan Kobyzev, Michael R. Metel,\n  Xinlin Li, Ke Sun, Sobhan Hemati, Masoud Asgharian, Linglong Kong, Wulong\n  Liu, Boxing Chen",
