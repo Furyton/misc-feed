@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-03-30T09:17:07.089Z</updated>
+    <updated>2023-03-30T10:17:23.719Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -2343,19 +2343,6 @@ Industrial applications of machine learning are commonly composed of various ite
         <summary type="html"><![CDATA[Visit the post for more.]]></summary>
         <author>
             <name>xi'an</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Datasets at your fingertips in Google Search]]></title>
-        <id>http://ai.googleblog.com/2023/02/datasets-at-your-fingertips-in-google.html</id>
-        <link href="http://ai.googleblog.com/2023/02/datasets-at-your-fingertips-in-google.html"/>
-        <updated>2023-02-28T22:13:00.001Z</updated>
-        <summary type="html"><![CDATA[Posted by Natasha Noy, Research Scientist, and Omar Benjelloun, Software Engineer, Google Research  
-Access to datasets is critical to many of today's endeavors across verticals and industries, whether scientific research, business analysis, or public policy. In the scientific community and throughout various levels of the public sector, reproducibility and transparency are essential for progress, so sharing data is vital. For one example, in the United States a recent new policy requires free and equitable access to outcomes of all federally funded research, including data and statistical information along with publications. 
-
-To facilitate discovery of content with this level of statistical detail and better distill this information from across the web, Google now makes it easier to sear…]]></summary>
-        <author>
-            <name>Google AI Blog</name>
         </author>
     </entry>
 </feed>
