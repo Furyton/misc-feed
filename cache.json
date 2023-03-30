@@ -1179,16 +1179,6 @@
           "wordCount": 1723,
           "title": "Tiger：一个“抠”到极致的优化器",
           "imageUrl": null
-        },
-        {
-          "id": "https://kexue.fm/archives/9509",
-          "author": "苏剑林",
-          "description": "在前面的介绍中，我们多次提及“得分匹配”和“条件得分匹配”，它们是扩散模型、能量模型等经常出现的概念，特别是很多文章直接说扩散模型的训练目标是“得分匹配”，但事实上当前主流的扩散模型如DDPM的...",
-          "link": "https://kexue.fm/archives/9509",
-          "publishedOn": "2023-02-28T13:23:00.000Z",
-          "wordCount": 1610,
-          "title": "生成扩散模型漫谈（十八）：得分匹配 = 条件得分匹配",
-          "imageUrl": null
         }
       ]
     },
@@ -1426,6 +1416,16 @@
       "feedUrl": "https://pytorch.org/feed",
       "siteUrl": "https://pytorch.org/",
       "articles": [
+        {
+          "id": "https://pytorch.org/blog/experience-power/",
+          "author": null,
+          "description": "PyTorch 2.0 represents a significant step forward for the PyTorch machine learning framework. The stable release of PyTorch 2.0 brings new features that unlock even higher performance, while remaining backward compatible with prior releases and retaining the Pythonic focus which has helped to make PyTorch so enthusiastically adopted by the AI/ML community. AMD has long been a strong proponent of PyTorch, and we are delighted that PyTorch 2.0 stable release includes support for AMD Instinct™ and Radeon™ GPUs that are supported by the ROCm™ software platform.",
+          "link": "https://pytorch.org/blog/experience-power/",
+          "publishedOn": "2023-03-29T07:00:00.000Z",
+          "wordCount": 1627,
+          "title": "Experience the power of PyTorch 2.0 on AMD Solutions",
+          "imageUrl": "https://pytorch.org/assets/images/pytorch-logo.png"
+        },
         {
           "id": "https://pytorch.org/blog/accelerated-pytorch-2/",
           "author": null,
