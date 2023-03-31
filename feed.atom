@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-03-31T19:11:54.407Z</updated>
+    <updated>2023-03-31T20:15:22.114Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -2348,49 +2348,6 @@ Federated learning is a distributed way of training machine learning (ML) models
 Since that launch, we have worked to improve the pr…]]></summary>
         <author>
             <name>Google AI Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learning time-scales in two-layers neural networks]]></title>
-        <id>http://arxiv.org/abs/2303.00055</id>
-        <link href="http://arxiv.org/abs/2303.00055"/>
-        <updated>2023-03-02T07:15:44.567Z</updated>
-        <summary type="html"><![CDATA[Rapha\"el Berthier, Andrea Montanari, Kangjie Zhou]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Greedy Actor-Critic: A New Conditional Cross-Entropy Method for Policy
-  Improvement]]></title>
-        <id>http://arxiv.org/abs/1810.09103</id>
-        <link href="http://arxiv.org/abs/1810.09103"/>
-        <updated>2023-03-02T07:15:44.561Z</updated>
-        <summary type="html"><![CDATA[Samuel Neumann, Sungsu Lim, Ajin Joseph, Yangchen Pan, Adam White,
-  Martha White]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learning curves for deep structured Gaussian feature models]]></title>
-        <id>http://arxiv.org/abs/2303.00564</id>
-        <link href="http://arxiv.org/abs/2303.00564"/>
-        <updated>2023-03-02T07:15:44.542Z</updated>
-        <summary type="html"><![CDATA[Jacob A. Zavatone-Veth, Cengiz Pehlevan]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Random Features Model with General Convex Regularization: A Fine Grained
-  Analysis with Precise Asymptotic Learning Curves]]></title>
-        <id>http://arxiv.org/abs/2204.02678</id>
-        <link href="http://arxiv.org/abs/2204.02678"/>
-        <updated>2023-03-02T07:15:44.537Z</updated>
-        <summary type="html"><![CDATA[David Bosch, Ashkan Panahi, Ayca \"Ozcelikkale, Devdatt Dubhash]]></summary>
-        <author>
-            <name>arxivist feed</name>
         </author>
     </entry>
 </feed>
