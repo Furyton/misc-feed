@@ -1194,6 +1194,16 @@
       "siteUrl": "https://mlfoundations.org/",
       "articles": [
         {
+          "id": "https://mlfoundations.org/talk/bubeck/",
+          "author": null,
+          "description": "The new wave of AI systems, ChatGPT and its more powerful successors, exhibit extraordinary capabilities across a broad swath of domains. In light of this, we will discuss whether artificial INTELLIGENCE has arrived.",
+          "link": "https://mlfoundations.org/talk/bubeck/",
+          "publishedOn": "2023-03-31T14:00:00.000Z",
+          "wordCount": 89,
+          "title": "Sebastien Bubeck - First Contact",
+          "imageUrl": "https://mlfoundations.org/img/icon-192.png"
+        },
+        {
           "id": "https://mlfoundations.org/talk/schmidt/",
           "author": null,
           "description": "Researchers have proposed many methods to make neural networks more reliable under distribution shift, yet there is still large room for improvement. Are better training algorithms or training data the more promising way forward? In this talk, we study this question in the context of OpenAI’s CLIP model for learning from image-text data. First, we survey the current robustness landscape based on a large-scale experimental study involving more than 200 different models and test conditions. The CLIP models stand out with unprecedented robustness on multiple challenging distribution shifts. To further improve CLIP, we then introduce new methods for reliably fine-tuning models by interpolating the weights of multiple models. Next, we investigate the cause of CLIP’s robustness via controlled experiments to disentangle the influence of language supervision and training distribution. While CLIP leveraged large scale language supervision for the first time, its robustness actually comes from the pre-training dataset. We conclude with a brief overview of ongoing work to improve pre-training datasets: LAION-5B, the largest public image-text dataset, and initial experiments to increase the robustness induced by pre-training data. Bio: Ludwig Schmidt is an assistant professor in the Paul G. Allen School of Computer Science & Engineering at the University of Washington. Ludwig’s research interests revolve around the empirical foundations of machine learning, often with a focus on datasets, reliable generalization, and large models. Ludwig completed his PhD at MIT under the supervision of Piotr Indyk and was a postdoc at UC Berkeley hosted by Benjamin Recht and Moritz Hardt. Recently, Ludwig’s research group contributed to multimodal language & vision models by creating OpenCLIP and the LAION-5B dataset. Ludwig’s research received a new horizons award at EAAMO, best paper awards at ICML & NeurIPS, a best paper finalist at CVPR, and the Sprowls dissertation award from MIT.",
