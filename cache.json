@@ -1986,6 +1986,16 @@
       "siteUrl": "http://ai.googleblog.com/",
       "articles": [
         {
+          "id": "http://ai.googleblog.com/2023/03/scaling-vision-transformers-to-22.html",
+          "author": null,
+          "description": "Posted by Piotr Padlewski and Josip Djolonga, Software Engineers, Google Research\n\n\n\n\nLarge Language Models (LLMs) like PaLM or GPT-3 showed that scaling transformers to hundreds of billions of parameters improves performance and unlocks emergent abilities. The biggest dense models for image understanding, however, have reached only 4 billion parameters, despite research indicating that promising multimodal models like PaLI continue to benefit from scaling vision models alongside their language counterparts. Motivated by this, and the results from scaling LLMs, we decided to undertake the next step in the journey of scaling the Vision Transformer.\n \n\nIn “Scaling Vision Transformers to 22 Billion Parameters”, we introduce the biggest dense vision model, ViT-22B. It is 5.5x larger than the p…",
+          "link": "http://ai.googleblog.com/2023/03/scaling-vision-transformers-to-22.html",
+          "publishedOn": "2023-03-31T20:48:00.001Z",
+          "wordCount": 28066,
+          "title": "Scaling vision transformers to 22 billion parameters",
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjjODzCKL8V80wg0vxZKVaKfgRxEfPVhebkhJHGi0MrzZbsMQjuTQ5VCg_GOVDBTbbo52qfIzBjZ_OtFM0vVMBs-0wWw5anp4kB19_cRO4tE5MnaLH-1toiCa6pAQVFfwq_i_w1UX4ElkHqoic-bu7h1oBH-YK10-7fuw6V1GKe3GrePPJD54QNXhGHQQ/w1200-h630-p-k-no-nu/vit22b.png"
+        },
+        {
           "id": "http://ai.googleblog.com/2023/03/data-centric-ml-benchmarking-announcing.html",
           "author": null,
           "description": "Posted by Peter Mattson, Senior Staff Engineer, ML Performance, and Praveen Paritosh, Senior Research Scientist, Google Research, Brain Team  \nMachine learning (ML) offers tremendous potential, from diagnosing cancer to engineering safe self-driving cars to amplifying human productivity. To realize this potential, however, organizations need ML solutions to be reliable with ML solution development that is predictable and tractable. The key to both is a deeper understanding of ML data — how to engineer training datasets that produce high quality models and test datasets that deliver accurate indicators of how close we are to solving the target problem.  \n\nThe process of creating high quality datasets is complicated and error-prone, from the initial selection and cleaning of raw data, to lab…",

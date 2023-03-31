@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-03-31T20:15:22.114Z</updated>
+    <updated>2023-03-31T21:11:02.926Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Scaling vision transformers to 22 billion parameters]]></title>
+        <id>http://ai.googleblog.com/2023/03/scaling-vision-transformers-to-22.html</id>
+        <link href="http://ai.googleblog.com/2023/03/scaling-vision-transformers-to-22.html"/>
+        <updated>2023-03-31T20:48:00.001Z</updated>
+        <summary type="html"><![CDATA[Posted by Piotr Padlewski and Josip Djolonga, Software Engineers, Google Research
+
+
+
+
+Large Language Models (LLMs) like PaLM or GPT-3 showed that scaling transformers to hundreds of billions of parameters improves performance and unlocks emergent abilities. The biggest dense models for image understanding, however, have reached only 4 billion parameters, despite research indicating that promising multimodal models like PaLI continue to benefit from scaling vision models alongside their language counterparts. Motivated by this, and the results from scaling LLMs, we decided to undertake the next step in the journey of scaling the Vision Transformer.
+ 
+
+In “Scaling Vision Transformers to 22 Billion Parameters”, we introduce the biggest dense vision model, ViT-22B. It is 5.5x larger than the p…]]></summary>
+        <author>
+            <name>Google AI Blog</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA["An exercise in inference sabotage"]]></title>
         <id>https://languagelog.ldc.upenn.edu/nll/?p=58310</id>
