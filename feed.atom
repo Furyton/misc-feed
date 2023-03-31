@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-03-31T11:13:07.573Z</updated>
+    <updated>2023-03-31T12:30:36.255Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -14,6 +14,16 @@
         <summary type="html"><![CDATA[The new wave of AI systems, ChatGPT and its more powerful successors, exhibit extraordinary capabilities across a broad swath of domains. In light of this, we will discuss whether artificial INTELLIGENCE has arrived.]]></summary>
         <author>
             <name>Harvard ML Foundations</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kong Yiji ("Confucius ABC"), another self-deprecating meme for young Chinese]]></title>
+        <id>https://languagelog.ldc.upenn.edu/nll/?p=58301</id>
+        <link href="https://languagelog.ldc.upenn.edu/nll/?p=58301&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=kong-yiji-confucius-abc-another-self-deprecating-meme-for-young-chinese"/>
+        <updated>2023-03-31T12:11:39.000Z</updated>
+        <summary type="html"><![CDATA["Kong Yiji" is one of the most famous short stories by Lu Xun (1881-1936), the most celebrated Chinese author of the 20th century. "Kong Yiji" (Chinese: 孔乙己; pinyin: Kǒng Yǐjǐ) is a short-story by Lu Xun, the founder of modern Chinese literature. The story was originally published in the journal New Youth (Chinese: 新青年) in […]]]></summary>
+        <author>
+            <name>Victor Mair</name>
         </author>
     </entry>
     <entry>
@@ -2363,16 +2373,6 @@ Since that launch, we have worked to improve the pr…]]></summary>
         <summary type="html"><![CDATA[Meant to send this more than a month ago. Interesting new journal in Iranian Studies Berkeley Working Papers in Middle Iranian Philology is a new open access e-journal hosted by UC Berkeley’s Department of Middle Eastern Languages and Cultures and edited by Adam Benkato and Arash Zeini. It publishes short and longer articles or research […]]]></summary>
         <author>
             <name>Victor Mair</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[keep thunderbird alive!]]></title>
-        <id>http://xianblog.wordpress.com/?p=52316</id>
-        <link href="https://xianblog.wordpress.com/2023/03/02/52316/"/>
-        <updated>2023-03-01T23:23:28.000Z</updated>
-        <summary type="html"><![CDATA[Visit the post for more.]]></summary>
-        <author>
-            <name>xi'an</name>
         </author>
     </entry>
 </feed>
