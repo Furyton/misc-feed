@@ -1283,6 +1283,16 @@
       "siteUrl": "https://pythonspeed.com/atom.xml",
       "articles": [
         {
+          "id": "https://pythonspeed.com/articles/disabling-docker-caching/",
+          "author": null,
+          "description": "When building Docker images, caching lets you speed up rebuilding images.\nBut this has a downside: it can keep you from installing security updates from your base Linux distribution.\nIf you cache the image layer that includes the security update… you’re not getting new security updates!\nThere are a number of ways you can try to balance caching with getting security updates, with different tradeoffs.\nIn this article we’ll cover:\nCaching by default, with recurring rebuild and redeploys.\nDeliberately breaking caching.\nCaching during development, never caching in production builds.\nRead more...",
+          "link": "https://pythonspeed.com/articles/disabling-docker-caching/",
+          "publishedOn": "2023-03-31T00:00:00.000Z",
+          "wordCount": 1156,
+          "title": "Staying secure by breaking Docker caching",
+          "imageUrl": "https://pythonspeed.com/assets/titles/disabling-docker-caching.png"
+        },
+        {
           "id": "https://pythonspeed.com/articles/faster-text-processing/",
           "author": null,
           "description": "If you’re doing text or string manipulation in Python, what do you do if your code is too slow?\nAssuming your algorithm is reasonably efficient, the next step is to try faster alternatives to Python: a compiled extension.\nUnfortunately, this is harder than it seems.\nSome options don’t offer an easy path to optimizations, others are actually slower.\nTo see this limitation in action, we’ll consider some alternatives:\nPure Python, with the default Python interpreter.\nCython.\nmypyc.\nRust.\nPure Python, with the PyPy interpreter.\nWe’ll also consider what can be done if these option don’t help.\nRead more...",
