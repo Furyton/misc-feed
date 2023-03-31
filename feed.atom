@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-03-31T06:20:29.200Z</updated>
+    <updated>2023-03-31T07:14:29.178Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -14,6 +14,59 @@
         <summary type="html"><![CDATA[The new wave of AI systems, ChatGPT and its more powerful successors, exhibit extraordinary capabilities across a broad swath of domains. In light of this, we will discuss whether artificial INTELLIGENCE has arrived.]]></summary>
         <author>
             <name>Harvard ML Foundations</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Leveraging joint sparsity in hierarchical Bayesian learning]]></title>
+        <id>http://arxiv.org/abs/2303.16954</id>
+        <link href="http://arxiv.org/abs/2303.16954"/>
+        <updated>2023-03-31T07:14:28.406Z</updated>
+        <summary type="html"><![CDATA[Jan Glaubitz, Anne Gelb]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Optimal training of integer-valued neural networks with mixed integer
+  programming]]></title>
+        <id>http://arxiv.org/abs/2009.03825</id>
+        <link href="http://arxiv.org/abs/2009.03825"/>
+        <updated>2023-03-31T07:14:28.391Z</updated>
+        <summary type="html"><![CDATA[T\'omas Thorbjarnarson, Neil Yorke-Smith]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Are Neural Architecture Search Benchmarks Well Designed? A Deeper Look
+  Into Operation Importance]]></title>
+        <id>http://arxiv.org/abs/2303.16938</id>
+        <link href="http://arxiv.org/abs/2303.16938"/>
+        <updated>2023-03-31T07:14:27.531Z</updated>
+        <summary type="html"><![CDATA[Vasco Lopes, Bruno Degardin, Lu\'is A. Alexandre]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Training Neural Networks is NP-Hard in Fixed Dimension]]></title>
+        <id>http://arxiv.org/abs/2303.17045</id>
+        <link href="http://arxiv.org/abs/2303.17045"/>
+        <updated>2023-03-31T07:14:27.506Z</updated>
+        <summary type="html"><![CDATA[Vincent Froese, Christoph Hertrich]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Approximation bounds for norm constrained neural networks with
+  applications to regression and GANs]]></title>
+        <id>http://arxiv.org/abs/2201.09418</id>
+        <link href="http://arxiv.org/abs/2201.09418"/>
+        <updated>2023-03-31T07:14:27.499Z</updated>
+        <summary type="html"><![CDATA[Yuling Jiao, Yang Wang, Yunfei Yang]]></summary>
+        <author>
+            <name>arxivist feed</name>
         </author>
     </entry>
     <entry>

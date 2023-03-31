@@ -6,6 +6,56 @@
       "siteUrl": "https://www.arxivist.com",
       "articles": [
         {
+          "id": "http://arxiv.org/abs/2303.16954",
+          "author": null,
+          "description": "Jan Glaubitz, Anne Gelb",
+          "link": "http://arxiv.org/abs/2303.16954",
+          "publishedOn": "2023-03-31T07:14:28.406Z",
+          "wordCount": 613,
+          "title": "Leveraging joint sparsity in hierarchical Bayesian learning",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2009.03825",
+          "author": null,
+          "description": "T\\'omas Thorbjarnarson, Neil Yorke-Smith",
+          "link": "http://arxiv.org/abs/2009.03825",
+          "publishedOn": "2023-03-31T07:14:28.391Z",
+          "wordCount": 890,
+          "title": "Optimal training of integer-valued neural networks with mixed integer\n  programming",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2303.16938",
+          "author": null,
+          "description": "Vasco Lopes, Bruno Degardin, Lu\\'is A. Alexandre",
+          "link": "http://arxiv.org/abs/2303.16938",
+          "publishedOn": "2023-03-31T07:14:27.531Z",
+          "wordCount": 802,
+          "title": "Are Neural Architecture Search Benchmarks Well Designed? A Deeper Look\n  Into Operation Importance",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2303.17045",
+          "author": null,
+          "description": "Vincent Froese, Christoph Hertrich",
+          "link": "http://arxiv.org/abs/2303.17045",
+          "publishedOn": "2023-03-31T07:14:27.506Z",
+          "wordCount": 692,
+          "title": "Training Neural Networks is NP-Hard in Fixed Dimension",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2201.09418",
+          "author": null,
+          "description": "Yuling Jiao, Yang Wang, Yunfei Yang",
+          "link": "http://arxiv.org/abs/2201.09418",
+          "publishedOn": "2023-03-31T07:14:27.499Z",
+          "wordCount": 726,
+          "title": "Approximation bounds for norm constrained neural networks with\n  applications to regression and GANs",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
           "id": "http://arxiv.org/abs/2303.16813",
           "author": null,
           "description": "Paul Geuchen, Felix Voigtlaender",
