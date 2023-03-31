@@ -1331,18 +1331,7 @@
       "title": "Jeremy Jordan",
       "feedUrl": "https://www.jeremyjordan.me/rss/",
       "siteUrl": "https://www.jeremyjordan.me/",
-      "articles": [
-        {
-          "id": "63f42411c79d98004d9f8686",
-          "author": "Jeremy Jordan",
-          "description": "In this blog post, we'll discuss a key innovation in sequence-to-sequence model architectures: the attention mechanism. This architecture innovation dramatically improved model performance for sequence-to-sequence tasks such as machine translation and text summarization. \nMoreover, the success of this attention mechanism led to the seminal paper, \"Attention Is",
-          "link": "https://www.jeremyjordan.me/attention/",
-          "publishedOn": "2023-03-01T22:44:22.000Z",
-          "wordCount": 2684,
-          "title": "Understanding the attention mechanism in sequence models",
-          "imageUrl": "https://www.jeremyjordan.me/content/images/2022/01/trolltunga.png"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Jay Alammar",
