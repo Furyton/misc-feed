@@ -2134,16 +2134,6 @@
           "wordCount": 27800,
           "title": "Performer-MPC: Navigation via real-time, on-robot transformers",
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhGjlA51CwGK8jDynkq00hMCopyh2JWc_6MhtS22XOGVUt9g51r6uohzPK_dxrM6lHikIXxm0V416CUDqaCRw1PFhWLIQNBlXeuUMqwKqLlkvV8Mm9DYHUHCQCwmHfb_C6aIHr86pXVpHoskC_9Xq44l5_XzVygE61DModW4nWEkk6NBKkiB5muJRAw3Q/w1200-h630-p-k-no-nu/Performer-MPC%20here.jpg"
-        },
-        {
-          "id": "http://ai.googleblog.com/2023/03/distributed-differential-privacy-for.html",
-          "author": null,
-          "description": "Posted by Florian Hartmann, Software Engineer, and Peter Kairouz, Research Scientist, Google Research  \nFederated learning is a distributed way of training machine learning (ML) models where data is locally processed and only focused model updates and metrics that are intended for immediate aggregation are shared with a server that orchestrates training. This allows the training of models on locally available signals without exposing raw data to servers, increasing user privacy. In 2021, we announced that we are using federated learning to train Smart Text Selection models, an Android feature that helps users select and copy text easily by predicting what text they want to select and then automatically expanding the selection for them. \n \nSince that launch, we have worked to improve the pr…",
-          "link": "http://ai.googleblog.com/2023/03/distributed-differential-privacy-for.html",
-          "publishedOn": "2023-03-02T21:14:00.003Z",
-          "wordCount": 27876,
-          "title": "Distributed differential privacy for federated learning",
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiiaQOGpI7o--dVGtKdtsOHsfv4cnThM_Iak2lxcov0ItD-KAtM_8XVcM9a2v33d93-gdW8pQCbdXObzkq74x4ohXgCL9Scqu_3e27MiBxnl-b8vSLbblEKKd0NGOdbrU2hys4PkL5_IFlUX-PJ_13VpXxC_RTpOOI50z5oJFgJH2QwKRLCwBZStqIp3w/w1200-h630-p-k-no-nu/DDPforFL.png"
         }
       ]
     },
