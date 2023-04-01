@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-04-01T22:13:27.837Z</updated>
+    <updated>2023-04-01T23:14:02.369Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Monte Carlo swindles]]></title>
+        <id>http://xianblog.wordpress.com/?p=52480</id>
+        <link href="https://xianblog.wordpress.com/2023/04/02/monte-carlo-swindles/"/>
+        <updated>2023-04-01T22:23:23.000Z</updated>
+        <summary type="html"><![CDATA[While reading Boos and Hugues-Olivier’s 1998 American Statistician paper on the applications of Basu’s theorem I can across the notion of Monte Carlo swindles. Where a reduced variance can be achieved without the corresponding increase in Monte Carlo budget. For instance, approximating the variance of the median statistic Μ for a Normal location family can […]]]></summary>
+        <author>
+            <name>xi'an</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA["Literally CVS"]]></title>
         <id>https://languagelog.ldc.upenn.edu/nll/?p=58320</id>

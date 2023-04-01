@@ -1577,6 +1577,16 @@
       "siteUrl": "https://xianblog.wordpress.com",
       "articles": [
         {
+          "id": "http://xianblog.wordpress.com/?p=52480",
+          "author": "xi'an",
+          "description": "While reading Boos and Hugues-Olivier’s 1998 American Statistician paper on the applications of Basu’s theorem I can across the notion of Monte Carlo swindles. Where a reduced variance can be achieved without the corresponding increase in Monte Carlo budget. For instance, approximating the variance of the median statistic Μ for a Normal location family can […]",
+          "link": "https://xianblog.wordpress.com/2023/04/02/monte-carlo-swindles/",
+          "publishedOn": "2023-04-01T22:23:23.000Z",
+          "wordCount": 1924,
+          "title": "Monte Carlo swindles",
+          "imageUrl": "https://xianblog.files.wordpress.com/2023/03/temp-1.png"
+        },
+        {
           "id": "http://xianblog.wordpress.com/?p=52533",
           "author": "xi'an",
           "description": "I got pointed out at an interesting NTY editorial of March 8, 2023, on ChatGPT written by Noam Chomsky, Ian Roberts and Jeffrey Watumull. “we fear that the most popular and fashionable strain of A.I. — machine learning — will degrade [linguistics] and debase our ethics by incorporating into our technology a fundamentally flawed conception […]",
