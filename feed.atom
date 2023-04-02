@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-04-02T06:18:15.989Z</updated>
+    <updated>2023-04-02T07:12:48.210Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -2320,17 +2320,6 @@ Today, we are excited to share more about the Universal Speech Model (USM), a cr
         <summary type="html"><![CDATA[Just a reminder that Levi stands at 67.8⁰ North, which is way north of Iceland latitude-wise, and therefore prone to low temperatures, as shown by the above forecast. Hence bring extra layers! And, for the few remaining stragglers, register before the deadline, Monday 06 March.]]></summary>
         <author>
             <name>xi'an</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Performer-MPC: Navigation via real-time, on-robot transformers]]></title>
-        <id>http://ai.googleblog.com/2023/03/performer-mpc-navigation-via-real-time.html</id>
-        <link href="http://ai.googleblog.com/2023/03/performer-mpc-navigation-via-real-time.html"/>
-        <updated>2023-03-03T18:20:00.000Z</updated>
-        <summary type="html"><![CDATA[Posted by Krzysztof Choromanski, Staff Research Scientist, Robotics at Google, and Xuesu Xiao, Visiting Researcher, George Mason University   
-Despite decades of research, we don’t see many mobile robots roaming our homes, offices, and streets. Real-world robot navigation in human-centric environments remains an unsolved problem. These challenging situations require safe and efficient navigation through tight spaces, such as squeezing between coffee tables and couches, maneuvering in tight corners, doorways, untidy rooms, and more. An equally critical requirement is to navigate in a manner that complies with unwritten social norms around people, for example, yielding at blind corners or staying at a comfortable distance. Google Research is committed to examining how advances in ML may enab…]]></summary>
-        <author>
-            <name>Google AI Blog</name>
         </author>
     </entry>
 </feed>
