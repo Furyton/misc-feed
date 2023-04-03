@@ -1131,6 +1131,16 @@
       "siteUrl": "https://kexue.fm/",
       "articles": [
         {
+          "id": "https://kexue.fm/archives/9577",
+          "author": "苏剑林",
+          "description": "万万没想到，Bias项能跟Transformer的长度外推性联系在一起！长度外推性是我们希望Transformer具有的一个理想性质，笔者曾在《Transformer升级之路：7、长度外推性与局...",
+          "link": "https://kexue.fm/archives/9577",
+          "publishedOn": "2023-04-03T12:56:00.000Z",
+          "wordCount": 1541,
+          "title": "Bias项的神奇作用：RoPE + Bias = 更好的长度外推性",
+          "imageUrl": null
+        },
+        {
           "id": "https://kexue.fm/archives/9554",
           "author": "苏剑林",
           "description": "当前，像ChatGPT之类的LLM可谓是“风靡全球”。有读者留意到，几乎所有LLM都还是用最初的Multi-Head Scaled-Dot Attention，近年来大量的Efficient工作...",
