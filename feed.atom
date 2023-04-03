@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-04-03T20:15:41.434Z</updated>
+    <updated>2023-04-03T21:12:56.288Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Alef Corner: Deep Learning 2020, 2030, 2040]]></title>
+        <id>http://gilkalai.wordpress.com/?p=24111</id>
+        <link href="https://gilkalai.wordpress.com/2023/04/03/alef-corner-deep-learning-2020-2030-2040/"/>
+        <updated>2023-04-03T20:36:02.000Z</updated>
+        <summary type="html"><![CDATA[Deep learning 2020 Deep learning 2030 Deep learning 2040]]></summary>
+        <author>
+            <name>Gil Kalai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Alef Corner: Deep Learning 2020, 2030, 2040]]></title>
+        <id>http://gilkalai.wordpress.com/?p=24111</id>
+        <link href="https://gilkalai.wordpress.com/2023/04/03/alef-corner-deep-learning-2020-2030-2040/"/>
+        <updated>2023-04-03T20:36:02.000Z</updated>
+        <summary type="html"><![CDATA[Deep learning 2020 Deep learning 2030 Deep learning 2040]]></summary>
+        <author>
+            <name>Gil Kalai</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hallucinations:  In Xanadu did LLMs vainly fancify]]></title>
         <id>https://languagelog.ldc.upenn.edu/nll/?p=58338</id>
@@ -14,6 +34,17 @@
         <summary type="html"><![CDATA[Bill Benzon has been our most prolific humanistic commentator about GPTs, almost as prolific as GPTs themselves.  Here he introduces his latest creation in / on the genre: "From 'Kubla Khan' through GPT and beyond", 3 Quarks Daily (3/27/23) In a covering note to me, Bill writes: A story about how I came to be […]]]></summary>
         <author>
             <name>Victor Mair</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Koala: A Dialogue Model for Academic Research]]></title>
+        <id>http://bair.berkeley.edu/blog/2023/04/03/koala/</id>
+        <link href="http://bair.berkeley.edu/blog/2023/04/03/koala/"/>
+        <updated>2023-04-03T14:30:00.000Z</updated>
+        <summary type="html"><![CDATA[In this post, we introduce Koala, a chatbot trained by fine-tuning Meta’s LLaMA on dialogue data gathered from the web. We describe the dataset curation and training process of our model, and also present the results of a user study that compares our model to ChatGPT and Stanford’s Alpaca. Our results show that Koala can effectively respond to a variety of user queries, generating responses that are often preferred over Alpaca, and at least tied with ChatGPT in over half of the cases.
+We hope that these results contribute further to the discourse around the relative performance of large closed-source models to smaller public models. In particular, it suggests that models that are small enough to be run locally can capture much of the performance of their larger cousins if trained on carefu…]]></summary>
+        <author>
+            <name>The Berkeley Artificial Intelligence Research Blog</name>
         </author>
     </entry>
     <entry>

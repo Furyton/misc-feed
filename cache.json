@@ -1025,6 +1025,16 @@
       "siteUrl": "https://gilkalai.wordpress.com",
       "articles": [
         {
+          "id": "http://gilkalai.wordpress.com/?p=24111",
+          "author": "Gil Kalai",
+          "description": "Deep learning 2020 Deep learning 2030 Deep learning 2040",
+          "link": "https://gilkalai.wordpress.com/2023/04/03/alef-corner-deep-learning-2020-2030-2040/",
+          "publishedOn": "2023-04-03T20:36:02.000Z",
+          "wordCount": 3026,
+          "title": "Alef Corner: Deep Learning 2020, 2030, 2040",
+          "imageUrl": "https://gilkalai.files.wordpress.com/2023/04/img-20230228-wa0001.jpg"
+        },
+        {
           "id": "http://gilkalai.wordpress.com/?p=23906",
           "author": "Gil Kalai",
           "description": "In the previous post, Two Three Four posts ago I wrote about three recent breakthroughs in combinatorics and here I want to mention some problems that I posed over the years that are loosely related to these advances. Rank of … Continue reading →",
@@ -1336,7 +1346,18 @@
       "title": "The Berkeley Artificial Intelligence Research Blog",
       "feedUrl": "https://bair.berkeley.edu/blog/feed",
       "siteUrl": "http://bair.berkeley.edu/blog/",
-      "articles": []
+      "articles": [
+        {
+          "id": "http://bair.berkeley.edu/blog/2023/04/03/koala/",
+          "author": null,
+          "description": "In this post, we introduce Koala, a chatbot trained by fine-tuning Meta’s LLaMA on dialogue data gathered from the web. We describe the dataset curation and training process of our model, and also present the results of a user study that compares our model to ChatGPT and Stanford’s Alpaca. Our results show that Koala can effectively respond to a variety of user queries, generating responses that are often preferred over Alpaca, and at least tied with ChatGPT in over half of the cases.\nWe hope that these results contribute further to the discourse around the relative performance of large closed-source models to smaller public models. In particular, it suggests that models that are small enough to be run locally can capture much of the performance of their larger cousins if trained on carefu…",
+          "link": "http://bair.berkeley.edu/blog/2023/04/03/koala/",
+          "publishedOn": "2023-04-03T14:30:00.000Z",
+          "wordCount": 2786,
+          "title": "Koala: A Dialogue Model for Academic Research",
+          "imageUrl": "http://bair.berkeley.edu/blogassets/koala/koala.png"
+        }
+      ]
     },
     {
       "title": "inFERENCe",
@@ -1553,6 +1574,16 @@
       "feedUrl": "https://gilkalai.wordpress.com/feed/",
       "siteUrl": "https://gilkalai.wordpress.com",
       "articles": [
+        {
+          "id": "http://gilkalai.wordpress.com/?p=24111",
+          "author": "Gil Kalai",
+          "description": "Deep learning 2020 Deep learning 2030 Deep learning 2040",
+          "link": "https://gilkalai.wordpress.com/2023/04/03/alef-corner-deep-learning-2020-2030-2040/",
+          "publishedOn": "2023-04-03T20:36:02.000Z",
+          "wordCount": 3026,
+          "title": "Alef Corner: Deep Learning 2020, 2030, 2040",
+          "imageUrl": "https://gilkalai.files.wordpress.com/2023/04/img-20230228-wa0001.jpg"
+        },
         {
           "id": "http://gilkalai.wordpress.com/?p=23906",
           "author": "Gil Kalai",
