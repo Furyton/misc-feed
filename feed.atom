@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-04-04T11:12:16.167Z</updated>
+    <updated>2023-04-04T12:29:27.377Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -2456,16 +2456,6 @@ Today, we are excited to share more about the Universal Speech Model (USM), a cr
         <summary type="html"><![CDATA[Danruo Deng, Guangyong Chen, Yang Yu, Furui Liu, Pheng-Ann Heng]]></summary>
         <author>
             <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[slice samplers for nested sampling]]></title>
-        <id>http://xianblog.wordpress.com/?p=52350</id>
-        <link href="https://xianblog.wordpress.com/2023/03/06/slice-samplers-for-nested-sampling/"/>
-        <updated>2023-03-05T23:23:26.000Z</updated>
-        <summary type="html"><![CDATA[“…the likelihoods of discarded points have interesting properties. In particular, the fraction of prior mass below the likelihood threshold is approximately 1/K [number of particles].” I came across a newly arXived paper on nested sampling, written by Johannes Buchner, with a focus on sampling over the constrained space defined by the lower bound on the […]]]></summary>
-        <author>
-            <name>xi'an</name>
         </author>
     </entry>
 </feed>

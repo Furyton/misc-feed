@@ -2026,16 +2026,6 @@
           "wordCount": 1925,
           "title": "ABConic mean evidence approximation",
           "imageUrl": "https://xianblog.files.wordpress.com/2023/03/temp.png"
-        },
-        {
-          "id": "http://xianblog.wordpress.com/?p=52350",
-          "author": "xi'an",
-          "description": "“…the likelihoods of discarded points have interesting properties. In particular, the fraction of prior mass below the likelihood threshold is approximately 1/K [number of particles].” I came across a newly arXived paper on nested sampling, written by Johannes Buchner, with a focus on sampling over the constrained space defined by the lower bound on the […]",
-          "link": "https://xianblog.wordpress.com/2023/03/06/slice-samplers-for-nested-sampling/",
-          "publishedOn": "2023-03-05T23:23:26.000Z",
-          "wordCount": 2002,
-          "title": "slice samplers for nested sampling",
-          "imageUrl": "https://xianblog.files.wordpress.com/2023/02/screenshot-2023-02-21-at-11-48-07-comparison-of-step-samplers-for-nested-sampling-2211.09426.pdf.png"
         }
       ]
     },
