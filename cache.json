@@ -6,6 +6,46 @@
       "siteUrl": "https://www.arxivist.com",
       "articles": [
         {
+          "id": "http://arxiv.org/abs/1908.08783",
+          "author": null,
+          "description": "Shantanu Mandal, Todd A. Anderson, Javier S. Turek, Justin\n  Gottschlich, Shengtian Zhou, Abdullah Muzahid",
+          "link": "http://arxiv.org/abs/1908.08783",
+          "publishedOn": "2023-04-04T07:13:40.997Z",
+          "wordCount": 739,
+          "title": "Learning Fitness Functions for Machine Programming",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2304.00575",
+          "author": null,
+          "description": "Juan Pablo Equihua, Henrik Nordmark, Maged Ali, Berthold Lausen",
+          "link": "http://arxiv.org/abs/2304.00575",
+          "publishedOn": "2023-04-04T07:13:40.990Z",
+          "wordCount": 663,
+          "title": "Modelling customer churn for the retail industry in a deep learning\n  based sequential framework",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2303.11536",
+          "author": null,
+          "description": "Tao Yang, Chuang Liu, Xiaofeng Ma, Weijia Lu, Ning Wu, Bingyang Li,\n  Zhifei Yang, Peng Liu, Lin Sun, Xiaodong Zhang, Can Zhang",
+          "link": "http://arxiv.org/abs/2303.11536",
+          "publishedOn": "2023-04-04T07:13:40.985Z",
+          "wordCount": 706,
+          "title": "Indeterminate Probability Neural Network",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2304.00990",
+          "author": null,
+          "description": "Manuel Zahn, Douglas P. Perrin",
+          "link": "http://arxiv.org/abs/2304.00990",
+          "publishedOn": "2023-04-04T07:13:40.978Z",
+          "wordCount": 810,
+          "title": "Efficient human-in-loop deep learning model training with iterative\n  refinement and statistical result validation",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
           "id": "http://arxiv.org/abs/2303.17823",
           "author": null,
           "description": "Akifumi Okuno, Kazuharu Harada",
