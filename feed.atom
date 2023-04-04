@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-04-04T12:29:27.377Z</updated>
+    <updated>2023-04-04T13:18:54.944Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Desultory philological, literary, and historical notes on Xanadu]]></title>
+        <id>https://languagelog.ldc.upenn.edu/nll/?p=58348</id>
+        <link href="https://languagelog.ldc.upenn.edu/nll/?p=58348&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=desultory-philological-literary-and-historical-notes-on-xanadu"/>
+        <updated>2023-04-04T12:46:53.000Z</updated>
+        <summary type="html"><![CDATA[Our previous post was on "Hallucinations: In Xanadu did LLMs vainly fancify" (4/3/23).  If you were wondering where such an evocative, exotic name came from, it has a direct lineage back to the Mongol Yuan Dynasty (1271-1368) of China where it was called Shàngdū 上都 ("Upper Capital") in Mandarin, ultimately from early Mandarin ʂaŋ` tū.  […]]]></summary>
+        <author>
+            <name>Victor Mair</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Learning Fitness Functions for Machine Programming]]></title>
         <id>http://arxiv.org/abs/1908.08783</id>
