@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-04-05T11:13:52.773Z</updated>
+    <updated>2023-04-05T12:37:08.380Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -2462,16 +2462,6 @@ Research in scene text detection and recognition (or scene text spotting) has be
         <summary type="html"><![CDATA[From the Temu website. They're the kind of bumper buttons you put on cabinet doors or sometimes on the bottoms of fragile things. IKEA furniture used to come with a couple of these. Just peel and stick in the corner so cabinet doors don't slam. Selected readings "'These can be aptly compared with the challenges, problems, […]]]></summary>
         <author>
             <name>Victor Mair</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ABConic mean evidence approximation]]></title>
-        <id>http://xianblog.wordpress.com/?p=52370</id>
-        <link href="https://xianblog.wordpress.com/2023/03/07/abconic-mean-evidence-approximation/"/>
-        <updated>2023-03-06T23:23:28.000Z</updated>
-        <summary type="html"><![CDATA[Following a question on X validated about evidence approximation in ABC settings, i.e., on returning an approximation of the evidence based on the outputs of parallel ABC runs for the models under comparison, I wondered at the relevance of an harmonic mean estimator in that context. Rather than using the original ABC algorithm that proposes […]]]></summary>
-        <author>
-            <name>xi'an</name>
         </author>
     </entry>
 </feed>
