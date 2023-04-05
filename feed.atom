@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-04-05T05:14:13.439Z</updated>
+    <updated>2023-04-05T06:20:08.000Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -2419,19 +2419,6 @@ Research in scene text detection and recognition (or scene text spotting) has be
         <summary type="html"><![CDATA[Following a question on X validated about evidence approximation in ABC settings, i.e., on returning an approximation of the evidence based on the outputs of parallel ABC runs for the models under comparison, I wondered at the relevance of an harmonic mean estimator in that context. Rather than using the original ABC algorithm that proposes […]]]></summary>
         <author>
             <name>xi'an</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Universal Speech Model (USM): State-of-the-art speech AI for 100+ languages]]></title>
-        <id>http://ai.googleblog.com/2023/03/universal-speech-model-usm-state-of-art.html</id>
-        <link href="http://ai.googleblog.com/2023/03/universal-speech-model-usm-state-of-art.html"/>
-        <updated>2023-03-06T18:06:00.004Z</updated>
-        <summary type="html"><![CDATA[Posted by Yu Zhang, Research Scientist, and James Qin, Software Engineer, Google Research  
-Last November, we announced the 1,000 Languages Initiative, an ambitious commitment to build a machine learning (ML) model that would support the world’s one thousand most-spoken languages, bringing greater inclusion to billions of people around the globe. However, some of these languages are spoken by fewer than twenty million people, so a core challenge is how to support languages for which there are relatively few speakers or limited available data. 
-
-Today, we are excited to share more about the Universal Speech Model (USM), a critical first step towards supporting 1,000 languages. USM is a family of state-of-the-art speech models with 2B parameters trained on 12 million hours of speech and 28 b…]]></summary>
-        <author>
-            <name>Google AI Blog</name>
         </author>
     </entry>
 </feed>
