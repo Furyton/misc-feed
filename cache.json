@@ -1649,6 +1649,16 @@
       "siteUrl": "https://xianblog.wordpress.com",
       "articles": [
         {
+          "id": "http://xianblog.wordpress.com/?p=52670",
+          "author": "xi'an",
+          "description": "Visit the post for more.",
+          "link": "https://xianblog.wordpress.com/2023/04/06/aabc-in-hawaii/",
+          "publishedOn": "2023-04-05T22:23:46.000Z",
+          "wordCount": 1730,
+          "title": "[A]ABC in Hawai’i",
+          "imageUrl": "https://xianblog.files.wordpress.com/2023/03/temp-11.png"
+        },
+        {
           "id": "http://xianblog.wordpress.com/?p=52527",
           "author": "xi'an",
           "description": "The Riddler was about a number game, which meant starting a sum at 0 and adding i to the current sum at time i, almost a Fibonacci sequence but not exactly, since the sequence is simply which is easy to code, is of period 200, and this code showed that 3, 28, 53, and 78 […]",
