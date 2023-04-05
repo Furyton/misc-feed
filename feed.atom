@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-04-05T14:15:50.481Z</updated>
+    <updated>2023-04-05T15:18:25.566Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -2442,16 +2442,6 @@ Research in scene text detection and recognition (or scene text spotting) has be
   Walid Saad]]></summary>
         <author>
             <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tiger：一个“抠”到极致的优化器]]></title>
-        <id>https://kexue.fm/archives/9512</id>
-        <link href="https://kexue.fm/archives/9512"/>
-        <updated>2023-03-07T02:33:00.000Z</updated>
-        <summary type="html"><![CDATA[这段时间笔者一直在实验《Google新搜出的优化器Lion：效率与效果兼得的“训练狮”》所介绍的Lion优化器。之所以对Lion饶有兴致，是因为它跟笔者之前的关于理想优化器的一些想法不谋而合，但...]]></summary>
-        <author>
-            <name>苏剑林</name>
         </author>
     </entry>
 </feed>
