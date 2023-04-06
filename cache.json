@@ -2040,6 +2040,16 @@
       "siteUrl": "http://ai.googleblog.com/",
       "articles": [
         {
+          "id": "http://ai.googleblog.com/2023/04/how-project-starline-improves-remote.html",
+          "author": null,
+          "description": "Posted by Greg Blascovich and Eric Gomez, User Researchers, Google\n\n\n\n\nAs companies settle into a new normal of hybrid and distributed work, remote communication technology remains critical for connecting and collaborating with colleagues. While this technology has improved, the core user experience often falls short: conversation can feel stilted, attention can be difficult to maintain, and usage can be fatiguing. \n\n\n\n\n\nProject Starline renders people at natural scale on a 3D display and enables natural eye contact.\n\nProject Starline, a technology project that combines advances in hardware and software to create a remote communication experience that feels like you’re together, even when you’re thousands of miles apart. This perception of co-presence is created by representing users in 3D…",
+          "link": "http://ai.googleblog.com/2023/04/how-project-starline-improves-remote.html",
+          "publishedOn": "2023-04-06T19:22:00.000Z",
+          "wordCount": 27663,
+          "title": "How Project Starline improves remote communication",
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgJAqzt53_8gR6MmDCABL8HG8EuKcyI5mFhipoRShNHzLuCAcpev4txOc2oS3IplpNqE3hYuTEydnhicaOqYavzVEn8WaJ3EH6uc5LSA4bakFLvpgBkqKopes3gew6v0I_pozO0U-7xZWCqywg_SyeTHD0R16YMG0uKncuw5tBHRn99Jr7i7RRmM1GPlg/w1200-h630-p-k-no-nu/ProjectStarline_600x580-THUMBNAIL.gif"
+        },
+        {
           "id": "http://ai.googleblog.com/2023/04/pre-trained-gaussian-processes-for.html",
           "author": null,
           "description": "Posted by Zi Wang and Kevin Swersky, Research Scientists, Google Research, Brain Team \n\n\n\n\n\nBayesian optimization (BayesOpt) is a powerful tool widely used for global optimization tasks, such as hyperparameter tuning, protein engineering, synthetic chemistry, robot learning, and even baking cookies. BayesOpt is a great strategy for these problems because they all involve optimizing black-box functions that are expensive to evaluate. A black-box function’s underlying mapping from inputs (configurations of the thing we want to optimize) to outputs (a measure of performance) is unknown. However, we can attempt to understand its internal workings by evaluating the function for different combinations of inputs. Because each evaluation can be computationally expensive, we need to find the best i…",

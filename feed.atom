@@ -2,10 +2,33 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-04-06T20:15:30.398Z</updated>
+    <updated>2023-04-06T21:11:50.468Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How Project Starline improves remote communication]]></title>
+        <id>http://ai.googleblog.com/2023/04/how-project-starline-improves-remote.html</id>
+        <link href="http://ai.googleblog.com/2023/04/how-project-starline-improves-remote.html"/>
+        <updated>2023-04-06T19:22:00.000Z</updated>
+        <summary type="html"><![CDATA[Posted by Greg Blascovich and Eric Gomez, User Researchers, Google
+
+
+
+
+As companies settle into a new normal of hybrid and distributed work, remote communication technology remains critical for connecting and collaborating with colleagues. While this technology has improved, the core user experience often falls short: conversation can feel stilted, attention can be difficult to maintain, and usage can be fatiguing. 
+
+
+
+
+
+Project Starline renders people at natural scale on a 3D display and enables natural eye contact.
+
+Project Starline, a technology project that combines advances in hardware and software to create a remote communication experience that feels like you’re together, even when you’re thousands of miles apart. This perception of co-presence is created by representing users in 3D…]]></summary>
+        <author>
+            <name>Google AI Blog</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Pre-trained Gaussian processes for Bayesian optimization]]></title>
         <id>http://ai.googleblog.com/2023/04/pre-trained-gaussian-processes-for.html</id>
