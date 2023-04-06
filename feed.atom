@@ -2,10 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-04-06T17:12:50.079Z</updated>
+    <updated>2023-04-06T18:18:23.185Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Pre-trained Gaussian processes for Bayesian optimization]]></title>
+        <id>http://ai.googleblog.com/2023/04/pre-trained-gaussian-processes-for.html</id>
+        <link href="http://ai.googleblog.com/2023/04/pre-trained-gaussian-processes-for.html"/>
+        <updated>2023-04-06T17:02:00.002Z</updated>
+        <summary type="html"><![CDATA[Posted by Zi Wang and Kevin Swersky, Research Scientists, Google Research, Brain Team 
+
+
+
+
+
+Bayesian optimization (BayesOpt) is a powerful tool widely used for global optimization tasks, such as hyperparameter tuning, protein engineering, synthetic chemistry, robot learning, and even baking cookies. BayesOpt is a great strategy for these problems because they all involve optimizing black-box functions that are expensive to evaluate. A black-box function’s underlying mapping from inputs (configurations of the thing we want to optimize) to outputs (a measure of performance) is unknown. However, we can attempt to understand its internal workings by evaluating the function for different combinations of inputs. Because each evaluation can be computationally expensive, we need to find the best i…]]></summary>
+        <author>
+            <name>Google AI Blog</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Interactive Fleet Learning]]></title>
         <id>http://bair.berkeley.edu/blog/2023/04/06/ifl/</id>
