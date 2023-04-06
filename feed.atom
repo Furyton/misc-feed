@@ -2,10 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-04-06T10:15:42.820Z</updated>
+    <updated>2023-04-06T11:12:21.505Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Interactive Fleet Learning]]></title>
+        <id>http://bair.berkeley.edu/blog/2023/04/06/ifl/</id>
+        <link href="http://bair.berkeley.edu/blog/2023/04/06/ifl/"/>
+        <updated>2023-04-06T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Figure 1: “Interactive Fleet Learning” (IFL) refers to robot fleets in industry and academia that fall back on human teleoperators when necessary and continually learn from them over time.
+
+
+In the last few years we have seen an exciting development in robotics and artificial intelligence: large fleets of robots have left the lab and entered the real world. Waymo, for example, has over 700 self-driving cars operating in Phoenix and San Francisco and is currently expanding to Los Angeles. Other industrial deployments of robot fleets include applications like e-commerce order fulfillment at Amazon and Ambi Robotics as well as food delivery at Nuro and Kiwibot.
+Commercial and industrial deployments of robot fleets: package delivery (top left), food delivery (bottom left), e-commerce order ful…]]></summary>
+        <author>
+            <name>The Berkeley Artificial Intelligence Research Blog</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[On the universal approximation property of radial basis function neural
   networks]]></title>

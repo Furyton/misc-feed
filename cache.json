@@ -1368,6 +1368,16 @@
       "siteUrl": "http://bair.berkeley.edu/blog/",
       "articles": [
         {
+          "id": "http://bair.berkeley.edu/blog/2023/04/06/ifl/",
+          "author": null,
+          "description": "Figure 1: “Interactive Fleet Learning” (IFL) refers to robot fleets in industry and academia that fall back on human teleoperators when necessary and continually learn from them over time.\n\n\nIn the last few years we have seen an exciting development in robotics and artificial intelligence: large fleets of robots have left the lab and entered the real world. Waymo, for example, has over 700 self-driving cars operating in Phoenix and San Francisco and is currently expanding to Los Angeles. Other industrial deployments of robot fleets include applications like e-commerce order fulfillment at Amazon and Ambi Robotics as well as food delivery at Nuro and Kiwibot.\nCommercial and industrial deployments of robot fleets: package delivery (top left), food delivery (bottom left), e-commerce order ful…",
+          "link": "http://bair.berkeley.edu/blog/2023/04/06/ifl/",
+          "publishedOn": "2023-04-06T09:00:00.000Z",
+          "wordCount": 1954,
+          "title": "Interactive Fleet Learning",
+          "imageUrl": "http://bair.berkeley.edu/blog/assets/ifl/image1.jpeg"
+        },
+        {
           "id": "http://bair.berkeley.edu/blog/2023/04/03/koala/",
           "author": null,
           "description": "In this post, we introduce Koala, a chatbot trained by fine-tuning Meta’s LLaMA on dialogue data gathered from the web. We describe the dataset curation and training process of our model, and also present the results of a user study that compares our model to ChatGPT and Stanford’s Alpaca. Our results show that Koala can effectively respond to a variety of user queries, generating responses that are often preferred over Alpaca, and at least tied with ChatGPT in over half of the cases.\nWe hope that these results contribute further to the discourse around the relative performance of large closed-source models to smaller public models. In particular, it suggests that models that are small enough to be run locally can capture much of the performance of their larger cousins if trained on carefu…",
