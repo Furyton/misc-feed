@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-04-06T05:13:57.950Z</updated>
+    <updated>2023-04-06T06:19:12.656Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -2416,19 +2416,6 @@ Effective monitoring of bird populations is essential for the development of sol
         <summary type="html"><![CDATA[Greg Kuperberg is having a short visit in Israel and yesterday he gave a fantastic lecture on an improved bound for the Kitaev-Solovay theorem. Here is a videotaped lecture of Greg on the same topic in QIP2023. Kitaev-Solovay theorem from … Continue reading →]]></summary>
         <author>
             <name>Gil Kalai</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Announcing the ICDAR 2023 Competition on Hierarchical Text Detection and Recognition]]></title>
-        <id>http://ai.googleblog.com/2023/03/announcing-icdar-2023-competition-on.html</id>
-        <link href="http://ai.googleblog.com/2023/03/announcing-icdar-2023-competition-on.html"/>
-        <updated>2023-03-07T18:10:00.001Z</updated>
-        <summary type="html"><![CDATA[Posted by Shangbang Long, Software Engineer, Google Research   
-The last few decades have witnessed the rapid development of Optical Character Recognition (OCR) technology, which has evolved from an academic benchmark task used in early breakthroughs of deep learning research to tangible products available in consumer devices and to third party developers for daily use. These OCR products digitize and democratize the valuable information that is stored in paper or image-based sources (e.g., books, magazines, newspapers, forms, street signs, restaurant menus) so that they can be indexed, searched, translated, and further processed by state-of-the-art natural language processing techniques.  
- 
-Research in scene text detection and recognition (or scene text spotting) has been the major drive…]]></summary>
-        <author>
-            <name>Google AI Blog</name>
         </author>
     </entry>
 </feed>
