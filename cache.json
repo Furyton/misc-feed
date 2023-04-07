@@ -1508,6 +1508,26 @@
       "siteUrl": "https://pytorch.org/",
       "articles": [
         {
+          "id": "https://pytorch.org/blog/celebrate-pytorch-2.0/",
+          "author": null,
+          "description": "Congratulations to the PyTorch Foundation for its release of PyTorch* 2.0! In this blog, I discuss the four features for which Intel made significant contributions to PyTorch 2.0:",
+          "link": "https://pytorch.org/blog/celebrate-pytorch-2.0/",
+          "publishedOn": "2023-04-07T07:00:00.000Z",
+          "wordCount": 1417,
+          "title": "Celebrate PyTorch* 2.0 with New Performance Features for AI Developers",
+          "imageUrl": "https://pytorch.org/assets/images/pytorch-logo.png"
+        },
+        {
+          "id": "https://pytorch.org/blog/straggler-mitigation/",
+          "author": null,
+          "description": "PyTorch DDP has been widely adopted across the industry for distributed training, which by default runs synchronous SGD to synchronize gradients across model replicas at every step. The performance of this technique is critical for fast iteration during model exploration as well as resource and cost saving. The performance is critical for fast iteration and cost saving of model development and exploration. To resolve a ubiquitous performance bottleneck introduced by slow nodes in large-scale training, Cruise and Meta co-developed a solution based on the Hierarchical SGD algorithm to significantly accelerate training in the presence of these stragglers.",
+          "link": "https://pytorch.org/blog/straggler-mitigation/",
+          "publishedOn": "2023-04-07T07:00:00.000Z",
+          "wordCount": 3381,
+          "title": "Straggler Mitigation On PyTorch DDP By Hierarchical SGD",
+          "imageUrl": "https://pytorch.org/assets/images/pytorch-logo.png"
+        },
+        {
           "id": "https://pytorch.org/blog/pytorch-2.0-xla-path-forward/",
           "author": null,
           "description": "As we celebrate the release of OpenXLA, PyTorch 2.0, and PyTorch/XLA 2.0, it’s worth taking a step back and sharing where we see it all going in the short to medium term. With PyTorch adoption leading in the AI space and XLA supporting best-in-class compiler features, PyTorch/XLA is well positioned to provide a cutting edge development stack for both model training and inference. To achieve this, we see investments in three main areas:",
@@ -2069,6 +2089,16 @@
       "feedUrl": "http://feeds.feedburner.com/blogspot/gJZg",
       "siteUrl": "http://ai.googleblog.com/",
       "articles": [
+        {
+          "id": "http://ai.googleblog.com/2023/04/directing-ml-toward-natural-hazard.html",
+          "author": null,
+          "description": "Posted by Oren Gilon, Software Engineer, and Grey Nearing, Research Scientist, Google Research\n\n\n\n\nFloods are the most common type of natural disaster, affecting more than 250 million people globally each year. As part of Google's Crisis Response and our efforts to address the climate crisis, we are using machine learning (ML) models for Flood Forecasting to alert people in areas that are impacted before disaster strikes.\n\n\nCollaboration between researchers in the industry and academia is essential for accelerating progress towards mutual goals in ML-related research. Indeed, Google's current ML-based flood forecasting approach was developed in collaboration with researchers (1, 2) at the Johannes Kepler University in Vienna, Austria, the University of Alabama, and the Hebrew University of…",
+          "link": "http://ai.googleblog.com/2023/04/directing-ml-toward-natural-hazard.html",
+          "publishedOn": "2023-04-07T16:09:00.003Z",
+          "wordCount": 27301,
+          "title": "Directing ML toward natural hazard mitigation through collaboration",
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZy6eVha-kviP5WRJzjv6j3uvTJE1j-thr6ZNDVdDm57K3dKY7dwu80mwBG8h-_AyZ0wetnIf4cVjn_qKUUyWpW2K-CZyKl9f2_wdbF1fcdIjvzElINYSJPJNLzWtza5rwHmqoNbEuffuk6GQyjenMKAXoStSMJvJMX57PSDANdJhy5PuxwLdBqELkuQ/w1200-h630-p-k-no-nu/flood.png"
+        },
         {
           "id": "http://ai.googleblog.com/2023/04/how-project-starline-improves-remote.html",
           "author": null,

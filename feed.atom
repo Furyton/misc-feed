@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-04-07T16:19:25.692Z</updated>
+    <updated>2023-04-07T17:13:24.145Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Directing ML toward natural hazard mitigation through collaboration]]></title>
+        <id>http://ai.googleblog.com/2023/04/directing-ml-toward-natural-hazard.html</id>
+        <link href="http://ai.googleblog.com/2023/04/directing-ml-toward-natural-hazard.html"/>
+        <updated>2023-04-07T16:09:00.003Z</updated>
+        <summary type="html"><![CDATA[Posted by Oren Gilon, Software Engineer, and Grey Nearing, Research Scientist, Google Research
+
+
+
+
+Floods are the most common type of natural disaster, affecting more than 250 million people globally each year. As part of Google's Crisis Response and our efforts to address the climate crisis, we are using machine learning (ML) models for Flood Forecasting to alert people in areas that are impacted before disaster strikes.
+
+
+Collaboration between researchers in the industry and academia is essential for accelerating progress towards mutual goals in ML-related research. Indeed, Google's current ML-based flood forecasting approach was developed in collaboration with researchers (1, 2) at the Johannes Kepler University in Vienna, Austria, the University of Alabama, and the Hebrew University of…]]></summary>
+        <author>
+            <name>Google AI Blog</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Quantum Kerr Learning]]></title>
         <id>http://arxiv.org/abs/2205.12004</id>
@@ -59,6 +77,26 @@
         <summary type="html"><![CDATA[Azal Ahmad Khan, Omkar Chaudhari, Rohitash Chandra]]></summary>
         <author>
             <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Celebrate PyTorch* 2.0 with New Performance Features for AI Developers]]></title>
+        <id>https://pytorch.org/blog/celebrate-pytorch-2.0/</id>
+        <link href="https://pytorch.org/blog/celebrate-pytorch-2.0/"/>
+        <updated>2023-04-07T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Congratulations to the PyTorch Foundation for its release of PyTorch* 2.0! In this blog, I discuss the four features for which Intel made significant contributions to PyTorch 2.0:]]></summary>
+        <author>
+            <name>PyTorch Website</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Straggler Mitigation On PyTorch DDP By Hierarchical SGD]]></title>
+        <id>https://pytorch.org/blog/straggler-mitigation/</id>
+        <link href="https://pytorch.org/blog/straggler-mitigation/"/>
+        <updated>2023-04-07T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[PyTorch DDP has been widely adopted across the industry for distributed training, which by default runs synchronous SGD to synchronize gradients across model replicas at every step. The performance of this technique is critical for fast iteration during model exploration as well as resource and cost saving. The performance is critical for fast iteration and cost saving of model development and exploration. To resolve a ubiquitous performance bottleneck introduced by slow nodes in large-scale training, Cruise and Meta co-developed a solution based on the Hierarchical SGD algorithm to significantly accelerate training in the presence of these stragglers.]]></summary>
+        <author>
+            <name>PyTorch Website</name>
         </author>
     </entry>
     <entry>
