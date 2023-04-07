@@ -2,10 +2,65 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-04-07T06:19:30.869Z</updated>
+    <updated>2023-04-07T07:13:46.181Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Quantum Kerr Learning]]></title>
+        <id>http://arxiv.org/abs/2205.12004</id>
+        <link href="http://arxiv.org/abs/2205.12004"/>
+        <updated>2023-04-07T07:13:38.602Z</updated>
+        <summary type="html"><![CDATA[Junyu Liu, Changchun Zhong, Matthew Otten, Anirban Chandra, Cristian
+  L. Cortes, Chaoyang Ti, Stephen K Gray, Xu Han]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Heavy-Tailed Regularization of Weight Matrices in Deep Neural Networks]]></title>
+        <id>http://arxiv.org/abs/2304.02911</id>
+        <link href="http://arxiv.org/abs/2304.02911"/>
+        <updated>2023-04-07T07:13:38.558Z</updated>
+        <summary type="html"><![CDATA[Xuanzhe Xiao, Zeng Li, Chuanlong Xie, Fengwei Zhou]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learning Lipschitz Functions by GD-trained Shallow Overparameterized
+  ReLU Neural Networks]]></title>
+        <id>http://arxiv.org/abs/2212.13848</id>
+        <link href="http://arxiv.org/abs/2212.13848"/>
+        <updated>2023-04-07T07:13:38.552Z</updated>
+        <summary type="html"><![CDATA[Ilja Kuzborskij, Csaba Szepesv\'ari]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Towards Efficient MCMC Sampling in Bayesian Neural Networks by
+  Exploiting Symmetry]]></title>
+        <id>http://arxiv.org/abs/2304.02902</id>
+        <link href="http://arxiv.org/abs/2304.02902"/>
+        <updated>2023-04-07T07:13:37.582Z</updated>
+        <summary type="html"><![CDATA[Jonas Gregor Wiese, Lisa Wimmer, Theodore Papamarkou, Bernd Bischl,
+  Stephan G\"unnemann, David R\"ugamer]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A review of ensemble learning and data augmentation models for class
+  imbalanced problems: combination, implementation and evaluation]]></title>
+        <id>http://arxiv.org/abs/2304.02858</id>
+        <link href="http://arxiv.org/abs/2304.02858"/>
+        <updated>2023-04-07T07:13:37.565Z</updated>
+        <summary type="html"><![CDATA[Azal Ahmad Khan, Omkar Chaudhari, Rohitash Chandra]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Polyglot Manchu emperor]]></title>
         <id>https://languagelog.ldc.upenn.edu/nll/?p=58356</id>
