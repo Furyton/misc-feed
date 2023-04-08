@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-04-08T07:12:23.551Z</updated>
+    <updated>2023-04-08T08:17:49.901Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -2506,29 +2506,6 @@ Today we introduce PaLM-E, a new generalist robotics model that overcomes these 
         <summary type="html"><![CDATA[While it sounds like the title of a science-fiction catastrophe novel or of a (of course) convoluted nouveau roman, this book by Nick Huntington-Klein is a massive initiation to econometrics and causality. As explained by the subtitle, An Introduction to Research Design and Causality. This is a hüûüge book, actually made of two parts that […]]]></summary>
         <author>
             <name>xi'an</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The reality of Happiness is Bitterness]]></title>
-        <id>https://languagelog.ldc.upenn.edu/nll/?p=58160</id>
-        <link href="https://languagelog.ldc.upenn.edu/nll/?p=58160&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=the-reality-of-happiness-is-bitterness"/>
-        <updated>2023-03-09T19:55:38.000Z</updated>
-        <summary type="html"><![CDATA[From Kiewwoo Goh: The actual transcription and translation of the first two lines and their one line English mistranslation should be: Shénme dōu shì jiǎ de Zhǐyǒu kǔ shì zhēn de 什么都是假的 只有苦是真的 Everything is false Only suffering is real The next big, composite, quadripartite glyph consists of four "kǔ 苦" ("bitterness; suffering") stacked side by side and on top of each […]]]></summary>
-        <author>
-            <name>Victor Mair</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The BirdCLEF 2023 Challenge: Pushing the frontiers of biodiversity monitoring]]></title>
-        <id>http://ai.googleblog.com/2023/03/the-birdclef-2023-challenge-pushing.html</id>
-        <link href="http://ai.googleblog.com/2023/03/the-birdclef-2023-challenge-pushing.html"/>
-        <updated>2023-03-09T19:27:00.001Z</updated>
-        <summary type="html"><![CDATA[Posted by Tom Denton, Software Engineer, Google Research, Brain Team   
-Worldwide bird populations are declining at an alarming rate, with approximately 48% of existing bird species known or suspected to be experiencing population declines. For instance, the U.S. and Canada have reported 29% fewer birds since 1970. 
-
-Effective monitoring of bird populations is essential for the development of solutions that promote conservation. Monitoring allows researchers to better understand the severity of the problem for specific bird populations and evaluate whether existing interventions are working. To scale monitoring, bird researchers have started analyzing ecosystems remotely using bird sound recordings instead of physically in-person via passive acoustic monitoring. Researchers can gather thou…]]></summary>
-        <author>
-            <name>Google AI Blog</name>
         </author>
     </entry>
 </feed>
