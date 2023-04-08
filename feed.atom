@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-04-08T11:12:01.343Z</updated>
+    <updated>2023-04-08T12:26:55.564Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Combinatory Sound Alternations in Proto-, Pre-, and Real Tibetan]]></title>
+        <id>https://languagelog.ldc.upenn.edu/nll/?p=58375</id>
+        <link href="https://languagelog.ldc.upenn.edu/nll/?p=58375&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=combinatory-sound-alternations-in-proto-pre-and-real-tibetan"/>
+        <updated>2023-04-08T12:24:50.000Z</updated>
+        <summary type="html"><![CDATA[Sino-Platonic Papers is pleased to announce the publication of its three-hundred-and-thirty-first issue: “Combinatory Sound Alternations in Proto-, Pre-, and Real Tibetan: The Case of the Word Family *Mra(o) ‘Speak,’ ‘Speaker,’ ‘Human,’ ‘Lord’,” by Bettina Zeisler. (free pdf) Among many other terms, discusses the Eurasian word for "horse" often mentioned on Language Log (see "Selected readings" […]]]></summary>
+        <author>
+            <name>Victor Mair</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[StanCon 2023 [20-23 July 2023]]]></title>
         <id>http://xianblog.wordpress.com/?p=52753</id>
@@ -2496,16 +2506,6 @@ Today we introduce PaLM-E, a new generalist robotics model that overcomes these 
         <summary type="html"><![CDATA[The following image is from a guest post on the Tangle newsletter (3/3/23) that comes from a Chinese dissident who recently fled to the U.S.: The political slogan on the sign glares: xǐ yíng èrshí dà wénmíng rùn wàn jiā 喜迎二十大 文明润万家 "Welcome to the20th National Congress [The Party's] civilized [policies] enrich a myriad families" The […]]]></summary>
         <author>
             <name>Victor Mair</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Effect [book review]]]></title>
-        <id>http://xianblog.wordpress.com/?p=52414</id>
-        <link href="https://xianblog.wordpress.com/2023/03/10/the-effect-book-review/"/>
-        <updated>2023-03-09T23:23:59.000Z</updated>
-        <summary type="html"><![CDATA[While it sounds like the title of a science-fiction catastrophe novel or of a (of course) convoluted nouveau roman, this book by Nick Huntington-Klein is a massive initiation to econometrics and causality. As explained by the subtitle, An Introduction to Research Design and Causality. This is a hüûüge book, actually made of two parts that […]]]></summary>
-        <author>
-            <name>xi'an</name>
         </author>
     </entry>
 </feed>
