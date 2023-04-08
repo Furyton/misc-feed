@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-04-07T23:14:10.244Z</updated>
+    <updated>2023-04-08T01:11:41.185Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -14,6 +14,19 @@
         <summary type="html"><![CDATA[Visit the post for more.]]></summary>
         <author>
             <name>xi'an</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Towards ML-enabled cleaning robots]]></title>
+        <id>http://ai.googleblog.com/2023/04/towards-ml-enabled-cleaning-robots.html</id>
+        <link href="http://ai.googleblog.com/2023/04/towards-ml-enabled-cleaning-robots.html"/>
+        <updated>2023-04-07T21:06:00.003Z</updated>
+        <summary type="html"><![CDATA[Posted by Thomas Lew, Research Intern, and Montserrat Gonzalez Arenas, Research Engineer, Google Research, Brain Team
+
+
+Over the past several years, the capabilities of robotic systems have improved dramatically. As the technology continues to improve and robotic agents are more routinely deployed in real-world environments, their capacity to assist in day-to-day activities will take on increasing importance. Repetitive tasks like wiping surfaces, folding clothes, and cleaning a room seem well-suited for robots, but remain challenging for robotic systems designed for structured environments like factories. Performing these types of tasks in more complex environments, like offices or homes, requires dealing with greater levels of environmental variability captured by high-dimensional sensor…]]></summary>
+        <author>
+            <name>Google AI Blog</name>
         </author>
     </entry>
     <entry>
