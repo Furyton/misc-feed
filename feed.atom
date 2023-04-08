@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-04-08T19:11:00.840Z</updated>
+    <updated>2023-04-08T20:14:57.955Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -2442,60 +2442,6 @@ Today we introduce PaLM-E, a new generalist robotics model that overcomes these 
         <summary type="html"><![CDATA[A lot of things are happening and let me briefly report on three major advancements in combinatorics. Peter Keevash, Ashwin Sah and Mehtaab Sawhney proved the existence of subspace designs with any given parameters, provided that the dimension of the … Continue reading →]]></summary>
         <author>
             <name>Gil Kalai</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[On the Expressiveness and Generalization of Hypergraph Neural Networks]]></title>
-        <id>http://arxiv.org/abs/2303.05490</id>
-        <link href="http://arxiv.org/abs/2303.05490"/>
-        <updated>2023-03-10T07:15:52.089Z</updated>
-        <summary type="html"><![CDATA[Zhezheng Luo, Jiayuan Mao, Joshua B. Tenenbaum, Leslie Pack Kaelbling]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TANGOS: Regularizing Tabular Neural Networks through Gradient
-  Orthogonalization and Specialization]]></title>
-        <id>http://arxiv.org/abs/2303.05506</id>
-        <link href="http://arxiv.org/abs/2303.05506"/>
-        <updated>2023-03-10T07:15:52.084Z</updated>
-        <summary type="html"><![CDATA[Alan Jeffares, Tennison Liu, Jonathan Crabb\'e, Fergus Imrie, Mihaela
-  van der Schaar]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learning Rational Subgoals from Demonstrations and Instructions]]></title>
-        <id>http://arxiv.org/abs/2303.05487</id>
-        <link href="http://arxiv.org/abs/2303.05487"/>
-        <updated>2023-03-10T07:15:52.064Z</updated>
-        <summary type="html"><![CDATA[Zhezheng Luo, Jiayuan Mao, Jiajun Wu, Tom\'as Lozano-P\'erez, Joshua
-  B. Tenenbaum, Leslie Pack Kaelbling]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Agnostic PAC Learning of k-juntas Using L2-Polynomial Regression]]></title>
-        <id>http://arxiv.org/abs/2303.04859</id>
-        <link href="http://arxiv.org/abs/2303.04859"/>
-        <updated>2023-03-10T07:15:52.059Z</updated>
-        <summary type="html"><![CDATA[Mohsen Heidari, Wojciech Szpankowski]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Continual Learning for Monolingual End-to-End Automatic Speech
-  Recognition]]></title>
-        <id>http://arxiv.org/abs/2112.09427</id>
-        <link href="http://arxiv.org/abs/2112.09427"/>
-        <updated>2023-03-10T07:15:52.029Z</updated>
-        <summary type="html"><![CDATA[Steven Vander Eeckt, Hugo Van hamme]]></summary>
-        <author>
-            <name>arxivist feed</name>
         </author>
     </entry>
 </feed>
