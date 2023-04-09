@@ -2118,16 +2118,6 @@
           "wordCount": 27628,
           "title": "Learning from deep learning: a case study of feature discovery and validation in pathology",
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj3EL99qmeogEZryesEPlH-pp_akdzLfek1zinRdpoTW1tsebb-uRCQoKxrKLPSBKxvjxdyP5Eh8t43CIcOR2yaj7PZPUifUMEN-2eDXXIUMB2xHOs-2LIuzRN-LT6TkupmMVZpHfTnWrX6xjOQxSiPuSzw-l_dgH-mBLPEaSGLG_RuhCRCQslU_X1uoA/w1200-h630-p-k-no-nu/TAF.png"
-        },
-        {
-          "id": "http://ai.googleblog.com/2023/03/palm-e-embodied-multimodal-language.html",
-          "author": null,
-          "description": "Posted by Danny Driess, Student Researcher, and Pete Florence, Research Scientist, Robotics at Google  \nRecent years have seen tremendous advances across machine learning domains, from models that can explain jokes or answer visual questions in a variety of languages to those that can produce images based on text descriptions. Such innovations have been possible due to the increase in availability of large scale datasets along with novel advances that enable the training of models on these data. While scaling of robotics models has seen some success, it is outpaced by other domains due to a lack of datasets available on a scale comparable to large text corpora or image datasets.  \n  \nToday we introduce PaLM-E, a new generalist robotics model that overcomes these issues by transferring know…",
-          "link": "http://ai.googleblog.com/2023/03/palm-e-embodied-multimodal-language.html",
-          "publishedOn": "2023-03-10T17:25:00.002Z",
-          "wordCount": 27976,
-          "title": "PaLM-E: An embodied multimodal language model",
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9Sc6PZ4Ebbi6Op6Lm3eYItsJJidxdqG7-zKZbRQ2L7_AKajgh7MLYybZZw3XHBvRro_GmGSOKjtyghhsNz8iXxBVODBLtbjesTkPo1lGzhwbLZVLT2k7W5QFdC2_C7no1cxeiDed75QJip1fTc9_FqKOBhGdK81pEyCzvZGfRgYji4Tvqbn2lFI2dqw/w1200-h630-p-k-no-nu/PalmE-Lg.gif"
         }
       ]
     },
