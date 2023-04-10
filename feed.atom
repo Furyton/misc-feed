@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-04-10T07:13:54.853Z</updated>
+    <updated>2023-04-10T08:19:38.395Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[从JL引理看熵不变性Attention]]></title>
+        <id>https://kexue.fm/archives/9588</id>
+        <link href="https://kexue.fm/archives/9588"/>
+        <updated>2023-04-10T08:12:00.000Z</updated>
+        <summary type="html"><![CDATA[在《从熵不变性看Attention的Scale操作》、《熵不变性Softmax的一个快速推导》中笔者提出了熵不变性Softmax，简单来说就是往Softmax之前的Attention矩阵多乘上一...]]></summary>
+        <author>
+            <name>苏剑林</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Dynamics of Finite Width Kernel and Prediction Fluctuations in Mean
   Field Neural Networks]]></title>
@@ -2485,16 +2495,6 @@ Previous studies have shown that ML can accurately identify and classify tumors 
         <summary type="html"><![CDATA[Read the second volume of The Craft Sequence, Two Serpents Rise, by Max Gladstone,  with great difficulties as I found the story (again) poorly constructed, despite some characters being mostly well-designed (no connection with volume 1, except for taking place in the same universe, if at another time period). Mixing steampunk and hard fantasy involving […]]]></summary>
         <author>
             <name>xi'an</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Idle thoughts upon the Ides of March:  the feathered man]]></title>
-        <id>https://languagelog.ldc.upenn.edu/nll/?p=58178</id>
-        <link href="https://languagelog.ldc.upenn.edu/nll/?p=58178&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=idle-thoughts-upon-the-ides-of-march-the-feathered-man"/>
-        <updated>2023-03-11T19:16:11.000Z</updated>
-        <summary type="html"><![CDATA[It's a bad month in general:  dark, dreary, drizzly, dank, and damp.  Soon one's thoughts are flitting* about as though one had taken wings, like Eros or Cupid. In Chinese mythology, there is a deity called Yǔrén 羽人 ("Feathered Man").  It has an ambiguous origin — first appears in Shānhǎi jīng 山海經 (Classic of the […]]]></summary>
-        <author>
-            <name>Victor Mair</name>
         </author>
     </entry>
 </feed>
