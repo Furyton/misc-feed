@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-04-11T10:16:35.839Z</updated>
+    <updated>2023-04-11T11:12:44.739Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[中科院张家俊：ChatGPT中的提示与指令学习]]></title>
+        <id>https://www.52nlp.cn/?p=13443</id>
+        <link href="https://www.52nlp.cn/%e4%b8%ad%e7%a7%91%e9%99%a2%e5%bc%a0%e5%ae%b6%e4%bf%8a%ef%bc%9achatgpt%e4%b8%ad%e7%9a%84%e6%8f%90%e7%a4%ba%e4%b8%8e%e6%8c%87%e4%bb%a4%e5%ad%a6%e4%b9%a0"/>
+        <updated>2023-04-11T10:30:15.000Z</updated>
+        <summary type="html"><![CDATA[内容来源：ChatGPT 及大模型专题研讨会 分享嘉宾：中国科学院自动化研究所研究员 张家俊 分享主题：《Ch […]]]></summary>
+        <author>
+            <name>达观数据</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Learning Generative Models of the Geometry and Topology of Tree-like 3D
   Objects]]></title>
