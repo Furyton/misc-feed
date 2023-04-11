@@ -1024,56 +1024,6 @@
           "wordCount": 636,
           "title": "Deep Feature Screening: Feature Selection for Ultra High-Dimensional\n  Data via Deep Neural Networks",
           "imageUrl": null
-        },
-        {
-          "id": "http://arxiv.org/abs/2206.04530",
-          "author": null,
-          "description": "Kirill Bykov, Mayukh Deb, Dennis Grinwald, Klaus-Robert M\\\"uller,\n  Marina M.-C. H\\\"ohne",
-          "link": "http://arxiv.org/abs/2206.04530",
-          "publishedOn": "2023-03-13T07:15:14.746Z",
-          "wordCount": 654,
-          "title": "DORA: Exploring outlier representations in Deep Neural Networks",
-          "imageUrl": null
-        },
-        {
-          "id": "http://arxiv.org/abs/2203.16711",
-          "author": null,
-          "description": "Junyu Liu, Khadijeh Najafi, Kunal Sharma, Francesco Tacchino, Liang\n  Jiang, Antonio Mezzacapo",
-          "link": "http://arxiv.org/abs/2203.16711",
-          "publishedOn": "2023-03-13T07:15:14.740Z",
-          "wordCount": 649,
-          "title": "An analytic theory for the dynamics of wide quantum neural networks",
-          "imageUrl": null
-        },
-        {
-          "id": "http://arxiv.org/abs/2211.01340",
-          "author": null,
-          "description": "Randall Balestriero, Yann LeCun",
-          "link": "http://arxiv.org/abs/2211.01340",
-          "publishedOn": "2023-03-13T07:15:14.703Z",
-          "wordCount": 640,
-          "title": "POLICE: Provably Optimal Linear Constraint Enforcement for Deep Neural\n  Networks",
-          "imageUrl": null
-        },
-        {
-          "id": "http://arxiv.org/abs/2303.05606",
-          "author": null,
-          "description": "Xiang Li, Qiang Sun",
-          "link": "http://arxiv.org/abs/2303.05606",
-          "publishedOn": "2023-03-13T07:15:14.697Z",
-          "wordCount": 696,
-          "title": "Variance-aware robust reinforcement learning with linear function\n  approximation with heavy-tailed rewards",
-          "imageUrl": null
-        },
-        {
-          "id": "http://arxiv.org/abs/2209.09617",
-          "author": null,
-          "description": "Giovanni Charles, Timothy M. Wolock, Peter Winskill, Azra Ghani, Samir\n  Bhatt, Seth Flaxman",
-          "link": "http://arxiv.org/abs/2209.09617",
-          "publishedOn": "2023-03-13T07:15:14.690Z",
-          "wordCount": 596,
-          "title": "Seq2Seq Surrogates of Epidemic Models to Facilitate Bayesian Inference",
-          "imageUrl": null
         }
       ]
     },
@@ -1595,6 +1545,26 @@
           "publishedOn": "2023-03-16T07:00:00.000Z",
           "wordCount": 1665,
           "title": "Accelerated Diffusers with PyTorch 2.0",
+          "imageUrl": "https://pytorch.org/assets/images/pytorch-logo.png"
+        },
+        {
+          "id": "https://pytorch.org/blog/new-library-updates-in-pytorch-2.0/",
+          "author": null,
+          "description": "Summary",
+          "link": "https://pytorch.org/blog/new-library-updates-in-pytorch-2.0/",
+          "publishedOn": "2023-03-15T07:00:00.000Z",
+          "wordCount": 1565,
+          "title": "New Library Updates in PyTorch 2.0",
+          "imageUrl": "https://pytorch.org/assets/images/pytorch-logo.png"
+        },
+        {
+          "id": "https://pytorch.org/blog/pytorch-2.0-release/",
+          "author": null,
+          "description": "We are excited to announce the release of PyTorch® 2.0 which we highlighted during the PyTorch Conference on 12/2/22! PyTorch 2.0 offers the same eager-mode development and user experience, while fundamentally changing and supercharging how PyTorch operates at compiler level under the hood with faster performance and support for Dynamic Shapes and Distributed.",
+          "link": "https://pytorch.org/blog/pytorch-2.0-release/",
+          "publishedOn": "2023-03-15T07:00:00.000Z",
+          "wordCount": 3518,
+          "title": "PyTorch 2.0: Our next generation release that is faster, more Pythonic and Dynamic as ever",
           "imageUrl": "https://pytorch.org/assets/images/pytorch-logo.png"
         }
       ]

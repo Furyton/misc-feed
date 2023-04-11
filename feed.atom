@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-04-11T19:12:01.585Z</updated>
+    <updated>2023-04-11T20:16:01.894Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -2372,6 +2372,26 @@ Globalized technology has the potential to create large-scale societal impact, a
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[New Library Updates in PyTorch 2.0]]></title>
+        <id>https://pytorch.org/blog/new-library-updates-in-pytorch-2.0/</id>
+        <link href="https://pytorch.org/blog/new-library-updates-in-pytorch-2.0/"/>
+        <updated>2023-03-15T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Summary]]></summary>
+        <author>
+            <name>PyTorch Website</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PyTorch 2.0: Our next generation release that is faster, more Pythonic and Dynamic as ever]]></title>
+        <id>https://pytorch.org/blog/pytorch-2.0-release/</id>
+        <link href="https://pytorch.org/blog/pytorch-2.0-release/"/>
+        <updated>2023-03-15T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[We are excited to announce the release of PyTorch® 2.0 which we highlighted during the PyTorch Conference on 12/2/22! PyTorch 2.0 offers the same eager-mode development and user experience, while fundamentally changing and supercharging how PyTorch operates at compiler level under the hood with faster performance and support for Dynamic Shapes and Distributed.]]></summary>
+        <author>
+            <name>PyTorch Website</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Prompt Engineering]]></title>
         <id>https://lilianweng.github.io/posts/2023-03-15-prompt-engineering/</id>
         <link href="https://lilianweng.github.io/posts/2023-03-15-prompt-engineering/"/>
@@ -2489,61 +2509,6 @@ Previous studies have shown that ML can accurately identify and classify tumors 
         <summary type="html"><![CDATA[As those students who take my early morning classes know, I sometimes greet them with "gǒutóu māo níng 狗头猫咛" ("good morning"; lit. "dog's head cat's meow").  I learned that method of transcription from my father-in-law, who didn't know the alphabet but picked up a few words of English and wanted to write them down for […]]]></summary>
         <author>
             <name>Victor Mair</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DORA: Exploring outlier representations in Deep Neural Networks]]></title>
-        <id>http://arxiv.org/abs/2206.04530</id>
-        <link href="http://arxiv.org/abs/2206.04530"/>
-        <updated>2023-03-13T07:15:14.746Z</updated>
-        <summary type="html"><![CDATA[Kirill Bykov, Mayukh Deb, Dennis Grinwald, Klaus-Robert M\"uller,
-  Marina M.-C. H\"ohne]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[An analytic theory for the dynamics of wide quantum neural networks]]></title>
-        <id>http://arxiv.org/abs/2203.16711</id>
-        <link href="http://arxiv.org/abs/2203.16711"/>
-        <updated>2023-03-13T07:15:14.740Z</updated>
-        <summary type="html"><![CDATA[Junyu Liu, Khadijeh Najafi, Kunal Sharma, Francesco Tacchino, Liang
-  Jiang, Antonio Mezzacapo]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[POLICE: Provably Optimal Linear Constraint Enforcement for Deep Neural
-  Networks]]></title>
-        <id>http://arxiv.org/abs/2211.01340</id>
-        <link href="http://arxiv.org/abs/2211.01340"/>
-        <updated>2023-03-13T07:15:14.703Z</updated>
-        <summary type="html"><![CDATA[Randall Balestriero, Yann LeCun]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Variance-aware robust reinforcement learning with linear function
-  approximation with heavy-tailed rewards]]></title>
-        <id>http://arxiv.org/abs/2303.05606</id>
-        <link href="http://arxiv.org/abs/2303.05606"/>
-        <updated>2023-03-13T07:15:14.697Z</updated>
-        <summary type="html"><![CDATA[Xiang Li, Qiang Sun]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Seq2Seq Surrogates of Epidemic Models to Facilitate Bayesian Inference]]></title>
-        <id>http://arxiv.org/abs/2209.09617</id>
-        <link href="http://arxiv.org/abs/2209.09617"/>
-        <updated>2023-03-13T07:15:14.690Z</updated>
-        <summary type="html"><![CDATA[Giovanni Charles, Timothy M. Wolock, Peter Winskill, Azra Ghani, Samir
-  Bhatt, Seth Flaxman]]></summary>
-        <author>
-            <name>arxivist feed</name>
         </author>
     </entry>
 </feed>
