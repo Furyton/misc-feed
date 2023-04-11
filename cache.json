@@ -6,6 +6,56 @@
       "siteUrl": "https://www.arxivist.com",
       "articles": [
         {
+          "id": "http://arxiv.org/abs/2110.08693",
+          "author": null,
+          "description": "Guan Wang, Hamid Laga, Anuj Srivastava",
+          "link": "http://arxiv.org/abs/2110.08693",
+          "publishedOn": "2023-04-11T07:13:55.203Z",
+          "wordCount": 810,
+          "title": "Learning Generative Models of the Geometry and Topology of Tree-like 3D\n  Objects",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2211.09981",
+          "author": null,
+          "description": "Yangjun Ruan, Saurabh Singh, Warren Morningstar, Alexander A. Alemi,\n  Sergey Ioffe, Ian Fischer, Joshua V. Dillon",
+          "link": "http://arxiv.org/abs/2211.09981",
+          "publishedOn": "2023-04-11T07:13:55.197Z",
+          "wordCount": 692,
+          "title": "Weighted Ensemble Self-Supervised Learning",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2211.14699",
+          "author": null,
+          "description": "Jeff Z. HaoChen, Tengyu Ma",
+          "link": "http://arxiv.org/abs/2211.14699",
+          "publishedOn": "2023-04-11T07:13:55.192Z",
+          "wordCount": 695,
+          "title": "A Theoretical Study of Inductive Biases in Contrastive Learning",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2303.06561",
+          "author": null,
+          "description": "Zhengan Chen, Yuqing Li, Tao Luo, Zhangchen Zhou, Zhi-Qin John Xu",
+          "link": "http://arxiv.org/abs/2303.06561",
+          "publishedOn": "2023-04-11T07:13:55.186Z",
+          "wordCount": 662,
+          "title": "Phase Diagram of Initial Condensation for Two-layer Neural Networks",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2211.02763",
+          "author": null,
+          "description": "Mizu Nishikawa-Toomey, Tristan Deleu, Jithendaraa Subramanian, Yoshua\n  Bengio, Laurent Charlin",
+          "link": "http://arxiv.org/abs/2211.02763",
+          "publishedOn": "2023-04-11T07:13:55.180Z",
+          "wordCount": 700,
+          "title": "Bayesian learning of Causal Structure and Mechanisms with GFlowNets and\n  Variational Bayes",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
           "id": "http://arxiv.org/abs/2304.03408",
           "author": null,
           "description": "Blake Bordelon, Cengiz Pehlevan",
@@ -1678,6 +1728,16 @@
       "feedUrl": "https://xianblog.wordpress.com/feed/",
       "siteUrl": "https://xianblog.wordpress.com",
       "articles": [
+        {
+          "id": "http://xianblog.wordpress.com/?p=52676",
+          "author": "xi'an",
+          "description": "[While flying to Venezia, two art professionals were sitting in front of me, talking the entirety of the flight in a rather affected way.] “La Fenice, j’ai pas du tout envie d’aller là. C’est pas intéressant, j’irais beaucoup plus vers le cinéma italien classique des années 60, avec une vision beaucoup plus sophistiquée…”",
+          "link": "https://xianblog.wordpress.com/2023/04/11/flying-static/",
+          "publishedOn": "2023-04-11T06:23:02.000Z",
+          "wordCount": 1774,
+          "title": "flying static",
+          "imageUrl": "https://xianblog.files.wordpress.com/2023/03/1679987676508-e1679989484283.jpg"
+        },
         {
           "id": "http://xianblog.wordpress.com/?p=52784",
           "author": "xi'an",
