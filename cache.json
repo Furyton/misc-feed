@@ -1596,26 +1596,6 @@
           "wordCount": 1665,
           "title": "Accelerated Diffusers with PyTorch 2.0",
           "imageUrl": "https://pytorch.org/assets/images/pytorch-logo.png"
-        },
-        {
-          "id": "https://pytorch.org/blog/new-library-updates-in-pytorch-2.0/",
-          "author": null,
-          "description": "Summary",
-          "link": "https://pytorch.org/blog/new-library-updates-in-pytorch-2.0/",
-          "publishedOn": "2023-03-13T07:00:00.000Z",
-          "wordCount": 1565,
-          "title": "New Library Updates in PyTorch 2.0",
-          "imageUrl": "https://pytorch.org/assets/images/pytorch-logo.png"
-        },
-        {
-          "id": "https://pytorch.org/blog/pytorch-2.0-release/",
-          "author": null,
-          "description": "We are excited to announce the release of PyTorch® 2.0 which we highlighted during the PyTorch Conference on 12/2/22! PyTorch 2.0 offers the same eager-mode development and user experience, while fundamentally changing and supercharging how PyTorch operates at compiler level under the hood with faster performance and support for Dynamic Shapes and Distributed.",
-          "link": "https://pytorch.org/blog/pytorch-2.0-release/",
-          "publishedOn": "2023-03-13T07:00:00.000Z",
-          "wordCount": 3526,
-          "title": "PyTorch 2.0: Our next generation release that is faster, more Pythonic and Dynamic as ever",
-          "imageUrl": "https://pytorch.org/assets/images/pytorch-logo.png"
         }
       ]
     },
@@ -2099,6 +2079,16 @@
       "feedUrl": "http://feeds.feedburner.com/blogspot/gJZg",
       "siteUrl": "http://ai.googleblog.com/",
       "articles": [
+        {
+          "id": "http://ai.googleblog.com/2023/04/developing-aging-clock-using-deep.html",
+          "author": null,
+          "description": "Posted by Sara Ahadi, Research Fellow, Applied Science, and Andrew Carroll, Product Lead, Genomics\n\n\n\n\nAging is a process that is characterized by physiological and molecular changes that increase an individual's risk of developing diseases and eventually dying. Being able to measure and estimate the biological signatures of aging can help researchers identify preventive measures to reduce disease risk and impact. Researchers have developed “aging clocks” based on markers such as blood proteins or DNA methylation to measure individuals’ biological age, which is distinct from one’s chronological age. These aging clocks help predict the risk of age-related diseases. But because protein and methylation markers require a blood draw, non-invasive ways to find similar measures could make aging i…",
+          "link": "http://ai.googleblog.com/2023/04/developing-aging-clock-using-deep.html",
+          "publishedOn": "2023-04-11T18:22:00.000Z",
+          "wordCount": 27530,
+          "title": "Developing an aging clock using deep learning on retinal images",
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhJnv-sATdRuxawiBQHmuRV8smGfYjSveA-ZBCZfCkUOT6ZxvejcTU5ku2SkOkYo94FczvS5bbZywmWt24fq6UGyVX1hYKoSeHgV6arkL5Tm0Y65HsKy2RoOoylxGQADk1IYvXZ3RjNK_Lf9WhkB4jx6P7wLiLQPB5NHdfEpd08DOjl-ZYOOVvJyEQTfA/w1200-h630-p-k-no-nu/genomics.png"
+        },
         {
           "id": "http://ai.googleblog.com/2023/04/towards-ml-enabled-cleaning-robots.html",
           "author": null,
