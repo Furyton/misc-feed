@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-04-11T11:12:44.739Z</updated>
+    <updated>2023-04-11T12:29:44.552Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -2549,26 +2549,6 @@ Previous studies have shown that ML can accurately identify and classify tumors 
         <summary type="html"><![CDATA[We are excited to announce the release of PyTorch® 2.0 which we highlighted during the PyTorch Conference on 12/2/22! PyTorch 2.0 offers the same eager-mode development and user experience, while fundamentally changing and supercharging how PyTorch operates at compiler level under the hood with faster performance and support for Dynamic Shapes and Distributed.]]></summary>
         <author>
             <name>PyTorch Website</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[alone in Napoli]]></title>
-        <id>http://xianblog.wordpress.com/?p=52333</id>
-        <link href="https://xianblog.wordpress.com/2023/03/13/alone-in-napoli/"/>
-        <updated>2023-03-12T23:23:39.000Z</updated>
-        <summary type="html"><![CDATA[A combinatorics puzzle from The Riddler about a Napoli solitaire where 4 x 10 cards numbered from 1 to 10 are shuffled and the game is lost when a number (1,2, or 3) is equal to its position modulo 3 (1,2 or 3). A simple R code shows that the probability of winning is around […]]]></summary>
-        <author>
-            <name>xi'an</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[kuva Lapista¹]]></title>
-        <id>http://xianblog.wordpress.com/?p=52539</id>
-        <link href="https://xianblog.wordpress.com/2023/03/13/kuva-lapista/"/>
-        <updated>2023-03-12T23:23:06.000Z</updated>
-        <summary type="html"><![CDATA[Visit the post for more.]]></summary>
-        <author>
-            <name>xi'an</name>
         </author>
     </entry>
 </feed>
