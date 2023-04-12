@@ -2070,6 +2070,16 @@
       "siteUrl": "http://ai.googleblog.com/",
       "articles": [
         {
+          "id": "http://ai.googleblog.com/2023/04/unipi-learning-universal-policies-via.html",
+          "author": null,
+          "description": "Posted by Sherry Yang, Research Scientist, and Yilun Du, Student Researcher, Google Research, Brain Team\nBuilding models that solve a diverse set of tasks has become a dominant paradigm in the domains of vision and language. In natural language processing, large pre-trained models, such as PaLM, GPT-3 and Gopher, have demonstrated remarkable zero-shot learning of new language tasks. Similarly, in computer vision, models like CLIP and Flamingo have shown robust performance on zero-shot classification and object recognition. A natural next step is to use such tools to construct agents that can complete different decision-making tasks across many environments.\n\n\n\nHowever, training such agents faces the inherent challenge of environmental diversity, since different environments operate with di…",
+          "link": "http://ai.googleblog.com/2023/04/unipi-learning-universal-policies-via.html",
+          "publishedOn": "2023-04-12T20:04:00.000Z",
+          "wordCount": 27820,
+          "title": "UniPi: Learning universal policies via text-guided video generation",
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjtLCDewF7ckZRQjY48oqo6-84nJRlwHPLzWG5IolqJba46K106Hz1TuzbptipOrHI57dx5WsVZfGg0r2n7w2EGBSaUuQeZIukOrTFuUbNAwddcKD3t0uNgBHXysdsFCd1Wpg30rHIUeEqJ4GoWLr3Joi7NMruK8zL1uH5OxY2urRsz_4_lf_4Oa9a_sQ/w1200-h630-p-k-no-nu/UniPi%20hero.jpg"
+        },
+        {
           "id": "http://ai.googleblog.com/2023/04/developing-aging-clock-using-deep.html",
           "author": null,
           "description": "Posted by Sara Ahadi, Research Fellow, Applied Science, and Andrew Carroll, Product Lead, Genomics\n\n\n\n\nAging is a process that is characterized by physiological and molecular changes that increase an individual's risk of developing diseases and eventually dying. Being able to measure and estimate the biological signatures of aging can help researchers identify preventive measures to reduce disease risk and impact. Researchers have developed “aging clocks” based on markers such as blood proteins or DNA methylation to measure individuals’ biological age, which is distinct from one’s chronological age. These aging clocks help predict the risk of age-related diseases. But because protein and methylation markers require a blood draw, non-invasive ways to find similar measures could make aging i…",

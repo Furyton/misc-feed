@@ -2,10 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-04-12T20:16:06.239Z</updated>
+    <updated>2023-04-12T21:13:04.941Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[UniPi: Learning universal policies via text-guided video generation]]></title>
+        <id>http://ai.googleblog.com/2023/04/unipi-learning-universal-policies-via.html</id>
+        <link href="http://ai.googleblog.com/2023/04/unipi-learning-universal-policies-via.html"/>
+        <updated>2023-04-12T20:04:00.000Z</updated>
+        <summary type="html"><![CDATA[Posted by Sherry Yang, Research Scientist, and Yilun Du, Student Researcher, Google Research, Brain Team
+Building models that solve a diverse set of tasks has become a dominant paradigm in the domains of vision and language. In natural language processing, large pre-trained models, such as PaLM, GPT-3 and Gopher, have demonstrated remarkable zero-shot learning of new language tasks. Similarly, in computer vision, models like CLIP and Flamingo have shown robust performance on zero-shot classification and object recognition. A natural next step is to use such tools to construct agents that can complete different decision-making tasks across many environments.
+
+
+
+However, training such agents faces the inherent challenge of environmental diversity, since different environments operate with di…]]></summary>
+        <author>
+            <name>Google AI Blog</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Sutradhar and the Ringgit: A Study of Terms Related to the Early Puppet Theatres]]></title>
         <id>https://languagelog.ldc.upenn.edu/nll/?p=58410</id>
