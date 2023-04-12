@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-04-12T19:12:18.748Z</updated>
+    <updated>2023-04-12T20:16:06.239Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -2608,61 +2608,6 @@ When a patient is diagnosed with cancer, one of the most important steps is exam
 Previous studies have shown that ML can accurately identify and classify tumors in pathology images and can even predict patient prognosis using known pathology feature…]]></summary>
         <author>
             <name>Google AI Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[缓解交叉熵过度自信的一个简明方案]]></title>
-        <id>https://kexue.fm/archives/9526</id>
-        <link href="https://kexue.fm/archives/9526"/>
-        <updated>2023-03-14T08:01:00.000Z</updated>
-        <summary type="html"><![CDATA[众所周知，分类问题的常规评估指标是正确率，而标准的损失函数则是交叉熵，交叉熵有着收敛快的优点，但它并非是正确率的光滑近似，这就带来了训练和预测的不一致性问题。另一方面，当训练样本的预测概率很低时...]]></summary>
-        <author>
-            <name>苏剑林</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Score Attack: A Lower Bound Technique for Optimal Differentially Private
-  Learning]]></title>
-        <id>http://arxiv.org/abs/2303.07152</id>
-        <link href="http://arxiv.org/abs/2303.07152"/>
-        <updated>2023-03-14T07:16:32.259Z</updated>
-        <summary type="html"><![CDATA[T. Tony Cai, Yichen Wang, Linjun Zhang]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stabilizing Transformer Training by Preventing Attention Entropy
-  Collapse]]></title>
-        <id>http://arxiv.org/abs/2303.06296</id>
-        <link href="http://arxiv.org/abs/2303.06296"/>
-        <updated>2023-03-14T07:16:32.215Z</updated>
-        <summary type="html"><![CDATA[Shuangfei Zhai, Tatiana Likhomanenko, Etai Littwin, Dan Busbridge,
-  Jason Ramapuram, Yizhe Zhang, Jiatao Gu, Josh Susskind]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Comparing statistical and machine learning methods for time series
-  forecasting in data-driven logistics -- A simulation study]]></title>
-        <id>http://arxiv.org/abs/2303.07139</id>
-        <link href="http://arxiv.org/abs/2303.07139"/>
-        <updated>2023-03-14T07:16:32.191Z</updated>
-        <summary type="html"><![CDATA[Lena Schmid, Moritz Roidl, Markus Pauly]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Deep Feature Screening: Feature Selection for Ultra High-Dimensional
-  Data via Deep Neural Networks]]></title>
-        <id>http://arxiv.org/abs/2204.01682</id>
-        <link href="http://arxiv.org/abs/2204.01682"/>
-        <updated>2023-03-14T07:16:31.952Z</updated>
-        <summary type="html"><![CDATA[Kexuan Li, Fangfang Wang, Lingli Yang, Ruiqi Liu]]></summary>
-        <author>
-            <name>arxivist feed</name>
         </author>
     </entry>
 </feed>
