@@ -6,6 +6,56 @@
       "siteUrl": "https://www.arxivist.com",
       "articles": [
         {
+          "id": "http://arxiv.org/abs/2110.11749",
+          "author": null,
+          "description": "Yizhang Lou, Chris Mingard, Yoonsoo Nam, Soufiane Hayou",
+          "link": "http://arxiv.org/abs/2110.11749",
+          "publishedOn": "2023-04-12T07:13:41.804Z",
+          "wordCount": 629,
+          "title": "Feature Learning and Signal Propagation in Deep Neural Networks",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2203.16711",
+          "author": null,
+          "description": "Junyu Liu, Khadijeh Najafi, Kunal Sharma, Francesco Tacchino, Liang\n  Jiang, Antonio Mezzacapo",
+          "link": "http://arxiv.org/abs/2203.16711",
+          "publishedOn": "2023-04-12T07:13:41.797Z",
+          "wordCount": 719,
+          "title": "An analytic theory for the dynamics of wide quantum neural networks",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2304.04824",
+          "author": null,
+          "description": "Hanjing Wang, Dhiraj Joshi, Shiqiang Wang, Qiang Ji",
+          "link": "http://arxiv.org/abs/2304.04824",
+          "publishedOn": "2023-04-12T07:13:41.790Z",
+          "wordCount": 677,
+          "title": "Gradient-based Uncertainty Attribution for Explainable Bayesian Deep\n  Learning",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2302.01952",
+          "author": null,
+          "description": "Mihaela Rosca, Yan Wu, Chongli Qin, Benoit Dherin",
+          "link": "http://arxiv.org/abs/2302.01952",
+          "publishedOn": "2023-04-12T07:13:41.771Z",
+          "wordCount": 679,
+          "title": "On a continuous time model of gradient descent dynamics and instability\n  in deep learning",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2304.05187",
+          "author": null,
+          "description": "Jeremy Bernstein, Chris Mingard, Kevin Huang, Navid Azizan\n , Yisong Yue",
+          "link": "http://arxiv.org/abs/2304.05187",
+          "publishedOn": "2023-04-12T07:13:40.006Z",
+          "wordCount": 690,
+          "title": "Automatic Gradient Descent: Deep Learning without Hyperparameters",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
           "id": "http://arxiv.org/abs/2110.08693",
           "author": null,
           "description": "Guan Wang, Hamid Laga, Anuj Srivastava",
@@ -2206,6 +2256,16 @@
       "feedUrl": "https://www.52nlp.cn/feed",
       "siteUrl": "https://www.52nlp.cn",
       "articles": [
+        {
+          "id": "https://www.52nlp.cn/?p=13445",
+          "author": "达观数据",
+          "description": "在通用领域，以ChatGPT为代表的生成式大规模语言模型展现出卓越的知识学习和文字创作能力，受到国内外的广泛关 […]",
+          "link": "https://www.52nlp.cn/%e8%be%be%e8%a7%82%e6%95%b0%e6%8d%ae%e7%a0%94%e5%8f%91%e6%9b%b9%e6%a4%8d%e5%a4%a7%e8%af%ad%e8%a8%80%e6%a8%a1%e5%9e%8b%ef%bc%8c%e8%87%b4%e5%8a%9b%e4%ba%8e%e5%9b%bd%e4%ba%a7gpt",
+          "publishedOn": "2023-04-12T07:01:37.000Z",
+          "wordCount": 721,
+          "title": "达观数据研发“曹植”大语言模型，致力于国产GPT模型",
+          "imageUrl": null
+        },
         {
           "id": "https://www.52nlp.cn/?p=13443",
           "author": "达观数据",
