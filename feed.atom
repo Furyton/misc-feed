@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-04-13T05:14:19.257Z</updated>
+    <updated>2023-04-13T06:19:25.307Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -2620,19 +2620,6 @@ Useful resources:
         <summary type="html"><![CDATA[When I first heard of this phenomenon about three years ago, I could scarcely believe my ears.  I was told in no uncertain terms that, by and large, Chinese women (especially in their 20s and 30s, but even in their teens) much more enjoy watching or reading about men making out than engaging in hetero- […]]]></summary>
         <author>
             <name>Victor Mair</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learning from deep learning: a case study of feature discovery and validation in pathology]]></title>
-        <id>http://ai.googleblog.com/2023/03/learning-from-deep-learning-case-study.html</id>
-        <link href="http://ai.googleblog.com/2023/03/learning-from-deep-learning-case-study.html"/>
-        <updated>2023-03-14T18:16:00.004Z</updated>
-        <summary type="html"><![CDATA[Posted by Ellery Wulczyn and Yun Liu, Google Research  
-When a patient is diagnosed with cancer, one of the most important steps is examination of the tumor under a microscope by pathologists to determine the cancer stage and to characterize the tumor. This information is central to understanding clinical prognosis (i.e., likely patient outcomes) and for determining the most appropriate treatment, such as undergoing surgery alone versus surgery plus chemotherapy. Developing machine learning (ML) tools in pathology to assist with the microscopic review represents a compelling research area with many potential applications. 
-
-Previous studies have shown that ML can accurately identify and classify tumors in pathology images and can even predict patient prognosis using known pathology feature…]]></summary>
-        <author>
-            <name>Google AI Blog</name>
         </author>
     </entry>
 </feed>
