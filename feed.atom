@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-04-13T11:12:39.892Z</updated>
+    <updated>2023-04-13T12:31:04.791Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The "socialite" phenomenon in China]]></title>
+        <id>https://languagelog.ldc.upenn.edu/nll/?p=58423</id>
+        <link href="https://languagelog.ldc.upenn.edu/nll/?p=58423&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=the-socialite-phenomenon-in-china"/>
+        <updated>2023-04-13T11:12:42.000Z</updated>
+        <summary type="html"><![CDATA[Source: China Media Project (12/7/2022)THE CMP DICTIONARY: Socialite 媛By XINYU DENG Once signifying graceful women of a distinguished background, the term “socialite,” or yuan (媛), has in recent years become a misogynistic umbrella term used on digital platforms in China to disparage women who advertise fancy lifestyles. The term has also been used by state-run media […]]]></summary>
+        <author>
+            <name>Victor Mair</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SoK: Certified Robustness for Deep Neural Networks]]></title>
         <id>http://arxiv.org/abs/2009.04131</id>
@@ -2633,28 +2643,6 @@ Globalized technology has the potential to create large-scale societal impact, a
         <summary type="html"><![CDATA[We are excited to announce the release of PyTorch® 2.0 which we highlighted during the PyTorch Conference on 12/2/22! PyTorch 2.0 offers the same eager-mode development and user experience, while fundamentally changing and supercharging how PyTorch operates at compiler level under the hood with faster performance and support for Dynamic Shapes and Distributed.]]></summary>
         <author>
             <name>PyTorch Website</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Prompt Engineering]]></title>
-        <id>https://lilianweng.github.io/posts/2023-03-15-prompt-engineering/</id>
-        <link href="https://lilianweng.github.io/posts/2023-03-15-prompt-engineering/"/>
-        <updated>2023-03-15T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Prompt Engineering, also known as In-Context Prompting, refers to methods for how to communicate with LLM to steer its behavior for desired outcomes without updating the model weights. It is an empirical science and the effect of prompt engineering methods can vary a lot among models, thus requiring heavy experimentation and heuristics.
-Useful resources:
- OpenAI Cookbook has many in-depth examples for how to utilize LLM efficiently. Prompt Engineering Guide repo contains a pretty comprehensive collection of education materials on prompt engineering.]]></summary>
-        <author>
-            <name>Lil'Log</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ABC in Lapland]]></title>
-        <id>http://xianblog.wordpress.com/?p=52548</id>
-        <link href="https://xianblog.wordpress.com/2023/03/15/abc-in-lapland/"/>
-        <updated>2023-03-14T23:23:58.000Z</updated>
-        <summary type="html"><![CDATA[Greetings from Levi, Lapland! Sonia Petrone beautifully started the ABC workshop with a (the!) plenary Sunday night talk on quasi-Bayes in the spirit of both Fortini & Petrone (2020) and the more recent Fong, Holmes, and Walker (2023). The talk got me puzzled by wondering the nature of convergence, in that it happens no matter […]]]></summary>
-        <author>
-            <name>xi'an</name>
         </author>
     </entry>
 </feed>

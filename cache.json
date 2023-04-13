@@ -1373,18 +1373,7 @@
       "title": "Lil'Log",
       "feedUrl": "https://lilianweng.github.io/index.xml",
       "siteUrl": "https://lilianweng.github.io/",
-      "articles": [
-        {
-          "id": "https://lilianweng.github.io/posts/2023-03-15-prompt-engineering/",
-          "author": null,
-          "description": "Prompt Engineering, also known as In-Context Prompting, refers to methods for how to communicate with LLM to steer its behavior for desired outcomes without updating the model weights. It is an empirical science and the effect of prompt engineering methods can vary a lot among models, thus requiring heavy experimentation and heuristics.\nUseful resources:\n OpenAI Cookbook has many in-depth examples for how to utilize LLM efficiently. Prompt Engineering Guide repo contains a pretty comprehensive collection of education materials on prompt engineering.",
-          "link": "https://lilianweng.github.io/posts/2023-03-15-prompt-engineering/",
-          "publishedOn": "2023-03-15T00:00:00.000Z",
-          "wordCount": 8861,
-          "title": "Prompt Engineering",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Amit Chaudhary",
@@ -2057,16 +2046,6 @@
           "wordCount": 2130,
           "title": "ABC in Lapland²",
           "imageUrl": "https://xianblog.files.wordpress.com/2023/03/1678779651088-e1678780260708.jpg"
-        },
-        {
-          "id": "http://xianblog.wordpress.com/?p=52548",
-          "author": "xi'an",
-          "description": "Greetings from Levi, Lapland! Sonia Petrone beautifully started the ABC workshop with a (the!) plenary Sunday night talk on quasi-Bayes in the spirit of both Fortini & Petrone (2020) and the more recent Fong, Holmes, and Walker (2023). The talk got me puzzled by wondering the nature of convergence, in that it happens no matter […]",
-          "link": "https://xianblog.wordpress.com/2023/03/15/abc-in-lapland/",
-          "publishedOn": "2023-03-14T23:23:58.000Z",
-          "wordCount": 2252,
-          "title": "ABC in Lapland",
-          "imageUrl": "https://xianblog.files.wordpress.com/2023/03/1678779651088-e1678780260708.jpg"
         }
       ]
     },
@@ -2363,6 +2342,16 @@
       "feedUrl": "https://languagelog.ldc.upenn.edu/nll/?feed=rss2",
       "siteUrl": "https://languagelog.ldc.upenn.edu/nll",
       "articles": [
+        {
+          "id": "https://languagelog.ldc.upenn.edu/nll/?p=58423",
+          "author": "Victor Mair",
+          "description": "Source: China Media Project (12/7/2022)THE CMP DICTIONARY: Socialite 媛By XINYU DENG Once signifying graceful women of a distinguished background, the term “socialite,” or yuan (媛), has in recent years become a misogynistic umbrella term used on digital platforms in China to disparage women who advertise fancy lifestyles. The term has also been used by state-run media […]",
+          "link": "https://languagelog.ldc.upenn.edu/nll/?p=58423&utm_source=rss&utm_medium=rss&utm_campaign=the-socialite-phenomenon-in-china",
+          "publishedOn": "2023-04-13T11:12:42.000Z",
+          "wordCount": 2348,
+          "title": "The \"socialite\" phenomenon in China",
+          "imageUrl": null
+        },
         {
           "id": "https://languagelog.ldc.upenn.edu/nll/?p=58410",
           "author": "Victor Mair",
