@@ -2,10 +2,55 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-04-13T06:19:25.307Z</updated>
+    <updated>2023-04-13T07:13:55.111Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[SoK: Certified Robustness for Deep Neural Networks]]></title>
+        <id>http://arxiv.org/abs/2009.04131</id>
+        <link href="http://arxiv.org/abs/2009.04131"/>
+        <updated>2023-04-13T07:13:53.212Z</updated>
+        <summary type="html"><![CDATA[Linyi Li, Tao Xie, Bo Li]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Improving Certified Robustness via Statistical Learning with Logical
+  Reasoning]]></title>
+        <id>http://arxiv.org/abs/2003.00120</id>
+        <link href="http://arxiv.org/abs/2003.00120"/>
+        <updated>2023-04-13T07:13:53.194Z</updated>
+        <summary type="html"><![CDATA[Zhuolin Yang, Zhikuan Zhao, Boxin Wang, Jiawei Zhang, Linyi Li,
+  Hengzhi Pei, Bojan Karlas, Ji Liu, Heng Guo, Ce Zhang, Bo Li]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Criticality versus uniformity in deep neural networks]]></title>
+        <id>http://arxiv.org/abs/2304.04784</id>
+        <link href="http://arxiv.org/abs/2304.04784"/>
+        <updated>2023-04-13T07:13:53.186Z</updated>
+        <summary type="html"><![CDATA[Aleksandar Bukva, Jurriaan de Gier, Kevin T. Grosvenor, Ro Jefferson,
+  Koenraad Schalm, Eliot Schwander]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Selecting Robust Features for Machine Learning Applications using
+  Multidata Causal Discovery]]></title>
+        <id>http://arxiv.org/abs/2304.05294</id>
+        <link href="http://arxiv.org/abs/2304.05294"/>
+        <updated>2023-04-13T07:13:52.489Z</updated>
+        <summary type="html"><![CDATA[Saranya Ganesh S., Tom Beucler, Frederick Iat-Hin Tam, Milton S.
+  Gomez, Jakob Runge, Andreas Gerhardus]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[StatMathAppli, Fréjus, France [18-22 September 2023]]]></title>
         <id>http://xianblog.wordpress.com/?p=52493</id>
