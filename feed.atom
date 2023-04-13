@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-04-13T18:18:58.232Z</updated>
+    <updated>2023-04-13T19:12:34.219Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -2623,26 +2623,6 @@ Globalized technology has the potential to create large-scale societal impact, a
         <summary type="html"><![CDATA[Christopher J. Urban, Daniel J. Bauer]]></summary>
         <author>
             <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Library Updates in PyTorch 2.0]]></title>
-        <id>https://pytorch.org/blog/new-library-updates-in-pytorch-2.0/</id>
-        <link href="https://pytorch.org/blog/new-library-updates-in-pytorch-2.0/"/>
-        <updated>2023-03-15T07:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Summary]]></summary>
-        <author>
-            <name>PyTorch Website</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PyTorch 2.0: Our next generation release that is faster, more Pythonic and Dynamic as ever]]></title>
-        <id>https://pytorch.org/blog/pytorch-2.0-release/</id>
-        <link href="https://pytorch.org/blog/pytorch-2.0-release/"/>
-        <updated>2023-03-15T07:00:00.000Z</updated>
-        <summary type="html"><![CDATA[We are excited to announce the release of PyTorch® 2.0 which we highlighted during the PyTorch Conference on 12/2/22! PyTorch 2.0 offers the same eager-mode development and user experience, while fundamentally changing and supercharging how PyTorch operates at compiler level under the hood with faster performance and support for Dynamic Shapes and Distributed.]]></summary>
-        <author>
-            <name>PyTorch Website</name>
         </author>
     </entry>
 </feed>
