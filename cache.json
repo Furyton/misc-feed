@@ -1976,16 +1976,6 @@
           "wordCount": 2130,
           "title": "ABC in Lapland²",
           "imageUrl": "https://xianblog.files.wordpress.com/2023/03/1678870024349-e1678870167264.jpg"
-        },
-        {
-          "id": "http://xianblog.wordpress.com/?p=52563",
-          "author": "xi'an",
-          "description": "On the second day of our workshop, Aki Vehtari gave a short talk about his recent works on speed up post processing by importance sampling a simulation of an imprecise version of the likelihood until the desired precision is attained, importance corrected by Pareto smoothing¹⁵. A very interesting foray into the meaning of practical models […]",
-          "link": "https://xianblog.wordpress.com/2023/03/15/abc-in-lapland%c2%b2/",
-          "publishedOn": "2023-03-15T08:17:18.000Z",
-          "wordCount": 2130,
-          "title": "ABC in Lapland²",
-          "imageUrl": "https://xianblog.files.wordpress.com/2023/03/1678779651088-e1678780260708.jpg"
         }
       ]
     },
@@ -2038,6 +2028,16 @@
       "feedUrl": "http://feeds.feedburner.com/blogspot/gJZg",
       "siteUrl": "http://ai.googleblog.com/",
       "articles": [
+        {
+          "id": "http://ai.googleblog.com/2023/04/robotic-deep-rl-at-scale-sorting-waste.html",
+          "author": null,
+          "description": "Posted by Sergey Levine, Research Scientist, and Alexander Herzog, Staff Research Software Engineer, Google Research, Brain Team\n  \n  \nReinforcement learning (RL) can enable robots to learn complex behaviors through trial-and-error interaction, getting better and better over time. Several of our prior works explored how RL can enable intricate robotic skills, such as robotic grasping, multi-task learning, and even playing table tennis. Although robotic RL has come a long way, we still don't see RL-enabled robots in everyday settings. The real world is complex, diverse, and changes over time, presenting a major challenge for robotic systems. However, we believe that RL should offer us an excellent tool for tackling precisely these challenges: by continually practicing, getting better, and l…",
+          "link": "http://ai.googleblog.com/2023/04/robotic-deep-rl-at-scale-sorting-waste.html",
+          "publishedOn": "2023-04-13T19:31:00.000Z",
+          "wordCount": 27446,
+          "title": "Robotic deep RL at scale: Sorting waste and recyclables with a fleet of robots",
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgEYhP7IrTnpGC_qxqzY9xaShL-JjOujpoWIEqWf-tccTefAx7xKsoD_74wwMq07kbZvvwAgiNPydbCAPMtbDYXz5roJaemUzqPc8AspgjV4lxB0Bln1YSLzzwgxNUT0EA7QDS0SDuwofleEqOgzF_5bIgb_rNnyMWKMTHhYH1OI0W5lDEym8wsP1G44A/w1200-h630-p-k-no-nu/Robotic%20RL%20hero.jpeg"
+        },
         {
           "id": "http://ai.googleblog.com/2023/04/unipi-learning-universal-policies-via.html",
           "author": null,
