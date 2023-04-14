@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-04-14T12:29:38.100Z</updated>
+    <updated>2023-04-14T13:18:37.728Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -2637,16 +2637,6 @@ Globalized technology has the potential to create large-scale societal impact, a
         <summary type="html"><![CDATA[PyTorch 2.0 has just been released. Its flagship new feature is torch.compile(), a one-line code change that promises to automatically improve performance across codebases. We have previously checked on that promise in Hugging Face Transformers and TIMM models, and delved deep into its motivation, architecture and the road ahead.]]></summary>
         <author>
             <name>PyTorch Website</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[This is the 4th time I've gotten Jack and his beanstalk]]></title>
-        <id>https://languagelog.ldc.upenn.edu/nll/?p=58196</id>
-        <link href="https://languagelog.ldc.upenn.edu/nll/?p=58196&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=this-is-the-4th-time-ive-gotten-jack-and-his-beanstalk"/>
-        <updated>2023-03-16T00:45:39.000Z</updated>
-        <summary type="html"><![CDATA[Bill Benzon shares the response he got from ChatGPT to the prompt, "Tell me a story." Here's the response: Once upon a time, in a far-off land, there was a young boy named Jack who lived with his mother. They were very poor and struggled to make ends meet. One day, Jack's mother sent him […]]]></summary>
-        <author>
-            <name>Victor Mair</name>
         </author>
     </entry>
 </feed>
