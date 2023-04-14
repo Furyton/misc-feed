@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-04-14T18:18:35.272Z</updated>
+    <updated>2023-04-14T19:12:12.133Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -2658,16 +2658,6 @@ Globalized technology has the potential to create large-scale societal impact, a
         <summary type="html"><![CDATA[Mari Dahl Eggen, Alise Danielle Midtfjord]]></summary>
         <author>
             <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Accelerated Diffusers with PyTorch 2.0]]></title>
-        <id>https://pytorch.org/blog/accelerated-diffusers-pt-20/</id>
-        <link href="https://pytorch.org/blog/accelerated-diffusers-pt-20/"/>
-        <updated>2023-03-16T07:00:00.000Z</updated>
-        <summary type="html"><![CDATA[PyTorch 2.0 has just been released. Its flagship new feature is torch.compile(), a one-line code change that promises to automatically improve performance across codebases. We have previously checked on that promise in Hugging Face Transformers and TIMM models, and delved deep into its motivation, architecture and the road ahead.]]></summary>
-        <author>
-            <name>PyTorch Website</name>
         </author>
     </entry>
 </feed>
