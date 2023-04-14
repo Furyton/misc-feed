@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-04-14T06:19:32.641Z</updated>
+    <updated>2023-04-14T07:13:59.849Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -14,6 +14,60 @@
         <summary type="html"><![CDATA[Naturalistic experimental paradigms in cognitive neuroscience arose from a pressure to test, in real-world contexts, the validity of models we derive from highly controlled laboratory experiments. In many cases, however, such efforts led to the realization that models (i.e., explanatory principles) developed under particular experimental manipulations fail to capture many aspects of reality (variance) in the real world. Recent advances in artificial neural networks provide an alternative computational framework for modeling cognition in natural contexts. In contrast to the simplified and interpretable hypotheses we test in the lab, these models learn how to act in the world from massive amounts of real-world examples (big data) by optimizing big models with millions to billions of parameters. Surprisingly, such models' performance matches human performances on many cognitive tasks, including visual perceptions, language processing, and motor control. At the same time, these models sacrifice understanding in favor of competence by being able to act without knowing why their choices are optimal or preferable in a given context. In this talk, I will ask whether the human brain's underlying computations are similar or different from the underlying computations in deep neural networks. The ability to think and reason using natural language separates us from other animals and machines. In the talk, I will focus on the underlying neural process that supports natural language processing. Our study aims to model natural language processing in the wild. To that end, we recorded intracranial EEG data from epileptic patients while they engaged in open-ended free conversations with their doctors, friends, and family members during a week-long stay in the hospital. I will provide evidence that our neural code shares some computational principles with deep language models. This indicates that, to some extent, the brain relies on overparameterized optimization methods to comprehend and produce language. At the same time, I will present evidence that the brain differs from deep language models as speakers try to convey new ideas and thoughts. Together, our findings expose some unexpected similarities to deep neural networks while pointing to crucial human-centric missing properties in these machines.]]></summary>
         <author>
             <name>Harvard ML Foundations</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[KL-divergence Based Deep Learning for Discrete Time Model]]></title>
+        <id>http://arxiv.org/abs/2208.05100</id>
+        <link href="http://arxiv.org/abs/2208.05100"/>
+        <updated>2023-04-14T07:13:41.099Z</updated>
+        <summary type="html"><![CDATA[Li Liu, Xiangeng Fang, Di Wang, Weijing Tang, Kevin He]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Towards Inferential Reproducibility of Machine Learning Research]]></title>
+        <id>http://arxiv.org/abs/2302.04054</id>
+        <link href="http://arxiv.org/abs/2302.04054"/>
+        <updated>2023-04-14T07:13:40.808Z</updated>
+        <summary type="html"><![CDATA[Michael Hagmann, Philipp Meier, Stefan Riezler]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Efficient Bayes Inference in Neural Networks through Adaptive Importance
+  Sampling]]></title>
+        <id>http://arxiv.org/abs/2210.00993</id>
+        <link href="http://arxiv.org/abs/2210.00993"/>
+        <updated>2023-04-14T07:13:40.713Z</updated>
+        <summary type="html"><![CDATA[Yunshi Huang, Emilie Chouzenoux, Victor Elvira and
+  Jean-Christophe Pesquet]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Quantifying and Explaining Machine Learning Uncertainty in Predictive
+  Process Monitoring: An Operations Research Perspective]]></title>
+        <id>http://arxiv.org/abs/2304.06412</id>
+        <link href="http://arxiv.org/abs/2304.06412"/>
+        <updated>2023-04-14T07:13:40.068Z</updated>
+        <summary type="html"><![CDATA[Nijat Mehdiyev, Maxim Majlatow, Peter Fettke]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Do deep neural networks have an inbuilt Occam's razor?]]></title>
+        <id>http://arxiv.org/abs/2304.06670</id>
+        <link href="http://arxiv.org/abs/2304.06670"/>
+        <updated>2023-04-14T07:13:40.062Z</updated>
+        <summary type="html"><![CDATA[Chris Mingard, Henry Rees, Guillermo Valle-P\'erez, Ard A.
+  Louis]]></summary>
+        <author>
+            <name>arxivist feed</name>
         </author>
     </entry>
     <entry>
@@ -2603,16 +2657,6 @@ Globalized technology has the potential to create large-scale societal impact, a
         <summary type="html"><![CDATA[On the second day of our workshop, Aki Vehtari gave a short talk about his recent works on speed up post processing by importance sampling a simulation of an imprecise version of the likelihood until the desired precision is attained, importance corrected by Pareto smoothing¹⁵. A very interesting foray into the meaning of practical models […]]]></summary>
         <author>
             <name>xi'an</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tasty McDonald's customer]]></title>
-        <id>https://languagelog.ldc.upenn.edu/nll/?p=58188</id>
-        <link href="https://languagelog.ldc.upenn.edu/nll/?p=58188&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=tasty-mcdonalds-customer"/>
-        <updated>2023-03-15T18:40:52.000Z</updated>
-        <summary type="html"><![CDATA[The Chinese notice says: Běn yíngyè chǎngsuǒ jǐn xiàn Màidāngláo yòngcān gùkè shǐyòng 本营业场所仅限麦当劳用餐顾客使用 "This place of business is reserved for McDonald's dine-in customers" Can't be too careful when you enter certain places of business. Selected readings "I'm lovin' it — next to the toilet" (12/12/09) "Clipping McDonald's" (7/29/13) [h.t. John Rohsenow]]]></summary>
-        <author>
-            <name>Victor Mair</name>
         </author>
     </entry>
 </feed>
