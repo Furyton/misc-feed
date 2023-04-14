@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-04-14T14:13:59.262Z</updated>
+    <updated>2023-04-14T15:15:42.151Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Beyond automatic differentiation]]></title>
+        <id>http://ai.googleblog.com/2023/04/beyond-automatic-differentiation.html</id>
+        <link href="http://ai.googleblog.com/2023/04/beyond-automatic-differentiation.html"/>
+        <updated>2023-04-14T15:00:00.001Z</updated>
+        <summary type="html"><![CDATA[Posted by Matthew Streeter, Software Engineer, Google Research
+
+
+
+
+Derivatives play a central role in optimization and machine learning. By locally approximating a training loss, derivatives guide an optimizer toward lower values of the loss. Automatic differentiation frameworks such as TensorFlow, PyTorch, and JAX are an essential part of modern machine learning, making it feasible to use gradient-based optimizers to train very complex models.
+
+
+ 
+
+
+But are derivatives all we need? By themselves, derivatives only tell us how a function behaves on an infinitesimal scale. To use derivatives effectively, we often need to know more than that. For example, to choose a learning rate for gradient descent, we need to know something about how the loss function behaves over a small but finite windo…]]></summary>
+        <author>
+            <name>Google AI Blog</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Uri Hasson - Deep language models as a cognitive model for natural language processing in the human brain]]></title>
         <id>https://mlfoundations.org/talk/hasson/</id>

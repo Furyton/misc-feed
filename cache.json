@@ -2089,6 +2089,16 @@
       "siteUrl": "http://ai.googleblog.com/",
       "articles": [
         {
+          "id": "http://ai.googleblog.com/2023/04/beyond-automatic-differentiation.html",
+          "author": null,
+          "description": "Posted by Matthew Streeter, Software Engineer, Google Research\n\n\n\n\nDerivatives play a central role in optimization and machine learning. By locally approximating a training loss, derivatives guide an optimizer toward lower values of the loss. Automatic differentiation frameworks such as TensorFlow, PyTorch, and JAX are an essential part of modern machine learning, making it feasible to use gradient-based optimizers to train very complex models.\n\n\n \n\n\nBut are derivatives all we need? By themselves, derivatives only tell us how a function behaves on an infinitesimal scale. To use derivatives effectively, we often need to know more than that. For example, to choose a learning rate for gradient descent, we need to know something about how the loss function behaves over a small but finite windo…",
+          "link": "http://ai.googleblog.com/2023/04/beyond-automatic-differentiation.html",
+          "publishedOn": "2023-04-14T15:00:00.001Z",
+          "wordCount": 27672,
+          "title": "Beyond automatic differentiation",
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgeF_4QxTZliBxybI6a8fpfDt-IC6AG1GkRjM6mQqSLQ64RQTP5BJYq8WcGkzss_Ft-5QF7nU36hT8CahVaq04fVThFV_zWbgbfutAzQU3g8yoghkEmb603znIRbX5jT74LQxBKQ1qKp6sx9GTKVEgcHaWJOpmiipwcuUj6FXC1_hCbqHHX05yMA_SaLw/w1200-h630-p-k-no-nu/AutoBound-Crop.gif"
+        },
+        {
           "id": "http://ai.googleblog.com/2023/04/robotic-deep-rl-at-scale-sorting-waste.html",
           "author": null,
           "description": "Posted by Sergey Levine, Research Scientist, and Alexander Herzog, Staff Research Software Engineer, Google Research, Brain Team\n  \n  \nReinforcement learning (RL) can enable robots to learn complex behaviors through trial-and-error interaction, getting better and better over time. Several of our prior works explored how RL can enable intricate robotic skills, such as robotic grasping, multi-task learning, and even playing table tennis. Although robotic RL has come a long way, we still don't see RL-enabled robots in everyday settings. The real world is complex, diverse, and changes over time, presenting a major challenge for robotic systems. However, we believe that RL should offer us an excellent tool for tackling precisely these challenges: by continually practicing, getting better, and l…",
