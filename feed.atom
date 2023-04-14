@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-04-14T22:14:35.583Z</updated>
+    <updated>2023-04-14T23:14:34.103Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[instantanea di Venezia¹ [jatp]]]></title>
+        <id>http://xianblog.wordpress.com/?p=52722</id>
+        <link href="https://xianblog.wordpress.com/2023/04/15/instantanea-di-venezia%c2%b9-jatp/"/>
+        <updated>2023-04-14T22:23:38.000Z</updated>
+        <summary type="html"><![CDATA[Visit the post for more.]]></summary>
+        <author>
+            <name>xi'an</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Beyond automatic differentiation]]></title>
         <id>http://ai.googleblog.com/2023/04/beyond-automatic-differentiation.html</id>
