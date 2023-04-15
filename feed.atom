@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-04-15T07:13:08.831Z</updated>
+    <updated>2023-04-15T08:17:57.984Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -2561,19 +2561,6 @@ Videos have become an increasingly important part of our daily lives, spanning f
         <summary type="html"><![CDATA[Visit the post for more.]]></summary>
         <author>
             <name>xi'an</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Responsible AI at Google Research: The Impact Lab]]></title>
-        <id>http://ai.googleblog.com/2023/03/responsible-ai-at-google-research.html</id>
-        <link href="http://ai.googleblog.com/2023/03/responsible-ai-at-google-research.html"/>
-        <updated>2023-03-16T20:13:00.001Z</updated>
-        <summary type="html"><![CDATA[Posted by Jamila Smith-Loud, Human Rights & Social Impact Research Lead, Google Research, Responsible AI and Human-Centered Technology Team 
-    
-
-Globalized technology has the potential to create large-scale societal impact, and having a grounded research approach rooted in existing international human and civil rights standards is a critical component to assuring responsible and ethical AI development and deployment. The Impact Lab team, part of Google’s Responsible AI Team, employs a range of interdisciplinary methodologies to ensure critical and rich analysis of the potential implications of technology development. The team’s mission is to examine socioeconomic and human rights impacts of AI,  publish foundational research, and incubate novel mitigations enabling machine learning (ML) …]]></summary>
-        <author>
-            <name>Google AI Blog</name>
         </author>
     </entry>
 </feed>
