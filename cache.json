@@ -1179,16 +1179,6 @@
           "wordCount": 1391,
           "title": "《为什么现在的LLM都是Decoder-only的架构？》FAQ",
           "imageUrl": null
-        },
-        {
-          "id": "https://kexue.fm/archives/9529",
-          "author": "苏剑林",
-          "description": "LLM是“Large Language Model”的简写，目前一般指百亿参数以上的语言模型，主要面向文本生成任务。跟小尺度模型（10亿或以内量级）的“百花齐放”不同，目前LLM的一个现状是De...",
-          "link": "https://kexue.fm/archives/9529",
-          "publishedOn": "2023-03-17T02:44:00.000Z",
-          "wordCount": 1462,
-          "title": "为什么现在的LLM都是Decoder-only的架构？",
-          "imageUrl": null
         }
       ]
     },
@@ -1440,18 +1430,7 @@
       "title": "Causal Analysis in Theory and Practice",
       "feedUrl": "http://causality.cs.ucla.edu/blog/index.php/feed/",
       "siteUrl": "http://causality.cs.ucla.edu/blog",
-      "articles": [
-        {
-          "id": "http://causality.cs.ucla.edu/blog/?p=2463",
-          "author": "Scott Mueller",
-          "description": "Scott Mueller and Judea Pearl Introduction This note supplements the analysis of [Mueller and Pearl 2023] by introducing an important restriction on the data obtained from Randomized Control Trials (RCT). In Mueller and Pearl, it is assumed that RCTs provide estimates of two probabilities, \\(P(y_t)\\) and \\(P(y_c)\\), standing for the probability of the outcome \\(Y\\) […]",
-          "link": "http://causality.cs.ucla.edu/blog/index.php/2023/03/17/personalized-decision-making-under-concurrent-controlled-rct-data/",
-          "publishedOn": "2023-03-17T02:31:21.000Z",
-          "wordCount": 2520,
-          "title": "Personalized Decision Making under Concurrent-Controlled RCT Data",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "YongYuan's homepage",
