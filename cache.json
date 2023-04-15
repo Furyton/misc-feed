@@ -1956,16 +1956,6 @@
           "wordCount": 1722,
           "title": "kuva Lapista⁴",
           "imageUrl": "https://xianblog.files.wordpress.com/2023/03/bayescomp1-e1679057612364.jpg"
-        },
-        {
-          "id": "http://xianblog.wordpress.com/?p=52580",
-          "author": "xi'an",
-          "description": "Visit the post for more.",
-          "link": "https://xianblog.wordpress.com/2023/03/17/kuva-lapista%c2%b3-jatp/",
-          "publishedOn": "2023-03-16T23:23:30.000Z",
-          "wordCount": 1728,
-          "title": "kuva Lapista³ [jatp]",
-          "imageUrl": "https://xianblog.files.wordpress.com/2023/03/1678870537709-e1678878845524.jpg"
         }
       ]
     },
@@ -2262,6 +2252,31 @@
       "feedUrl": "https://languagelog.ldc.upenn.edu/nll/?feed=rss2",
       "siteUrl": "https://languagelog.ldc.upenn.edu/nll",
       "articles": [
+        {
+          "id": "https://languagelog.ldc.upenn.edu/nll/?p=58435",
+          "author": "Mark Liberman",
+          "description": "Victoria Bisset, \"What to know about Arcturus, a new coronavirus subvariant the WHO is tracking\", WaPo 4/14/2023: According to the WHO, Arcturus is similar to the prevalent XBB. 1.5 variant, but has “one additional mutational mutation in the spike protein, which in lab studies shows increased infectivity, as well as potential increased pathogenicity.” Daniel Deutsch, […]",
+          "link": "https://languagelog.ldc.upenn.edu/nll/?p=58435&utm_source=rss&utm_medium=rss&utm_campaign=curiously-curious",
+          "publishedOn": "2023-04-15T11:44:48.000Z",
+          "wordCount": 2258,
+          "title": "Curiously curious",
+          "enclosure": {
+            "url": "https://languagelog.ldc.upenn.edu/myl/MutationalMutation.wav",
+            "length": "125586",
+            "type": "audio/wav"
+          },
+          "imageUrl": null
+        },
+        {
+          "id": "https://languagelog.ldc.upenn.edu/nll/?p=58430",
+          "author": "Victor Mair",
+          "description": "From Phillip Remaker: Loved your deep dive on finding the provenance of the \"conspiracy theory\" image. The one that claimed authorship clipped the edge of the unicorn tail.   The only version I have found that doesn't clip the edge of the unicorn tail is this one from farhan   I don't know if that means […]",
+          "link": "https://languagelog.ldc.upenn.edu/nll/?p=58430&utm_source=rss&utm_medium=rss&utm_campaign=data-information-knowledge-insight-wisdom-and-conspiracy-theory-part-2",
+          "publishedOn": "2023-04-15T11:27:11.000Z",
+          "wordCount": 2073,
+          "title": "Data, information, knowledge, insight, wisdom, and Conspiracy Theory, part 2",
+          "imageUrl": null
+        },
         {
           "id": "https://languagelog.ldc.upenn.edu/nll/?p=58427",
           "author": "Victor Mair",
