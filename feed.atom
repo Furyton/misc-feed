@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-04-15T22:13:59.320Z</updated>
+    <updated>2023-04-15T23:14:27.433Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[instantanea di Venezia² [jatp]]]></title>
+        <id>http://xianblog.wordpress.com/?p=52725</id>
+        <link href="https://xianblog.wordpress.com/2023/04/16/instantanea-di-venezia%c2%b2-jatp/"/>
+        <updated>2023-04-15T22:23:15.000Z</updated>
+        <summary type="html"><![CDATA[Visit the post for more.]]></summary>
+        <author>
+            <name>xi'an</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Digraphs in the gossip column]]></title>
         <id>https://languagelog.ldc.upenn.edu/nll/?p=58446</id>
@@ -2509,16 +2519,6 @@ I]]></summary>
 Videos have become an increasingly important part of our daily lives, spanning fields such as entertainment, education, and communication. Understanding the content of videos, however, is a challenging task as videos often contain multiple events occurring at different time scales. For example, a video of a musher hitching up dogs to a dog sled before they all race away involves a long event (the dogs pulling the sled) and a short event (the dogs being hitched to the sled). One way to spur research in video understanding is via the task of dense video captioning, which consists of temporally localizing and describing all events in a minutes-long video. This differs from s…]]></summary>
         <author>
             <name>Google AI Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[So many words for "donkey"]]></title>
-        <id>https://languagelog.ldc.upenn.edu/nll/?p=58210</id>
-        <link href="https://languagelog.ldc.upenn.edu/nll/?p=58210&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=so-many-words-for-donkey"/>
-        <updated>2023-03-17T10:37:20.000Z</updated>
-        <summary type="html"><![CDATA[Almost as many as Eskimo words for "snow".  (hee-hee haw-haw) (see below for a sampling) I've always been a great admirer of donkeys, and I love to hear them bray and make all sorts of other expressive sounds, some of which I am incapable of adequately expressing in words — especially when they are being […]]]></summary>
-        <author>
-            <name>Victor Mair</name>
         </author>
     </entry>
 </feed>
