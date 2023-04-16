@@ -1895,16 +1895,6 @@
           "wordCount": 1885,
           "title": "optimal scaling for proximal MALA [All about that Bayes seminar, 21/03, Palaiseau]",
           "imageUrl": "https://xianblog.files.wordpress.com/2012/05/pict0016.jpg"
-        },
-        {
-          "id": "http://xianblog.wordpress.com/?p=52604",
-          "author": "xi'an",
-          "description": "Visit the post for more.",
-          "link": "https://xianblog.wordpress.com/2023/03/18/kuva-lapista%e2%81%b4/",
-          "publishedOn": "2023-03-17T23:23:15.000Z",
-          "wordCount": 1722,
-          "title": "kuva Lapista⁴",
-          "imageUrl": "https://xianblog.files.wordpress.com/2023/03/bayescomp1-e1679057612364.jpg"
         }
       ]
     },
@@ -2191,6 +2181,26 @@
       "feedUrl": "https://languagelog.ldc.upenn.edu/nll/?feed=rss2",
       "siteUrl": "https://languagelog.ldc.upenn.edu/nll",
       "articles": [
+        {
+          "id": "https://languagelog.ldc.upenn.edu/nll/?p=58457",
+          "author": "Mark Liberman",
+          "description": "A VentureBeat story by Michael Kerner, \"Cohere expands enterprise LLM efforts with LivePerson partnership\" (4/11/2023), leads with this image: …memetically referencing a widely-reproduced detail from Michelangelo's Sistine Chapel fresco Creazione di Adamo: Is this taking current AI hype a step too far, portraying cohere.ai's latest Large Language Model as the creator? Or is it a […]",
+          "link": "https://languagelog.ldc.upenn.edu/nll/?p=58457&utm_source=rss&utm_medium=rss&utm_campaign=the-hand-of-god-gpt",
+          "publishedOn": "2023-04-16T12:25:38.000Z",
+          "wordCount": 2059,
+          "title": "The hand of GOD GPT",
+          "imageUrl": null
+        },
+        {
+          "id": "https://languagelog.ldc.upenn.edu/nll/?p=58450",
+          "author": "Victor Mair",
+          "description": "Definition In artificial intelligence (AI), a hallucination or artificial hallucination (also occasionally called delusion) is a confident response by an AI that does not seem to be justified by its training data. (source) I had mentioned such AI hallucinating in a previous post once or twice (see \"Selected readings\"), so it's good to have a […]",
+          "link": "https://languagelog.ldc.upenn.edu/nll/?p=58450&utm_source=rss&utm_medium=rss&utm_campaign=an-example-of-chatgpt-hallucinating",
+          "publishedOn": "2023-04-16T11:20:33.000Z",
+          "wordCount": 2694,
+          "title": "An example of ChatGPT \"hallucinating\"?",
+          "imageUrl": null
+        },
         {
           "id": "https://languagelog.ldc.upenn.edu/nll/?p=58446",
           "author": "Mark Liberman",

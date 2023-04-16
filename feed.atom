@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-04-16T11:11:46.481Z</updated>
+    <updated>2023-04-16T12:27:42.106Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The hand of GOD GPT]]></title>
+        <id>https://languagelog.ldc.upenn.edu/nll/?p=58457</id>
+        <link href="https://languagelog.ldc.upenn.edu/nll/?p=58457&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=the-hand-of-god-gpt"/>
+        <updated>2023-04-16T12:25:38.000Z</updated>
+        <summary type="html"><![CDATA[A VentureBeat story by Michael Kerner, "Cohere expands enterprise LLM efforts with LivePerson partnership" (4/11/2023), leads with this image: …memetically referencing a widely-reproduced detail from Michelangelo's Sistine Chapel fresco Creazione di Adamo: Is this taking current AI hype a step too far, portraying cohere.ai's latest Large Language Model as the creator? Or is it a […]]]></summary>
+        <author>
+            <name>Mark Liberman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[An example of ChatGPT "hallucinating"?]]></title>
+        <id>https://languagelog.ldc.upenn.edu/nll/?p=58450</id>
+        <link href="https://languagelog.ldc.upenn.edu/nll/?p=58450&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=an-example-of-chatgpt-hallucinating"/>
+        <updated>2023-04-16T11:20:33.000Z</updated>
+        <summary type="html"><![CDATA[Definition In artificial intelligence (AI), a hallucination or artificial hallucination (also occasionally called delusion) is a confident response by an AI that does not seem to be justified by its training data. (source) I had mentioned such AI hallucinating in a previous post once or twice (see "Selected readings"), so it's good to have a […]]]></summary>
+        <author>
+            <name>Victor Mair</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[instantanea di Venezia² [jatp]]]></title>
         <id>http://xianblog.wordpress.com/?p=52725</id>
@@ -2498,16 +2518,6 @@ I]]></summary>
         <summary type="html"><![CDATA[Louis Hamaide, Theo Torres]]></summary>
         <author>
             <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[kuva Lapista⁴]]></title>
-        <id>http://xianblog.wordpress.com/?p=52604</id>
-        <link href="https://xianblog.wordpress.com/2023/03/18/kuva-lapista%e2%81%b4/"/>
-        <updated>2023-03-17T23:23:15.000Z</updated>
-        <summary type="html"><![CDATA[Visit the post for more.]]></summary>
-        <author>
-            <name>xi'an</name>
         </author>
     </entry>
 </feed>
