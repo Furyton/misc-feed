@@ -6,6 +6,56 @@
       "siteUrl": "https://www.arxivist.com",
       "articles": [
         {
+          "id": "http://arxiv.org/abs/2211.09781",
+          "author": null,
+          "description": "Jean Feng, Alexej Gossmann, Gene Pennello, Nicholas Petrick, Berkman\n  Sahiner, Romain Pirracchio",
+          "link": "http://arxiv.org/abs/2211.09781",
+          "publishedOn": "2023-04-17T07:14:30.447Z",
+          "wordCount": 782,
+          "title": "Monitoring machine learning (ML)-based risk prediction algorithms in the\n  presence of confounding medical interventions",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2301.00736",
+          "author": null,
+          "description": "Imma Valentina Curato, Orkun Furat, Bennet Stroeh",
+          "link": "http://arxiv.org/abs/2301.00736",
+          "publishedOn": "2023-04-17T07:14:30.438Z",
+          "wordCount": 643,
+          "title": "Mixed moving average field guided learning for spatio-temporal data",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2304.06767",
+          "author": null,
+          "description": "Hanze Dong, Wei Xiong, Deepanshu Goyal, Rui Pan, Shizhe Diao, Jipeng\n  Zhang, Kashun Shum, Tong Zhang",
+          "link": "http://arxiv.org/abs/2304.06767",
+          "publishedOn": "2023-04-17T07:14:29.414Z",
+          "wordCount": 740,
+          "title": "RAFT: Reward rAnked FineTuning for Generative Foundation Model Alignment",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2109.09304",
+          "author": null,
+          "description": "Zhichao Wang, Yizhe Zhu",
+          "link": "http://arxiv.org/abs/2109.09304",
+          "publishedOn": "2023-04-17T07:14:29.106Z",
+          "wordCount": 765,
+          "title": "Deformed semicircle law and concentration of nonlinear random matrices\n  for ultra-wide neural networks",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2208.11080",
+          "author": null,
+          "description": "Mateusz Krzyzi\\'nski, Miko{\\l}aj Spytek, Hubert Baniecki,\n  Przemys{\\l}aw Biecek",
+          "link": "http://arxiv.org/abs/2208.11080",
+          "publishedOn": "2023-04-17T07:14:29.081Z",
+          "wordCount": 689,
+          "title": "SurvSHAP(t): Time-dependent explanations of machine learning survival\n  models",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
           "id": "http://arxiv.org/abs/2208.05100",
           "author": null,
           "description": "Li Liu, Xiangeng Fang, Di Wang, Weijing Tang, Kevin He",
