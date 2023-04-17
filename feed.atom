@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-04-17T11:13:16.730Z</updated>
+    <updated>2023-04-17T12:31:04.016Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The perils of AI (Artificial Intelligence) in the PRC]]></title>
+        <id>https://languagelog.ldc.upenn.edu/nll/?p=58453</id>
+        <link href="https://languagelog.ldc.upenn.edu/nll/?p=58453&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=the-perils-of-ai-artificial-intelligence-in-the-prc"/>
+        <updated>2023-04-17T11:49:28.000Z</updated>
+        <summary type="html"><![CDATA[Here at Language Log, for the last couple months, we've been having long, intense discussions about ChatGPT and other AI chatbots and LLM (Large Language Model) applications.  Now, it seems that the battle over such AI programs has reached the level of ideological warfare. "America, China and a Crisis of Trust" Opinion | The New […]]]></summary>
+        <author>
+            <name>Victor Mair</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Machine Learning-Based Multi-Objective Design Exploration Of Flexible
   Disc Elements]]></title>
@@ -2599,16 +2609,6 @@ I]]></summary>
         <summary type="html"><![CDATA[Most people care about their typefaces Appearances matter, especially whether fonts have serifs or not. "Font Wars Spread After State Department Replaces Times New Roman with Calibri "'I'm banging my head against the wall;' camps divided in fallout from government efforts to make documents easier to read" By Katie Deighton, WSJ (3/14/23) One wonders whether […]]]></summary>
         <author>
             <name>Victor Mair</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[optimal scaling for proximal MALA [All about that Bayes seminar, 21/03, Palaiseau]]]></title>
-        <id>http://xianblog.wordpress.com/?p=52571</id>
-        <link href="https://xianblog.wordpress.com/2023/03/19/optimal-scaling-for-proximal-mala-21-03/"/>
-        <updated>2023-03-18T23:23:18.000Z</updated>
-        <summary type="html"><![CDATA[An All about that Bayes seminar next Tuesday, at 2pm, at AgroParisTech, Francesca Crucinio (formerly Warwick and now ENSAE): We consider a recently proposed class of MCMC methods which uses proximity maps instead of gradients to build proposal mechanisms which can be employed for both differentiable and non-differentiable targets. These methods have been shown to […]]]></summary>
-        <author>
-            <name>xi'an</name>
         </author>
     </entry>
 </feed>
