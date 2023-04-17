@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-04-16T23:14:23.243Z</updated>
+    <updated>2023-04-17T01:15:11.478Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -2518,16 +2518,6 @@ I]]></summary>
         <summary type="html"><![CDATA[An All about that Bayes seminar next Tuesday, at 2pm, at AgroParisTech, Francesca Crucinio (formerly Warwick and now ENSAE): We consider a recently proposed class of MCMC methods which uses proximity maps instead of gradients to build proposal mechanisms which can be employed for both differentiable and non-differentiable targets. These methods have been shown to […]]]></summary>
         <author>
             <name>xi'an</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["Subscribe to Open"]]></title>
-        <id>https://languagelog.ldc.upenn.edu/nll/?p=58232</id>
-        <link href="https://languagelog.ldc.upenn.edu/nll/?p=58232&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=subscribe-to-open"/>
-        <updated>2023-03-18T12:02:34.000Z</updated>
-        <summary type="html"><![CDATA[As the S2O website explains, “Subscribe to Open” (S2O) is a pragmatic approach for converting subscription journals to open access—free and immediate online availability of research—without reliance on either article processing charges (APCs) or altruism. […] S2O allows publishers to convert journals from subscriptions to OA, one year at a time. Using S2O, a publisher […]]]></summary>
-        <author>
-            <name>Mark Liberman</name>
         </author>
     </entry>
 </feed>
