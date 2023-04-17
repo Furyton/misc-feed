@@ -6,6 +6,16 @@
       "siteUrl": "https://www.arxivist.com",
       "articles": [
         {
+          "id": "http://arxiv.org/abs/2304.07245",
+          "author": null,
+          "description": "Gehendra Sharma, Sungkwang Mun, Nayeon Lee, Luke Peterson, Daniela\n  Tellkamp, Anand Balu Nellippallil",
+          "link": "http://arxiv.org/abs/2304.07245",
+          "publishedOn": "2023-04-17T09:15:55.375Z",
+          "wordCount": 666,
+          "title": "Machine Learning-Based Multi-Objective Design Exploration Of Flexible\n  Disc Elements",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
           "id": "http://arxiv.org/abs/2209.01092",
           "author": null,
           "description": "Pablo G. Morato, Charalampos P. Andriotis, Konstantinos G.\n  Papakonstantinou, Philippe Rigo",
@@ -1150,6 +1160,16 @@
       "feedUrl": "https://kexue.fm/feed/",
       "siteUrl": "https://kexue.fm/",
       "articles": [
+        {
+          "id": "https://kexue.fm/archives/9590",
+          "author": "苏剑林",
+          "description": "随着ChatGPT及其平替的火热，各种参数高效（Parameter-Efficient）的微调方法也“水涨船高”，其中最流行的方案之一就是本文的主角LoRA了，它出自论文《LoRA: Low-R...",
+          "link": "https://kexue.fm/archives/9590",
+          "publishedOn": "2023-04-17T08:46:00.000Z",
+          "wordCount": 1632,
+          "title": "梯度视角下的LoRA：简介、分析、猜测及推广",
+          "imageUrl": null
+        },
         {
           "id": "https://kexue.fm/archives/9588",
           "author": "苏剑林",
