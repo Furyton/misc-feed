@@ -1486,6 +1486,16 @@
       "siteUrl": "https://pytorch.org/",
       "articles": [
         {
+          "id": "https://pytorch.org/blog/experience-power-pytorch-2.0/",
+          "author": null,
+          "description": "PyTorch 2.0 represents a significant step forward for the PyTorch machine learning framework. The stable release of PyTorch 2.0 brings new features that unlock even higher performance, while remaining backward compatible with prior releases and retaining the Pythonic focus which has helped to make PyTorch so enthusiastically adopted by the AI/ML community. AMD has long been a strong proponent of PyTorch, and we are delighted that the PyTorch 2.0 stable release includes support for AMD Instinct™ and Radeon™ GPUs that are supported by the ROCm™ software platform.",
+          "link": "https://pytorch.org/blog/experience-power-pytorch-2.0/",
+          "publishedOn": "2023-04-15T07:00:00.000Z",
+          "wordCount": 1431,
+          "title": "Experience the power of PyTorch 2.0 on AMD Solutions",
+          "imageUrl": "https://pytorch.org/assets/images/pytorch-logo.png"
+        },
+        {
           "id": "https://pytorch.org/blog/accelerated-generative-diffusion-models/",
           "author": null,
           "description": "TL;DR: PyTorch 2.0 nightly offers out-of-the-box performance improvement for Generative Diffusion models by using the new torch.compile() compiler and optimized implementations of Multihead Attention integrated with PyTorch 2.",
@@ -1656,6 +1666,16 @@
       "feedUrl": "https://xianblog.wordpress.com/feed/",
       "siteUrl": "https://xianblog.wordpress.com",
       "articles": [
+        {
+          "id": "http://xianblog.wordpress.com/?p=52746",
+          "author": "xi'an",
+          "description": "I very recently read a  2021 paper by Mijung Park, Margarita Vinaroz, and Wittawat Jitkrittum on running ABC while ensuring data privacy (published in Entropy). “…adding noise to the distance computed on the real observations and pseudo-data suffices the privacy guarantee of the resulting  posterior samples” For ABC tolerance, they use maximum mean discrepancy (MMD) […]",
+          "link": "https://xianblog.wordpress.com/2023/04/18/abc-with-privacy/",
+          "publishedOn": "2023-04-17T22:23:10.000Z",
+          "wordCount": 1988,
+          "title": "ABC with privacy",
+          "imageUrl": "https://xianblog.files.wordpress.com/2023/04/temp-1.png"
+        },
         {
           "id": "http://xianblog.wordpress.com/?p=52818",
           "author": "xi'an",
@@ -2684,16 +2704,6 @@
           "publishedOn": "2023-03-20T02:10:45.000Z",
           "wordCount": 2081,
           "title": "No depth-charge channel is too noisy to be confused by",
-          "imageUrl": null
-        },
-        {
-          "id": "https://languagelog.ldc.upenn.edu/nll/?p=58227",
-          "author": "Victor Mair",
-          "description": "Most people care about their typefaces Appearances matter, especially whether fonts have serifs or not. \"Font Wars Spread After State Department Replaces Times New Roman with Calibri \"'I'm banging my head against the wall;' camps divided in fallout from government efforts to make documents easier to read\" By Katie Deighton, WSJ (3/14/23) One wonders whether […]",
-          "link": "https://languagelog.ldc.upenn.edu/nll/?p=58227&utm_source=rss&utm_medium=rss&utm_campaign=serif-or-sans-serif",
-          "publishedOn": "2023-03-19T10:39:31.000Z",
-          "wordCount": 2777,
-          "title": "Serif or sans serif?",
           "imageUrl": null
         }
       ]

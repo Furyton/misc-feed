@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-04-17T22:14:22.026Z</updated>
+    <updated>2023-04-17T23:15:11.252Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ABC with privacy]]></title>
+        <id>http://xianblog.wordpress.com/?p=52746</id>
+        <link href="https://xianblog.wordpress.com/2023/04/18/abc-with-privacy/"/>
+        <updated>2023-04-17T22:23:10.000Z</updated>
+        <summary type="html"><![CDATA[I very recently read a  2021 paper by Mijung Park, Margarita Vinaroz, and Wittawat Jitkrittum on running ABC while ensuring data privacy (published in Entropy). “…adding noise to the distance computed on the real observations and pseudo-data suffices the privacy guarantee of the resulting  posterior samples” For ABC tolerance, they use maximum mean discrepancy (MMD) […]]]></summary>
+        <author>
+            <name>xi'an</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The perils of AI (Artificial Intelligence) in the PRC]]></title>
         <id>https://languagelog.ldc.upenn.edu/nll/?p=58453</id>
@@ -185,6 +195,16 @@
         <summary type="html"><![CDATA[From Phillip Remaker: Loved your deep dive on finding the provenance of the "conspiracy theory" image. The one that claimed authorship clipped the edge of the unicorn tail.   The only version I have found that doesn't clip the edge of the unicorn tail is this one from farhan   I don't know if that means […]]]></summary>
         <author>
             <name>Victor Mair</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Experience the power of PyTorch 2.0 on AMD Solutions]]></title>
+        <id>https://pytorch.org/blog/experience-power-pytorch-2.0/</id>
+        <link href="https://pytorch.org/blog/experience-power-pytorch-2.0/"/>
+        <updated>2023-04-15T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[PyTorch 2.0 represents a significant step forward for the PyTorch machine learning framework. The stable release of PyTorch 2.0 brings new features that unlock even higher performance, while remaining backward compatible with prior releases and retaining the Pythonic focus which has helped to make PyTorch so enthusiastically adopted by the AI/ML community. AMD has long been a strong proponent of PyTorch, and we are delighted that the PyTorch 2.0 stable release includes support for AMD Instinct™ and Radeon™ GPUs that are supported by the ROCm™ software platform.]]></summary>
+        <author>
+            <name>PyTorch Website</name>
         </author>
     </entry>
     <entry>
@@ -2599,16 +2619,6 @@ I]]></summary>
         <summary type="html"><![CDATA[The main BayesComp meeting started right after the ABC workshop and went on at a grueling pace, and offered a constant conundrum as to which of the four sessions to attend, the more when trying to enjoy some outdoor activity during the lunch breaks. My overall feeling is that it went on too fast, too […]]]></summary>
         <author>
             <name>xi'an</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Serif or sans serif?]]></title>
-        <id>https://languagelog.ldc.upenn.edu/nll/?p=58227</id>
-        <link href="https://languagelog.ldc.upenn.edu/nll/?p=58227&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=serif-or-sans-serif"/>
-        <updated>2023-03-19T10:39:31.000Z</updated>
-        <summary type="html"><![CDATA[Most people care about their typefaces Appearances matter, especially whether fonts have serifs or not. "Font Wars Spread After State Department Replaces Times New Roman with Calibri "'I'm banging my head against the wall;' camps divided in fallout from government efforts to make documents easier to read" By Katie Deighton, WSJ (3/14/23) One wonders whether […]]]></summary>
-        <author>
-            <name>Victor Mair</name>
         </author>
     </entry>
 </feed>
