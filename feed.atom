@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-04-18T19:12:26.913Z</updated>
+    <updated>2023-04-18T20:16:43.630Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -2620,49 +2620,6 @@ I]]></summary>
         <summary type="html"><![CDATA[内容来源：ChatGPT 及大模型专题研讨会  分享嘉宾：达观数据董事长兼CEO 陈运文博士 分享主 […]]]></summary>
         <author>
             <name>达观数据</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Multivariate Probabilistic CRPS Learning with an Application to
-  Day-Ahead Electricity Prices]]></title>
-        <id>http://arxiv.org/abs/2303.10019</id>
-        <link href="http://arxiv.org/abs/2303.10019"/>
-        <updated>2023-03-20T07:15:53.287Z</updated>
-        <summary type="html"><![CDATA[Jonathan Berrisch, Florian Ziel]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Breaking the Sample Size Barrier in Model-Based Reinforcement Learning
-  with a Generative Model]]></title>
-        <id>http://arxiv.org/abs/2005.12900</id>
-        <link href="http://arxiv.org/abs/2005.12900"/>
-        <updated>2023-03-20T07:15:53.282Z</updated>
-        <summary type="html"><![CDATA[Gen Li, Yuting Wei, Yuejie Chi, Yuxin Chen]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Unsupervised domain adaptation by learning using privileged information]]></title>
-        <id>http://arxiv.org/abs/2303.09350</id>
-        <link href="http://arxiv.org/abs/2303.09350"/>
-        <updated>2023-03-20T07:15:53.276Z</updated>
-        <summary type="html"><![CDATA[Adam Breitholtz, Anton Matsson, Fredrik D. Johansson]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Non-Asymptotic Framework for Approximate Message Passing in Spiked
-  Models]]></title>
-        <id>http://arxiv.org/abs/2208.03313</id>
-        <link href="http://arxiv.org/abs/2208.03313"/>
-        <updated>2023-03-20T07:15:53.271Z</updated>
-        <summary type="html"><![CDATA[Gen Li, Yuting Wei]]></summary>
-        <author>
-            <name>arxivist feed</name>
         </author>
     </entry>
 </feed>
