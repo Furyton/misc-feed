@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-04-18T20:16:43.630Z</updated>
+    <updated>2023-04-18T21:13:54.254Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Differentially private heatmaps]]></title>
+        <id>http://ai.googleblog.com/2023/04/differentially-private-heatmaps.html</id>
+        <link href="http://ai.googleblog.com/2023/04/differentially-private-heatmaps.html"/>
+        <updated>2023-04-18T20:19:00.000Z</updated>
+        <summary type="html"><![CDATA[Posted by Badih Ghazi, Staff Research Scientist, and Nachiappan Valliappan, Staff Software Engineer, Google Research
+
+
+
+
+
+
+Recently, differential privacy (DP) has emerged as a mathematically robust notion of user privacy for data aggregation and machine learning (ML), with practical deployments including the 2022 US Census and in industry. Over the last few years, we have open-sourced libraries for privacy-preserving analytics and ML and have been constantly enhancing their capabilities. Meanwhile, new algorithms have been developed by the research community for several analytic tasks involving private aggregation of data. 
+ 
+
+One such important data aggregation method is the heatmap. Heatmaps are popular for visualizing aggregated data in two or more dimensions. They are widely used in ma…]]></summary>
+        <author>
+            <name>Google AI Blog</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Good bad]]></title>
         <id>https://languagelog.ldc.upenn.edu/nll/?p=58488</id>
