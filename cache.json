@@ -6,6 +6,56 @@
       "siteUrl": "https://www.arxivist.com",
       "articles": [
         {
+          "id": "http://arxiv.org/abs/2002.01368",
+          "author": null,
+          "description": "Emile R. Engelbrecht, Johan A. du Preez",
+          "link": "http://arxiv.org/abs/2002.01368",
+          "publishedOn": "2023-04-18T07:14:03.275Z",
+          "wordCount": 709,
+          "title": "Open-set learning with augmented category by exploiting unlabeled data\n  (Open-LACU)",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2004.07200",
+          "author": null,
+          "description": "Tianshi Cao, Jingkang Wang, Yining Zhang, Sivabalan Manivasagam",
+          "link": "http://arxiv.org/abs/2004.07200",
+          "publishedOn": "2023-04-18T07:14:03.263Z",
+          "wordCount": 723,
+          "title": "Zero-Shot Compositional Policy Learning via Language Grounding",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2208.03567",
+          "author": null,
+          "description": "Congyu Fang, Hengrui Jia, Anvith Thudi, Mohammad Yaghini, Christopher\n  A. Choquette-Choo, Natalie Dullerud, Varun Chandrasekaran, Nicolas Papernot",
+          "link": "http://arxiv.org/abs/2208.03567",
+          "publishedOn": "2023-04-18T07:14:03.258Z",
+          "wordCount": 758,
+          "title": "Proof-of-Learning is Currently More Broken Than You Think",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2304.07689",
+          "author": null,
+          "description": "Zhiyuan Li, Ziru Liu, Anna Zou, Anca L. Ralescu",
+          "link": "http://arxiv.org/abs/2304.07689",
+          "publishedOn": "2023-04-18T07:14:03.253Z",
+          "wordCount": 653,
+          "title": "Learning Empirical Bregman Divergence for Uncertain Distance\n  Representation",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2105.14559",
+          "author": null,
+          "description": "Jae Oh Woo",
+          "link": "http://arxiv.org/abs/2105.14559",
+          "publishedOn": "2023-04-18T07:14:03.248Z",
+          "wordCount": 774,
+          "title": "Active Learning in Bayesian Neural Networks with Balanced Entropy\n  Learning Principle",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
           "id": "http://arxiv.org/abs/2304.07245",
           "author": null,
           "description": "Gehendra Sharma, Sungkwang Mun, Nayeon Lee, Luke Peterson, Daniela\n  Tellkamp, Anand Balu Nellippallil",
