@@ -1054,56 +1054,6 @@
           "wordCount": 710,
           "title": "DIPPM: a Deep Learning Inference Performance Predictive Model using\n  Graph Neural Networks",
           "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
-        },
-        {
-          "id": "http://arxiv.org/abs/2303.10761",
-          "author": null,
-          "description": "Ruslan Vasilev, Alexander D'yakonov",
-          "link": "http://arxiv.org/abs/2303.10761",
-          "publishedOn": "2023-03-21T07:14:24.812Z",
-          "wordCount": 587,
-          "title": "Calibration of Neural Networks",
-          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
-        },
-        {
-          "id": "http://arxiv.org/abs/2102.06548",
-          "author": null,
-          "description": "Gen Li, Changxiao Cai, Yuxin Chen, Yuting Wei, Yuejie Chi",
-          "link": "http://arxiv.org/abs/2102.06548",
-          "publishedOn": "2023-03-21T07:14:24.806Z",
-          "wordCount": 772,
-          "title": "Is Q-Learning Minimax Optimal? A Tight Sample Complexity Analysis",
-          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
-        },
-        {
-          "id": "http://arxiv.org/abs/2302.07419",
-          "author": null,
-          "description": "Hajime Yoshino",
-          "link": "http://arxiv.org/abs/2302.07419",
-          "publishedOn": "2023-03-21T07:14:24.799Z",
-          "wordCount": 813,
-          "title": "Spatially heterogeneous learning by a deep student machine",
-          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
-        },
-        {
-          "id": "http://arxiv.org/abs/2205.11765",
-          "author": null,
-          "description": "Banghua Zhu, Lun Wang, Qi Pang, Shuai Wang, Jiantao Jiao, Dawn Song,\n  Michael I. Jordan",
-          "link": "http://arxiv.org/abs/2205.11765",
-          "publishedOn": "2023-03-21T07:14:24.793Z",
-          "wordCount": 625,
-          "title": "Byzantine-Robust Federated Learning with Optimal Statistical Rates and\n  Privacy Guarantees",
-          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
-        },
-        {
-          "id": "http://arxiv.org/abs/2303.11060",
-          "author": null,
-          "description": "Xavier Warin",
-          "link": "http://arxiv.org/abs/2303.11060",
-          "publishedOn": "2023-03-21T07:14:24.768Z",
-          "wordCount": 554,
-          "title": "Quantile and moment neural networks for learning functionals of\n  distributions",
-          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
         }
       ]
     },
@@ -2057,6 +2007,16 @@
       "feedUrl": "http://feeds.feedburner.com/blogspot/gJZg",
       "siteUrl": "http://ai.googleblog.com/",
       "articles": [
+        {
+          "id": "http://ai.googleblog.com/2023/04/responsible-ai-at-google-research.html",
+          "author": null,
+          "description": "Posted by Lauren Wilcox, Senior Staff Research Scientist, on behalf of the Technology, AI, Society and Culture Team\n\n\n\n\nGoogle sees AI as a foundational and transformational technology, with recent advances in generative AI technologies, such as LaMDA, PaLM, Imagen, Parti, MusicLM, and similar machine learning (ML) models, some of which are now being incorporated into our products. This transformative potential requires us to be responsible not only in how we advance our technology, but also in how we envision which technologies to build, and how we assess the social impact AI and ML-enabled technologies have on the world. This endeavor necessitates fundamental and applied research with an interdisciplinary lens that engages with — and accounts for — the social, cultural, economic, and oth…",
+          "link": "http://ai.googleblog.com/2023/04/responsible-ai-at-google-research.html",
+          "publishedOn": "2023-04-19T18:12:00.001Z",
+          "wordCount": 27485,
+          "title": "Responsible AI at Google Research: Technology, AI, Society and Culture",
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjojA8Eq3h0gUbJQ6ttpMVcy6mzFucxjbGvEpKL2jnxLoQaAqSYYTwrw4q6GLtCGOeNlThZw4-uj9oQjmYlJyb_vNgEWHoE1jUfHP-bUslCjN6eeJGZvMcfQkaZf-E4RRg06yhmC0giabaqlRupcYOmWi46uZC3VnLmpX1ZQn3C_wtw8gp8zVubx_o0dw/w1200-h630-p-k-no-nu/TASC-Hero.jpg"
+        },
         {
           "id": "http://ai.googleblog.com/2023/04/differentially-private-heatmaps.html",
           "author": null,

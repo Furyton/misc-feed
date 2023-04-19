@@ -2,10 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-04-19T19:12:13.957Z</updated>
+    <updated>2023-04-19T20:16:38.928Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Responsible AI at Google Research: Technology, AI, Society and Culture]]></title>
+        <id>http://ai.googleblog.com/2023/04/responsible-ai-at-google-research.html</id>
+        <link href="http://ai.googleblog.com/2023/04/responsible-ai-at-google-research.html"/>
+        <updated>2023-04-19T18:12:00.001Z</updated>
+        <summary type="html"><![CDATA[Posted by Lauren Wilcox, Senior Staff Research Scientist, on behalf of the Technology, AI, Society and Culture Team
+
+
+
+
+Google sees AI as a foundational and transformational technology, with recent advances in generative AI technologies, such as LaMDA, PaLM, Imagen, Parti, MusicLM, and similar machine learning (ML) models, some of which are now being incorporated into our products. This transformative potential requires us to be responsible not only in how we advance our technology, but also in how we envision which technologies to build, and how we assess the social impact AI and ML-enabled technologies have on the world. This endeavor necessitates fundamental and applied research with an interdisciplinary lens that engages with — and accounts for — the social, cultural, economic, and oth…]]></summary>
+        <author>
+            <name>Google AI Blog</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The verbal and visual in traditional prosimetric literature]]></title>
         <id>https://languagelog.ldc.upenn.edu/nll/?p=58483</id>
@@ -2621,59 +2636,6 @@ I]]></summary>
         <summary type="html"><![CDATA[Responding to "Transcriptional Chinese animal imagery for English daily greetings" (3/13/23), Mary Erbaugh, using Yale Cantonese romanization, writes: ———— I've never seen it done with animal names, though probably easier to remember, amusing. I'm used to the English word pronunciations in old fashioned HK (& Taiwan) almanacs, like the Bou Lòh Maahn Yauh (Cant.) / […]]]></summary>
         <author>
             <name>Victor Mair</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Calibration of Neural Networks]]></title>
-        <id>http://arxiv.org/abs/2303.10761</id>
-        <link href="http://arxiv.org/abs/2303.10761"/>
-        <updated>2023-03-21T07:14:24.812Z</updated>
-        <summary type="html"><![CDATA[Ruslan Vasilev, Alexander D'yakonov]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Is Q-Learning Minimax Optimal? A Tight Sample Complexity Analysis]]></title>
-        <id>http://arxiv.org/abs/2102.06548</id>
-        <link href="http://arxiv.org/abs/2102.06548"/>
-        <updated>2023-03-21T07:14:24.806Z</updated>
-        <summary type="html"><![CDATA[Gen Li, Changxiao Cai, Yuxin Chen, Yuting Wei, Yuejie Chi]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Spatially heterogeneous learning by a deep student machine]]></title>
-        <id>http://arxiv.org/abs/2302.07419</id>
-        <link href="http://arxiv.org/abs/2302.07419"/>
-        <updated>2023-03-21T07:14:24.799Z</updated>
-        <summary type="html"><![CDATA[Hajime Yoshino]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Byzantine-Robust Federated Learning with Optimal Statistical Rates and
-  Privacy Guarantees]]></title>
-        <id>http://arxiv.org/abs/2205.11765</id>
-        <link href="http://arxiv.org/abs/2205.11765"/>
-        <updated>2023-03-21T07:14:24.793Z</updated>
-        <summary type="html"><![CDATA[Banghua Zhu, Lun Wang, Qi Pang, Shuai Wang, Jiantao Jiao, Dawn Song,
-  Michael I. Jordan]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Quantile and moment neural networks for learning functionals of
-  distributions]]></title>
-        <id>http://arxiv.org/abs/2303.11060</id>
-        <link href="http://arxiv.org/abs/2303.11060"/>
-        <updated>2023-03-21T07:14:24.768Z</updated>
-        <summary type="html"><![CDATA[Xavier Warin]]></summary>
-        <author>
-            <name>arxivist feed</name>
         </author>
     </entry>
 </feed>
