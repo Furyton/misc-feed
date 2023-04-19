@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-04-19T11:13:17.557Z</updated>
+    <updated>2023-04-19T12:29:52.276Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -2654,26 +2654,6 @@ I]]></summary>
         <summary type="html"><![CDATA[Xavier Warin]]></summary>
         <author>
             <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Donoho: 数据科学50年]]></title>
-        <id>https://cosx.org/2023/03/50-years-of-data-science-cn/</id>
-        <link href="https://cosx.org/2023/03/50-years-of-data-science-cn/"/>
-        <updated>2023-03-21T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[统计之都编辑部按：本文译自 Donoho (2017): 50 Years of Data Science，发表在 Journal of Computational and Graphical Statistics 杂志。在正式发表前数年，其初版就广为流传，引发了学术界深入、持续的讨]]></summary>
-        <author>
-            <name>统计之都</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JAGS Workshop [10-14 July 2023]]]></title>
-        <id>http://xianblog.wordpress.com/?p=52500</id>
-        <link href="https://xianblog.wordpress.com/2023/03/21/jags-workshop-10-14-july-2023/"/>
-        <updated>2023-03-20T23:23:44.000Z</updated>
-        <summary type="html"><![CDATA[Hey, JAGS users and would-be users, be warned that registration is now open for the annual JAGS workshop on probabilistic modelling for cognitive science. The tenth instalment of this workshop takes place July 10–14, 2023 in Amsterdam and online. This workshop is meant for researchers who want to learn how to apply Bayesian inference in […]]]></summary>
-        <author>
-            <name>xi'an</name>
         </author>
     </entry>
 </feed>
