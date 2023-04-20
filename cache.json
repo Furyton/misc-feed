@@ -6,6 +6,56 @@
       "siteUrl": "https://www.arxivist.com",
       "articles": [
         {
+          "id": "http://arxiv.org/abs/2304.09278",
+          "author": null,
+          "description": "Hamed Khosravi, Taofeeq Olajire, Ahmed Shoyeb Raihan, Imtiaz Ahmed",
+          "link": "http://arxiv.org/abs/2304.09278",
+          "publishedOn": "2023-04-20T07:14:16.082Z",
+          "wordCount": 767,
+          "title": "A Data Driven Sequential Learning Framework to Accelerate and Optimize\n  Multi-Objective Manufacturing Decisions",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2304.09802",
+          "author": null,
+          "description": "Avner Shultzman, Eyar Azar, Miguel R. D. Rodrigues, Yonina C. Eldar",
+          "link": "http://arxiv.org/abs/2304.09802",
+          "publishedOn": "2023-04-20T07:14:16.060Z",
+          "wordCount": 669,
+          "title": "Generalization and Estimation Error Bounds for Model-based Neural\n  Networks",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2211.14578",
+          "author": null,
+          "description": "Jiayu Huang, Mingqiu Wang, Yuanshan Wu",
+          "link": "http://arxiv.org/abs/2211.14578",
+          "publishedOn": "2023-04-20T07:14:15.185Z",
+          "wordCount": 685,
+          "title": "Statistical inference for transfer learning with high-dimensional\n  quantile regression",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2304.09424",
+          "author": null,
+          "description": "Jaros{\\l}aw B{\\l}asiok, Parikshit Gopalan, Lunjia Hu, Adam Tauman\n  Kalai, Preetum Nakkiran",
+          "link": "http://arxiv.org/abs/2304.09424",
+          "publishedOn": "2023-04-20T07:14:15.174Z",
+          "wordCount": 622,
+          "title": "Loss minimization yields multicalibration for large neural networks",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2304.09221",
+          "author": null,
+          "description": "Jing An, Jianfeng Lu",
+          "link": "http://arxiv.org/abs/2304.09221",
+          "publishedOn": "2023-04-20T07:14:15.163Z",
+          "wordCount": 656,
+          "title": "Convergence of stochastic gradient descent under a local Lajasiewicz\n  condition for deep neural networks",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
           "id": "http://arxiv.org/abs/1907.02677",
           "author": null,
           "description": "Jos\\'e Camacho, Katarzyna Wasielewska, Rasmus Bro, David Kotz",
