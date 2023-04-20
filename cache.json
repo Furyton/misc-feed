@@ -1999,6 +1999,16 @@
       "siteUrl": "http://ai.googleblog.com/",
       "articles": [
         {
+          "id": "http://ai.googleblog.com/2023/04/recent-advances-in-deep-long-horizon.html",
+          "author": null,
+          "description": "Posted by Rajat Sen and Abhimanyu Das, Research Scientists, Google Research\n\n\n\n\nTime-series forecasting is an important research area that is critical to several scientific and industrial applications, like retail supply chain optimization, energy and traffic prediction, and weather forecasting. In retail use cases, for example, it has been observed that improving demand forecasting accuracy can meaningfully reduce inventory costs and increase revenue. \n \n\nModern time-series applications can involve forecasting hundreds of thousands of correlated time-series (e.g., demands of different products for a retailer) over long horizons (e.g., a quarter or year away at daily granularity). As such, time-series forecasting models need to satisfy the following key criterias:\n\n\n\nAbility to handle auxi…",
+          "link": "http://ai.googleblog.com/2023/04/recent-advances-in-deep-long-horizon.html",
+          "publishedOn": "2023-04-20T20:26:00.001Z",
+          "wordCount": 27457,
+          "title": "Recent advances in deep long-horizon forecasting",
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjazCNV8O9s-ZwT9g5cBDsMQ_gv2SMf5enK_cMdtOamv-WJGXlB3qzhZme8xVfXhA2xFS0HwaDBlh3d6z3R2FS_qW05ouD2z9jQ5sgIizM4VcE6-i6BSf4MJmin1KmfEhkkrVxfZUj-H2ePsGYjqlnCrMqBtk68uHplGODDSmeu8FABJ_ldthUpR0WF_A/w1200-h630-p-k-no-nu/scalar.png"
+        },
+        {
           "id": "http://ai.googleblog.com/2023/04/responsible-ai-at-google-research.html",
           "author": null,
           "description": "Posted by Lauren Wilcox, Senior Staff Research Scientist, on behalf of the Technology, AI, Society and Culture Team\n\n\n\n\nGoogle sees AI as a foundational and transformational technology, with recent advances in generative AI technologies, such as LaMDA, PaLM, Imagen, Parti, MusicLM, and similar machine learning (ML) models, some of which are now being incorporated into our products. This transformative potential requires us to be responsible not only in how we advance our technology, but also in how we envision which technologies to build, and how we assess the social impact AI and ML-enabled technologies have on the world. This endeavor necessitates fundamental and applied research with an interdisciplinary lens that engages with — and accounts for — the social, cultural, economic, and oth…",
