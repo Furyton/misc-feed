@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-04-20T18:18:32.774Z</updated>
+    <updated>2023-04-20T19:12:42.937Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Domaine La [Nouvelle] France]]></title>
+        <id>http://xianblog.wordpress.com/?p=52440</id>
+        <link href="https://xianblog.wordpress.com/2023/04/20/domaine-la-nouvelle-france/"/>
+        <updated>2023-04-20T18:20:12.000Z</updated>
+        <summary type="html"><![CDATA[Visit the post for more.]]></summary>
+        <author>
+            <name>xi'an</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Shanghainese under attack]]></title>
         <id>https://languagelog.ldc.upenn.edu/nll/?p=58515</id>
@@ -2681,16 +2691,6 @@ I]]></summary>
         <summary type="html"><![CDATA[Karthick Panner Selvam, Mats Brorsson]]></summary>
         <author>
             <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PyTorch 2.0 &amp; XLA—The Latest Cutting Edge Features]]></title>
-        <id>https://pytorch.org/blog/pytorch-2.0-xla/</id>
-        <link href="https://pytorch.org/blog/pytorch-2.0-xla/"/>
-        <updated>2023-03-22T07:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Today, we are excited to share our latest work for PyTorch/XLA 2.0. The release of PyTorch 2.0 is yet another major milestone for this storied community and we are excited to continue to be part of it. When the PyTorch/XLA project started in 2018 between Google and Meta, the focus was on bringing cutting edge Cloud TPUs to help support the PyTorch community. Along the way, others in the community such as Amazon joined the project and very quickly the community expanded. We are excited about XLA’s direction and the benefits this project continues to bring to the PyTorch community. In this blog we’d like to showcase some key features that have been in development, show code snippets, and illustrate the benefit through some benchmarks.]]></summary>
-        <author>
-            <name>PyTorch Website</name>
         </author>
     </entry>
 </feed>

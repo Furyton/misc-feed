@@ -1595,16 +1595,6 @@
           "wordCount": 1698,
           "title": "Accelerated PyTorch 2 Transformers",
           "imageUrl": "https://pytorch.org/assets/images/pytorch-logo.png"
-        },
-        {
-          "id": "https://pytorch.org/blog/pytorch-2.0-xla/",
-          "author": null,
-          "description": "Today, we are excited to share our latest work for PyTorch/XLA 2.0. The release of PyTorch 2.0 is yet another major milestone for this storied community and we are excited to continue to be part of it. When the PyTorch/XLA project started in 2018 between Google and Meta, the focus was on bringing cutting edge Cloud TPUs to help support the PyTorch community. Along the way, others in the community such as Amazon joined the project and very quickly the community expanded. We are excited about XLA’s direction and the benefits this project continues to bring to the PyTorch community. In this blog we’d like to showcase some key features that have been in development, show code snippets, and illustrate the benefit through some benchmarks.",
-          "link": "https://pytorch.org/blog/pytorch-2.0-xla/",
-          "publishedOn": "2023-03-22T07:00:00.000Z",
-          "wordCount": 2069,
-          "title": "PyTorch 2.0 &amp; XLA—The Latest Cutting Edge Features",
-          "imageUrl": "https://pytorch.org/assets/images/pytorch-logo.png"
         }
       ]
     },
@@ -1707,6 +1697,16 @@
       "feedUrl": "https://xianblog.wordpress.com/feed/",
       "siteUrl": "https://xianblog.wordpress.com",
       "articles": [
+        {
+          "id": "http://xianblog.wordpress.com/?p=52440",
+          "author": "xi'an",
+          "description": "Visit the post for more.",
+          "link": "https://xianblog.wordpress.com/2023/04/20/domaine-la-nouvelle-france/",
+          "publishedOn": "2023-04-20T18:20:12.000Z",
+          "wordCount": 1720,
+          "title": "Domaine La [Nouvelle] France",
+          "imageUrl": "https://xianblog.files.wordpress.com/2023/03/1677843360037-e1677843918897.jpg"
+        },
         {
           "id": "http://xianblog.wordpress.com/?p=52832",
           "author": "xi'an",
