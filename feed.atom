@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-04-20T12:29:42.913Z</updated>
+    <updated>2023-04-20T13:19:20.277Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Speech error of the week]]></title>
+        <id>https://languagelog.ldc.upenn.edu/nll/?p=58519</id>
+        <link href="https://languagelog.ldc.upenn.edu/nll/?p=58519&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=speech-error-of-the-week-2"/>
+        <updated>2023-04-20T12:53:37.000Z</updated>
+        <summary type="html"><![CDATA[Rep. Steube (R-Fla.) announces he’s supporting Trump pic.twitter.com/3bL2cBl9z2 — Acyn (@Acyn) April 17, 2023 The context: Your browser does not support the audio element. yeah Rob I wanna thank you for giving me the opportunity to talk about this on your show and I'm happy and honored to endorse Donald J Chump uh for president […]]]></summary>
+        <author>
+            <name>Mark Liberman</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Some recent news and posts from Pinyin.info]]></title>
         <id>https://languagelog.ldc.upenn.edu/nll/?p=58509</id>
@@ -2661,16 +2671,6 @@ I]]></summary>
         <summary type="html"><![CDATA[Today, we are excited to share our latest work for PyTorch/XLA 2.0. The release of PyTorch 2.0 is yet another major milestone for this storied community and we are excited to continue to be part of it. When the PyTorch/XLA project started in 2018 between Google and Meta, the focus was on bringing cutting edge Cloud TPUs to help support the PyTorch community. Along the way, others in the community such as Amazon joined the project and very quickly the community expanded. We are excited about XLA’s direction and the benefits this project continues to bring to the PyTorch community. In this blog we’d like to showcase some key features that have been in development, show code snippets, and illustrate the benefit through some benchmarks.]]></summary>
         <author>
             <name>PyTorch Website</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ChatGPT-4:  threat or boon to the Great Firewall?]]></title>
-        <id>https://languagelog.ldc.upenn.edu/nll/?p=58250</id>
-        <link href="https://languagelog.ldc.upenn.edu/nll/?p=58250&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=chatgpt-4-threat-or-boon-to-the-great-firewall"/>
-        <updated>2023-03-22T00:57:55.000Z</updated>
-        <summary type="html"><![CDATA["The practical value of LLMs is high enough that it will induce Chinese to seek out the best systems, and they will not be censored by China.” "Yes, the Chinese Great Firewall will be collapsing" by  Tyler Cowen Marginal Revolution (March 21, 2023) Something that the PRC censors had not predicted: As framed from China: […]]]></summary>
-        <author>
-            <name>Victor Mair</name>
         </author>
     </entry>
 </feed>
