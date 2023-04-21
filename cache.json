@@ -1331,16 +1331,6 @@
           "wordCount": 1156,
           "title": "Staying secure by breaking Docker caching",
           "imageUrl": "https://pythonspeed.com/assets/titles/disabling-docker-caching.png"
-        },
-        {
-          "id": "https://pythonspeed.com/articles/faster-text-processing/",
-          "author": null,
-          "description": "If you’re doing text or string manipulation in Python, what do you do if your code is too slow?\nAssuming your algorithm is reasonably efficient, the next step is to try faster alternatives to Python: a compiled extension.\nUnfortunately, this is harder than it seems.\nSome options don’t offer an easy path to optimizations, others are actually slower.\nTo see this limitation in action, we’ll consider some alternatives:\nPure Python, with the default Python interpreter.\nCython.\nmypyc.\nRust.\nPure Python, with the PyPy interpreter.\nWe’ll also consider what can be done if these option don’t help.\nRead more...",
-          "link": "https://pythonspeed.com/articles/faster-text-processing/",
-          "publishedOn": "2023-03-23T00:00:00.000Z",
-          "wordCount": 1777,
-          "title": "Speeding up text processing in Python (is hard)",
-          "imageUrl": "https://pythonspeed.com/assets/titles/faster-text-processing.png"
         }
       ]
     },
@@ -1996,16 +1986,6 @@
           "wordCount": 1732,
           "title": "kuva Lapista⁻²³ [jatp]",
           "imageUrl": "https://xianblog.files.wordpress.com/2023/03/levi1833-e1679414180461.jpg"
-        },
-        {
-          "id": "http://xianblog.wordpress.com/?p=52523",
-          "author": "xi'an",
-          "description": "Books I had not read, although some are on my reading list… Novel Legends & Lattes, Travis Baldree [to read] Spear, Nicola Griffith Nettle and Bone, T. Kingfisher [to read] Babel, Or the Necessity of Violence: An Arcane History of the Oxford Translators’ Revolution, R.F. Kuang [to read] Nona the Ninth, Tamsyn Muir [to read] […]",
-          "link": "https://xianblog.wordpress.com/2023/03/23/nominees-for-nebula-2022-reposted/",
-          "publishedOn": "2023-03-22T23:23:47.000Z",
-          "wordCount": 1755,
-          "title": "nominees for Nebula 2022 [reposted]",
-          "imageUrl": "https://secure.gravatar.com/blavatar/c1152fd99c26a547613cfba76091fd4f?s=200&ts=1679533887"
         }
       ]
     },
@@ -2312,6 +2292,16 @@
       "feedUrl": "https://languagelog.ldc.upenn.edu/nll/?feed=rss2",
       "siteUrl": "https://languagelog.ldc.upenn.edu/nll",
       "articles": [
+        {
+          "id": "https://languagelog.ldc.upenn.edu/nll/?p=58531",
+          "author": "Victor Mair",
+          "description": "But almost everybody does it.  You can barely avoid it.  Especially if you're an athlete. \"North Korea sentences 20 young athletes for ‘speaking like South Koreans’\" Skaters and skiers were caught on video using banned words while playing a game during training. Jieun Kim, RFA (4/13/23) The first two paragraphs of the article: About 20 […]",
+          "link": "https://languagelog.ldc.upenn.edu/nll/?p=58531&utm_source=rss&utm_medium=rss&utm_campaign=in-north-korea-its-a-dire-crime-to-speak-like-a-south-korean",
+          "publishedOn": "2023-04-21T12:25:23.000Z",
+          "wordCount": 2434,
+          "title": "In North Korea, it's a dire crime to speak like a South Korean",
+          "imageUrl": null
+        },
         {
           "id": "https://languagelog.ldc.upenn.edu/nll/?p=58515",
           "author": "Victor Mair",
