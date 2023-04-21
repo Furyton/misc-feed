@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-04-21T06:19:52.986Z</updated>
+    <updated>2023-04-21T07:14:24.139Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -14,6 +14,58 @@
         <summary type="html"><![CDATA[In this talk, I'll describe some recent work outlining how distribution shifts are fundamental to working with human-centric data. Some of these shifts come from attempting to "join" datasets gathered in different contexts,  others may be the result of people's preferences affecting which data they provide to which systems, and even more can arise when peoples' preferences themselves are shaped by ML systems' recommendations. Each of these types of shift require different modeling and analysis to more accurately predict the behavior of ML pipelines deployed in a way where they interact repeatedly with people who care about their predictions.]]></summary>
         <author>
             <name>Harvard ML Foundations</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Boundary Graph Neural Networks for 3D Simulations]]></title>
+        <id>http://arxiv.org/abs/2106.11299</id>
+        <link href="http://arxiv.org/abs/2106.11299"/>
+        <updated>2023-04-21T07:14:22.400Z</updated>
+        <summary type="html"><![CDATA[Andreas Mayr, Sebastian Lehner, Arno Mayrhofer, Christoph Kloss, Sepp
+  Hochreiter, Johannes Brandstetter]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Communication-Efficient Adaptive Federated Learning]]></title>
+        <id>http://arxiv.org/abs/2205.02719</id>
+        <link href="http://arxiv.org/abs/2205.02719"/>
+        <updated>2023-04-21T07:14:22.395Z</updated>
+        <summary type="html"><![CDATA[Yujia Wang, Lu Lin, Jinghui Chen]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learning Narrow One-Hidden-Layer ReLU Networks]]></title>
+        <id>http://arxiv.org/abs/2304.10524</id>
+        <link href="http://arxiv.org/abs/2304.10524"/>
+        <updated>2023-04-21T07:14:22.390Z</updated>
+        <summary type="html"><![CDATA[Sitan Chen, Zehao Dou, Surbhi Goel, Adam R Klivans, Raghu Meka]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Deep Learning Approach to Analyzing Continuous-Time Systems]]></title>
+        <id>http://arxiv.org/abs/2209.12128</id>
+        <link href="http://arxiv.org/abs/2209.12128"/>
+        <updated>2023-04-21T07:14:21.826Z</updated>
+        <summary type="html"><![CDATA[Cory Shain, William Schuler]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Manifold Two-Sample Test Study: Integral Probability Metric with
+  Neural Networks]]></title>
+        <id>http://arxiv.org/abs/2205.02043</id>
+        <link href="http://arxiv.org/abs/2205.02043"/>
+        <updated>2023-04-21T07:14:21.821Z</updated>
+        <summary type="html"><![CDATA[Jie Wang, Minshuo Chen, Tuo Zhao, Wenjing Liao, Yao Xie]]></summary>
+        <author>
+            <name>arxivist feed</name>
         </author>
     </entry>
     <entry>

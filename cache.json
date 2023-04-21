@@ -6,6 +6,56 @@
       "siteUrl": "https://www.arxivist.com",
       "articles": [
         {
+          "id": "http://arxiv.org/abs/2106.11299",
+          "author": null,
+          "description": "Andreas Mayr, Sebastian Lehner, Arno Mayrhofer, Christoph Kloss, Sepp\n  Hochreiter, Johannes Brandstetter",
+          "link": "http://arxiv.org/abs/2106.11299",
+          "publishedOn": "2023-04-21T07:14:22.400Z",
+          "wordCount": 764,
+          "title": "Boundary Graph Neural Networks for 3D Simulations",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2205.02719",
+          "author": null,
+          "description": "Yujia Wang, Lu Lin, Jinghui Chen",
+          "link": "http://arxiv.org/abs/2205.02719",
+          "publishedOn": "2023-04-21T07:14:22.395Z",
+          "wordCount": 683,
+          "title": "Communication-Efficient Adaptive Federated Learning",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2304.10524",
+          "author": null,
+          "description": "Sitan Chen, Zehao Dou, Surbhi Goel, Adam R Klivans, Raghu Meka",
+          "link": "http://arxiv.org/abs/2304.10524",
+          "publishedOn": "2023-04-21T07:14:22.390Z",
+          "wordCount": 601,
+          "title": "Learning Narrow One-Hidden-Layer ReLU Networks",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2209.12128",
+          "author": null,
+          "description": "Cory Shain, William Schuler",
+          "link": "http://arxiv.org/abs/2209.12128",
+          "publishedOn": "2023-04-21T07:14:21.826Z",
+          "wordCount": 675,
+          "title": "A Deep Learning Approach to Analyzing Continuous-Time Systems",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2205.02043",
+          "author": null,
+          "description": "Jie Wang, Minshuo Chen, Tuo Zhao, Wenjing Liao, Yao Xie",
+          "link": "http://arxiv.org/abs/2205.02043",
+          "publishedOn": "2023-04-21T07:14:21.821Z",
+          "wordCount": 736,
+          "title": "A Manifold Two-Sample Test Study: Integral Probability Metric with\n  Neural Networks",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
           "id": "http://arxiv.org/abs/2304.09278",
           "author": null,
           "description": "Hamed Khosravi, Taofeeq Olajire, Ahmed Shoyeb Raihan, Imtiaz Ahmed",
