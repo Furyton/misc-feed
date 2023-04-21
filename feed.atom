@@ -2,10 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-04-21T19:12:01.870Z</updated>
+    <updated>2023-04-21T20:15:49.523Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Visual Blocks for ML: Accelerating machine learning prototyping with interactive tools]]></title>
+        <id>http://ai.googleblog.com/2023/04/visual-blocks-for-ml-accelerating.html</id>
+        <link href="http://ai.googleblog.com/2023/04/visual-blocks-for-ml-accelerating.html"/>
+        <updated>2023-04-21T19:01:00.001Z</updated>
+        <summary type="html"><![CDATA[Posted by Ruofei Du, Interactive Perception & Graphics Lead, Google Augmented Reality, and Na Li, Tech Lead Manager, Google CoreML
+
+  
+
+
+Recent deep learning advances have enabled a plethora of high-performance, real-time multimedia applications based on machine learning (ML), such as human body segmentation for video and teleconferencing, depth estimation for 3D reconstruction, hand and body tracking for interaction, and audio processing for remote communication.
+
+
+
+However, developing and iterating on these ML-based multimedia prototypes can be challenging and costly. It usually involves a cross-functional team of ML practitioners who fine-tune the models, evaluate robustness, characterize strengths and weaknesses, inspect performance in the end-use context, and develop the applications.…]]></summary>
+        <author>
+            <name>Google AI Blog</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Jamie Morgenstern - Shifts in Distributions and Preferences in Response to Learning]]></title>
         <id>https://mlfoundations.org/talk/morgenstern/</id>
@@ -2624,61 +2643,6 @@ In “A deep learning model…]]></summary>
 People are excellent navigators of the physical world, due in part to their remarkable ability to build cognitive maps that form the basis of spatial memory — from localizing landmarks at varying ontological levels (like a book on a shelf in the living room) to determining whether a layout permits navigation from point A to point B. Building robots that are proficient at navigation requires an interconnected understanding of (a) vision and natural language (to associate landmarks or follow instructions), and (b) spatial reasoning (to connect a map representing an environment to the true spatial distribution of objects). While there have been many recent advances in training jo…]]></summary>
         <author>
             <name>Google AI Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Scalable Bayesian optimization with high-dimensional outputs using
-  randomized prior networks]]></title>
-        <id>http://arxiv.org/abs/2302.07260</id>
-        <link href="http://arxiv.org/abs/2302.07260"/>
-        <updated>2023-03-23T07:14:03.565Z</updated>
-        <summary type="html"><![CDATA[Mohamed Aziz Bhouri, Michael Joly, Robert Yu, Soumalya Sarkar
- , Paris Perdikaris]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Unbiased Supervised Contrastive Learning]]></title>
-        <id>http://arxiv.org/abs/2211.05568</id>
-        <link href="http://arxiv.org/abs/2211.05568"/>
-        <updated>2023-03-23T07:14:03.543Z</updated>
-        <summary type="html"><![CDATA[Carlo Alberto Barbano, Benoit Dufumier, Enzo Tartaglione, Marco
-  Grangetto, Pietro Gori]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Near-optimal inference in adaptive linear regression]]></title>
-        <id>http://arxiv.org/abs/2107.02266</id>
-        <link href="http://arxiv.org/abs/2107.02266"/>
-        <updated>2023-03-23T07:14:03.530Z</updated>
-        <summary type="html"><![CDATA[Koulik Khamaru, Yash Deshpande, Tor Lattimore, Lester Mackey, Martin
-  J. Wainwright]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hardness of Independent Learning and Sparse Equilibrium Computation in
-  Markov Games]]></title>
-        <id>http://arxiv.org/abs/2303.12287</id>
-        <link href="http://arxiv.org/abs/2303.12287"/>
-        <updated>2023-03-23T07:14:03.488Z</updated>
-        <summary type="html"><![CDATA[Dylan J. Foster, Noah Golowich, Sham M. Kakade]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Universal Approximation Property of Hamiltonian Deep Neural Networks]]></title>
-        <id>http://arxiv.org/abs/2303.12147</id>
-        <link href="http://arxiv.org/abs/2303.12147"/>
-        <updated>2023-03-23T07:14:03.468Z</updated>
-        <summary type="html"><![CDATA[Muhammad Zakwan, Massimiliano d'Angelo, Giancarlo Ferrari-Trecate]]></summary>
-        <author>
-            <name>arxivist feed</name>
         </author>
     </entry>
 </feed>
