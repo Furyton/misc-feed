@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-04-21T22:14:04.036Z</updated>
+    <updated>2023-04-21T23:14:56.580Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[10th international Purdue symposium on Statistics]]></title>
+        <id>http://xianblog.wordpress.com/?p=52779</id>
+        <link href="https://xianblog.wordpress.com/2023/04/22/10th-international-purdue-symposium-on-statistics/"/>
+        <updated>2023-04-21T22:23:59.000Z</updated>
+        <summary type="html"><![CDATA[Thrice alas, I was dearly hoping to join the 10th international Purdue symposium on Statistics next June, but due to too many work- and home-front constraints in this period, I had to cancel my participation to this meeting and hence miss a rare opportunity to return for the first time since 1993 to a place […]]]></summary>
+        <author>
+            <name>xi'an</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Visual Blocks for ML: Accelerating machine learning prototyping with interactive tools]]></title>
         <id>http://ai.googleblog.com/2023/04/visual-blocks-for-ml-accelerating.html</id>
