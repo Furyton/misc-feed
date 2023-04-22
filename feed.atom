@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-04-22T06:18:48.147Z</updated>
+    <updated>2023-04-22T07:13:04.258Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -2642,17 +2642,6 @@ In “A deep learning model…]]></summary>
         <summary type="html"><![CDATA[Visit the post for more.]]></summary>
         <author>
             <name>xi'an</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Visual language maps for robot navigation]]></title>
-        <id>http://ai.googleblog.com/2023/03/visual-language-maps-for-robot.html</id>
-        <link href="http://ai.googleblog.com/2023/03/visual-language-maps-for-robot.html"/>
-        <updated>2023-03-23T19:08:00.005Z</updated>
-        <summary type="html"><![CDATA[Posted by Oier Mees, PhD Student, University of Freiburg, and Andy Zeng, Research Scientist, Robotics at Google   
-People are excellent navigators of the physical world, due in part to their remarkable ability to build cognitive maps that form the basis of spatial memory — from localizing landmarks at varying ontological levels (like a book on a shelf in the living room) to determining whether a layout permits navigation from point A to point B. Building robots that are proficient at navigation requires an interconnected understanding of (a) vision and natural language (to associate landmarks or follow instructions), and (b) spatial reasoning (to connect a map representing an environment to the true spatial distribution of objects). While there have been many recent advances in training jo…]]></summary>
-        <author>
-            <name>Google AI Blog</name>
         </author>
     </entry>
 </feed>
