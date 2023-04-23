@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-04-23T22:14:15.764Z</updated>
+    <updated>2023-04-23T23:14:36.480Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[the Bayesian learning rule [One World ABC’minar, 27 April]]]></title>
+        <id>http://xianblog.wordpress.com/?p=52845</id>
+        <link href="https://xianblog.wordpress.com/2023/04/24/the-bayesian-learning-rule-one-world-abcminar-27-april/"/>
+        <updated>2023-04-23T22:23:53.000Z</updated>
+        <summary type="html"><![CDATA[The next One World ABC seminar is taking place (on-line, requiring pre-registration) on 27 April, 9:30am UK time, with Mohammad Emtiyaz Khan (RIKEN-AIP, Tokyo) speaking about the Bayesian learning rule: We show that many machine-learning algorithms are specific instances of a single algorithm called the Bayesian learning rule. The rule, derived from Bayesian principles, yields […]]]></summary>
+        <author>
+            <name>xi'an</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Combinatorial Algorithms for Matching Markets via Nash Bargaining:
   One-Sided, Two-Sided and Non-Bipartite]]></title>
