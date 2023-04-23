@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-04-23T07:12:59.588Z</updated>
+    <updated>2023-04-23T08:18:10.558Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -2595,19 +2595,6 @@ One of the biggest challenges in building a robust virtual assistant is identify
         <summary type="html"><![CDATA[Visit the post for more.]]></summary>
         <author>
             <name>xi'an</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Detecting novel systemic biomarkers in external eye photos]]></title>
-        <id>http://ai.googleblog.com/2023/03/detecting-novel-systemic-biomarkers-in.html</id>
-        <link href="http://ai.googleblog.com/2023/03/detecting-novel-systemic-biomarkers-in.html"/>
-        <updated>2023-03-24T19:13:00.001Z</updated>
-        <summary type="html"><![CDATA[Posted by Boris Babenko, Software Engineer, and Akib Uddin, Product Manager, Google Research    
-Last year we presented results demonstrating that a deep learning system (DLS) can be trained to analyze external eye photos and predict a person’s diabetic retinal disease status and elevated glycated hemoglobin (or HbA1c, a biomarker that indicates the three-month average level of blood glucose). It was previously unknown that external eye photos contained signals for these conditions. This exciting finding suggested the potential to reduce the need for specialized equipment since such photos can be captured using smartphones and other consumer devices. Encouraged by these findings, we set out to discover what other biomarkers can be found in this imaging modality. 
-
-In “A deep learning model…]]></summary>
-        <author>
-            <name>Google AI Blog</name>
         </author>
     </entry>
 </feed>
