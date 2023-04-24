@@ -2,10 +2,74 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-04-24T06:20:26.299Z</updated>
+    <updated>2023-04-24T07:14:31.396Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Self-Correcting Bayesian Optimization through Bayesian Active Learning]]></title>
+        <id>http://arxiv.org/abs/2304.11005</id>
+        <link href="http://arxiv.org/abs/2304.11005"/>
+        <updated>2023-04-24T07:14:24.151Z</updated>
+        <summary type="html"><![CDATA[Carl Hvarfner, Erik Hellsten, Frank Hutter, Luigi Nardi]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Implications of sparsity and high triangle density for graph
+  representation learning]]></title>
+        <id>http://arxiv.org/abs/2210.15277</id>
+        <link href="http://arxiv.org/abs/2210.15277"/>
+        <updated>2023-04-24T07:14:24.146Z</updated>
+        <summary type="html"><![CDATA[Hannah Sansford, Alexander Modell, Nick Whiteley, Patrick
+  Rubin-Delanchy]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Interpolation property of shallow neural networks]]></title>
+        <id>http://arxiv.org/abs/2304.10552</id>
+        <link href="http://arxiv.org/abs/2304.10552"/>
+        <updated>2023-04-24T07:14:23.797Z</updated>
+        <summary type="html"><![CDATA[Vlad-Raul Constantinescu, Ionel Popescu]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Convergence of Message Passing Graph Neural Networks with Generic
+  Aggregation On Large Random Graphs]]></title>
+        <id>http://arxiv.org/abs/2304.11140</id>
+        <link href="http://arxiv.org/abs/2304.11140"/>
+        <updated>2023-04-24T07:14:23.510Z</updated>
+        <summary type="html"><![CDATA[Matthieu Cordonnier, Nicolas Keriven, Nicolas Tremblay, Samuel Vaiter]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Common Misassumption in Online Experiments with Machine Learning
+  Models]]></title>
+        <id>http://arxiv.org/abs/2304.10900</id>
+        <link href="http://arxiv.org/abs/2304.10900"/>
+        <updated>2023-04-24T07:14:23.454Z</updated>
+        <summary type="html"><![CDATA[Olivier Jeunen]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[上海首个大模型产业发展研讨会圆满落幕，众顶尖专家共探大模型产业]]></title>
+        <id>https://www.52nlp.cn/?p=13461</id>
+        <link href="https://www.52nlp.cn/%e4%b8%8a%e6%b5%b7%e9%a6%96%e4%b8%aa%e5%a4%a7%e6%a8%a1%e5%9e%8b%e4%ba%a7%e4%b8%9a%e5%8f%91%e5%b1%95%e7%a0%94%e8%ae%a8%e4%bc%9a%e5%9c%86%e6%bb%a1%e8%90%bd%e5%b9%95%ef%bc%8c%e4%bc%97%e9%a1%b6%e5%b0%96"/>
+        <updated>2023-04-24T06:32:06.000Z</updated>
+        <summary type="html"><![CDATA[4月21日，由上海市数据科学重点实验室携手达观数据、上海浦东软件园联合举办的“大模型产业发展研讨会”圆满落幕。 […]]]></summary>
+        <author>
+            <name>达观数据</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ChatGPT及大模型专题研讨会在蓉成功举办共探前沿技术与产业发展]]></title>
         <id>https://www.52nlp.cn/?p=13459</id>
@@ -2606,36 +2670,6 @@ One of the biggest challenges in building a robust virtual assistant is identify
         <summary type="html"><![CDATA[Following a question on X validated, the hypoexponential distribution, I came across (for the second time) a realistic example of a mixture (of exponentials) whose density wrote as a signed mixture, i.e. involving both negative and positive weights (with sum still equal to one). Namely, representing the density of a sum of d Exponential variates. […]]]></summary>
         <author>
             <name>xi'an</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[E-mail etiquette]]></title>
-        <id>https://languagelog.ldc.upenn.edu/nll/?p=58268</id>
-        <link href="https://languagelog.ldc.upenn.edu/nll/?p=58268&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=e-mail-etiquette"/>
-        <updated>2023-03-25T19:13:59.000Z</updated>
-        <summary type="html"><![CDATA[New article by Stephen Johnson in Lifehacker (3/24/23): "These Are the Most Savage Ways to Start or End an Email: How you start and end your work email says something about your worth as a person" N.B.:  This is about work email — a very different kettle of fish from personal email, email with friends, […]]]></summary>
-        <author>
-            <name>Victor Mair</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[An Aperiodic Monotile]]></title>
-        <id>http://gilkalai.wordpress.com/?p=24036</id>
-        <link href="https://gilkalai.wordpress.com/2023/03/25/an-aperiodic-monotile/"/>
-        <updated>2023-03-25T19:10:04.000Z</updated>
-        <summary type="html"><![CDATA[I suppose that most of you already heard about the first ever aperiodic planar tiling with one type of tiles. It was discovered by David Smith, Joseph Samuel Myers, Craig S. Kaplan, and Chaim Goodman-Strauss. Amazing!!! Here are  blogposts … Continue reading →]]></summary>
-        <author>
-            <name>Gil Kalai</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[An Aperiodic Monotile]]></title>
-        <id>http://gilkalai.wordpress.com/?p=24036</id>
-        <link href="https://gilkalai.wordpress.com/2023/03/25/an-aperiodic-monotile/"/>
-        <updated>2023-03-25T19:10:04.000Z</updated>
-        <summary type="html"><![CDATA[I suppose that most of you already heard about the first ever aperiodic planar tiling with one type of tiles. It was discovered by David Smith, Joseph Samuel Myers, Craig S. Kaplan, and Chaim Goodman-Strauss. Amazing!!! Here are  blogposts … Continue reading →]]></summary>
-        <author>
-            <name>Gil Kalai</name>
         </author>
     </entry>
 </feed>

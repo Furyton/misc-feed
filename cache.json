@@ -6,6 +6,56 @@
       "siteUrl": "https://www.arxivist.com",
       "articles": [
         {
+          "id": "http://arxiv.org/abs/2304.11005",
+          "author": null,
+          "description": "Carl Hvarfner, Erik Hellsten, Frank Hutter, Luigi Nardi",
+          "link": "http://arxiv.org/abs/2304.11005",
+          "publishedOn": "2023-04-24T07:14:24.151Z",
+          "wordCount": 642,
+          "title": "Self-Correcting Bayesian Optimization through Bayesian Active Learning",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2210.15277",
+          "author": null,
+          "description": "Hannah Sansford, Alexander Modell, Nick Whiteley, Patrick\n  Rubin-Delanchy",
+          "link": "http://arxiv.org/abs/2210.15277",
+          "publishedOn": "2023-04-24T07:14:24.146Z",
+          "wordCount": 614,
+          "title": "Implications of sparsity and high triangle density for graph\n  representation learning",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2304.10552",
+          "author": null,
+          "description": "Vlad-Raul Constantinescu, Ionel Popescu",
+          "link": "http://arxiv.org/abs/2304.10552",
+          "publishedOn": "2023-04-24T07:14:23.797Z",
+          "wordCount": 622,
+          "title": "Interpolation property of shallow neural networks",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2304.11140",
+          "author": null,
+          "description": "Matthieu Cordonnier, Nicolas Keriven, Nicolas Tremblay, Samuel Vaiter",
+          "link": "http://arxiv.org/abs/2304.11140",
+          "publishedOn": "2023-04-24T07:14:23.510Z",
+          "wordCount": 641,
+          "title": "Convergence of Message Passing Graph Neural Networks with Generic\n  Aggregation On Large Random Graphs",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2304.10900",
+          "author": null,
+          "description": "Olivier Jeunen",
+          "link": "http://arxiv.org/abs/2304.10900",
+          "publishedOn": "2023-04-24T07:14:23.454Z",
+          "wordCount": 693,
+          "title": "A Common Misassumption in Online Experiments with Machine Learning\n  Models",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
           "id": "http://arxiv.org/abs/2106.02024",
           "author": null,
           "description": "Ioannis Panageas, Thorben Tr\\\"obst, Vijay V. Vazirani",
@@ -1063,16 +1113,6 @@
           "wordCount": 3537,
           "title": "Critical Times in Israel: Last Night’s Demonstrations",
           "imageUrl": "https://gilkalai.files.wordpress.com/2023/03/pnp.jpeg"
-        },
-        {
-          "id": "http://gilkalai.wordpress.com/?p=24036",
-          "author": "Gil Kalai",
-          "description": "I suppose that most of you already heard about the first ever aperiodic planar tiling with one type of tiles. It was discovered by David Smith, Joseph Samuel Myers, Craig S. Kaplan, and Chaim Goodman-Strauss. Amazing!!! Here are  blogposts … Continue reading →",
-          "link": "https://gilkalai.wordpress.com/2023/03/25/an-aperiodic-monotile/",
-          "publishedOn": "2023-03-25T19:10:04.000Z",
-          "wordCount": 3396,
-          "title": "An Aperiodic Monotile",
-          "imageUrl": "https://gilkalai.files.wordpress.com/2023/03/monotile.png"
         }
       ]
     },
@@ -1573,16 +1613,6 @@
           "wordCount": 3537,
           "title": "Critical Times in Israel: Last Night’s Demonstrations",
           "imageUrl": "https://gilkalai.files.wordpress.com/2023/03/pnp.jpeg"
-        },
-        {
-          "id": "http://gilkalai.wordpress.com/?p=24036",
-          "author": "Gil Kalai",
-          "description": "I suppose that most of you already heard about the first ever aperiodic planar tiling with one type of tiles. It was discovered by David Smith, Joseph Samuel Myers, Craig S. Kaplan, and Chaim Goodman-Strauss. Amazing!!! Here are  blogposts … Continue reading →",
-          "link": "https://gilkalai.wordpress.com/2023/03/25/an-aperiodic-monotile/",
-          "publishedOn": "2023-03-25T19:10:04.000Z",
-          "wordCount": 3396,
-          "title": "An Aperiodic Monotile",
-          "imageUrl": "https://gilkalai.files.wordpress.com/2023/03/monotile.png"
         }
       ]
     },
@@ -2135,6 +2165,16 @@
       "feedUrl": "https://www.52nlp.cn/feed",
       "siteUrl": "https://www.52nlp.cn",
       "articles": [
+        {
+          "id": "https://www.52nlp.cn/?p=13461",
+          "author": "达观数据",
+          "description": "4月21日，由上海市数据科学重点实验室携手达观数据、上海浦东软件园联合举办的“大模型产业发展研讨会”圆满落幕。 […]",
+          "link": "https://www.52nlp.cn/%e4%b8%8a%e6%b5%b7%e9%a6%96%e4%b8%aa%e5%a4%a7%e6%a8%a1%e5%9e%8b%e4%ba%a7%e4%b8%9a%e5%8f%91%e5%b1%95%e7%a0%94%e8%ae%a8%e4%bc%9a%e5%9c%86%e6%bb%a1%e8%90%bd%e5%b9%95%ef%bc%8c%e4%bc%97%e9%a1%b6%e5%b0%96",
+          "publishedOn": "2023-04-24T06:32:06.000Z",
+          "wordCount": 786,
+          "title": "上海首个大模型产业发展研讨会圆满落幕，众顶尖专家共探大模型产业",
+          "imageUrl": null
+        },
         {
           "id": "https://www.52nlp.cn/?p=13459",
           "author": "达观数据",
@@ -2690,16 +2730,6 @@
           "publishedOn": "2023-03-26T13:15:41.000Z",
           "wordCount": 1903,
           "title": "kempt and sheveled",
-          "imageUrl": null
-        },
-        {
-          "id": "https://languagelog.ldc.upenn.edu/nll/?p=58268",
-          "author": "Victor Mair",
-          "description": "New article by Stephen Johnson in Lifehacker (3/24/23): \"These Are the Most Savage Ways to Start or End an Email: How you start and end your work email says something about your worth as a person\" N.B.:  This is about work email — a very different kettle of fish from personal email, email with friends, […]",
-          "link": "https://languagelog.ldc.upenn.edu/nll/?p=58268&utm_source=rss&utm_medium=rss&utm_campaign=e-mail-etiquette",
-          "publishedOn": "2023-03-25T19:13:59.000Z",
-          "wordCount": 3054,
-          "title": "E-mail etiquette",
           "imageUrl": null
         }
       ]
