@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-04-24T11:12:59.156Z</updated>
+    <updated>2023-04-24T12:30:04.708Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -2660,16 +2660,6 @@ One of the biggest challenges in building a robust virtual assistant is identify
         <summary type="html"><![CDATA[From François Lang: I did not know you'd invented "topolect" and "character amnesia"!   Now…since you have a predilection for naming heretofore unnamed things, I am wondering if you could work your linguistic magic to describe words like "unkempt" and "disheveled", which appear far more often than their equivalent without the negative prefix.   I […]]]></summary>
         <author>
             <name>Victor Mair</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[signed mixtures [X’ed]]]></title>
-        <id>http://xianblog.wordpress.com/?p=52462</id>
-        <link href="https://xianblog.wordpress.com/2023/03/26/signed-mixtures-xed/"/>
-        <updated>2023-03-25T23:23:42.000Z</updated>
-        <summary type="html"><![CDATA[Following a question on X validated, the hypoexponential distribution, I came across (for the second time) a realistic example of a mixture (of exponentials) whose density wrote as a signed mixture, i.e. involving both negative and positive weights (with sum still equal to one). Namely, representing the density of a sum of d Exponential variates. […]]]></summary>
-        <author>
-            <name>xi'an</name>
         </author>
     </entry>
 </feed>
