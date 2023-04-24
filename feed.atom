@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-04-24T02:33:41.674Z</updated>
+    <updated>2023-04-24T03:16:24.377Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Google at CHI 2023]]></title>
+        <id>http://ai.googleblog.com/2023/04/google-at-chi-2023.html</id>
+        <link href="http://ai.googleblog.com/2023/04/google-at-chi-2023.html"/>
+        <updated>2023-04-24T02:26:00.001Z</updated>
+        <summary type="html"><![CDATA[Posted by Malaya Jules, Program Manager, Google
+
+
+
+
+This week, the Conference on Human Factors in Computing Systems (CHI 2023) is being held in Hamburg, Germany. We are proud to be a Hero Sponsor of CHI 2023, a premier conference on human-computer interaction, where Google researchers contribute at all levels. This year we are presenting over 30 papers and are actively involved in organizing and hosting a number of different events across workshops, courses, and interactive sessions.
+
+
+ 
+
+
+If you’re registered for CHI 2023, we hope you’ll visit the Google booth to learn more about the exciting work across various topics, including language interactions, causal inference, question answering and more. Take a look below to learn more about the Google research being presented at CHI 2023 (Goog…]]></summary>
+        <author>
+            <name>Google AI Blog</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Japanese book formats]]></title>
         <id>https://languagelog.ldc.upenn.edu/nll/?p=58534</id>
