@@ -6,6 +6,56 @@
       "siteUrl": "https://www.arxivist.com",
       "articles": [
         {
+          "id": "http://arxiv.org/abs/2108.13097",
+          "author": null,
+          "description": "Adam X. Yang, Maxime Robeyns, Edward Milsom, Nandi Schoots, Laurence\n  Aitchison",
+          "link": "http://arxiv.org/abs/2108.13097",
+          "publishedOn": "2023-04-25T07:14:05.616Z",
+          "wordCount": 785,
+          "title": "A theory of representation learning in deep neural networks gives a deep\n  generalisation of kernel methods",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2106.02774",
+          "author": null,
+          "description": "Jerry Li, Allen Liu, Ankur Moitra",
+          "link": "http://arxiv.org/abs/2106.02774",
+          "publishedOn": "2023-04-25T07:14:05.603Z",
+          "wordCount": 712,
+          "title": "Robust Model Selection and Nearly-Proper Learning for GMMs",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2208.02814",
+          "author": null,
+          "description": "Anastasios N. Angelopoulos, Stephen Bates, Adam Fisch, Lihua\n  Lei, Tal Schuster",
+          "link": "http://arxiv.org/abs/2208.02814",
+          "publishedOn": "2023-04-25T07:14:05.597Z",
+          "wordCount": 585,
+          "title": "Conformal Risk Control",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2003.07981",
+          "author": null,
+          "description": "Jorge Oliveira, Margarida Carvalho, Diogo Marcelo Nogueira, Miguel\n  Coimbra",
+          "link": "http://arxiv.org/abs/2003.07981",
+          "publishedOn": "2023-04-25T07:14:05.592Z",
+          "wordCount": 730,
+          "title": "Segmentation and Optimal Region Selection of Physiological Signals using\n  Deep Neural Networks and Combinatorial Optimization",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2006.07356",
+          "author": null,
+          "description": "Hui Jin, Guido Mont\\'ufar",
+          "link": "http://arxiv.org/abs/2006.07356",
+          "publishedOn": "2023-04-25T07:14:05.568Z",
+          "wordCount": 755,
+          "title": "Implicit Bias of Gradient Descent for Mean Squared Error Regression with\n  Two-Layer Wide Neural Networks",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
           "id": "http://arxiv.org/abs/2304.11005",
           "author": null,
           "description": "Carl Hvarfner, Erik Hellsten, Frank Hutter, Luigi Nardi",
