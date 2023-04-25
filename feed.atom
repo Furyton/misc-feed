@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-04-25T18:19:02.546Z</updated>
+    <updated>2023-04-25T19:12:05.288Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[LayerNAS: Neural Architecture Search in Polynomial Complexity]]></title>
+        <id>http://ai.googleblog.com/2023/04/layernas-neural-architecture-search-in.html</id>
+        <link href="http://ai.googleblog.com/2023/04/layernas-neural-architecture-search-in.html"/>
+        <updated>2023-04-25T17:20:00.001Z</updated>
+        <summary type="html"><![CDATA[Posted by Yicheng Fan and Dana Alon, Software Engineers, Google Research
+
+
+
+
+Every byte and every operation matters when trying to build a faster model, especially if the model is to run on-device. Neural architecture search (NAS) algorithms design sophisticated model architectures by searching through a larger model-space than what is possible manually. Different NAS algorithms, such as MNasNet and TuNAS, have been proposed and have discovered several efficient model architectures, including MobileNetV3, EfficientNet. 
+
+ 
+
+
+Here we present LayerNAS, an approach that reformulates the multi-objective NAS problem within the framework of combinatorial optimization to greatly reduce the complexity, which results in an order of magnitude reduction in the number of model candidates that must be …]]></summary>
+        <author>
+            <name>Google AI Blog</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Comparative dialectology and romanizations for North and South Korea]]></title>
         <id>https://languagelog.ldc.upenn.edu/nll/?p=58561</id>
@@ -2716,26 +2736,6 @@ One of the biggest challenges in building a robust virtual assistant is identify
         <summary type="html"><![CDATA[内容来源：ChatGPT 及大模型专题研讨会  转载自CSDN稿件 在经历寒冬、雾霾，甚至大家纷纷看 […]]]></summary>
         <author>
             <name>达观数据</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Critical Times in Israel: Last Night’s Demonstrations]]></title>
-        <id>http://gilkalai.wordpress.com/?p=24065</id>
-        <link href="https://gilkalai.wordpress.com/2023/03/27/critical-times-in-israel-last-nights-demonstrations/"/>
-        <updated>2023-03-27T06:54:21.000Z</updated>
-        <summary type="html"><![CDATA[Last night, the demonstrations in Israel regarding the “judicial reforms” escalated after the prime minister Netanyahu fired the defense minister Galant who called to stop the legislation. My wife and I enjoyed a concert and after it we heard loud … Continue reading →]]></summary>
-        <author>
-            <name>Gil Kalai</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Critical Times in Israel: Last Night’s Demonstrations]]></title>
-        <id>http://gilkalai.wordpress.com/?p=24065</id>
-        <link href="https://gilkalai.wordpress.com/2023/03/27/critical-times-in-israel-last-nights-demonstrations/"/>
-        <updated>2023-03-27T06:54:21.000Z</updated>
-        <summary type="html"><![CDATA[Last night, the demonstrations in Israel regarding the “judicial reforms” escalated after the prime minister Netanyahu fired the defense minister Galant who called to stop the legislation. My wife and I enjoyed a concert and after it we heard loud … Continue reading →]]></summary>
-        <author>
-            <name>Gil Kalai</name>
         </author>
     </entry>
 </feed>

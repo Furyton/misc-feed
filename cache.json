@@ -1153,16 +1153,6 @@
           "wordCount": 4289,
           "title": "Some Problems",
           "imageUrl": "https://gilkalai.files.wordpress.com/2023/03/roy_meshulam.jpg"
-        },
-        {
-          "id": "http://gilkalai.wordpress.com/?p=24065",
-          "author": "Gil Kalai",
-          "description": "Last night, the demonstrations in Israel regarding the “judicial reforms” escalated after the prime minister Netanyahu fired the defense minister Galant who called to stop the legislation. My wife and I enjoyed a concert and after it we heard loud … Continue reading →",
-          "link": "https://gilkalai.wordpress.com/2023/03/27/critical-times-in-israel-last-nights-demonstrations/",
-          "publishedOn": "2023-03-27T06:54:21.000Z",
-          "wordCount": 3537,
-          "title": "Critical Times in Israel: Last Night’s Demonstrations",
-          "imageUrl": "https://gilkalai.files.wordpress.com/2023/03/pnp.jpeg"
         }
       ]
     },
@@ -1673,16 +1663,6 @@
           "wordCount": 4289,
           "title": "Some Problems",
           "imageUrl": "https://gilkalai.files.wordpress.com/2023/03/roy_meshulam.jpg"
-        },
-        {
-          "id": "http://gilkalai.wordpress.com/?p=24065",
-          "author": "Gil Kalai",
-          "description": "Last night, the demonstrations in Israel regarding the “judicial reforms” escalated after the prime minister Netanyahu fired the defense minister Galant who called to stop the legislation. My wife and I enjoyed a concert and after it we heard loud … Continue reading →",
-          "link": "https://gilkalai.wordpress.com/2023/03/27/critical-times-in-israel-last-nights-demonstrations/",
-          "publishedOn": "2023-03-27T06:54:21.000Z",
-          "wordCount": 3537,
-          "title": "Critical Times in Israel: Last Night’s Demonstrations",
-          "imageUrl": "https://gilkalai.files.wordpress.com/2023/03/pnp.jpeg"
         }
       ]
     },
@@ -2048,6 +2028,16 @@
       "feedUrl": "http://feeds.feedburner.com/blogspot/gJZg",
       "siteUrl": "http://ai.googleblog.com/",
       "articles": [
+        {
+          "id": "http://ai.googleblog.com/2023/04/layernas-neural-architecture-search-in.html",
+          "author": null,
+          "description": "Posted by Yicheng Fan and Dana Alon, Software Engineers, Google Research\n\n\n\n\nEvery byte and every operation matters when trying to build a faster model, especially if the model is to run on-device. Neural architecture search (NAS) algorithms design sophisticated model architectures by searching through a larger model-space than what is possible manually. Different NAS algorithms, such as MNasNet and TuNAS, have been proposed and have discovered several efficient model architectures, including MobileNetV3, EfficientNet. \n\n \n\n\nHere we present LayerNAS, an approach that reformulates the multi-objective NAS problem within the framework of combinatorial optimization to greatly reduce the complexity, which results in an order of magnitude reduction in the number of model candidates that must be …",
+          "link": "http://ai.googleblog.com/2023/04/layernas-neural-architecture-search-in.html",
+          "publishedOn": "2023-04-25T17:20:00.001Z",
+          "wordCount": 27592,
+          "title": "LayerNAS: Neural Architecture Search in Polynomial Complexity",
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhGm-s8kGO9BZTCn7UvdWUO2rNDUdXPGjXkT7C1RVq2sqx1qBWa72PUs5U8vcoP0inIaqubw9YtvkHODTZZDEryFCvj0PUV4bYCTgPD5b_sswQk1XG9ZcqHdU0jYQ879o-7TdBbpPa0HRklbB2BgZh0VlSRS-VhA3ovIxQPN4V1pmuSa6NrsQfzU0diiQ/w1200-h630-p-k-no-nu/image4.gif"
+        },
         {
           "id": "http://ai.googleblog.com/2023/04/google-at-chi-2023.html",
           "author": null,
