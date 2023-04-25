@@ -1211,6 +1211,16 @@
       "siteUrl": "https://kexue.fm/",
       "articles": [
         {
+          "id": "https://kexue.fm/archives/9593",
+          "author": "苏剑林",
+          "description": "最近几周笔者一直都在思考注意力机制的相关性质，在这个过程中对注意力及Softmax有了更深刻的理解。在这篇文章中，笔者简单分享其中的两点：1、Softmax注意力天然能够抵御一定的噪声扰动；2、...",
+          "link": "https://kexue.fm/archives/9593",
+          "publishedOn": "2023-04-25T09:00:00.000Z",
+          "wordCount": 1440,
+          "title": "注意力和Softmax的两点有趣发现：鲁棒性和信息量",
+          "imageUrl": null
+        },
+        {
           "id": "https://kexue.fm/archives/9590",
           "author": "苏剑林",
           "description": "随着ChatGPT及其平替的火热，各种参数高效（Parameter-Efficient）的微调方法也“水涨船高”，其中最流行的方案之一就是本文的主角LoRA了，它出自论文《LoRA: Low-R...",
