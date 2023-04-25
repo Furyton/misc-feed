@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-04-25T22:14:14.993Z</updated>
+    <updated>2023-04-25T23:15:13.288Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[simulated annealing and logistic regression to the max]]></title>
+        <id>http://xianblog.wordpress.com/?p=52791</id>
+        <link href="https://xianblog.wordpress.com/2023/04/26/simulated-annealing-and-logistic-regression-to-the-max/"/>
+        <updated>2023-04-25T22:23:39.000Z</updated>
+        <summary type="html"><![CDATA[A Riddler puzzle on the three binary and sequential questions one should ask three players hiding their respective U(0,1) realisation, U, V, and W, to best guess which player holds the largest number, max{U,V,W}. Assuming questions of the type Is U<b¹, &tc., the challenge boils down to selecting seven bounds (one for U, two for […]]]></summary>
+        <author>
+            <name>xi'an</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[LayerNAS: Neural Architecture Search in Polynomial Complexity]]></title>
         <id>http://ai.googleblog.com/2023/04/layernas-neural-architecture-search-in.html</id>
@@ -2726,16 +2736,6 @@ One of the biggest challenges in building a robust virtual assistant is identify
         <summary type="html"><![CDATA[From Rostislav Berezkin, who teaches at Fudan University: The place where I stay is called Qibao town, now Minhang district of Shanghai. The name means "Seven Treasures". It comes from the name of the Buddhist temple called Qibaosi. Legend says that the temple was built by the Lu family to commemorate Lu Ji* and Lu […]]]></summary>
         <author>
             <name>Victor Mair</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“国产类 ChatGPT ”所存在的差距与挑战-专家圆桌]]></title>
-        <id>https://www.52nlp.cn/?p=13435</id>
-        <link href="https://www.52nlp.cn/%e5%9b%bd%e4%ba%a7%e7%b1%bb-chatgpt-%e6%89%80%e5%ad%98%e5%9c%a8%e7%9a%84%e5%b7%ae%e8%b7%9d%e4%b8%8e%e6%8c%91%e6%88%98-%e4%b8%93%e5%ae%b6%e5%9c%86%e6%a1%8c"/>
-        <updated>2023-03-27T11:02:27.000Z</updated>
-        <summary type="html"><![CDATA[内容来源：ChatGPT 及大模型专题研讨会  转载自CSDN稿件 在经历寒冬、雾霾，甚至大家纷纷看 […]]]></summary>
-        <author>
-            <name>达观数据</name>
         </author>
     </entry>
 </feed>

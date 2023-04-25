@@ -1678,6 +1678,16 @@
       "siteUrl": "https://xianblog.wordpress.com",
       "articles": [
         {
+          "id": "http://xianblog.wordpress.com/?p=52791",
+          "author": "xi'an",
+          "description": "A Riddler puzzle on the three binary and sequential questions one should ask three players hiding their respective U(0,1) realisation, U, V, and W, to best guess which player holds the largest number, max{U,V,W}. Assuming questions of the type Is U<b¹, &tc., the challenge boils down to selecting seven bounds (one for U, two for […]",
+          "link": "https://xianblog.wordpress.com/2023/04/26/simulated-annealing-and-logistic-regression-to-the-max/",
+          "publishedOn": "2023-04-25T22:23:39.000Z",
+          "wordCount": 1926,
+          "title": "simulated annealing and logistic regression to the max",
+          "imageUrl": "https://secure.gravatar.com/blavatar/c1152fd99c26a547613cfba76091fd4f?s=200&ts=1682464493"
+        },
+        {
           "id": "http://xianblog.wordpress.com/?p=52717",
           "author": "xi'an",
           "description": "Visit the post for more.",
@@ -2293,16 +2303,6 @@
           "publishedOn": "2023-04-11T10:30:15.000Z",
           "wordCount": 1142,
           "title": "中科院张家俊：ChatGPT中的提示与指令学习",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.52nlp.cn/?p=13435",
-          "author": "达观数据",
-          "description": "内容来源：ChatGPT 及大模型专题研讨会  转载自CSDN稿件 在经历寒冬、雾霾，甚至大家纷纷看 […]",
-          "link": "https://www.52nlp.cn/%e5%9b%bd%e4%ba%a7%e7%b1%bb-chatgpt-%e6%89%80%e5%ad%98%e5%9c%a8%e7%9a%84%e5%b7%ae%e8%b7%9d%e4%b8%8e%e6%8c%91%e6%88%98-%e4%b8%93%e5%ae%b6%e5%9c%86%e6%a1%8c",
-          "publishedOn": "2023-03-27T11:02:27.000Z",
-          "wordCount": 1009,
-          "title": "“国产类 ChatGPT ”所存在的差距与挑战-专家圆桌",
           "imageUrl": null
         }
       ]
