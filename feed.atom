@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-04-26T22:14:15.287Z</updated>
+    <updated>2023-04-26T23:15:49.391Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[postdoctoral research position]]></title>
+        <id>http://xianblog.wordpress.com/?p=52863</id>
+        <link href="https://xianblog.wordpress.com/2023/04/27/postdoctoral-research-position/"/>
+        <updated>2023-04-26T22:23:48.000Z</updated>
+        <summary type="html"><![CDATA[Through the ERC Synergy grant OCEAN (On intelligenCE And Networks: Synergistic research in Bayesian Statistics, Microeconomics and Computer Sciences), I am seeking one postdoctoral researcher with an interest in Bayesian federated learning, distributed MCMC, approximate Bayesian inference, and data privacy. The project is based at Université Paris Dauphine, on the new PariSanté Campus.  The postdoc will […]]]></summary>
+        <author>
+            <name>xi'an</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Robust and efficient medical imaging with self-supervision]]></title>
         <id>http://ai.googleblog.com/2023/04/robust-and-efficient-medical-imaging.html</id>
