@@ -1635,16 +1635,6 @@
           "wordCount": 1627,
           "title": "Experience the power of PyTorch 2.0 on AMD Solutions",
           "imageUrl": "https://pytorch.org/assets/images/pytorch-logo.png"
-        },
-        {
-          "id": "https://pytorch.org/blog/accelerated-pytorch-2/",
-          "author": null,
-          "description": "The PyTorch 2.0 release includes a new high-performance implementation of the PyTorch Transformer API with the goal of making training and deployment of state-of-the-art Transformer models affordable. Following the successful release of “fastpath” inference execution (“Better Transformer”), this release introduces high-performance support for training and inference using a custom kernel architecture for scaled dot product attention (SPDA).",
-          "link": "https://pytorch.org/blog/accelerated-pytorch-2/",
-          "publishedOn": "2023-03-28T07:00:00.000Z",
-          "wordCount": 1698,
-          "title": "Accelerated PyTorch 2 Transformers",
-          "imageUrl": "https://pytorch.org/assets/images/pytorch-logo.png"
         }
       ]
     },
