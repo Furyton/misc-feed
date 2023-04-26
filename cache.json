@@ -1143,16 +1143,6 @@
           "wordCount": 3026,
           "title": "Alef Corner: Deep Learning 2020, 2030, 2040",
           "imageUrl": "https://gilkalai.files.wordpress.com/2023/04/img-20230228-wa0001.jpg"
-        },
-        {
-          "id": "http://gilkalai.wordpress.com/?p=23906",
-          "author": "Gil Kalai",
-          "description": "In the previous post, Two Three Four posts ago I wrote about three recent breakthroughs in combinatorics and here I want to mention some problems that I posed over the years that are loosely related to these advances. Rank of … Continue reading →",
-          "link": "https://gilkalai.wordpress.com/2023/03/28/some-problems/",
-          "publishedOn": "2023-03-28T08:24:43.000Z",
-          "wordCount": 4289,
-          "title": "Some Problems",
-          "imageUrl": "https://gilkalai.files.wordpress.com/2023/03/roy_meshulam.jpg"
         }
       ]
     },
@@ -1643,16 +1633,6 @@
           "wordCount": 3026,
           "title": "Alef Corner: Deep Learning 2020, 2030, 2040",
           "imageUrl": "https://gilkalai.files.wordpress.com/2023/04/img-20230228-wa0001.jpg"
-        },
-        {
-          "id": "http://gilkalai.wordpress.com/?p=23906",
-          "author": "Gil Kalai",
-          "description": "In the previous post, Two Three Four posts ago I wrote about three recent breakthroughs in combinatorics and here I want to mention some problems that I posed over the years that are loosely related to these advances. Rank of … Continue reading →",
-          "link": "https://gilkalai.wordpress.com/2023/03/28/some-problems/",
-          "publishedOn": "2023-03-28T08:24:43.000Z",
-          "wordCount": 4289,
-          "title": "Some Problems",
-          "imageUrl": "https://gilkalai.files.wordpress.com/2023/03/roy_meshulam.jpg"
         }
       ]
     },
@@ -2018,6 +1998,16 @@
       "feedUrl": "http://feeds.feedburner.com/blogspot/gJZg",
       "siteUrl": "http://ai.googleblog.com/",
       "articles": [
+        {
+          "id": "http://ai.googleblog.com/2023/04/robust-and-efficient-medical-imaging.html",
+          "author": null,
+          "description": "Posted by Shekoofeh Azizi, Senior Research Scientist, and Laura Culp, Senior Research Engineer, Google Research\n  \n  \n  \nDespite recent progress in the field of medical artificial intelligence (AI), most existing models are narrow, single-task systems that require large quantities of labeled data to train. Moreover, these models cannot be easily reused in new clinical contexts as they often require the collection, de-identification and annotation of site-specific data for every new deployment environment, which is both laborious and expensive. This problem of data-efficient generalization (a model’s ability to generalize to new settings using minimal new data) continues to be a key translational challenge for medical machine learning (ML) models and has in turn, prevented their broad uptak…",
+          "link": "http://ai.googleblog.com/2023/04/robust-and-efficient-medical-imaging.html",
+          "publishedOn": "2023-04-26T20:32:00.000Z",
+          "wordCount": 27819,
+          "title": "Robust and efficient medical imaging with self-supervision",
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgvMtAszRzkUmNz3DliRRKOPMA0hi-EplY9vfJ9cWCZhFBUgnblKjVoObTYAfybreL7HEKh11g2unV5oR_KOWfkPxpe3Hzo6qWSWq4YxA9RuhkeGXdDJST2XvW2Nfl3L6kDpV1hA2b_vpBMVaw2_pxt2vWD2n92S9fDGAZp0a4c2dV2Ylf3XrUSLQxAoQ/w1200-h630-p-k-no-nu/REMEDIS%20hero.jpg"
+        },
         {
           "id": "http://ai.googleblog.com/2023/04/layernas-neural-architecture-search-in.html",
           "author": null,

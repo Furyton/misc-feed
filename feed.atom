@@ -2,10 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-04-26T20:14:42.074Z</updated>
+    <updated>2023-04-26T21:13:40.448Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Robust and efficient medical imaging with self-supervision]]></title>
+        <id>http://ai.googleblog.com/2023/04/robust-and-efficient-medical-imaging.html</id>
+        <link href="http://ai.googleblog.com/2023/04/robust-and-efficient-medical-imaging.html"/>
+        <updated>2023-04-26T20:32:00.000Z</updated>
+        <summary type="html"><![CDATA[Posted by Shekoofeh Azizi, Senior Research Scientist, and Laura Culp, Senior Research Engineer, Google Research
+  
+  
+  
+Despite recent progress in the field of medical artificial intelligence (AI), most existing models are narrow, single-task systems that require large quantities of labeled data to train. Moreover, these models cannot be easily reused in new clinical contexts as they often require the collection, de-identification and annotation of site-specific data for every new deployment environment, which is both laborious and expensive. This problem of data-efficient generalization (a model’s ability to generalize to new settings using minimal new data) continues to be a key translational challenge for medical machine learning (ML) models and has in turn, prevented their broad uptak…]]></summary>
+        <author>
+            <name>Google AI Blog</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Fake F*ck]]></title>
         <id>https://languagelog.ldc.upenn.edu/nll/?p=58574</id>
@@ -2676,26 +2690,6 @@ Differential privacy (DP) provides formal protection against an attacker who aim
   Pradeep Ravikumar]]></summary>
         <author>
             <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Some Problems]]></title>
-        <id>http://gilkalai.wordpress.com/?p=23906</id>
-        <link href="https://gilkalai.wordpress.com/2023/03/28/some-problems/"/>
-        <updated>2023-03-28T08:24:43.000Z</updated>
-        <summary type="html"><![CDATA[In the previous post, Two Three Four posts ago I wrote about three recent breakthroughs in combinatorics and here I want to mention some problems that I posed over the years that are loosely related to these advances. Rank of … Continue reading →]]></summary>
-        <author>
-            <name>Gil Kalai</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Some Problems]]></title>
-        <id>http://gilkalai.wordpress.com/?p=23906</id>
-        <link href="https://gilkalai.wordpress.com/2023/03/28/some-problems/"/>
-        <updated>2023-03-28T08:24:43.000Z</updated>
-        <summary type="html"><![CDATA[In the previous post, Two Three Four posts ago I wrote about three recent breakthroughs in combinatorics and here I want to mention some problems that I posed over the years that are loosely related to these advances. Rank of … Continue reading →]]></summary>
-        <author>
-            <name>Gil Kalai</name>
         </author>
     </entry>
 </feed>
