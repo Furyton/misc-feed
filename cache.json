@@ -1064,56 +1064,6 @@
           "wordCount": 686,
           "title": "Nonlinear Independent Component Analysis for Principled Disentanglement\n  in Unsupervised Deep Learning",
           "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
-        },
-        {
-          "id": "http://arxiv.org/abs/2303.15464",
-          "author": null,
-          "description": "Vahid Partovi Nia, Guojun Zhang, Ivan Kobyzev, Michael R. Metel,\n  Xinlin Li, Ke Sun, Sobhan Hemati, Masoud Asgharian, Linglong Kong, Wulong\n  Liu, Boxing Chen",
-          "link": "http://arxiv.org/abs/2303.15464",
-          "publishedOn": "2023-03-29T07:14:56.860Z",
-          "wordCount": 600,
-          "title": "Mathematical Challenges in Deep Learning",
-          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
-        },
-        {
-          "id": "http://arxiv.org/abs/2302.09235",
-          "author": null,
-          "description": "Hossein Taheri, Christos Thrampoulidis",
-          "link": "http://arxiv.org/abs/2302.09235",
-          "publishedOn": "2023-03-29T07:14:56.854Z",
-          "wordCount": 723,
-          "title": "Generalization and Stability of Interpolating Neural Networks with\n  Minimal Width",
-          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
-        },
-        {
-          "id": "http://arxiv.org/abs/2303.15634",
-          "author": null,
-          "description": "Matthew Fahrbach, Adel Javanmard, Vahab Mirrokni, Pratik Worah",
-          "link": "http://arxiv.org/abs/2303.15634",
-          "publishedOn": "2023-03-29T07:14:56.838Z",
-          "wordCount": 659,
-          "title": "Learning Rate Schedules in the Presence of Distribution Shift",
-          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
-        },
-        {
-          "id": "http://arxiv.org/abs/2212.06461",
-          "author": null,
-          "description": "Yassir Bendou, Vincent Gripon, Bastien Pasdeloup, Lukas Mauch, Stefan\n  Uhlich, Fabien Cardinaux, Ghouthi Boukli Hacene, Javier Alonso Garcia",
-          "link": "http://arxiv.org/abs/2212.06461",
-          "publishedOn": "2023-03-29T07:14:56.832Z",
-          "wordCount": 671,
-          "title": "A Statistical Model for Predicting Generalization in Few-Shot\n  Classification",
-          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
-        },
-        {
-          "id": "http://arxiv.org/abs/2303.15833",
-          "author": null,
-          "description": "Wonguk Cho, Jinha Park, Taesup Kim",
-          "link": "http://arxiv.org/abs/2303.15833",
-          "publishedOn": "2023-03-29T07:14:56.826Z",
-          "wordCount": 687,
-          "title": "Complementary Domain Adaptation and Generalization for Unsupervised\n  Continual Domain Shift Learning",
-          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
         }
       ]
     },
@@ -2262,6 +2212,16 @@
       "feedUrl": "https://languagelog.ldc.upenn.edu/nll/?feed=rss2",
       "siteUrl": "https://languagelog.ldc.upenn.edu/nll",
       "articles": [
+        {
+          "id": "https://languagelog.ldc.upenn.edu/nll/?p=58578",
+          "author": "Victor Mair",
+          "description": "Laowai is \"an informal term or slang for 'foreigner' and/or non-Chinese national\".  One of the tens of thousands of commenters on the above video is the renowned SerpentZA, who teamed up with his partner, the dry, wry Laowhy86, to form the quintessential Laowai China travel and commentarial vloggers of the second decade of the 21st […]",
+          "link": "https://languagelog.ldc.upenn.edu/nll/?p=58578&utm_source=rss&utm_medium=rss&utm_campaign=laowai-the-old-furriner-trolls-the-ccp",
+          "publishedOn": "2023-04-27T19:47:36.000Z",
+          "wordCount": 2491,
+          "title": "Laowai (the Old Furriner) trolls the CCP",
+          "imageUrl": null
+        },
         {
           "id": "https://languagelog.ldc.upenn.edu/nll/?p=58574",
           "author": "Victor Mair",
