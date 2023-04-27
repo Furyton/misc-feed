@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-04-26T23:15:49.391Z</updated>
+    <updated>2023-04-27T01:16:29.097Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -2625,26 +2625,6 @@ Large deep learning models are becoming the workhorse of a variety of critical m
 Differential privacy (DP) provides formal protection against an attacker who aims to extract information about the training data. The most popular method for DP training in deep learning is differentially private stochastic gradient descent (DP-SGD). The core recipe implements a common theme in DP: “fuzzing” an algorit…]]></summary>
         <author>
             <name>Google AI Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google新作试图“复活”RNN：RNN能否再次辉煌？]]></title>
-        <id>https://kexue.fm/archives/9554</id>
-        <link href="https://kexue.fm/archives/9554"/>
-        <updated>2023-03-28T12:44:00.000Z</updated>
-        <summary type="html"><![CDATA[当前，像ChatGPT之类的LLM可谓是“风靡全球”。有读者留意到，几乎所有LLM都还是用最初的Multi-Head Scaled-Dot Attention，近年来大量的Efficient工作...]]></summary>
-        <author>
-            <name>苏剑林</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PIE Day]]></title>
-        <id>https://languagelog.ldc.upenn.edu/nll/?p=58286</id>
-        <link href="https://languagelog.ldc.upenn.edu/nll/?p=58286&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=pie-day"/>
-        <updated>2023-03-28T11:19:35.000Z</updated>
-        <summary type="html"><![CDATA[Today SMBC: Mouseover title: "If anyone does this, please pour out a glass of eggnog antecedent beverage for me." The aftercomic:]]></summary>
-        <author>
-            <name>Mark Liberman</name>
         </author>
     </entry>
 </feed>
