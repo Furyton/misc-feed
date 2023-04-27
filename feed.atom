@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-04-27T10:16:58.799Z</updated>
+    <updated>2023-04-27T11:12:31.487Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -2660,16 +2660,6 @@ The process of creating high quality datasets is complicated and error-prone, fr
         <summary type="html"><![CDATA[PyTorch 2.0 represents a significant step forward for the PyTorch machine learning framework. The stable release of PyTorch 2.0 brings new features that unlock even higher performance, while remaining backward compatible with prior releases and retaining the Pythonic focus which has helped to make PyTorch so enthusiastically adopted by the AI/ML community. AMD has long been a strong proponent of PyTorch, and we are delighted that PyTorch 2.0 stable release includes support for AMD Instinct™ and Radeon™ GPUs that are supported by the ROCm™ software platform.]]></summary>
         <author>
             <name>PyTorch Website</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bayesian inference: challenges, perspectives, and prospects]]></title>
-        <id>http://xianblog.wordpress.com/?p=52686</id>
-        <link href="https://xianblog.wordpress.com/2023/03/29/bayesian-inference-challenges-perspectives-and-prospects/"/>
-        <updated>2023-03-28T22:23:15.000Z</updated>
-        <summary type="html"><![CDATA[Over the past year, Judith, Michael and I edited a special issue of Philosophical Transactions of the Royal Society on Bayesian inference: challenges, perspectives, and prospects, in celebration of the current President of the Royal Society, Adrian Smith, and his contributions to Bayesian analysis that have impacted the field up to this day. The issue […]]]></summary>
-        <author>
-            <name>xi'an</name>
         </author>
     </entry>
 </feed>
