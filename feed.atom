@@ -2,10 +2,68 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-04-27T06:20:25.716Z</updated>
+    <updated>2023-04-27T07:14:20.386Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Generative Causal Representation Learning for Out-of-Distribution Motion
+  Forecasting]]></title>
+        <id>http://arxiv.org/abs/2302.08635</id>
+        <link href="http://arxiv.org/abs/2302.08635"/>
+        <updated>2023-04-27T07:14:20.356Z</updated>
+        <summary type="html"><![CDATA[Shayan Shirahmad Gale Bagi, Zahra Gharaee, Oliver Schulte, Mark
+  Crowley]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Integration of Radiomics and Tumor Biomarkers in Interpretable Machine
+  Learning Models]]></title>
+        <id>http://arxiv.org/abs/2303.11177</id>
+        <link href="http://arxiv.org/abs/2303.11177"/>
+        <updated>2023-04-27T07:14:19.960Z</updated>
+        <summary type="html"><![CDATA[Lennart Brocki, Neo Christopher Chung]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Plasticity Neural Network Based on Memory Generation, Memory
+  Consolidation and Synaptic Strength Rebalance by Current and Memory Brain
+  Plasticity and Synapse Formation-to simulate Artificial Brain]]></title>
+        <id>http://arxiv.org/abs/2203.11740</id>
+        <link href="http://arxiv.org/abs/2203.11740"/>
+        <updated>2023-04-27T07:14:19.960Z</updated>
+        <summary type="html"><![CDATA[Jun-Bo Tao, Bai-Qing Sun, Wei-Dong Zhu, Shi-You Qu, Ling-Kun Chen,
+  Jia-Qiang Li, Guo-Qi Li, Chong Wu, Yu Xiong, Jiaxuan Zhou]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[One-vs-the-Rest Loss to Focus on Important Samples in Adversarial
+  Training]]></title>
+        <id>http://arxiv.org/abs/2207.10283</id>
+        <link href="http://arxiv.org/abs/2207.10283"/>
+        <updated>2023-04-27T07:14:19.960Z</updated>
+        <summary type="html"><![CDATA[Sekitoshi Kanai, Shin'ya Yamaguchi, Masanori Yamada, Hiroshi
+  Takahashi, Kentaro Ohno, Yasutoshi Ida]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kernel Methods are Competitive for Operator Learning]]></title>
+        <id>http://arxiv.org/abs/2304.13202</id>
+        <link href="http://arxiv.org/abs/2304.13202"/>
+        <updated>2023-04-27T07:14:19.959Z</updated>
+        <summary type="html"><![CDATA[Pau Batlle, Matthieu Darcy, Bamdad Hosseini, Houman Owhadi]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[postdoctoral research position]]></title>
         <id>http://xianblog.wordpress.com/?p=52863</id>
@@ -2612,19 +2670,6 @@ The process of creating high quality datasets is complicated and error-prone, fr
         <summary type="html"><![CDATA[Over the past year, Judith, Michael and I edited a special issue of Philosophical Transactions of the Royal Society on Bayesian inference: challenges, perspectives, and prospects, in celebration of the current President of the Royal Society, Adrian Smith, and his contributions to Bayesian analysis that have impacted the field up to this day. The issue […]]]></summary>
         <author>
             <name>xi'an</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Leveraging transfer learning for large scale differentially private image classification]]></title>
-        <id>http://ai.googleblog.com/2023/03/leveraging-transfer-learning-for-large.html</id>
-        <link href="http://ai.googleblog.com/2023/03/leveraging-transfer-learning-for-large.html"/>
-        <updated>2023-03-28T18:26:00.000Z</updated>
-        <summary type="html"><![CDATA[Posted by Harsh Mehta, Software Engineer, and Walid Krichene, Research Scientist, Google Research  
-Large deep learning models are becoming the workhorse of a variety of critical machine learning (ML) tasks. However, it has been shown that without any protection it is plausible for bad actors to attack a variety of models, across modalities, to reveal information from individual training examples. As such, it’s essential to protect against this sort of information leakage. 
-
-Differential privacy (DP) provides formal protection against an attacker who aims to extract information about the training data. The most popular method for DP training in deep learning is differentially private stochastic gradient descent (DP-SGD). The core recipe implements a common theme in DP: “fuzzing” an algorit…]]></summary>
-        <author>
-            <name>Google AI Blog</name>
         </author>
     </entry>
 </feed>

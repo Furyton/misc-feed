@@ -6,6 +6,56 @@
       "siteUrl": "https://www.arxivist.com",
       "articles": [
         {
+          "id": "http://arxiv.org/abs/2302.08635",
+          "author": null,
+          "description": "Shayan Shirahmad Gale Bagi, Zahra Gharaee, Oliver Schulte, Mark\n  Crowley",
+          "link": "http://arxiv.org/abs/2302.08635",
+          "publishedOn": "2023-04-27T07:14:20.356Z",
+          "wordCount": null,
+          "title": "Generative Causal Representation Learning for Out-of-Distribution Motion\n  Forecasting",
+          "imageUrl": null
+        },
+        {
+          "id": "http://arxiv.org/abs/2303.11177",
+          "author": null,
+          "description": "Lennart Brocki, Neo Christopher Chung",
+          "link": "http://arxiv.org/abs/2303.11177",
+          "publishedOn": "2023-04-27T07:14:19.960Z",
+          "wordCount": null,
+          "title": "Integration of Radiomics and Tumor Biomarkers in Interpretable Machine\n  Learning Models",
+          "imageUrl": null
+        },
+        {
+          "id": "http://arxiv.org/abs/2203.11740",
+          "author": null,
+          "description": "Jun-Bo Tao, Bai-Qing Sun, Wei-Dong Zhu, Shi-You Qu, Ling-Kun Chen,\n  Jia-Qiang Li, Guo-Qi Li, Chong Wu, Yu Xiong, Jiaxuan Zhou",
+          "link": "http://arxiv.org/abs/2203.11740",
+          "publishedOn": "2023-04-27T07:14:19.960Z",
+          "wordCount": null,
+          "title": "Plasticity Neural Network Based on Memory Generation, Memory\n  Consolidation and Synaptic Strength Rebalance by Current and Memory Brain\n  Plasticity and Synapse Formation-to simulate Artificial Brain",
+          "imageUrl": null
+        },
+        {
+          "id": "http://arxiv.org/abs/2207.10283",
+          "author": null,
+          "description": "Sekitoshi Kanai, Shin'ya Yamaguchi, Masanori Yamada, Hiroshi\n  Takahashi, Kentaro Ohno, Yasutoshi Ida",
+          "link": "http://arxiv.org/abs/2207.10283",
+          "publishedOn": "2023-04-27T07:14:19.960Z",
+          "wordCount": null,
+          "title": "One-vs-the-Rest Loss to Focus on Important Samples in Adversarial\n  Training",
+          "imageUrl": null
+        },
+        {
+          "id": "http://arxiv.org/abs/2304.13202",
+          "author": null,
+          "description": "Pau Batlle, Matthieu Darcy, Bamdad Hosseini, Houman Owhadi",
+          "link": "http://arxiv.org/abs/2304.13202",
+          "publishedOn": "2023-04-27T07:14:19.959Z",
+          "wordCount": null,
+          "title": "Kernel Methods are Competitive for Operator Learning",
+          "imageUrl": null
+        },
+        {
           "id": "http://arxiv.org/abs/2302.09738",
           "author": null,
           "description": "Wu Lin, Valentin Duruisseaux, Melvin Leok, Frank Nielsen, Mohammad\n  Emtiyaz Khan, Mark Schmidt",
@@ -2117,16 +2167,6 @@
           "wordCount": 27610,
           "title": "Data-centric ML benchmarking: Announcing DataPerf’s 2023 challenges",
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiNqs7xEpA3TF3ubB0t71VK71jeVnDfXMO5TiaOdzxqcJNTtk3QQFevXaXAdTAaBpIIMJpZXd7COi65F0uw9qp9F2i5NM5z1qdmDQLKMxzPcKdRmshJsv4GypbvPaMeuo_3dMzTpDoIDAAn0i3YBrJxHVrqH6Nx9B_BEqO89-4lPyFOaMHh8h5OocJZiA/w1200-h630-p-k-no-nu/DataPerf%20hero.jpg"
-        },
-        {
-          "id": "http://ai.googleblog.com/2023/03/leveraging-transfer-learning-for-large.html",
-          "author": null,
-          "description": "Posted by Harsh Mehta, Software Engineer, and Walid Krichene, Research Scientist, Google Research  \nLarge deep learning models are becoming the workhorse of a variety of critical machine learning (ML) tasks. However, it has been shown that without any protection it is plausible for bad actors to attack a variety of models, across modalities, to reveal information from individual training examples. As such, it’s essential to protect against this sort of information leakage. \n\nDifferential privacy (DP) provides formal protection against an attacker who aims to extract information about the training data. The most popular method for DP training in deep learning is differentially private stochastic gradient descent (DP-SGD). The core recipe implements a common theme in DP: “fuzzing” an algorit…",
-          "link": "http://ai.googleblog.com/2023/03/leveraging-transfer-learning-for-large.html",
-          "publishedOn": "2023-03-28T18:26:00.000Z",
-          "wordCount": 27869,
-          "title": "Leveraging transfer learning for large scale differentially private image classification",
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLQvL5pFQZ3D2NH8DXg_h7vPTF7IGiscC9zSISa7WCuX2GRvsrySJRcVsT1WWxhHMF72zmbOvWc_0wElk3bXpmVSyz4k0IVhONETBaLzTOI-C5Wrf-Q2Qk0TkPcHUy6w2-9mJChJLnVIy2RdKEgQE9eOg3bzbOhbCYgXTfWlufh7q4uInlW6f3KqCHvQ/w1200-h630-p-k-no-nu/DPTransfer.png"
         }
       ]
     },
