@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-04-27T22:13:12.313Z</updated>
+    <updated>2023-04-27T23:15:34.334Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[validated by rigorous peer review with the author’s benefit]]></title>
+        <id>http://xianblog.wordpress.com/?p=52838</id>
+        <link href="https://xianblog.wordpress.com/2023/04/28/52838/"/>
+        <updated>2023-04-27T22:23:53.000Z</updated>
+        <summary type="html"><![CDATA[The other day my co-authors and I received an email addressed to Dear Prof. Hugo Mariva (sic), offering to publish our importance Markov chain paper in the Journal of Pure and Applied Mathematics which is very much likely a predatory journal, given the approximate English of the email, the journal acceptance window, its editorial board, […]]]></summary>
+        <author>
+            <name>xi'an</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[An ML-based approach to better characterize lung diseases]]></title>
         <id>http://ai.googleblog.com/2023/04/an-ml-based-approach-to-better.html</id>
