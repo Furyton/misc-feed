@@ -2,10 +2,77 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-04-28T06:19:48.436Z</updated>
+    <updated>2023-04-28T07:14:02.187Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Statistical Learning Theory for Control: A Finite Sample Perspective]]></title>
+        <id>http://arxiv.org/abs/2209.05423</id>
+        <link href="http://arxiv.org/abs/2209.05423"/>
+        <updated>2023-04-28T07:14:00.845Z</updated>
+        <summary type="html"><![CDATA[Anastasios Tsiamis, Ingvar Ziemann, Nikolai Matni, George J. Pappas]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Beyond calibration: estimating the grouping loss of modern neural
+  networks]]></title>
+        <id>http://arxiv.org/abs/2210.16315</id>
+        <link href="http://arxiv.org/abs/2210.16315"/>
+        <updated>2023-04-28T07:13:54.882Z</updated>
+        <summary type="html"><![CDATA[Alexandre Perez-Lebel (SODA), Marine Le Morvan (SODA), Ga\"el
+  Varoquaux (SODA)]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Interpretable Neural-Symbolic Concept Reasoning]]></title>
+        <id>http://arxiv.org/abs/2304.14068</id>
+        <link href="http://arxiv.org/abs/2304.14068"/>
+        <updated>2023-04-28T07:13:54.803Z</updated>
+        <summary type="html"><![CDATA[Pietro Barbiero, Gabriele Ciravegna, Francesco Giannini, Mateo
+  Espinosa Zarlenga, Lucie Charlotte Magister, Alberto Tonda, Pietro Lio',
+  Frederic Precioso, Mateja Jamnik, Giuseppe Marra]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DORA: Exploring outlier representations in Deep Neural Networks]]></title>
+        <id>http://arxiv.org/abs/2206.04530</id>
+        <link href="http://arxiv.org/abs/2206.04530"/>
+        <updated>2023-04-28T07:13:54.797Z</updated>
+        <summary type="html"><![CDATA[Kirill Bykov, Mayukh Deb, Dennis Grinwald, Klaus-Robert M\"uller,
+  Marina M.-C. H\"ohne]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[On Over-Squashing in Message Passing Neural Networks: The Impact of
+  Width, Depth, and Topology]]></title>
+        <id>http://arxiv.org/abs/2302.02941</id>
+        <link href="http://arxiv.org/abs/2302.02941"/>
+        <updated>2023-04-28T07:13:54.779Z</updated>
+        <summary type="html"><![CDATA[Francesco Di Giovanni, Lorenzo Giusti, Federico Barbero, Giulia Luise,
+  Pietro Lio', Michael Bronstein]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[新浪张俊林：大语言模型的涌现能力——现象与解释]]></title>
+        <id>https://www.52nlp.cn/?p=13467</id>
+        <link href="https://www.52nlp.cn/%e6%96%b0%e6%b5%aa%e5%bc%a0%e4%bf%8a%e6%9e%97%ef%bc%9a%e5%a4%a7%e8%af%ad%e8%a8%80%e6%a8%a1%e5%9e%8b%e7%9a%84%e6%b6%8c%e7%8e%b0%e8%83%bd%e5%8a%9b-%e7%8e%b0%e8%b1%a1%e4%b8%8e%e8%a7%a3"/>
+        <updated>2023-04-28T06:22:49.000Z</updated>
+        <summary type="html"><![CDATA[内容来源：ChatGPT 及大模型专题研讨会  分享嘉宾：新浪新技术研发负责人、中国中文信息学会理事 […]]]></summary>
+        <author>
+            <name>达观数据</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[validated by rigorous peer review with the author’s benefit]]></title>
         <id>http://xianblog.wordpress.com/?p=52838</id>
