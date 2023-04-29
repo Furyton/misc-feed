@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-04-29T04:17:56.468Z</updated>
+    <updated>2023-04-29T05:13:21.060Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -2609,19 +2609,6 @@ Read more...]]></summary>
         <summary type="html"><![CDATA[“This book aspires to contribute to overall numeracy through a tour de force presentation of the production, use, and evolution of data.” Number Savvy: From the Invention of Numbers to the Future of Data is written by George Sciadas, a  statistician working at Statistics Canada. This book is mostly about data, even though it starts […]]]></summary>
         <author>
             <name>xi'an</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Data-centric ML benchmarking: Announcing DataPerf’s 2023 challenges]]></title>
-        <id>http://ai.googleblog.com/2023/03/data-centric-ml-benchmarking-announcing.html</id>
-        <link href="http://ai.googleblog.com/2023/03/data-centric-ml-benchmarking-announcing.html"/>
-        <updated>2023-03-30T17:05:00.000Z</updated>
-        <summary type="html"><![CDATA[Posted by Peter Mattson, Senior Staff Engineer, ML Performance, and Praveen Paritosh, Senior Research Scientist, Google Research, Brain Team  
-Machine learning (ML) offers tremendous potential, from diagnosing cancer to engineering safe self-driving cars to amplifying human productivity. To realize this potential, however, organizations need ML solutions to be reliable with ML solution development that is predictable and tractable. The key to both is a deeper understanding of ML data — how to engineer training datasets that produce high quality models and test datasets that deliver accurate indicators of how close we are to solving the target problem.  
-
-The process of creating high quality datasets is complicated and error-prone, from the initial selection and cleaning of raw data, to lab…]]></summary>
-        <author>
-            <name>Google AI Blog</name>
         </author>
     </entry>
 </feed>

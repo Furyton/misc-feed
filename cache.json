@@ -2107,16 +2107,6 @@
           "wordCount": 28066,
           "title": "Scaling vision transformers to 22 billion parameters",
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjjODzCKL8V80wg0vxZKVaKfgRxEfPVhebkhJHGi0MrzZbsMQjuTQ5VCg_GOVDBTbbo52qfIzBjZ_OtFM0vVMBs-0wWw5anp4kB19_cRO4tE5MnaLH-1toiCa6pAQVFfwq_i_w1UX4ElkHqoic-bu7h1oBH-YK10-7fuw6V1GKe3GrePPJD54QNXhGHQQ/w1200-h630-p-k-no-nu/vit22b.png"
-        },
-        {
-          "id": "http://ai.googleblog.com/2023/03/data-centric-ml-benchmarking-announcing.html",
-          "author": null,
-          "description": "Posted by Peter Mattson, Senior Staff Engineer, ML Performance, and Praveen Paritosh, Senior Research Scientist, Google Research, Brain Team  \nMachine learning (ML) offers tremendous potential, from diagnosing cancer to engineering safe self-driving cars to amplifying human productivity. To realize this potential, however, organizations need ML solutions to be reliable with ML solution development that is predictable and tractable. The key to both is a deeper understanding of ML data — how to engineer training datasets that produce high quality models and test datasets that deliver accurate indicators of how close we are to solving the target problem.  \n\nThe process of creating high quality datasets is complicated and error-prone, from the initial selection and cleaning of raw data, to lab…",
-          "link": "http://ai.googleblog.com/2023/03/data-centric-ml-benchmarking-announcing.html",
-          "publishedOn": "2023-03-30T17:05:00.000Z",
-          "wordCount": 27610,
-          "title": "Data-centric ML benchmarking: Announcing DataPerf’s 2023 challenges",
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiNqs7xEpA3TF3ubB0t71VK71jeVnDfXMO5TiaOdzxqcJNTtk3QQFevXaXAdTAaBpIIMJpZXd7COi65F0uw9qp9F2i5NM5z1qdmDQLKMxzPcKdRmshJsv4GypbvPaMeuo_3dMzTpDoIDAAn0i3YBrJxHVrqH6Nx9B_BEqO89-4lPyFOaMHh8h5OocJZiA/w1200-h630-p-k-no-nu/DataPerf%20hero.jpg"
         }
       ]
     },
