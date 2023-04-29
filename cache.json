@@ -1252,16 +1252,6 @@
           "wordCount": 3551,
           "title": "Polars for initial data analysis, Polars for production",
           "imageUrl": "https://pythonspeed.com/assets/titles/polars-exploratory-data-analysis-vs-production.png"
-        },
-        {
-          "id": "https://pythonspeed.com/articles/disabling-docker-caching/",
-          "author": null,
-          "description": "When building Docker images, caching lets you speed up rebuilding images.\nBut this has a downside: it can keep you from installing security updates from your base Linux distribution.\nIf you cache the image layer that includes the security update… you’re not getting new security updates!\nThere are a number of ways you can try to balance caching with getting security updates, with different tradeoffs.\nIn this article we’ll cover:\nCaching by default, with recurring rebuild and redeploys.\nDeliberately breaking caching.\nCaching during development, never caching in production builds.\nRead more...",
-          "link": "https://pythonspeed.com/articles/disabling-docker-caching/",
-          "publishedOn": "2023-03-31T00:00:00.000Z",
-          "wordCount": 1156,
-          "title": "Staying secure by breaking Docker caching",
-          "imageUrl": "https://pythonspeed.com/assets/titles/disabling-docker-caching.png"
         }
       ]
     },

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-04-29T11:12:02.399Z</updated>
+    <updated>2023-04-29T12:26:44.436Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -2591,24 +2591,6 @@ In “Scaling Vision Transformers to 22 Billion Parameters”, we introduce the 
         <summary type="html"><![CDATA[Yuling Jiao, Yang Wang, Yunfei Yang]]></summary>
         <author>
             <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Staying secure by breaking Docker caching]]></title>
-        <id>https://pythonspeed.com/articles/disabling-docker-caching/</id>
-        <link href="https://pythonspeed.com/articles/disabling-docker-caching/"/>
-        <updated>2023-03-31T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[When building Docker images, caching lets you speed up rebuilding images.
-But this has a downside: it can keep you from installing security updates from your base Linux distribution.
-If you cache the image layer that includes the security update… you’re not getting new security updates!
-There are a number of ways you can try to balance caching with getting security updates, with different tradeoffs.
-In this article we’ll cover:
-Caching by default, with recurring rebuild and redeploys.
-Deliberately breaking caching.
-Caching during development, never caching in production builds.
-Read more...]]></summary>
-        <author>
-            <name>Python⇒Speed</name>
         </author>
     </entry>
 </feed>
