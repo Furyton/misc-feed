@@ -1100,7 +1100,18 @@
       "title": "Parsiad Azimzadeh",
       "feedUrl": "http://parsiad.ca/feed.xml",
       "siteUrl": "https://parsiad.ca/",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://parsiad.ca/blog/2023/test_if_the_sample_mean_is_statistically_significantly_different_from_zero/",
+          "author": null,
+          "description": "Let $X_{1},\\ldots,X_{N}$ be IID. The plug-in estimator for the mean is the sample mean $\\bar{X}=(X_{1}+\\cdots+X_{N})/N$. The standard error of this estimator is $\\sqrt{\\operatorname{Var}(X_{1})/N}$. Therefore, a normal confidence interval for the mean is $$ \\bar{X}\\pm c\\sqrt{\\frac{\\operatorname{Var}(X_{1})}{N}}. $$ In short, if we want to test if the mean is statistically significantly different from zero, the number of samples needs to satisfy $$ N&gt;\\frac{c^{2}\\operatorname{Var}(X_{1})}{\\left|\\bar{X}\\right|^{2}}. $$",
+          "link": "https://parsiad.ca/blog/2023/test_if_the_sample_mean_is_statistically_significantly_different_from_zero/",
+          "publishedOn": "2023-04-28T20:00:00.000Z",
+          "wordCount": 218,
+          "title": "Test if the sample mean is statistically significantly different from zero",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "Windows On Theory",
@@ -1116,16 +1127,6 @@
           "wordCount": 5890,
           "title": "Thoughts on AI safety",
           "imageUrl": "https://windowsontheory.files.wordpress.com/2023/04/ml_safety.png"
-        },
-        {
-          "id": "http://windowsontheory.org/?p=8588",
-          "author": "Boaz Barak",
-          "description": "TCS for All (previously TCS Women) Spotlight Workshop at STOC 2023/Theory Fest: Travel grants and call for speaker nominations You are cordially invited to our TCS for All Spotlight Workshop! The workshop will be held on Thursday, June 22nd, 2023 (2-4pm), in Orlando, Florida, USA, as part of the 54th Symposium on Theory of Computing (STOC) and TheoryFest! The workshop … Continue reading TCS for all travel grants and speaker nominations (guest post by Elena Grigorescu)",
-          "link": "https://windowsontheory.org/2023/03/30/tcs-for-all-travel-grants-and-speaker-nominations-guest-post-by-elena-grigorescu/",
-          "publishedOn": "2023-03-30T13:10:38.000Z",
-          "wordCount": 3230,
-          "title": "TCS for all travel grants and speaker nominations (guest post by Elena Grigorescu)",
-          "imageUrl": "https://s0.wp.com/i/blank.jpg"
         }
       ]
     },
@@ -1342,18 +1343,7 @@
       "title": "inFERENCe",
       "feedUrl": "https://www.inference.vc/rss/",
       "siteUrl": "https://www.inference.vc/",
-      "articles": [
-        {
-          "id": "64230e9f8c9ebb003c71c8d7",
-          "author": "Ferenc Huszar",
-          "description": "A few years ago I was very much into maximum likelihood-based generative modeling and autoregressive models (see this, this or this). More recently, my focus shifted to characterising inductive biases of gradient-based optimization focussing mostly on supervised learning. I only very recently started revisiting autoregressive models, motivated by a desire",
-          "link": "https://www.inference.vc/autoregressive-models-in-out-of-distribution/",
-          "publishedOn": "2023-03-30T11:54:26.000Z",
-          "wordCount": 1823,
-          "title": "Autoregressive Models, OOD prompts and the Interpolation Regime",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Eric Jang",
@@ -1923,16 +1913,6 @@
           "wordCount": 5890,
           "title": "Thoughts on AI safety",
           "imageUrl": "https://windowsontheory.files.wordpress.com/2023/04/ml_safety.png"
-        },
-        {
-          "id": "http://windowsontheory.org/?p=8588",
-          "author": "Boaz Barak",
-          "description": "TCS for All (previously TCS Women) Spotlight Workshop at STOC 2023/Theory Fest: Travel grants and call for speaker nominations You are cordially invited to our TCS for All Spotlight Workshop! The workshop will be held on Thursday, June 22nd, 2023 (2-4pm), in Orlando, Florida, USA, as part of the 54th Symposium on Theory of Computing (STOC) and TheoryFest! The workshop … Continue reading TCS for all travel grants and speaker nominations (guest post by Elena Grigorescu)",
-          "link": "https://windowsontheory.org/2023/03/30/tcs-for-all-travel-grants-and-speaker-nominations-guest-post-by-elena-grigorescu/",
-          "publishedOn": "2023-03-30T13:10:38.000Z",
-          "wordCount": 3230,
-          "title": "TCS for all travel grants and speaker nominations (guest post by Elena Grigorescu)",
-          "imageUrl": "https://s0.wp.com/i/blank.jpg"
         }
       ]
     },
@@ -2680,16 +2660,6 @@
           "publishedOn": "2023-03-31T12:11:39.000Z",
           "wordCount": 2240,
           "title": "Kong Yiji (\"Confucius ABC\"), another self-deprecating meme for young Chinese",
-          "imageUrl": null
-        },
-        {
-          "id": "https://languagelog.ldc.upenn.edu/nll/?p=58289",
-          "author": "Victor Mair",
-          "description": "In November, 2021, a small paperback published in Japan was selling well and causing a buzz among the twitterati. Here's the listing on Amazon (note the cover illustration).  The author acknowledges that he followed the style of (the Japanese translation of) A Day in the Life of Ancient Rome by Italian paleontologist, writer, and journalist, […]",
-          "link": "https://languagelog.ldc.upenn.edu/nll/?p=58289&utm_source=rss&utm_medium=rss&utm_campaign=a-day-in-the-life-of-ancient-china-in-japanese",
-          "publishedOn": "2023-03-30T12:04:05.000Z",
-          "wordCount": 2422,
-          "title": "A Day in the Life of Ancient China (in Japanese)",
           "imageUrl": null
         }
       ]
