@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-04-30T01:20:18.816Z</updated>
+    <updated>2023-04-30T02:32:04.135Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -2538,16 +2538,6 @@ In “Scaling Vision Transformers to 22 Billion Parameters”, we introduce the 
         <summary type="html"><![CDATA[Eve Armstrong, "I Murdered Conan O'Brien and Nobody Will Ever Know — an exercise in inference sabotage", 3/30/2023: Abstract: I employ an optimization-based inference methodology together with an Ising model, in an intentionally ineffectual manner, to get away with murdering an obstreperous scientific collaborator. The antics of this collaborator, hereafter "Conan O'Brien," were impeding the […]]]></summary>
         <author>
             <name>Mark Liberman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sebastien Bubeck - First Contact]]></title>
-        <id>https://mlfoundations.org/talk/bubeck/</id>
-        <link href="https://mlfoundations.org/talk/bubeck/"/>
-        <updated>2023-03-31T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The new wave of AI systems, ChatGPT and its more powerful successors, exhibit extraordinary capabilities across a broad swath of domains. In light of this, we will discuss whether artificial INTELLIGENCE has arrived.]]></summary>
-        <author>
-            <name>Harvard ML Foundations</name>
         </author>
     </entry>
 </feed>
