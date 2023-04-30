@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-04-30T11:11:36.859Z</updated>
+    <updated>2023-04-30T12:27:20.901Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The interplay between Cantonese and Mandarin as an index of sociopolitical tensions in Hong Kong]]></title>
+        <id>https://languagelog.ldc.upenn.edu/nll/?p=58594</id>
+        <link href="https://languagelog.ldc.upenn.edu/nll/?p=58594&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=the-interplay-between-cantonese-and-mandarin-as-an-index-of-sociopolitical-tensions-in-hong-kong"/>
+        <updated>2023-04-30T11:22:18.000Z</updated>
+        <summary type="html"><![CDATA[First it was the British from afar, and now it is the Chinese from the north who are imposing themselves on the people of Hong Kong.  In both cases, the imposition has been not merely political and economic, but has had important cultural and linguistic implications.  Language-wise, under which master have the Hongkongers (also known […]]]></summary>
+        <author>
+            <name>Victor Mair</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[operation impossible]]></title>
         <id>http://xianblog.wordpress.com/?p=52850</id>
@@ -2490,16 +2500,6 @@ We hope that these results contribute further to the discourse around the relati
         <summary type="html"><![CDATA[From François-Michel Lang, "I had to read the article to be sure I understood what exactly had happened!"   G.O.P. Lawmakers Override Kentucky Governor’s Veto on Anti-Trans Law   The Kentucky measure bans access to gender-transition care for young people, and West Virginia’s governor signed a similar bill on Wednesday. Passage of bans also appears […]]]></summary>
         <author>
             <name>Victor Mair</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[统计月读（2023 年 3 月）]]></title>
-        <id>https://cosx.org/2023/04/monthly/</id>
-        <link href="https://cosx.org/2023/04/monthly/"/>
-        <updated>2023-04-01T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[推荐语：想要把ChatGPT转化成实在的生产力吗？这个包把ChatGPT的一些功能嵌入到RStudio内，通过Add-In栏的按钮即可使用。]]></summary>
-        <author>
-            <name>统计之都</name>
         </author>
     </entry>
 </feed>

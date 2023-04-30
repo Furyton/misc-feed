@@ -1199,18 +1199,7 @@
       "title": "统计之都",
       "feedUrl": "https://cosx.org/index.xml",
       "siteUrl": "https://cosx.org/",
-      "articles": [
-        {
-          "id": "https://cosx.org/2023/04/monthly/",
-          "author": null,
-          "description": "推荐语：想要把ChatGPT转化成实在的生产力吗？这个包把ChatGPT的一些功能嵌入到RStudio内，通过Add-In栏的按钮即可使用。",
-          "link": "https://cosx.org/2023/04/monthly/",
-          "publishedOn": "2023-04-01T00:00:00.000Z",
-          "wordCount": 184,
-          "title": "统计月读（2023 年 3 月）",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Sander Dieleman",
@@ -2122,6 +2111,16 @@
       "feedUrl": "https://languagelog.ldc.upenn.edu/nll/?feed=rss2",
       "siteUrl": "https://languagelog.ldc.upenn.edu/nll",
       "articles": [
+        {
+          "id": "https://languagelog.ldc.upenn.edu/nll/?p=58594",
+          "author": "Victor Mair",
+          "description": "First it was the British from afar, and now it is the Chinese from the north who are imposing themselves on the people of Hong Kong.  In both cases, the imposition has been not merely political and economic, but has had important cultural and linguistic implications.  Language-wise, under which master have the Hongkongers (also known […]",
+          "link": "https://languagelog.ldc.upenn.edu/nll/?p=58594&utm_source=rss&utm_medium=rss&utm_campaign=the-interplay-between-cantonese-and-mandarin-as-an-index-of-sociopolitical-tensions-in-hong-kong",
+          "publishedOn": "2023-04-30T11:22:18.000Z",
+          "wordCount": 2361,
+          "title": "The interplay between Cantonese and Mandarin as an index of sociopolitical tensions in Hong Kong",
+          "imageUrl": null
+        },
         {
           "id": "https://languagelog.ldc.upenn.edu/nll/?p=58597",
           "author": "Mark Liberman",
