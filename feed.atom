@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-04-30T08:17:35.304Z</updated>
+    <updated>2023-04-30T09:13:40.097Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -2510,24 +2510,6 @@ We hope that these results contribute further to the discourse around the relati
         <summary type="html"><![CDATA[I got pointed out at an interesting NTY editorial of March 8, 2023, on ChatGPT written by Noam Chomsky, Ian Roberts and Jeffrey Watumull. “we fear that the most popular and fashionable strain of A.I. — machine learning — will degrade [linguistics] and debase our ethics by incorporating into our technology a fundamentally flawed conception […]]]></summary>
         <author>
             <name>xi'an</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Scaling vision transformers to 22 billion parameters]]></title>
-        <id>http://ai.googleblog.com/2023/03/scaling-vision-transformers-to-22.html</id>
-        <link href="http://ai.googleblog.com/2023/03/scaling-vision-transformers-to-22.html"/>
-        <updated>2023-03-31T20:48:00.001Z</updated>
-        <summary type="html"><![CDATA[Posted by Piotr Padlewski and Josip Djolonga, Software Engineers, Google Research
-
-
-
-
-Large Language Models (LLMs) like PaLM or GPT-3 showed that scaling transformers to hundreds of billions of parameters improves performance and unlocks emergent abilities. The biggest dense models for image understanding, however, have reached only 4 billion parameters, despite research indicating that promising multimodal models like PaLI continue to benefit from scaling vision models alongside their language counterparts. Motivated by this, and the results from scaling LLMs, we decided to undertake the next step in the journey of scaling the Vision Transformer.
- 
-
-In “Scaling Vision Transformers to 22 Billion Parameters”, we introduce the biggest dense vision model, ViT-22B. It is 5.5x larger than the p…]]></summary>
-        <author>
-            <name>Google AI Blog</name>
         </author>
     </entry>
 </feed>

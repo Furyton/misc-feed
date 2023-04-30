@@ -2027,16 +2027,6 @@
           "wordCount": 27732,
           "title": "Pre-trained Gaussian processes for Bayesian optimization",
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHaIHu8Qq_S6TMsZnowyihzCgWuC09RauFlYyomRqS5zsHe9DC8JhuT9DA9jiJQvEBX6zDzd9rMhCRUeSHDgPTBwtUJzAMsDZdz2Y1qaVt0VKCVsspsYDXfj9tF8GxsU8P1ijXrP7VcVtpk21GmO7aBLVgwaYnSrt9KVDT8Nfto17yt1rQ-YUkMqum3g/w1200-h630-p-k-no-nu/HyperBo%20hero.jpg"
-        },
-        {
-          "id": "http://ai.googleblog.com/2023/03/scaling-vision-transformers-to-22.html",
-          "author": null,
-          "description": "Posted by Piotr Padlewski and Josip Djolonga, Software Engineers, Google Research\n\n\n\n\nLarge Language Models (LLMs) like PaLM or GPT-3 showed that scaling transformers to hundreds of billions of parameters improves performance and unlocks emergent abilities. The biggest dense models for image understanding, however, have reached only 4 billion parameters, despite research indicating that promising multimodal models like PaLI continue to benefit from scaling vision models alongside their language counterparts. Motivated by this, and the results from scaling LLMs, we decided to undertake the next step in the journey of scaling the Vision Transformer.\n \n\nIn “Scaling Vision Transformers to 22 Billion Parameters”, we introduce the biggest dense vision model, ViT-22B. It is 5.5x larger than the p…",
-          "link": "http://ai.googleblog.com/2023/03/scaling-vision-transformers-to-22.html",
-          "publishedOn": "2023-03-31T20:48:00.001Z",
-          "wordCount": 28066,
-          "title": "Scaling vision transformers to 22 billion parameters",
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjjODzCKL8V80wg0vxZKVaKfgRxEfPVhebkhJHGi0MrzZbsMQjuTQ5VCg_GOVDBTbbo52qfIzBjZ_OtFM0vVMBs-0wWw5anp4kB19_cRO4tE5MnaLH-1toiCa6pAQVFfwq_i_w1UX4ElkHqoic-bu7h1oBH-YK10-7fuw6V1GKe3GrePPJD54QNXhGHQQ/w1200-h630-p-k-no-nu/vit22b.png"
         }
       ]
     },
