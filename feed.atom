@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-04-30T10:14:49.311Z</updated>
+    <updated>2023-04-30T11:11:36.859Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -2500,16 +2500,6 @@ We hope that these results contribute further to the discourse around the relati
         <summary type="html"><![CDATA[推荐语：想要把ChatGPT转化成实在的生产力吗？这个包把ChatGPT的一些功能嵌入到RStudio内，通过Add-In栏的按钮即可使用。]]></summary>
         <author>
             <name>统计之都</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ChomGTPT]]></title>
-        <id>http://xianblog.wordpress.com/?p=52533</id>
-        <link href="https://xianblog.wordpress.com/2023/04/01/chomgtpt/"/>
-        <updated>2023-03-31T22:23:00.000Z</updated>
-        <summary type="html"><![CDATA[I got pointed out at an interesting NTY editorial of March 8, 2023, on ChatGPT written by Noam Chomsky, Ian Roberts and Jeffrey Watumull. “we fear that the most popular and fashionable strain of A.I. — machine learning — will degrade [linguistics] and debase our ethics by incorporating into our technology a fundamentally flawed conception […]]]></summary>
-        <author>
-            <name>xi'an</name>
         </author>
     </entry>
 </feed>
