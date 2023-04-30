@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-04-30T02:32:04.135Z</updated>
+    <updated>2023-04-30T03:15:18.313Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -2528,16 +2528,6 @@ Large Language Models (LLMs) like PaLM or GPT-3 showed that scaling transformers
 In “Scaling Vision Transformers to 22 Billion Parameters”, we introduce the biggest dense vision model, ViT-22B. It is 5.5x larger than the p…]]></summary>
         <author>
             <name>Google AI Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["An exercise in inference sabotage"]]></title>
-        <id>https://languagelog.ldc.upenn.edu/nll/?p=58310</id>
-        <link href="https://languagelog.ldc.upenn.edu/nll/?p=58310&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=an-exercise-in-inference-sabotage"/>
-        <updated>2023-03-31T14:42:16.000Z</updated>
-        <summary type="html"><![CDATA[Eve Armstrong, "I Murdered Conan O'Brien and Nobody Will Ever Know — an exercise in inference sabotage", 3/30/2023: Abstract: I employ an optimization-based inference methodology together with an Ising model, in an intentionally ineffectual manner, to get away with murdering an obstreperous scientific collaborator. The antics of this collaborator, hereafter "Conan O'Brien," were impeding the […]]]></summary>
-        <author>
-            <name>Mark Liberman</name>
         </author>
     </entry>
 </feed>
