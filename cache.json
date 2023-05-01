@@ -1244,6 +1244,16 @@
       "siteUrl": "https://pythonspeed.com/atom.xml",
       "articles": [
         {
+          "id": "https://pythonspeed.com/articles/pylint-flake8-ruff/",
+          "author": null,
+          "description": "Flake8 and PyLint are commonly used, and very useful, linting tools: they can help you find potential bugs and other problems with your code, aka “lints”.\nBut they can also be slow.\nAnd even if they’re fast on your computer, they may still be slow in your CI system (GitHub Actions, GitLab, or whatever else.)\nHappily, there’s a new linter available, Ruff, which is much faster.\nAnd it supports many of the same lints, including those from many of Flake8’s plugins.\nIn this article we’ll get a sense of why Ruff’s extra linting speed is so useful compared to the alternatives.\nSpecifically, we’ll cover:\nA useful lint that isn’t in standard Flake8.\nA speed comparison to Ruff’s implementation (preview: it’s much faster!).\nWhy seemingly fast linting on your computer might still be slow in CI.\nThe worst case for Ruff (preview: it’s ridiculously fast).\nWhy Ruff may not work for you.\nA bonus speed-up for linting by changing tox’s configuration.\nRead more...",
+          "link": "https://pythonspeed.com/articles/pylint-flake8-ruff/",
+          "publishedOn": "2023-05-01T00:00:00.000Z",
+          "wordCount": 1575,
+          "title": "Goodbye to Flake8 and PyLint: faster linting with Ruff",
+          "imageUrl": "https://pythonspeed.com/assets/titles/pylint-flake8-ruff.png"
+        },
+        {
           "id": "https://pythonspeed.com/articles/polars-exploratory-data-analysis-vs-production/",
           "author": null,
           "description": "Initial data analysis (IDA) has different goals than your final, production data analysis:\nWith IDA you need to examine the initial data and intermediate results, check your assumptions, and try different approaches.\nExploratory data analysis has similar requirements.\nOnce you’re happy with your approach, and you’re ready to run the analysis in an automated manner, you care a lot more about speed and resource usage.\nThese different goals often benefit from different implementation strategies and tools—unless you have a sufficiently flexible tool like Polars, the super-fast dataframe library.\nIn particular, Polars has two fundamental APIs, each of which is useful in different situations:\n“Eager” mode, which is similar to how Pandas works, is well-suited for initial and exploratory data analysis.\nFor production use, “lazy” mode often execute much faster, with lower memory usage, at the cost of not giving you access to intermediate result.\nIn this article we’ll use both two APIs and see how Polars lets you transition from looking at the data to something we can run even more efficiently in production.\nRead more...",
