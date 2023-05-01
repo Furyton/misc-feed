@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-05-01T10:16:44.142Z</updated>
+    <updated>2023-05-01T11:12:32.743Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -2573,16 +2573,6 @@ We hope that these results contribute further to the discourse around the relati
         <summary type="html"><![CDATA[A recent linguistic message from Dinosaur Comics: The first five panels have a clear socio- and psycholinguistic message: T-Rex: Gasp! I should use the word "frisson" more often! There's been so many OPPORTUNITIES to use the word, Dromiceiomimus, but I let them all pass me by because I say "thrill" instead. But wouldn't I seem […]]]></summary>
         <author>
             <name>Mark Liberman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Monte Carlo swindles]]></title>
-        <id>http://xianblog.wordpress.com/?p=52480</id>
-        <link href="https://xianblog.wordpress.com/2023/04/02/monte-carlo-swindles/"/>
-        <updated>2023-04-01T22:23:23.000Z</updated>
-        <summary type="html"><![CDATA[While reading Boos and Hugues-Olivier’s 1998 American Statistician paper on the applications of Basu’s theorem I can across the notion of Monte Carlo swindles. Where a reduced variance can be achieved without the corresponding increase in Monte Carlo budget. For instance, approximating the variance of the median statistic Μ for a Normal location family can […]]]></summary>
-        <author>
-            <name>xi'an</name>
         </author>
     </entry>
 </feed>
