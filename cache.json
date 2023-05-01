@@ -6,6 +6,56 @@
       "siteUrl": "https://www.arxivist.com",
       "articles": [
         {
+          "id": "http://arxiv.org/abs/2304.14774",
+          "author": null,
+          "description": "Carlos Sebasti\\'an, Carlos E. Gonz\\'alez-Guill\\'en",
+          "link": "http://arxiv.org/abs/2304.14774",
+          "publishedOn": "2023-05-01T07:14:17.709Z",
+          "wordCount": 715,
+          "title": "A feature selection method based on Shapley values robust to concept\n  shift in regression",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2209.15261",
+          "author": null,
+          "description": "Yubei Chen, Zeyu Yun, Yi Ma, Bruno Olshausen, Yann LeCun",
+          "link": "http://arxiv.org/abs/2209.15261",
+          "publishedOn": "2023-05-01T07:14:17.666Z",
+          "wordCount": 707,
+          "title": "Minimalistic Unsupervised Learning with the Sparse Manifold Transform",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/1903.02140",
+          "author": null,
+          "description": "Hui Jiang",
+          "link": "http://arxiv.org/abs/1903.02140",
+          "publishedOn": "2023-05-01T07:14:17.661Z",
+          "wordCount": 692,
+          "title": "Why Learning of Large-Scale Neural Networks Behaves Like Convex\n  Optimization",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2304.14994",
+          "author": null,
+          "description": "Marc Finzi, Andres Potapczynski, Matthew Choptuik, Andrew Gordon\n  Wilson",
+          "link": "http://arxiv.org/abs/2304.14994",
+          "publishedOn": "2023-05-01T07:14:17.647Z",
+          "wordCount": 732,
+          "title": "A Stable and Scalable Method for Solving Initial Value PDEs with Neural\n  Networks",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2210.17312",
+          "author": null,
+          "description": "Junghwan Lee, Tingnan Gong, Xiuyuan Cheng, Yao Xie",
+          "link": "http://arxiv.org/abs/2210.17312",
+          "publishedOn": "2023-05-01T07:14:17.642Z",
+          "wordCount": 609,
+          "title": "Training Neural Networks for Sequential Change-point Detection",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
           "id": "http://arxiv.org/abs/2209.05423",
           "author": null,
           "description": "Anastasios Tsiamis, Ingvar Ziemann, Nikolai Matni, George J. Pappas",
