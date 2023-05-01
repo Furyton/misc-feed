@@ -1457,18 +1457,7 @@
       "title": "Math ∩ Programming",
       "feedUrl": "https://jeremykun.com/feed/",
       "siteUrl": "https://jeremykun.com",
-      "articles": [
-        {
-          "id": "https://jeremykun.com/?p=119235",
-          "author": "j2kun",
-          "description": "It’s April Cools again. For a few summers in high school and undergrad, I was a day camp counselor. I’ve written before about how it helped me develop storytelling skills, but recently I thought of it again because, while I was cleaning out a closet full of old junk, I happened upon a bag of […]",
-          "link": "https://jeremykun.com/2023/04/01/were-knot-friends/",
-          "publishedOn": "2023-04-01T12:00:00.000Z",
-          "wordCount": 4431,
-          "title": "We’re Knot Friends",
-          "imageUrl": "https://jeremykun.com/wp-content/uploads/2023/03/reemtsen1.jpg"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Jonty Sinai",
@@ -2142,6 +2131,16 @@
       "siteUrl": "https://languagelog.ldc.upenn.edu/nll",
       "articles": [
         {
+          "id": "https://languagelog.ldc.upenn.edu/nll/?p=58607",
+          "author": "Mark Liberman",
+          "description": "Or should we call it \"Delphic AI\"? Alexy Khrabrov suggested both possibilities a few days ago, in \"Reasonable AI — the Golden Age of AI Programming\": The emerging techniques are all around the way you construct the prompts and also chain them. Effectively, we’re plotting dialogues. I call it the Age of Socratic AI, or […]",
+          "link": "https://languagelog.ldc.upenn.edu/nll/?p=58607&utm_source=rss&utm_medium=rss&utm_campaign=the-age-of-socratic-ai",
+          "publishedOn": "2023-04-30T23:20:50.000Z",
+          "wordCount": 2167,
+          "title": "\"The age of Socratic AI\"?",
+          "imageUrl": null
+        },
+        {
           "id": "https://languagelog.ldc.upenn.edu/nll/?p=58594",
           "author": "Victor Mair",
           "description": "First it was the British from afar, and now it is the Chinese from the north who are imposing themselves on the people of Hong Kong.  In both cases, the imposition has been not merely political and economic, but has had important cultural and linguistic implications.  Language-wise, under which master have the Hongkongers (also known […]",
@@ -2562,21 +2561,6 @@
           "enclosure": {
             "url": "https://languagelog.ldc.upenn.edu/myl/MW_frisson.wav",
             "length": "134136",
-            "type": "audio/wav"
-          },
-          "imageUrl": null
-        },
-        {
-          "id": "https://languagelog.ldc.upenn.edu/nll/?p=58320",
-          "author": "Mark Liberman",
-          "description": "In at least two recent interviews, Eric Trump has objected to his father's recent indictment by complaining about the lack of prosecutorial attention to the factors leading NYC drugstores (he says) to lock up Tylenol and Advil. On Fox News: Your browser does not support the audio element. And this is a city — I […]",
-          "link": "https://languagelog.ldc.upenn.edu/nll/?p=58320&utm_source=rss&utm_medium=rss&utm_campaign=literally-cvs",
-          "publishedOn": "2023-04-01T12:27:15.000Z",
-          "wordCount": 2139,
-          "title": "\"Literally CVS\"",
-          "enclosure": {
-            "url": "https://languagelog.ldc.upenn.edu/myl/EricTrumpLiterallyCVS.wav",
-            "length": "0",
             "type": "audio/wav"
           },
           "imageUrl": null
