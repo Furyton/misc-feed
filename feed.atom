@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-05-02T10:16:33.495Z</updated>
+    <updated>2023-05-02T11:12:50.997Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -2631,16 +2631,6 @@ We hope that these results contribute further to the discourse around the relati
         <summary type="html"><![CDATA[As we celebrate the release of OpenXLA, PyTorch 2.0, and PyTorch/XLA 2.0, it’s worth taking a step back and sharing where we see it all going in the short to medium term. With PyTorch adoption leading in the AI space and XLA supporting best-in-class compiler features, PyTorch/XLA is well positioned to provide a cutting edge development stack for both model training and inference. To achieve this, we see investments in three main areas:]]></summary>
         <author>
             <name>PyTorch Website</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lapparadish]]></title>
-        <id>http://xianblog.wordpress.com/?p=52618</id>
-        <link href="https://xianblog.wordpress.com/2023/04/03/lapparadish/"/>
-        <updated>2023-04-02T22:23:08.000Z</updated>
-        <summary type="html"><![CDATA[On top of BayesComp 2023 being rich and exciting, spending a week above the Arctic circle, by about 68⁰ North was most pleasurable. If we did not really see Northern Lights/auroras, as the above was taken by one of us with a long exposure shot on a particularly cold evening, rather than the diaphanous veils […]]]></summary>
-        <author>
-            <name>xi'an</name>
         </author>
     </entry>
 </feed>
