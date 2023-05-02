@@ -2,10 +2,55 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-05-02T06:19:56.396Z</updated>
+    <updated>2023-05-02T07:13:51.201Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[LAVA: Data Valuation without Pre-Specified Learning Algorithms]]></title>
+        <id>http://arxiv.org/abs/2305.00054</id>
+        <link href="http://arxiv.org/abs/2305.00054"/>
+        <updated>2023-05-02T07:13:48.931Z</updated>
+        <summary type="html"><![CDATA[Hoang Anh Just, Feiyang Kang, Jiachen T. Wang, Yi Zeng, Myeongseob Ko,
+  Ming Jin, Ruoxi Jia]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[POUF: Prompt-oriented unsupervised fine-tuning for large pre-trained
+  models]]></title>
+        <id>http://arxiv.org/abs/2305.00350</id>
+        <link href="http://arxiv.org/abs/2305.00350"/>
+        <updated>2023-05-02T07:13:48.900Z</updated>
+        <summary type="html"><![CDATA[Korawat Tanwisuth, Shujian Zhang, Huangjie Zheng, Pengcheng He,
+  Mingyuan Zhou]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Byzantines can also Learn from History: Fall of Centered Clipping in
+  Federated Learning]]></title>
+        <id>http://arxiv.org/abs/2208.09894</id>
+        <link href="http://arxiv.org/abs/2208.09894"/>
+        <updated>2023-05-02T07:13:48.895Z</updated>
+        <summary type="html"><![CDATA[Kerem Ozfatura, Emre Ozfatura, Alptekin Kupcu, Deniz Gunduz]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Variational Inference for Bayesian Neural Networks under Model and
+  Parameter Uncertainty]]></title>
+        <id>http://arxiv.org/abs/2305.00934</id>
+        <link href="http://arxiv.org/abs/2305.00934"/>
+        <updated>2023-05-02T07:13:48.877Z</updated>
+        <summary type="html"><![CDATA[Aliaksandr Hubin, Geir Storvik]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[a journal of the plague, sword, and famine year]]></title>
         <id>http://xianblog.wordpress.com/?p=52802</id>
