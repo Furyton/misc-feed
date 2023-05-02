@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-05-02T16:19:57.600Z</updated>
+    <updated>2023-05-02T17:13:37.688Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -49,6 +49,16 @@
         <summary type="html"><![CDATA[Aliaksandr Hubin, Geir Storvik]]></summary>
         <author>
             <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Accelerated Image Segmentation using PyTorch]]></title>
+        <id>https://pytorch.org/blog/accelerated-image-seg/</id>
+        <link href="https://pytorch.org/blog/accelerated-image-seg/"/>
+        <updated>2023-05-02T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Using Intel® Extension for PyTorch to Boost Image Processing Performance]]></summary>
+        <author>
+            <name>PyTorch Website</name>
         </author>
     </entry>
     <entry>
