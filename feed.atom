@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-05-02T20:16:07.211Z</updated>
+    <updated>2023-05-02T21:12:42.620Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -2580,17 +2580,6 @@ We hope that these results contribute further to the discourse around the relati
         <summary type="html"><![CDATA[万万没想到，Bias项能跟Transformer的长度外推性联系在一起！长度外推性是我们希望Transformer具有的一个理想性质，笔者曾在《Transformer升级之路：7、长度外推性与局...]]></summary>
         <author>
             <name>苏剑林</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[An interpretable neural network-based non-proportional odds model for
-  ordinal regression with continuous response]]></title>
-        <id>http://arxiv.org/abs/2303.17823</id>
-        <link href="http://arxiv.org/abs/2303.17823"/>
-        <updated>2023-04-03T08:19:34.861Z</updated>
-        <summary type="html"><![CDATA[Akifumi Okuno, Kazuharu Harada]]></summary>
-        <author>
-            <name>arxivist feed</name>
         </author>
     </entry>
 </feed>
