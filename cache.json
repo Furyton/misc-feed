@@ -1465,6 +1465,16 @@
       "siteUrl": "https://pytorch.org/",
       "articles": [
         {
+          "id": "https://pytorch.org/blog/announcing-docathon/",
+          "author": null,
+          "description": "<div type=\"html\"/>",
+          "link": "https://pytorch.org/blog/announcing-docathon/",
+          "publishedOn": "2023-05-03T07:00:00.000Z",
+          "wordCount": 874,
+          "title": "Announcing PyTorch Docathon 2023",
+          "imageUrl": "https://pytorch.org/assets/images/pytorch-logo.png"
+        },
+        {
           "id": "https://pytorch.org/blog/accelerated-image-seg/",
           "author": null,
           "description": "Using Intel® Extension for PyTorch to Boost Image Processing Performance",
