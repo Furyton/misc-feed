@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-05-02T23:14:42.450Z</updated>
+    <updated>2023-05-03T01:16:10.894Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -14,6 +14,26 @@
         <summary type="html"><![CDATA[Visit the post for more.]]></summary>
         <author>
             <name>xi'an</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The geometric mean rate of return]]></title>
+        <id>https://parsiad.ca/blog/2023/the_geometric_mean_rate_of_return/</id>
+        <link href="https://parsiad.ca/blog/2023/the_geometric_mean_rate_of_return/"/>
+        <updated>2023-05-02T20:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Consider a horizon of disjoint periods labelled $1$ through $N$. On the entire horizon, an asset with a rate of return $r_n$ on the $n$-th period has a geometric mean rate of return of \begin{equation} \overline{r} = \left( \prod_{n = 1}^N \left(1 + r_n\right) \right)^{1 / N} - 1. \end{equation} Note in particular that \begin{equation} \left(1 + \overline{r}\right)^N = \prod_{n = 1}^N \left(1 + r_n\right). \end{equation} In other words, a hypothetical asset whose rate of return is equal to $\overline{r}$ on all $N$ periods yields the same return (over the horizon) as the original asset.]]></summary>
+        <author>
+            <name>Parsiad Azimzadeh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Uncorrelated coordinates in PCA]]></title>
+        <id>https://parsiad.ca/blog/2023/uncorrelated_coordinates_in_pca/</id>
+        <link href="https://parsiad.ca/blog/2023/uncorrelated_coordinates_in_pca/"/>
+        <updated>2023-05-02T20:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Let $X$ be an $N\times p$ real matrix. Let $D$ be a real diagonal matrix, $w$ be a vector of nonnegative weights that sum to one, and \begin{equation} Y=\left(X-\frac{1}{N}ee^{\intercal}X\right)D^{-1}. \end{equation} $Y$ is a demeaned and rescaled version of $X$.]]></summary>
+        <author>
+            <name>Parsiad Azimzadeh</name>
         </author>
     </entry>
     <entry>
@@ -2580,16 +2600,6 @@ Read more...]]></summary>
 We hope that these results contribute further to the discourse around the relative performance of large closed-source models to smaller public models. In particular, it suggests that models that are small enough to be run locally can capture much of the performance of their larger cousins if trained on carefu…]]></summary>
         <author>
             <name>The Berkeley Artificial Intelligence Research Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bias项的神奇作用：RoPE + Bias = 更好的长度外推性]]></title>
-        <id>https://kexue.fm/archives/9577</id>
-        <link href="https://kexue.fm/archives/9577"/>
-        <updated>2023-04-03T12:56:00.000Z</updated>
-        <summary type="html"><![CDATA[万万没想到，Bias项能跟Transformer的长度外推性联系在一起！长度外推性是我们希望Transformer具有的一个理想性质，笔者曾在《Transformer升级之路：7、长度外推性与局...]]></summary>
-        <author>
-            <name>苏剑林</name>
         </author>
     </entry>
 </feed>

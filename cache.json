@@ -1092,6 +1092,26 @@
       "siteUrl": "https://parsiad.ca/",
       "articles": [
         {
+          "id": "https://parsiad.ca/blog/2023/the_geometric_mean_rate_of_return/",
+          "author": null,
+          "description": "Consider a horizon of disjoint periods labelled $1$ through $N$. On the entire horizon, an asset with a rate of return $r_n$ on the $n$-th period has a geometric mean rate of return of \\begin{equation} \\overline{r} = \\left( \\prod_{n = 1}^N \\left(1 + r_n\\right) \\right)^{1 / N} - 1. \\end{equation} Note in particular that \\begin{equation} \\left(1 + \\overline{r}\\right)^N = \\prod_{n = 1}^N \\left(1 + r_n\\right). \\end{equation} In other words, a hypothetical asset whose rate of return is equal to $\\overline{r}$ on all $N$ periods yields the same return (over the horizon) as the original asset.",
+          "link": "https://parsiad.ca/blog/2023/the_geometric_mean_rate_of_return/",
+          "publishedOn": "2023-05-02T20:00:00.000Z",
+          "wordCount": 241,
+          "title": "The geometric mean rate of return",
+          "imageUrl": null
+        },
+        {
+          "id": "https://parsiad.ca/blog/2023/uncorrelated_coordinates_in_pca/",
+          "author": null,
+          "description": "Let $X$ be an $N\\times p$ real matrix. Let $D$ be a real diagonal matrix, $w$ be a vector of nonnegative weights that sum to one, and \\begin{equation} Y=\\left(X-\\frac{1}{N}ee^{\\intercal}X\\right)D^{-1}. \\end{equation} $Y$ is a demeaned and rescaled version of $X$.",
+          "link": "https://parsiad.ca/blog/2023/uncorrelated_coordinates_in_pca/",
+          "publishedOn": "2023-05-02T20:00:00.000Z",
+          "wordCount": 306,
+          "title": "Uncorrelated coordinates in PCA",
+          "imageUrl": null
+        },
+        {
           "id": "https://parsiad.ca/blog/2023/test_if_the_sample_mean_is_statistically_significantly_different_from_zero/",
           "author": null,
           "description": "Let $X_{1},\\ldots,X_{N}$ be IID. The plug-in estimator for the mean is the sample mean $\\bar{X}=(X_{1}+\\cdots+X_{N})/N$. The standard error of this estimator is $\\sqrt{\\operatorname{Var}(X_{1})/N}$. Therefore, a normal confidence interval for the mean is $$ \\bar{X}\\pm c\\sqrt{\\frac{\\operatorname{Var}(X_{1})}{N}}. $$ In short, if we want to test if the mean is statistically significantly different from zero, the number of samples needs to satisfy $$ N&gt;\\frac{c^{2}\\operatorname{Var}(X_{1})}{\\left|\\bar{X}\\right|^{2}}. $$",
@@ -1169,16 +1189,6 @@
           "publishedOn": "2023-04-10T08:12:00.000Z",
           "wordCount": 1455,
           "title": "从JL引理看熵不变性Attention",
-          "imageUrl": null
-        },
-        {
-          "id": "https://kexue.fm/archives/9577",
-          "author": "苏剑林",
-          "description": "万万没想到，Bias项能跟Transformer的长度外推性联系在一起！长度外推性是我们希望Transformer具有的一个理想性质，笔者曾在《Transformer升级之路：7、长度外推性与局...",
-          "link": "https://kexue.fm/archives/9577",
-          "publishedOn": "2023-04-03T12:56:00.000Z",
-          "wordCount": 1541,
-          "title": "Bias项的神奇作用：RoPE + Bias = 更好的长度外推性",
           "imageUrl": null
         }
       ]
