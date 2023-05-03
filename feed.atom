@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-05-03T19:12:10.835Z</updated>
+    <updated>2023-05-03T20:16:07.466Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -2588,50 +2588,6 @@ Read more...]]></summary>
         <summary type="html"><![CDATA[Our previous post was on "Hallucinations: In Xanadu did LLMs vainly fancify" (4/3/23).  If you were wondering where such an evocative, exotic name came from, it has a direct lineage back to the Mongol Yuan Dynasty (1271-1368) of China where it was called Shàngdū 上都 ("Upper Capital") in Mandarin, ultimately from early Mandarin ʂaŋ` tū.  […]]]></summary>
         <author>
             <name>Victor Mair</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learning Fitness Functions for Machine Programming]]></title>
-        <id>http://arxiv.org/abs/1908.08783</id>
-        <link href="http://arxiv.org/abs/1908.08783"/>
-        <updated>2023-04-04T07:13:40.997Z</updated>
-        <summary type="html"><![CDATA[Shantanu Mandal, Todd A. Anderson, Javier S. Turek, Justin
-  Gottschlich, Shengtian Zhou, Abdullah Muzahid]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Modelling customer churn for the retail industry in a deep learning
-  based sequential framework]]></title>
-        <id>http://arxiv.org/abs/2304.00575</id>
-        <link href="http://arxiv.org/abs/2304.00575"/>
-        <updated>2023-04-04T07:13:40.990Z</updated>
-        <summary type="html"><![CDATA[Juan Pablo Equihua, Henrik Nordmark, Maged Ali, Berthold Lausen]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Indeterminate Probability Neural Network]]></title>
-        <id>http://arxiv.org/abs/2303.11536</id>
-        <link href="http://arxiv.org/abs/2303.11536"/>
-        <updated>2023-04-04T07:13:40.985Z</updated>
-        <summary type="html"><![CDATA[Tao Yang, Chuang Liu, Xiaofeng Ma, Weijia Lu, Ning Wu, Bingyang Li,
-  Zhifei Yang, Peng Liu, Lin Sun, Xiaodong Zhang, Can Zhang]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Efficient human-in-loop deep learning model training with iterative
-  refinement and statistical result validation]]></title>
-        <id>http://arxiv.org/abs/2304.00990</id>
-        <link href="http://arxiv.org/abs/2304.00990"/>
-        <updated>2023-04-04T07:13:40.978Z</updated>
-        <summary type="html"><![CDATA[Manuel Zahn, Douglas P. Perrin]]></summary>
-        <author>
-            <name>arxivist feed</name>
         </author>
     </entry>
 </feed>
