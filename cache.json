@@ -6,6 +6,56 @@
       "siteUrl": "https://www.arxivist.com",
       "articles": [
         {
+          "id": "http://arxiv.org/abs/2305.01143",
+          "author": null,
+          "description": "Yuxin Dong, Tieliang Gong, Hong Chen, Chen Li",
+          "link": "http://arxiv.org/abs/2305.01143",
+          "publishedOn": "2023-05-03T07:15:02.721Z",
+          "wordCount": 697,
+          "title": "Understanding the Generalization Ability of Deep Learning Algorithms: A\n  Kernelized Renyi's Entropy Perspective",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2107.08649",
+          "author": null,
+          "description": "Dong-Young Lim, Ariel Neufeld, Sotirios Sabanis, Ying Zhang",
+          "link": "http://arxiv.org/abs/2107.08649",
+          "publishedOn": "2023-05-03T07:15:02.715Z",
+          "wordCount": 776,
+          "title": "Non-asymptotic estimates for TUSLA algorithm for non-convex learning\n  with applications to neural networks with ReLU activation function",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2206.08201",
+          "author": null,
+          "description": "Michail Spitieris, Ingelin Steinsland",
+          "link": "http://arxiv.org/abs/2206.08201",
+          "publishedOn": "2023-05-03T07:15:01.356Z",
+          "wordCount": 724,
+          "title": "Learning Physics between Digital Twins with Low-Fidelity Models and\n  Physics-Informed Gaussian Processes",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2210.15764",
+          "author": null,
+          "description": "Noam Levi, Itay M. Bloch, Marat Freytsis, Tomer Volansky",
+          "link": "http://arxiv.org/abs/2210.15764",
+          "publishedOn": "2023-05-03T07:15:01.340Z",
+          "wordCount": 682,
+          "title": "Noise Injection Node Regularization for Robust Learning",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2210.13599",
+          "author": null,
+          "description": "Noam Levi, Itay Bloch, Marat Freytsis, Tomer Volansky",
+          "link": "http://arxiv.org/abs/2210.13599",
+          "publishedOn": "2023-05-03T07:15:01.333Z",
+          "wordCount": 640,
+          "title": "Noise Injection as a Probe of Deep Learning Dynamics",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
           "id": "http://arxiv.org/abs/2305.00054",
           "author": null,
           "description": "Hoang Anh Just, Feiyang Kang, Jiachen T. Wang, Yi Zeng, Myeongseob Ko,\n  Ming Jin, Ruoxi Jia",

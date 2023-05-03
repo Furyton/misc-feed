@@ -2,10 +2,63 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-05-03T06:19:18.506Z</updated>
+    <updated>2023-05-03T07:15:08.386Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Understanding the Generalization Ability of Deep Learning Algorithms: A
+  Kernelized Renyi's Entropy Perspective]]></title>
+        <id>http://arxiv.org/abs/2305.01143</id>
+        <link href="http://arxiv.org/abs/2305.01143"/>
+        <updated>2023-05-03T07:15:02.721Z</updated>
+        <summary type="html"><![CDATA[Yuxin Dong, Tieliang Gong, Hong Chen, Chen Li]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Non-asymptotic estimates for TUSLA algorithm for non-convex learning
+  with applications to neural networks with ReLU activation function]]></title>
+        <id>http://arxiv.org/abs/2107.08649</id>
+        <link href="http://arxiv.org/abs/2107.08649"/>
+        <updated>2023-05-03T07:15:02.715Z</updated>
+        <summary type="html"><![CDATA[Dong-Young Lim, Ariel Neufeld, Sotirios Sabanis, Ying Zhang]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learning Physics between Digital Twins with Low-Fidelity Models and
+  Physics-Informed Gaussian Processes]]></title>
+        <id>http://arxiv.org/abs/2206.08201</id>
+        <link href="http://arxiv.org/abs/2206.08201"/>
+        <updated>2023-05-03T07:15:01.356Z</updated>
+        <summary type="html"><![CDATA[Michail Spitieris, Ingelin Steinsland]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Noise Injection Node Regularization for Robust Learning]]></title>
+        <id>http://arxiv.org/abs/2210.15764</id>
+        <link href="http://arxiv.org/abs/2210.15764"/>
+        <updated>2023-05-03T07:15:01.340Z</updated>
+        <summary type="html"><![CDATA[Noam Levi, Itay M. Bloch, Marat Freytsis, Tomer Volansky]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Noise Injection as a Probe of Deep Learning Dynamics]]></title>
+        <id>http://arxiv.org/abs/2210.13599</id>
+        <link href="http://arxiv.org/abs/2210.13599"/>
+        <updated>2023-05-03T07:15:01.333Z</updated>
+        <summary type="html"><![CDATA[Noam Levi, Itay Bloch, Marat Freytsis, Tomer Volansky]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[No paddling]]></title>
         <id>https://languagelog.ldc.upenn.edu/nll/?p=58604</id>
