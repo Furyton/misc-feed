@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-05-03T03:16:12.644Z</updated>
+    <updated>2023-05-03T04:17:59.086Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[No paddling]]></title>
+        <id>https://languagelog.ldc.upenn.edu/nll/?p=58604</id>
+        <link href="https://languagelog.ldc.upenn.edu/nll/?p=58604&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=no-paddling"/>
+        <updated>2023-05-03T03:45:38.000Z</updated>
+        <summary type="html"><![CDATA[And no dabbling either (see "Selected readings"). Qǐng wù xī shuǐ 請勿嬉水 "Please don't play in the water" The anonymous contributor who took this photograph in Hong Kong and sent it to me remarked:  "I believe it is correct English though." You will also see signs that translate xī shuǐ 嬉水 ("play in the water") as ("frolicking") […]]]></summary>
+        <author>
+            <name>Victor Mair</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AIxcuse me?!]]></title>
         <id>http://xianblog.wordpress.com/?p=52923</id>
@@ -2579,16 +2589,6 @@ Read more...]]></summary>
         <summary type="html"><![CDATA[Deep learning 2020 Deep learning 2030 Deep learning 2040]]></summary>
         <author>
             <name>Gil Kalai</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hallucinations:  In Xanadu did LLMs vainly fancify]]></title>
-        <id>https://languagelog.ldc.upenn.edu/nll/?p=58338</id>
-        <link href="https://languagelog.ldc.upenn.edu/nll/?p=58338&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=hallucinations-in-xanadu-did-llms-vainly-fancify"/>
-        <updated>2023-04-03T15:55:16.000Z</updated>
-        <summary type="html"><![CDATA[Bill Benzon has been our most prolific humanistic commentator about GPTs, almost as prolific as GPTs themselves.  Here he introduces his latest creation in / on the genre: "From 'Kubla Khan' through GPT and beyond", 3 Quarks Daily (3/27/23) In a covering note to me, Bill writes: A story about how I came to be […]]]></summary>
-        <author>
-            <name>Victor Mair</name>
         </author>
     </entry>
 </feed>
