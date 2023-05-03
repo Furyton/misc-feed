@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-05-03T17:12:55.059Z</updated>
+    <updated>2023-05-03T18:18:32.282Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[IndoorSim-to-OutdoorReal: Learning to navigate outdoors without any outdoor experience]]></title>
+        <id>http://ai.googleblog.com/2023/05/indoorsim-to-outdoorreal-learning-to.html</id>
+        <link href="http://ai.googleblog.com/2023/05/indoorsim-to-outdoorreal-learning-to.html"/>
+        <updated>2023-05-03T17:22:00.000Z</updated>
+        <summary type="html"><![CDATA[Posted by Joanne Truong, Student Researcher, and Wenhao Yu, Research Scientist, Robotics at Google
+
+
+
+
+
+Teaching mobile robots to navigate in complex outdoor environments is critical to real-world applications, such as delivery or search and rescue. However, this is also a challenging problem as the robot needs to perceive its surroundings, and then explore to identify feasible paths towards the goal. Another common challenge is that the robot needs to overcome uneven terrains, such as stairs, curbs, or rockbed on a trail, while avoiding obstacles and pedestrians. In our prior work, we investigated the second challenge by teaching a quadruped robot to tackle challenging uneven obstacles and various outdoor terrains. 
+
+
+
+In “IndoorSim-to-OutdoorReal: Learning to Navigate Outdoors without an…]]></summary>
+        <author>
+            <name>Google AI Blog</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Understanding the Generalization Ability of Deep Learning Algorithms: A
   Kernelized Renyi's Entropy Perspective]]></title>
