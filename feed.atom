@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-05-04T08:19:14.542Z</updated>
+    <updated>2023-05-04T09:15:08.547Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -2631,16 +2631,6 @@ Read more...]]></summary>
         <summary type="html"><![CDATA[The Riddler was about a number game, which meant starting a sum at 0 and adding i to the current sum at time i, almost a Fibonacci sequence but not exactly, since the sequence is simply which is easy to code, is of period 200, and this code showed that 3, 28, 53, and 78 […]]]></summary>
         <author>
             <name>xi'an</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Topical weather prediction]]></title>
-        <id>https://languagelog.ldc.upenn.edu/nll/?p=58361</id>
-        <link href="https://languagelog.ldc.upenn.edu/nll/?p=58361&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=topical-weather-prediction"/>
-        <updated>2023-04-04T21:03:36.000Z</updated>
-        <summary type="html"><![CDATA[Weather outlook: MOSTLY STORMY on Tuesday. 😉 pic.twitter.com/qKcqZa6svL — Jon Cooper (@joncoopertweets) April 3, 2023]]></summary>
-        <author>
-            <name>Mark Liberman</name>
         </author>
     </entry>
 </feed>
