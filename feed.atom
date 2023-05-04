@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-05-04T11:13:23.907Z</updated>
+    <updated>2023-05-04T12:29:21.204Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -2602,25 +2602,6 @@ Continue reading "An AI Miracle Malcontent"]]></summary>
         <summary type="html"><![CDATA[Mrinank Sharma, Tom Rainforth, Yee Whye Teh, Vincent Fortuin]]></summary>
         <author>
             <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Polars for initial data analysis, Polars for production]]></title>
-        <id>https://pythonspeed.com/articles/polars-exploratory-data-analysis-vs-production/</id>
-        <link href="https://pythonspeed.com/articles/polars-exploratory-data-analysis-vs-production/"/>
-        <updated>2023-04-05T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Initial data analysis (IDA) has different goals than your final, production data analysis:
-With IDA you need to examine the initial data and intermediate results, check your assumptions, and try different approaches.
-Exploratory data analysis has similar requirements.
-Once you’re happy with your approach, and you’re ready to run the analysis in an automated manner, you care a lot more about speed and resource usage.
-These different goals often benefit from different implementation strategies and tools—unless you have a sufficiently flexible tool like Polars, the super-fast dataframe library.
-In particular, Polars has two fundamental APIs, each of which is useful in different situations:
-“Eager” mode, which is similar to how Pandas works, is well-suited for initial and exploratory data analysis.
-For production use, “lazy” mode often execute much faster, with lower memory usage, at the cost of not giving you access to intermediate result.
-In this article we’ll use both two APIs and see how Polars lets you transition from looking at the data to something we can run even more efficiently in production.
-Read more...]]></summary>
-        <author>
-            <name>Python⇒Speed</name>
         </author>
     </entry>
 </feed>
