@@ -2,10 +2,63 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-05-04T06:19:23.199Z</updated>
+    <updated>2023-05-04T07:14:40.325Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[A survey on online active learning]]></title>
+        <id>http://arxiv.org/abs/2302.08893</id>
+        <link href="http://arxiv.org/abs/2302.08893"/>
+        <updated>2023-05-04T07:14:32.958Z</updated>
+        <summary type="html"><![CDATA[Davide Cacciarelli, Murat Kulahci]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Transferablility of coVariance Neural Networks and Application to
+  Interpretable Brain Age Prediction using Anatomical Features]]></title>
+        <id>http://arxiv.org/abs/2305.01807</id>
+        <link href="http://arxiv.org/abs/2305.01807"/>
+        <updated>2023-05-04T07:14:32.172Z</updated>
+        <summary type="html"><![CDATA[Saurabh Sihag, Gonzalo Mateos, Corey T. McMillan, Alejandro Ribeiro]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cheap and Deterministic Inference for Deep State-Space Models of
+  Interacting Dynamical Systems]]></title>
+        <id>http://arxiv.org/abs/2305.01773</id>
+        <link href="http://arxiv.org/abs/2305.01773"/>
+        <updated>2023-05-04T07:14:31.666Z</updated>
+        <summary type="html"><![CDATA[Andreas Look, Melih Kandemir, Barbara Rakitsch, Jan Peters]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Probabilistic Contrastive Learning Recovers the Correct Aleatoric
+  Uncertainty of Ambiguous Inputs]]></title>
+        <id>http://arxiv.org/abs/2302.02865</id>
+        <link href="http://arxiv.org/abs/2302.02865"/>
+        <updated>2023-05-04T07:14:31.419Z</updated>
+        <summary type="html"><![CDATA[Michael Kirchhof, Enkelejda Kasneci, Seong Joon Oh]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[fairml: A Statistician's Take on Fair Machine Learning Modelling]]></title>
+        <id>http://arxiv.org/abs/2305.02009</id>
+        <link href="http://arxiv.org/abs/2305.02009"/>
+        <updated>2023-05-04T07:14:31.413Z</updated>
+        <summary type="html"><![CDATA[Marco Scutari]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA["Shribe" in Mongolian historiography]]></title>
         <id>https://languagelog.ldc.upenn.edu/nll/?p=58615</id>

@@ -6,6 +6,56 @@
       "siteUrl": "https://www.arxivist.com",
       "articles": [
         {
+          "id": "http://arxiv.org/abs/2302.08893",
+          "author": null,
+          "description": "Davide Cacciarelli, Murat Kulahci",
+          "link": "http://arxiv.org/abs/2302.08893",
+          "publishedOn": "2023-05-04T07:14:32.958Z",
+          "wordCount": 741,
+          "title": "A survey on online active learning",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2305.01807",
+          "author": null,
+          "description": "Saurabh Sihag, Gonzalo Mateos, Corey T. McMillan, Alejandro Ribeiro",
+          "link": "http://arxiv.org/abs/2305.01807",
+          "publishedOn": "2023-05-04T07:14:32.172Z",
+          "wordCount": 791,
+          "title": "Transferablility of coVariance Neural Networks and Application to\n  Interpretable Brain Age Prediction using Anatomical Features",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2305.01773",
+          "author": null,
+          "description": "Andreas Look, Melih Kandemir, Barbara Rakitsch, Jan Peters",
+          "link": "http://arxiv.org/abs/2305.01773",
+          "publishedOn": "2023-05-04T07:14:31.666Z",
+          "wordCount": 753,
+          "title": "Cheap and Deterministic Inference for Deep State-Space Models of\n  Interacting Dynamical Systems",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2302.02865",
+          "author": null,
+          "description": "Michael Kirchhof, Enkelejda Kasneci, Seong Joon Oh",
+          "link": "http://arxiv.org/abs/2302.02865",
+          "publishedOn": "2023-05-04T07:14:31.419Z",
+          "wordCount": 688,
+          "title": "Probabilistic Contrastive Learning Recovers the Correct Aleatoric\n  Uncertainty of Ambiguous Inputs",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2305.02009",
+          "author": null,
+          "description": "Marco Scutari",
+          "link": "http://arxiv.org/abs/2305.02009",
+          "publishedOn": "2023-05-04T07:14:31.413Z",
+          "wordCount": 697,
+          "title": "fairml: A Statistician's Take on Fair Machine Learning Modelling",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
           "id": "http://arxiv.org/abs/2305.01143",
           "author": null,
           "description": "Yuxin Dong, Tieliang Gong, Hong Chen, Chen Li",
