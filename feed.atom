@@ -2,10 +2,35 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-05-04T22:14:25.281Z</updated>
+    <updated>2023-05-04T23:16:04.470Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Balto’s genome]]></title>
+        <id>http://xianblog.wordpress.com/?p=52894</id>
+        <link href="https://xianblog.wordpress.com/2023/05/05/baltos-genome/"/>
+        <updated>2023-05-04T22:23:19.000Z</updated>
+        <summary type="html"><![CDATA[Visit the post for more.]]></summary>
+        <author>
+            <name>xi'an</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MaMMUT: A simple vision-encoder text-decoder architecture for multimodal tasks]]></title>
+        <id>http://ai.googleblog.com/2023/05/mammut-simple-vision-encoder-text.html</id>
+        <link href="http://ai.googleblog.com/2023/05/mammut-simple-vision-encoder-text.html"/>
+        <updated>2023-05-04T21:59:00.004Z</updated>
+        <summary type="html"><![CDATA[Posted by AJ Piergiovanni and Anelia Angelova, Research Scientists, Google Research
+
+
+
+
+Vision-language foundational models are built on the premise of a single pre-training followed by subsequent adaptation to multiple downstream tasks. Two main and disjoint training scenarios are popular: a CLIP-style contrastive learning and next-token prediction. Contrastive learning trains the model to predict if image-text pairs correctly match, effectively building visual and text representations for the corresponding image and text inputs, whereas next-token prediction predicts the most likely next text token in a sequence, thus learning to generate text, according to the required task. Contrastive learning enables image-text and text-image retrieval tasks, such as finding the image that best match…]]></summary>
+        <author>
+            <name>Google AI Blog</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bayesian learning]]></title>
         <id>http://xianblog.wordpress.com/?p=52879</id>
