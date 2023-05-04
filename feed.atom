@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-05-04T10:16:14.149Z</updated>
+    <updated>2023-05-04T11:13:23.907Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -2621,16 +2621,6 @@ In this article we’ll use both two APIs and see how Polars lets you transition
 Read more...]]></summary>
         <author>
             <name>Python⇒Speed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[common leftovers]]></title>
-        <id>http://xianblog.wordpress.com/?p=52527</id>
-        <link href="https://xianblog.wordpress.com/2023/04/05/common-leftovers/"/>
-        <updated>2023-04-04T22:23:25.000Z</updated>
-        <summary type="html"><![CDATA[The Riddler was about a number game, which meant starting a sum at 0 and adding i to the current sum at time i, almost a Fibonacci sequence but not exactly, since the sequence is simply which is easy to code, is of period 200, and this code showed that 3, 28, 53, and 78 […]]]></summary>
-        <author>
-            <name>xi'an</name>
         </author>
     </entry>
 </feed>
