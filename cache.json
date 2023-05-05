@@ -1161,6 +1161,16 @@
       "siteUrl": "https://kexue.fm/",
       "articles": [
         {
+          "id": "https://kexue.fm/archives/9595",
+          "author": "苏剑林",
+          "description": "在机器学习中，我们经常会谈到稀疏性，比如我们经常说注意力矩阵通常是很稀疏的。然而，不知道大家发现没有，我们似乎从没有给出过度量稀疏程度的标准方法。也就是说，以往我们关于稀疏性的讨论，仅仅是直观层...",
+          "link": "https://kexue.fm/archives/9595",
+          "publishedOn": "2023-05-05T03:19:00.000Z",
+          "wordCount": 1635,
+          "title": "如何度量数据的稀疏程度？",
+          "imageUrl": null
+        },
+        {
           "id": "https://kexue.fm/archives/9593",
           "author": "苏剑林",
           "description": "最近几周笔者一直都在思考注意力机制的相关性质，在这个过程中对注意力及Softmax有了更深刻的理解。在这篇文章中，笔者简单分享其中的两点：1、Softmax注意力天然能够抵御一定的噪声扰动；2、...",
