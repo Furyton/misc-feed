@@ -6,6 +6,56 @@
       "siteUrl": "https://www.arxivist.com",
       "articles": [
         {
+          "id": "http://arxiv.org/abs/2305.02657",
+          "author": null,
+          "description": "Yicheng Li, Zixiong Yu, Guhan Chen, Qian Lin",
+          "link": "http://arxiv.org/abs/2305.02657",
+          "publishedOn": "2023-05-05T07:13:30.015Z",
+          "wordCount": 621,
+          "title": "Statistical Optimality of Deep Wide Neural Networks",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2104.09371",
+          "author": null,
+          "description": "Aniruddha Rajendra Rao, Matthew Reimherr",
+          "link": "http://arxiv.org/abs/2104.09371",
+          "publishedOn": "2023-05-05T07:13:30.009Z",
+          "wordCount": 666,
+          "title": "Non-linear Functional Modeling using Neural Networks",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/1909.12098",
+          "author": null,
+          "description": "Seyedsaman Emami, Gonzalo Mart\\'inez-Mu\\~noz",
+          "link": "http://arxiv.org/abs/1909.12098",
+          "publishedOn": "2023-05-05T07:13:30.002Z",
+          "wordCount": 799,
+          "title": "Sequential Training of Neural Networks with Gradient Boosting",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2305.02573",
+          "author": null,
+          "description": "Ziheng Cheng, Junzi Zhang, Akshay Agrawal, Stephen Boyd",
+          "link": "http://arxiv.org/abs/2305.02573",
+          "publishedOn": "2023-05-05T07:13:29.977Z",
+          "wordCount": 736,
+          "title": "Joint Graph Learning and Model Fitting in Laplacian Regularized\n  Stratified Models",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2305.02499",
+          "author": null,
+          "description": "Shujian Zhang, Chengyue Gong, Lemeng Wu, Xingchao Liu, Mingyuan Zhou",
+          "link": "http://arxiv.org/abs/2305.02499",
+          "publishedOn": "2023-05-05T07:13:29.971Z",
+          "wordCount": 688,
+          "title": "AutoML-GPT: Automatic Machine Learning with GPT",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
           "id": "http://arxiv.org/abs/2302.08893",
           "author": null,
           "description": "Davide Cacciarelli, Murat Kulahci",
@@ -1239,7 +1289,48 @@
       "title": "Statistics » Event Diary",
       "feedUrl": "https://warwick.ac.uk/sitebuilder2/api/rss/news.rss?page=/fac/sci/statistics/event_diary/&tag=CRiSM%20seminars&rss=true&view=upcoming",
       "siteUrl": "https://warwick.ac.uk/fac/sci/statistics/event_diary/",
-      "articles": []
+      "articles": [
+        {
+          "id": "8a17841b87bcdaa00187eaa431674bef",
+          "author": "Statistics",
+          "description": "When:\r\n\t\r\n  \t\t11:00\r\n\t\t-\r\n\t\t12:00, Wed, 10 May '23\r\n\r\n\t\nWhere: MB0.07",
+          "link": "https://warwick.ac.uk/fac/sci/statistics/event_diary/?calendarItem=8a17841b835b10a4018360b5677a44f9",
+          "publishedOn": "2023-05-05T06:40:41.000Z",
+          "wordCount": 355,
+          "title": "10/05 11am-12pm: CRiSM Seminar",
+          "imageUrl": null
+        },
+        {
+          "id": "8a17841b87bcdaa00187eaa431674bf0",
+          "author": "Statistics",
+          "description": "When:\r\n\t\r\n  \t\t11:00\r\n\t\t-\r\n\t\t12:00, Wed, 24 May '23\r\n\r\n\t\nWhere: MB0.07",
+          "link": "https://warwick.ac.uk/fac/sci/statistics/event_diary/?calendarItem=8a17841b835b10a4018360b5677a44f9",
+          "publishedOn": "2023-05-05T06:40:41.000Z",
+          "wordCount": 355,
+          "title": "24/05 11am-12pm: CRiSM Seminar",
+          "imageUrl": null
+        },
+        {
+          "id": "8a17841b87bcdaa00187eaa431674bf1",
+          "author": "Statistics",
+          "description": "When:\r\n\t\r\n  \t\t11:00\r\n\t\t-\r\n\t\t12:00, Wed, 07 Jun '23\r\n\r\n\t\nWhere: MB0.07",
+          "link": "https://warwick.ac.uk/fac/sci/statistics/event_diary/?calendarItem=8a17841b835b10a4018360b5677a44f9",
+          "publishedOn": "2023-05-05T06:40:41.000Z",
+          "wordCount": 355,
+          "title": "07/06 11am-12pm: CRiSM Seminar",
+          "imageUrl": null
+        },
+        {
+          "id": "8a17841b87bcdaa00187eaa431674bf2",
+          "author": "Statistics",
+          "description": "When:\r\n\t\r\n  \t\t11:00\r\n\t\t-\r\n\t\t12:00, Wed, 21 Jun '23\r\n\r\n\t\nWhere: MB0.07",
+          "link": "https://warwick.ac.uk/fac/sci/statistics/event_diary/?calendarItem=8a17841b835b10a4018360b5677a44f9",
+          "publishedOn": "2023-05-05T06:40:41.000Z",
+          "wordCount": 355,
+          "title": "21/06 11am-12pm: CRiSM Seminar",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "arg min blog",
