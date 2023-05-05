@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-05-05T14:13:54.440Z</updated>
+    <updated>2023-05-05T15:15:24.340Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -143,6 +143,23 @@ Where: MB0.07]]></summary>
         <summary type="html"><![CDATA[在机器学习中，我们经常会谈到稀疏性，比如我们经常说注意力矩阵通常是很稀疏的。然而，不知道大家发现没有，我们似乎从没有给出过度量稀疏程度的标准方法。也就是说，以往我们关于稀疏性的讨论，仅仅是直观层...]]></summary>
         <author>
             <name>苏剑林</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["Externally managed environments": when PEP 668 breaks pip]]></title>
+        <id>https://pythonspeed.com/articles/externally-managed-environment-pep-668/</id>
+        <link href="https://pythonspeed.com/articles/externally-managed-environment-pep-668/"/>
+        <updated>2023-05-05T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[You’re on a new version of Linux, you try a pip install, and it errors out, talking about “externally managed environments” and “PEP 668”.
+What’s going on?
+How do you solve this?
+Let’s see:
+What the problem looks like, and what causes it.
+The places you are likely to encounter it.
+A variety of solutions, depending on your use case.
+Read more...]]></summary>
+        <author>
+            <name>Python⇒Speed</name>
         </author>
     </entry>
     <entry>
