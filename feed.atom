@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-05-05T20:15:40.121Z</updated>
+    <updated>2023-05-05T21:12:46.823Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -2631,20 +2631,6 @@ Project Starline, a technology project that combines advances in hardware and so
 Bayesian optimization (BayesOpt) is a powerful tool widely used for global optimization tasks, such as hyperparameter tuning, protein engineering, synthetic chemistry, robot learning, and even baking cookies. BayesOpt is a great strategy for these problems because they all involve optimizing black-box functions that are expensive to evaluate. A black-box function’s underlying mapping from inputs (configurations of the thing we want to optimize) to outputs (a measure of performance) is unknown. However, we can attempt to understand its internal workings by evaluating the function for different combinations of inputs. Because each evaluation can be computationally expensive, we need to find the best i…]]></summary>
         <author>
             <name>Google AI Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Interactive Fleet Learning]]></title>
-        <id>http://bair.berkeley.edu/blog/2023/04/06/ifl/</id>
-        <link href="http://bair.berkeley.edu/blog/2023/04/06/ifl/"/>
-        <updated>2023-04-06T09:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Figure 1: “Interactive Fleet Learning” (IFL) refers to robot fleets in industry and academia that fall back on human teleoperators when necessary and continually learn from them over time.
-
-
-In the last few years we have seen an exciting development in robotics and artificial intelligence: large fleets of robots have left the lab and entered the real world. Waymo, for example, has over 700 self-driving cars operating in Phoenix and San Francisco and is currently expanding to Los Angeles. Other industrial deployments of robot fleets include applications like e-commerce order fulfillment at Amazon and Ambi Robotics as well as food delivery at Nuro and Kiwibot.
-Commercial and industrial deployments of robot fleets: package delivery (top left), food delivery (bottom left), e-commerce order ful…]]></summary>
-        <author>
-            <name>The Berkeley Artificial Intelligence Research Blog</name>
         </author>
     </entry>
 </feed>
