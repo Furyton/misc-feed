@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-05-05T04:18:10.331Z</updated>
+    <updated>2023-05-05T05:14:32.206Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA["I don't think it exactly qualifies as language"]]></title>
+        <id>https://languagelog.ldc.upenn.edu/nll/?p=58621</id>
+        <link href="https://languagelog.ldc.upenn.edu/nll/?p=58621&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=i-dont-think-it-exactly-qualifies-as-language"/>
+        <updated>2023-05-05T04:20:11.000Z</updated>
+        <summary type="html"><![CDATA[From 9 Chickweed Lane (4/28/23): (source) Question from Francois Lang, who sent this in:   "Don't agonized screams have semantic or pragmatic content?" Selected readings "More 'screaming and spluttering' from Matthew Engel" (7/21/11) "The emerging science of gendered yelling" (9/5/06)]]></summary>
+        <author>
+            <name>Victor Mair</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[如何度量数据的稀疏程度？]]></title>
         <id>https://kexue.fm/archives/9595</id>
