@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-05-05T19:11:45.651Z</updated>
+    <updated>2023-05-05T20:15:40.121Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -2645,59 +2645,6 @@ In the last few years we have seen an exciting development in robotics and artif
 Commercial and industrial deployments of robot fleets: package delivery (top left), food delivery (bottom left), e-commerce order ful…]]></summary>
         <author>
             <name>The Berkeley Artificial Intelligence Research Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[On the universal approximation property of radial basis function neural
-  networks]]></title>
-        <id>http://arxiv.org/abs/2304.02220</id>
-        <link href="http://arxiv.org/abs/2304.02220"/>
-        <updated>2023-04-06T07:13:33.299Z</updated>
-        <summary type="html"><![CDATA[Aysu Ismayilova, Muhammad Ismayilov]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bayesian neural networks via MCMC: a Python-based tutorial]]></title>
-        <id>http://arxiv.org/abs/2304.02595</id>
-        <link href="http://arxiv.org/abs/2304.02595"/>
-        <updated>2023-04-06T07:13:33.294Z</updated>
-        <summary type="html"><![CDATA[Rohitash Chandra, Royce Chen, Joshua Simmons]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Algorithm-Dependent Bounds for Representation Learning of Multi-Source
-  Domain Adaptation]]></title>
-        <id>http://arxiv.org/abs/2304.02064</id>
-        <link href="http://arxiv.org/abs/2304.02064"/>
-        <updated>2023-04-06T07:13:33.269Z</updated>
-        <summary type="html"><![CDATA[Qi Chen, Mario Marchand]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learning Data Representations with Joint Diffusion Models]]></title>
-        <id>http://arxiv.org/abs/2301.13622</id>
-        <link href="http://arxiv.org/abs/2301.13622"/>
-        <updated>2023-04-06T07:13:33.198Z</updated>
-        <summary type="html"><![CDATA[Kamil Deja, Tomasz Trzcinski, Jakub M. Tomczak]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bayesian Free Energy of Deep ReLU Neural Network in Overparametrized
-  Cases]]></title>
-        <id>http://arxiv.org/abs/2303.15739</id>
-        <link href="http://arxiv.org/abs/2303.15739"/>
-        <updated>2023-04-06T07:13:33.192Z</updated>
-        <summary type="html"><![CDATA[Shuya Nagayasu, Sumio Watanabe]]></summary>
-        <author>
-            <name>arxivist feed</name>
         </author>
     </entry>
 </feed>
