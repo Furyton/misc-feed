@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-05-05T09:14:40.082Z</updated>
+    <updated>2023-05-05T10:16:22.201Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -2701,28 +2701,6 @@ Commercial and industrial deployments of robot fleets: package delivery (top lef
         <summary type="html"><![CDATA[Visit the post for more.]]></summary>
         <author>
             <name>xi'an</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[An AI Miracle Malcontent]]></title>
-        <id>https://hunch.net/?p=13763005</id>
-        <link href="https://hunch.net/?p=13763005"/>
-        <updated>2023-04-05T21:44:38.000Z</updated>
-        <summary type="html"><![CDATA[The stark success of OpenAI’s GPT4 model surprised me shifting my view from “really good autocomplete” (roughly inline with intuitions here) to a dialog agent exhibiting a significant scope of reasoning and intelligence. Some of the MSR folks did a fairly thorough study of capabilities which seems like a good reference. I think of GPT4 … 
-Continue reading "An AI Miracle Malcontent"]]></summary>
-        <author>
-            <name>John Langford</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[An AI Miracle Malcontent]]></title>
-        <id>https://hunch.net/?p=13763005</id>
-        <link href="https://hunch.net/?p=13763005"/>
-        <updated>2023-04-05T21:44:38.000Z</updated>
-        <summary type="html"><![CDATA[The stark success of OpenAI’s GPT4 model surprised me shifting my view from “really good autocomplete” (roughly inline with intuitions here) to a dialog agent exhibiting a significant scope of reasoning and intelligence. Some of the MSR folks did a fairly thorough study of capabilities which seems like a good reference. I think of GPT4 … 
-Continue reading "An AI Miracle Malcontent"]]></summary>
-        <author>
-            <name>John Langford</name>
         </author>
     </entry>
 </feed>
