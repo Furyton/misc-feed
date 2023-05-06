@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-05-06T18:17:46.663Z</updated>
+    <updated>2023-05-06T19:11:19.393Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Understanding the Transformer architecture for neural networks]]></title>
+        <id>64489047578bbf003dccd8e8</id>
+        <link href="https://www.jeremyjordan.me/transformer-architecture/"/>
+        <updated>2023-05-06T18:17:57.000Z</updated>
+        <summary type="html"><![CDATA[The attention mechanism allows us to merge a variable-length sequence of vectors into a fixed-size context vector. What if we could use this mechanism to entirely replace recurrence for sequential modeling? This blog post covers the Transformer architecture which explores such an approach.]]></summary>
+        <author>
+            <name>Jeremy Jordan</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA["Move out of Missouri"]]></title>
         <id>https://languagelog.ldc.upenn.edu/nll/?p=58624</id>
@@ -2562,26 +2572,6 @@ Collaboration between researchers in the industry and academia is essential for 
         <summary type="html"><![CDATA[Azal Ahmad Khan, Omkar Chaudhari, Rohitash Chandra]]></summary>
         <author>
             <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Celebrate PyTorch* 2.0 with New Performance Features for AI Developers]]></title>
-        <id>https://pytorch.org/blog/celebrate-pytorch-2.0/</id>
-        <link href="https://pytorch.org/blog/celebrate-pytorch-2.0/"/>
-        <updated>2023-04-07T07:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Congratulations to the PyTorch Foundation for its release of PyTorch* 2.0! In this blog, I discuss the four features for which Intel made significant contributions to PyTorch 2.0:]]></summary>
-        <author>
-            <name>PyTorch Website</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Straggler Mitigation On PyTorch DDP By Hierarchical SGD]]></title>
-        <id>https://pytorch.org/blog/straggler-mitigation/</id>
-        <link href="https://pytorch.org/blog/straggler-mitigation/"/>
-        <updated>2023-04-07T07:00:00.000Z</updated>
-        <summary type="html"><![CDATA[PyTorch DDP has been widely adopted across the industry for distributed training, which by default runs synchronous SGD to synchronize gradients across model replicas at every step. The performance of this technique is critical for fast iteration during model exploration as well as resource and cost saving. The performance is critical for fast iteration and cost saving of model development and exploration. To resolve a ubiquitous performance bottleneck introduced by slow nodes in large-scale training, Cruise and Meta co-developed a solution based on the Hierarchical SGD algorithm to significantly accelerate training in the presence of these stragglers.]]></summary>
-        <author>
-            <name>PyTorch Website</name>
         </author>
     </entry>
 </feed>
