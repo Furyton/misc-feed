@@ -2111,16 +2111,6 @@
           "wordCount": 27663,
           "title": "How Project Starline improves remote communication",
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgJAqzt53_8gR6MmDCABL8HG8EuKcyI5mFhipoRShNHzLuCAcpev4txOc2oS3IplpNqE3hYuTEydnhicaOqYavzVEn8WaJ3EH6uc5LSA4bakFLvpgBkqKopes3gew6v0I_pozO0U-7xZWCqywg_SyeTHD0R16YMG0uKncuw5tBHRn99Jr7i7RRmM1GPlg/w1200-h630-p-k-no-nu/ProjectStarline_600x580-THUMBNAIL.gif"
-        },
-        {
-          "id": "http://ai.googleblog.com/2023/04/pre-trained-gaussian-processes-for.html",
-          "author": null,
-          "description": "Posted by Zi Wang and Kevin Swersky, Research Scientists, Google Research, Brain Team \n\n\n\n\n\nBayesian optimization (BayesOpt) is a powerful tool widely used for global optimization tasks, such as hyperparameter tuning, protein engineering, synthetic chemistry, robot learning, and even baking cookies. BayesOpt is a great strategy for these problems because they all involve optimizing black-box functions that are expensive to evaluate. A black-box function’s underlying mapping from inputs (configurations of the thing we want to optimize) to outputs (a measure of performance) is unknown. However, we can attempt to understand its internal workings by evaluating the function for different combinations of inputs. Because each evaluation can be computationally expensive, we need to find the best i…",
-          "link": "http://ai.googleblog.com/2023/04/pre-trained-gaussian-processes-for.html",
-          "publishedOn": "2023-04-06T17:02:00.002Z",
-          "wordCount": 27732,
-          "title": "Pre-trained Gaussian processes for Bayesian optimization",
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHaIHu8Qq_S6TMsZnowyihzCgWuC09RauFlYyomRqS5zsHe9DC8JhuT9DA9jiJQvEBX6zDzd9rMhCRUeSHDgPTBwtUJzAMsDZdz2Y1qaVt0VKCVsspsYDXfj9tF8GxsU8P1ijXrP7VcVtpk21GmO7aBLVgwaYnSrt9KVDT8Nfto17yt1rQ-YUkMqum3g/w1200-h630-p-k-no-nu/HyperBo%20hero.jpg"
         }
       ]
     },
