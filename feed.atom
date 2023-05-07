@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-05-07T06:18:40.395Z</updated>
+    <updated>2023-05-07T07:13:09.359Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The automatic computation for SUSY processes]]></title>
+        <id>http://arxiv.org/abs/hep-ph/9503364</id>
+        <link href="http://arxiv.org/abs/hep-ph/9503364"/>
+        <updated>2023-05-07T07:13:04.429Z</updated>
+        <summary type="html"><![CDATA[Masato Jimbo, Tadashi Kon, Minami-Tateya collaboration]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Kimono exhibition]]></title>
         <id>http://xianblog.wordpress.com/?p=52915</id>
