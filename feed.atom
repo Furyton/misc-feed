@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-05-07T03:15:53.179Z</updated>
+    <updated>2023-05-07T04:17:43.670Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -2507,24 +2507,6 @@ Aging is a process that is characterized by physiological and molecular changes 
 
 
 Over the past several years, the capabilities of robotic systems have improved dramatically. As the technology continues to improve and robotic agents are more routinely deployed in real-world environments, their capacity to assist in day-to-day activities will take on increasing importance. Repetitive tasks like wiping surfaces, folding clothes, and cleaning a room seem well-suited for robots, but remain challenging for robotic systems designed for structured environments like factories. Performing these types of tasks in more complex environments, like offices or homes, requires dealing with greater levels of environmental variability captured by high-dimensional sensor…]]></summary>
-        <author>
-            <name>Google AI Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Directing ML toward natural hazard mitigation through collaboration]]></title>
-        <id>http://ai.googleblog.com/2023/04/directing-ml-toward-natural-hazard.html</id>
-        <link href="http://ai.googleblog.com/2023/04/directing-ml-toward-natural-hazard.html"/>
-        <updated>2023-04-07T16:09:00.003Z</updated>
-        <summary type="html"><![CDATA[Posted by Oren Gilon, Software Engineer, and Grey Nearing, Research Scientist, Google Research
-
-
-
-
-Floods are the most common type of natural disaster, affecting more than 250 million people globally each year. As part of Google's Crisis Response and our efforts to address the climate crisis, we are using machine learning (ML) models for Flood Forecasting to alert people in areas that are impacted before disaster strikes.
-
-
-Collaboration between researchers in the industry and academia is essential for accelerating progress towards mutual goals in ML-related research. Indeed, Google's current ML-based flood forecasting approach was developed in collaboration with researchers (1, 2) at the Johannes Kepler University in Vienna, Austria, the University of Alabama, and the Hebrew University of…]]></summary>
         <author>
             <name>Google AI Blog</name>
         </author>
