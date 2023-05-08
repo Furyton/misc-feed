@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-05-08T10:16:02.592Z</updated>
+    <updated>2023-05-08T11:13:07.731Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -2569,16 +2569,6 @@ Aging is a process that is characterized by physiological and molecular changes 
         <summary type="html"><![CDATA[The Chinese on the sign says: Wēnxīn tíshì 溫馨提示 ("Gentle Reminder") bǎochí ānjìng 保持安静 ("keep quiet") bǎochí qīngjié 保持清洁 ("keep clean") qǐng wù xīyān 请勿吸烟 ("no smoking") qǐng wù pāishè 请勿拍摄 ("no photos") qǐng wù fǔmō 请勿抚摸 ("don't touch") Such politeness! Selected readings "Beginning of the Semester Blues" (9/5/10) "Gentle reminder for women who approach […]]]></summary>
         <author>
             <name>Victor Mair</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Estimating means of bounded random variables by betting]]></title>
-        <id>http://xianblog.wordpress.com/?p=52728</id>
-        <link href="https://xianblog.wordpress.com/2023/04/09/estimating-means-of-bounded-random-variables-by-betting/"/>
-        <updated>2023-04-08T22:23:18.000Z</updated>
-        <summary type="html"><![CDATA[Ian Waudby-Smith and Aaditya Ramdas are presenting next month a Read Paper to the Royal Statistical Society in London on constructing a conservative confidence interval on the mean of a bounded random variable. Here is an extended abstract from within the paper: For each m ∈ [0, 1], we set up a “fair” multi-round game […]]]></summary>
-        <author>
-            <name>xi'an</name>
         </author>
     </entry>
 </feed>
