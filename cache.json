@@ -6,6 +6,46 @@
       "siteUrl": "https://www.arxivist.com",
       "articles": [
         {
+          "id": "http://arxiv.org/abs/2008.11416",
+          "author": null,
+          "description": "Xu Chen, Yuangang Pan, Ivor Tsang, Ya Zhang",
+          "link": "http://arxiv.org/abs/2008.11416",
+          "publishedOn": "2023-05-08T07:14:23.586Z",
+          "wordCount": 729,
+          "title": "Learning Node Representations against Perturbations",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2305.03531",
+          "author": null,
+          "description": "Liang Ding, Tianyang Hu, Jiahang Jiang, Donghao Li, Wenjia Wang, Yuan\n  Yao",
+          "link": "http://arxiv.org/abs/2305.03531",
+          "publishedOn": "2023-05-08T07:14:23.581Z",
+          "wordCount": 726,
+          "title": "Random Smoothing Regularization in Kernel Gradient Descent Learning",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2110.13330",
+          "author": null,
+          "description": "Chandrajit Bajaj, Luke McLennan, Timothy Andeen, Avik Roy",
+          "link": "http://arxiv.org/abs/2110.13330",
+          "publishedOn": "2023-05-08T07:14:23.576Z",
+          "wordCount": 749,
+          "title": "Recipes for when Physics Fails: Recovering Robust Learning of Physics\n  Informed Neural Networks",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2305.03395",
+          "author": null,
+          "description": "Lars Skaaret-Lund, Geir Storvik, Aliaksandr Hubin",
+          "link": "http://arxiv.org/abs/2305.03395",
+          "publishedOn": "2023-05-08T07:14:23.361Z",
+          "wordCount": 780,
+          "title": "Sparsifying Bayesian neural networks with latent binary variables and\n  normalizing flows",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
           "id": "http://arxiv.org/abs/hep-ph/9503364",
           "author": null,
           "description": "Masato Jimbo, Tadashi Kon, Minami-Tateya collaboration",
@@ -1043,7 +1083,18 @@
       "title": "Combinatorics and more",
       "feedUrl": "https://gilkalai.wordpress.com/feed/",
       "siteUrl": "https://gilkalai.wordpress.com",
-      "articles": []
+      "articles": [
+        {
+          "id": "http://gilkalai.wordpress.com/?p=24215",
+          "author": "Gil Kalai",
+          "description": "Plan for next weeks blogging There are various things to blog about and let me give a quick preview for the plan for the next few posts. The purpose of this post is to give an impression about the hectic … Continue reading →",
+          "link": "https://gilkalai.wordpress.com/2023/05/08/mathematics-mainly-combinatorics-related-matters-a-lot-of-activity/",
+          "publishedOn": "2023-05-08T06:50:10.000Z",
+          "wordCount": 4517,
+          "title": "Mathematics (mainly combinatorics) related matters: A lot of activity.",
+          "imageUrl": "https://gilkalai.files.wordpress.com/2023/05/avinoam.jpg"
+        }
+      ]
     },
     {
       "title": "Parsiad Azimzadeh",
@@ -1520,7 +1571,18 @@
       "title": "Combinatorics and more",
       "feedUrl": "https://gilkalai.wordpress.com/feed/",
       "siteUrl": "https://gilkalai.wordpress.com",
-      "articles": []
+      "articles": [
+        {
+          "id": "http://gilkalai.wordpress.com/?p=24215",
+          "author": "Gil Kalai",
+          "description": "Plan for next weeks blogging There are various things to blog about and let me give a quick preview for the plan for the next few posts. The purpose of this post is to give an impression about the hectic … Continue reading →",
+          "link": "https://gilkalai.wordpress.com/2023/05/08/mathematics-mainly-combinatorics-related-matters-a-lot-of-activity/",
+          "publishedOn": "2023-05-08T06:50:10.000Z",
+          "wordCount": 4517,
+          "title": "Mathematics (mainly combinatorics) related matters: A lot of activity.",
+          "imageUrl": "https://gilkalai.files.wordpress.com/2023/05/avinoam.jpg"
+        }
+      ]
     },
     {
       "title": "Skywind Inside",
