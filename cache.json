@@ -1054,46 +1054,6 @@
           "wordCount": 700,
           "title": "Bayesian learning of Causal Structure and Mechanisms with GFlowNets and\n  Variational Bayes",
           "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
-        },
-        {
-          "id": "http://arxiv.org/abs/2304.03408",
-          "author": null,
-          "description": "Blake Bordelon, Cengiz Pehlevan",
-          "link": "http://arxiv.org/abs/2304.03408",
-          "publishedOn": "2023-04-10T07:13:50.234Z",
-          "wordCount": 794,
-          "title": "Dynamics of Finite Width Kernel and Prediction Fluctuations in Mean\n  Field Neural Networks",
-          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
-        },
-        {
-          "id": "http://arxiv.org/abs/2301.09479",
-          "author": null,
-          "description": "Jonathan Richard Schwarz, Jihoon Tack, Yee Whye Teh, Jaeho\n  Lee, Jinwoo Shin",
-          "link": "http://arxiv.org/abs/2301.09479",
-          "publishedOn": "2023-04-10T07:13:50.229Z",
-          "wordCount": 748,
-          "title": "Modality-Agnostic Variational Compression of Implicit Neural\n  Representations",
-          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
-        },
-        {
-          "id": "http://arxiv.org/abs/2304.03757",
-          "author": null,
-          "description": "Zachary Chase, Shay Moran, Amir Yehudayoff",
-          "link": "http://arxiv.org/abs/2304.03757",
-          "publishedOn": "2023-04-10T07:13:50.223Z",
-          "wordCount": 812,
-          "title": "Replicability and stability in learning",
-          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
-        },
-        {
-          "id": "http://arxiv.org/abs/2304.03440",
-          "author": null,
-          "description": "Takuro Kutsuna",
-          "link": "http://arxiv.org/abs/2304.03440",
-          "publishedOn": "2023-04-10T07:13:49.496Z",
-          "wordCount": 697,
-          "title": "Supervised Contrastive Learning with Heterogeneous Similarity for\n  Distribution Shifts",
-          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
         }
       ]
     },
@@ -1229,16 +1189,6 @@
           "publishedOn": "2023-04-17T08:46:00.000Z",
           "wordCount": 1632,
           "title": "梯度视角下的LoRA：简介、分析、猜测及推广",
-          "imageUrl": null
-        },
-        {
-          "id": "https://kexue.fm/archives/9588",
-          "author": "苏剑林",
-          "description": "在《从熵不变性看Attention的Scale操作》、《熵不变性Softmax的一个快速推导》中笔者提出了熵不变性Softmax，简单来说就是往Softmax之前的Attention矩阵多乘上一...",
-          "link": "https://kexue.fm/archives/9588",
-          "publishedOn": "2023-04-10T08:12:00.000Z",
-          "wordCount": 1455,
-          "title": "从JL引理看熵不变性Attention",
           "imageUrl": null
         }
       ]
