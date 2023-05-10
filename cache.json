@@ -1054,56 +1054,6 @@
           "wordCount": 690,
           "title": "Automatic Gradient Descent: Deep Learning without Hyperparameters",
           "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
-        },
-        {
-          "id": "http://arxiv.org/abs/2110.08693",
-          "author": null,
-          "description": "Guan Wang, Hamid Laga, Anuj Srivastava",
-          "link": "http://arxiv.org/abs/2110.08693",
-          "publishedOn": "2023-04-11T07:13:55.203Z",
-          "wordCount": 810,
-          "title": "Learning Generative Models of the Geometry and Topology of Tree-like 3D\n  Objects",
-          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
-        },
-        {
-          "id": "http://arxiv.org/abs/2211.09981",
-          "author": null,
-          "description": "Yangjun Ruan, Saurabh Singh, Warren Morningstar, Alexander A. Alemi,\n  Sergey Ioffe, Ian Fischer, Joshua V. Dillon",
-          "link": "http://arxiv.org/abs/2211.09981",
-          "publishedOn": "2023-04-11T07:13:55.197Z",
-          "wordCount": 692,
-          "title": "Weighted Ensemble Self-Supervised Learning",
-          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
-        },
-        {
-          "id": "http://arxiv.org/abs/2211.14699",
-          "author": null,
-          "description": "Jeff Z. HaoChen, Tengyu Ma",
-          "link": "http://arxiv.org/abs/2211.14699",
-          "publishedOn": "2023-04-11T07:13:55.192Z",
-          "wordCount": 695,
-          "title": "A Theoretical Study of Inductive Biases in Contrastive Learning",
-          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
-        },
-        {
-          "id": "http://arxiv.org/abs/2303.06561",
-          "author": null,
-          "description": "Zhengan Chen, Yuqing Li, Tao Luo, Zhangchen Zhou, Zhi-Qin John Xu",
-          "link": "http://arxiv.org/abs/2303.06561",
-          "publishedOn": "2023-04-11T07:13:55.186Z",
-          "wordCount": 662,
-          "title": "Phase Diagram of Initial Condensation for Two-layer Neural Networks",
-          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
-        },
-        {
-          "id": "http://arxiv.org/abs/2211.02763",
-          "author": null,
-          "description": "Mizu Nishikawa-Toomey, Tristan Deleu, Jithendaraa Subramanian, Yoshua\n  Bengio, Laurent Charlin",
-          "link": "http://arxiv.org/abs/2211.02763",
-          "publishedOn": "2023-04-11T07:13:55.180Z",
-          "wordCount": 700,
-          "title": "Bayesian learning of Causal Structure and Mechanisms with GFlowNets and\n  Variational Bayes",
-          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
         }
       ]
     },
@@ -1925,16 +1875,6 @@
           "wordCount": 2036,
           "title": "a journal of the plague, sword, and famine year [far North]",
           "imageUrl": "https://brewminate.com/wp-content/uploads/2020/04/041220-32-History-Daniel-Defoe-Literature-Plague-Disease.jpg"
-        },
-        {
-          "id": "http://xianblog.wordpress.com/?p=52676",
-          "author": "xi'an",
-          "description": "[While flying to Venezia, two art professionals were sitting in front of me, talking the entirety of the flight in a rather affected way.] “La Fenice, j’ai pas du tout envie d’aller là. C’est pas intéressant, j’irais beaucoup plus vers le cinéma italien classique des années 60, avec une vision beaucoup plus sophistiquée…”",
-          "link": "https://xianblog.wordpress.com/2023/04/11/flying-static/",
-          "publishedOn": "2023-04-11T06:23:02.000Z",
-          "wordCount": 1774,
-          "title": "flying static",
-          "imageUrl": "https://xianblog.files.wordpress.com/2023/03/1679987676508-e1679989484283.jpg"
         }
       ]
     },
@@ -1976,6 +1916,16 @@
       "feedUrl": "http://feeds.feedburner.com/blogspot/gJZg",
       "siteUrl": "http://ai.googleblog.com/",
       "articles": [
+        {
+          "id": "http://ai.googleblog.com/2023/05/building-better-pangenomes-to-improve.html",
+          "author": null,
+          "description": "Posted by Andrew Carroll, Product Lead, and Kishwar Shafin, Research Scientist, Genomics\n\n\n\n\n\n\nFor decades, researchers worked together to assemble a complete copy of the molecular instructions for a human — a map of the human genome. The first draft was finished in 2000, but with several missing pieces.  Even when a complete reference genome was achieved in 2022, their work was not finished. A single reference genome can’t incorporate known genetic variations, such as the variants for the gene determining whether a person has a blood type A, B, AB or O. Furthermore, the reference genome didn’t represent the vast diversity of human ancestries, making it less useful for detecting disease or finding cures for people from some backgrounds than others. For the past three years, we have been pa…",
+          "link": "http://ai.googleblog.com/2023/05/building-better-pangenomes-to-improve.html",
+          "publishedOn": "2023-05-10T15:03:00.002Z",
+          "wordCount": 27886,
+          "title": "Building better pangenomes to improve the equity of genomics",
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgDfvV8C3uALQpVcvYLeqdbLBXoX0ZvSQC76l4SVp4xHq7xGKRDRLuxKYKsZzc5e3gVPp2yyhO4R4YgoXNQreJH4RYSQNlIy7cG57e0bviTgMKeEtubq0kt7q4Ei2uF4fjgqo9qjiT8kXjo9LamEZ4iWHkq6bV80Vu0LYFQ1dTwJCnzSdfpoeZfZuVZzw/w1200-h630-p-k-no-nu/image4.png"
+        },
         {
           "id": "http://ai.googleblog.com/2023/05/mammut-simple-vision-encoder-text.html",
           "author": null,
