@@ -1587,6 +1587,16 @@
       "siteUrl": "https://xianblog.wordpress.com",
       "articles": [
         {
+          "id": "http://xianblog.wordpress.com/?p=52956",
+          "author": "xi'an",
+          "description": "In a 2009 JCGS paper, Peter Lenk proposed a bias correction of the harmonic mean estimator, which is somewhat surprising given that the estimator usually has no variance and hence that its consistency is purely formal, since no speed of convergence can be taken for granted. In particular, the conjugate Normal model serving as a […]",
+          "link": "https://xianblog.wordpress.com/2023/05/11/back-to-a-correction-of-the-harmonic-mean-estimator/",
+          "publishedOn": "2023-05-10T22:23:13.000Z",
+          "wordCount": 1808,
+          "title": "back to a correction of the harmonic mean estimator",
+          "imageUrl": "https://secure.gravatar.com/blavatar/c1152fd99c26a547613cfba76091fd4f?s=200&ts=1683760515"
+        },
+        {
           "id": "http://xianblog.wordpress.com/?p=52944",
           "author": "xi'an",
           "description": "A rather intriguing question on X validated, namely a simulation approach to sampling a bivariate distribution fully specified by one conditional p(x|y) and the symmetric conditional expectation IE[Y|X=x]. The book Conditional Specification of Statistical Models, by Arnold, Castillo and Sarabia, as referenced by and in the question, contains (§7.7) illustrations of such cases. As for […]",
@@ -2161,16 +2171,6 @@
           "publishedOn": "2023-04-12T07:01:37.000Z",
           "wordCount": 721,
           "title": "达观数据研发“曹植”大语言模型，致力于国产GPT模型",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.52nlp.cn/?p=13443",
-          "author": "达观数据",
-          "description": "内容来源：ChatGPT 及大模型专题研讨会 分享嘉宾：中国科学院自动化研究所研究员 张家俊 分享主题：《Ch […]",
-          "link": "https://www.52nlp.cn/%e4%b8%ad%e7%a7%91%e9%99%a2%e5%bc%a0%e5%ae%b6%e4%bf%8a%ef%bc%9achatgpt%e4%b8%ad%e7%9a%84%e6%8f%90%e7%a4%ba%e4%b8%8e%e6%8c%87%e4%bb%a4%e5%ad%a6%e4%b9%a0",
-          "publishedOn": "2023-04-11T10:30:15.000Z",
-          "wordCount": 1142,
-          "title": "中科院张家俊：ChatGPT中的提示与指令学习",
           "imageUrl": null
         }
       ]
