@@ -1597,6 +1597,16 @@
       "siteUrl": "https://xianblog.wordpress.com",
       "articles": [
         {
+          "id": "http://xianblog.wordpress.com/?p=53001",
+          "author": "xi'an",
+          "description": "Visit the post for more.",
+          "link": "https://xianblog.wordpress.com/2023/05/12/cirm-luminy-1995/",
+          "publishedOn": "2023-05-11T22:23:15.000Z",
+          "wordCount": 1718,
+          "title": "CIRM, Luminy, 1995",
+          "imageUrl": "https://xianblog.files.wordpress.com/2023/05/1683535668660-e1683539064900.jpg"
+        },
+        {
           "id": "http://xianblog.wordpress.com/?p=52956",
           "author": "xi'an",
           "description": "In a 2009 JCGS paper, Peter Lenk proposed a bias correction of the harmonic mean estimator, which is somewhat surprising given that the estimator usually has no variance and hence that its consistency is purely formal, since no speed of convergence can be taken for granted. In particular, the conjugate Normal model serving as a […]",
