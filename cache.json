@@ -6,6 +6,46 @@
       "siteUrl": "https://www.arxivist.com",
       "articles": [
         {
+          "id": "http://arxiv.org/abs/2212.13881",
+          "author": null,
+          "description": "Adityanarayanan Radhakrishnan, Daniel Beaglehole, Parthe Pandit,\n  Mikhail Belkin",
+          "link": "http://arxiv.org/abs/2212.13881",
+          "publishedOn": "2023-05-11T07:13:57.402Z",
+          "wordCount": 750,
+          "title": "Mechanism of feature learning in deep fully connected networks and\n  kernel machines that recursively learn features",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2305.06230",
+          "author": null,
+          "description": "William Kengne, Modou Wade",
+          "link": "http://arxiv.org/abs/2305.06230",
+          "publishedOn": "2023-05-11T07:13:57.396Z",
+          "wordCount": 635,
+          "title": "Penalized deep neural networks estimator with general loss functions\n  under weak dependence",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2204.05044",
+          "author": null,
+          "description": "Maximilian Springenberg, Annika Frommholz, Markus Wenzel, Eva Weicken,\n  Jackie Ma, Nils Strodthoff",
+          "link": "http://arxiv.org/abs/2204.05044",
+          "publishedOn": "2023-05-11T07:13:56.982Z",
+          "wordCount": 737,
+          "title": "From Modern CNNs to Vision Transformers: Assessing the Performance,\n  Robustness, and Classification Strategies of Deep Learning Models in\n  Histopathology",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2305.06082",
+          "author": null,
+          "description": "Kota Srinivas Reddy, P. N. Karthik, Nikhil Karamchandani and\n  Jayakrishnan Nair",
+          "link": "http://arxiv.org/abs/2305.06082",
+          "publishedOn": "2023-05-11T07:13:56.946Z",
+          "wordCount": 704,
+          "title": "Best Arm Identification in Bandits with Limited Precision Sampling",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
           "id": "http://arxiv.org/abs/2302.07260",
           "author": null,
           "description": "Mohamed Aziz Bhouri, Michael Joly, Robert Yu, Soumalya Sarkar\n , Paris Perdikaris",
@@ -2095,16 +2135,6 @@
           "wordCount": 27820,
           "title": "UniPi: Learning universal policies via text-guided video generation",
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjtLCDewF7ckZRQjY48oqo6-84nJRlwHPLzWG5IolqJba46K106Hz1TuzbptipOrHI57dx5WsVZfGg0r2n7w2EGBSaUuQeZIukOrTFuUbNAwddcKD3t0uNgBHXysdsFCd1Wpg30rHIUeEqJ4GoWLr3Joi7NMruK8zL1uH5OxY2urRsz_4_lf_4Oa9a_sQ/w1200-h630-p-k-no-nu/UniPi%20hero.jpg"
-        },
-        {
-          "id": "http://ai.googleblog.com/2023/04/developing-aging-clock-using-deep.html",
-          "author": null,
-          "description": "Posted by Sara Ahadi, Research Fellow, Applied Science, and Andrew Carroll, Product Lead, Genomics\n\n\n\n\nAging is a process that is characterized by physiological and molecular changes that increase an individual's risk of developing diseases and eventually dying. Being able to measure and estimate the biological signatures of aging can help researchers identify preventive measures to reduce disease risk and impact. Researchers have developed “aging clocks” based on markers such as blood proteins or DNA methylation to measure individuals’ biological age, which is distinct from one’s chronological age. These aging clocks help predict the risk of age-related diseases. But because protein and methylation markers require a blood draw, non-invasive ways to find similar measures could make aging i…",
-          "link": "http://ai.googleblog.com/2023/04/developing-aging-clock-using-deep.html",
-          "publishedOn": "2023-04-11T18:22:00.000Z",
-          "wordCount": 27530,
-          "title": "Developing an aging clock using deep learning on retinal images",
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhJnv-sATdRuxawiBQHmuRV8smGfYjSveA-ZBCZfCkUOT6ZxvejcTU5ku2SkOkYo94FczvS5bbZywmWt24fq6UGyVX1hYKoSeHgV6arkL5Tm0Y65HsKy2RoOoylxGQADk1IYvXZ3RjNK_Lf9WhkB4jx6P7wLiLQPB5NHdfEpd08DOjl-ZYOOVvJyEQTfA/w1200-h630-p-k-no-nu/genomics.png"
         }
       ]
     },

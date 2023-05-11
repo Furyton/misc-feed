@@ -2,10 +2,57 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-05-11T06:19:31.652Z</updated>
+    <updated>2023-05-11T07:14:02.022Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Mechanism of feature learning in deep fully connected networks and
+  kernel machines that recursively learn features]]></title>
+        <id>http://arxiv.org/abs/2212.13881</id>
+        <link href="http://arxiv.org/abs/2212.13881"/>
+        <updated>2023-05-11T07:13:57.402Z</updated>
+        <summary type="html"><![CDATA[Adityanarayanan Radhakrishnan, Daniel Beaglehole, Parthe Pandit,
+  Mikhail Belkin]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Penalized deep neural networks estimator with general loss functions
+  under weak dependence]]></title>
+        <id>http://arxiv.org/abs/2305.06230</id>
+        <link href="http://arxiv.org/abs/2305.06230"/>
+        <updated>2023-05-11T07:13:57.396Z</updated>
+        <summary type="html"><![CDATA[William Kengne, Modou Wade]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[From Modern CNNs to Vision Transformers: Assessing the Performance,
+  Robustness, and Classification Strategies of Deep Learning Models in
+  Histopathology]]></title>
+        <id>http://arxiv.org/abs/2204.05044</id>
+        <link href="http://arxiv.org/abs/2204.05044"/>
+        <updated>2023-05-11T07:13:56.982Z</updated>
+        <summary type="html"><![CDATA[Maximilian Springenberg, Annika Frommholz, Markus Wenzel, Eva Weicken,
+  Jackie Ma, Nils Strodthoff]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Best Arm Identification in Bandits with Limited Precision Sampling]]></title>
+        <id>http://arxiv.org/abs/2305.06082</id>
+        <link href="http://arxiv.org/abs/2305.06082"/>
+        <updated>2023-05-11T07:13:56.946Z</updated>
+        <summary type="html"><![CDATA[Kota Srinivas Reddy, P. N. Karthik, Nikhil Karamchandani and
+  Jayakrishnan Nair]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Amnon Shashua’s lecture at Reichman University: A Deep Dive into LLMs and their Future Impact.]]></title>
         <id>http://gilkalai.wordpress.com/?p=24235</id>
@@ -2582,21 +2629,6 @@ However, training such agents faces the inherent challenge of environmental dive
         <summary type="html"><![CDATA[Read Le sabre des Takeda (Furin kazan, 風林火山) by Inoue Yasushi, a very interesting book set between Japanese history and feudal novel, with surgical descriptions of battles and psychological tensions. This book reminded me in some aspects of a novel of Yoshimura Akira on the earthquake of Kantô by its insistence on minutiae. Even though […]]]></summary>
         <author>
             <name>xi'an</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Developing an aging clock using deep learning on retinal images]]></title>
-        <id>http://ai.googleblog.com/2023/04/developing-aging-clock-using-deep.html</id>
-        <link href="http://ai.googleblog.com/2023/04/developing-aging-clock-using-deep.html"/>
-        <updated>2023-04-11T18:22:00.000Z</updated>
-        <summary type="html"><![CDATA[Posted by Sara Ahadi, Research Fellow, Applied Science, and Andrew Carroll, Product Lead, Genomics
-
-
-
-
-Aging is a process that is characterized by physiological and molecular changes that increase an individual's risk of developing diseases and eventually dying. Being able to measure and estimate the biological signatures of aging can help researchers identify preventive measures to reduce disease risk and impact. Researchers have developed “aging clocks” based on markers such as blood proteins or DNA methylation to measure individuals’ biological age, which is distinct from one’s chronological age. These aging clocks help predict the risk of age-related diseases. But because protein and methylation markers require a blood draw, non-invasive ways to find similar measures could make aging i…]]></summary>
-        <author>
-            <name>Google AI Blog</name>
         </author>
     </entry>
 </feed>
