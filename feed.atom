@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-05-12T17:13:15.155Z</updated>
+    <updated>2023-05-12T18:17:55.924Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Enabling conversational interaction on mobile with LLMs]]></title>
+        <id>http://ai.googleblog.com/2023/05/enabling-conversational-interaction-on.html</id>
+        <link href="http://ai.googleblog.com/2023/05/enabling-conversational-interaction-on.html"/>
+        <updated>2023-05-12T17:03:00.003Z</updated>
+        <summary type="html"><![CDATA[Posted by Bryan Wang, Student Researcher, and Yang Li, Research Scientist, Google Research
+
+
+
+
+
+Intelligent assistants on mobile devices have significantly advanced language-based interactions for performing simple daily tasks, such as setting a timer or turning on a flashlight. Despite the progress, these assistants still face limitations in supporting conversational interactions in mobile user interfaces (UIs), where many user tasks are performed. For example, they cannot answer a user's question about specific information displayed on a screen. An agent would need to have a computational understanding of graphical user interfaces (GUIs) to achieve such capabilities. 
+
+
+
+Prior research has investigated several important technical building blocks to enable conversational interaction with …]]></summary>
+        <author>
+            <name>Google AI Blog</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Yejin Choi - Common Sense: the Dark Matter of Language and Intelligence]]></title>
         <id>https://mlfoundations.org/talk/choi/</id>
