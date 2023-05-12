@@ -2115,16 +2115,6 @@
           "wordCount": 27446,
           "title": "Robotic deep RL at scale: Sorting waste and recyclables with a fleet of robots",
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgEYhP7IrTnpGC_qxqzY9xaShL-JjOujpoWIEqWf-tccTefAx7xKsoD_74wwMq07kbZvvwAgiNPydbCAPMtbDYXz5roJaemUzqPc8AspgjV4lxB0Bln1YSLzzwgxNUT0EA7QDS0SDuwofleEqOgzF_5bIgb_rNnyMWKMTHhYH1OI0W5lDEym8wsP1G44A/w1200-h630-p-k-no-nu/Robotic%20RL%20hero.jpeg"
-        },
-        {
-          "id": "http://ai.googleblog.com/2023/04/unipi-learning-universal-policies-via.html",
-          "author": null,
-          "description": "Posted by Sherry Yang, Research Scientist, and Yilun Du, Student Researcher, Google Research, Brain Team\nBuilding models that solve a diverse set of tasks has become a dominant paradigm in the domains of vision and language. In natural language processing, large pre-trained models, such as PaLM, GPT-3 and Gopher, have demonstrated remarkable zero-shot learning of new language tasks. Similarly, in computer vision, models like CLIP and Flamingo have shown robust performance on zero-shot classification and object recognition. A natural next step is to use such tools to construct agents that can complete different decision-making tasks across many environments.\n\n\n\nHowever, training such agents faces the inherent challenge of environmental diversity, since different environments operate with di…",
-          "link": "http://ai.googleblog.com/2023/04/unipi-learning-universal-policies-via.html",
-          "publishedOn": "2023-04-12T20:04:00.000Z",
-          "wordCount": 27820,
-          "title": "UniPi: Learning universal policies via text-guided video generation",
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjtLCDewF7ckZRQjY48oqo6-84nJRlwHPLzWG5IolqJba46K106Hz1TuzbptipOrHI57dx5WsVZfGg0r2n7w2EGBSaUuQeZIukOrTFuUbNAwddcKD3t0uNgBHXysdsFCd1Wpg30rHIUeEqJ4GoWLr3Joi7NMruK8zL1uH5OxY2urRsz_4_lf_4Oa9a_sQ/w1200-h630-p-k-no-nu/UniPi%20hero.jpg"
         }
       ]
     },
