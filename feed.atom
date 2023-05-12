@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-05-12T22:14:01.177Z</updated>
+    <updated>2023-05-12T23:14:05.641Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[operation precisely impossible]]></title>
+        <id>http://xianblog.wordpress.com/?p=52971</id>
+        <link href="https://xianblog.wordpress.com/2023/05/13/operation-precisely-impossible/"/>
+        <updated>2023-05-12T22:23:30.000Z</updated>
+        <summary type="html"><![CDATA[Since the solution to the previous riddle from The Riddler on the maximum of  different terms in the composed operation a∅b∅c∅d∅e∅f depending on the bracketing ordering and the meaning of each ∅ among one of the six elementary operations got posted today as 974,860, I got back to my R code to understand why it […]]]></summary>
+        <author>
+            <name>xi'an</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[F-VLM: Open-vocabulary object detection upon frozen vision and language models]]></title>
         <id>http://ai.googleblog.com/2023/05/f-vlm-open-vocabulary-object-detection.html</id>
@@ -2506,16 +2516,6 @@ But are derivatives all we need? By themselves, derivatives only tell us how a f
 Reinforcement learning (RL) can enable robots to learn complex behaviors through trial-and-error interaction, getting better and better over time. Several of our prior works explored how RL can enable intricate robotic skills, such as robotic grasping, multi-task learning, and even playing table tennis. Although robotic RL has come a long way, we still don't see RL-enabled robots in everyday settings. The real world is complex, diverse, and changes over time, presenting a major challenge for robotic systems. However, we believe that RL should offer us an excellent tool for tackling precisely these challenges: by continually practicing, getting better, and l…]]></summary>
         <author>
             <name>Google AI Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The "socialite" phenomenon in China]]></title>
-        <id>https://languagelog.ldc.upenn.edu/nll/?p=58423</id>
-        <link href="https://languagelog.ldc.upenn.edu/nll/?p=58423&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=the-socialite-phenomenon-in-china"/>
-        <updated>2023-04-13T11:12:42.000Z</updated>
-        <summary type="html"><![CDATA[Source: China Media Project (12/7/2022)THE CMP DICTIONARY: Socialite 媛By XINYU DENG Once signifying graceful women of a distinguished background, the term “socialite,” or yuan (媛), has in recent years become a misogynistic umbrella term used on digital platforms in China to disparage women who advertise fancy lifestyles. The term has also been used by state-run media […]]]></summary>
-        <author>
-            <name>Victor Mair</name>
         </author>
     </entry>
 </feed>
