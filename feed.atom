@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-05-12T06:19:05.774Z</updated>
+    <updated>2023-05-12T07:13:35.974Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -14,6 +14,60 @@
         <summary type="html"><![CDATA[Scale appears to be the winning recipe in today's leaderboards. And yet, extreme-scale neural models are (un)surprisingly brittle and make errors that are often nonsensical and even counterintuitive. In this talk, I will argue for the importance of knowledge, especially commonsense knowledge, as well as inference-time reasoning algorithms, and demonstrate how smaller models developed in academia can still have an edge over larger industry-scale models, if powered with knowledge and/or reasoning algorithms.]]></summary>
         <author>
             <name>Harvard ML Foundations</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Risk-limiting Financial Audits via Weighted Sampling without Replacement]]></title>
+        <id>http://arxiv.org/abs/2305.06884</id>
+        <link href="http://arxiv.org/abs/2305.06884"/>
+        <updated>2023-05-12T07:13:34.006Z</updated>
+        <summary type="html"><![CDATA[Shubhanshu Shekhar, Ziyu Xu, Zachary C. Lipton, Pierre J. Liang,
+  Aaditya Ramdas]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Convergence Rates for Learning Linear Operators from Noisy Data]]></title>
+        <id>http://arxiv.org/abs/2108.12515</id>
+        <link href="http://arxiv.org/abs/2108.12515"/>
+        <updated>2023-05-12T07:13:33.665Z</updated>
+        <summary type="html"><![CDATA[Maarten V. de Hoop, Nikola B. Kovachki, Nicholas H. Nelsen, Andrew M.
+  Stuart]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Neural Fine-Gray: Monotonic neural networks for competing risks]]></title>
+        <id>http://arxiv.org/abs/2305.06703</id>
+        <link href="http://arxiv.org/abs/2305.06703"/>
+        <updated>2023-05-12T07:13:33.622Z</updated>
+        <summary type="html"><![CDATA[Vincent Jeanselme, Chang Ho Yoon, Brian Tom, Jessica Barrett]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Generalization bounds for neural ordinary differential equations and
+  deep residual networks]]></title>
+        <id>http://arxiv.org/abs/2305.06648</id>
+        <link href="http://arxiv.org/abs/2305.06648"/>
+        <updated>2023-05-12T07:13:33.615Z</updated>
+        <summary type="html"><![CDATA[Pierre Marion]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Provable Guarantees for Nonlinear Feature Learning in Three-Layer Neural
+  Networks]]></title>
+        <id>http://arxiv.org/abs/2305.06986</id>
+        <link href="http://arxiv.org/abs/2305.06986"/>
+        <updated>2023-05-12T07:13:33.598Z</updated>
+        <summary type="html"><![CDATA[Eshaan Nichani, Alex Damian, Jason D. Lee]]></summary>
+        <author>
+            <name>arxivist feed</name>
         </author>
     </entry>
     <entry>
