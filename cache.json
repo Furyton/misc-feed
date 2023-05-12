@@ -1202,6 +1202,16 @@
       "siteUrl": "https://kexue.fm/",
       "articles": [
         {
+          "id": "https://kexue.fm/archives/9603",
+          "author": "苏剑林",
+          "description": "说到Transformer无法处理超长序列的原因，大家的第一反应通常都是Self Attention的二次复杂度。但事实上，即便忽略算力限制，常规的Transformer也无法处理超长序列，因为...",
+          "link": "https://kexue.fm/archives/9603",
+          "publishedOn": "2023-05-12T09:11:00.000Z",
+          "wordCount": 1503,
+          "title": "Transformer升级之路：9、一种全局长度外推的新思路",
+          "imageUrl": null
+        },
+        {
           "id": "https://kexue.fm/archives/9595",
           "author": "苏剑林",
           "description": "在机器学习中，我们经常会谈到稀疏性，比如我们经常说注意力矩阵通常是很稀疏的。然而，不知道大家发现没有，我们似乎从没有给出过度量稀疏程度的标准方法。也就是说，以往我们关于稀疏性的讨论，仅仅是直观层...",
