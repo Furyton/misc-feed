@@ -1567,6 +1567,16 @@
       "siteUrl": "https://xianblog.wordpress.com",
       "articles": [
         {
+          "id": "http://xianblog.wordpress.com/?p=52986",
+          "author": "xi'an",
+          "description": "Checking the R coding abilities of ChatGPT, I entered the latest Riddler puzzle that asks for the expected value of the stationary distribution of a slowing-down random walk over the real line when the N-th jump from x is to x±2-N. Which is ½ since the limiting distribution is uniform over (-1,1). The first proposed […]",
+          "link": "https://xianblog.wordpress.com/2023/05/14/grass-hopping-on-the-wrong-fgpt/",
+          "publishedOn": "2023-05-13T22:23:23.000Z",
+          "wordCount": 1843,
+          "title": "grass hopping on the wrong fgpt",
+          "imageUrl": "https://xianblog.files.wordpress.com/2023/05/temp-4.png"
+        },
+        {
           "id": "http://xianblog.wordpress.com/?p=52971",
           "author": "xi'an",
           "description": "Since the solution to the previous riddle from The Riddler on the maximum of  different terms in the composed operation a∅b∅c∅d∅e∅f depending on the bracketing ordering and the meaning of each ∅ among one of the six elementary operations got posted today as 974,860, I got back to my R code to understand why it […]",

@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-05-13T22:13:21.769Z</updated>
+    <updated>2023-05-13T23:13:58.532Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[grass hopping on the wrong fgpt]]></title>
+        <id>http://xianblog.wordpress.com/?p=52986</id>
+        <link href="https://xianblog.wordpress.com/2023/05/14/grass-hopping-on-the-wrong-fgpt/"/>
+        <updated>2023-05-13T22:23:23.000Z</updated>
+        <summary type="html"><![CDATA[Checking the R coding abilities of ChatGPT, I entered the latest Riddler puzzle that asks for the expected value of the stationary distribution of a slowing-down random walk over the real line when the N-th jump from x is to x±2-N. Which is ½ since the limiting distribution is uniform over (-1,1). The first proposed […]]]></summary>
+        <author>
+            <name>xi'an</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Iowa town names]]></title>
         <id>https://languagelog.ldc.upenn.edu/nll/?p=58680</id>
