@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-05-13T07:13:09.873Z</updated>
+    <updated>2023-05-13T08:17:20.181Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -2513,19 +2513,6 @@ But are derivatives all we need? By themselves, derivatives only tell us how a f
         <summary type="html"><![CDATA[Most sadly, I just heard from Glasgow that my friend and coauthor Mike Titterington passed away last weekend. While a significant figure in the field and a precursor in many ways, from mixtures to machine learning, Mike was one of the kindest persons ever, tolerant to a fault and generous with his time, and I […]]]></summary>
         <author>
             <name>xi'an</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Robotic deep RL at scale: Sorting waste and recyclables with a fleet of robots]]></title>
-        <id>http://ai.googleblog.com/2023/04/robotic-deep-rl-at-scale-sorting-waste.html</id>
-        <link href="http://ai.googleblog.com/2023/04/robotic-deep-rl-at-scale-sorting-waste.html"/>
-        <updated>2023-04-13T19:31:00.000Z</updated>
-        <summary type="html"><![CDATA[Posted by Sergey Levine, Research Scientist, and Alexander Herzog, Staff Research Software Engineer, Google Research, Brain Team
-  
-  
-Reinforcement learning (RL) can enable robots to learn complex behaviors through trial-and-error interaction, getting better and better over time. Several of our prior works explored how RL can enable intricate robotic skills, such as robotic grasping, multi-task learning, and even playing table tennis. Although robotic RL has come a long way, we still don't see RL-enabled robots in everyday settings. The real world is complex, diverse, and changes over time, presenting a major challenge for robotic systems. However, we believe that RL should offer us an excellent tool for tackling precisely these challenges: by continually practicing, getting better, and l…]]></summary>
-        <author>
-            <name>Google AI Blog</name>
         </author>
     </entry>
 </feed>
