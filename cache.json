@@ -1475,16 +1475,6 @@
           "wordCount": 2525,
           "title": "Accelerating Large Language Models with Accelerated Transformers",
           "imageUrl": "https://pytorch.org/assets/images/pytorch-logo.png"
-        },
-        {
-          "id": "https://pytorch.org/blog/experience-power-pytorch-2.0/",
-          "author": null,
-          "description": "PyTorch 2.0 represents a significant step forward for the PyTorch machine learning framework. The stable release of PyTorch 2.0 brings new features that unlock even higher performance, while remaining backward compatible with prior releases and retaining the Pythonic focus which has helped to make PyTorch so enthusiastically adopted by the AI/ML community. AMD has long been a strong proponent of PyTorch, and we are delighted that the PyTorch 2.0 stable release includes support for AMD Instinct™ and Radeon™ GPUs that are supported by the ROCm™ software platform.",
-          "link": "https://pytorch.org/blog/experience-power-pytorch-2.0/",
-          "publishedOn": "2023-04-15T07:00:00.000Z",
-          "wordCount": 1431,
-          "title": "Experience the power of PyTorch 2.0 on AMD Solutions",
-          "imageUrl": "https://pytorch.org/assets/images/pytorch-logo.png"
         }
       ]
     },
