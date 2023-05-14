@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-05-14T01:19:30.195Z</updated>
+    <updated>2023-05-14T02:33:04.633Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -2449,16 +2449,6 @@ Derivatives play a central role in optimization and machine learning. By locally
 But are derivatives all we need? By themselves, derivatives only tell us how a function behaves on an infinitesimal scale. To use derivatives effectively, we often need to know more than that. For example, to choose a learning rate for gradient descent, we need to know something about how the loss function behaves over a small but finite windo…]]></summary>
         <author>
             <name>Google AI Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Uri Hasson - Deep language models as a cognitive model for natural language processing in the human brain]]></title>
-        <id>https://mlfoundations.org/talk/hasson/</id>
-        <link href="https://mlfoundations.org/talk/hasson/"/>
-        <updated>2023-04-14T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Naturalistic experimental paradigms in cognitive neuroscience arose from a pressure to test, in real-world contexts, the validity of models we derive from highly controlled laboratory experiments. In many cases, however, such efforts led to the realization that models (i.e., explanatory principles) developed under particular experimental manipulations fail to capture many aspects of reality (variance) in the real world. Recent advances in artificial neural networks provide an alternative computational framework for modeling cognition in natural contexts. In contrast to the simplified and interpretable hypotheses we test in the lab, these models learn how to act in the world from massive amounts of real-world examples (big data) by optimizing big models with millions to billions of parameters. Surprisingly, such models' performance matches human performances on many cognitive tasks, including visual perceptions, language processing, and motor control. At the same time, these models sacrifice understanding in favor of competence by being able to act without knowing why their choices are optimal or preferable in a given context. In this talk, I will ask whether the human brain's underlying computations are similar or different from the underlying computations in deep neural networks. The ability to think and reason using natural language separates us from other animals and machines. In the talk, I will focus on the underlying neural process that supports natural language processing. Our study aims to model natural language processing in the wild. To that end, we recorded intracranial EEG data from epileptic patients while they engaged in open-ended free conversations with their doctors, friends, and family members during a week-long stay in the hospital. I will provide evidence that our neural code shares some computational principles with deep language models. This indicates that, to some extent, the brain relies on overparameterized optimization methods to comprehend and produce language. At the same time, I will present evidence that the brain differs from deep language models as speakers try to convey new ideas and thoughts. Together, our findings expose some unexpected similarities to deep neural networks while pointing to crucial human-centric missing properties in these machines.]]></summary>
-        <author>
-            <name>Harvard ML Foundations</name>
         </author>
     </entry>
 </feed>
