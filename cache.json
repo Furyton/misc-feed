@@ -1547,6 +1547,16 @@
       "siteUrl": "https://xianblog.wordpress.com",
       "articles": [
         {
+          "id": "http://xianblog.wordpress.com/?p=52858",
+          "author": "xi'an",
+          "description": "While I rarely enter company sweepstakes and lotteries (and correlatively never win!), I answered a contest from my credit card company around the 2022 Beijing Winter Olympics, and won the prize of having a Chinese dinner cooked at home by a chef, news that I first treated as a spam for being so improbable. The […]",
+          "link": "https://xianblog.wordpress.com/2023/05/15/chez-guy/",
+          "publishedOn": "2023-05-14T22:23:37.000Z",
+          "wordCount": 1871,
+          "title": "Chez Guy**(*)",
+          "imageUrl": "https://xianblog.files.wordpress.com/2023/05/1683018488094-e1683021548789.jpg"
+        },
+        {
           "id": "http://xianblog.wordpress.com/?p=52986",
           "author": "xi'an",
           "description": "Checking the R coding abilities of ChatGPT, I entered the latest Riddler puzzle that asks for the expected value of the stationary distribution of a slowing-down random walk over the real line when the N-th jump from x is to x±2-N. Which is ½ since the limiting distribution is uniform over (-1,1). The first proposed […]",
