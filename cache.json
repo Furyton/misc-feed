@@ -2025,16 +2025,6 @@
           "wordCount": 27755,
           "title": "Differentially private heatmaps",
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgS24x7QsXnFRdTdq_PJYQOr4XqJSpsFBWcb630Ujz2vOcGLL0FzXcvaDq_xwd72wCVXs3U5oNPYz0JgLJYNDrfyqf_0Fzuri6CJg2s8OzNVwsWRzzlU23NkGtre3XMlhoxf9egBUJRyEfEeIjdsRJ8m2L3gFJYCbNefqY2XNNGotPNJF6lMOM1DrlbPA/w1200-h630-p-k-no-nu/DPheatmaps.png"
-        },
-        {
-          "id": "http://ai.googleblog.com/2023/04/beyond-automatic-differentiation.html",
-          "author": null,
-          "description": "Posted by Matthew Streeter, Software Engineer, Google Research\n\n\n\n\nDerivatives play a central role in optimization and machine learning. By locally approximating a training loss, derivatives guide an optimizer toward lower values of the loss. Automatic differentiation frameworks such as TensorFlow, PyTorch, and JAX are an essential part of modern machine learning, making it feasible to use gradient-based optimizers to train very complex models.\n\n\n \n\n\nBut are derivatives all we need? By themselves, derivatives only tell us how a function behaves on an infinitesimal scale. To use derivatives effectively, we often need to know more than that. For example, to choose a learning rate for gradient descent, we need to know something about how the loss function behaves over a small but finite windo…",
-          "link": "http://ai.googleblog.com/2023/04/beyond-automatic-differentiation.html",
-          "publishedOn": "2023-04-14T15:00:00.001Z",
-          "wordCount": 27672,
-          "title": "Beyond automatic differentiation",
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgeF_4QxTZliBxybI6a8fpfDt-IC6AG1GkRjM6mQqSLQ64RQTP5BJYq8WcGkzss_Ft-5QF7nU36hT8CahVaq04fVThFV_zWbgbfutAzQU3g8yoghkEmb603znIRbX5jT74LQxBKQ1qKp6sx9GTKVEgcHaWJOpmiipwcuUj6FXC1_hCbqHHX05yMA_SaLw/w1200-h630-p-k-no-nu/AutoBound-Crop.gif"
         }
       ]
     },
