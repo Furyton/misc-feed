@@ -2,10 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-05-15T06:19:44.969Z</updated>
+    <updated>2023-05-15T07:15:27.241Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Scalable Coupling of Deep Learning with Logical Reasoning]]></title>
+        <id>http://arxiv.org/abs/2305.07617</id>
+        <link href="http://arxiv.org/abs/2305.07617"/>
+        <updated>2023-05-15T07:15:23.838Z</updated>
+        <summary type="html"><![CDATA[Marianne Defresne, Sophie Barbe, Thomas Schiex]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Aleatoric uncertainty for Errors-in-Variables models in deep regression]]></title>
+        <id>http://arxiv.org/abs/2105.09095</id>
+        <link href="http://arxiv.org/abs/2105.09095"/>
+        <updated>2023-05-15T07:15:21.022Z</updated>
+        <summary type="html"><![CDATA[J\"org Martin, Clemens Elster]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[COVID-19 diagnosis by routine blood tests using machine learning]]></title>
+        <id>http://arxiv.org/abs/2006.03476</id>
+        <link href="http://arxiv.org/abs/2006.03476"/>
+        <updated>2023-05-15T07:15:20.992Z</updated>
+        <summary type="html"><![CDATA[Matja\v{z} Kukar, Gregor Gun\v{c}ar, Toma\v{z} Vovko, Simon Podnar,
+  Peter \v{C}ernel\v{c}, Miran Brvar, Mateja Zalaznik, Mateja Notar, Sa\v{s}o
+  Mo\v{s}kon, Marko Notar]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Chez Guy**(*)]]></title>
         <id>http://xianblog.wordpress.com/?p=52858</id>

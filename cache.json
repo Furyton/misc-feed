@@ -6,6 +6,36 @@
       "siteUrl": "https://www.arxivist.com",
       "articles": [
         {
+          "id": "http://arxiv.org/abs/2305.07617",
+          "author": null,
+          "description": "Marianne Defresne, Sophie Barbe, Thomas Schiex",
+          "link": "http://arxiv.org/abs/2305.07617",
+          "publishedOn": "2023-05-15T07:15:23.838Z",
+          "wordCount": 621,
+          "title": "Scalable Coupling of Deep Learning with Logical Reasoning",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2105.09095",
+          "author": null,
+          "description": "J\\\"org Martin, Clemens Elster",
+          "link": "http://arxiv.org/abs/2105.09095",
+          "publishedOn": "2023-05-15T07:15:21.022Z",
+          "wordCount": 688,
+          "title": "Aleatoric uncertainty for Errors-in-Variables models in deep regression",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2006.03476",
+          "author": null,
+          "description": "Matja\\v{z} Kukar, Gregor Gun\\v{c}ar, Toma\\v{z} Vovko, Simon Podnar,\n  Peter \\v{C}ernel\\v{c}, Miran Brvar, Mateja Zalaznik, Mateja Notar, Sa\\v{s}o\n  Mo\\v{s}kon, Marko Notar",
+          "link": "http://arxiv.org/abs/2006.03476",
+          "publishedOn": "2023-05-15T07:15:20.992Z",
+          "wordCount": 781,
+          "title": "COVID-19 diagnosis by routine blood tests using machine learning",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
           "id": "http://arxiv.org/abs/2305.06884",
           "author": null,
           "description": "Shubhanshu Shekhar, Ziyu Xu, Zachary C. Lipton, Pierre J. Liang,\n  Aaditya Ramdas",
