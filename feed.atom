@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-05-15T22:13:52.754Z</updated>
+    <updated>2023-05-15T23:14:28.227Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[more [grass]hope]]></title>
+        <id>http://xianblog.wordpress.com/?p=53063</id>
+        <link href="https://xianblog.wordpress.com/2023/05/16/more-grasshope/"/>
+        <updated>2023-05-15T22:23:34.000Z</updated>
+        <summary type="html"><![CDATA[Following my earlier post on the terrible performances of ChatGPT for a grasshopping riddle, Bob Carpenter sent me his interaction with GPT4, using the same entry. Here is the outcome he obtained. The answer is correct, but the reasoning is wrong. GPT4: This is a classic problem of infinite series and expected values in probability […]]]></summary>
+        <author>
+            <name>xi'an</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Larger language models do in-context learning differently]]></title>
         <id>http://ai.googleblog.com/2023/05/larger-language-models-do-in-context.html</id>
