@@ -1897,6 +1897,16 @@
       "siteUrl": "http://ai.googleblog.com/",
       "articles": [
         {
+          "id": "http://ai.googleblog.com/2023/05/larger-language-models-do-in-context.html",
+          "author": null,
+          "description": "Posted by Jerry Wei, Student Researcher, and Denny Zhou, Principal Scientist, Google Research\n\n\n\n\nThere have recently been tremendous advances in language models, partly because they can perform tasks with strong performance via in-context learning (ICL), a process whereby models are prompted with a few examples of input-label pairs before performing the task on an unseen evaluation example. In general, models’ success at in-context learning is enabled by:\n \n\n\nTheir use of semantic prior knowledge from pre-training to predict labels while following the format of in-context examples (e.g., seeing examples of movie reviews with “positive sentiment” and “negative sentiment” as labels and performing sentiment analysis using prior knowledge).\n\n\nLearning the input-label mappings in context from …",
+          "link": "http://ai.googleblog.com/2023/05/larger-language-models-do-in-context.html",
+          "publishedOn": "2023-05-15T20:59:00.000Z",
+          "wordCount": 27646,
+          "title": "Larger language models do in-context learning differently",
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQS0-Pkd_JiN7brkU6zV0-FEisuUcnKs0I56t37HVYKMgKStmwNgLREYn5CfURvW-lMvKbHU4cEV9elAu9qe4-M_FvveTlvBQHezbksTlH3YfOAk4TyJiXYiGBW_95RGKIW-JyjAQiC0Zd4VIjZrCSIm1PEBqrIAqbiEklluNunTOMhX_7CU9Degbwqg/w1200-h630-p-k-no-nu/SULICL.png"
+        },
+        {
           "id": "http://ai.googleblog.com/2023/05/consensus-and-subjectivity-of-skin-tone_15.html",
           "author": null,
           "description": "Posted by Candice Schumann, Software Engineer, and Gbolahan O. Olanubi, User Experience Researcher, Google Research\n\n\n\n\nSkin tone is an observable characteristic that is subjective, perceived differently by individuals (e.g., depending on their location or culture) and thus is complicated to annotate. That said, the ability to reliably and accurately annotate skin tone is highly important in computer vision. This became apparent in 2018, when the Gender Shades study highlighted that computer vision systems struggled to detect people with darker skin tones, and performed particularly poorly for women with darker skin tones. The study highlights the importance for computer researchers and practitioners to evaluate their technologies across the full range of skin tones and at intersections of…",

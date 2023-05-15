@@ -2,10 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-05-15T20:15:18.294Z</updated>
+    <updated>2023-05-15T21:12:50.555Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Larger language models do in-context learning differently]]></title>
+        <id>http://ai.googleblog.com/2023/05/larger-language-models-do-in-context.html</id>
+        <link href="http://ai.googleblog.com/2023/05/larger-language-models-do-in-context.html"/>
+        <updated>2023-05-15T20:59:00.000Z</updated>
+        <summary type="html"><![CDATA[Posted by Jerry Wei, Student Researcher, and Denny Zhou, Principal Scientist, Google Research
+
+
+
+
+There have recently been tremendous advances in language models, partly because they can perform tasks with strong performance via in-context learning (ICL), a process whereby models are prompted with a few examples of input-label pairs before performing the task on an unseen evaluation example. In general, models’ success at in-context learning is enabled by:
+ 
+
+
+Their use of semantic prior knowledge from pre-training to predict labels while following the format of in-context examples (e.g., seeing examples of movie reviews with “positive sentiment” and “negative sentiment” as labels and performing sentiment analysis using prior knowledge).
+
+
+Learning the input-label mappings in context from …]]></summary>
+        <author>
+            <name>Google AI Blog</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Consensus and subjectivity of skin tone annotation for ML fairness]]></title>
         <id>http://ai.googleblog.com/2023/05/consensus-and-subjectivity-of-skin-tone_15.html</id>
