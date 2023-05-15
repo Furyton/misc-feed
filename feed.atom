@@ -2,10 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-05-15T18:18:30.027Z</updated>
+    <updated>2023-05-15T19:11:44.790Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Consensus and subjectivity of skin tone annotation for ML fairness]]></title>
+        <id>http://ai.googleblog.com/2023/05/consensus-and-subjectivity-of-skin-tone_15.html</id>
+        <link href="http://ai.googleblog.com/2023/05/consensus-and-subjectivity-of-skin-tone_15.html"/>
+        <updated>2023-05-15T17:16:00.003Z</updated>
+        <summary type="html"><![CDATA[Posted by Candice Schumann, Software Engineer, and Gbolahan O. Olanubi, User Experience Researcher, Google Research
+
+
+
+
+Skin tone is an observable characteristic that is subjective, perceived differently by individuals (e.g., depending on their location or culture) and thus is complicated to annotate. That said, the ability to reliably and accurately annotate skin tone is highly important in computer vision. This became apparent in 2018, when the Gender Shades study highlighted that computer vision systems struggled to detect people with darker skin tones, and performed particularly poorly for women with darker skin tones. The study highlights the importance for computer researchers and practitioners to evaluate their technologies across the full range of skin tones and at intersections of…]]></summary>
+        <author>
+            <name>Google AI Blog</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AI Anchorman "@EdisonGPT"]]></title>
         <id>https://languagelog.ldc.upenn.edu/nll/?p=58706</id>

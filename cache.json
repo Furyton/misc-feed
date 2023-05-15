@@ -1897,6 +1897,16 @@
       "siteUrl": "http://ai.googleblog.com/",
       "articles": [
         {
+          "id": "http://ai.googleblog.com/2023/05/consensus-and-subjectivity-of-skin-tone_15.html",
+          "author": null,
+          "description": "Posted by Candice Schumann, Software Engineer, and Gbolahan O. Olanubi, User Experience Researcher, Google Research\n\n\n\n\nSkin tone is an observable characteristic that is subjective, perceived differently by individuals (e.g., depending on their location or culture) and thus is complicated to annotate. That said, the ability to reliably and accurately annotate skin tone is highly important in computer vision. This became apparent in 2018, when the Gender Shades study highlighted that computer vision systems struggled to detect people with darker skin tones, and performed particularly poorly for women with darker skin tones. The study highlights the importance for computer researchers and practitioners to evaluate their technologies across the full range of skin tones and at intersections of…",
+          "link": "http://ai.googleblog.com/2023/05/consensus-and-subjectivity-of-skin-tone_15.html",
+          "publishedOn": "2023-05-15T17:16:00.003Z",
+          "wordCount": 27925,
+          "title": "Consensus and subjectivity of skin tone annotation for ML fairness",
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgZx6lCt5n99GkA_Q8Jd3S0msBQNxZpoFWH9Jc2vwcnyxLUhWn-s8f7zn2u5YRNrCbdGki6sRB9pcJ-n_0dGgqD47BM72DVy3zCykkRgJjP1zohvB9l7KPgetFJiLebxm9EvtWBAjRM59eAUbVUPfmuUWAeKc6ljtiMOfiAnOttUBtkYNcXm2HieMod2Q/w1200-h630-p-k-no-nu/MST-E.png"
+        },
+        {
           "id": "http://ai.googleblog.com/2023/05/f-vlm-open-vocabulary-object-detection.html",
           "author": null,
           "description": "Posted by Weicheng Kuo and Anelia Angelova, Research Scientists, Google Research\n\n\n\n\n\n\nDetection is a fundamental vision task that aims to localize and recognize objects in an image. However, the data collection process of manually annotating bounding boxes or instance masks is tedious and costly, which limits the modern detection vocabulary size to roughly 1,000 object classes. This is orders of magnitude smaller than the vocabulary people use to describe the visual world and leaves out many categories. Recent vision and language models (VLMs), such as CLIP, have demonstrated improved open-vocabulary visual recognition capabilities through learning from Internet-scale image-text pairs. These VLMs are applied to zero-shot classification using frozen model weights without the need for fine-…",
