@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-05-15T08:18:52.874Z</updated>
+    <updated>2023-05-15T09:15:21.516Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Sperm whale talk]]></title>
+        <id>https://languagelog.ldc.upenn.edu/nll/?p=58687</id>
+        <link href="https://languagelog.ldc.upenn.edu/nll/?p=58687&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=sperm-whale-talk"/>
+        <updated>2023-05-15T09:04:22.000Z</updated>
+        <summary type="html"><![CDATA[Animal communication is not a favorite topic here at Language Log, but according to the following account, one project concerning it seems serious and is being conducted by credible scientists.  Although their claims for its ultimate significance may be inflated, I believe the research they are undertaking is worth considering, especially after hearing the clicks […]]]></summary>
+        <author>
+            <name>Victor Mair</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Scalable Coupling of Deep Learning with Logical Reasoning]]></title>
         <id>http://arxiv.org/abs/2305.07617</id>
