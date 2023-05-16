@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-05-16T22:14:02.610Z</updated>
+    <updated>2023-05-16T23:14:27.851Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Festschift for Sylvia]]></title>
+        <id>http://xianblog.wordpress.com/?p=53043</id>
+        <link href="https://xianblog.wordpress.com/2023/05/17/53043/"/>
+        <updated>2023-05-16T22:23:17.000Z</updated>
+        <summary type="html"><![CDATA[At Sylvia Richardson’s career celebration last Friday, I gave a talk on How many components in a mixture? which was most relevant given Sylvia’s contributions to mixture inference over the years, including her highly influential 1997 Read Paper with Peter Green. The other talks highlighted the many facets of Sylvia to the field and the […]]]></summary>
+        <author>
+            <name>xi'an</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Using reinforcement learning for dynamic planning in open-ended conversations]]></title>
         <id>http://ai.googleblog.com/2023/05/using-reinforcement-learning-for.html</id>
