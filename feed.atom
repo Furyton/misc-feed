@@ -2,10 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-05-16T06:18:57.312Z</updated>
+    <updated>2023-05-16T07:14:31.728Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Guided Deep Kernel Learning]]></title>
+        <id>http://arxiv.org/abs/2302.09574</id>
+        <link href="http://arxiv.org/abs/2302.09574"/>
+        <updated>2023-05-16T07:14:20.124Z</updated>
+        <summary type="html"><![CDATA[Idan Achituve, Gal Chechik, Ethan Fetaya]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Evaluating Self-Supervised Learning via Risk Decomposition]]></title>
+        <id>http://arxiv.org/abs/2302.03068</id>
+        <link href="http://arxiv.org/abs/2302.03068"/>
+        <updated>2023-05-16T07:14:20.117Z</updated>
+        <summary type="html"><![CDATA[Yann Dubois, Tatsunori Hashimoto, Percy Liang]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Differentiable Neural Networks with RePU Activation: with Applications
+  to Score Estimation and Isotonic Regression]]></title>
+        <id>http://arxiv.org/abs/2305.00608</id>
+        <link href="http://arxiv.org/abs/2305.00608"/>
+        <updated>2023-05-16T07:14:20.110Z</updated>
+        <summary type="html"><![CDATA[Guohao Shen, Yuling Jiao, Yuanyuan Lin, Jian Huang]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Topological Interpretability for Deep-Learning]]></title>
+        <id>http://arxiv.org/abs/2305.08642</id>
+        <link href="http://arxiv.org/abs/2305.08642"/>
+        <updated>2023-05-16T07:14:20.072Z</updated>
+        <summary type="html"><![CDATA[Adam Spannaus, Heidi A.Hanson, Lynne Penberthy, Georgia Tourassi]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[more [grass]hope]]></title>
         <id>http://xianblog.wordpress.com/?p=53063</id>

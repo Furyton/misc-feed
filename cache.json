@@ -6,6 +6,46 @@
       "siteUrl": "https://www.arxivist.com",
       "articles": [
         {
+          "id": "http://arxiv.org/abs/2302.09574",
+          "author": null,
+          "description": "Idan Achituve, Gal Chechik, Ethan Fetaya",
+          "link": "http://arxiv.org/abs/2302.09574",
+          "publishedOn": "2023-05-16T07:14:20.124Z",
+          "wordCount": 652,
+          "title": "Guided Deep Kernel Learning",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2302.03068",
+          "author": null,
+          "description": "Yann Dubois, Tatsunori Hashimoto, Percy Liang",
+          "link": "http://arxiv.org/abs/2302.03068",
+          "publishedOn": "2023-05-16T07:14:20.117Z",
+          "wordCount": 673,
+          "title": "Evaluating Self-Supervised Learning via Risk Decomposition",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2305.00608",
+          "author": null,
+          "description": "Guohao Shen, Yuling Jiao, Yuanyuan Lin, Jian Huang",
+          "link": "http://arxiv.org/abs/2305.00608",
+          "publishedOn": "2023-05-16T07:14:20.110Z",
+          "wordCount": 737,
+          "title": "Differentiable Neural Networks with RePU Activation: with Applications\n  to Score Estimation and Isotonic Regression",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2305.08642",
+          "author": null,
+          "description": "Adam Spannaus, Heidi A.Hanson, Lynne Penberthy, Georgia Tourassi",
+          "link": "http://arxiv.org/abs/2305.08642",
+          "publishedOn": "2023-05-16T07:14:20.072Z",
+          "wordCount": 710,
+          "title": "Topological Interpretability for Deep-Learning",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
           "id": "http://arxiv.org/abs/2305.07617",
           "author": null,
           "description": "Marianne Defresne, Sophie Barbe, Thomas Schiex",
