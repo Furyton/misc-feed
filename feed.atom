@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-05-16T20:15:32.399Z</updated>
+    <updated>2023-05-16T22:14:02.610Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -2455,41 +2455,6 @@ One such important data aggregation method is the heatmap. Heatmaps are popular 
         <summary type="html"><![CDATA[Here at Language Log, for the last couple months, we've been having long, intense discussions about ChatGPT and other AI chatbots and LLM (Large Language Model) applications.  Now, it seems that the battle over such AI programs has reached the level of ideological warfare. "America, China and a Crisis of Trust" Opinion | The New […]]]></summary>
         <author>
             <name>Victor Mair</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Machine Learning-Based Multi-Objective Design Exploration Of Flexible
-  Disc Elements]]></title>
-        <id>http://arxiv.org/abs/2304.07245</id>
-        <link href="http://arxiv.org/abs/2304.07245"/>
-        <updated>2023-04-17T09:15:55.375Z</updated>
-        <summary type="html"><![CDATA[Gehendra Sharma, Sungkwang Mun, Nayeon Lee, Luke Peterson, Daniela
-  Tellkamp, Anand Balu Nellippallil]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[梯度视角下的LoRA：简介、分析、猜测及推广]]></title>
-        <id>https://kexue.fm/archives/9590</id>
-        <link href="https://kexue.fm/archives/9590"/>
-        <updated>2023-04-17T08:46:00.000Z</updated>
-        <summary type="html"><![CDATA[随着ChatGPT及其平替的火热，各种参数高效（Parameter-Efficient）的微调方法也“水涨船高”，其中最流行的方案之一就是本文的主角LoRA了，它出自论文《LoRA: Low-R...]]></summary>
-        <author>
-            <name>苏剑林</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Inference and dynamic decision-making for deteriorating systems with
-  probabilistic dependencies through Bayesian networks and deep reinforcement
-  learning]]></title>
-        <id>http://arxiv.org/abs/2209.01092</id>
-        <link href="http://arxiv.org/abs/2209.01092"/>
-        <updated>2023-04-17T08:20:11.339Z</updated>
-        <summary type="html"><![CDATA[Pablo G. Morato, Charalampos P. Andriotis, Konstantinos G.
-  Papakonstantinou, Philippe Rigo]]></summary>
-        <author>
-            <name>arxivist feed</name>
         </author>
     </entry>
 </feed>
