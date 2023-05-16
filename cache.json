@@ -1024,56 +1024,6 @@
           "wordCount": 805,
           "title": "Inference and dynamic decision-making for deteriorating systems with\n  probabilistic dependencies through Bayesian networks and deep reinforcement\n  learning",
           "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
-        },
-        {
-          "id": "http://arxiv.org/abs/2211.09781",
-          "author": null,
-          "description": "Jean Feng, Alexej Gossmann, Gene Pennello, Nicholas Petrick, Berkman\n  Sahiner, Romain Pirracchio",
-          "link": "http://arxiv.org/abs/2211.09781",
-          "publishedOn": "2023-04-17T07:14:30.447Z",
-          "wordCount": 782,
-          "title": "Monitoring machine learning (ML)-based risk prediction algorithms in the\n  presence of confounding medical interventions",
-          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
-        },
-        {
-          "id": "http://arxiv.org/abs/2301.00736",
-          "author": null,
-          "description": "Imma Valentina Curato, Orkun Furat, Bennet Stroeh",
-          "link": "http://arxiv.org/abs/2301.00736",
-          "publishedOn": "2023-04-17T07:14:30.438Z",
-          "wordCount": 643,
-          "title": "Mixed moving average field guided learning for spatio-temporal data",
-          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
-        },
-        {
-          "id": "http://arxiv.org/abs/2304.06767",
-          "author": null,
-          "description": "Hanze Dong, Wei Xiong, Deepanshu Goyal, Rui Pan, Shizhe Diao, Jipeng\n  Zhang, Kashun Shum, Tong Zhang",
-          "link": "http://arxiv.org/abs/2304.06767",
-          "publishedOn": "2023-04-17T07:14:29.414Z",
-          "wordCount": 740,
-          "title": "RAFT: Reward rAnked FineTuning for Generative Foundation Model Alignment",
-          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
-        },
-        {
-          "id": "http://arxiv.org/abs/2109.09304",
-          "author": null,
-          "description": "Zhichao Wang, Yizhe Zhu",
-          "link": "http://arxiv.org/abs/2109.09304",
-          "publishedOn": "2023-04-17T07:14:29.106Z",
-          "wordCount": 765,
-          "title": "Deformed semicircle law and concentration of nonlinear random matrices\n  for ultra-wide neural networks",
-          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
-        },
-        {
-          "id": "http://arxiv.org/abs/2208.11080",
-          "author": null,
-          "description": "Mateusz Krzyzi\\'nski, Miko{\\l}aj Spytek, Hubert Baniecki,\n  Przemys{\\l}aw Biecek",
-          "link": "http://arxiv.org/abs/2208.11080",
-          "publishedOn": "2023-04-17T07:14:29.081Z",
-          "wordCount": 689,
-          "title": "SurvSHAP(t): Time-dependent explanations of machine learning survival\n  models",
-          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
         }
       ]
     },
@@ -1946,6 +1896,16 @@
       "feedUrl": "http://feeds.feedburner.com/blogspot/gJZg",
       "siteUrl": "http://ai.googleblog.com/",
       "articles": [
+        {
+          "id": "http://ai.googleblog.com/2023/05/using-reinforcement-learning-for.html",
+          "author": null,
+          "description": "Posted by Deborah Cohen, Staff Research Scientist, and Craig Boutilier, Principal Scientist, Google Research\n\n\n\n\nAs virtual assistants become ubiquitous, users increasingly interact with them to learn about new topics or obtain recommendations and expect them to deliver capabilities beyond narrow dialogues of one or two turns. Dynamic planning, namely the capability to look ahead and replan based on the flow of the conversation, is an essential ingredient for the making of engaging conversations with the deeper, open-ended interactions that users expect.\n \n\nWhile large language models (LLMs) are now beating state-of-the-art approaches in many natural language processing benchmarks, they are typically trained to output the next best response, rather than planning ahead, which is required fo…",
+          "link": "http://ai.googleblog.com/2023/05/using-reinforcement-learning-for.html",
+          "publishedOn": "2023-05-16T19:22:00.001Z",
+          "wordCount": 28006,
+          "title": "Using reinforcement learning for dynamic planning in open-ended conversations",
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1pRX6ly5Tgckfk47u8_KxBasWJhuFoQ4SzbSmiK3SrQOKn8jXr3RHvb32lGlBksKl3-wXCwU8UnEhRp6YztIREY874N4i1289xQKHlO64QZqD9tQBiBQHMW-S5B4u5mSaBw6lgbuTEVplIrBfaOIcX-7-YG6D0lGzSOMN7r9umjZwMoE_1t1gcsEOZA/w1200-h630-p-k-no-nu/rlxtalk.png"
+        },
         {
           "id": "http://ai.googleblog.com/2023/05/larger-language-models-do-in-context.html",
           "author": null,

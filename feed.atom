@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-05-16T19:12:36.722Z</updated>
+    <updated>2023-05-16T20:15:32.399Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Using reinforcement learning for dynamic planning in open-ended conversations]]></title>
+        <id>http://ai.googleblog.com/2023/05/using-reinforcement-learning-for.html</id>
+        <link href="http://ai.googleblog.com/2023/05/using-reinforcement-learning-for.html"/>
+        <updated>2023-05-16T19:22:00.001Z</updated>
+        <summary type="html"><![CDATA[Posted by Deborah Cohen, Staff Research Scientist, and Craig Boutilier, Principal Scientist, Google Research
+
+
+
+
+As virtual assistants become ubiquitous, users increasingly interact with them to learn about new topics or obtain recommendations and expect them to deliver capabilities beyond narrow dialogues of one or two turns. Dynamic planning, namely the capability to look ahead and replan based on the flow of the conversation, is an essential ingredient for the making of engaging conversations with the deeper, open-ended interactions that users expect.
+ 
+
+While large language models (LLMs) are now beating state-of-the-art approaches in many natural language processing benchmarks, they are typically trained to output the next best response, rather than planning ahead, which is required fo…]]></summary>
+        <author>
+            <name>Google AI Blog</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA["Quid pro crow"]]></title>
         <id>https://languagelog.ldc.upenn.edu/nll/?p=58724</id>
@@ -2470,62 +2488,6 @@ One such important data aggregation method is the heatmap. Heatmaps are popular 
         <updated>2023-04-17T08:20:11.339Z</updated>
         <summary type="html"><![CDATA[Pablo G. Morato, Charalampos P. Andriotis, Konstantinos G.
   Papakonstantinou, Philippe Rigo]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Monitoring machine learning (ML)-based risk prediction algorithms in the
-  presence of confounding medical interventions]]></title>
-        <id>http://arxiv.org/abs/2211.09781</id>
-        <link href="http://arxiv.org/abs/2211.09781"/>
-        <updated>2023-04-17T07:14:30.447Z</updated>
-        <summary type="html"><![CDATA[Jean Feng, Alexej Gossmann, Gene Pennello, Nicholas Petrick, Berkman
-  Sahiner, Romain Pirracchio]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mixed moving average field guided learning for spatio-temporal data]]></title>
-        <id>http://arxiv.org/abs/2301.00736</id>
-        <link href="http://arxiv.org/abs/2301.00736"/>
-        <updated>2023-04-17T07:14:30.438Z</updated>
-        <summary type="html"><![CDATA[Imma Valentina Curato, Orkun Furat, Bennet Stroeh]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RAFT: Reward rAnked FineTuning for Generative Foundation Model Alignment]]></title>
-        <id>http://arxiv.org/abs/2304.06767</id>
-        <link href="http://arxiv.org/abs/2304.06767"/>
-        <updated>2023-04-17T07:14:29.414Z</updated>
-        <summary type="html"><![CDATA[Hanze Dong, Wei Xiong, Deepanshu Goyal, Rui Pan, Shizhe Diao, Jipeng
-  Zhang, Kashun Shum, Tong Zhang]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Deformed semicircle law and concentration of nonlinear random matrices
-  for ultra-wide neural networks]]></title>
-        <id>http://arxiv.org/abs/2109.09304</id>
-        <link href="http://arxiv.org/abs/2109.09304"/>
-        <updated>2023-04-17T07:14:29.106Z</updated>
-        <summary type="html"><![CDATA[Zhichao Wang, Yizhe Zhu]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SurvSHAP(t): Time-dependent explanations of machine learning survival
-  models]]></title>
-        <id>http://arxiv.org/abs/2208.11080</id>
-        <link href="http://arxiv.org/abs/2208.11080"/>
-        <updated>2023-04-17T07:14:29.081Z</updated>
-        <summary type="html"><![CDATA[Mateusz Krzyzi\'nski, Miko{\l}aj Spytek, Hubert Baniecki,
-  Przemys{\l}aw Biecek]]></summary>
         <author>
             <name>arxivist feed</name>
         </author>
