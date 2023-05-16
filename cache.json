@@ -1497,6 +1497,16 @@
       "siteUrl": "https://pytorch.org/",
       "articles": [
         {
+          "id": "https://pytorch.org/blog/pytorch-conference-2023/",
+          "author": null,
+          "description": "<div type=\"html\"/>",
+          "link": "https://pytorch.org/blog/pytorch-conference-2023/",
+          "publishedOn": "2023-05-16T07:00:00.000Z",
+          "wordCount": 889,
+          "title": "PyTorch Conference 2023: Join us in San Francisco October 16-17",
+          "imageUrl": "https://pytorch.org/assets/images/pytorch-logo.png"
+        },
+        {
           "id": "https://pytorch.org/blog/language-identification/",
           "author": null,
           "description": "Language Identification is the process of identifying the primary language from multiple audio input samples. In natural language processing (NLP), language identification is an important problem and a challenging issue. There are many language-related tasks such as entering text on your phone, finding news articles you enjoy, or discovering answers to questions that you may have. All these tasks are powered by NLP models. To decide which model to invoke at a particular point in time, we must perform language identification.",
