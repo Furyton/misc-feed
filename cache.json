@@ -6,6 +6,56 @@
       "siteUrl": "https://www.arxivist.com",
       "articles": [
         {
+          "id": "http://arxiv.org/abs/2112.07611",
+          "author": null,
+          "description": "Han Zheng, Zimu Li, Junyu Liu, Sergii Strelchuk, Risi Kondor",
+          "link": "http://arxiv.org/abs/2112.07611",
+          "publishedOn": "2023-05-17T07:13:38.489Z",
+          "wordCount": 775,
+          "title": "Speeding up Learning Quantum States through Group Equivariant\n  Convolutional Quantum Ans\\\"atze",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2009.03836",
+          "author": null,
+          "description": "Mohammed Sharafath Abdul Hameed, Andreas Schwung",
+          "link": "http://arxiv.org/abs/2009.03836",
+          "publishedOn": "2023-05-17T07:13:38.479Z",
+          "wordCount": 841,
+          "title": "Graph neural networks-based Scheduler for Production planning problems\n  using Reinforcement Learning",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2303.03544",
+          "author": null,
+          "description": "Itai Shapira",
+          "link": "http://arxiv.org/abs/2303.03544",
+          "publishedOn": "2023-05-17T07:13:38.456Z",
+          "wordCount": 645,
+          "title": "Expressivity of Shallow and Deep Neural Networks for Polynomial\n  Approximation",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2305.09557",
+          "author": null,
+          "description": "Lin Chen, Thomas Fu, Amin Karbasi, Vahab Mirrokni",
+          "link": "http://arxiv.org/abs/2305.09557",
+          "publishedOn": "2023-05-17T07:13:37.498Z",
+          "wordCount": 774,
+          "title": "Learning from Aggregated Data: Curated Bags versus Random Bags",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2301.07733",
+          "author": null,
+          "description": "Aaron Defazio, Konstantin Mishchenko",
+          "link": "http://arxiv.org/abs/2301.07733",
+          "publishedOn": "2023-05-17T07:13:37.479Z",
+          "wordCount": 613,
+          "title": "Learning-Rate-Free Learning by D-Adaptation",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
           "id": "http://arxiv.org/abs/2302.09574",
           "author": null,
           "description": "Idan Achituve, Gal Chechik, Ethan Fetaya",
