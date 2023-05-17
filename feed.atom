@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-05-16T23:14:27.851Z</updated>
+    <updated>2023-05-17T01:17:34.200Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -2455,16 +2455,6 @@ One such important data aggregation method is the heatmap. Heatmaps are popular 
         <summary type="html"><![CDATA[I very recently read a  2021 paper by Mijung Park, Margarita Vinaroz, and Wittawat Jitkrittum on running ABC while ensuring data privacy (published in Entropy). “…adding noise to the distance computed on the real observations and pseudo-data suffices the privacy guarantee of the resulting  posterior samples” For ABC tolerance, they use maximum mean discrepancy (MMD) […]]]></summary>
         <author>
             <name>xi'an</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The perils of AI (Artificial Intelligence) in the PRC]]></title>
-        <id>https://languagelog.ldc.upenn.edu/nll/?p=58453</id>
-        <link href="https://languagelog.ldc.upenn.edu/nll/?p=58453&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=the-perils-of-ai-artificial-intelligence-in-the-prc"/>
-        <updated>2023-04-17T11:49:28.000Z</updated>
-        <summary type="html"><![CDATA[Here at Language Log, for the last couple months, we've been having long, intense discussions about ChatGPT and other AI chatbots and LLM (Large Language Model) applications.  Now, it seems that the battle over such AI programs has reached the level of ideological warfare. "America, China and a Crisis of Trust" Opinion | The New […]]]></summary>
-        <author>
-            <name>Victor Mair</name>
         </author>
     </entry>
 </feed>
