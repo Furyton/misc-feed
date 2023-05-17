@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-05-17T13:17:54.627Z</updated>
+    <updated>2023-05-17T14:13:31.841Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Phở]]></title>
+        <id>https://languagelog.ldc.upenn.edu/nll/?p=58720</id>
+        <link href="https://languagelog.ldc.upenn.edu/nll/?p=58720&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=pho"/>
+        <updated>2023-05-17T13:34:32.000Z</updated>
+        <summary type="html"><![CDATA[Since about the 90s, pho has been popping up all over the place.  It has been especially conspicuous after the turn of the millennium, and I think it adapted well to the pandemic as a quick and ready kind of street food.  I've often wondered whether it had anything to do with French "fire" or […]]]></summary>
+        <author>
+            <name>Victor Mair</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Speeding up Learning Quantum States through Group Equivariant
   Convolutional Quantum Ans\"atze]]></title>
