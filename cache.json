@@ -6,6 +6,46 @@
       "siteUrl": "https://www.arxivist.com",
       "articles": [
         {
+          "id": "http://arxiv.org/abs/2106.11211",
+          "author": null,
+          "description": "Maximilian Autenrieth, David A. van Dyk, Roberto Trotta, David C.\n  Stenning",
+          "link": "http://arxiv.org/abs/2106.11211",
+          "publishedOn": "2023-05-18T07:13:31.695Z",
+          "wordCount": 663,
+          "title": "Stratified Learning: A General-Purpose Statistical Method for Improved\n  Learning under Covariate Shift",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2305.09957",
+          "author": null,
+          "description": "Diego Garc\\'ia-Mart\\'in, Martin Larocca, M. Cerezo",
+          "link": "http://arxiv.org/abs/2305.09957",
+          "publishedOn": "2023-05-18T07:13:31.666Z",
+          "wordCount": 676,
+          "title": "Deep quantum neural networks form Gaussian processes",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2305.10379",
+          "author": null,
+          "description": "Jorge Medina, Andrew D. White",
+          "link": "http://arxiv.org/abs/2305.10379",
+          "publishedOn": "2023-05-18T07:13:30.762Z",
+          "wordCount": 599,
+          "title": "Active Learning in Symbolic Regression Performance with Physical\n  Constraints",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2303.00564",
+          "author": null,
+          "description": "Jacob A. Zavatone-Veth, Cengiz Pehlevan",
+          "link": "http://arxiv.org/abs/2303.00564",
+          "publishedOn": "2023-05-18T07:13:30.755Z",
+          "wordCount": 614,
+          "title": "Learning curves for deep structured Gaussian feature models",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
           "id": "http://arxiv.org/abs/2112.07611",
           "author": null,
           "description": "Han Zheng, Zimu Li, Junyu Liu, Sergii Strelchuk, Risi Kondor",

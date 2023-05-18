@@ -2,10 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-05-18T06:19:42.701Z</updated>
+    <updated>2023-05-18T07:13:48.098Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Stratified Learning: A General-Purpose Statistical Method for Improved
+  Learning under Covariate Shift]]></title>
+        <id>http://arxiv.org/abs/2106.11211</id>
+        <link href="http://arxiv.org/abs/2106.11211"/>
+        <updated>2023-05-18T07:13:31.695Z</updated>
+        <summary type="html"><![CDATA[Maximilian Autenrieth, David A. van Dyk, Roberto Trotta, David C.
+  Stenning]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Deep quantum neural networks form Gaussian processes]]></title>
+        <id>http://arxiv.org/abs/2305.09957</id>
+        <link href="http://arxiv.org/abs/2305.09957"/>
+        <updated>2023-05-18T07:13:31.666Z</updated>
+        <summary type="html"><![CDATA[Diego Garc\'ia-Mart\'in, Martin Larocca, M. Cerezo]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Active Learning in Symbolic Regression Performance with Physical
+  Constraints]]></title>
+        <id>http://arxiv.org/abs/2305.10379</id>
+        <link href="http://arxiv.org/abs/2305.10379"/>
+        <updated>2023-05-18T07:13:30.762Z</updated>
+        <summary type="html"><![CDATA[Jorge Medina, Andrew D. White]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learning curves for deep structured Gaussian feature models]]></title>
+        <id>http://arxiv.org/abs/2303.00564</id>
+        <link href="http://arxiv.org/abs/2303.00564"/>
+        <updated>2023-05-18T07:13:30.755Z</updated>
+        <summary type="html"><![CDATA[Jacob A. Zavatone-Veth, Cengiz Pehlevan]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[grasshoppers for pythons]]></title>
         <id>http://xianblog.wordpress.com/?p=53069</id>
