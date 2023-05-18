@@ -1515,16 +1515,6 @@
           "wordCount": 1409,
           "title": "Introducing Hidet: A Deep Learning Compiler for Efficient Model Serving",
           "imageUrl": "https://pytorch.org/assets/images/pytorch-logo.png"
-        },
-        {
-          "id": "https://pytorch.org/blog/accelerating-large-language-models/",
-          "author": null,
-          "description": "TL;DR. We show how to use Accelerated PyTorch 2.0 Transformers and the newly introduced torch.compile() method to accelerate Large Language Models on the example of nanoGPT, a compact open-source implementation of the GPT model from Andrej Karpathy. Using the new scaled dot product attention operator introduced with Accelerated PT2 Transformers, we select the flash_attention custom kernel and achieve faster training time per batch (measured with Nvidia A100 GPUs), going from a ~143ms/batch baseline to ~113 ms/batch. In addition, the enhanced implementation using the SDPA operator offers better numerical stability. Finally, further optimizations are achieved using padded inputs, which when combined with flash attention lead to ~87ms/batch.",
-          "link": "https://pytorch.org/blog/accelerating-large-language-models/",
-          "publishedOn": "2023-04-19T07:00:00.000Z",
-          "wordCount": 2525,
-          "title": "Accelerating Large Language Models with Accelerated Transformers",
-          "imageUrl": "https://pytorch.org/assets/images/pytorch-logo.png"
         }
       ]
     },
