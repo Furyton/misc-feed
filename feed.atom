@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-05-18T10:15:24.442Z</updated>
+    <updated>2023-05-18T11:12:07.735Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -2457,16 +2457,6 @@ Google sees AI as a foundational and transformational technology, with recent ad
         <summary type="html"><![CDATA[TL;DR. We show how to use Accelerated PyTorch 2.0 Transformers and the newly introduced torch.compile() method to accelerate Large Language Models on the example of nanoGPT, a compact open-source implementation of the GPT model from Andrej Karpathy. Using the new scaled dot product attention operator introduced with Accelerated PT2 Transformers, we select the flash_attention custom kernel and achieve faster training time per batch (measured with Nvidia A100 GPUs), going from a ~143ms/batch baseline to ~113 ms/batch. In addition, the enhanced implementation using the SDPA operator offers better numerical stability. Finally, further optimizations are achieved using padded inputs, which when combined with flash attention lead to ~87ms/batch.]]></summary>
         <author>
             <name>PyTorch Website</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mike Titterington [in memoriam²]]]></title>
-        <id>http://xianblog.wordpress.com/?p=52832</id>
-        <link href="https://xianblog.wordpress.com/2023/04/19/mike-titterington-in-memoriam%c2%b2/"/>
-        <updated>2023-04-18T22:23:12.000Z</updated>
-        <summary type="html"><![CDATA[Visit the post for more.]]></summary>
-        <author>
-            <name>xi'an</name>
         </author>
     </entry>
 </feed>
