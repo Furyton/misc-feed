@@ -2,10 +2,33 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-05-18T21:12:49.292Z</updated>
+    <updated>2023-05-18T22:13:30.852Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Sparse video tubes for joint video and image vision transformers]]></title>
+        <id>http://ai.googleblog.com/2023/05/sparse-video-tubes-for-joint-video-and.html</id>
+        <link href="http://ai.googleblog.com/2023/05/sparse-video-tubes-for-joint-video-and.html"/>
+        <updated>2023-05-18T21:08:00.000Z</updated>
+        <summary type="html"><![CDATA[Posted by AJ Piergiovanni and Anelia Angelova, Research Scientists, Google
+
+
+
+
+
+
+
+
+Video understanding is a challenging problem that requires reasoning about both spatial information (e.g., for objects in a scene, including their locations and relations) and temporal information for activities or events shown in a video. There are many video understanding applications and tasks, such as understanding the semantic content of web videos and robot perception. However, current works, such as ViViT and TimeSFormer, densely process the video and require significant compute, especially as model size plus video length and resolution increase. 
+
+
+
+In “Rethinking Video ViTs: Sparse Video Tubes for Joint Image and Video Learning”, to be presented at CVPR 2023, we introduce a simple technique that tur…]]></summary>
+        <author>
+            <name>Google AI Blog</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Responsible AI at Google Research: PAIR]]></title>
         <id>http://ai.googleblog.com/2023/05/responsible-ai-at-google-research-pair.html</id>
