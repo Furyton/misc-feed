@@ -1917,6 +1917,16 @@
       "siteUrl": "http://ai.googleblog.com/",
       "articles": [
         {
+          "id": "http://ai.googleblog.com/2023/05/responsible-ai-at-google-research-pair.html",
+          "author": null,
+          "description": "Posted by Lucas Dixon and Michael Terry, co-leads, PAIR, Google Research\n\n\n\n\nPAIR (People + AI Research) first launched in 2017 with the belief that “AI can go much further — and be more useful to all of us — if we build systems with people in mind at the start of the process.” We continue to focus on making AI more understandable, interpretable, fun, and usable by more people around the world. It’s a mission that is particularly timely given the emergence of generative AI and chatbots.\n\n\n\nToday, PAIR is part of the Responsible AI and Human-Centered Technology team within Google Research, and our work spans this larger research space: We advance foundational research on human-AI interaction (HAI) and machine learning (ML); we publish educational materials, including the PAIR Guidebook and …",
+          "link": "http://ai.googleblog.com/2023/05/responsible-ai-at-google-research-pair.html",
+          "publishedOn": "2023-05-18T17:12:00.003Z",
+          "wordCount": 27915,
+          "title": "Responsible AI at Google Research: PAIR",
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDUj2YMMcVzCHuAQ9TYS3IkauQbh9Tti-nZl6LZOMwwieYdyJM7DHShetIblRhW0hvTaPvDmK2f0SDu9XcLCVg0780I3GnYU0FrA27s0-MiQXQ5xPUCGqTSx-7KNJLwrlczkco2Ql5KzMeVHNXBl2oeaN0gMCPi7A2Bpc6eDpzjwZIHoNMiWLfQqL2vQ/w1200-h630-p-k-no-nu/image3.gif"
+        },
+        {
           "id": "http://ai.googleblog.com/2023/05/using-reinforcement-learning-for.html",
           "author": null,
           "description": "Posted by Deborah Cohen, Staff Research Scientist, and Craig Boutilier, Principal Scientist, Google Research\n\n\n\n\nAs virtual assistants become ubiquitous, users increasingly interact with them to learn about new topics or obtain recommendations and expect them to deliver capabilities beyond narrow dialogues of one or two turns. Dynamic planning, namely the capability to look ahead and replan based on the flow of the conversation, is an essential ingredient for the making of engaging conversations with the deeper, open-ended interactions that users expect.\n \n\nWhile large language models (LLMs) are now beating state-of-the-art approaches in many natural language processing benchmarks, they are typically trained to output the next best response, rather than planning ahead, which is required fo…",
