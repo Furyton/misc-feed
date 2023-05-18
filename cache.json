@@ -1547,6 +1547,16 @@
       "siteUrl": "https://xianblog.wordpress.com",
       "articles": [
         {
+          "id": "http://xianblog.wordpress.com/?p=53019",
+          "author": "xi'an",
+          "description": "Visit the post for more.",
+          "link": "https://xianblog.wordpress.com/2023/05/19/french-coast/",
+          "publishedOn": "2023-05-18T22:23:56.000Z",
+          "wordCount": 1702,
+          "title": "French coast",
+          "imageUrl": "https://xianblog.files.wordpress.com/2023/05/1683538746363-e1683548921528.jpg"
+        },
+        {
           "id": "http://xianblog.wordpress.com/?p=53069",
           "author": "xi'an",
           "description": "Following my earlier post on the terrible performances of ChatGPT for a grasshopping riddle, Bob Carpenter sent me his interaction with GPT4, using the same entry. Here is the python code outcome he obtained. The code is running  and the answer is correct. BC: Thanks. Can you write a python program to simulate the final […]",
