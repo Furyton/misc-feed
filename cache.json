@@ -1165,6 +1165,16 @@
       "siteUrl": "https://mlfoundations.org/",
       "articles": [
         {
+          "id": "https://mlfoundations.org/talk/lilicrap/",
+          "author": null,
+          "description": "Large language models are capable of an incredible array of tasks. Language models are pre-trained on large amounts of text data from the internet. Then they are fine-tuned on instruction following and further improved by optimizing human preferences. The resulting models are imperfect but are nevertheless able to hold conversations, solve problems, and use tools. How quickly will these models continue to improve? There are a variety of opinions. The answer to this question is also important because language models are poised to make significant changes to the way we live and work. Some researchers think we’ve hit a plateau in performance and that progress will stall without a breakthrough. Others predict the arrival of general intelligence within a couple of years.Putting aside the question of AGI, I will argue that rapid progress in model capabilities will continue without the need for a breakthrough. I will draw connections between language model research and the past decade of work in deep reinforcement learning, especially the Go & Starcraft projects.\nThese projects followed a similar methodology - models were pre-trained using data collected from game databases. Then they were improved iteratively with reinforcement learning. Viewed from the vantage point of model-based reinforcement learning, optimization of language models is in its infancy. Put simply, there are clear experiments which are likely to create much better models. Why haven’t these experiments been run already? Since performant language models are large and reward is derived from human preferences, experiments require extensive coordination of people and compute. Given economic incentives, we can expect researchers to overcome these hurdles. There is therefore good reason to believe that language model capabilities will continue to improve rapidly. This motivates increased investment in AI safety research, policy, and governance.",
+          "link": "https://mlfoundations.org/talk/lilicrap/",
+          "publishedOn": "2023-05-19T14:00:00.000Z",
+          "wordCount": 359,
+          "title": "Timothy Lillicrap - Model-based reinforcement learning and the future of language models",
+          "imageUrl": "https://mlfoundations.org/img/icon-192.png"
+        },
+        {
           "id": "https://mlfoundations.org/talk/choi/",
           "author": null,
           "description": "Scale appears to be the winning recipe in today's leaderboards. And yet, extreme-scale neural models are (un)surprisingly brittle and make errors that are often nonsensical and even counterintuitive. In this talk, I will argue for the importance of knowledge, especially commonsense knowledge, as well as inference-time reasoning algorithms, and demonstrate how smaller models developed in academia can still have an edge over larger industry-scale models, if powered with knowledge and/or reasoning algorithms.",
