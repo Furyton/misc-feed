@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-05-19T09:14:26.903Z</updated>
+    <updated>2023-05-19T10:15:41.542Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -1603,6 +1603,16 @@ A bonus speed-up for linting by changing tox’s configuration.
 Read more...]]></summary>
         <author>
             <name>Python⇒Speed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[统计月读（2023 年 4 月）]]></title>
+        <id>https://cosx.org/2023/05/monthly/</id>
+        <link href="https://cosx.org/2023/05/monthly/"/>
+        <updated>2023-05-01T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[推荐语：深度学习，但是Lasso？具有算法包和对应的原理论文，值得一试 推荐人：孔令仁 链接：https://lassonet.ml/ 推荐语：明]]></summary>
+        <author>
+            <name>统计之都</name>
         </author>
     </entry>
     <entry>

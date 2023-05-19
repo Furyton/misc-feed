@@ -1320,7 +1320,18 @@
       "title": "统计之都",
       "feedUrl": "https://cosx.org/index.xml",
       "siteUrl": "https://cosx.org/",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://cosx.org/2023/05/monthly/",
+          "author": null,
+          "description": "推荐语：深度学习，但是Lasso？具有算法包和对应的原理论文，值得一试 推荐人：孔令仁 链接：https://lassonet.ml/ 推荐语：明",
+          "link": "https://cosx.org/2023/05/monthly/",
+          "publishedOn": "2023-05-01T00:00:00.000Z",
+          "wordCount": 195,
+          "title": "统计月读（2023 年 4 月）",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "Sander Dieleman",
