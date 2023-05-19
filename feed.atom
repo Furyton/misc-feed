@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-05-19T05:14:00.111Z</updated>
+    <updated>2023-05-19T06:19:07.221Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -2451,21 +2451,6 @@ Ability to handle auxi…]]></summary>
         <summary type="html"><![CDATA[DeepMind and the Brain team from Google Research will join forces to accelerate progress towards a world in which AI helps solve the biggest challenges facing humanity.]]></summary>
         <author>
             <name>DeepMind Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Responsible AI at Google Research: Technology, AI, Society and Culture]]></title>
-        <id>http://ai.googleblog.com/2023/04/responsible-ai-at-google-research.html</id>
-        <link href="http://ai.googleblog.com/2023/04/responsible-ai-at-google-research.html"/>
-        <updated>2023-04-19T18:12:00.001Z</updated>
-        <summary type="html"><![CDATA[Posted by Lauren Wilcox, Senior Staff Research Scientist, on behalf of the Technology, AI, Society and Culture Team
-
-
-
-
-Google sees AI as a foundational and transformational technology, with recent advances in generative AI technologies, such as LaMDA, PaLM, Imagen, Parti, MusicLM, and similar machine learning (ML) models, some of which are now being incorporated into our products. This transformative potential requires us to be responsible not only in how we advance our technology, but also in how we envision which technologies to build, and how we assess the social impact AI and ML-enabled technologies have on the world. This endeavor necessitates fundamental and applied research with an interdisciplinary lens that engages with — and accounts for — the social, cultural, economic, and oth…]]></summary>
-        <author>
-            <name>Google AI Blog</name>
         </author>
     </entry>
 </feed>
