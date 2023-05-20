@@ -2067,16 +2067,6 @@
           "wordCount": 27776,
           "title": "Visual Blocks for ML: Accelerating machine learning prototyping with interactive tools",
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgl7alDg3lrJ1OofDgtgrcGJlHpjkoU_DThiHYOUepNt4mEUfRJckufpZD8wExahLSJC1S7XQZrznp0WkApOI8cq4-hPwxolT65igv5zx6wG0o1avhmKE2HQuz_aHAz2mld3ViB5Rc0eZnLK75EEILqsfjqhnLw7m22oK0fGVZadBWG-BRObu8oJpWKiQ/w1200-h630-p-k-no-nu/Visual%20blocks%20hero.jpg"
-        },
-        {
-          "id": "http://ai.googleblog.com/2023/04/recent-advances-in-deep-long-horizon.html",
-          "author": null,
-          "description": "Posted by Rajat Sen and Abhimanyu Das, Research Scientists, Google Research\n\n\n\n\nTime-series forecasting is an important research area that is critical to several scientific and industrial applications, like retail supply chain optimization, energy and traffic prediction, and weather forecasting. In retail use cases, for example, it has been observed that improving demand forecasting accuracy can meaningfully reduce inventory costs and increase revenue. \n \n\nModern time-series applications can involve forecasting hundreds of thousands of correlated time-series (e.g., demands of different products for a retailer) over long horizons (e.g., a quarter or year away at daily granularity). As such, time-series forecasting models need to satisfy the following key criterias:\n\n\n\nAbility to handle auxi…",
-          "link": "http://ai.googleblog.com/2023/04/recent-advances-in-deep-long-horizon.html",
-          "publishedOn": "2023-04-20T20:26:00.001Z",
-          "wordCount": 27457,
-          "title": "Recent advances in deep long-horizon forecasting",
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjazCNV8O9s-ZwT9g5cBDsMQ_gv2SMf5enK_cMdtOamv-WJGXlB3qzhZme8xVfXhA2xFS0HwaDBlh3d6z3R2FS_qW05ouD2z9jQ5sgIizM4VcE6-i6BSf4MJmin1KmfEhkkrVxfZUj-H2ePsGYjqlnCrMqBtk68uHplGODDSmeu8FABJ_ldthUpR0WF_A/w1200-h630-p-k-no-nu/scalar.png"
         }
       ]
     },

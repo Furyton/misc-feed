@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-05-20T08:17:02.051Z</updated>
+    <updated>2023-05-20T09:13:12.841Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -2441,28 +2441,6 @@ However, developing and iterating on these ML-based multimedia prototypes can be
         <summary type="html"><![CDATA[Starting from an X validated question on finding an unbiased estimator of an integral raised to a non-integer power, I came across a somewhat interesting Bernoulli factory solution! Thanks to Peter Occil’s encyclopedic record of cases, pointing out to Mendo’s (2019) solution for functions of ρ that can be expressed as power series. Like ργ […]]]></summary>
         <author>
             <name>xi'an</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Recent advances in deep long-horizon forecasting]]></title>
-        <id>http://ai.googleblog.com/2023/04/recent-advances-in-deep-long-horizon.html</id>
-        <link href="http://ai.googleblog.com/2023/04/recent-advances-in-deep-long-horizon.html"/>
-        <updated>2023-04-20T20:26:00.001Z</updated>
-        <summary type="html"><![CDATA[Posted by Rajat Sen and Abhimanyu Das, Research Scientists, Google Research
-
-
-
-
-Time-series forecasting is an important research area that is critical to several scientific and industrial applications, like retail supply chain optimization, energy and traffic prediction, and weather forecasting. In retail use cases, for example, it has been observed that improving demand forecasting accuracy can meaningfully reduce inventory costs and increase revenue. 
- 
-
-Modern time-series applications can involve forecasting hundreds of thousands of correlated time-series (e.g., demands of different products for a retailer) over long horizons (e.g., a quarter or year away at daily granularity). As such, time-series forecasting models need to satisfy the following key criterias:
-
-
-
-Ability to handle auxi…]]></summary>
-        <author>
-            <name>Google AI Blog</name>
         </author>
     </entry>
 </feed>
