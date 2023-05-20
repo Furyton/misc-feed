@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-05-20T14:13:06.054Z</updated>
+    <updated>2023-05-20T15:13:50.319Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[AI comic strip creation?]]></title>
+        <id>https://languagelog.ldc.upenn.edu/nll/?p=58752</id>
+        <link href="https://languagelog.ldc.upenn.edu/nll/?p=58752&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=ai-comic-strip-creation"/>
+        <updated>2023-05-20T15:02:30.000Z</updated>
+        <summary type="html"><![CDATA[Today's Tank McNamara: Of course the joke in this strip is the seven fingers on Tank's right hand, and the eight fingers on his left hand. A quick web search for {ai comic generator} turns out lots of options. As far as I can tell, these are all systems for creating images, not image sequences […]]]></summary>
+        <author>
+            <name>Mark Liberman</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA["Romanisation 'gives clarity'"]]></title>
         <id>https://languagelog.ldc.upenn.edu/nll/?p=58734</id>
