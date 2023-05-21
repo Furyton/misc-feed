@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-05-21T06:18:15.590Z</updated>
+    <updated>2023-05-21T07:12:57.871Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -2370,25 +2370,6 @@ If you’re registered for CHI 2023, we hope you’ll visit the Google booth to 
         <summary type="html"><![CDATA[Thrice alas, I was dearly hoping to join the 10th international Purdue symposium on Statistics next June, but due to too many work- and home-front constraints in this period, I had to cancel my participation to this meeting and hence miss a rare opportunity to return for the first time since 1993 to a place […]]]></summary>
         <author>
             <name>xi'an</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Visual Blocks for ML: Accelerating machine learning prototyping with interactive tools]]></title>
-        <id>http://ai.googleblog.com/2023/04/visual-blocks-for-ml-accelerating.html</id>
-        <link href="http://ai.googleblog.com/2023/04/visual-blocks-for-ml-accelerating.html"/>
-        <updated>2023-04-21T19:01:00.001Z</updated>
-        <summary type="html"><![CDATA[Posted by Ruofei Du, Interactive Perception & Graphics Lead, Google Augmented Reality, and Na Li, Tech Lead Manager, Google CoreML
-
-  
-
-
-Recent deep learning advances have enabled a plethora of high-performance, real-time multimedia applications based on machine learning (ML), such as human body segmentation for video and teleconferencing, depth estimation for 3D reconstruction, hand and body tracking for interaction, and audio processing for remote communication.
-
-
-
-However, developing and iterating on these ML-based multimedia prototypes can be challenging and costly. It usually involves a cross-functional team of ML practitioners who fine-tune the models, evaluate robustness, characterize strengths and weaknesses, inspect performance in the end-use context, and develop the applications.…]]></summary>
-        <author>
-            <name>Google AI Blog</name>
         </author>
     </entry>
 </feed>
