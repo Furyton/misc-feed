@@ -1797,16 +1797,6 @@
           "wordCount": 1714,
           "title": "art brut",
           "imageUrl": "https://xianblog.files.wordpress.com/2023/04/1680939449772-e1680939694810.jpg"
-        },
-        {
-          "id": "http://xianblog.wordpress.com/?p=52779",
-          "author": "xi'an",
-          "description": "Thrice alas, I was dearly hoping to join the 10th international Purdue symposium on Statistics next June, but due to too many work- and home-front constraints in this period, I had to cancel my participation to this meeting and hence miss a rare opportunity to return for the first time since 1993 to a place […]",
-          "link": "https://xianblog.wordpress.com/2023/04/22/10th-international-purdue-symposium-on-statistics/",
-          "publishedOn": "2023-04-21T22:23:59.000Z",
-          "wordCount": 1879,
-          "title": "10th international Purdue symposium on Statistics",
-          "imageUrl": "https://xianblog.files.wordpress.com/2023/04/temp-3.png"
         }
       ]
     },
@@ -2052,6 +2042,16 @@
       "feedUrl": "https://languagelog.ldc.upenn.edu/nll/?feed=rss2",
       "siteUrl": "https://languagelog.ldc.upenn.edu/nll",
       "articles": [
+        {
+          "id": "https://languagelog.ldc.upenn.edu/nll/?p=58745",
+          "author": "Victor Mair",
+          "description": "We have seen ChatGPT tell stories (and variants of the stories it tells), fancify Coleridge's famous poem on Xanadu, pose a serious challenge to the Great Firewall of China, mimic VHM, write Haiku, and perform all manner of amazing feats.  In a forthcoming post, we will witness its efforts to translate Chinese poetry.  Today, we […]",
+          "link": "https://languagelog.ldc.upenn.edu/nll/?p=58745&utm_source=rss&utm_medium=rss&utm_campaign=chatgpt-does-cuneiform-studies",
+          "publishedOn": "2023-05-21T10:32:21.000Z",
+          "wordCount": 3268,
+          "title": "ChatGPT does cuneiform studies",
+          "imageUrl": null
+        },
         {
           "id": "https://languagelog.ldc.upenn.edu/nll/?p=58752",
           "author": "Mark Liberman",
