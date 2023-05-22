@@ -6,6 +6,46 @@
       "siteUrl": "https://www.arxivist.com",
       "articles": [
         {
+          "id": "http://arxiv.org/abs/2305.11400",
+          "author": null,
+          "description": "Cat P. Le, Juncheng Dong, Ahmed Aloui, Vahid Tarokh",
+          "link": "http://arxiv.org/abs/2305.11400",
+          "publishedOn": "2023-05-22T08:19:27.936Z",
+          "wordCount": 647,
+          "title": "Few-Shot Continual Learning for Conditional Generative Adversarial\n  Networks",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2305.11353",
+          "author": null,
+          "description": "Tomoharu Iwata, Yoichi Chikahara",
+          "link": "http://arxiv.org/abs/2305.11353",
+          "publishedOn": "2023-05-22T08:19:27.389Z",
+          "wordCount": 639,
+          "title": "Meta-learning for heterogeneous treatment effect estimation with\n  closed-form solvers",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2305.11278",
+          "author": null,
+          "description": "Matthew Dowling, Yuan Zhao, Il Memming Park",
+          "link": "http://arxiv.org/abs/2305.11278",
+          "publishedOn": "2023-05-22T08:19:27.383Z",
+          "wordCount": 650,
+          "title": "Real-Time Variational Method for Learning Neural Trajectory and its\n  Dynamics",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2304.01762",
+          "author": null,
+          "description": "Mrinank Sharma, Tom Rainforth, Yee Whye Teh, Vincent Fortuin",
+          "link": "http://arxiv.org/abs/2304.01762",
+          "publishedOn": "2023-05-22T08:19:27.328Z",
+          "wordCount": 610,
+          "title": "Incorporating Unlabelled Data into Bayesian Neural Networks",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
           "id": "http://arxiv.org/abs/2107.08924",
           "author": null,
           "description": "Ian Osband, Zheng Wen, Seyed Mohammad Asghari, Vikranth Dwaracherla,\n  Morteza Ibrahimi, Xiuyuan Lu, Benjamin Van Roy",

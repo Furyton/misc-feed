@@ -2,10 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-05-22T07:14:29.459Z</updated>
+    <updated>2023-05-22T08:19:33.109Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Few-Shot Continual Learning for Conditional Generative Adversarial
+  Networks]]></title>
+        <id>http://arxiv.org/abs/2305.11400</id>
+        <link href="http://arxiv.org/abs/2305.11400"/>
+        <updated>2023-05-22T08:19:27.936Z</updated>
+        <summary type="html"><![CDATA[Cat P. Le, Juncheng Dong, Ahmed Aloui, Vahid Tarokh]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Meta-learning for heterogeneous treatment effect estimation with
+  closed-form solvers]]></title>
+        <id>http://arxiv.org/abs/2305.11353</id>
+        <link href="http://arxiv.org/abs/2305.11353"/>
+        <updated>2023-05-22T08:19:27.389Z</updated>
+        <summary type="html"><![CDATA[Tomoharu Iwata, Yoichi Chikahara]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Real-Time Variational Method for Learning Neural Trajectory and its
+  Dynamics]]></title>
+        <id>http://arxiv.org/abs/2305.11278</id>
+        <link href="http://arxiv.org/abs/2305.11278"/>
+        <updated>2023-05-22T08:19:27.383Z</updated>
+        <summary type="html"><![CDATA[Matthew Dowling, Yuan Zhao, Il Memming Park]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Incorporating Unlabelled Data into Bayesian Neural Networks]]></title>
+        <id>http://arxiv.org/abs/2304.01762</id>
+        <link href="http://arxiv.org/abs/2304.01762"/>
+        <updated>2023-05-22T08:19:27.328Z</updated>
+        <summary type="html"><![CDATA[Mrinank Sharma, Tom Rainforth, Yee Whye Teh, Vincent Fortuin]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Italy no-no’s]]></title>
         <id>http://xianblog.wordpress.com/?p=52979</id>
