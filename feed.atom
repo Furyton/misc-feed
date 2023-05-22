@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-05-22T19:11:40.258Z</updated>
+    <updated>2023-05-22T20:15:19.656Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -2412,17 +2412,6 @@ If you’re registered for CHI 2023, we hope you’ll visit the Google booth to 
         <summary type="html"><![CDATA[The next One World ABC seminar is taking place (on-line, requiring pre-registration) on 27 April, 9:30am UK time, with Mohammad Emtiyaz Khan (RIKEN-AIP, Tokyo) speaking about the Bayesian learning rule: We show that many machine-learning algorithms are specific instances of a single algorithm called the Bayesian learning rule. The rule, derived from Bayesian principles, yields […]]]></summary>
         <author>
             <name>xi'an</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Combinatorial Algorithms for Matching Markets via Nash Bargaining:
-  One-Sided, Two-Sided and Non-Bipartite]]></title>
-        <id>http://arxiv.org/abs/2106.02024</id>
-        <link href="http://arxiv.org/abs/2106.02024"/>
-        <updated>2023-04-23T07:12:54.411Z</updated>
-        <summary type="html"><![CDATA[Ioannis Panageas, Thorben Tr\"obst, Vijay V. Vazirani]]></summary>
-        <author>
-            <name>arxivist feed</name>
         </author>
     </entry>
 </feed>
