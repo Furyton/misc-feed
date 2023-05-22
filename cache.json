@@ -1418,6 +1418,16 @@
       "siteUrl": "https://pytorch.org/",
       "articles": [
         {
+          "id": "https://pytorch.org/blog/out-of-the-box-acceleration/",
+          "author": null,
+          "description": "As part of PyTorch 2.0 release, an accelerated implementation of the attention mechanism as part of the “Better Transformer” project (and known in PyTorch as Accelerated Transformers) has been added natively into PyTorch as torch.nn.functional.scaled_dot_product_attention. This implementation leverages fused kernels from FlashAttention and Memory-efficient attention, and supports both training and inference.",
+          "link": "https://pytorch.org/blog/out-of-the-box-acceleration/",
+          "publishedOn": "2023-05-22T07:00:00.000Z",
+          "wordCount": 2191,
+          "title": "Out of the box acceleration and memory savings of 🤗 decoder models with PyTorch 2.0",
+          "imageUrl": "https://pytorch.org/assets/images/pytorch-logo.png"
+        },
+        {
           "id": "https://pytorch.org/blog/pytorch-conference-2023/",
           "author": null,
           "description": "<div type=\"html\"/>",

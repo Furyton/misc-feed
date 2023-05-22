@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-05-22T16:19:23.934Z</updated>
+    <updated>2023-05-22T17:13:07.023Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -57,6 +57,16 @@
         <summary type="html"><![CDATA[Mrinank Sharma, Tom Rainforth, Yee Whye Teh, Vincent Fortuin]]></summary>
         <author>
             <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Out of the box acceleration and memory savings of 🤗 decoder models with PyTorch 2.0]]></title>
+        <id>https://pytorch.org/blog/out-of-the-box-acceleration/</id>
+        <link href="https://pytorch.org/blog/out-of-the-box-acceleration/"/>
+        <updated>2023-05-22T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[As part of PyTorch 2.0 release, an accelerated implementation of the attention mechanism as part of the “Better Transformer” project (and known in PyTorch as Accelerated Transformers) has been added natively into PyTorch as torch.nn.functional.scaled_dot_product_attention. This implementation leverages fused kernels from FlashAttention and Memory-efficient attention, and supports both training and inference.]]></summary>
+        <author>
+            <name>PyTorch Website</name>
         </author>
     </entry>
     <entry>
