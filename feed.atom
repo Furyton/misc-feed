@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-05-22T22:13:40.153Z</updated>
+    <updated>2023-05-22T23:14:39.876Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Bernoulli factory on a budget]]></title>
+        <id>http://xianblog.wordpress.com/?p=53038</id>
+        <link href="https://xianblog.wordpress.com/2023/05/23/bernoulli-factory-on-a-budget/"/>
+        <updated>2023-05-22T22:23:22.000Z</updated>
+        <summary type="html"><![CDATA[A form of Bernoulli factory with limited energy from The Riddler: being given the choice of 0<p<1, what is the minimal number n of throws such that the outcomes of n iid B(p) draws can be partitioned into six groups of equal probability? Running a brute force R code [in the train to Cambridge] and […]]]></summary>
+        <author>
+            <name>xi'an</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Learning sinitic and sinoglyphic "zero"]]></title>
         <id>https://languagelog.ldc.upenn.edu/nll/?p=58778</id>
