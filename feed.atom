@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-05-23T02:33:46.121Z</updated>
+    <updated>2023-05-23T03:15:37.478Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -14,6 +14,16 @@
         <summary type="html"><![CDATA[How could machines learn as efficiently as humans and animals? How could machines learn how the world works and acquire common sense? How could machines learn to reason and plan? Current AI architectures, such as Auto-Regressive Large Language Models fall short.  I will propose a modular cognitive architecture that may constitute a path towards answering these questions.  The centerpiece of the architecture is a predictive world model that allows the system to predict the consequences of its actions and to plan a sequence of actions that optimize a set of objectives. The world model employs a Hierarchical Joint Embedding Predictive Architecture (H-JEPA) trained with self-supervised learning. The JEPA learns abstract representations of the percepts that are simultaneously maximally informative and maximally predictable. The corresponding working paper is available here - [A Path Towards Autonomous Machine Intelligence](https://openreview.net/forum?id=BZ5a1r-kVsf)]]></summary>
         <author>
             <name>Harvard ML Foundations</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NBCE：使用朴素贝叶斯拓展LLM的Context处理长度]]></title>
+        <id>https://kexue.fm/archives/9617</id>
+        <link href="https://kexue.fm/archives/9617"/>
+        <updated>2023-05-23T02:45:00.000Z</updated>
+        <summary type="html"><![CDATA[在LLM时代还玩朴素贝叶斯（Naive Bayes）？这可能是许多读者在看到标题后的首个想法。确实如此，当古老的朴素贝叶斯与前沿的LLM相遇时，产生了令人惊讶的效果——我们可以直接提升现有LLM...]]></summary>
+        <author>
+            <name>苏剑林</name>
         </author>
     </entry>
     <entry>

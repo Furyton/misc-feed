@@ -1092,6 +1092,16 @@
       "siteUrl": "https://kexue.fm/",
       "articles": [
         {
+          "id": "https://kexue.fm/archives/9617",
+          "author": "苏剑林",
+          "description": "在LLM时代还玩朴素贝叶斯（Naive Bayes）？这可能是许多读者在看到标题后的首个想法。确实如此，当古老的朴素贝叶斯与前沿的LLM相遇时，产生了令人惊讶的效果——我们可以直接提升现有LLM...",
+          "link": "https://kexue.fm/archives/9617",
+          "publishedOn": "2023-05-23T02:45:00.000Z",
+          "wordCount": 1593,
+          "title": "NBCE：使用朴素贝叶斯拓展LLM的Context处理长度",
+          "imageUrl": null
+        },
+        {
           "id": "https://kexue.fm/archives/9607",
           "author": "苏剑林",
           "description": "尺度定律（Scaling Law），指的是模型能力与模型尺度之间的渐近关系。具体来说，模型能力我们可以简单理解为模型的损失函数，模型尺度可以指模型参数量、训练数据量、训练步数等，所谓尺度定律，就...",
