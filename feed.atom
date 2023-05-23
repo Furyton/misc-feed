@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-05-23T12:29:29.589Z</updated>
+    <updated>2023-05-23T13:19:11.648Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -2489,16 +2489,6 @@ If you’re registered for CHI 2023, we hope you’ll visit the Google booth to 
         <summary type="html"><![CDATA[Two days ago, a Penn freshman from China gifted me with a small format edition of the Guǐgǔzi 鬼谷子 (Master of Ghost Valley), a text that has long intrigued me. Guiguzi (鬼谷子) is a collection of ancient Chinese texts compiled between the late Warring States period and the end of the Han Dynasty. The work, […]]]></summary>
         <author>
             <name>Victor Mair</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How can we build human values into AI?]]></title>
-        <id>https://www.deepmind.com/blog/how-can-we-build-human-values-into-ai</id>
-        <link href="https://www.deepmind.com/blog/how-can-we-build-human-values-into-ai"/>
-        <updated>2023-04-24T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[As artificial intelligence (AI) becomes more powerful and more deeply integrated into our lives, the questions of how it is used and deployed are all the more important. What values guide AI? Whose values are they? And how are they selected?]]></summary>
-        <author>
-            <name>DeepMind Blog</name>
         </author>
     </entry>
 </feed>
