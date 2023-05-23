@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-05-23T06:19:36.947Z</updated>
+    <updated>2023-05-23T07:13:47.184Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -14,6 +14,63 @@
         <summary type="html"><![CDATA[How could machines learn as efficiently as humans and animals? How could machines learn how the world works and acquire common sense? How could machines learn to reason and plan? Current AI architectures, such as Auto-Regressive Large Language Models fall short.  I will propose a modular cognitive architecture that may constitute a path towards answering these questions.  The centerpiece of the architecture is a predictive world model that allows the system to predict the consequences of its actions and to plan a sequence of actions that optimize a set of objectives. The world model employs a Hierarchical Joint Embedding Predictive Architecture (H-JEPA) trained with self-supervised learning. The JEPA learns abstract representations of the percepts that are simultaneously maximally informative and maximally predictable. The corresponding working paper is available here - [A Path Towards Autonomous Machine Intelligence](https://openreview.net/forum?id=BZ5a1r-kVsf)]]></summary>
         <author>
             <name>Harvard ML Foundations</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Memorization and Optimization in Deep Neural Networks with Minimum
+  Over-parameterization]]></title>
+        <id>http://arxiv.org/abs/2205.10217</id>
+        <link href="http://arxiv.org/abs/2205.10217"/>
+        <updated>2023-05-23T07:13:42.300Z</updated>
+        <summary type="html"><![CDATA[Simone Bombari, Mohammad Hossein Amani, Marco Mondelli]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Deep Discriminative to Kernel Generative Networks for Calibrated
+  Inference]]></title>
+        <id>http://arxiv.org/abs/2201.13001</id>
+        <link href="http://arxiv.org/abs/2201.13001"/>
+        <updated>2023-05-23T07:13:42.293Z</updated>
+        <summary type="html"><![CDATA[Jayanta Dey, Haoyin Xu, Ashwin De Silva, Will LeVine, Tyler M. Tomita,
+  Ali Geisa, Tiffany Chu, Jacob Desman, Joshua T. Vogelstein]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Robust Counterfactual Explanations for Neural Networks With
+  Probabilistic Guarantees]]></title>
+        <id>http://arxiv.org/abs/2305.11997</id>
+        <link href="http://arxiv.org/abs/2305.11997"/>
+        <updated>2023-05-23T07:13:42.269Z</updated>
+        <summary type="html"><![CDATA[Faisal Hamman, Erfaun Noorani, Saumitra Mishra, Daniele Magazzeni,
+  Sanghamitra Dutta]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Not All Semantics are Created Equal: Contrastive Self-supervised
+  Learning with Automatic Temperature Individualization]]></title>
+        <id>http://arxiv.org/abs/2305.11965</id>
+        <link href="http://arxiv.org/abs/2305.11965"/>
+        <updated>2023-05-23T07:13:42.257Z</updated>
+        <summary type="html"><![CDATA[Zi-Hao Qiu, Quanqi Hu, Zhuoning Yuan, Denny Zhou, Lijun Zhang, Tianbao
+  Yang]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Adaptive and Robust Multi-Task Learning]]></title>
+        <id>http://arxiv.org/abs/2202.05250</id>
+        <link href="http://arxiv.org/abs/2202.05250"/>
+        <updated>2023-05-23T07:13:42.204Z</updated>
+        <summary type="html"><![CDATA[Yaqi Duan, Kaizheng Wang]]></summary>
+        <author>
+            <name>arxivist feed</name>
         </author>
     </entry>
     <entry>
