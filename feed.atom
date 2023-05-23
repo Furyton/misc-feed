@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-05-23T10:16:06.077Z</updated>
+    <updated>2023-05-23T11:12:38.033Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -14,6 +14,16 @@
         <summary type="html"><![CDATA[How could machines learn as efficiently as humans and animals? How could machines learn how the world works and acquire common sense? How could machines learn to reason and plan? Current AI architectures, such as Auto-Regressive Large Language Models fall short.  I will propose a modular cognitive architecture that may constitute a path towards answering these questions.  The centerpiece of the architecture is a predictive world model that allows the system to predict the consequences of its actions and to plan a sequence of actions that optimize a set of objectives. The world model employs a Hierarchical Joint Embedding Predictive Architecture (H-JEPA) trained with self-supervised learning. The JEPA learns abstract representations of the percepts that are simultaneously maximally informative and maximally predictable. The corresponding working paper is available here - [A Path Towards Autonomous Machine Intelligence](https://openreview.net/forum?id=BZ5a1r-kVsf)]]></summary>
         <author>
             <name>Harvard ML Foundations</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chinese characters and the messiness of Chinese culture]]></title>
+        <id>https://languagelog.ldc.upenn.edu/nll/?p=58781</id>
+        <link href="https://languagelog.ldc.upenn.edu/nll/?p=58781&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=chinese-characters-and-the-messiness-of-chinese-culture"/>
+        <updated>2023-05-23T10:57:23.000Z</updated>
+        <summary type="html"><![CDATA[Is it really so? Uncannily and independently, Apollo Wu* sent me the following note before I made this post: Hànzì bùrú pīnyīn de guānjiàn lǐngyù shì páixù, jiǎnsuǒ hé réngōng zhìnéng. Fùzá, fánsuǒ, nán xué nán yòng shì wǒmen mùqián miànlín de kùnnán. Hànzì de luàn, biāozhìzhe Zhōngguó wénhuà de luàn! 汉字 比不上 字母文字 的 […]]]></summary>
+        <author>
+            <name>Victor Mair</name>
         </author>
     </entry>
     <entry>
@@ -2489,16 +2499,6 @@ If you’re registered for CHI 2023, we hope you’ll visit the Google booth to 
         <summary type="html"><![CDATA[As artificial intelligence (AI) becomes more powerful and more deeply integrated into our lives, the questions of how it is used and deployed are all the more important. What values guide AI? Whose values are they? And how are they selected?]]></summary>
         <author>
             <name>DeepMind Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[the Bayesian learning rule [One World ABC’minar, 27 April]]]></title>
-        <id>http://xianblog.wordpress.com/?p=52845</id>
-        <link href="https://xianblog.wordpress.com/2023/04/24/the-bayesian-learning-rule-one-world-abcminar-27-april/"/>
-        <updated>2023-04-23T22:23:53.000Z</updated>
-        <summary type="html"><![CDATA[The next One World ABC seminar is taking place (on-line, requiring pre-registration) on 27 April, 9:30am UK time, with Mohammad Emtiyaz Khan (RIKEN-AIP, Tokyo) speaking about the Bayesian learning rule: We show that many machine-learning algorithms are specific instances of a single algorithm called the Bayesian learning rule. The rule, derived from Bayesian principles, yields […]]]></summary>
-        <author>
-            <name>xi'an</name>
         </author>
     </entry>
 </feed>
