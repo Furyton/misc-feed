@@ -2,10 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-05-23T18:18:09.778Z</updated>
+    <updated>2023-05-23T19:13:06.239Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Resolving code review comments with ML]]></title>
+        <id>http://ai.googleblog.com/2023/05/resolving-code-review-comments-with-ml.html</id>
+        <link href="http://ai.googleblog.com/2023/05/resolving-code-review-comments-with-ml.html"/>
+        <updated>2023-05-23T17:51:00.003Z</updated>
+        <summary type="html"><![CDATA[Posted by Alexander Frömmgen, Staff Software Engineer, and Lera Kharatyan, Senior Software Engineer, Core Systems & Experiences
+
+
+  
+
+Code-change reviews are a critical part of the software development process at scale, taking a significant amount of the code authors’ and the code reviewers’ time. As part of this process, the reviewer inspects the proposed code and asks the author for code changes through comments written in natural language. At Google, we see millions of reviewer comments per year, and authors require an average of ~60 minutes active shepherding time between sending changes for review and finally submitting the change. In our measurements, the required active work time that the code author must do to address reviewer comments grows almost linearly with the number of comme…]]></summary>
+        <author>
+            <name>Google AI Blog</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Yann LeCun - Towards Machines that can Learn, Reason, and Plan.]]></title>
         <id>https://mlfoundations.org/talk/lecun/</id>
@@ -2438,16 +2453,6 @@ Here we present LayerNAS, an approach that reformulates the multi-objective NAS 
         <summary type="html"><![CDATA[Olivier Jeunen]]></summary>
         <author>
             <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[上海首个大模型产业发展研讨会圆满落幕，众顶尖专家共探大模型产业]]></title>
-        <id>https://www.52nlp.cn/?p=13461</id>
-        <link href="https://www.52nlp.cn/%e4%b8%8a%e6%b5%b7%e9%a6%96%e4%b8%aa%e5%a4%a7%e6%a8%a1%e5%9e%8b%e4%ba%a7%e4%b8%9a%e5%8f%91%e5%b1%95%e7%a0%94%e8%ae%a8%e4%bc%9a%e5%9c%86%e6%bb%a1%e8%90%bd%e5%b9%95%ef%bc%8c%e4%bc%97%e9%a1%b6%e5%b0%96"/>
-        <updated>2023-04-24T06:32:06.000Z</updated>
-        <summary type="html"><![CDATA[4月21日，由上海市数据科学重点实验室携手达观数据、上海浦东软件园联合举办的“大模型产业发展研讨会”圆满落幕。 […]]]></summary>
-        <author>
-            <name>达观数据</name>
         </author>
     </entry>
 </feed>

@@ -1939,6 +1939,16 @@
       "siteUrl": "http://ai.googleblog.com/",
       "articles": [
         {
+          "id": "http://ai.googleblog.com/2023/05/resolving-code-review-comments-with-ml.html",
+          "author": null,
+          "description": "Posted by Alexander Frömmgen, Staff Software Engineer, and Lera Kharatyan, Senior Software Engineer, Core Systems & Experiences\n\n\n  \n\nCode-change reviews are a critical part of the software development process at scale, taking a significant amount of the code authors’ and the code reviewers’ time. As part of this process, the reviewer inspects the proposed code and asks the author for code changes through comments written in natural language. At Google, we see millions of reviewer comments per year, and authors require an average of ~60 minutes active shepherding time between sending changes for review and finally submitting the change. In our measurements, the required active work time that the code author must do to address reviewer comments grows almost linearly with the number of comme…",
+          "link": "http://ai.googleblog.com/2023/05/resolving-code-review-comments-with-ml.html",
+          "publishedOn": "2023-05-23T17:51:00.003Z",
+          "wordCount": 27806,
+          "title": "Resolving code review comments with ML",
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjoK3FH1StJnuqrj0gTExqLUxNkVfwRVmiG9tbCNUDV2I5295yqrPlw0L4hRHJmsruvZBIa_FqAFvJfwW7VU4XvxDU4ZweaW6ehENeU7-BLJaLVGPPtn-25cme5qTUldd11YigkAj6Ks9Tif6J3MePey_Gn3cAp3nQf9LMmVy4Eg3yF0qyBZPUKfYJYLw/w1200-h630-p-k-no-nu/comments2code.png"
+        },
+        {
           "id": "http://ai.googleblog.com/2023/05/making-ml-models-differentially-private.html",
           "author": null,
           "description": "Posted by Natalia Ponomareva and Alex Kurakin, Staff Software Engineers, Google Research\n\n\n\n\n\n\nLarge machine learning (ML) models are ubiquitous in modern applications: from spam filters to recommender systems and virtual assistants. These models achieve remarkable performance partially due to the abundance of available training data. However, these data can sometimes contain private information, including personal identifiable information, copyright material, etc. Therefore, protecting the privacy of the training data is critical to practical, applied ML.  \n\n\n\nDifferential Privacy (DP) is one of the most widely accepted technologies that allows reasoning about data anonymization in a formal way. In the context of an ML model, DP can guarantee that each individual user's contribution will …",
@@ -2103,16 +2113,6 @@
           "publishedOn": "2023-04-28T06:22:49.000Z",
           "wordCount": 880,
           "title": "新浪张俊林：大语言模型的涌现能力——现象与解释",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.52nlp.cn/?p=13461",
-          "author": "达观数据",
-          "description": "4月21日，由上海市数据科学重点实验室携手达观数据、上海浦东软件园联合举办的“大模型产业发展研讨会”圆满落幕。 […]",
-          "link": "https://www.52nlp.cn/%e4%b8%8a%e6%b5%b7%e9%a6%96%e4%b8%aa%e5%a4%a7%e6%a8%a1%e5%9e%8b%e4%ba%a7%e4%b8%9a%e5%8f%91%e5%b1%95%e7%a0%94%e8%ae%a8%e4%bc%9a%e5%9c%86%e6%bb%a1%e8%90%bd%e5%b9%95%ef%bc%8c%e4%bc%97%e9%a1%b6%e5%b0%96",
-          "publishedOn": "2023-04-24T06:32:06.000Z",
-          "wordCount": 786,
-          "title": "上海首个大模型产业发展研讨会圆满落幕，众顶尖专家共探大模型产业",
           "imageUrl": null
         }
       ]
