@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-05-23T19:13:06.239Z</updated>
+    <updated>2023-05-23T20:15:40.016Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -2399,60 +2399,6 @@ Here we present LayerNAS, an approach that reformulates the multi-objective NAS 
         <summary type="html"><![CDATA[Visit the post for more.]]></summary>
         <author>
             <name>xi'an</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Self-Correcting Bayesian Optimization through Bayesian Active Learning]]></title>
-        <id>http://arxiv.org/abs/2304.11005</id>
-        <link href="http://arxiv.org/abs/2304.11005"/>
-        <updated>2023-04-24T07:14:24.151Z</updated>
-        <summary type="html"><![CDATA[Carl Hvarfner, Erik Hellsten, Frank Hutter, Luigi Nardi]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Implications of sparsity and high triangle density for graph
-  representation learning]]></title>
-        <id>http://arxiv.org/abs/2210.15277</id>
-        <link href="http://arxiv.org/abs/2210.15277"/>
-        <updated>2023-04-24T07:14:24.146Z</updated>
-        <summary type="html"><![CDATA[Hannah Sansford, Alexander Modell, Nick Whiteley, Patrick
-  Rubin-Delanchy]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Interpolation property of shallow neural networks]]></title>
-        <id>http://arxiv.org/abs/2304.10552</id>
-        <link href="http://arxiv.org/abs/2304.10552"/>
-        <updated>2023-04-24T07:14:23.797Z</updated>
-        <summary type="html"><![CDATA[Vlad-Raul Constantinescu, Ionel Popescu]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Convergence of Message Passing Graph Neural Networks with Generic
-  Aggregation On Large Random Graphs]]></title>
-        <id>http://arxiv.org/abs/2304.11140</id>
-        <link href="http://arxiv.org/abs/2304.11140"/>
-        <updated>2023-04-24T07:14:23.510Z</updated>
-        <summary type="html"><![CDATA[Matthieu Cordonnier, Nicolas Keriven, Nicolas Tremblay, Samuel Vaiter]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Common Misassumption in Online Experiments with Machine Learning
-  Models]]></title>
-        <id>http://arxiv.org/abs/2304.10900</id>
-        <link href="http://arxiv.org/abs/2304.10900"/>
-        <updated>2023-04-24T07:14:23.454Z</updated>
-        <summary type="html"><![CDATA[Olivier Jeunen]]></summary>
-        <author>
-            <name>arxivist feed</name>
         </author>
     </entry>
 </feed>
