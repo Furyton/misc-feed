@@ -1559,6 +1559,16 @@
       "siteUrl": "https://xianblog.wordpress.com",
       "articles": [
         {
+          "id": "http://xianblog.wordpress.com/?p=53022",
+          "author": "xi'an",
+          "description": "Visit the post for more.",
+          "link": "https://xianblog.wordpress.com/2023/05/24/art-brut-90/",
+          "publishedOn": "2023-05-23T22:23:05.000Z",
+          "wordCount": 1703,
+          "title": "art brut",
+          "imageUrl": "https://xianblog.files.wordpress.com/2023/05/1683538746341-e1683549130187.jpg"
+        },
+        {
           "id": "http://xianblog.wordpress.com/?p=53038",
           "author": "xi'an",
           "description": "A form of Bernoulli factory with limited energy from The Riddler: being given the choice of 0<p<1, what is the minimal number n of throws such that the outcomes of n iid B(p) draws can be partitioned into six groups of equal probability? Running a brute force R code [in the train to Cambridge] and […]",
