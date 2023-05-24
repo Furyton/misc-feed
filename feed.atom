@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-05-24T20:15:47.783Z</updated>
+    <updated>2023-05-24T21:12:02.995Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -2416,16 +2416,6 @@ Here we present LayerNAS, an approach that reformulates the multi-objective NAS 
         <summary type="html"><![CDATA[[This is a guest post by S. Robert Ramsey] Your Language Log coverage of the North Korean news item was chilling, but pretty much what we've come to expect of that outrageous regime. If ever there was a clearer contrast between the two worlds in conflict, I've never heard of it. South Korea is now […]]]></summary>
         <author>
             <name>Victor Mair</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[注意力和Softmax的两点有趣发现：鲁棒性和信息量]]></title>
-        <id>https://kexue.fm/archives/9593</id>
-        <link href="https://kexue.fm/archives/9593"/>
-        <updated>2023-04-25T09:00:00.000Z</updated>
-        <summary type="html"><![CDATA[最近几周笔者一直都在思考注意力机制的相关性质，在这个过程中对注意力及Softmax有了更深刻的理解。在这篇文章中，笔者简单分享其中的两点：1、Softmax注意力天然能够抵御一定的噪声扰动；2、...]]></summary>
-        <author>
-            <name>苏剑林</name>
         </author>
     </entry>
 </feed>
