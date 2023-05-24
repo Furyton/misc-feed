@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-05-24T19:11:45.605Z</updated>
+    <updated>2023-05-24T20:15:47.783Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -2426,62 +2426,6 @@ Here we present LayerNAS, an approach that reformulates the multi-objective NAS 
         <summary type="html"><![CDATA[最近几周笔者一直都在思考注意力机制的相关性质，在这个过程中对注意力及Softmax有了更深刻的理解。在这篇文章中，笔者简单分享其中的两点：1、Softmax注意力天然能够抵御一定的噪声扰动；2、...]]></summary>
         <author>
             <name>苏剑林</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A theory of representation learning in deep neural networks gives a deep
-  generalisation of kernel methods]]></title>
-        <id>http://arxiv.org/abs/2108.13097</id>
-        <link href="http://arxiv.org/abs/2108.13097"/>
-        <updated>2023-04-25T07:14:05.616Z</updated>
-        <summary type="html"><![CDATA[Adam X. Yang, Maxime Robeyns, Edward Milsom, Nandi Schoots, Laurence
-  Aitchison]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Robust Model Selection and Nearly-Proper Learning for GMMs]]></title>
-        <id>http://arxiv.org/abs/2106.02774</id>
-        <link href="http://arxiv.org/abs/2106.02774"/>
-        <updated>2023-04-25T07:14:05.603Z</updated>
-        <summary type="html"><![CDATA[Jerry Li, Allen Liu, Ankur Moitra]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Conformal Risk Control]]></title>
-        <id>http://arxiv.org/abs/2208.02814</id>
-        <link href="http://arxiv.org/abs/2208.02814"/>
-        <updated>2023-04-25T07:14:05.597Z</updated>
-        <summary type="html"><![CDATA[Anastasios N. Angelopoulos, Stephen Bates, Adam Fisch, Lihua
-  Lei, Tal Schuster]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Segmentation and Optimal Region Selection of Physiological Signals using
-  Deep Neural Networks and Combinatorial Optimization]]></title>
-        <id>http://arxiv.org/abs/2003.07981</id>
-        <link href="http://arxiv.org/abs/2003.07981"/>
-        <updated>2023-04-25T07:14:05.592Z</updated>
-        <summary type="html"><![CDATA[Jorge Oliveira, Margarida Carvalho, Diogo Marcelo Nogueira, Miguel
-  Coimbra]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Implicit Bias of Gradient Descent for Mean Squared Error Regression with
-  Two-Layer Wide Neural Networks]]></title>
-        <id>http://arxiv.org/abs/2006.07356</id>
-        <link href="http://arxiv.org/abs/2006.07356"/>
-        <updated>2023-04-25T07:14:05.568Z</updated>
-        <summary type="html"><![CDATA[Hui Jin, Guido Mont\'ufar]]></summary>
-        <author>
-            <name>arxivist feed</name>
         </author>
     </entry>
 </feed>
