@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-05-24T15:15:58.160Z</updated>
+    <updated>2023-05-24T16:19:43.064Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -69,6 +69,24 @@
         <summary type="html"><![CDATA[Daiki Chijiwa]]></summary>
         <author>
             <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Choosing a good file format for Pandas]]></title>
+        <id>https://pythonspeed.com/articles/best-file-format-for-pandas/</id>
+        <link href="https://pythonspeed.com/articles/best-file-format-for-pandas/"/>
+        <updated>2023-05-24T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Before you can process your data with Pandas, you need to load it (from disk or remote storage).
+There are plenty of data formats supported by Pandas, from CSV, to JSON, to Parquet, and many others as well.
+Which should you use?
+You don’t want loading the data to be slow, or use lots of memory: that’s pure overhead.
+Ideally you’d want a file format that’s fast, efficient, small, and broadly supported.
+You also want to make sure the loaded data has all the right types: numeric types, datetimes, and so on.
+Some data formats do a better job at this than others.
+While there is no one true answer that works for everyone, this article will try to help you narrow down the field and make an informed decision.
+Read more...]]></summary>
+        <author>
+            <name>Python⇒Speed</name>
         </author>
     </entry>
     <entry>
