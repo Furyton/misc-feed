@@ -6,6 +6,56 @@
       "siteUrl": "https://www.arxivist.com",
       "articles": [
         {
+          "id": "http://arxiv.org/abs/2305.14077",
+          "author": null,
+          "description": "Moritz Haas, David Holzm\\\"uller, Ulrike von Luxburg, Ingo Steinwart",
+          "link": "http://arxiv.org/abs/2305.14077",
+          "publishedOn": "2023-05-24T07:13:44.399Z",
+          "wordCount": 730,
+          "title": "Mind the spikes: Benign overfitting of kernels and neural networks in\n  fixed dimension",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2305.14045",
+          "author": null,
+          "description": "Seungone Kim, Se June Joo, Doyoung Kim, Joel Jang, Seonghyeon Ye,\n  Jamin Shin, Minjoon Seo",
+          "link": "http://arxiv.org/abs/2305.14045",
+          "publishedOn": "2023-05-24T07:13:44.392Z",
+          "wordCount": 683,
+          "title": "The CoT Collection: Improving Zero-shot and Few-shot Learning of\n  Language Models via Chain-of-Thought Fine-Tuning",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2305.14196",
+          "author": null,
+          "description": "Uri Shaham, Maor Ivgi, Avia Efrat, Jonathan Berant, Omer\n  Levy",
+          "link": "http://arxiv.org/abs/2305.14196",
+          "publishedOn": "2023-05-24T07:13:44.382Z",
+          "wordCount": 635,
+          "title": "ZeroSCROLLS: A Zero-Shot Benchmark for Long Text Understanding",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2305.13588",
+          "author": null,
+          "description": "Yuka Hashimoto, Masahiro Ikeda, Hachem Kadri",
+          "link": "http://arxiv.org/abs/2305.13588",
+          "publishedOn": "2023-05-24T07:13:44.376Z",
+          "wordCount": 625,
+          "title": "Deep Learning with Kernels through RKHM and the Perron-Frobenius\n  Operator",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2305.14122",
+          "author": null,
+          "description": "Daiki Chijiwa",
+          "link": "http://arxiv.org/abs/2305.14122",
+          "publishedOn": "2023-05-24T07:13:44.370Z",
+          "wordCount": 628,
+          "title": "Transferring Learning Trajectories of Neural Networks",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
           "id": "http://arxiv.org/abs/2205.10217",
           "author": null,
           "description": "Simone Bombari, Mohammad Hossein Amani, Marco Mondelli",
