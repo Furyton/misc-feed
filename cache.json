@@ -1339,7 +1339,18 @@
       "title": "The Berkeley Artificial Intelligence Research Blog",
       "feedUrl": "https://bair.berkeley.edu/blog/feed",
       "siteUrl": "http://bair.berkeley.edu/blog/",
-      "articles": []
+      "articles": [
+        {
+          "id": "http://bair.berkeley.edu/blog/2023/05/23/lmd/",
+          "author": null,
+          "description": "TL;DR: Text Prompt -> LLM -> Intermediate Representation (such as an image layout) -> Stable Diffusion -> Image.\nRecent advancements in text-to-image generation with diffusion models have yielded remarkable results synthesizing highly realistic and diverse images. However, despite their impressive capabilities, diffusion models, such as Stable Diffusion, often struggle to accurately follow the prompts when spatial or common sense reasoning is required.\nThe following figure lists four scenarios in which Stable Diffusion falls short in generating images that accurately correspond to the given prompts, namely negation, numeracy, and attribute assignment, spatial relationships. In contrast, our method, LLM-grounded Diffusion (LMD), delivers much better prompt understanding in text-to-image gen…",
+          "link": "http://bair.berkeley.edu/blog/2023/05/23/lmd/",
+          "publishedOn": "2023-05-23T15:00:00.000Z",
+          "wordCount": 803,
+          "title": "GPT-4 + Stable-Diffusion = ?: Enhancing Prompt Understanding of Text-to-Image Diffusion Models with Large Language Models",
+          "imageUrl": "http://bair.berkeley.edu/blog/assets/lmd/main.jpg"
+        }
+      ]
     },
     {
       "title": "inFERENCe",
