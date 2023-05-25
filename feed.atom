@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-05-25T08:18:49.914Z</updated>
+    <updated>2023-05-25T09:14:54.418Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA["Master the essence of solid"]]></title>
+        <id>https://languagelog.ldc.upenn.edu/nll/?p=58775</id>
+        <link href="https://languagelog.ldc.upenn.edu/nll/?p=58775&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=master-the-essence-of-solid"/>
+        <updated>2023-05-25T08:48:28.000Z</updated>
+        <summary type="html"><![CDATA[From the website for Royal China Group, a famous Chinese restaurant group in London: The problem begins at the beginning:  jingcui 精粹 does not mean "master"; it means "essence". The entire text reads as follows: Zhōngguó yǐnshí wénhuà bódàjīngshēn,Huángcháo nǔlì bùxiè yánshǒu zhèngzōng chuántǒng Yuècài de fēnggé,bìng zài wèijué de lǐngyù zhōng xúnqiú túpò,zhǎngwò gùzhōng jīngcuì […]]]></summary>
+        <author>
+            <name>Victor Mair</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Test your intuition 52: Can you predict the ratios of ones?]]></title>
+        <id>http://gilkalai.wordpress.com/?p=24359</id>
+        <link href="https://gilkalai.wordpress.com/2023/05/25/test-your-intuition-52-can-you-predict-the-ratios-of-ones/"/>
+        <updated>2023-05-25T08:33:58.000Z</updated>
+        <summary type="html"><![CDATA[Bob choses a sequences of zeroes and ones of length . The bits are presented to Alice one by one. Alice’s task is to choose, at a certain time of her choice, some number (smaller than the number of unseen … Continue reading →]]></summary>
+        <author>
+            <name>Gil Kalai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Test your intuition 52: Can you predict the ratios of ones?]]></title>
+        <id>http://gilkalai.wordpress.com/?p=24359</id>
+        <link href="https://gilkalai.wordpress.com/2023/05/25/test-your-intuition-52-can-you-predict-the-ratios-of-ones/"/>
+        <updated>2023-05-25T08:33:58.000Z</updated>
+        <summary type="html"><![CDATA[Bob choses a sequences of zeroes and ones of length . The bits are presented to Alice one by one. Alice’s task is to choose, at a certain time of her choice, some number (smaller than the number of unseen … Continue reading →]]></summary>
+        <author>
+            <name>Gil Kalai</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Deep Learning for Survival Analysis: A Review]]></title>
         <id>http://arxiv.org/abs/2305.14961</id>
