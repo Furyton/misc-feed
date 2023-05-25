@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-05-25T05:13:53.066Z</updated>
+    <updated>2023-05-25T06:19:32.515Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -2408,26 +2408,6 @@ Despite recent progress in the field of medical artificial intelligence (AI), mo
         <summary type="html"><![CDATA[A Riddler puzzle on the three binary and sequential questions one should ask three players hiding their respective U(0,1) realisation, U, V, and W, to best guess which player holds the largest number, max{U,V,W}. Assuming questions of the type Is U<b¹, &tc., the challenge boils down to selecting seven bounds (one for U, two for […]]]></summary>
         <author>
             <name>xi'an</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LayerNAS: Neural Architecture Search in Polynomial Complexity]]></title>
-        <id>http://ai.googleblog.com/2023/04/layernas-neural-architecture-search-in.html</id>
-        <link href="http://ai.googleblog.com/2023/04/layernas-neural-architecture-search-in.html"/>
-        <updated>2023-04-25T17:20:00.001Z</updated>
-        <summary type="html"><![CDATA[Posted by Yicheng Fan and Dana Alon, Software Engineers, Google Research
-
-
-
-
-Every byte and every operation matters when trying to build a faster model, especially if the model is to run on-device. Neural architecture search (NAS) algorithms design sophisticated model architectures by searching through a larger model-space than what is possible manually. Different NAS algorithms, such as MNasNet and TuNAS, have been proposed and have discovered several efficient model architectures, including MobileNetV3, EfficientNet. 
-
- 
-
-
-Here we present LayerNAS, an approach that reformulates the multi-objective NAS problem within the framework of combinatorial optimization to greatly reduce the complexity, which results in an order of magnitude reduction in the number of model candidates that must be …]]></summary>
-        <author>
-            <name>Google AI Blog</name>
         </author>
     </entry>
 </feed>
