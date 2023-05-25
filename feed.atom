@@ -2,10 +2,64 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-05-25T06:19:32.515Z</updated>
+    <updated>2023-05-25T07:13:57.235Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Deep Learning for Survival Analysis: A Review]]></title>
+        <id>http://arxiv.org/abs/2305.14961</id>
+        <link href="http://arxiv.org/abs/2305.14961"/>
+        <updated>2023-05-25T07:13:51.339Z</updated>
+        <summary type="html"><![CDATA[Simon Wiegrebe, Philipp Kopper, Raphael Sonabend, Andreas Bender]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Masked Bayesian Neural Networks : Theoretical Guarantee and its
+  Posterior Inference]]></title>
+        <id>http://arxiv.org/abs/2305.14765</id>
+        <link href="http://arxiv.org/abs/2305.14765"/>
+        <updated>2023-05-25T07:13:51.311Z</updated>
+        <summary type="html"><![CDATA[Insung Kong, Dongyoon Yang, Jongjin Lee, Ilsang Ohn, Gyuseung Baek,
+  Yongdai Kim]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learning Rate Free Bayesian Inference in Constrained Domains]]></title>
+        <id>http://arxiv.org/abs/2305.14943</id>
+        <link href="http://arxiv.org/abs/2305.14943"/>
+        <updated>2023-05-25T07:13:51.252Z</updated>
+        <summary type="html"><![CDATA[Louis Sharrock, Lester Mackey, Christopher Nemeth]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Rigorous Link between Deep Ensembles and (Variational) Bayesian
+  Methods]]></title>
+        <id>http://arxiv.org/abs/2305.15027</id>
+        <link href="http://arxiv.org/abs/2305.15027"/>
+        <updated>2023-05-25T07:13:50.477Z</updated>
+        <summary type="html"><![CDATA[Veit David Wild, Sahra Ghalebikesabi, Dino Sejdinovic, Jeremias
+  Knoblauch]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Test like you Train in Implicit Deep Learning]]></title>
+        <id>http://arxiv.org/abs/2305.15042</id>
+        <link href="http://arxiv.org/abs/2305.15042"/>
+        <updated>2023-05-25T07:13:50.461Z</updated>
+        <summary type="html"><![CDATA[Zaccharie Ramzi, Pierre Ablin, Gabriel Peyr\'e, Thomas Moreau]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Stochastic Numerics and Statistical Learning]]></title>
         <id>http://xianblog.wordpress.com/?p=53075</id>
