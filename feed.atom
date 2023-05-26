@@ -2,10 +2,68 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-05-26T01:16:25.195Z</updated>
+    <updated>2023-05-26T02:32:55.776Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[A theory of representation learning gives a deep generalisation of
+  kernel methods]]></title>
+        <id>http://arxiv.org/abs/2108.13097</id>
+        <link href="http://arxiv.org/abs/2108.13097"/>
+        <updated>2023-05-26T02:32:49.402Z</updated>
+        <summary type="html"><![CDATA[Adam X. Yang, Maxime Robeyns, Edward Milsom, Ben Anson, Nandi Schoots,
+  Laurence Aitchison]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RAFT: Reward rAnked FineTuning for Generative Foundation Model Alignment]]></title>
+        <id>http://arxiv.org/abs/2304.06767</id>
+        <link href="http://arxiv.org/abs/2304.06767"/>
+        <updated>2023-05-26T02:32:49.394Z</updated>
+        <summary type="html"><![CDATA[Hanze Dong, Wei Xiong, Deepanshu Goyal, Rui Pan, Shizhe Diao, Jipeng
+  Zhang, Kashun Shum, Tong Zhang]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Theoretical Guarantees of Learning Ensembling Strategies with
+  Applications to Time Series Forecasting]]></title>
+        <id>http://arxiv.org/abs/2305.15786</id>
+        <link href="http://arxiv.org/abs/2305.15786"/>
+        <updated>2023-05-26T02:32:49.374Z</updated>
+        <summary type="html"><![CDATA[Hilaf Hasson, Danielle C. Maddix, Yuyang Wang, Gaurav Gupta, Youngsuk
+  Park]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Memory-Based Meta-Learning on Non-Stationary Distributions]]></title>
+        <id>http://arxiv.org/abs/2302.03067</id>
+        <link href="http://arxiv.org/abs/2302.03067"/>
+        <updated>2023-05-26T02:32:49.365Z</updated>
+        <summary type="html"><![CDATA[Tim Genewein, Gr\'egoire Del\'etang, Anian Ruoss, Li Kevin Wenliang,
+  Elliot Catt, Vincent Dutordoir, Jordi Grau-Moya, Laurent Orseau, Marcus
+  Hutter, Joel Veness]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linear Neural Network Layers Promote Learning Single- and Multiple-Index
+  Models]]></title>
+        <id>http://arxiv.org/abs/2305.15598</id>
+        <link href="http://arxiv.org/abs/2305.15598"/>
+        <updated>2023-05-26T02:32:49.357Z</updated>
+        <summary type="html"><![CDATA[Suzanna Parkinson, Greg Ongie, Rebecca Willett]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Differentially private clustering for large-scale datasets]]></title>
         <id>http://ai.googleblog.com/2023/05/differentially-private-clustering-for.html</id>
@@ -2482,16 +2540,6 @@ One challenge in this process is how we make sense of the vast amount of clinica
 Despite recent progress in the field of medical artificial intelligence (AI), most existing models are narrow, single-task systems that require large quantities of labeled data to train. Moreover, these models cannot be easily reused in new clinical contexts as they often require the collection, de-identification and annotation of site-specific data for every new deployment environment, which is both laborious and expensive. This problem of data-efficient generalization (a model’s ability to generalize to new settings using minimal new data) continues to be a key translational challenge for medical machine learning (ML) models and has in turn, prevented their broad uptak…]]></summary>
         <author>
             <name>Google AI Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fake F*ck]]></title>
-        <id>https://languagelog.ldc.upenn.edu/nll/?p=58574</id>
-        <link href="https://languagelog.ldc.upenn.edu/nll/?p=58574&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=fake-fck"/>
-        <updated>2023-04-26T13:36:52.000Z</updated>
-        <summary type="html"><![CDATA[This is also linguistically fascinating because it shows ‘fuck’ being used as a loanword (fake 法克) in Mandarin! The loanword is so entrenched nowadays that it has it‘s own baidupedia entry… 😅 1/ https://t.co/TVxEmev6iA pic.twitter.com/UKBx3CiO26 — Egas Moniz-Bandeira ᠡᡤᠠᠰ ᠮᠣᠨᠢᠰ ᠪᠠᠨᡩ᠋ᠠᠶᠢᠷᠠ (@egasmb) April 25, 2023 Usual LL romanization, transcription, and translation of the Chinese text: […]]]></summary>
-        <author>
-            <name>Victor Mair</name>
         </author>
     </entry>
 </feed>
