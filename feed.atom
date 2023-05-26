@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-05-26T10:16:01.592Z</updated>
+    <updated>2023-05-26T11:13:15.372Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -2516,16 +2516,6 @@ One challenge in this process is how we make sense of the vast amount of clinica
         <summary type="html"><![CDATA[Next week marks the start of the 11th International Conference on Learning Representations (ICLR), taking place 1-5 May in Kigali, Rwanda. This will be the first major artificial intelligence (AI) conference to be hosted in Africa and the first in-person event since the start of the pandemic. Researchers from around the world will gather to share their cutting-edge work in deep learning spanning the fields of AI, statistics and data science, and applications including machine vision, gaming and robotics. We’re proud to support the conference as a Diamond sponsor and DEI champion.]]></summary>
         <author>
             <name>DeepMind Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[postdoctoral research position]]></title>
-        <id>http://xianblog.wordpress.com/?p=52863</id>
-        <link href="https://xianblog.wordpress.com/2023/04/27/postdoctoral-research-position/"/>
-        <updated>2023-04-26T22:23:48.000Z</updated>
-        <summary type="html"><![CDATA[Through the ERC Synergy grant OCEAN (On intelligenCE And Networks: Synergistic research in Bayesian Statistics, Microeconomics and Computer Sciences), I am seeking one postdoctoral researcher with an interest in Bayesian federated learning, distributed MCMC, approximate Bayesian inference, and data privacy. The project is based at Université Paris Dauphine, on the new PariSanté Campus.  The postdoc will […]]]></summary>
-        <author>
-            <name>xi'an</name>
         </author>
     </entry>
 </feed>
