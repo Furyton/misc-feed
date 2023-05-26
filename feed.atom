@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-05-26T11:13:15.372Z</updated>
+    <updated>2023-05-26T12:28:12.169Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -2506,16 +2506,6 @@ One challenge in this process is how we make sense of the vast amount of clinica
         <summary type="html"><![CDATA[Hidet is a powerful deep learning compiler that simplifies the process of implementing high-performing deep learning operators on modern accelerators (e.g., NVIDIA GPUs). With the new feature of torch.compile(...) in PyTorch 2.0, integrating a novel compiler into PyTorch is easier than ever - Hidet now can be used as a torch.compile(...) backend to accelerate PyTorch models, making it an attractive option for PyTorch users who want to improve the inference performance of their models, especially for those who also need to implement extremely optimized custom operators.]]></summary>
         <author>
             <name>PyTorch Website</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DeepMind’s latest research at ICLR 2023]]></title>
-        <id>https://www.deepmind.com/blog/deepminds-latest-research-at-iclr-2023</id>
-        <link href="https://www.deepmind.com/blog/deepminds-latest-research-at-iclr-2023"/>
-        <updated>2023-04-27T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Next week marks the start of the 11th International Conference on Learning Representations (ICLR), taking place 1-5 May in Kigali, Rwanda. This will be the first major artificial intelligence (AI) conference to be hosted in Africa and the first in-person event since the start of the pandemic. Researchers from around the world will gather to share their cutting-edge work in deep learning spanning the fields of AI, statistics and data science, and applications including machine vision, gaming and robotics. We’re proud to support the conference as a Diamond sponsor and DEI champion.]]></summary>
-        <author>
-            <name>DeepMind Blog</name>
         </author>
     </entry>
 </feed>
