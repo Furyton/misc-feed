@@ -2,10 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-05-26T19:11:38.162Z</updated>
+    <updated>2023-05-26T20:15:15.904Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Foundation models for reasoning on charts]]></title>
+        <id>http://ai.googleblog.com/2023/05/foundation-models-for-reasoning-on.html</id>
+        <link href="http://ai.googleblog.com/2023/05/foundation-models-for-reasoning-on.html"/>
+        <updated>2023-05-26T19:08:00.002Z</updated>
+        <summary type="html"><![CDATA[Posted by Julian Eisenschlos, Research Software Engineer, Google Research
+
+
+
+
+
+Visual language is the form of communication that relies on pictorial symbols outside of text to convey information. It is ubiquitous in our digital life in the form of iconography, infographics, tables, plots, and charts, extending to the real world in street signs, comic books, food labels, etc. For that reason, having computers better understand this type of media can help with scientific communication and discovery, accessibility, and data transparency.
+ 
+
+While computer vision models have made tremendous progress using learning-based solutions since the advent of ImageNet, the focus has been on natural images, where all sorts of tasks, such as classification, visual question answering (VQA), captioning, det…]]></summary>
+        <author>
+            <name>Google AI Blog</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Barkour: Benchmarking animal-level agility with quadruped robots]]></title>
         <id>http://ai.googleblog.com/2023/05/barkour-benchmarking-animal-level.html</id>
@@ -2464,64 +2483,6 @@ One challenge in this process is how we make sense of the vast amount of clinica
         <summary type="html"><![CDATA[Laowai is "an informal term or slang for 'foreigner' and/or non-Chinese national".  One of the tens of thousands of commenters on the above video is the renowned SerpentZA, who teamed up with his partner, the dry, wry Laowhy86, to form the quintessential Laowai China travel and commentarial vloggers of the second decade of the 21st […]]]></summary>
         <author>
             <name>Victor Mair</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Generative Causal Representation Learning for Out-of-Distribution Motion
-  Forecasting]]></title>
-        <id>http://arxiv.org/abs/2302.08635</id>
-        <link href="http://arxiv.org/abs/2302.08635"/>
-        <updated>2023-04-27T07:14:20.356Z</updated>
-        <summary type="html"><![CDATA[Shayan Shirahmad Gale Bagi, Zahra Gharaee, Oliver Schulte, Mark
-  Crowley]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Integration of Radiomics and Tumor Biomarkers in Interpretable Machine
-  Learning Models]]></title>
-        <id>http://arxiv.org/abs/2303.11177</id>
-        <link href="http://arxiv.org/abs/2303.11177"/>
-        <updated>2023-04-27T07:14:19.960Z</updated>
-        <summary type="html"><![CDATA[Lennart Brocki, Neo Christopher Chung]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Plasticity Neural Network Based on Memory Generation, Memory
-  Consolidation and Synaptic Strength Rebalance by Current and Memory Brain
-  Plasticity and Synapse Formation-to simulate Artificial Brain]]></title>
-        <id>http://arxiv.org/abs/2203.11740</id>
-        <link href="http://arxiv.org/abs/2203.11740"/>
-        <updated>2023-04-27T07:14:19.960Z</updated>
-        <summary type="html"><![CDATA[Jun-Bo Tao, Bai-Qing Sun, Wei-Dong Zhu, Shi-You Qu, Ling-Kun Chen,
-  Jia-Qiang Li, Guo-Qi Li, Chong Wu, Yu Xiong, Jiaxuan Zhou]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[One-vs-the-Rest Loss to Focus on Important Samples in Adversarial
-  Training]]></title>
-        <id>http://arxiv.org/abs/2207.10283</id>
-        <link href="http://arxiv.org/abs/2207.10283"/>
-        <updated>2023-04-27T07:14:19.960Z</updated>
-        <summary type="html"><![CDATA[Sekitoshi Kanai, Shin'ya Yamaguchi, Masanori Yamada, Hiroshi
-  Takahashi, Kentaro Ohno, Yasutoshi Ida]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kernel Methods are Competitive for Operator Learning]]></title>
-        <id>http://arxiv.org/abs/2304.13202</id>
-        <link href="http://arxiv.org/abs/2304.13202"/>
-        <updated>2023-04-27T07:14:19.959Z</updated>
-        <summary type="html"><![CDATA[Pau Batlle, Matthieu Darcy, Bamdad Hosseini, Houman Owhadi]]></summary>
-        <author>
-            <name>arxivist feed</name>
         </author>
     </entry>
 </feed>
