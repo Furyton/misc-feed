@@ -1940,6 +1940,16 @@
       "siteUrl": "http://ai.googleblog.com/",
       "articles": [
         {
+          "id": "http://ai.googleblog.com/2023/05/differentially-private-clustering-for.html",
+          "author": null,
+          "description": "Posted by Vincent Cohen-Addad and  Alessandro Epasto, Research Scientists, Google Research, Graph Mining team\n\n\n\n\nClustering is a central problem in unsupervised machine learning (ML) with many applications across domains in both industry and academic research more broadly. At its core, clustering consists of the following problem: given a set of data elements, the goal is to partition the data elements into groups such that similar objects are in the same group, while dissimilar objects are in different groups. This problem has been studied in math, computer science, operations research and statistics for more than 60 years in its myriad variants. Two common forms of clustering are metric clustering, in which the elements are points in a metric space, like in the k-means problem, and grap…",
+          "link": "http://ai.googleblog.com/2023/05/differentially-private-clustering-for.html",
+          "publishedOn": "2023-05-25T23:09:00.003Z",
+          "wordCount": 27754,
+          "title": "Differentially private clustering for large-scale datasets",
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjG6jKdvoUMqPI-WRS9KnK6Clj8W-uXfR_Pd3BfLIeSQGMb7sJtp1dTNlITKnF5CTtw4c-JtRIi9r_ySKXmKLeIGBTeLozFnQWQhp6aiXMHVctZjqQfcl2LGDywb3SktCtPwQV9OgAJZ9PyMsAOxeUxxjdRzTf3CIApROfx6hSFBv7NItHKjB8LbFgiTQ/w1200-h630-p-k-no-nu/COVID.jpg"
+        },
+        {
           "id": "http://ai.googleblog.com/2023/05/google-research-at-io-2023.html",
           "author": null,
           "description": "Posted by James Manyika, SVP Google Research and Technology & Society, and Jeff Dean, Chief Scientist, Google DeepMind and Google Research\n\n\n\n\nWednesday, May 10th was an exciting day for the Google Research community as we watched the results of months and years of our foundational and applied work get announced on the Google I/O stage. With the quick pace of announcements on stage, it can be difficult to convey the substantial effort and unique innovations that underlie the technologies we presented. So today, we’re excited to reveal more about the research efforts behind some of the many exciting announcements at this year's I/O. \n\n\n \n\nPaLM 2 \nPaLM 2, is built on advances in compute-optimal scaling, scaled instruction-fine tuning and improved dataset mixture. By fine-tuning and instructi…",

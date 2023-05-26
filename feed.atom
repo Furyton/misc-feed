@@ -2,10 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-05-25T23:14:33.374Z</updated>
+    <updated>2023-05-26T01:16:25.195Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Differentially private clustering for large-scale datasets]]></title>
+        <id>http://ai.googleblog.com/2023/05/differentially-private-clustering-for.html</id>
+        <link href="http://ai.googleblog.com/2023/05/differentially-private-clustering-for.html"/>
+        <updated>2023-05-25T23:09:00.003Z</updated>
+        <summary type="html"><![CDATA[Posted by Vincent Cohen-Addad and  Alessandro Epasto, Research Scientists, Google Research, Graph Mining team
+
+
+
+
+Clustering is a central problem in unsupervised machine learning (ML) with many applications across domains in both industry and academic research more broadly. At its core, clustering consists of the following problem: given a set of data elements, the goal is to partition the data elements into groups such that similar objects are in the same group, while dissimilar objects are in different groups. This problem has been studied in math, computer science, operations research and statistics for more than 60 years in its myriad variants. Two common forms of clustering are metric clustering, in which the elements are points in a metric space, like in the k-means problem, and grap…]]></summary>
+        <author>
+            <name>Google AI Blog</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[EMS 2023, Warsaw]]></title>
         <id>http://xianblog.wordpress.com/?p=53085</id>
