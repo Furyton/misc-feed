@@ -1537,16 +1537,6 @@
           "wordCount": 2305,
           "title": "Accelerated Image Segmentation using PyTorch",
           "imageUrl": "https://pytorch.org/assets/images/pytorch-logo.png"
-        },
-        {
-          "id": "https://pytorch.org/blog/introducing-hidet/",
-          "author": null,
-          "description": "Hidet is a powerful deep learning compiler that simplifies the process of implementing high-performing deep learning operators on modern accelerators (e.g., NVIDIA GPUs). With the new feature of torch.compile(...) in PyTorch 2.0, integrating a novel compiler into PyTorch is easier than ever - Hidet now can be used as a torch.compile(...) backend to accelerate PyTorch models, making it an attractive option for PyTorch users who want to improve the inference performance of their models, especially for those who also need to implement extremely optimized custom operators.",
-          "link": "https://pytorch.org/blog/introducing-hidet/",
-          "publishedOn": "2023-04-27T07:00:00.000Z",
-          "wordCount": 1409,
-          "title": "Introducing Hidet: A Deep Learning Compiler for Efficient Model Serving",
-          "imageUrl": "https://pytorch.org/assets/images/pytorch-logo.png"
         }
       ]
     },
