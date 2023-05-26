@@ -2148,16 +2148,6 @@
           "wordCount": 27818,
           "title": "An ML-based approach to better characterize lung diseases",
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjukGQ3XqcJ6pKHbbMe80-OO_hrGogO7FUPtRlCGq7GH5ba83-6_MnzX5CS7MecI2rz4fbFuY1sHp4hb9mpV_zU95zSxA4mfucMRj_d-LtPNNKUAEEHwuE_Cqj1nvVDJN86RLZU2byBsemz-GiVEDIHVusSQHTerZVr0dPytu4HwGA5_9IYXIeiQ3pprg/w1200-h630-p-k-no-nu/copdgenomics.png"
-        },
-        {
-          "id": "http://ai.googleblog.com/2023/04/robust-and-efficient-medical-imaging.html",
-          "author": null,
-          "description": "Posted by Shekoofeh Azizi, Senior Research Scientist, and Laura Culp, Senior Research Engineer, Google Research\n  \n  \n  \nDespite recent progress in the field of medical artificial intelligence (AI), most existing models are narrow, single-task systems that require large quantities of labeled data to train. Moreover, these models cannot be easily reused in new clinical contexts as they often require the collection, de-identification and annotation of site-specific data for every new deployment environment, which is both laborious and expensive. This problem of data-efficient generalization (a model’s ability to generalize to new settings using minimal new data) continues to be a key translational challenge for medical machine learning (ML) models and has in turn, prevented their broad uptak…",
-          "link": "http://ai.googleblog.com/2023/04/robust-and-efficient-medical-imaging.html",
-          "publishedOn": "2023-04-26T20:32:00.000Z",
-          "wordCount": 27819,
-          "title": "Robust and efficient medical imaging with self-supervision",
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgvMtAszRzkUmNz3DliRRKOPMA0hi-EplY9vfJ9cWCZhFBUgnblKjVoObTYAfybreL7HEKh11g2unV5oR_KOWfkPxpe3Hzo6qWSWq4YxA9RuhkeGXdDJST2XvW2Nfl3L6kDpV1hA2b_vpBMVaw2_pxt2vWD2n92S9fDGAZp0a4c2dV2Ylf3XrUSLQxAoQ/w1200-h630-p-k-no-nu/REMEDIS%20hero.jpg"
         }
       ]
     },
