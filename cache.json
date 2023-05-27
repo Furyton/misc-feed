@@ -1530,6 +1530,16 @@
       "siteUrl": "https://xianblog.wordpress.com",
       "articles": [
         {
+          "id": "http://xianblog.wordpress.com/?p=53091",
+          "author": "xi'an",
+          "description": "“The nested sampling algorithm solves otherwise challenging, high-dimensional integrals by evolving a collection of live points through parameter space. The algorithm was immediately adopted in cosmology because it partially overcomes three of the major difficulties in Markov chain Monte Carlo, the algorithm traditionally used for Bayesian computation. Nested sampling simultaneously returns results for model comparison […]",
+          "link": "https://xianblog.wordpress.com/2023/05/28/natural-nested-sampling/",
+          "publishedOn": "2023-05-27T22:23:11.000Z",
+          "wordCount": 2040,
+          "title": "Natural nested sampling",
+          "imageUrl": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs43586-022-00121-x/MediaObjects/43586_2022_121_Fig2_HTML.png"
+        },
+        {
           "id": "http://xianblog.wordpress.com/?p=52378",
           "author": "xi'an",
           "description": "A few months ago, I had to write a thesis evaluation of Rémi Leluc’s PhD, which contained several novel Monte Carlo proposals on control variates and importance techniques. For instance, Leluc et al. (Statistics and Computing, 2021) revisits the concept of control variables by adding a perspective of control variable selection using LASSO. This prior […]",
