@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-05-27T19:11:12.009Z</updated>
+    <updated>2023-05-27T20:14:46.542Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -2388,63 +2388,6 @@ Read more...]]></summary>
         <summary type="html"><![CDATA[Let $X_{1},\ldots,X_{N}$ be IID. The plug-in estimator for the mean is the sample mean $\bar{X}=(X_{1}+\cdots+X_{N})/N$. The standard error of this estimator is $\sqrt{\operatorname{Var}(X_{1})/N}$. Therefore, a normal confidence interval for the mean is $$ \bar{X}\pm c\sqrt{\frac{\operatorname{Var}(X_{1})}{N}}. $$ In short, if we want to test if the mean is statistically significantly different from zero, the number of samples needs to satisfy $$ N&gt;\frac{c^{2}\operatorname{Var}(X_{1})}{\left|\bar{X}\right|^{2}}. $$]]></summary>
         <author>
             <name>Parsiad Azimzadeh</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Statistical Learning Theory for Control: A Finite Sample Perspective]]></title>
-        <id>http://arxiv.org/abs/2209.05423</id>
-        <link href="http://arxiv.org/abs/2209.05423"/>
-        <updated>2023-04-28T07:14:00.845Z</updated>
-        <summary type="html"><![CDATA[Anastasios Tsiamis, Ingvar Ziemann, Nikolai Matni, George J. Pappas]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Beyond calibration: estimating the grouping loss of modern neural
-  networks]]></title>
-        <id>http://arxiv.org/abs/2210.16315</id>
-        <link href="http://arxiv.org/abs/2210.16315"/>
-        <updated>2023-04-28T07:13:54.882Z</updated>
-        <summary type="html"><![CDATA[Alexandre Perez-Lebel (SODA), Marine Le Morvan (SODA), Ga\"el
-  Varoquaux (SODA)]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Interpretable Neural-Symbolic Concept Reasoning]]></title>
-        <id>http://arxiv.org/abs/2304.14068</id>
-        <link href="http://arxiv.org/abs/2304.14068"/>
-        <updated>2023-04-28T07:13:54.803Z</updated>
-        <summary type="html"><![CDATA[Pietro Barbiero, Gabriele Ciravegna, Francesco Giannini, Mateo
-  Espinosa Zarlenga, Lucie Charlotte Magister, Alberto Tonda, Pietro Lio',
-  Frederic Precioso, Mateja Jamnik, Giuseppe Marra]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DORA: Exploring outlier representations in Deep Neural Networks]]></title>
-        <id>http://arxiv.org/abs/2206.04530</id>
-        <link href="http://arxiv.org/abs/2206.04530"/>
-        <updated>2023-04-28T07:13:54.797Z</updated>
-        <summary type="html"><![CDATA[Kirill Bykov, Mayukh Deb, Dennis Grinwald, Klaus-Robert M\"uller,
-  Marina M.-C. H\"ohne]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[On Over-Squashing in Message Passing Neural Networks: The Impact of
-  Width, Depth, and Topology]]></title>
-        <id>http://arxiv.org/abs/2302.02941</id>
-        <link href="http://arxiv.org/abs/2302.02941"/>
-        <updated>2023-04-28T07:13:54.779Z</updated>
-        <summary type="html"><![CDATA[Francesco Di Giovanni, Lorenzo Giusti, Federico Barbero, Giulia Luise,
-  Pietro Lio', Michael Bronstein]]></summary>
-        <author>
-            <name>arxivist feed</name>
         </author>
     </entry>
 </feed>
