@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-05-28T07:12:59.416Z</updated>
+    <updated>2023-05-28T08:16:59.482Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -2398,16 +2398,6 @@ Read more...]]></summary>
         <summary type="html"><![CDATA[Visit the post for more.]]></summary>
         <author>
             <name>xi'an</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Test if the sample mean is statistically significantly different from zero]]></title>
-        <id>https://parsiad.ca/blog/2023/test_if_the_sample_mean_is_statistically_significantly_different_from_zero/</id>
-        <link href="https://parsiad.ca/blog/2023/test_if_the_sample_mean_is_statistically_significantly_different_from_zero/"/>
-        <updated>2023-04-28T20:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Let $X_{1},\ldots,X_{N}$ be IID. The plug-in estimator for the mean is the sample mean $\bar{X}=(X_{1}+\cdots+X_{N})/N$. The standard error of this estimator is $\sqrt{\operatorname{Var}(X_{1})/N}$. Therefore, a normal confidence interval for the mean is $$ \bar{X}\pm c\sqrt{\frac{\operatorname{Var}(X_{1})}{N}}. $$ In short, if we want to test if the mean is statistically significantly different from zero, the number of samples needs to satisfy $$ N&gt;\frac{c^{2}\operatorname{Var}(X_{1})}{\left|\bar{X}\right|^{2}}. $$]]></summary>
-        <author>
-            <name>Parsiad Azimzadeh</name>
         </author>
     </entry>
 </feed>
