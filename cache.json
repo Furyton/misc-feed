@@ -1520,6 +1520,16 @@
       "siteUrl": "https://xianblog.wordpress.com",
       "articles": [
         {
+          "id": "http://xianblog.wordpress.com/?p=53104",
+          "author": "xi'an",
+          "description": "Visit the post for more.",
+          "link": "https://xianblog.wordpress.com/2023/05/29/model-based-clustering-classification-and-density-estimation-using-mclust-in-r-not-a-book-review/",
+          "publishedOn": "2023-05-28T22:23:16.000Z",
+          "wordCount": 1734,
+          "title": "Model-Based Clustering, Classification, and Density Estimation Using mclust in R [not a book review]",
+          "imageUrl": "https://xianblog.files.wordpress.com/2023/05/temp-5.png"
+        },
+        {
           "id": "http://xianblog.wordpress.com/?p=53091",
           "author": "xi'an",
           "description": "“The nested sampling algorithm solves otherwise challenging, high-dimensional integrals by evolving a collection of live points through parameter space. The algorithm was immediately adopted in cosmology because it partially overcomes three of the major difficulties in Markov chain Monte Carlo, the algorithm traditionally used for Bayesian computation. Nested sampling simultaneously returns results for model comparison […]",
