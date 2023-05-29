@@ -2,10 +2,65 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-05-29T06:19:51.555Z</updated>
+    <updated>2023-05-29T07:14:39.716Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Manifold Regularization for Memory-Efficient Training of Deep Neural
+  Networks]]></title>
+        <id>http://arxiv.org/abs/2305.17119</id>
+        <link href="http://arxiv.org/abs/2305.17119"/>
+        <updated>2023-05-29T07:14:17.605Z</updated>
+        <summary type="html"><![CDATA[Shadi Sartipi, Edgar A. Bernal]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vecchia Gaussian Process Ensembles on Internal Representations of Deep
+  Neural Networks]]></title>
+        <id>http://arxiv.org/abs/2305.17063</id>
+        <link href="http://arxiv.org/abs/2305.17063"/>
+        <updated>2023-05-29T07:14:17.597Z</updated>
+        <summary type="html"><![CDATA[Felix Jimenez, Matthias Katzfuss]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Large Language Models as Tool Makers]]></title>
+        <id>http://arxiv.org/abs/2305.17126</id>
+        <link href="http://arxiv.org/abs/2305.17126"/>
+        <updated>2023-05-29T07:14:16.379Z</updated>
+        <summary type="html"><![CDATA[Tianle Cai, Xuezhi Wang, Tengyu Ma, Xinyun Chen, Denny Zhou]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Influence of Learning Rule on Representation Dynamics in Wide Neural
+  Networks]]></title>
+        <id>http://arxiv.org/abs/2210.02157</id>
+        <link href="http://arxiv.org/abs/2210.02157"/>
+        <updated>2023-05-29T07:14:16.372Z</updated>
+        <summary type="html"><![CDATA[Blake Bordelon, Cengiz Pehlevan]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Neural Architecture Search for Parameter-Efficient Fine-tuning of Large
+  Pre-trained Language Models]]></title>
+        <id>http://arxiv.org/abs/2305.16597</id>
+        <link href="http://arxiv.org/abs/2305.16597"/>
+        <updated>2023-05-29T07:14:16.356Z</updated>
+        <summary type="html"><![CDATA[Neal Lawton, Anoop Kumar, Govind Thattai, Aram Galstyan, Greg Ver
+  Steeg]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Model-Based Clustering, Classification, and Density Estimation Using mclust in R [not a book review]]]></title>
         <id>http://xianblog.wordpress.com/?p=53104</id>

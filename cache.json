@@ -6,6 +6,56 @@
       "siteUrl": "https://www.arxivist.com",
       "articles": [
         {
+          "id": "http://arxiv.org/abs/2305.17119",
+          "author": null,
+          "description": "Shadi Sartipi, Edgar A. Bernal",
+          "link": "http://arxiv.org/abs/2305.17119",
+          "publishedOn": "2023-05-29T07:14:17.605Z",
+          "wordCount": 646,
+          "title": "Manifold Regularization for Memory-Efficient Training of Deep Neural\n  Networks",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2305.17063",
+          "author": null,
+          "description": "Felix Jimenez, Matthias Katzfuss",
+          "link": "http://arxiv.org/abs/2305.17063",
+          "publishedOn": "2023-05-29T07:14:17.597Z",
+          "wordCount": 599,
+          "title": "Vecchia Gaussian Process Ensembles on Internal Representations of Deep\n  Neural Networks",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2305.17126",
+          "author": null,
+          "description": "Tianle Cai, Xuezhi Wang, Tengyu Ma, Xinyun Chen, Denny Zhou",
+          "link": "http://arxiv.org/abs/2305.17126",
+          "publishedOn": "2023-05-29T07:14:16.379Z",
+          "wordCount": 784,
+          "title": "Large Language Models as Tool Makers",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2210.02157",
+          "author": null,
+          "description": "Blake Bordelon, Cengiz Pehlevan",
+          "link": "http://arxiv.org/abs/2210.02157",
+          "publishedOn": "2023-05-29T07:14:16.372Z",
+          "wordCount": 797,
+          "title": "The Influence of Learning Rule on Representation Dynamics in Wide Neural\n  Networks",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2305.16597",
+          "author": null,
+          "description": "Neal Lawton, Anoop Kumar, Govind Thattai, Aram Galstyan, Greg Ver\n  Steeg",
+          "link": "http://arxiv.org/abs/2305.16597",
+          "publishedOn": "2023-05-29T07:14:16.356Z",
+          "wordCount": 612,
+          "title": "Neural Architecture Search for Parameter-Efficient Fine-tuning of Large\n  Pre-trained Language Models",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
           "id": "http://arxiv.org/abs/2108.13097",
           "author": null,
           "description": "Adam X. Yang, Maxime Robeyns, Edward Milsom, Ben Anson, Nandi Schoots,\n  Laurence Aitchison",
