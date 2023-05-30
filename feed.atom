@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-05-30T11:12:02.114Z</updated>
+    <updated>2023-05-30T12:32:02.947Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -2432,49 +2432,6 @@ The Eleventh International Conference on Learning Representations (ICLR 2023) is
 If you’re registered for ICLR 2023, we hope you’ll visit the Google booth to learn more about the exciting work we’re doing across topics spanning representation and reinforcement learning, theory and optimization, social impact, safety and privacy, and applications from generative AI to…]]></summary>
         <author>
             <name>Google AI Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Goodbye to Flake8 and PyLint: faster linting with Ruff]]></title>
-        <id>https://pythonspeed.com/articles/pylint-flake8-ruff/</id>
-        <link href="https://pythonspeed.com/articles/pylint-flake8-ruff/"/>
-        <updated>2023-05-01T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Flake8 and PyLint are commonly used, and very useful, linting tools: they can help you find potential bugs and other problems with your code, aka “lints”.
-But they can also be slow.
-And even if they’re fast on your computer, they may still be slow in your CI system (GitHub Actions, GitLab, or whatever else.)
-Happily, there’s a new linter available, Ruff, which is much faster.
-And it supports many of the same lints, including those from many of Flake8’s plugins.
-In this article we’ll get a sense of why Ruff’s extra linting speed is so useful compared to the alternatives.
-Specifically, we’ll cover:
-A useful lint that isn’t in standard Flake8.
-A speed comparison to Ruff’s implementation (preview: it’s much faster!).
-Why seemingly fast linting on your computer might still be slow in CI.
-The worst case for Ruff (preview: it’s ridiculously fast).
-Why Ruff may not work for you.
-A bonus speed-up for linting by changing tox’s configuration.
-Read more...]]></summary>
-        <author>
-            <name>Python⇒Speed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[统计月读（2023 年 4 月）]]></title>
-        <id>https://cosx.org/2023/05/monthly/</id>
-        <link href="https://cosx.org/2023/05/monthly/"/>
-        <updated>2023-05-01T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[推荐语：深度学习，但是Lasso？具有算法包和对应的原理论文，值得一试 推荐人：孔令仁 链接：https://lassonet.ml/ 推荐语：明]]></summary>
-        <author>
-            <name>统计之都</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["The age of Socratic AI"?]]></title>
-        <id>https://languagelog.ldc.upenn.edu/nll/?p=58607</id>
-        <link href="https://languagelog.ldc.upenn.edu/nll/?p=58607&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=the-age-of-socratic-ai"/>
-        <updated>2023-04-30T23:20:50.000Z</updated>
-        <summary type="html"><![CDATA[Or should we call it "Delphic AI"? Alexy Khrabrov suggested both possibilities a few days ago, in "Reasonable AI — the Golden Age of AI Programming": The emerging techniques are all around the way you construct the prompts and also chain them. Effectively, we’re plotting dialogues. I call it the Age of Socratic AI, or […]]]></summary>
-        <author>
-            <name>Mark Liberman</name>
         </author>
     </entry>
 </feed>
