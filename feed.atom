@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-05-30T22:14:17.783Z</updated>
+    <updated>2023-05-30T23:14:29.985Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[optimal importance sampling]]></title>
+        <id>http://xianblog.wordpress.com/?p=53120</id>
+        <link href="https://xianblog.wordpress.com/2023/05/31/optimal-importance-sampling/"/>
+        <updated>2023-05-30T22:23:27.000Z</updated>
+        <summary type="html"><![CDATA[In Stein Π-Importance Sampling, Congye Wang et al. (mostly from Newcastle, UK) build an MCMC scheme with invariant distribution Π targeting a distribution P, showing that the optimal solution (in terms of a discrepancy) differs from P when the chain is Stein-sampled, e..g. via kernel discrepancies. In terms of densities, the solution is the correction […]]]></summary>
+        <author>
+            <name>xi'an</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Mortal Komputation: On Hinton's argument for superhuman AI.]]></title>
         <id>64724f2336605b0001f5e7fa</id>
