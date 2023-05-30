@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-05-30T19:11:34.373Z</updated>
+    <updated>2023-05-30T20:15:24.522Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -2369,60 +2369,6 @@ In “IndoorSim-to-OutdoorReal: Learning to Navigate Outdoors without an…]]></
         <summary type="html"><![CDATA[Frazz for 4/25/2023: Let's not forget Plato's argument against the use of written language in education (From Phaedrus, in the voice of Socrates quoting Thamus): SOCRATES: At the Egyptian city of Naucratis, there was a famous old god, whose name was Theuth; the bird which is called the Ibis is sacred to him, and he […]]]></summary>
         <author>
             <name>Mark Liberman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A feature selection method based on Shapley values robust to concept
-  shift in regression]]></title>
-        <id>http://arxiv.org/abs/2304.14774</id>
-        <link href="http://arxiv.org/abs/2304.14774"/>
-        <updated>2023-05-01T07:14:17.709Z</updated>
-        <summary type="html"><![CDATA[Carlos Sebasti\'an, Carlos E. Gonz\'alez-Guill\'en]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Minimalistic Unsupervised Learning with the Sparse Manifold Transform]]></title>
-        <id>http://arxiv.org/abs/2209.15261</id>
-        <link href="http://arxiv.org/abs/2209.15261"/>
-        <updated>2023-05-01T07:14:17.666Z</updated>
-        <summary type="html"><![CDATA[Yubei Chen, Zeyu Yun, Yi Ma, Bruno Olshausen, Yann LeCun]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why Learning of Large-Scale Neural Networks Behaves Like Convex
-  Optimization]]></title>
-        <id>http://arxiv.org/abs/1903.02140</id>
-        <link href="http://arxiv.org/abs/1903.02140"/>
-        <updated>2023-05-01T07:14:17.661Z</updated>
-        <summary type="html"><![CDATA[Hui Jiang]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Stable and Scalable Method for Solving Initial Value PDEs with Neural
-  Networks]]></title>
-        <id>http://arxiv.org/abs/2304.14994</id>
-        <link href="http://arxiv.org/abs/2304.14994"/>
-        <updated>2023-05-01T07:14:17.647Z</updated>
-        <summary type="html"><![CDATA[Marc Finzi, Andres Potapczynski, Matthew Choptuik, Andrew Gordon
-  Wilson]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Training Neural Networks for Sequential Change-point Detection]]></title>
-        <id>http://arxiv.org/abs/2210.17312</id>
-        <link href="http://arxiv.org/abs/2210.17312"/>
-        <updated>2023-05-01T07:14:17.642Z</updated>
-        <summary type="html"><![CDATA[Junghwan Lee, Tingnan Gong, Xiuyuan Cheng, Yao Xie]]></summary>
-        <author>
-            <name>arxivist feed</name>
         </author>
     </entry>
 </feed>
