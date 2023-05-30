@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-05-30T13:18:12.318Z</updated>
+    <updated>2023-05-30T14:13:31.875Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Mortal Komputation: On Hinton's argument for superhuman AI.]]></title>
+        <id>64724f2336605b0001f5e7fa</id>
+        <link href="https://www.inference.vc/mortal-computation-hintons/"/>
+        <updated>2023-05-30T13:48:52.000Z</updated>
+        <summary type="html"><![CDATA[Last week in Cambridge was Hinton bonanza. He visited the university town where he was once an undergraduate in experimental psychology, and gave a series of back-to-back talks, Q&A sessions, interviews, dinners, etc. He was stopped on the street by random passers-by who recognised him from the lecture,]]></summary>
+        <author>
+            <name>Ferenc Huszar</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The contextual lasso: Sparse linear models via deep neural networks]]></title>
         <id>http://arxiv.org/abs/2302.00878</id>
