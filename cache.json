@@ -6,6 +6,56 @@
       "siteUrl": "https://www.arxivist.com",
       "articles": [
         {
+          "id": "http://arxiv.org/abs/2302.00878",
+          "author": null,
+          "description": "Ryan Thompson, Amir Dezfouli, Robert Kohn",
+          "link": "http://arxiv.org/abs/2302.00878",
+          "publishedOn": "2023-05-30T07:13:25.154Z",
+          "wordCount": 718,
+          "title": "The contextual lasso: Sparse linear models via deep neural networks",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2206.03299",
+          "author": null,
+          "description": "Mingze Wang, Chao Ma",
+          "link": "http://arxiv.org/abs/2206.03299",
+          "publishedOn": "2023-05-30T07:13:24.424Z",
+          "wordCount": 631,
+          "title": "Generalization Error Bounds for Deep Neural Networks Trained by SGD",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2305.18270",
+          "author": null,
+          "description": "Yatin Dandi, Florent Krzakala, Bruno Loureiro, Luca Pesce, Ludovic\n  Stephan",
+          "link": "http://arxiv.org/abs/2305.18270",
+          "publishedOn": "2023-05-30T07:13:23.287Z",
+          "wordCount": 721,
+          "title": "Learning Two-Layer Neural Networks, One (Giant) Step at a Time",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2006.07356",
+          "author": null,
+          "description": "Hui Jin, Guido Mont\\'ufar",
+          "link": "http://arxiv.org/abs/2006.07356",
+          "publishedOn": "2023-05-30T07:13:23.096Z",
+          "wordCount": 765,
+          "title": "Implicit Bias of Gradient Descent for Mean Squared Error Regression with\n  Two-Layer Wide Neural Networks",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2305.17608",
+          "author": null,
+          "description": "Ziang Song, Tianle Cai, Jason D. Lee, Weijie J. Su",
+          "link": "http://arxiv.org/abs/2305.17608",
+          "publishedOn": "2023-05-30T07:13:22.873Z",
+          "wordCount": 709,
+          "title": "Reward Collapse in Aligning Large Language Models",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
           "id": "http://arxiv.org/abs/2305.17119",
           "author": null,
           "description": "Shadi Sartipi, Edgar A. Bernal",
