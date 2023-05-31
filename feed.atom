@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-05-31T22:14:09.606Z</updated>
+    <updated>2023-05-31T23:14:13.482Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[the alpinist [film review]]]></title>
+        <id>http://xianblog.wordpress.com/?p=53126</id>
+        <link href="https://xianblog.wordpress.com/2023/06/01/the-alpinist-film-review/"/>
+        <updated>2023-05-31T22:23:44.000Z</updated>
+        <summary type="html"><![CDATA[Watched (with supplementary oxygen) The Alpinist in the plane to Jeddah. It is a documentary (made by the same filmmakers who filmed the Dawn Wall) about the amazing Canadian alpinist Marc-André Leclerc, who died in 2018 on the Mendenhall Glacier, Alaska, in an avalanche, after achieving extraordinary complex solo climbs as eg on Mount Robbson, […]]]></summary>
+        <author>
+            <name>xi'an</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Questions and Concerns About Google’s Quantum Supremacy Claim]]></title>
         <id>http://gilkalai.wordpress.com/?p=24142</id>

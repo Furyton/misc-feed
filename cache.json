@@ -1600,6 +1600,16 @@
       "siteUrl": "https://xianblog.wordpress.com",
       "articles": [
         {
+          "id": "http://xianblog.wordpress.com/?p=53126",
+          "author": "xi'an",
+          "description": "Watched (with supplementary oxygen) The Alpinist in the plane to Jeddah. It is a documentary (made by the same filmmakers who filmed the Dawn Wall) about the amazing Canadian alpinist Marc-André Leclerc, who died in 2018 on the Mendenhall Glacier, Alaska, in an avalanche, after achieving extraordinary complex solo climbs as eg on Mount Robbson, […]",
+          "link": "https://xianblog.wordpress.com/2023/06/01/the-alpinist-film-review/",
+          "publishedOn": "2023-05-31T22:23:44.000Z",
+          "wordCount": 2002,
+          "title": "the alpinist [film review]",
+          "imageUrl": "https://xianblog.files.wordpress.com/2018/08/squamish22.jpg"
+        },
+        {
           "id": "http://xianblog.wordpress.com/?p=53120",
           "author": "xi'an",
           "description": "In Stein Π-Importance Sampling, Congye Wang et al. (mostly from Newcastle, UK) build an MCMC scheme with invariant distribution Π targeting a distribution P, showing that the optimal solution (in terms of a discrepancy) differs from P when the chain is Stein-sampled, e..g. via kernel discrepancies. In terms of densities, the solution is the correction […]",
