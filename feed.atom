@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-05-31T18:18:30.815Z</updated>
+    <updated>2023-05-31T19:11:38.412Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -24,6 +24,26 @@
         <summary type="html"><![CDATA[Yosi Rinott, Tomer Shoham, and I wrote our third paper regarding our statistical study of the Google 2019 supremacy experiment.  Our paper presents statistical analysis that may shed light on the quality and reliability of the data and the statistical … Continue reading →]]></summary>
         <author>
             <name>Gil Kalai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Large sequence models for software development activities]]></title>
+        <id>http://ai.googleblog.com/2023/05/large-sequence-models-for-software.html</id>
+        <link href="http://ai.googleblog.com/2023/05/large-sequence-models-for-software.html"/>
+        <updated>2023-05-31T17:13:00.001Z</updated>
+        <summary type="html"><![CDATA[Posted by Petros Maniatis and Daniel Tarlow, Research Scientists, Google
+
+
+
+
+Software isn’t created in one dramatic step. It improves bit by bit, one little step at a time — editing, running unit tests, fixing build errors, addressing code reviews, editing some more, appeasing linters, and fixing more errors — until finally it becomes good enough to merge into a code repository. Software engineering isn’t an isolated process, but a dialogue among human developers, code reviewers, bug reporters, software architects and tools, such as compilers, unit tests, linters and static analyzers. 
+
+
+
+
+Today we describe DIDACT (​​Dynamic Integrated Developer ACTivity), which is a methodology for training large machine learning (ML) models for software development. The novelty of DIDACT is that it uses …]]></summary>
+        <author>
+            <name>Google AI Blog</name>
         </author>
     </entry>
     <entry>
@@ -2433,16 +2453,6 @@ In “IndoorSim-to-OutdoorReal: Learning to Navigate Outdoors without an…]]></
         <summary type="html"><![CDATA[Aliaksandr Hubin, Geir Storvik]]></summary>
         <author>
             <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Accelerated Image Segmentation using PyTorch]]></title>
-        <id>https://pytorch.org/blog/accelerated-image-seg/</id>
-        <link href="https://pytorch.org/blog/accelerated-image-seg/"/>
-        <updated>2023-05-02T07:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Using Intel® Extension for PyTorch to Boost Image Processing Performance]]></summary>
-        <author>
-            <name>PyTorch Website</name>
         </author>
     </entry>
 </feed>

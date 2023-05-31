@@ -1527,16 +1527,6 @@
           "wordCount": 874,
           "title": "Announcing PyTorch Docathon 2023",
           "imageUrl": "https://pytorch.org/assets/images/pytorch-logo.png"
-        },
-        {
-          "id": "https://pytorch.org/blog/accelerated-image-seg/",
-          "author": null,
-          "description": "Using Intel® Extension for PyTorch to Boost Image Processing Performance",
-          "link": "https://pytorch.org/blog/accelerated-image-seg/",
-          "publishedOn": "2023-05-02T07:00:00.000Z",
-          "wordCount": 2305,
-          "title": "Accelerated Image Segmentation using PyTorch",
-          "imageUrl": "https://pytorch.org/assets/images/pytorch-logo.png"
         }
       ]
     },
@@ -1969,6 +1959,16 @@
       "feedUrl": "http://feeds.feedburner.com/blogspot/gJZg",
       "siteUrl": "http://ai.googleblog.com/",
       "articles": [
+        {
+          "id": "http://ai.googleblog.com/2023/05/large-sequence-models-for-software.html",
+          "author": null,
+          "description": "Posted by Petros Maniatis and Daniel Tarlow, Research Scientists, Google\n\n\n\n\nSoftware isn’t created in one dramatic step. It improves bit by bit, one little step at a time — editing, running unit tests, fixing build errors, addressing code reviews, editing some more, appeasing linters, and fixing more errors — until finally it becomes good enough to merge into a code repository. Software engineering isn’t an isolated process, but a dialogue among human developers, code reviewers, bug reporters, software architects and tools, such as compilers, unit tests, linters and static analyzers. \n\n\n\n\nToday we describe DIDACT (​​Dynamic Integrated Developer ACTivity), which is a methodology for training large machine learning (ML) models for software development. The novelty of DIDACT is that it uses …",
+          "link": "http://ai.googleblog.com/2023/05/large-sequence-models-for-software.html",
+          "publishedOn": "2023-05-31T17:13:00.001Z",
+          "wordCount": 27930,
+          "title": "Large sequence models for software development activities",
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8_SbpjaNoBFB_ymmlPa_9YTKL4tOAPfWFHajgnphxoPc3dTXyORaOPk1kN1TP8gVgdjiyPtqGfEYmVCyYIIBdd2ICEIROmNVMCbJmcmT0wLoRWow8djNms5ejc-pfk2Bx_79P7FCnN5PGAQqnXq8YWkn5sX_oLwP0NSoq3IvaV9WyiYhYk1wYK8cTEg/w1200-h630-p-k-no-nu/DIDACT-Hero.jpg"
+        },
         {
           "id": "http://ai.googleblog.com/2023/05/foundation-models-for-reasoning-on.html",
           "author": null,
