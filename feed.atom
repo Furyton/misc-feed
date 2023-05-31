@@ -2,10 +2,64 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-05-31T06:20:25.896Z</updated>
+    <updated>2023-05-31T07:13:49.545Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[On the minimax optimality and superiority of deep neural network
+  learning over sparse parameter spaces]]></title>
+        <id>http://arxiv.org/abs/1905.09195</id>
+        <link href="http://arxiv.org/abs/1905.09195"/>
+        <updated>2023-05-31T07:13:39.538Z</updated>
+        <summary type="html"><![CDATA[Satoshi Hayakawa, Taiji Suzuki]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Prediction Error-based Classification for Class-Incremental Learning]]></title>
+        <id>http://arxiv.org/abs/2305.18806</id>
+        <link href="http://arxiv.org/abs/2305.18806"/>
+        <updated>2023-05-31T07:13:39.532Z</updated>
+        <summary type="html"><![CDATA[Micha{\l} Zaj\k{a}c, Tinne Tuytelaars, Gido M. van de Ven]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Universal Approximation Property of Hamiltonian Deep Neural Networks]]></title>
+        <id>http://arxiv.org/abs/2303.12147</id>
+        <link href="http://arxiv.org/abs/2303.12147"/>
+        <updated>2023-05-31T07:13:39.527Z</updated>
+        <summary type="html"><![CDATA[Muhammad Zakwan, Massimiliano d'Angelo, Giancarlo Ferrari-Trecate]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Conformal Prediction with Large Language Models for Multi-Choice
+  Question Answering]]></title>
+        <id>http://arxiv.org/abs/2305.18404</id>
+        <link href="http://arxiv.org/abs/2305.18404"/>
+        <updated>2023-05-31T07:13:39.521Z</updated>
+        <summary type="html"><![CDATA[Bhawesh Kumar, Charlie Lu, Gauri Gupta, Anil Palepu, David Bellamy,
+  Ramesh Raskar, Andrew Beam]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Generating with Confidence: Uncertainty Quantification for Black-box
+  Large Language Models]]></title>
+        <id>http://arxiv.org/abs/2305.19187</id>
+        <link href="http://arxiv.org/abs/2305.19187"/>
+        <updated>2023-05-31T07:13:39.504Z</updated>
+        <summary type="html"><![CDATA[Zhen Lin, Shubhendu Trivedi, Jimeng Sun]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[optimal importance sampling]]></title>
         <id>http://xianblog.wordpress.com/?p=53120</id>

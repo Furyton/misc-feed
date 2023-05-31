@@ -6,6 +6,56 @@
       "siteUrl": "https://www.arxivist.com",
       "articles": [
         {
+          "id": "http://arxiv.org/abs/1905.09195",
+          "author": null,
+          "description": "Satoshi Hayakawa, Taiji Suzuki",
+          "link": "http://arxiv.org/abs/1905.09195",
+          "publishedOn": "2023-05-31T07:13:39.538Z",
+          "wordCount": 798,
+          "title": "On the minimax optimality and superiority of deep neural network\n  learning over sparse parameter spaces",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2305.18806",
+          "author": null,
+          "description": "Micha{\\l} Zaj\\k{a}c, Tinne Tuytelaars, Gido M. van de Ven",
+          "link": "http://arxiv.org/abs/2305.18806",
+          "publishedOn": "2023-05-31T07:13:39.532Z",
+          "wordCount": 666,
+          "title": "Prediction Error-based Classification for Class-Incremental Learning",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2303.12147",
+          "author": null,
+          "description": "Muhammad Zakwan, Massimiliano d'Angelo, Giancarlo Ferrari-Trecate",
+          "link": "http://arxiv.org/abs/2303.12147",
+          "publishedOn": "2023-05-31T07:13:39.527Z",
+          "wordCount": 619,
+          "title": "Universal Approximation Property of Hamiltonian Deep Neural Networks",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2305.18404",
+          "author": null,
+          "description": "Bhawesh Kumar, Charlie Lu, Gauri Gupta, Anil Palepu, David Bellamy,\n  Ramesh Raskar, Andrew Beam",
+          "link": "http://arxiv.org/abs/2305.18404",
+          "publishedOn": "2023-05-31T07:13:39.521Z",
+          "wordCount": 634,
+          "title": "Conformal Prediction with Large Language Models for Multi-Choice\n  Question Answering",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2305.19187",
+          "author": null,
+          "description": "Zhen Lin, Shubhendu Trivedi, Jimeng Sun",
+          "link": "http://arxiv.org/abs/2305.19187",
+          "publishedOn": "2023-05-31T07:13:39.504Z",
+          "wordCount": 683,
+          "title": "Generating with Confidence: Uncertainty Quantification for Black-box\n  Large Language Models",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
           "id": "http://arxiv.org/abs/2302.00878",
           "author": null,
           "description": "Ryan Thompson, Amir Dezfouli, Robert Kohn",
