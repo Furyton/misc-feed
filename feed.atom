@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-05-31T07:13:49.545Z</updated>
+    <updated>2023-05-31T08:18:38.933Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[关于NBCE方法的一些补充说明和分析]]></title>
+        <id>https://kexue.fm/archives/9632</id>
+        <link href="https://kexue.fm/archives/9632"/>
+        <updated>2023-05-31T07:38:00.000Z</updated>
+        <summary type="html"><![CDATA[上周在《NBCE：使用朴素贝叶斯扩展LLM的Context处理长度》中，我们介绍了一种基于朴素贝叶斯来扩展LLM的Context长度的方案NBCE（Naive Bayes-based Conte...]]></summary>
+        <author>
+            <name>苏剑林</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[On the minimax optimality and superiority of deep neural network
   learning over sparse parameter spaces]]></title>
