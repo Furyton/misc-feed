@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-05-31T19:11:38.412Z</updated>
+    <updated>2023-05-31T20:15:18.768Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -2408,51 +2408,6 @@ In “IndoorSim-to-OutdoorReal: Learning to Navigate Outdoors without an…]]></
         <summary type="html"><![CDATA[Let $X$ be an $N\times p$ real matrix. Let $D$ be a real diagonal matrix, $w$ be a vector of nonnegative weights that sum to one, and \begin{equation} Y=\left(X-\frac{1}{N}ee^{\intercal}X\right)D^{-1}. \end{equation} $Y$ is a demeaned and rescaled version of $X$.]]></summary>
         <author>
             <name>Parsiad Azimzadeh</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LAVA: Data Valuation without Pre-Specified Learning Algorithms]]></title>
-        <id>http://arxiv.org/abs/2305.00054</id>
-        <link href="http://arxiv.org/abs/2305.00054"/>
-        <updated>2023-05-02T07:13:48.931Z</updated>
-        <summary type="html"><![CDATA[Hoang Anh Just, Feiyang Kang, Jiachen T. Wang, Yi Zeng, Myeongseob Ko,
-  Ming Jin, Ruoxi Jia]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[POUF: Prompt-oriented unsupervised fine-tuning for large pre-trained
-  models]]></title>
-        <id>http://arxiv.org/abs/2305.00350</id>
-        <link href="http://arxiv.org/abs/2305.00350"/>
-        <updated>2023-05-02T07:13:48.900Z</updated>
-        <summary type="html"><![CDATA[Korawat Tanwisuth, Shujian Zhang, Huangjie Zheng, Pengcheng He,
-  Mingyuan Zhou]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Byzantines can also Learn from History: Fall of Centered Clipping in
-  Federated Learning]]></title>
-        <id>http://arxiv.org/abs/2208.09894</id>
-        <link href="http://arxiv.org/abs/2208.09894"/>
-        <updated>2023-05-02T07:13:48.895Z</updated>
-        <summary type="html"><![CDATA[Kerem Ozfatura, Emre Ozfatura, Alptekin Kupcu, Deniz Gunduz]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Variational Inference for Bayesian Neural Networks under Model and
-  Parameter Uncertainty]]></title>
-        <id>http://arxiv.org/abs/2305.00934</id>
-        <link href="http://arxiv.org/abs/2305.00934"/>
-        <updated>2023-05-02T07:13:48.877Z</updated>
-        <summary type="html"><![CDATA[Aliaksandr Hubin, Geir Storvik]]></summary>
-        <author>
-            <name>arxivist feed</name>
         </author>
     </entry>
 </feed>
