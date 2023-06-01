@@ -6,6 +6,56 @@
       "siteUrl": "https://www.arxivist.com",
       "articles": [
         {
+          "id": "http://arxiv.org/abs/2305.19535",
+          "author": null,
+          "description": "Peter Chang, Gerardo Dur\\`an-Mart\\'in, Alexander Y Shestopaloff, Matt\n  Jones, Kevin Murphy",
+          "link": "http://arxiv.org/abs/2305.19535",
+          "publishedOn": "2023-06-01T07:14:05.921Z",
+          "wordCount": 626,
+          "title": "Low-rank extended Kalman filtering for online learning of neural\n  networks from streaming data",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2305.19588",
+          "author": null,
+          "description": "Davin Choo, Themis Gouleakis, Arnab Bhattacharyya",
+          "link": "http://arxiv.org/abs/2305.19588",
+          "publishedOn": "2023-06-01T07:14:05.907Z",
+          "wordCount": 679,
+          "title": "Active causal structure learning with advice",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2305.19640",
+          "author": null,
+          "description": "Junyu Zhou, Shuo Huang, Han Feng, Ding-Xuan Zhou",
+          "link": "http://arxiv.org/abs/2305.19640",
+          "publishedOn": "2023-06-01T07:14:05.886Z",
+          "wordCount": 578,
+          "title": "Optimal Estimates for Pairwise Learning with Deep ReLU Networks",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2305.19420",
+          "author": null,
+          "description": "Yufeng Zhang, Fengzhuo Zhang, Zhuoran Yang, Zhaoran Wang",
+          "link": "http://arxiv.org/abs/2305.19420",
+          "publishedOn": "2023-06-01T07:14:05.878Z",
+          "wordCount": 713,
+          "title": "What and How does In-Context Learning Learn? Bayesian Model Averaging,\n  Parameterization, and Generalization",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2305.19440",
+          "author": null,
+          "description": "Hao Chen, Thomas Barthel",
+          "link": "http://arxiv.org/abs/2305.19440",
+          "publishedOn": "2023-06-01T07:14:05.872Z",
+          "wordCount": 687,
+          "title": "Machine learning with tree tensor networks, CP rank constraints, and\n  tensor dropout",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
           "id": "http://arxiv.org/abs/1905.09195",
           "author": null,
           "description": "Satoshi Hayakawa, Taiji Suzuki",
