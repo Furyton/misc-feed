@@ -1110,28 +1110,7 @@
       "title": "Parsiad Azimzadeh",
       "feedUrl": "http://parsiad.ca/feed.xml",
       "siteUrl": "https://parsiad.ca/",
-      "articles": [
-        {
-          "id": "https://parsiad.ca/blog/2023/the_geometric_mean_rate_of_return/",
-          "author": null,
-          "description": "Consider a horizon of disjoint periods labelled $1$ through $N$. On the entire horizon, an asset with a rate of return $r_n$ on the $n$-th period has a geometric mean rate of return of \\begin{equation} \\overline{r} = \\left( \\prod_{n = 1}^N \\left(1 + r_n\\right) \\right)^{1 / N} - 1. \\end{equation} Note in particular that \\begin{equation} \\left(1 + \\overline{r}\\right)^N = \\prod_{n = 1}^N \\left(1 + r_n\\right). \\end{equation} In other words, a hypothetical asset whose rate of return is equal to $\\overline{r}$ on all $N$ periods yields the same return (over the horizon) as the original asset.",
-          "link": "https://parsiad.ca/blog/2023/the_geometric_mean_rate_of_return/",
-          "publishedOn": "2023-05-02T20:00:00.000Z",
-          "wordCount": 241,
-          "title": "The geometric mean rate of return",
-          "imageUrl": null
-        },
-        {
-          "id": "https://parsiad.ca/blog/2023/uncorrelated_coordinates_in_pca/",
-          "author": null,
-          "description": "Let $X$ be an $N\\times p$ real matrix. Let $D$ be a real diagonal matrix, $w$ be a vector of nonnegative weights that sum to one, and \\begin{equation} Y=\\left(X-\\frac{1}{N}ee^{\\intercal}X\\right)D^{-1}. \\end{equation} $Y$ is a demeaned and rescaled version of $X$.",
-          "link": "https://parsiad.ca/blog/2023/uncorrelated_coordinates_in_pca/",
-          "publishedOn": "2023-05-02T20:00:00.000Z",
-          "wordCount": 306,
-          "title": "Uncorrelated coordinates in PCA",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Windows On Theory",
