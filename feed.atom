@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-06-01T13:18:11.600Z</updated>
+    <updated>2023-06-01T14:13:25.446Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA["Wordectomy"]]></title>
+        <id>https://languagelog.ldc.upenn.edu/nll/?p=58838</id>
+        <link href="https://languagelog.ldc.upenn.edu/nll/?p=58838&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=wordectomy"/>
+        <updated>2023-06-01T13:37:16.000Z</updated>
+        <summary type="html"><![CDATA[The medical news site MedPage Today has recently added a daily game page, "Wordectomy", in which a medically-relevant Wikipedia article is presented with all letters blanked out except for punctuation and (some) function words, e.g. The instructions: Welcome to Wordectomy — a word game from MedPage Today where you try to determine what medical condition is […]]]></summary>
+        <author>
+            <name>Mark Liberman</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Low-rank extended Kalman filtering for online learning of neural
   networks from streaming data]]></title>
