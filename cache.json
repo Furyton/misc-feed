@@ -1569,6 +1569,16 @@
       "siteUrl": "https://xianblog.wordpress.com",
       "articles": [
         {
+          "id": "http://xianblog.wordpress.com/?p=53169",
+          "author": "xi'an",
+          "description": "Visit the post for more.",
+          "link": "https://xianblog.wordpress.com/2023/06/03/van-dantzig-seminar/",
+          "publishedOn": "2023-06-02T22:23:48.000Z",
+          "wordCount": 1732,
+          "title": "van Dantzig seminar",
+          "imageUrl": "https://xianblog.files.wordpress.com/2023/06/temp.png"
+        },
+        {
           "id": "http://xianblog.wordpress.com/?p=53139",
           "author": "xi'an",
           "description": "A riddle on a form of a Galton-Watson process, starting from a single unit, where no one dies but rather, at each of 100 generations, Dog either opts for a Uniform number υ of additional units or increments a counter γ by this number υ, its goal being to optimise γ. The solution proposed by […]",
