@@ -984,56 +984,6 @@
           "wordCount": 688,
           "title": "AutoML-GPT: Automatic Machine Learning with GPT",
           "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
-        },
-        {
-          "id": "http://arxiv.org/abs/2302.08893",
-          "author": null,
-          "description": "Davide Cacciarelli, Murat Kulahci",
-          "link": "http://arxiv.org/abs/2302.08893",
-          "publishedOn": "2023-05-04T07:14:32.958Z",
-          "wordCount": 741,
-          "title": "A survey on online active learning",
-          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
-        },
-        {
-          "id": "http://arxiv.org/abs/2305.01807",
-          "author": null,
-          "description": "Saurabh Sihag, Gonzalo Mateos, Corey T. McMillan, Alejandro Ribeiro",
-          "link": "http://arxiv.org/abs/2305.01807",
-          "publishedOn": "2023-05-04T07:14:32.172Z",
-          "wordCount": 791,
-          "title": "Transferablility of coVariance Neural Networks and Application to\n  Interpretable Brain Age Prediction using Anatomical Features",
-          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
-        },
-        {
-          "id": "http://arxiv.org/abs/2305.01773",
-          "author": null,
-          "description": "Andreas Look, Melih Kandemir, Barbara Rakitsch, Jan Peters",
-          "link": "http://arxiv.org/abs/2305.01773",
-          "publishedOn": "2023-05-04T07:14:31.666Z",
-          "wordCount": 753,
-          "title": "Cheap and Deterministic Inference for Deep State-Space Models of\n  Interacting Dynamical Systems",
-          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
-        },
-        {
-          "id": "http://arxiv.org/abs/2302.02865",
-          "author": null,
-          "description": "Michael Kirchhof, Enkelejda Kasneci, Seong Joon Oh",
-          "link": "http://arxiv.org/abs/2302.02865",
-          "publishedOn": "2023-05-04T07:14:31.419Z",
-          "wordCount": 688,
-          "title": "Probabilistic Contrastive Learning Recovers the Correct Aleatoric\n  Uncertainty of Ambiguous Inputs",
-          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
-        },
-        {
-          "id": "http://arxiv.org/abs/2305.02009",
-          "author": null,
-          "description": "Marco Scutari",
-          "link": "http://arxiv.org/abs/2305.02009",
-          "publishedOn": "2023-05-04T07:14:31.413Z",
-          "wordCount": 697,
-          "title": "fairml: A Statistician's Take on Fair Machine Learning Modelling",
-          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
         }
       ]
     },
@@ -2141,6 +2091,16 @@
       "feedUrl": "https://languagelog.ldc.upenn.edu/nll/?feed=rss2",
       "siteUrl": "https://languagelog.ldc.upenn.edu/nll",
       "articles": [
+        {
+          "id": "https://languagelog.ldc.upenn.edu/nll/?p=58855",
+          "author": "Victor Mair",
+          "description": "Handbook of Formosan Languages (Online): The Indigenous Languages of Taiwan Editors: Paul Jen-kuei Li, Academia SinicaElizabeth Zeitoun, Academia SinicaRik De Busser, National Taiwan Cheng-Chi University Leiden:  Brill, 2023 Outright Purchase: € 2249 / US dollars 2495Subscription: € 350 / US dollars 390 A print version is forthcoming (September 2023 ; 3 vols, ~ 2200 pp.) […]",
+          "link": "https://languagelog.ldc.upenn.edu/nll/?p=58855&utm_source=rss&utm_medium=rss&utm_campaign=austronesian-languages-of-taiwan",
+          "publishedOn": "2023-06-02T19:27:48.000Z",
+          "wordCount": 2342,
+          "title": "Austronesian languages of Taiwan",
+          "imageUrl": null
+        },
         {
           "id": "https://languagelog.ldc.upenn.edu/nll/?p=58857",
           "author": "Mark Liberman",

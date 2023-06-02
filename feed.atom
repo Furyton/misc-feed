@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-06-02T19:11:34.611Z</updated>
+    <updated>2023-06-02T20:14:55.826Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Austronesian languages of Taiwan]]></title>
+        <id>https://languagelog.ldc.upenn.edu/nll/?p=58855</id>
+        <link href="https://languagelog.ldc.upenn.edu/nll/?p=58855&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=austronesian-languages-of-taiwan"/>
+        <updated>2023-06-02T19:27:48.000Z</updated>
+        <summary type="html"><![CDATA[Handbook of Formosan Languages (Online): The Indigenous Languages of Taiwan Editors: Paul Jen-kuei Li, Academia SinicaElizabeth Zeitoun, Academia SinicaRik De Busser, National Taiwan Cheng-Chi University Leiden:  Brill, 2023 Outright Purchase: € 2249 / US dollars 2495Subscription: € 350 / US dollars 390 A print version is forthcoming (September 2023 ; 3 vols, ~ 2200 pp.) […]]]></summary>
+        <author>
+            <name>Victor Mair</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AVFormer: Injecting vision into frozen speech models for zero-shot AV-ASR]]></title>
         <id>http://ai.googleblog.com/2023/06/avformer-injecting-vision-into-frozen.html</id>
@@ -2426,59 +2436,6 @@ Vision-language foundational models are built on the premise of a single pre-tra
         <summary type="html"><![CDATA[“…many well-known learning-algorithms, such as those used in optimization, deep learning, and machine learning in general, can now be derived directly following the above scheme using a single algorithm” The One World ABC webinar today was delivered by Emtiyaz Khan (RIKEN), about the Bayesian Learning Rule, following Khan and Rue 2021 arXival on Bayesian learning. […]]]></summary>
         <author>
             <name>xi'an</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A survey on online active learning]]></title>
-        <id>http://arxiv.org/abs/2302.08893</id>
-        <link href="http://arxiv.org/abs/2302.08893"/>
-        <updated>2023-05-04T07:14:32.958Z</updated>
-        <summary type="html"><![CDATA[Davide Cacciarelli, Murat Kulahci]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Transferablility of coVariance Neural Networks and Application to
-  Interpretable Brain Age Prediction using Anatomical Features]]></title>
-        <id>http://arxiv.org/abs/2305.01807</id>
-        <link href="http://arxiv.org/abs/2305.01807"/>
-        <updated>2023-05-04T07:14:32.172Z</updated>
-        <summary type="html"><![CDATA[Saurabh Sihag, Gonzalo Mateos, Corey T. McMillan, Alejandro Ribeiro]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cheap and Deterministic Inference for Deep State-Space Models of
-  Interacting Dynamical Systems]]></title>
-        <id>http://arxiv.org/abs/2305.01773</id>
-        <link href="http://arxiv.org/abs/2305.01773"/>
-        <updated>2023-05-04T07:14:31.666Z</updated>
-        <summary type="html"><![CDATA[Andreas Look, Melih Kandemir, Barbara Rakitsch, Jan Peters]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Probabilistic Contrastive Learning Recovers the Correct Aleatoric
-  Uncertainty of Ambiguous Inputs]]></title>
-        <id>http://arxiv.org/abs/2302.02865</id>
-        <link href="http://arxiv.org/abs/2302.02865"/>
-        <updated>2023-05-04T07:14:31.419Z</updated>
-        <summary type="html"><![CDATA[Michael Kirchhof, Enkelejda Kasneci, Seong Joon Oh]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[fairml: A Statistician's Take on Fair Machine Learning Modelling]]></title>
-        <id>http://arxiv.org/abs/2305.02009</id>
-        <link href="http://arxiv.org/abs/2305.02009"/>
-        <updated>2023-05-04T07:14:31.413Z</updated>
-        <summary type="html"><![CDATA[Marco Scutari]]></summary>
-        <author>
-            <name>arxivist feed</name>
         </author>
     </entry>
 </feed>
