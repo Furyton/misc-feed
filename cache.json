@@ -1949,6 +1949,16 @@
       "siteUrl": "http://ai.googleblog.com/",
       "articles": [
         {
+          "id": "http://ai.googleblog.com/2023/06/avformer-injecting-vision-into-frozen.html",
+          "author": null,
+          "description": "Posted by Arsha Nagrani and Paul Hongsuck Seo, Research Scientists, Google Research\n\n\n\n\n\n\nAutomatic speech recognition (ASR) is a well-established technology that is widely adopted for various applications such as conference calls, streamed video transcription and voice commands. While the challenges for this technology are centered around noisy audio inputs, the visual stream in multimodal videos (e.g., TV, online edited videos) can provide strong cues for improving the robustness of ASR systems — this is called audiovisual ASR (AV-ASR).\n \n\nAlthough lip motion can provide strong signals for speech recognition and is the most common area of focus for AV-ASR, the mouth is often not directly visible in videos in the wild (e.g., due to egocentric viewpoints, face coverings, and low resolution…",
+          "link": "http://ai.googleblog.com/2023/06/avformer-injecting-vision-into-frozen.html",
+          "publishedOn": "2023-06-02T17:02:00.000Z",
+          "wordCount": 27574,
+          "title": "AVFormer: Injecting vision into frozen speech models for zero-shot AV-ASR",
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgEpnVot9nisUn-B5GierK8WfqI_mhVwKmJ1mjj_FOdOr2_74gIwvwSJgobi8K_a1uq9n5B3pO4Zi5-mXoE0mzOw32WW-ny6kBThTgHIv3wtQVrpjdMdhMYCSqustzlN7ArP3y2jSqEy_2rlz_zXfsfp05Z3svQ7bu8rYJAN6V1ellHjbL-SJOHraUHEQ/w1200-h630-p-k-no-nu/AVFormer.png"
+        },
+        {
           "id": "http://ai.googleblog.com/2023/06/retrieval-augmented-visual-language-pre.html",
           "author": null,
           "description": "Posted by Ziniu Hu, Student Researcher, and Alireza Fathi, Research Scientist, Google Research, Perception Team\n\n\n\n\n\nLarge-scale models, such as T5, GPT-3, PaLM, Flamingo and PaLI, have demonstrated the ability to store substantial amounts of knowledge when scaled to tens of billions of parameters and trained on large text and image datasets. These models achieve state-of-the-art results on downstream tasks, such as image captioning, visual question answering and open vocabulary recognition. Despite such achievements, these models require a massive volume of data for training and end up with a tremendous number of parameters (billions in many cases), resulting in significant computational requirements. Moreover, the data used to train these models can become outdated, requiring re-training…",
