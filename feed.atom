@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-06-02T11:13:12.948Z</updated>
+    <updated>2023-06-02T12:30:53.272Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Historical speech styles]]></title>
+        <id>https://languagelog.ldc.upenn.edu/nll/?p=58857</id>
+        <link href="https://languagelog.ldc.upenn.edu/nll/?p=58857&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=historical-speech-styles"/>
+        <updated>2023-06-02T11:48:13.000Z</updated>
+        <summary type="html"><![CDATA[A recent Dinosaur Comics strip features T-Rex imitating (a certain kind of) speech style from the 1940s: Mouseover title: "to t-rex's mind, and mine as well, all of the past takes place around the 1930s. well sure! and why not?" The next strip: Mouseover title: "you want a gender-neutral way to address a room, well here […]]]></summary>
+        <author>
+            <name>Mark Liberman</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[On the Expressive Power of Neural Networks]]></title>
         <id>http://arxiv.org/abs/2306.00145</id>
