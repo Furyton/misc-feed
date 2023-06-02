@@ -2067,16 +2067,6 @@
           "wordCount": 27734,
           "title": "MaMMUT: A simple vision-encoder text-decoder architecture for multimodal tasks",
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh53KlJZUXTHEd1ZhRav_9Hwl-MzCVTzans8VhEzushmfeKHUBfNDKTIPpVEbrDhtxlZWeBgLYsIsi6krB_GefP0SrNX-92H3eunTcCwjAH_t2KBW8wVMzZlvYbiltJM5xMFhy9Euclq7q33HgKgdvmsoXnOIbL-RkGMDeHn_ocy2puVKIqfkJ05REmuA/w1200-h630-p-k-no-nu/MAMMUT.png"
-        },
-        {
-          "id": "http://ai.googleblog.com/2023/05/indoorsim-to-outdoorreal-learning-to.html",
-          "author": null,
-          "description": "Posted by Joanne Truong, Student Researcher, and Wenhao Yu, Research Scientist, Robotics at Google\n\n\n\n\n\nTeaching mobile robots to navigate in complex outdoor environments is critical to real-world applications, such as delivery or search and rescue. However, this is also a challenging problem as the robot needs to perceive its surroundings, and then explore to identify feasible paths towards the goal. Another common challenge is that the robot needs to overcome uneven terrains, such as stairs, curbs, or rockbed on a trail, while avoiding obstacles and pedestrians. In our prior work, we investigated the second challenge by teaching a quadruped robot to tackle challenging uneven obstacles and various outdoor terrains. \n\n\n\nIn “IndoorSim-to-OutdoorReal: Learning to Navigate Outdoors without an…",
-          "link": "http://ai.googleblog.com/2023/05/indoorsim-to-outdoorreal-learning-to.html",
-          "publishedOn": "2023-05-03T17:22:00.000Z",
-          "wordCount": 27868,
-          "title": "IndoorSim-to-OutdoorReal: Learning to navigate outdoors without any outdoor experience",
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhmX_nD3A8PWm8-BTB-ACmoSoiFt16URvxjvqYmkYFTTDdB8ykipmO9QH3mUTi5fWgoPe3A-LEfG4McZfZPmxj2WxI_g2TMr5qTDxYXjgqgGDd_CBBcjyWJIpAE_pHlFWtxvmkHM68E3TeodFyF_YvLC1Gtw1cGQaERfhIcq1jelMX-73KtlyqXzJ1D8g/w1200-h630-p-k-no-nu/IndoorSim-to-OutdoorReal%20hero.jpeg"
         }
       ]
     },
