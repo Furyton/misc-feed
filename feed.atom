@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-06-03T19:12:28.356Z</updated>
+    <updated>2023-06-03T20:15:36.946Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -1828,6 +1828,40 @@ Prior research has investigated several important technical building blocks to e
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[07/06 1pm-2pm: CRiSM Seminar]]></title>
+        <id>8a1785d7880083fb01880ee837704378</id>
+        <link href="https://warwick.ac.uk/fac/sci/statistics/event_diary/?calendarItem=8a17841b835b10a4018360b5677a44f9"/>
+        <updated>2023-05-12T07:41:19.000Z</updated>
+        <summary type="html"><![CDATA[When:
+	
+  		13:00
+		-
+		14:00, Wed, 07 Jun '23
+
+	
+Where: MB0.07]]></summary>
+        <author>
+            <name>Statistics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[21/06 1pm-2pm: CRiSM Seminar]]></title>
+        <id>8a1785d7880083fb01880ee837704379</id>
+        <link href="https://warwick.ac.uk/fac/sci/statistics/event_diary/?calendarItem=8a17841b835b10a4018360b5677a44f9"/>
+        <updated>2023-05-12T07:41:19.000Z</updated>
+        <summary type="html"><![CDATA[When:
+	
+  		13:00
+		-
+		14:00, Wed, 21 Jun '23
+
+	
+Where: MB0.07]]></summary>
+        <author>
+            <name>Statistics</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Risk-limiting Financial Audits via Weighted Sampling without Replacement]]></title>
         <id>http://arxiv.org/abs/2305.06884</id>
         <link href="http://arxiv.org/abs/2305.06884"/>
@@ -2307,57 +2341,6 @@ For decades, researchers worked together to assemble a complete copy of the mole
         <summary type="html"><![CDATA[Visit the post for more.]]></summary>
         <author>
             <name>xi'an</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Statistical Optimality of Deep Wide Neural Networks]]></title>
-        <id>http://arxiv.org/abs/2305.02657</id>
-        <link href="http://arxiv.org/abs/2305.02657"/>
-        <updated>2023-05-05T07:13:30.015Z</updated>
-        <summary type="html"><![CDATA[Yicheng Li, Zixiong Yu, Guhan Chen, Qian Lin]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Non-linear Functional Modeling using Neural Networks]]></title>
-        <id>http://arxiv.org/abs/2104.09371</id>
-        <link href="http://arxiv.org/abs/2104.09371"/>
-        <updated>2023-05-05T07:13:30.009Z</updated>
-        <summary type="html"><![CDATA[Aniruddha Rajendra Rao, Matthew Reimherr]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sequential Training of Neural Networks with Gradient Boosting]]></title>
-        <id>http://arxiv.org/abs/1909.12098</id>
-        <link href="http://arxiv.org/abs/1909.12098"/>
-        <updated>2023-05-05T07:13:30.002Z</updated>
-        <summary type="html"><![CDATA[Seyedsaman Emami, Gonzalo Mart\'inez-Mu\~noz]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Joint Graph Learning and Model Fitting in Laplacian Regularized
-  Stratified Models]]></title>
-        <id>http://arxiv.org/abs/2305.02573</id>
-        <link href="http://arxiv.org/abs/2305.02573"/>
-        <updated>2023-05-05T07:13:29.977Z</updated>
-        <summary type="html"><![CDATA[Ziheng Cheng, Junzi Zhang, Akshay Agrawal, Stephen Boyd]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AutoML-GPT: Automatic Machine Learning with GPT]]></title>
-        <id>http://arxiv.org/abs/2305.02499</id>
-        <link href="http://arxiv.org/abs/2305.02499"/>
-        <updated>2023-05-05T07:13:29.971Z</updated>
-        <summary type="html"><![CDATA[Shujian Zhang, Chengyue Gong, Lemeng Wu, Xingchao Liu, Mingyuan Zhou]]></summary>
-        <author>
-            <name>arxivist feed</name>
         </author>
     </entry>
 </feed>
