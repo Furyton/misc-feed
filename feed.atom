@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-06-03T03:14:44.034Z</updated>
+    <updated>2023-06-03T04:17:23.886Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -2446,16 +2446,6 @@ Read more...]]></summary>
 Vision-language foundational models are built on the premise of a single pre-training followed by subsequent adaptation to multiple downstream tasks. Two main and disjoint training scenarios are popular: a CLIP-style contrastive learning and next-token prediction. Contrastive learning trains the model to predict if image-text pairs correctly match, effectively building visual and text representations for the corresponding image and text inputs, whereas next-token prediction predicts the most likely next text token in a sequence, thus learning to generate text, according to the required task. Contrastive learning enables image-text and text-image retrieval tasks, such as finding the image that best match…]]></summary>
         <author>
             <name>Google AI Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bayesian learning]]></title>
-        <id>http://xianblog.wordpress.com/?p=52879</id>
-        <link href="https://xianblog.wordpress.com/2023/05/04/bayesian-learning/"/>
-        <updated>2023-05-04T16:01:52.000Z</updated>
-        <summary type="html"><![CDATA[“…many well-known learning-algorithms, such as those used in optimization, deep learning, and machine learning in general, can now be derived directly following the above scheme using a single algorithm” The One World ABC webinar today was delivered by Emtiyaz Khan (RIKEN), about the Bayesian Learning Rule, following Khan and Rue 2021 arXival on Bayesian learning. […]]]></summary>
-        <author>
-            <name>xi'an</name>
         </author>
     </entry>
 </feed>
