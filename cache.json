@@ -2087,16 +2087,6 @@
           "wordCount": 27886,
           "title": "Building better pangenomes to improve the equity of genomics",
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgDfvV8C3uALQpVcvYLeqdbLBXoX0ZvSQC76l4SVp4xHq7xGKRDRLuxKYKsZzc5e3gVPp2yyhO4R4YgoXNQreJH4RYSQNlIy7cG57e0bviTgMKeEtubq0kt7q4Ei2uF4fjgqo9qjiT8kXjo9LamEZ4iWHkq6bV80Vu0LYFQ1dTwJCnzSdfpoeZfZuVZzw/w1200-h630-p-k-no-nu/image4.png"
-        },
-        {
-          "id": "http://ai.googleblog.com/2023/05/mammut-simple-vision-encoder-text.html",
-          "author": null,
-          "description": "Posted by AJ Piergiovanni and Anelia Angelova, Research Scientists, Google Research\n\n\n\n\nVision-language foundational models are built on the premise of a single pre-training followed by subsequent adaptation to multiple downstream tasks. Two main and disjoint training scenarios are popular: a CLIP-style contrastive learning and next-token prediction. Contrastive learning trains the model to predict if image-text pairs correctly match, effectively building visual and text representations for the corresponding image and text inputs, whereas next-token prediction predicts the most likely next text token in a sequence, thus learning to generate text, according to the required task. Contrastive learning enables image-text and text-image retrieval tasks, such as finding the image that best match…",
-          "link": "http://ai.googleblog.com/2023/05/mammut-simple-vision-encoder-text.html",
-          "publishedOn": "2023-05-04T21:59:00.004Z",
-          "wordCount": 27734,
-          "title": "MaMMUT: A simple vision-encoder text-decoder architecture for multimodal tasks",
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh53KlJZUXTHEd1ZhRav_9Hwl-MzCVTzans8VhEzushmfeKHUBfNDKTIPpVEbrDhtxlZWeBgLYsIsi6krB_GefP0SrNX-92H3eunTcCwjAH_t2KBW8wVMzZlvYbiltJM5xMFhy9Euclq7q33HgKgdvmsoXnOIbL-RkGMDeHn_ocy2puVKIqfkJ05REmuA/w1200-h630-p-k-no-nu/MAMMUT.png"
         }
       ]
     },
