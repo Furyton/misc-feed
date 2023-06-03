@@ -1272,16 +1272,6 @@
           "wordCount": 1898,
           "title": "Choosing a good file format for Pandas",
           "imageUrl": "https://pythonspeed.com/assets/titles/best-file-format-for-pandas.png"
-        },
-        {
-          "id": "https://pythonspeed.com/articles/externally-managed-environment-pep-668/",
-          "author": null,
-          "description": "You’re on a new version of Linux, you try a pip install, and it errors out, talking about “externally managed environments” and “PEP 668”.\nWhat’s going on?\nHow do you solve this?\nLet’s see:\nWhat the problem looks like, and what causes it.\nThe places you are likely to encounter it.\nA variety of solutions, depending on your use case.\nRead more...",
-          "link": "https://pythonspeed.com/articles/externally-managed-environment-pep-668/",
-          "publishedOn": "2023-05-05T00:00:00.000Z",
-          "wordCount": 1785,
-          "title": "\"Externally managed environments\": when PEP 668 breaks pip",
-          "imageUrl": "https://pythonspeed.com/assets/titles/externally-managed-environment-pep-668.png"
         }
       ]
     },
@@ -2091,6 +2081,16 @@
       "feedUrl": "https://languagelog.ldc.upenn.edu/nll/?feed=rss2",
       "siteUrl": "https://languagelog.ldc.upenn.edu/nll",
       "articles": [
+        {
+          "id": "https://languagelog.ldc.upenn.edu/nll/?p=58874",
+          "author": "Victor Mair",
+          "description": "I recently received this book: Sūn Sīmiǎo, Sabine Wilms.  Healing Virtue-Power: Medical Ethics and the Doctor's Dao.  Whidbey Island WA:  Happy Goat Productions, 2022. ISBN:  978-1-7321571-9-4 website As soon as I started to leaf through the volume, I was struck by its unusual format and usages:  every Chinese character is accompanied by Hanyu Pinyin phonetic […]",
+          "link": "https://languagelog.ldc.upenn.edu/nll/?p=58874&utm_source=rss&utm_medium=rss&utm_campaign=sinological-formatting",
+          "publishedOn": "2023-06-03T12:02:31.000Z",
+          "wordCount": 2665,
+          "title": "Sinological formatting",
+          "imageUrl": null
+        },
         {
           "id": "https://languagelog.ldc.upenn.edu/nll/?p=58869",
           "author": "Victor Mair",
