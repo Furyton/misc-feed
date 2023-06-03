@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-06-03T15:13:37.065Z</updated>
+    <updated>2023-06-03T16:19:06.801Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -2436,16 +2436,6 @@ Where: MB0.07]]></summary>
         <summary type="html"><![CDATA[From 9 Chickweed Lane (4/28/23): (source) Question from Francois Lang, who sent this in:   "Don't agonized screams have semantic or pragmatic content?" Selected readings "More 'screaming and spluttering' from Matthew Engel" (7/21/11) "The emerging science of gendered yelling" (9/5/06)]]></summary>
         <author>
             <name>Victor Mair</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何度量数据的稀疏程度？]]></title>
-        <id>https://kexue.fm/archives/9595</id>
-        <link href="https://kexue.fm/archives/9595"/>
-        <updated>2023-05-05T03:19:00.000Z</updated>
-        <summary type="html"><![CDATA[在机器学习中，我们经常会谈到稀疏性，比如我们经常说注意力矩阵通常是很稀疏的。然而，不知道大家发现没有，我们似乎从没有给出过度量稀疏程度的标准方法。也就是说，以往我们关于稀疏性的讨论，仅仅是直观层...]]></summary>
-        <author>
-            <name>苏剑林</name>
         </author>
     </entry>
 </feed>
