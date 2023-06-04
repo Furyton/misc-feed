@@ -1827,16 +1827,6 @@
           "wordCount": 1852,
           "title": "Kimono exhibition",
           "imageUrl": "https://xianblog.files.wordpress.com/2023/04/2023-04-30_00-55-06-e1682881970127.jpg"
-        },
-        {
-          "id": "http://xianblog.wordpress.com/?p=52904",
-          "author": "xi'an",
-          "description": "Visit the post for more.",
-          "link": "https://xianblog.wordpress.com/2023/05/06/napaljarri-wanu-jukurrpa/",
-          "publishedOn": "2023-05-05T22:23:30.000Z",
-          "wordCount": 1729,
-          "title": "Napaljarri-wanu Jukurrpa",
-          "imageUrl": "https://xianblog.files.wordpress.com/2023/04/2023-04-29_23-50-43.jpg"
         }
       ]
     },
@@ -2051,6 +2041,21 @@
       "feedUrl": "https://languagelog.ldc.upenn.edu/nll/?feed=rss2",
       "siteUrl": "https://languagelog.ldc.upenn.edu/nll",
       "articles": [
+        {
+          "id": "https://languagelog.ldc.upenn.edu/nll/?p=58927",
+          "author": "Mark Liberman",
+          "description": "Last month I learned a new word, shiesty — which rhymes with feisty, as if it were written \"sheisty\" — because shiesties have been banned on the local transit system (\"SEPTA\"): Your browser does not support the audio element. Keith, I'm sure if you walked around Philadelphia, live in Philadelphia, work in Philadelphia, you've seen […]",
+          "link": "https://languagelog.ldc.upenn.edu/nll/?p=58927&utm_source=rss&utm_medium=rss&utm_campaign=the-rise-and-fall-of-shiesties",
+          "publishedOn": "2023-06-04T10:52:10.000Z",
+          "wordCount": 2377,
+          "title": "The rise (and fall?) of shiesties",
+          "enclosure": {
+            "url": "https://languagelog.ldc.upenn.edu/myl/Shiesty1.wav",
+            "length": "923746",
+            "type": "audio/wav"
+          },
+          "imageUrl": null
+        },
         {
           "id": "https://languagelog.ldc.upenn.edu/nll/?p=58921",
           "author": "Victor Mair",
