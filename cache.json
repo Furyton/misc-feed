@@ -1251,18 +1251,7 @@
       "title": "Jeremy Jordan",
       "feedUrl": "https://www.jeremyjordan.me/rss/",
       "siteUrl": "https://www.jeremyjordan.me/",
-      "articles": [
-        {
-          "id": "64489047578bbf003dccd8e8",
-          "author": "Jeremy Jordan",
-          "description": "The attention mechanism allows us to merge a variable-length sequence of vectors into a fixed-size context vector. What if we could use this mechanism to entirely replace recurrence for sequential modeling? This blog post covers the Transformer architecture which explores such an approach.",
-          "link": "https://www.jeremyjordan.me/transformer-architecture/",
-          "publishedOn": "2023-05-06T18:17:57.000Z",
-          "wordCount": 3943,
-          "title": "Understanding the Transformer architecture for neural networks",
-          "imageUrl": "https://www.jeremyjordan.me/content/images/2022/01/trolltunga.png"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Jay Alammar",
