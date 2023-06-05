@@ -2,10 +2,67 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-06-05T06:19:41.283Z</updated>
+    <updated>2023-06-05T07:13:49.722Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Towards Understanding the Dynamics of Gaussian-Stein Variational
+  Gradient Descent]]></title>
+        <id>http://arxiv.org/abs/2305.14076</id>
+        <link href="http://arxiv.org/abs/2305.14076"/>
+        <updated>2023-06-05T07:13:47.914Z</updated>
+        <summary type="html"><![CDATA[Tianle Liu, Promit Ghosal, Krishnakumar Balasubramanian, Natesh S.
+  Pillai]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linked Deep Gaussian Process Emulation for Model Networks]]></title>
+        <id>http://arxiv.org/abs/2306.01212</id>
+        <link href="http://arxiv.org/abs/2306.01212"/>
+        <updated>2023-06-05T07:13:47.903Z</updated>
+        <summary type="html"><![CDATA[Deyu Ming, Daniel Williamson]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Towards Understanding Generalization of Macro-AUC in Multi-label
+  Learning]]></title>
+        <id>http://arxiv.org/abs/2305.05248</id>
+        <link href="http://arxiv.org/abs/2305.05248"/>
+        <updated>2023-06-05T07:13:47.890Z</updated>
+        <summary type="html"><![CDATA[Guoqiang Wu, Chongxuan Li, Yilong Yin]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Developing A Visual-Interactive Interface for Electronic Health Record
+  Labeling: An Explainable Machine Learning Approach]]></title>
+        <id>http://arxiv.org/abs/2209.12778</id>
+        <link href="http://arxiv.org/abs/2209.12778"/>
+        <updated>2023-06-05T07:13:47.871Z</updated>
+        <summary type="html"><![CDATA[Donlapark Ponnoprat, Parichart Pattarapanitchai, Phimphaka Taninpong,
+  Suthep Suantai, Natthanaphop Isaradech, Thiraphat Tanphiriyakun]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hyperparameter Learning under Data Poisoning: Analysis of the Influence
+  of Regularization via Multiobjective Bilevel Optimization]]></title>
+        <id>http://arxiv.org/abs/2306.01613</id>
+        <link href="http://arxiv.org/abs/2306.01613"/>
+        <updated>2023-06-05T07:13:47.865Z</updated>
+        <summary type="html"><![CDATA[Javier Carnerero-Cano, Luis Mu\~noz-Gonz\'alez, Phillippa Spencer,
+  Emil C. Lupu]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[fusing simulation with data science [18-19 July 2023]]]></title>
         <id>http://xianblog.wordpress.com/?p=53177</id>
