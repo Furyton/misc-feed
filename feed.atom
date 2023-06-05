@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-06-05T11:12:34.131Z</updated>
+    <updated>2023-06-05T12:33:09.395Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Bilingual road signs]]></title>
+        <id>https://languagelog.ldc.upenn.edu/nll/?p=58960</id>
+        <link href="https://languagelog.ldc.upenn.edu/nll/?p=58960&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=bilingual-road-signs"/>
+        <updated>2023-06-05T12:15:41.000Z</updated>
+        <summary type="html"><![CDATA[…in New Zealand. Phil Pennington, "Analysis: National opposed bilingual road signs, so what does the evidence say?", RNZ 62/2023: Analysis – Bilingual road signs send a signal – that the country values te reo Māori. But going bilingual was confusing and National would not support it, National's Simeon Brown told voters in blue-ribbon Tauranga recently. […]]]></summary>
+        <author>
+            <name>Mark Liberman</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Towards Understanding the Dynamics of Gaussian-Stein Variational
   Gradient Descent]]></title>
