@@ -2,10 +2,64 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-06-06T06:18:58.583Z</updated>
+    <updated>2023-06-06T07:14:08.146Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Deep Bayesian Active Learning for Accelerating Stochastic Simulation]]></title>
+        <id>http://arxiv.org/abs/2106.02770</id>
+        <link href="http://arxiv.org/abs/2106.02770"/>
+        <updated>2023-06-06T07:14:01.826Z</updated>
+        <summary type="html"><![CDATA[Dongxia Wu, Ruijia Niu, Matteo Chinazzi, Alessandro Vespignani, Yi-An
+  Ma, Rose Yu]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Alignment with human representations supports robust few-shot learning]]></title>
+        <id>http://arxiv.org/abs/2301.11990</id>
+        <link href="http://arxiv.org/abs/2301.11990"/>
+        <updated>2023-06-06T07:14:01.819Z</updated>
+        <summary type="html"><![CDATA[Ilia Sucholutsky, Thomas L. Griffiths]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[On Emergence of Clean-Priority Learning in Early Stopped Neural Networks]]></title>
+        <id>http://arxiv.org/abs/2306.02533</id>
+        <link href="http://arxiv.org/abs/2306.02533"/>
+        <updated>2023-06-06T07:14:01.813Z</updated>
+        <summary type="html"><![CDATA[Chaoyue Liu, Amirhesam Abedsoltan, Mikhail Belkin]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LibAUC: A Deep Learning Library for X-Risk Optimization]]></title>
+        <id>http://arxiv.org/abs/2306.03065</id>
+        <link href="http://arxiv.org/abs/2306.03065"/>
+        <updated>2023-06-06T07:14:01.438Z</updated>
+        <summary type="html"><![CDATA[Zhuoning Yuan, Dixian Zhu, Zi-Hao Qiu, Gang Li, Xuanhui Wang, Tianbao
+  Yang]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learning Linear Causal Representations from Interventions under General
+  Nonlinear Mixing]]></title>
+        <id>http://arxiv.org/abs/2306.02235</id>
+        <link href="http://arxiv.org/abs/2306.02235"/>
+        <updated>2023-06-06T07:14:01.143Z</updated>
+        <summary type="html"><![CDATA[Simon Buchholz, Goutham Rajendran, Elan Rosenfeld, Bryon Aragam,
+  Bernhard Sch\"olkopf, Pradeep Ravikumar]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Sinitic semiliteracy]]></title>
         <id>https://languagelog.ldc.upenn.edu/nll/?p=58917</id>
