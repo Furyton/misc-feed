@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-06-06T11:12:08.105Z</updated>
+    <updated>2023-06-06T12:31:28.629Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[LLMs as coders?]]></title>
+        <id>https://languagelog.ldc.upenn.edu/nll/?p=58977</id>
+        <link href="https://languagelog.ldc.upenn.edu/nll/?p=58977&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=llms-as-coders"/>
+        <updated>2023-06-06T12:19:14.000Z</updated>
+        <summary type="html"><![CDATA[I've recently seen many articles like this one, "You probably don't need to learn to code anymore" (Medium 6/5/2023), arguing that Large Language Models will make human programming (and human programmers) unnecessary. These arguments puzzle me, because my experience with LLMs suggests that they can't be relied on even for very simple programming tasks. After […]]]></summary>
+        <author>
+            <name>Mark Liberman</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Deep Bayesian Active Learning for Accelerating Stochastic Simulation]]></title>
         <id>http://arxiv.org/abs/2106.02770</id>
