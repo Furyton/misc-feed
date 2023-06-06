@@ -1958,6 +1958,16 @@
       "siteUrl": "http://ai.googleblog.com/",
       "articles": [
         {
+          "id": "http://ai.googleblog.com/2023/06/visual-captions-using-large-language.html",
+          "author": null,
+          "description": "Posted by Ruofei Du, Research Scientist, and Alex Olwal, Senior Staff Research Scientist, Google Augmented Reality\n\n\n\n\nRecent advances in video conferencing have significantly improved remote video communication through features like live captioning and noise cancellation. However, there are various situations where dynamic visual augmentation would be useful to better convey complex and nuanced information. For example, when discussing what to order at a Japanese restaurant, your friends could share visuals that would help you feel more confident about ordering the “Sukiyaki”. Or when talking about your recent family trip to San Francisco, you may want to show a photo from your personal album.\n\n\n\n\nIn “Visual Captions: Augmenting Verbal Communication With On-the-fly Visuals”, presented at …",
+          "link": "http://ai.googleblog.com/2023/06/visual-captions-using-large-language.html",
+          "publishedOn": "2023-06-06T16:58:00.000Z",
+          "wordCount": 27845,
+          "title": "Visual captions: Using large language models to augment video conferences with dynamic visuals",
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiuQA-vtXoNbaUU05FVACHS1vMdvtOxK5pcusTeWW2dkG9OpPiKHLtRuCbtNlAMX4TyRYYNNO0NMhCPTDsGDkVzs2FJvITsOknz8GcO4hJ7Eds57YVXdFtQW3fEzNxiLq0MQC2G3GW0ESfVqOBogCsbIDc1YfQpIgKsJm0idXET58ia266bNjb63HHuDw/w1200-h630-p-k-no-nu/VisualCaptions.gif"
+        },
+        {
           "id": "http://ai.googleblog.com/2023/06/avformer-injecting-vision-into-frozen.html",
           "author": null,
           "description": "Posted by Arsha Nagrani and Paul Hongsuck Seo, Research Scientists, Google Research\n\n\n\n\n\n\nAutomatic speech recognition (ASR) is a well-established technology that is widely adopted for various applications such as conference calls, streamed video transcription and voice commands. While the challenges for this technology are centered around noisy audio inputs, the visual stream in multimodal videos (e.g., TV, online edited videos) can provide strong cues for improving the robustness of ASR systems — this is called audiovisual ASR (AV-ASR).\n \n\nAlthough lip motion can provide strong signals for speech recognition and is the most common area of focus for AV-ASR, the mouth is often not directly visible in videos in the wild (e.g., due to egocentric viewpoints, face coverings, and low resolution…",
@@ -2140,6 +2150,16 @@
       "feedUrl": "https://languagelog.ldc.upenn.edu/nll/?feed=rss2",
       "siteUrl": "https://languagelog.ldc.upenn.edu/nll",
       "articles": [
+        {
+          "id": "https://languagelog.ldc.upenn.edu/nll/?p=58949",
+          "author": "Victor Mair",
+          "description": "Listen to Malaysian comedian Nigel Ng (aka \"Uncle Roger\"), who has had his Weibo and bilibili social media accounts banned due to \"violation of relevant regulations\": The ban comes one day after Ng uploaded this clip to various social media platforms. pic.twitter.com/8Wwf2aTrfZ — Aaron Busch (@tripperhead) May 19, 2023 Under the subject line \"Uncle Roger […]",
+          "link": "https://languagelog.ldc.upenn.edu/nll/?p=58949&utm_source=rss&utm_medium=rss&utm_campaign=sinitic-exclamations-in-english-speech",
+          "publishedOn": "2023-06-06T17:45:45.000Z",
+          "wordCount": 2205,
+          "title": "Sinitic exclamations in English speech",
+          "imageUrl": null
+        },
         {
           "id": "https://languagelog.ldc.upenn.edu/nll/?p=58977",
           "author": "Mark Liberman",
