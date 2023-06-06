@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-06-06T19:12:06.689Z</updated>
+    <updated>2023-06-06T20:15:09.630Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -2527,49 +2527,6 @@ For decades, researchers worked together to assemble a complete copy of the mole
         <summary type="html"><![CDATA[Visit the post for more.]]></summary>
         <author>
             <name>xi'an</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learning Node Representations against Perturbations]]></title>
-        <id>http://arxiv.org/abs/2008.11416</id>
-        <link href="http://arxiv.org/abs/2008.11416"/>
-        <updated>2023-05-08T07:14:23.586Z</updated>
-        <summary type="html"><![CDATA[Xu Chen, Yuangang Pan, Ivor Tsang, Ya Zhang]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Random Smoothing Regularization in Kernel Gradient Descent Learning]]></title>
-        <id>http://arxiv.org/abs/2305.03531</id>
-        <link href="http://arxiv.org/abs/2305.03531"/>
-        <updated>2023-05-08T07:14:23.581Z</updated>
-        <summary type="html"><![CDATA[Liang Ding, Tianyang Hu, Jiahang Jiang, Donghao Li, Wenjia Wang, Yuan
-  Yao]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Recipes for when Physics Fails: Recovering Robust Learning of Physics
-  Informed Neural Networks]]></title>
-        <id>http://arxiv.org/abs/2110.13330</id>
-        <link href="http://arxiv.org/abs/2110.13330"/>
-        <updated>2023-05-08T07:14:23.576Z</updated>
-        <summary type="html"><![CDATA[Chandrajit Bajaj, Luke McLennan, Timothy Andeen, Avik Roy]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sparsifying Bayesian neural networks with latent binary variables and
-  normalizing flows]]></title>
-        <id>http://arxiv.org/abs/2305.03395</id>
-        <link href="http://arxiv.org/abs/2305.03395"/>
-        <updated>2023-05-08T07:14:23.361Z</updated>
-        <summary type="html"><![CDATA[Lars Skaaret-Lund, Geir Storvik, Aliaksandr Hubin]]></summary>
-        <author>
-            <name>arxivist feed</name>
         </author>
     </entry>
 </feed>
