@@ -1034,56 +1034,6 @@
           "wordCount": 874,
           "title": "Development of a Risk-Free COVID-19 Screening Algorithm from Routine\n  Blood Tests Using Ensemble Machine Learning",
           "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
-        },
-        {
-          "id": "http://arxiv.org/abs/2211.12578",
-          "author": null,
-          "description": "Bhargav Ganguly, Vaneet Aggarwal",
-          "link": "http://arxiv.org/abs/2211.12578",
-          "publishedOn": "2023-05-09T07:13:44.771Z",
-          "wordCount": 709,
-          "title": "Online Federated Learning via Non-Stationary Detection and Adaptation\n  amidst Concept Drift",
-          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
-        },
-        {
-          "id": "http://arxiv.org/abs/2207.01848",
-          "author": null,
-          "description": "Noah Hollmann, Samuel M\\\"uller, Katharina Eggensperger, Frank Hutter",
-          "link": "http://arxiv.org/abs/2207.01848",
-          "publishedOn": "2023-05-09T07:13:44.764Z",
-          "wordCount": 760,
-          "title": "TabPFN: A Transformer That Solves Small Tabular Classification Problems\n  in a Second",
-          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
-        },
-        {
-          "id": "http://arxiv.org/abs/2305.03874",
-          "author": null,
-          "description": "Yuan Chen, Dongbin Xiu",
-          "link": "http://arxiv.org/abs/2305.03874",
-          "publishedOn": "2023-05-09T07:13:44.742Z",
-          "wordCount": 671,
-          "title": "Learning Stochastic Dynamical System via Flow Map Operator",
-          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
-        },
-        {
-          "id": "http://arxiv.org/abs/2210.11222",
-          "author": null,
-          "description": "Mikhail Khodak, Kareem Amin, Travis Dick, Sergei Vassilvitskii",
-          "link": "http://arxiv.org/abs/2210.11222",
-          "publishedOn": "2023-05-09T07:13:44.735Z",
-          "wordCount": 684,
-          "title": "Learning-Augmented Private Algorithms for Multiple Quantile Release",
-          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
-        },
-        {
-          "id": "http://arxiv.org/abs/2305.04341",
-          "author": null,
-          "description": "Sweta Rai, Alexis Hoffman, Soumendra Lahiri, Douglas W. Nychka,\n  Stephan R. Sain, Soutir Bandyopadhyay",
-          "link": "http://arxiv.org/abs/2305.04341",
-          "publishedOn": "2023-05-09T07:13:44.719Z",
-          "wordCount": 674,
-          "title": "Fast parameter estimation of Generalized Extreme Value distribution\n  using Neural Networks",
-          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
         }
       ]
     },
@@ -1956,6 +1906,16 @@
       "feedUrl": "http://feeds.feedburner.com/blogspot/gJZg",
       "siteUrl": "http://ai.googleblog.com/",
       "articles": [
+        {
+          "id": "http://ai.googleblog.com/2023/06/evaluating-speech-synthesis-in-many.html",
+          "author": null,
+          "description": "Posted by Thibault Sellam, Research Scientist, Google\n\n\n\n\n\nPreviously, we presented the 1,000 languages initiative and the Universal Speech Model with the goal of making speech and language technologies available to billions of users around the world. Part of this commitment involves developing high-quality speech synthesis technologies, which build upon projects such as VDTTS and AudioLM, for users that speak many different languages.\n\n\n\n\n\n\nlistening tests, during which dozens of annotators listen to the utterances one after the other to determine how natural they sound. While humans are still unbeaten at detecting whether a piece of text sounds natural, this process can be impractical — especially in the early stages of research projects, when engineers need rapid feedback to test and re…",
+          "link": "http://ai.googleblog.com/2023/06/evaluating-speech-synthesis-in-many.html",
+          "publishedOn": "2023-06-07T18:07:00.001Z",
+          "wordCount": 27582,
+          "title": "Evaluating speech synthesis in many languages with SQuId",
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEheQlvvXBg5s0pU2XQwb7gxDhd_sNEHcE2EifW94vv-gYgpKF8V8BG5hKqw91qF5IzbZFnp2vZr1Am0OIQLAl29XK-MAh3XpOP05CzqCSLy1arpJ5gC4mJ4OMs0CGxc0iE4I9Rn5xcZaLFitBEK0lFQF1yURehcGbPYBsnKmpqE21VQHKovgAz76av4pg/w1200-h630-p-k-no-nu/SQuId%20hero.jpg"
+        },
         {
           "id": "http://ai.googleblog.com/2023/06/visual-captions-using-large-language.html",
           "author": null,

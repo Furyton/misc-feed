@@ -2,10 +2,33 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-06-07T19:12:12.486Z</updated>
+    <updated>2023-06-07T20:15:24.838Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Evaluating speech synthesis in many languages with SQuId]]></title>
+        <id>http://ai.googleblog.com/2023/06/evaluating-speech-synthesis-in-many.html</id>
+        <link href="http://ai.googleblog.com/2023/06/evaluating-speech-synthesis-in-many.html"/>
+        <updated>2023-06-07T18:07:00.001Z</updated>
+        <summary type="html"><![CDATA[Posted by Thibault Sellam, Research Scientist, Google
+
+
+
+
+
+Previously, we presented the 1,000 languages initiative and the Universal Speech Model with the goal of making speech and language technologies available to billions of users around the world. Part of this commitment involves developing high-quality speech synthesis technologies, which build upon projects such as VDTTS and AudioLM, for users that speak many different languages.
+
+
+
+
+
+
+listening tests, during which dozens of annotators listen to the utterances one after the other to determine how natural they sound. While humans are still unbeaten at detecting whether a piece of text sounds natural, this process can be impractical — especially in the early stages of research projects, when engineers need rapid feedback to test and re…]]></summary>
+        <author>
+            <name>Google AI Blog</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Aligning Language Models with Preferences through f-divergence
   Minimization]]></title>
@@ -2548,60 +2571,6 @@ For decades, researchers worked together to assemble a complete copy of the mole
         <summary type="html"><![CDATA[A rather intriguing question on X validated, namely a simulation approach to sampling a bivariate distribution fully specified by one conditional p(x|y) and the symmetric conditional expectation IE[Y|X=x]. The book Conditional Specification of Statistical Models, by Arnold, Castillo and Sarabia, as referenced by and in the question, contains (§7.7) illustrations of such cases. As for […]]]></summary>
         <author>
             <name>xi'an</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Online Federated Learning via Non-Stationary Detection and Adaptation
-  amidst Concept Drift]]></title>
-        <id>http://arxiv.org/abs/2211.12578</id>
-        <link href="http://arxiv.org/abs/2211.12578"/>
-        <updated>2023-05-09T07:13:44.771Z</updated>
-        <summary type="html"><![CDATA[Bhargav Ganguly, Vaneet Aggarwal]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TabPFN: A Transformer That Solves Small Tabular Classification Problems
-  in a Second]]></title>
-        <id>http://arxiv.org/abs/2207.01848</id>
-        <link href="http://arxiv.org/abs/2207.01848"/>
-        <updated>2023-05-09T07:13:44.764Z</updated>
-        <summary type="html"><![CDATA[Noah Hollmann, Samuel M\"uller, Katharina Eggensperger, Frank Hutter]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learning Stochastic Dynamical System via Flow Map Operator]]></title>
-        <id>http://arxiv.org/abs/2305.03874</id>
-        <link href="http://arxiv.org/abs/2305.03874"/>
-        <updated>2023-05-09T07:13:44.742Z</updated>
-        <summary type="html"><![CDATA[Yuan Chen, Dongbin Xiu]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learning-Augmented Private Algorithms for Multiple Quantile Release]]></title>
-        <id>http://arxiv.org/abs/2210.11222</id>
-        <link href="http://arxiv.org/abs/2210.11222"/>
-        <updated>2023-05-09T07:13:44.735Z</updated>
-        <summary type="html"><![CDATA[Mikhail Khodak, Kareem Amin, Travis Dick, Sergei Vassilvitskii]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fast parameter estimation of Generalized Extreme Value distribution
-  using Neural Networks]]></title>
-        <id>http://arxiv.org/abs/2305.04341</id>
-        <link href="http://arxiv.org/abs/2305.04341"/>
-        <updated>2023-05-09T07:13:44.719Z</updated>
-        <summary type="html"><![CDATA[Sweta Rai, Alexis Hoffman, Soumendra Lahiri, Douglas W. Nychka,
-  Stephan R. Sain, Soutir Bandyopadhyay]]></summary>
-        <author>
-            <name>arxivist feed</name>
         </author>
     </entry>
 </feed>
