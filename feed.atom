@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-06-07T14:13:56.237Z</updated>
+    <updated>2023-06-07T15:15:44.641Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -52,6 +52,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Join the PyTorch Foundation: Membership Now Open]]></title>
+        <id>https://pytorch.org/blog/join-pytorch/</id>
+        <link href="https://pytorch.org/blog/join-pytorch/"/>
+        <updated>2023-06-07T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In September 2022, we welcomed PyTorch to the Linux Foundation from Meta, which formed the PyTorch Foundation with founding members AMD, Amazon Web Services (AWS), Google, Meta, Microsoft, and NVIDIA.]]></summary>
+        <author>
+            <name>PyTorch Website</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Unknown language #15]]></title>
         <id>https://languagelog.ldc.upenn.edu/nll/?p=59005</id>
         <link href="https://languagelog.ldc.upenn.edu/nll/?p=59005&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=unknown-language-15"/>
@@ -59,6 +69,26 @@
         <summary type="html"><![CDATA[Yuan (? dynasty (1271-1368) jade seal in the Bristol Museum: Know what language this is, or even what it says? Yes? Please get back to me. No? Please retweet it until somebody does. (But be aware, it's stumped some quite clever people who've already been asked, so it isn't obvious) Also, advance apologies if it […]]]></summary>
         <author>
             <name>Victor Mair</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Optimising computer systems with more generalised AI tools]]></title>
+        <id>https://www.deepmind.com/blog/optimising-computer-systems-with-more-generalised-ai-tools</id>
+        <link href="https://www.deepmind.com/blog/optimising-computer-systems-with-more-generalised-ai-tools"/>
+        <updated>2023-06-07T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Based on reinforcement learning, our AI models AlphaZero and MuZero have achieved superhuman performance winning games. Now, they’re expanding their capabilities to help optimise resources in data centres and advance video compression – and most recently, our specialised version of AlphaZero, called AlphaDev, discovered new algorithms that are already accelerating the software applications at the foundations of our digital society.]]></summary>
+        <author>
+            <name>DeepMind Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AlphaDev discovers faster sorting algorithms]]></title>
+        <id>https://www.deepmind.com/blog/alphadev-discovers-faster-sorting-algorithms</id>
+        <link href="https://www.deepmind.com/blog/alphadev-discovers-faster-sorting-algorithms"/>
+        <updated>2023-06-07T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In our paper published today in Nature, we introduce AlphaDev, an artificial intelligence (AI) system that uses reinforcement learning to discover enhanced computer science algorithms – surpassing those honed by scientists and engineers over decades.]]></summary>
+        <author>
+            <name>DeepMind Blog</name>
         </author>
     </entry>
     <entry>

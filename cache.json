@@ -1407,6 +1407,26 @@
       "siteUrl": "https://www.deepmind.com",
       "articles": [
         {
+          "id": "https://www.deepmind.com/blog/optimising-computer-systems-with-more-generalised-ai-tools",
+          "author": null,
+          "description": "Based on reinforcement learning, our AI models AlphaZero and MuZero have achieved superhuman performance winning games. Now, they’re expanding their capabilities to help optimise resources in data centres and advance video compression – and most recently, our specialised version of AlphaZero, called AlphaDev, discovered new algorithms that are already accelerating the software applications at the foundations of our digital society.",
+          "link": "https://www.deepmind.com/blog/optimising-computer-systems-with-more-generalised-ai-tools",
+          "publishedOn": "2023-06-07T00:00:00.000Z",
+          "wordCount": 1389,
+          "title": "Optimising computer systems with more generalised AI tools",
+          "imageUrl": "https://assets-global.website-files.com/621e749a546b7592125f38ed/64807bf25294d9863578ef5a_DM_Hero1.png"
+        },
+        {
+          "id": "https://www.deepmind.com/blog/alphadev-discovers-faster-sorting-algorithms",
+          "author": null,
+          "description": "In our paper published today in Nature, we introduce AlphaDev, an artificial intelligence (AI) system that uses reinforcement learning to discover enhanced computer science algorithms – surpassing those honed by scientists and engineers over decades.",
+          "link": "https://www.deepmind.com/blog/alphadev-discovers-faster-sorting-algorithms",
+          "publishedOn": "2023-06-07T00:00:00.000Z",
+          "wordCount": 2284,
+          "title": "AlphaDev discovers faster sorting algorithms",
+          "imageUrl": "https://assets-global.website-files.com/621e749a546b7592125f38ed/64807d68d425bdd22cc43233_Copy%20of%20alphadev_01_06_crops_crop5_0114%20(1).png"
+        },
+        {
           "id": "https://www.deepmind.com/blog/an-early-warning-system-for-novel-ai-risks",
           "author": null,
           "description": "AI researchers already use a range of evaluation benchmarks to identify unwanted behaviours in AI systems, such as AI systems making misleading statements, biased decisions, or repeating copyrighted content. Now, as the AI community builds and deploys increasingly powerful AI, we must expand the evaluation portfolio to include the possibility of extreme risks from general-purpose AI models that have strong skills in manipulation, deception, cyber-offense, or other dangerous capabilities.",
@@ -1465,6 +1485,16 @@
       "feedUrl": "https://pytorch.org/feed",
       "siteUrl": "https://pytorch.org/",
       "articles": [
+        {
+          "id": "https://pytorch.org/blog/join-pytorch/",
+          "author": null,
+          "description": "In September 2022, we welcomed PyTorch to the Linux Foundation from Meta, which formed the PyTorch Foundation with founding members AMD, Amazon Web Services (AWS), Google, Meta, Microsoft, and NVIDIA.",
+          "link": "https://pytorch.org/blog/join-pytorch/",
+          "publishedOn": "2023-06-07T07:00:00.000Z",
+          "wordCount": 1529,
+          "title": "Join the PyTorch Foundation: Membership Now Open",
+          "imageUrl": "https://pytorch.org/assets/images/pytorch-logo.png"
+        },
         {
           "id": "https://pytorch.org/blog/out-of-the-box-acceleration/",
           "author": null,
