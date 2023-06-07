@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-06-07T11:12:19.985Z</updated>
+    <updated>2023-06-07T12:30:33.239Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -2572,16 +2572,6 @@ For decades, researchers worked together to assemble a complete copy of the mole
   Stephan R. Sain, Soutir Bandyopadhyay]]></summary>
         <author>
             <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Generative AI and AI Product Moats]]></title>
-        <id>http://jalammar.github.io/generative-ai-and-ai-product-moats/</id>
-        <link href="http://jalammar.github.io/generative-ai-and-ai-product-moats/"/>
-        <updated>2023-05-09T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Here are eight observations I’ve shared recently on the Cohere blog and videos that go over them.: Article: What’s the big deal with Generative AI? Is it the future or the present? Article: AI is Eating The World]]></summary>
-        <author>
-            <name>Jay Alammar</name>
         </author>
     </entry>
 </feed>
