@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-06-08T01:38:03.175Z</updated>
+    <updated>2023-06-08T02:52:39.164Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[2023世界人工智能大会“AI生成与垂直大语言模型”论坛重磅来袭！]]></title>
+        <id>https://www.52nlp.cn/?p=13474</id>
+        <link href="https://www.52nlp.cn/2023%e4%b8%96%e7%95%8c%e4%ba%ba%e5%b7%a5%e6%99%ba%e8%83%bd%e5%a4%a7%e4%bc%9aai%e7%94%9f%e6%88%90%e4%b8%8e%e5%9e%82%e7%9b%b4%e5%a4%a7%e8%af%ad%e8%a8%80%e6%a8%a1%e5%9e%8b%e8%ae%ba"/>
+        <updated>2023-06-08T02:23:31.000Z</updated>
+        <summary type="html"><![CDATA[当前AI生成与大语言模型的指数级发展，为相关产业链带来新的发展引擎，也为AI落地应用带来新的想象空间。2023 […]]]></summary>
+        <author>
+            <name>达观数据</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Naive Bayes is all you need ?]]></title>
+        <id>https://kexue.fm/archives/9648</id>
+        <link href="https://kexue.fm/archives/9648"/>
+        <updated>2023-06-08T01:25:00.000Z</updated>
+        <summary type="html"><![CDATA[很抱歉，起了这么个具有标题党特征的题目。在写完《NBCE：使用朴素贝叶斯扩展LLM的Context处理长度》之后，笔者就觉得朴素贝叶斯（Naive Bayes）跟Attention机制有很多相同...]]></summary>
+        <author>
+            <name>苏剑林</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[uniform spacings]]></title>
         <id>http://xianblog.wordpress.com/?p=53161</id>
