@@ -1324,6 +1324,16 @@
       "siteUrl": "https://pythonspeed.com/atom.xml",
       "articles": [
         {
+          "id": "https://pythonspeed.com/articles/speeding-up-numba/",
+          "author": null,
+          "description": "When you need to speed up your NumPy processing—or just reduce your memory usage—the Numba just-in-time compiler is a great tool.\nIt lets you write Python code that gets compiled at runtime to machine code, allowing you to get the kind of speed improvements you’d get from languages like C, Fortran, or Rust.\nOr at least, that’s the theory.\nIn practice, your initial Numba code may be no faster than the NumPy equivalent.\nBut you can do better, once you have a better understanding of how CPUs work.\nAnd this knowledge will help you more broadly with any compiled language.\nIn this article we’ll:\nConsider a simple image-processing problem.\nTry, and initially fail, to speed it up with Numba.\nWe’ll review just a little bit how modern CPUs are so fast, and the limits of compilers.\nBased on our new understanding, we’ll then show how we can tweak our code to run 25× faster than our original version.\nRead more...",
+          "link": "https://pythonspeed.com/articles/speeding-up-numba/",
+          "publishedOn": "2023-06-07T00:00:00.000Z",
+          "wordCount": 3002,
+          "title": "Understanding CPUs can help speed up Numba and NumPy code",
+          "imageUrl": "https://pythonspeed.com/assets/titles/speeding-up-numba.png"
+        },
+        {
           "id": "https://pythonspeed.com/articles/best-file-format-for-pandas/",
           "author": null,
           "description": "Before you can process your data with Pandas, you need to load it (from disk or remote storage).\nThere are plenty of data formats supported by Pandas, from CSV, to JSON, to Parquet, and many others as well.\nWhich should you use?\nYou don’t want loading the data to be slow, or use lots of memory: that’s pure overhead.\nIdeally you’d want a file format that’s fast, efficient, small, and broadly supported.\nYou also want to make sure the loaded data has all the right types: numeric types, datetimes, and so on.\nSome data formats do a better job at this than others.\nWhile there is no one true answer that works for everyone, this article will try to help you narrow down the field and make an informed decision.\nRead more...",
@@ -1393,6 +1403,16 @@
       "feedUrl": "https://www.inference.vc/rss/",
       "siteUrl": "https://www.inference.vc/",
       "articles": [
+        {
+          "id": "6481b5876965110001df8c10",
+          "author": "Ferenc Huszar",
+          "description": "Automating mathematical theorem proving has been a long standing goal of artificial intelligence and indeed computer science. It's one of the areas I became very interested in recently. This is because I feel we may have the ingredients needed to make very, very significant progress:\n\na structured search",
+          "link": "https://www.inference.vc/we-may-finally-crack-maths-but-should-we/",
+          "publishedOn": "2023-06-08T15:58:13.000Z",
+          "wordCount": 1797,
+          "title": "We may finally crack Maths. But should we?",
+          "imageUrl": null
+        },
         {
           "id": "64724f2336605b0001f5e7fa",
           "author": "Ferenc Huszar",
