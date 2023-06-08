@@ -2,10 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-06-08T19:12:41.575Z</updated>
+    <updated>2023-06-08T20:14:21.322Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Determining Ramsey numbers using finite geometry]]></title>
+        <id>http://gilkalai.wordpress.com/2023/06/08/determining-ramsey-numbers-using-finite-geometry/</id>
+        <link href="https://gilkalai.wordpress.com/2023/06/08/determining-ramsey-numbers-using-finite-geometry/"/>
+        <updated>2023-06-08T19:31:29.000Z</updated>
+        <summary type="html"><![CDATA[Originally posted on Anurag's Math Blog: 
+Sam Mattheus and Jacques Verstraete have posted a preprint today where they solve the classic open problem of determining the asymptotics of the Ramsey number . They show that which is just a…]]></summary>
+        <author>
+            <name>Gil Kalai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Determining Ramsey numbers using finite geometry]]></title>
+        <id>http://gilkalai.wordpress.com/2023/06/08/determining-ramsey-numbers-using-finite-geometry/</id>
+        <link href="https://gilkalai.wordpress.com/2023/06/08/determining-ramsey-numbers-using-finite-geometry/"/>
+        <updated>2023-06-08T19:31:29.000Z</updated>
+        <summary type="html"><![CDATA[Originally posted on Anurag's Math Blog: 
+Sam Mattheus and Jacques Verstraete have posted a preprint today where they solve the classic open problem of determining the asymptotics of the Ramsey number . They show that which is just a…]]></summary>
+        <author>
+            <name>Gil Kalai</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Transliterations aplenty]]></title>
         <id>https://languagelog.ldc.upenn.edu/nll/?p=59014</id>
@@ -2653,63 +2675,6 @@ Where: MB0.07]]></summary>
 For decades, researchers worked together to assemble a complete copy of the molecular instructions for a human — a map of the human genome. The first draft was finished in 2000, but with several missing pieces.  Even when a complete reference genome was achieved in 2022, their work was not finished. A single reference genome can’t incorporate known genetic variations, such as the variants for the gene determining whether a person has a blood type A, B, AB or O. Furthermore, the reference genome didn’t represent the vast diversity of human ancestries, making it less useful for detecting disease or finding cures for people from some backgrounds than others. For the past three years, we have been pa…]]></summary>
         <author>
             <name>Google AI Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Scalable Bayesian optimization with high-dimensional outputs using
-  randomized prior networks]]></title>
-        <id>http://arxiv.org/abs/2302.07260</id>
-        <link href="http://arxiv.org/abs/2302.07260"/>
-        <updated>2023-05-10T07:13:51.801Z</updated>
-        <summary type="html"><![CDATA[Mohamed Aziz Bhouri, Michael Joly, Robert Yu, Soumalya Sarkar
- , Paris Perdikaris]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Prospective Approach for Human-to-Human Interaction Recognition from
-  Wi-Fi Channel Data using Attention Bidirectional Gated Recurrent Neural
-  Network with GUI Application Implementation]]></title>
-        <id>http://arxiv.org/abs/2202.08146</id>
-        <link href="http://arxiv.org/abs/2202.08146"/>
-        <updated>2023-05-10T07:13:51.796Z</updated>
-        <summary type="html"><![CDATA[Md. Mohi Uddin Khan, Abdullah Bin Shams, Md. Mohsin Sarker Raihan]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A duality framework for generalization analysis of random feature models
-  and two-layer neural networks]]></title>
-        <id>http://arxiv.org/abs/2305.05642</id>
-        <link href="http://arxiv.org/abs/2305.05642"/>
-        <updated>2023-05-10T07:13:51.688Z</updated>
-        <summary type="html"><![CDATA[Hongrui Chen, Jihao Long, Lei Wu]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Proportional Fairness in Federated Learning]]></title>
-        <id>http://arxiv.org/abs/2202.01666</id>
-        <link href="http://arxiv.org/abs/2202.01666"/>
-        <updated>2023-05-10T07:13:51.665Z</updated>
-        <summary type="html"><![CDATA[Guojun Zhang, Saber Malekmohammadi, Xi Chen, Yaoliang Yu]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Development of a Risk-Free COVID-19 Screening Algorithm from Routine
-  Blood Tests Using Ensemble Machine Learning]]></title>
-        <id>http://arxiv.org/abs/2108.05660</id>
-        <link href="http://arxiv.org/abs/2108.05660"/>
-        <updated>2023-05-10T07:13:51.474Z</updated>
-        <summary type="html"><![CDATA[Md. Mohsin Sarker Raihan, Md. Mohi Uddin Khan, Laboni Akter and
-  Abdullah Bin Shams]]></summary>
-        <author>
-            <name>arxivist feed</name>
         </author>
     </entry>
 </feed>
