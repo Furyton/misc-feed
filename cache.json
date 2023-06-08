@@ -6,6 +6,56 @@
       "siteUrl": "https://www.arxivist.com",
       "articles": [
         {
+          "id": "http://arxiv.org/abs/2203.07475",
+          "author": null,
+          "description": "Joar Skalse, Matthew Farrugia-Roberts, Stuart Russell, Alessandro\n  Abate, Adam Gleave",
+          "link": "http://arxiv.org/abs/2203.07475",
+          "publishedOn": "2023-06-08T07:13:38.535Z",
+          "wordCount": 669,
+          "title": "Invariance in Policy Optimisation and Partial Identifiability in Reward\n  Learning",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2306.04637",
+          "author": null,
+          "description": "Yu Bai, Fan Chen, Huan Wang, Caiming Xiong, Song Mei",
+          "link": "http://arxiv.org/abs/2306.04637",
+          "publishedOn": "2023-06-08T07:13:38.518Z",
+          "wordCount": 777,
+          "title": "Transformers as Statisticians: Provable In-Context Learning with\n  In-Context Algorithm Selection",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2306.04539",
+          "author": null,
+          "description": "Paul Pu Liang, Chun Kai Ling, Yun Cheng, Alex Obolenskiy, Yudong Liu,\n  Rohan Pandey, Alex Wilf, Louis-Philippe Morency, Ruslan Salakhutdinov",
+          "link": "http://arxiv.org/abs/2306.04539",
+          "publishedOn": "2023-06-08T07:13:38.512Z",
+          "wordCount": 726,
+          "title": "Multimodal Learning Without Labeled Multimodal Data: Guarantees and\n  Applications",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2212.02457",
+          "author": null,
+          "description": "Tengyuan Liang",
+          "link": "http://arxiv.org/abs/2212.02457",
+          "publishedOn": "2023-06-08T07:13:38.507Z",
+          "wordCount": 743,
+          "title": "Blessings and Curses of Covariate Shifts: Adversarial Learning Dynamics,\n  Directional Convergence, and Equilibria",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2306.03962",
+          "author": null,
+          "description": "Francesco Pinto, Yaxi Hu, Fanny Yang, Amartya Sanyal",
+          "link": "http://arxiv.org/abs/2306.03962",
+          "publishedOn": "2023-06-08T07:13:38.500Z",
+          "wordCount": 621,
+          "title": "PILLAR: How to make semi-private learning more effective",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
           "id": "http://arxiv.org/abs/2302.08215",
           "author": null,
           "description": "Dongyoung Go, Tomasz Korbak, Germ\\'an Kruszewski, Jos Rozen, Nahyeon\n  Ryu, Marc Dymetman",
