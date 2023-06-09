@@ -2,10 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-06-09T05:14:14.667Z</updated>
+    <updated>2023-06-09T06:19:28.446Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The asymptotics of r(4,t)]]></title>
+        <id>http://gilkalai.wordpress.com/2023/06/09/the-asymptotics-of-r4t/</id>
+        <link href="https://gilkalai.wordpress.com/2023/06/09/the-asymptotics-of-r4t/"/>
+        <updated>2023-06-09T06:17:30.000Z</updated>
+        <summary type="html"><![CDATA[Originally posted on Points And Lines: 
+Jacques Verstraete and I posted a preprint on the arXiv today on the off-diagonal Ramsey number . In short, we show that , which is just a factor shy from the upper bound proved…]]></summary>
+        <author>
+            <name>Gil Kalai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The asymptotics of r(4,t)]]></title>
+        <id>http://gilkalai.wordpress.com/2023/06/09/the-asymptotics-of-r4t/</id>
+        <link href="https://gilkalai.wordpress.com/2023/06/09/the-asymptotics-of-r4t/"/>
+        <updated>2023-06-09T06:17:30.000Z</updated>
+        <summary type="html"><![CDATA[Originally posted on Points And Lines: 
+Jacques Verstraete and I posted a preprint on the arXiv today on the off-diagonal Ramsey number . In short, we show that , which is just a factor shy from the upper bound proved…]]></summary>
+        <author>
+            <name>Gil Kalai</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[de-MCM’d]]></title>
         <id>http://xianblog.wordpress.com/?p=53208</id>
