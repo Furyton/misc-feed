@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-06-09T22:13:42.238Z</updated>
+    <updated>2023-06-09T23:15:29.595Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[statistical modeling with R [book review]]]></title>
+        <id>http://xianblog.wordpress.com/?p=53183</id>
+        <link href="https://xianblog.wordpress.com/2023/06/10/statistical-modeling-with-r-book-review/"/>
+        <updated>2023-06-09T22:23:10.000Z</updated>
+        <summary type="html"><![CDATA[Statistical Modeling with R (A dual frequentist and Bayesian approach for life scientists) is a recent book written by Pablo Inchausti, from Uruguay. In a highly personal and congenial style (witness the preface), with references to (fiction) books that enticed me to buy them. The book was sent to me by the JASA book editor […]]]></summary>
+        <author>
+            <name>xi'an</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Imagen Editor and EditBench: Advancing and evaluating text-guided image inpainting]]></title>
         <id>http://ai.googleblog.com/2023/06/imagen-editor-and-editbench-advancing.html</id>
