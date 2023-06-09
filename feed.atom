@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-06-09T13:18:25.201Z</updated>
+    <updated>2023-06-09T14:14:04.958Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Self-owning peeve of the week: Compersion]]></title>
+        <id>https://languagelog.ldc.upenn.edu/nll/?p=59056</id>
+        <link href="https://languagelog.ldc.upenn.edu/nll/?p=59056&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=self-owning-peeve-of-the-week-compersion"/>
+        <updated>2023-06-09T13:27:09.000Z</updated>
+        <summary type="html"><![CDATA[Email from Florent Moncomble [links added]: A few months ago, the distinguished member of the Académie française Alain Finkielkraut was featured in a video where he deplored the loss of “a word which used to exist in the [French] language and disappeared from it”, ie. “compersion”. Apparently, little does he know that “compersion” was actually coined […]]]></summary>
+        <author>
+            <name>Mark Liberman</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[InfoPrompt: Information-Theoretic Soft Prompt Tuning for Natural
   Language Understanding]]></title>
