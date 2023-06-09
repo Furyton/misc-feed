@@ -1044,46 +1044,6 @@
           "wordCount": 733,
           "title": "Provable Guarantees for Nonlinear Feature Learning in Three-Layer Neural\n  Networks",
           "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
-        },
-        {
-          "id": "http://arxiv.org/abs/2212.13881",
-          "author": null,
-          "description": "Adityanarayanan Radhakrishnan, Daniel Beaglehole, Parthe Pandit,\n  Mikhail Belkin",
-          "link": "http://arxiv.org/abs/2212.13881",
-          "publishedOn": "2023-05-11T07:13:57.402Z",
-          "wordCount": 750,
-          "title": "Mechanism of feature learning in deep fully connected networks and\n  kernel machines that recursively learn features",
-          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
-        },
-        {
-          "id": "http://arxiv.org/abs/2305.06230",
-          "author": null,
-          "description": "William Kengne, Modou Wade",
-          "link": "http://arxiv.org/abs/2305.06230",
-          "publishedOn": "2023-05-11T07:13:57.396Z",
-          "wordCount": 635,
-          "title": "Penalized deep neural networks estimator with general loss functions\n  under weak dependence",
-          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
-        },
-        {
-          "id": "http://arxiv.org/abs/2204.05044",
-          "author": null,
-          "description": "Maximilian Springenberg, Annika Frommholz, Markus Wenzel, Eva Weicken,\n  Jackie Ma, Nils Strodthoff",
-          "link": "http://arxiv.org/abs/2204.05044",
-          "publishedOn": "2023-05-11T07:13:56.982Z",
-          "wordCount": 737,
-          "title": "From Modern CNNs to Vision Transformers: Assessing the Performance,\n  Robustness, and Classification Strategies of Deep Learning Models in\n  Histopathology",
-          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
-        },
-        {
-          "id": "http://arxiv.org/abs/2305.06082",
-          "author": null,
-          "description": "Kota Srinivas Reddy, P. N. Karthik, Nikhil Karamchandani and\n  Jayakrishnan Nair",
-          "link": "http://arxiv.org/abs/2305.06082",
-          "publishedOn": "2023-05-11T07:13:56.946Z",
-          "wordCount": 704,
-          "title": "Best Arm Identification in Bandits with Limited Precision Sampling",
-          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
         }
       ]
     },
@@ -2006,6 +1966,16 @@
       "feedUrl": "http://feeds.feedburner.com/blogspot/gJZg",
       "siteUrl": "http://ai.googleblog.com/",
       "articles": [
+        {
+          "id": "http://ai.googleblog.com/2023/06/imagen-editor-and-editbench-advancing.html",
+          "author": null,
+          "description": "Posted by Su Wang and Ceslee Montgormery, Research Engineers, Google Research\n\n\n\n\n\nIn the last few years, text-to-image generation research has seen an explosion of breakthroughs (notably, Imagen, Parti, DALL-E 2, etc.) that have naturally permeated into related topics. In particular, text-guided image editing (TGIE) is a practical task that involves editing generated and photographed visuals rather than completely redoing them. Quick, automated, and controllable editing is a convenient solution when recreating visuals would be time-consuming or infeasible (e.g., tweaking objects in vacation photos or perfecting fine-grained details on a cute pup generated from scratch). Further, TGIE represents a substantial opportunity to improve training of foundational models themselves. Multimodal mod…",
+          "link": "http://ai.googleblog.com/2023/06/imagen-editor-and-editbench-advancing.html",
+          "publishedOn": "2023-06-09T19:09:00.000Z",
+          "wordCount": 27984,
+          "title": "Imagen Editor and EditBench: Advancing and evaluating text-guided image inpainting",
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjCOhgOtXQGmv1getpW3oHgD-4dCvqg9Q_Srs4qnD-FtydmHFb6XEesvUNGkf1eXRemuok7hb58ikl8tSw4xoNSwDd_YZkrdxVgj-6Fb5AeM6DkRB32URqFjpdzLYZaOtjjHcOqXzDmh7KdshdtaNtU1cVgv69UbvwW-v4-yu6h0-XDBe7vyo6PB23dyg/w1200-h630-p-k-no-nu/Imagen%20Editor%20&%20EditBench%20hero.jpg"
+        },
         {
           "id": "http://ai.googleblog.com/2023/06/evaluating-speech-synthesis-in-many.html",
           "author": null,

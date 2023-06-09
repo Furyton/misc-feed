@@ -2,10 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-06-09T19:11:41.963Z</updated>
+    <updated>2023-06-09T20:15:38.539Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Imagen Editor and EditBench: Advancing and evaluating text-guided image inpainting]]></title>
+        <id>http://ai.googleblog.com/2023/06/imagen-editor-and-editbench-advancing.html</id>
+        <link href="http://ai.googleblog.com/2023/06/imagen-editor-and-editbench-advancing.html"/>
+        <updated>2023-06-09T19:09:00.000Z</updated>
+        <summary type="html"><![CDATA[Posted by Su Wang and Ceslee Montgormery, Research Engineers, Google Research
+
+
+
+
+
+In the last few years, text-to-image generation research has seen an explosion of breakthroughs (notably, Imagen, Parti, DALL-E 2, etc.) that have naturally permeated into related topics. In particular, text-guided image editing (TGIE) is a practical task that involves editing generated and photographed visuals rather than completely redoing them. Quick, automated, and controllable editing is a convenient solution when recreating visuals would be time-consuming or infeasible (e.g., tweaking objects in vacation photos or perfecting fine-grained details on a cute pup generated from scratch). Further, TGIE represents a substantial opportunity to improve training of foundational models themselves. Multimodal mod…]]></summary>
+        <author>
+            <name>Google AI Blog</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Self-owning peeve of the week: Compersion]]></title>
         <id>https://languagelog.ldc.upenn.edu/nll/?p=59056</id>
@@ -2648,53 +2664,6 @@ Where: MB0.07]]></summary>
         <summary type="html"><![CDATA[Visit the post for more.]]></summary>
         <author>
             <name>xi'an</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mechanism of feature learning in deep fully connected networks and
-  kernel machines that recursively learn features]]></title>
-        <id>http://arxiv.org/abs/2212.13881</id>
-        <link href="http://arxiv.org/abs/2212.13881"/>
-        <updated>2023-05-11T07:13:57.402Z</updated>
-        <summary type="html"><![CDATA[Adityanarayanan Radhakrishnan, Daniel Beaglehole, Parthe Pandit,
-  Mikhail Belkin]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Penalized deep neural networks estimator with general loss functions
-  under weak dependence]]></title>
-        <id>http://arxiv.org/abs/2305.06230</id>
-        <link href="http://arxiv.org/abs/2305.06230"/>
-        <updated>2023-05-11T07:13:57.396Z</updated>
-        <summary type="html"><![CDATA[William Kengne, Modou Wade]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[From Modern CNNs to Vision Transformers: Assessing the Performance,
-  Robustness, and Classification Strategies of Deep Learning Models in
-  Histopathology]]></title>
-        <id>http://arxiv.org/abs/2204.05044</id>
-        <link href="http://arxiv.org/abs/2204.05044"/>
-        <updated>2023-05-11T07:13:56.982Z</updated>
-        <summary type="html"><![CDATA[Maximilian Springenberg, Annika Frommholz, Markus Wenzel, Eva Weicken,
-  Jackie Ma, Nils Strodthoff]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Best Arm Identification in Bandits with Limited Precision Sampling]]></title>
-        <id>http://arxiv.org/abs/2305.06082</id>
-        <link href="http://arxiv.org/abs/2305.06082"/>
-        <updated>2023-05-11T07:13:56.946Z</updated>
-        <summary type="html"><![CDATA[Kota Srinivas Reddy, P. N. Karthik, Nikhil Karamchandani and
-  Jayakrishnan Nair]]></summary>
-        <author>
-            <name>arxivist feed</name>
         </author>
     </entry>
 </feed>
