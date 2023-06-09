@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-06-09T10:16:03.781Z</updated>
+    <updated>2023-06-09T11:12:33.589Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -2735,16 +2735,6 @@ Where: MB0.07]]></summary>
         <summary type="html"><![CDATA[A recent Dinosaur Comic features a passionate investigation into alleged philosophical plagiarism: The mouseover title: "For my next thought experiment, suppose a man, a super man, gets turned into energy and is widely considered to be the same man, but then one day splits into two energy guys: one red and one blue. WHICH IS […]]]></summary>
         <author>
             <name>Mark Liberman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[back to a correction of the harmonic mean estimator]]></title>
-        <id>http://xianblog.wordpress.com/?p=52956</id>
-        <link href="https://xianblog.wordpress.com/2023/05/11/back-to-a-correction-of-the-harmonic-mean-estimator/"/>
-        <updated>2023-05-10T22:23:13.000Z</updated>
-        <summary type="html"><![CDATA[In a 2009 JCGS paper, Peter Lenk proposed a bias correction of the harmonic mean estimator, which is somewhat surprising given that the estimator usually has no variance and hence that its consistency is purely formal, since no speed of convergence can be taken for granted. In particular, the conjugate Normal model serving as a […]]]></summary>
-        <author>
-            <name>xi'an</name>
         </author>
     </entry>
 </feed>
