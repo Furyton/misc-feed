@@ -2,10 +2,65 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-06-09T07:13:56.522Z</updated>
+    <updated>2023-06-09T08:18:12.768Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[InfoPrompt: Information-Theoretic Soft Prompt Tuning for Natural
+  Language Understanding]]></title>
+        <id>http://arxiv.org/abs/2306.04933</id>
+        <link href="http://arxiv.org/abs/2306.04933"/>
+        <updated>2023-06-09T08:18:07.758Z</updated>
+        <summary type="html"><![CDATA[Junda Wu, Tong Yu, Rui Wang, Zhao Song, Ruiyi Zhang, Handong Zhao,
+  Chaochao Lu, Shuai Li, Ricardo Henao]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Using Large Language Model Annotations for Valid Downstream Statistical
+  Inference in Social Science: Design-Based Semi-Supervised Learning]]></title>
+        <id>http://arxiv.org/abs/2306.04746</id>
+        <link href="http://arxiv.org/abs/2306.04746"/>
+        <updated>2023-06-09T08:18:07.753Z</updated>
+        <summary type="html"><![CDATA[Naoki Egami, Musashi Jacobs-Harukawa, Brandon M. Stewart, Hanying Wei]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Multitask Learning and Bandits via Robust Statistics]]></title>
+        <id>http://arxiv.org/abs/2112.14233</id>
+        <link href="http://arxiv.org/abs/2112.14233"/>
+        <updated>2023-06-09T08:18:07.741Z</updated>
+        <summary type="html"><![CDATA[Kan Xu, Hamsa Bastani]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Polynomial Time and Private Learning of Unbounded Gaussian Mixture
+  Models]]></title>
+        <id>http://arxiv.org/abs/2303.04288</id>
+        <link href="http://arxiv.org/abs/2303.04288"/>
+        <updated>2023-06-09T08:18:07.736Z</updated>
+        <summary type="html"><![CDATA[Jamil Arbas, Hassan Ashtiani, Christopher Liaw]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Deep Learning Meets Sparse Regularization: A Signal Processing
+  Perspective]]></title>
+        <id>http://arxiv.org/abs/2301.09554</id>
+        <link href="http://arxiv.org/abs/2301.09554"/>
+        <updated>2023-06-09T08:18:06.909Z</updated>
+        <summary type="html"><![CDATA[Rahul Parhi, Robert D. Nowak]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The asymptotics of r(4,t)]]></title>
         <id>http://gilkalai.wordpress.com/2023/06/09/the-asymptotics-of-r4t/</id>
