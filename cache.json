@@ -994,56 +994,6 @@
           "wordCount": 781,
           "title": "COVID-19 diagnosis by routine blood tests using machine learning",
           "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
-        },
-        {
-          "id": "http://arxiv.org/abs/2305.06884",
-          "author": null,
-          "description": "Shubhanshu Shekhar, Ziyu Xu, Zachary C. Lipton, Pierre J. Liang,\n  Aaditya Ramdas",
-          "link": "http://arxiv.org/abs/2305.06884",
-          "publishedOn": "2023-05-12T07:13:34.006Z",
-          "wordCount": 733,
-          "title": "Risk-limiting Financial Audits via Weighted Sampling without Replacement",
-          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
-        },
-        {
-          "id": "http://arxiv.org/abs/2108.12515",
-          "author": null,
-          "description": "Maarten V. de Hoop, Nikola B. Kovachki, Nicholas H. Nelsen, Andrew M.\n  Stuart",
-          "link": "http://arxiv.org/abs/2108.12515",
-          "publishedOn": "2023-05-12T07:13:33.665Z",
-          "wordCount": 721,
-          "title": "Convergence Rates for Learning Linear Operators from Noisy Data",
-          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
-        },
-        {
-          "id": "http://arxiv.org/abs/2305.06703",
-          "author": null,
-          "description": "Vincent Jeanselme, Chang Ho Yoon, Brian Tom, Jessica Barrett",
-          "link": "http://arxiv.org/abs/2305.06703",
-          "publishedOn": "2023-05-12T07:13:33.622Z",
-          "wordCount": 636,
-          "title": "Neural Fine-Gray: Monotonic neural networks for competing risks",
-          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
-        },
-        {
-          "id": "http://arxiv.org/abs/2305.06648",
-          "author": null,
-          "description": "Pierre Marion",
-          "link": "http://arxiv.org/abs/2305.06648",
-          "publishedOn": "2023-05-12T07:13:33.615Z",
-          "wordCount": 581,
-          "title": "Generalization bounds for neural ordinary differential equations and\n  deep residual networks",
-          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
-        },
-        {
-          "id": "http://arxiv.org/abs/2305.06986",
-          "author": null,
-          "description": "Eshaan Nichani, Alex Damian, Jason D. Lee",
-          "link": "http://arxiv.org/abs/2305.06986",
-          "publishedOn": "2023-05-12T07:13:33.598Z",
-          "wordCount": 733,
-          "title": "Provable Guarantees for Nonlinear Feature Learning in Three-Layer Neural\n  Networks",
-          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
         }
       ]
     },
@@ -1259,28 +1209,7 @@
       "title": "Statistics » Event Diary",
       "feedUrl": "https://warwick.ac.uk/sitebuilder2/api/rss/news.rss?page=/fac/sci/statistics/event_diary/&tag=CRiSM%20seminars&rss=true&view=upcoming",
       "siteUrl": "https://warwick.ac.uk/fac/sci/statistics/event_diary/",
-      "articles": [
-        {
-          "id": "8a1785d7880083fb01880ee837704378",
-          "author": "Statistics",
-          "description": "When:\r\n\t\r\n  \t\t13:00\r\n\t\t-\r\n\t\t14:00, Wed, 07 Jun '23\r\n\r\n\t\nWhere: MB0.07",
-          "link": "https://warwick.ac.uk/fac/sci/statistics/event_diary/?calendarItem=8a17841b835b10a4018360b5677a44f9",
-          "publishedOn": "2023-05-12T07:41:19.000Z",
-          "wordCount": 368,
-          "title": "07/06 1pm-2pm: CRiSM Seminar",
-          "imageUrl": null
-        },
-        {
-          "id": "8a1785d7880083fb01880ee837704379",
-          "author": "Statistics",
-          "description": "When:\r\n\t\r\n  \t\t13:00\r\n\t\t-\r\n\t\t14:00, Wed, 21 Jun '23\r\n\r\n\t\nWhere: MB0.07",
-          "link": "https://warwick.ac.uk/fac/sci/statistics/event_diary/?calendarItem=8a17841b835b10a4018360b5677a44f9",
-          "publishedOn": "2023-05-12T07:41:19.000Z",
-          "wordCount": 368,
-          "title": "21/06 1pm-2pm: CRiSM Seminar",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "arg min blog",
