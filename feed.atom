@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-06-10T02:43:44.735Z</updated>
+    <updated>2023-06-10T03:15:06.842Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ChatGPT does Emily Dickinson writing a recipe for Pad Thai (and haiku too)]]></title>
+        <id>https://languagelog.ldc.upenn.edu/nll/?p=59030</id>
+        <link href="https://languagelog.ldc.upenn.edu/nll/?p=59030&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=chatgpt-does-emily-dickinson-writing-a-recipe-for-pad-thai-and-haiku-too"/>
+        <updated>2023-06-10T03:02:36.000Z</updated>
+        <summary type="html"><![CDATA[From Scott D. Seligman via Facebook:   ChatGPT is really creeping me out. I asked it for a recipe for Pad Thai in the form of an Emily Dickinson poem. I'm no poetry maven, but the damned thing seems to have the ability to turn a phrase, at least some of the time. Below is […]]]></summary>
+        <author>
+            <name>Victor Mair</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[statistical modeling with R [book review]]]></title>
         <id>http://xianblog.wordpress.com/?p=53183</id>
