@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-06-10T20:15:57.948Z</updated>
+    <updated>2023-06-10T21:12:23.648Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -2586,16 +2586,6 @@ Prior research has investigated several important technical building blocks to e
         <summary type="html"><![CDATA[Last weekend, I was in Omaha for the annual Berkshire-Hathaway Shareholders Meeting.  Not that I am a shareholder of Berkshire-Hathaway, but simply because I was curious to see two nonagenarian financial wizards hold forth in front of 20,000 enthusiastic fans for a whole day.  I wasn't disappointed, though I must confess that I didn't understand […]]]></summary>
         <author>
             <name>Victor Mair</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Transformer升级之路：9、一种全局长度外推的新思路]]></title>
-        <id>https://kexue.fm/archives/9603</id>
-        <link href="https://kexue.fm/archives/9603"/>
-        <updated>2023-05-12T09:11:00.000Z</updated>
-        <summary type="html"><![CDATA[说到Transformer无法处理超长序列的原因，大家的第一反应通常都是Self Attention的二次复杂度。但事实上，即便忽略算力限制，常规的Transformer也无法处理超长序列，因为...]]></summary>
-        <author>
-            <name>苏剑林</name>
         </author>
     </entry>
 </feed>
