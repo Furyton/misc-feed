@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-06-10T18:17:10.235Z</updated>
+    <updated>2023-06-10T19:11:32.067Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -2684,16 +2684,6 @@ Where: MB0.07]]></summary>
         <summary type="html"><![CDATA[Eshaan Nichani, Alex Damian, Jason D. Lee]]></summary>
         <author>
             <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Language Identification: Building an End-to-End AI Solution using PyTorch]]></title>
-        <id>https://pytorch.org/blog/language-identification/</id>
-        <link href="https://pytorch.org/blog/language-identification/"/>
-        <updated>2023-05-12T07:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Language Identification is the process of identifying the primary language from multiple audio input samples. In natural language processing (NLP), language identification is an important problem and a challenging issue. There are many language-related tasks such as entering text on your phone, finding news articles you enjoy, or discovering answers to questions that you may have. All these tasks are powered by NLP models. To decide which model to invoke at a particular point in time, we must perform language identification.]]></summary>
-        <author>
-            <name>PyTorch Website</name>
         </author>
     </entry>
 </feed>
