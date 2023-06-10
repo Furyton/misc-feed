@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-06-10T12:26:24.115Z</updated>
+    <updated>2023-06-10T13:16:19.237Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA["The beautiful mind paper boxes"]]></title>
+        <id>https://languagelog.ldc.upenn.edu/nll/?p=59074</id>
+        <link href="https://languagelog.ldc.upenn.edu/nll/?p=59074&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=the-beautiful-mind-paper-boxes"/>
+        <updated>2023-06-10T12:51:43.000Z</updated>
+        <summary type="html"><![CDATA[The most recent Trump indictment reproduces this exchange of text messages (p. 11) : Trump Employee 2: We can definitely make it work if we move his papers into the lake room? Trump Employee 1: There is still a little room in the shower where his other stuff is. Is it only his papers he […]]]></summary>
+        <author>
+            <name>Mark Liberman</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[InternLM]]></title>
         <id>https://languagelog.ldc.upenn.edu/nll/?p=59071</id>
