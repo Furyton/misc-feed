@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-06-11T12:27:46.112Z</updated>
+    <updated>2023-06-11T13:16:41.682Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Apostrophes in Hanyu Pinyin]]></title>
+        <id>https://languagelog.ldc.upenn.edu/nll/?p=59105</id>
+        <link href="https://languagelog.ldc.upenn.edu/nll/?p=59105&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=apostrophes-in-hanyu-pinyin"/>
+        <updated>2023-06-11T12:39:45.000Z</updated>
+        <summary type="html"><![CDATA[The most famous instance of the use of an apostrophe in Hanyu Pinyin romanization is in the place name "Xi'an", the capital of Shaanxi (the doubled "a" is another story) Province. Xī'ān 西安 — two characters signifying "Western Peace" If you don't use an apostrophe to separate the syllables, you end up with the monosyllable […]]]></summary>
+        <author>
+            <name>Victor Mair</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ChatGPT has a sense of humor (sort of)]]></title>
         <id>https://languagelog.ldc.upenn.edu/nll/?p=59096</id>
