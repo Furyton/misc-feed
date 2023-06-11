@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-06-11T19:11:48.924Z</updated>
+    <updated>2023-06-11T20:14:42.363Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Thai to English translation gets injected with Tamil]]></title>
+        <id>https://languagelog.ldc.upenn.edu/nll/?p=59101</id>
+        <link href="https://languagelog.ldc.upenn.edu/nll/?p=59101&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=thai-to-english-translation-gets-injected-with-tamil"/>
+        <updated>2023-06-11T19:39:16.000Z</updated>
+        <summary type="html"><![CDATA[[This is a guest post by Charles Belov] I pasted the following Thai, which I got from a YouTube channel, into Google translate. The results were mostly in English, but Google Translate injected some apparent Tamil as well and then just gives up and leaves some of the Thai untranslated. "ตลอดระยะเวลาการทำงานในวงการบันเทิงมันทำให้เราได้เรียนรู้ว่าจริงๆ เเล้วความสุขอยู่รอบตัวเราไปหมด เเล้วความสุขมันง่ายมาก จริงๆ บางทีความสุขมันก็ไม่ต้องมีเงินเยอะมากมาย […]]]></summary>
+        <author>
+            <name>Victor Mair</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Quirky speech-to-text, weird diarization]]></title>
         <id>https://languagelog.ldc.upenn.edu/nll/?p=59108</id>
