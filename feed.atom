@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-06-11T10:14:48.442Z</updated>
+    <updated>2023-06-11T11:11:51.030Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -14,6 +14,16 @@
         <summary type="html"><![CDATA[Benj Edwards has a mirthful article in Ars Technica (6/9/23) Researchers discover that ChatGPT prefers repeating 25 jokes over and over When tested, "Over 90% of 1,008 generated jokes were the same 25 jokes." [includes an AI generated image of "a laughing robot"] On Wednesday, two German researchers, Sophie Jentzsch and Kristian Kersting, released a […]]]></summary>
         <author>
             <name>Victor Mair</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[technical steps]]></title>
+        <id>http://xianblog.wordpress.com/?p=53198</id>
+        <link href="https://xianblog.wordpress.com/2023/06/11/technical-steps/"/>
+        <updated>2023-06-10T22:23:32.000Z</updated>
+        <summary type="html"><![CDATA[After procrastinating as much as feasible, I switched at last to (K)Ubuntu 22.04, Jammy Jellyfish, after security updates stopped for the 20.04 version. While this proceeded mostly without hiccups, the upgrade stalled when upgrading Firefox, which I had foolishly left open. When I turned it off and completed the upgrade, this erased all of my […]]]></summary>
+        <author>
+            <name>xi'an</name>
         </author>
     </entry>
     <entry>
@@ -2539,16 +2549,6 @@ Skin tone is an observable characteristic that is subjective, perceived differen
         <summary type="html"><![CDATA[From Nancy Friedman: I'm writing about "zen" in brand names and corporate lingo, having been amused by an email from Medium (where I'm a contributing writer) touting the platform's updates as "Project Zen"–a name chosen "because that's our goal: a zen-like reading experience."   I'm not sure I know what a "zen-like reading experience" is […]]]></summary>
         <author>
             <name>Victor Mair</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[operation precisely impossible]]></title>
-        <id>http://xianblog.wordpress.com/?p=52971</id>
-        <link href="https://xianblog.wordpress.com/2023/05/13/operation-precisely-impossible/"/>
-        <updated>2023-05-12T22:23:30.000Z</updated>
-        <summary type="html"><![CDATA[Since the solution to the previous riddle from The Riddler on the maximum of  different terms in the composed operation a∅b∅c∅d∅e∅f depending on the bracketing ordering and the meaning of each ∅ among one of the six elementary operations got posted today as 974,860, I got back to my R code to understand why it […]]]></summary>
-        <author>
-            <name>xi'an</name>
         </author>
     </entry>
 </feed>

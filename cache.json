@@ -1536,6 +1536,16 @@
       "siteUrl": "https://xianblog.wordpress.com",
       "articles": [
         {
+          "id": "http://xianblog.wordpress.com/?p=53198",
+          "author": "xi'an",
+          "description": "After procrastinating as much as feasible, I switched at last to (K)Ubuntu 22.04, Jammy Jellyfish, after security updates stopped for the 20.04 version. While this proceeded mostly without hiccups, the upgrade stalled when upgrading Firefox, which I had foolishly left open. When I turned it off and completed the upgrade, this erased all of my […]",
+          "link": "https://xianblog.wordpress.com/2023/06/11/technical-steps/",
+          "publishedOn": "2023-06-10T22:23:32.000Z",
+          "wordCount": 1836,
+          "title": "technical steps",
+          "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Kubuntu_22.04_fr_001.png"
+        },
+        {
           "id": "http://xianblog.wordpress.com/?p=53183",
           "author": "xi'an",
           "description": "Statistical Modeling with R (A dual frequentist and Bayesian approach for life scientists) is a recent book written by Pablo Inchausti, from Uruguay. In a highly personal and congenial style (witness the preface), with references to (fiction) books that enticed me to buy them. The book was sent to me by the JASA book editor […]",
@@ -1814,16 +1824,6 @@
           "wordCount": 1843,
           "title": "grass hopping on the wrong fgpt",
           "imageUrl": "https://xianblog.files.wordpress.com/2023/05/temp-4.png"
-        },
-        {
-          "id": "http://xianblog.wordpress.com/?p=52971",
-          "author": "xi'an",
-          "description": "Since the solution to the previous riddle from The Riddler on the maximum of  different terms in the composed operation a∅b∅c∅d∅e∅f depending on the bracketing ordering and the meaning of each ∅ among one of the six elementary operations got posted today as 974,860, I got back to my R code to understand why it […]",
-          "link": "https://xianblog.wordpress.com/2023/05/13/operation-precisely-impossible/",
-          "publishedOn": "2023-05-12T22:23:30.000Z",
-          "wordCount": 1886,
-          "title": "operation precisely impossible",
-          "imageUrl": "https://xianblog.files.wordpress.com/2012/01/pict0448-e1326730756979.jpg"
         }
       ]
     },
