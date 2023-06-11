@@ -1182,16 +1182,6 @@
           "wordCount": 359,
           "title": "Timothy Lillicrap - Model-based reinforcement learning and the future of language models",
           "imageUrl": "https://mlfoundations.org/img/icon-192.png"
-        },
-        {
-          "id": "https://mlfoundations.org/talk/choi/",
-          "author": null,
-          "description": "Scale appears to be the winning recipe in today's leaderboards. And yet, extreme-scale neural models are (un)surprisingly brittle and make errors that are often nonsensical and even counterintuitive. In this talk, I will argue for the importance of knowledge, especially commonsense knowledge, as well as inference-time reasoning algorithms, and demonstrate how smaller models developed in academia can still have an edge over larger industry-scale models, if powered with knowledge and/or reasoning algorithms.",
-          "link": "https://mlfoundations.org/talk/choi/",
-          "publishedOn": "2023-05-12T14:15:00.000Z",
-          "wordCount": 142,
-          "title": "Yejin Choi - Common Sense: the Dark Matter of Language and Intelligence",
-          "imageUrl": "https://mlfoundations.org/img/icon-192.png"
         }
       ]
     },
@@ -2089,6 +2079,16 @@
       "feedUrl": "https://languagelog.ldc.upenn.edu/nll/?feed=rss2",
       "siteUrl": "https://languagelog.ldc.upenn.edu/nll",
       "articles": [
+        {
+          "id": "https://languagelog.ldc.upenn.edu/nll/?p=59096",
+          "author": "Victor Mair",
+          "description": "Benj Edwards has a mirthful article in Ars Technica (6/9/23) Researchers discover that ChatGPT prefers repeating 25 jokes over and over When tested, \"Over 90% of 1,008 generated jokes were the same 25 jokes.\" [includes an AI generated image of \"a laughing robot\"] On Wednesday, two German researchers, Sophie Jentzsch and Kristian Kersting, released a […]",
+          "link": "https://languagelog.ldc.upenn.edu/nll/?p=59096&utm_source=rss&utm_medium=rss&utm_campaign=chatgpt-has-a-sense-of-humor-sort-of",
+          "publishedOn": "2023-06-11T01:50:18.000Z",
+          "wordCount": 2618,
+          "title": "ChatGPT has a sense of humor (sort of)",
+          "imageUrl": null
+        },
         {
           "id": "https://languagelog.ldc.upenn.edu/nll/?p=59077",
           "author": "Victor Mair",

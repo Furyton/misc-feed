@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-06-11T01:44:42.981Z</updated>
+    <updated>2023-06-11T03:01:38.589Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ChatGPT has a sense of humor (sort of)]]></title>
+        <id>https://languagelog.ldc.upenn.edu/nll/?p=59096</id>
+        <link href="https://languagelog.ldc.upenn.edu/nll/?p=59096&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=chatgpt-has-a-sense-of-humor-sort-of"/>
+        <updated>2023-06-11T01:50:18.000Z</updated>
+        <summary type="html"><![CDATA[Benj Edwards has a mirthful article in Ars Technica (6/9/23) Researchers discover that ChatGPT prefers repeating 25 jokes over and over When tested, "Over 90% of 1,008 generated jokes were the same 25 jokes." [includes an AI generated image of "a laughing robot"] On Wednesday, two German researchers, Sophie Jentzsch and Kristian Kersting, released a […]]]></summary>
+        <author>
+            <name>Victor Mair</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA["Steak the First"]]></title>
         <id>https://languagelog.ldc.upenn.edu/nll/?p=59077</id>
@@ -2576,16 +2586,6 @@ Intelligent assistants on mobile devices have significantly advanced language-ba
 Prior research has investigated several important technical building blocks to enable conversational interaction with …]]></summary>
         <author>
             <name>Google AI Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Yejin Choi - Common Sense: the Dark Matter of Language and Intelligence]]></title>
-        <id>https://mlfoundations.org/talk/choi/</id>
-        <link href="https://mlfoundations.org/talk/choi/"/>
-        <updated>2023-05-12T14:15:00.000Z</updated>
-        <summary type="html"><![CDATA[Scale appears to be the winning recipe in today's leaderboards. And yet, extreme-scale neural models are (un)surprisingly brittle and make errors that are often nonsensical and even counterintuitive. In this talk, I will argue for the importance of knowledge, especially commonsense knowledge, as well as inference-time reasoning algorithms, and demonstrate how smaller models developed in academia can still have an edge over larger industry-scale models, if powered with knowledge and/or reasoning algorithms.]]></summary>
-        <author>
-            <name>Harvard ML Foundations</name>
         </author>
     </entry>
 </feed>
