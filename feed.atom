@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-06-12T11:12:53.145Z</updated>
+    <updated>2023-06-12T12:29:14.229Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Language change (about to be?) in progress]]></title>
+        <id>https://languagelog.ldc.upenn.edu/nll/?p=59145</id>
+        <link href="https://languagelog.ldc.upenn.edu/nll/?p=59145&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=language-change-about-to-be-in-progress"/>
+        <updated>2023-06-12T11:48:10.000Z</updated>
+        <summary type="html"><![CDATA[Current big news around here is the collapse of an elevated section of Interstate 95 due to a tanker truck fire. As Wikipedia explains, I-95 "is the main north–south Interstate Highway on the East Coast of the United States, running from U.S. Route 1 (US 1) in Miami, Florida, north to the Houlton–Woodstock Border Crossing […]]]></summary>
+        <author>
+            <name>Mark Liberman</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Multi-Epoch Matrix Factorization Mechanisms for Private Machine Learning]]></title>
         <id>http://arxiv.org/abs/2211.06530</id>
