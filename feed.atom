@@ -2,10 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-06-13T20:15:33.906Z</updated>
+    <updated>2023-06-13T21:12:42.591Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Enabling delightful user experiences via predictive models of human attention]]></title>
+        <id>http://ai.googleblog.com/2023/06/enabling-delightful-user-experiences.html</id>
+        <link href="http://ai.googleblog.com/2023/06/enabling-delightful-user-experiences.html"/>
+        <updated>2023-06-13T17:18:00.004Z</updated>
+        <summary type="html"><![CDATA[Posted by Junfeng He, Senior Research Scientist, and Kai Kohlhoff, Staff Research Scientist, Google Research
+
+
+
+
+People have the remarkable ability to take in a tremendous amount of information (estimated to be ~1010 bits/s entering the retina) and selectively attend to a few task-relevant and interesting regions for further processing (e.g., memory, comprehension, action). Modeling human attention (the result of which is often called a saliency model) has therefore been of interest across the fields of neuroscience, psychology, human-computer interaction (HCI) and computer vision. The ability to predict which regions are likely to attract attention has numerous important applications in areas like graphics, photography, image compression and processing, and the measurement of visual quali…]]></summary>
+        <author>
+            <name>Google AI Blog</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Victorious Secret]]></title>
         <id>https://languagelog.ldc.upenn.edu/nll/?p=59183</id>
@@ -2728,16 +2743,6 @@ Skin tone is an observable characteristic that is subjective, perceived differen
         <summary type="html"><![CDATA[The future of news? 🚨 BREAKING!!! Just when we thought we'd defeated the #CensorshipIndustrialComplex and @TuckerCarlson rose again on @Twitter, @elonmusk appoints #LindaYaccarino as new #TwitterCEO. Can an Executive Chair from the #WEF lead the revolution?#BreakingNews #EdisonThrustwell #WTF pic.twitter.com/uHt7NjCiO6 — Edison Thrustwell (@EdisonGPT) May 12, 2023 That's the first "Edison Thrustwell" tweet that I saw. […]]]></summary>
         <author>
             <name>Mark Liberman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sperm whale talk]]></title>
-        <id>https://languagelog.ldc.upenn.edu/nll/?p=58687</id>
-        <link href="https://languagelog.ldc.upenn.edu/nll/?p=58687&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=sperm-whale-talk"/>
-        <updated>2023-05-15T09:04:22.000Z</updated>
-        <summary type="html"><![CDATA[Animal communication is not a favorite topic here at Language Log, but according to the following account, one project concerning it seems serious and is being conducted by credible scientists.  Although their claims for its ultimate significance may be inflated, I believe the research they are undertaking is worth considering, especially after hearing the clicks […]]]></summary>
-        <author>
-            <name>Victor Mair</name>
         </author>
     </entry>
 </feed>

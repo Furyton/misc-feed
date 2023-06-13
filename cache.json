@@ -1986,6 +1986,16 @@
       "siteUrl": "http://ai.googleblog.com/",
       "articles": [
         {
+          "id": "http://ai.googleblog.com/2023/06/enabling-delightful-user-experiences.html",
+          "author": null,
+          "description": "Posted by Junfeng He, Senior Research Scientist, and Kai Kohlhoff, Staff Research Scientist, Google Research\n\n\n\n\nPeople have the remarkable ability to take in a tremendous amount of information (estimated to be ~1010 bits/s entering the retina) and selectively attend to a few task-relevant and interesting regions for further processing (e.g., memory, comprehension, action). Modeling human attention (the result of which is often called a saliency model) has therefore been of interest across the fields of neuroscience, psychology, human-computer interaction (HCI) and computer vision. The ability to predict which regions are likely to attract attention has numerous important applications in areas like graphics, photography, image compression and processing, and the measurement of visual quali…",
+          "link": "http://ai.googleblog.com/2023/06/enabling-delightful-user-experiences.html",
+          "publishedOn": "2023-06-13T17:18:00.004Z",
+          "wordCount": 27890,
+          "title": "Enabling delightful user experiences via predictive models of human attention",
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjerKPFbdl3UNBtSQUQXn94PZtgAw7zM4KC4KRdMJxwP_iQlOUkkg6FYURau3sBRJUkeNXMoiHKy-WRc_d0Ypx4Hh4x8KGUHPkeqCXM7BR7MoX6MVOWTHylNnAcQg4ogEMk7vZJDropM08gc9t1Y2HG-GwolJuWEdhFT19yaJV9gpqbr3_ZBl-geZCfcw/w1200-h630-p-k-no-nu/HumanAttention.png"
+        },
+        {
           "id": "http://ai.googleblog.com/2023/06/imagen-editor-and-editbench-advancing.html",
           "author": null,
           "description": "Posted by Su Wang and Ceslee Montgormery, Research Engineers, Google Research\n\n\n\n\n\nIn the last few years, text-to-image generation research has seen an explosion of breakthroughs (notably, Imagen, Parti, DALL-E 2, etc.) that have naturally permeated into related topics. In particular, text-guided image editing (TGIE) is a practical task that involves editing generated and photographed visuals rather than completely redoing them. Quick, automated, and controllable editing is a convenient solution when recreating visuals would be time-consuming or infeasible (e.g., tweaking objects in vacation photos or perfecting fine-grained details on a cute pup generated from scratch). Further, TGIE represents a substantial opportunity to improve training of foundational models themselves. Multimodal mod…",
@@ -2722,16 +2732,6 @@
             "length": "77926",
             "type": "audio/wav"
           },
-          "imageUrl": null
-        },
-        {
-          "id": "https://languagelog.ldc.upenn.edu/nll/?p=58687",
-          "author": "Victor Mair",
-          "description": "Animal communication is not a favorite topic here at Language Log, but according to the following account, one project concerning it seems serious and is being conducted by credible scientists.  Although their claims for its ultimate significance may be inflated, I believe the research they are undertaking is worth considering, especially after hearing the clicks […]",
-          "link": "https://languagelog.ldc.upenn.edu/nll/?p=58687&utm_source=rss&utm_medium=rss&utm_campaign=sperm-whale-talk",
-          "publishedOn": "2023-05-15T09:04:22.000Z",
-          "wordCount": 2516,
-          "title": "Sperm whale talk",
           "imageUrl": null
         }
       ]
