@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-06-13T10:15:48.940Z</updated>
+    <updated>2023-06-13T11:12:21.325Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Victorious Secret]]></title>
+        <id>https://languagelog.ldc.upenn.edu/nll/?p=59183</id>
+        <link href="https://languagelog.ldc.upenn.edu/nll/?p=59183&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=victorious-secret"/>
+        <updated>2023-06-13T10:25:10.000Z</updated>
+        <summary type="html"><![CDATA[The next event in the Salon Sanctuary concert series is "Victorious Secret: Love Gamed and Gender Untamed in the Sparkling Courts of the Baroque": Before the bars of gender binaries caged the mainstream operatic imagination, a golden age of fluidity guided the vocal soundscape. Virility declared itself with the castrato’s clarion high notes, while femininity […]]]></summary>
+        <author>
+            <name>Mark Liberman</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Beyond the Imitation Game: Quantifying and extrapolating the
   capabilities of language models]]></title>
@@ -2760,16 +2770,6 @@ Skin tone is an observable characteristic that is subjective, perceived differen
   Mo\v{s}kon, Marko Notar]]></summary>
         <author>
             <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chez Guy**(*)]]></title>
-        <id>http://xianblog.wordpress.com/?p=52858</id>
-        <link href="https://xianblog.wordpress.com/2023/05/15/chez-guy/"/>
-        <updated>2023-05-14T22:23:37.000Z</updated>
-        <summary type="html"><![CDATA[While I rarely enter company sweepstakes and lotteries (and correlatively never win!), I answered a contest from my credit card company around the 2022 Beijing Winter Olympics, and won the prize of having a Chinese dinner cooked at home by a chef, news that I first treated as a spam for being so improbable. The […]]]></summary>
-        <author>
-            <name>xi'an</name>
         </author>
     </entry>
 </feed>
