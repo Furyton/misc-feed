@@ -6,6 +6,56 @@
       "siteUrl": "https://www.arxivist.com",
       "articles": [
         {
+          "id": "http://arxiv.org/abs/2206.04615",
+          "author": null,
+          "description": "Aarohi Srivastava, Abhinav Rastogi, Abhishek Rao, Abu Awal Md Shoeb,\n  Abubakar Abid, Adam Fisch, Adam R. Brown, Adam Santoro, Aditya Gupta, Adri\\`a\n  Garriga-Alonso, Agnieszka Kluska, Aitor Lewkowycz, Akshat Agarwal, Alethea\n  Power, Alex Ray, Alex Warstadt, Alexander W. Kocurek, Ali Safaya, Ali Tazarv,\n  Alice Xiang, Alicia Parrish, Allen Nie, Aman Hussain, Amanda Askell, Amanda\n  Dsouza, Ambrose Slone, Ameet Rahane, Anantharaman S. Iyer, Anders Andreassen,\n  Andrea Madotto, Andrea Santilli, Andreas Stuhlm\\\"uller, Andrew Dai, Andrew\n  La, Andrew Lampinen, Andy Zou, Angela Jiang, Angelica Chen, Anh Vuong,\n  Animesh Gupta, Anna Gottardi, Antonio Norelli, Anu Venkatesh, Arash\n  Gholamidavoodi, Arfa Tabassum, Arul Menezes, Arun Kirubarajan, Asher\n  Mullokandov, Ashish Sabharwal, Austin Herrick, Avia Efrat, Aykut Erdem, Ayla\n  Karaka\\c{s}, B. Ryan Roberts, Bao Sheng Loe, Barret Zoph, Bart{\\l}omiej\n  Bojanowski, Batuhan \\\"Ozyurt, Behnam Hedayatnia, Behnam Neyshabur, Benjamin\n  Inden, Benno Stein, Berk Ekmekci, Bill Yuchen Lin, Blake Howald, Bryan\n  Orinion, Cameron Diao, Cameron Dour, Catherine Stinson, Cedrick Argueta,\n  C\\'esar Ferri Ram\\'irez, Chandan Singh, Charles Rathkopf, Chenlin Meng,\n  Chitta Baral, Chiyu Wu, Chris Callison-Burch, Chris Waites, Christian Voigt,\n  Christopher D. Manning, Christopher Potts, Cindy Ramirez, Clara E. Rivera,\n  Clemencia Siro, Colin Raffel, Courtney Ashcraft, Cristina Garbacea, Damien\n  Sileo, Dan Garrette, Dan Hendrycks, Dan Kilman, Dan Roth, Daniel Freeman,\n  Daniel Khashabi, Daniel Levy, Daniel Mosegu\\'i Gonz\\'alez, Danielle Perszyk,\n  Danny Hernandez, Danqi Chen, Daphne Ippolito, Dar Gilboa, David Dohan, David\n  Drakard, David Jurgens, Debajyoti Datta, Deep Ganguli, Denis Emelin, Denis\n  Kleyko, Deniz Yuret, Derek Chen, Derek Tam, Dieuwke Hupkes, Diganta Misra,\n  Dilyar Buzan, Dimitri Coelho Mollo, Diyi Yang, Dong-Ho Lee, Dylan Schrader,\n  Ekaterina Shutova, Ekin Dogus Cubuk, Elad Segal, Eleanor Hagerman, Elizabeth\n  Barnes, Elizabeth Donoway, Ellie Pavlick, Emanuele Rodola,",
+          "link": "http://arxiv.org/abs/2206.04615",
+          "publishedOn": "2023-06-13T08:19:00.775Z",
+          "wordCount": 1883,
+          "title": "Beyond the Imitation Game: Quantifying and extrapolating the\n  capabilities of language models",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2306.06281",
+          "author": null,
+          "description": "Jiahao Zhang, Shiheng Zhang, Jie Shen, Guang Lin",
+          "link": "http://arxiv.org/abs/2306.06281",
+          "publishedOn": "2023-06-13T08:19:00.296Z",
+          "wordCount": 702,
+          "title": "Energy-Dissipative Evolutionary Deep Operator Neural Networks",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2210.00762",
+          "author": null,
+          "description": "Jonas Rothfuss, Christopher Koenig, Alisa Rupenyan, Andreas Krause",
+          "link": "http://arxiv.org/abs/2210.00762",
+          "publishedOn": "2023-06-13T08:19:00.280Z",
+          "wordCount": 666,
+          "title": "Meta-Learning Priors for Safe Bayesian Optimization",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2306.06155",
+          "author": null,
+          "description": "Alexander Modell, Ian Gallagher, Emma Ceccherini, Nick Whiteley and\n  Patrick Rubin-Delanchy",
+          "link": "http://arxiv.org/abs/2306.06155",
+          "publishedOn": "2023-06-13T08:19:00.275Z",
+          "wordCount": 667,
+          "title": "Intensity Profile Projection: A Framework for Continuous-Time\n  Representation Learning for Dynamic Networks",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2209.12651",
+          "author": null,
+          "description": "Christoph Brauer, Niklas Breustedt, Timo de Wolff, Dirk A. Lorenz",
+          "link": "http://arxiv.org/abs/2209.12651",
+          "publishedOn": "2023-06-13T08:19:00.264Z",
+          "wordCount": 703,
+          "title": "Learning Variational Models with Unrolling and Bilevel Optimization",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
           "id": "http://arxiv.org/abs/1307.2968",
           "author": null,
           "description": "Moshe Zukerman",
