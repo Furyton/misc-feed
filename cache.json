@@ -2036,6 +2036,16 @@
       "siteUrl": "http://ai.googleblog.com/",
       "articles": [
         {
+          "id": "http://ai.googleblog.com/2023/06/reconstructing-indoor-spaces-with-nerf.html",
+          "author": null,
+          "description": "Marcos Seefelder, Software Engineer, and Daniel Duckworth, Research Software Engineer, Google Research\n\n\n\n\nWhen choosing a venue, we often find ourselves with questions like the following: Does this restaurant have the right vibe for a date? Is there good outdoor seating? Are there enough screens to watch the game? While photos and videos may partially answer questions like these, they are no substitute for feeling like you’re there, even when visiting in person isn't an option.\n\n\n\nImmersive experiences that are interactive, photorealistic, and multi-dimensional stand to bridge this gap and recreate the feel and vibe of a space, empowering users to naturally and intuitively find the information they need. To help with this, Google Maps launched Immersive View, which uses advances in machin…",
+          "link": "http://ai.googleblog.com/2023/06/reconstructing-indoor-spaces-with-nerf.html",
+          "publishedOn": "2023-06-14T16:00:00.000Z",
+          "wordCount": 27930,
+          "title": "Reconstructing indoor spaces with NeRF",
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhxGrEnhxjRJV-5Ws2doej6GjSpHuwLJBxjBbQnqzlVhuBAyBAKRmz0LuAYLSGHqtMPEfyZf9HIxVdNGhOsvMnlZKC6gnTq0oEFw0-YjU-yoHXXUhV1ZCWNxJVZUW4_rnT6ktLhHh4TjLfS9B2A4Txv5kKF3FZcxBU4q8ktQoaNPERvfLV1S9zHzCaLQQ/w1200-h630-p-k-no-nu/Immersive%20View%20hero.gif"
+        },
+        {
           "id": "http://ai.googleblog.com/2023/06/enabling-delightful-user-experiences.html",
           "author": null,
           "description": "Posted by Junfeng He, Senior Research Scientist, and Kai Kohlhoff, Staff Research Scientist, Google Research\n\n\n\n\nPeople have the remarkable ability to take in a tremendous amount of information (estimated to be ~1010 bits/s entering the retina) and selectively attend to a few task-relevant and interesting regions for further processing (e.g., memory, comprehension, action). Modeling human attention (the result of which is often called a saliency model) has therefore been of interest across the fields of neuroscience, psychology, human-computer interaction (HCI) and computer vision. The ability to predict which regions are likely to attract attention has numerous important applications in areas like graphics, photography, image compression and processing, and the measurement of visual quali…",

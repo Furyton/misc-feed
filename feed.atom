@@ -2,10 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-06-14T16:20:18.717Z</updated>
+    <updated>2023-06-14T17:13:54.285Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Reconstructing indoor spaces with NeRF]]></title>
+        <id>http://ai.googleblog.com/2023/06/reconstructing-indoor-spaces-with-nerf.html</id>
+        <link href="http://ai.googleblog.com/2023/06/reconstructing-indoor-spaces-with-nerf.html"/>
+        <updated>2023-06-14T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Marcos Seefelder, Software Engineer, and Daniel Duckworth, Research Software Engineer, Google Research
+
+
+
+
+When choosing a venue, we often find ourselves with questions like the following: Does this restaurant have the right vibe for a date? Is there good outdoor seating? Are there enough screens to watch the game? While photos and videos may partially answer questions like these, they are no substitute for feeling like you’re there, even when visiting in person isn't an option.
+
+
+
+Immersive experiences that are interactive, photorealistic, and multi-dimensional stand to bridge this gap and recreate the feel and vibe of a space, empowering users to naturally and intuitively find the information they need. To help with this, Google Maps launched Immersive View, which uses advances in machin…]]></summary>
+        <author>
+            <name>Google AI Blog</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA["Tortured syllables"?]]></title>
         <id>https://languagelog.ldc.upenn.edu/nll/?p=59186</id>
