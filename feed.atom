@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-06-14T08:18:41.339Z</updated>
+    <updated>2023-06-14T09:14:24.724Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -2757,28 +2757,6 @@ While large language models (LLMs) are now beating state-of-the-art approaches i
         <summary type="html"><![CDATA[Following my earlier post on the terrible performances of ChatGPT for a grasshopping riddle, Bob Carpenter sent me his interaction with GPT4, using the same entry. Here is the outcome he obtained. The answer is correct, but the reasoning is wrong. GPT4: This is a classic problem of infinite series and expected values in probability […]]]></summary>
         <author>
             <name>xi'an</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Larger language models do in-context learning differently]]></title>
-        <id>http://ai.googleblog.com/2023/05/larger-language-models-do-in-context.html</id>
-        <link href="http://ai.googleblog.com/2023/05/larger-language-models-do-in-context.html"/>
-        <updated>2023-05-15T20:59:00.000Z</updated>
-        <summary type="html"><![CDATA[Posted by Jerry Wei, Student Researcher, and Denny Zhou, Principal Scientist, Google Research
-
-
-
-
-There have recently been tremendous advances in language models, partly because they can perform tasks with strong performance via in-context learning (ICL), a process whereby models are prompted with a few examples of input-label pairs before performing the task on an unseen evaluation example. In general, models’ success at in-context learning is enabled by:
- 
-
-
-Their use of semantic prior knowledge from pre-training to predict labels while following the format of in-context examples (e.g., seeing examples of movie reviews with “positive sentiment” and “negative sentiment” as labels and performing sentiment analysis using prior knowledge).
-
-
-Learning the input-label mappings in context from …]]></summary>
-        <author>
-            <name>Google AI Blog</name>
         </author>
     </entry>
 </feed>

@@ -2204,16 +2204,6 @@
           "wordCount": 28006,
           "title": "Using reinforcement learning for dynamic planning in open-ended conversations",
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1pRX6ly5Tgckfk47u8_KxBasWJhuFoQ4SzbSmiK3SrQOKn8jXr3RHvb32lGlBksKl3-wXCwU8UnEhRp6YztIREY874N4i1289xQKHlO64QZqD9tQBiBQHMW-S5B4u5mSaBw6lgbuTEVplIrBfaOIcX-7-YG6D0lGzSOMN7r9umjZwMoE_1t1gcsEOZA/w1200-h630-p-k-no-nu/rlxtalk.png"
-        },
-        {
-          "id": "http://ai.googleblog.com/2023/05/larger-language-models-do-in-context.html",
-          "author": null,
-          "description": "Posted by Jerry Wei, Student Researcher, and Denny Zhou, Principal Scientist, Google Research\n\n\n\n\nThere have recently been tremendous advances in language models, partly because they can perform tasks with strong performance via in-context learning (ICL), a process whereby models are prompted with a few examples of input-label pairs before performing the task on an unseen evaluation example. In general, models’ success at in-context learning is enabled by:\n \n\n\nTheir use of semantic prior knowledge from pre-training to predict labels while following the format of in-context examples (e.g., seeing examples of movie reviews with “positive sentiment” and “negative sentiment” as labels and performing sentiment analysis using prior knowledge).\n\n\nLearning the input-label mappings in context from …",
-          "link": "http://ai.googleblog.com/2023/05/larger-language-models-do-in-context.html",
-          "publishedOn": "2023-05-15T20:59:00.000Z",
-          "wordCount": 27646,
-          "title": "Larger language models do in-context learning differently",
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQS0-Pkd_JiN7brkU6zV0-FEisuUcnKs0I56t37HVYKMgKStmwNgLREYn5CfURvW-lMvKbHU4cEV9elAu9qe4-M_FvveTlvBQHezbksTlH3YfOAk4TyJiXYiGBW_95RGKIW-JyjAQiC0Zd4VIjZrCSIm1PEBqrIAqbiEklluNunTOMhX_7CU9Degbwqg/w1200-h630-p-k-no-nu/SULICL.png"
         }
       ]
     },
