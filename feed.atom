@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-06-14T18:18:50.127Z</updated>
+    <updated>2023-06-14T19:12:00.229Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -2776,16 +2776,6 @@ While large language models (LLMs) are now beating state-of-the-art approaches i
         <summary type="html"><![CDATA[Adam Spannaus, Heidi A.Hanson, Lynne Penberthy, Georgia Tourassi]]></summary>
         <author>
             <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PyTorch Conference 2023: Join us in San Francisco October 16-17]]></title>
-        <id>https://pytorch.org/blog/pytorch-conference-2023/</id>
-        <link href="https://pytorch.org/blog/pytorch-conference-2023/"/>
-        <updated>2023-05-16T07:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<div type="html"/>]]></summary>
-        <author>
-            <name>PyTorch Website</name>
         </author>
     </entry>
 </feed>
