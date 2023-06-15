@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-06-15T06:19:45.017Z</updated>
+    <updated>2023-06-15T07:14:38.029Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Classifier Calibration: A survey on how to assess and improve predicted
+  class probabilities]]></title>
+        <id>http://arxiv.org/abs/2112.10327</id>
+        <link href="http://arxiv.org/abs/2112.10327"/>
+        <updated>2023-06-15T07:14:30.613Z</updated>
+        <summary type="html"><![CDATA[Telmo Silva Filho, Hao Song, Miquel Perello-Nieto, Raul
+  Santos-Rodriguez, Meelis Kull, Peter Flach]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[soon off to CIRM]]></title>
         <id>http://xianblog.wordpress.com/?p=53229</id>
