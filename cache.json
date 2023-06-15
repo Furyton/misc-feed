@@ -2164,16 +2164,6 @@
           "wordCount": 27915,
           "title": "Responsible AI at Google Research: PAIR",
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDUj2YMMcVzCHuAQ9TYS3IkauQbh9Tti-nZl6LZOMwwieYdyJM7DHShetIblRhW0hvTaPvDmK2f0SDu9XcLCVg0780I3GnYU0FrA27s0-MiQXQ5xPUCGqTSx-7KNJLwrlczkco2Ql5KzMeVHNXBl2oeaN0gMCPi7A2Bpc6eDpzjwZIHoNMiWLfQqL2vQ/w1200-h630-p-k-no-nu/image3.gif"
-        },
-        {
-          "id": "http://ai.googleblog.com/2023/05/using-reinforcement-learning-for.html",
-          "author": null,
-          "description": "Posted by Deborah Cohen, Staff Research Scientist, and Craig Boutilier, Principal Scientist, Google Research\n\n\n\n\nAs virtual assistants become ubiquitous, users increasingly interact with them to learn about new topics or obtain recommendations and expect them to deliver capabilities beyond narrow dialogues of one or two turns. Dynamic planning, namely the capability to look ahead and replan based on the flow of the conversation, is an essential ingredient for the making of engaging conversations with the deeper, open-ended interactions that users expect.\n \n\nWhile large language models (LLMs) are now beating state-of-the-art approaches in many natural language processing benchmarks, they are typically trained to output the next best response, rather than planning ahead, which is required fo…",
-          "link": "http://ai.googleblog.com/2023/05/using-reinforcement-learning-for.html",
-          "publishedOn": "2023-05-16T19:22:00.001Z",
-          "wordCount": 28006,
-          "title": "Using reinforcement learning for dynamic planning in open-ended conversations",
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1pRX6ly5Tgckfk47u8_KxBasWJhuFoQ4SzbSmiK3SrQOKn8jXr3RHvb32lGlBksKl3-wXCwU8UnEhRp6YztIREY874N4i1289xQKHlO64QZqD9tQBiBQHMW-S5B4u5mSaBw6lgbuTEVplIrBfaOIcX-7-YG6D0lGzSOMN7r9umjZwMoE_1t1gcsEOZA/w1200-h630-p-k-no-nu/rlxtalk.png"
         }
       ]
     },

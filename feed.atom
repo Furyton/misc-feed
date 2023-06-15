@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-06-15T07:14:38.029Z</updated>
+    <updated>2023-06-15T08:18:32.638Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -2719,24 +2719,6 @@ Today, PAIR is part of the Responsible AI and Human-Centered Technology team wit
         <summary type="html"><![CDATA[At Sylvia Richardson’s career celebration last Friday, I gave a talk on How many components in a mixture? which was most relevant given Sylvia’s contributions to mixture inference over the years, including her highly influential 1997 Read Paper with Peter Green. The other talks highlighted the many facets of Sylvia to the field and the […]]]></summary>
         <author>
             <name>xi'an</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Using reinforcement learning for dynamic planning in open-ended conversations]]></title>
-        <id>http://ai.googleblog.com/2023/05/using-reinforcement-learning-for.html</id>
-        <link href="http://ai.googleblog.com/2023/05/using-reinforcement-learning-for.html"/>
-        <updated>2023-05-16T19:22:00.001Z</updated>
-        <summary type="html"><![CDATA[Posted by Deborah Cohen, Staff Research Scientist, and Craig Boutilier, Principal Scientist, Google Research
-
-
-
-
-As virtual assistants become ubiquitous, users increasingly interact with them to learn about new topics or obtain recommendations and expect them to deliver capabilities beyond narrow dialogues of one or two turns. Dynamic planning, namely the capability to look ahead and replan based on the flow of the conversation, is an essential ingredient for the making of engaging conversations with the deeper, open-ended interactions that users expect.
- 
-
-While large language models (LLMs) are now beating state-of-the-art approaches in many natural language processing benchmarks, they are typically trained to output the next best response, rather than planning ahead, which is required fo…]]></summary>
-        <author>
-            <name>Google AI Blog</name>
         </author>
     </entry>
 </feed>
