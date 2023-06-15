@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-06-15T21:13:25.431Z</updated>
+    <updated>2023-06-15T22:13:48.701Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA["Syllabolic"?]]></title>
+        <id>https://languagelog.ldc.upenn.edu/nll/?p=59235</id>
+        <link href="https://languagelog.ldc.upenn.edu/nll/?p=59235&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=syllabolic"/>
+        <updated>2023-06-15T21:58:09.000Z</updated>
+        <summary type="html"><![CDATA[On June 1 in Iowa, Donald Trump gave a speech in which he attacked Ron DeSantis from several angles. One of them was DeSantis' variation in pronunciation of his last name (see "Pronouncing 'DeSantis'", 6/3/2023), which Trump characterized as "changing his name", while introducing a puzzling (but promising?) new linguistic term, "syllabolic": Your browser does […]]]></summary>
+        <author>
+            <name>Mark Liberman</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Speed is all you need: On-device acceleration of large diffusion models via GPU-aware optimizations]]></title>
         <id>http://ai.googleblog.com/2023/06/speed-is-all-you-need-on-device.html</id>
