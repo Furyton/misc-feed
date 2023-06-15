@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-06-15T11:12:44.769Z</updated>
+    <updated>2023-06-15T12:30:04.336Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The Cantophone and the state]]></title>
+        <id>https://languagelog.ldc.upenn.edu/nll/?p=59228</id>
+        <link href="https://languagelog.ldc.upenn.edu/nll/?p=59228&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=the-cantophone-and-the-state"/>
+        <updated>2023-06-15T12:19:22.000Z</updated>
+        <summary type="html"><![CDATA[Cantonese — its nature, its status, its past, present, and future, its place in the realm of Sinitic languages and in the world — has been one of the chief foci of Language Log.  Consequently, it is my great pleasure to announce the publication of the three-hundred-and-thirty-fourth issue of Sino-Platonic Papers: “The Concept of the […]]]></summary>
+        <author>
+            <name>Victor Mair</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Classifier Calibration: A survey on how to assess and improve predicted
   class probabilities]]></title>
