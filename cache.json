@@ -1201,6 +1201,16 @@
       "siteUrl": "https://kexue.fm/",
       "articles": [
         {
+          "id": "https://kexue.fm/archives/9660",
+          "author": "苏剑林",
+          "description": "在这篇文章中，我们将探讨一个被称为“梯度流（Gradient Flow）”的概念。简单来说，梯度流是将我们在用梯度下降法中寻找最小值的过程中的各个点连接起来，形成一条随（虚拟的）时间变化的轨迹，...",
+          "link": "https://kexue.fm/archives/9660",
+          "publishedOn": "2023-06-16T02:10:00.000Z",
+          "wordCount": 1642,
+          "title": "梯度流：探索通往最小值之路",
+          "imageUrl": null
+        },
+        {
           "id": "https://kexue.fm/archives/9648",
           "author": "苏剑林",
           "description": "很抱歉，起了这么个具有标题党特征的题目。在写完《NBCE：使用朴素贝叶斯扩展LLM的Context处理长度》之后，笔者就觉得朴素贝叶斯（Naive Bayes）跟Attention机制有很多相同...",
@@ -2692,16 +2702,6 @@
           "publishedOn": "2023-05-20T04:48:59.000Z",
           "wordCount": 2362,
           "title": "\"Romanisation 'gives clarity'\"",
-          "imageUrl": null
-        },
-        {
-          "id": "https://languagelog.ldc.upenn.edu/nll/?p=58720",
-          "author": "Victor Mair",
-          "description": "Since about the 90s, pho has been popping up all over the place.  It has been especially conspicuous after the turn of the millennium, and I think it adapted well to the pandemic as a quick and ready kind of street food.  I've often wondered whether it had anything to do with French \"fire\" or […]",
-          "link": "https://languagelog.ldc.upenn.edu/nll/?p=58720&utm_source=rss&utm_medium=rss&utm_campaign=pho",
-          "publishedOn": "2023-05-17T13:34:32.000Z",
-          "wordCount": 2899,
-          "title": "Phở",
           "imageUrl": null
         }
       ]

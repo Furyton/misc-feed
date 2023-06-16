@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-06-16T01:24:34.477Z</updated>
+    <updated>2023-06-16T02:40:13.680Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[梯度流：探索通往最小值之路]]></title>
+        <id>https://kexue.fm/archives/9660</id>
+        <link href="https://kexue.fm/archives/9660"/>
+        <updated>2023-06-16T02:10:00.000Z</updated>
+        <summary type="html"><![CDATA[在这篇文章中，我们将探讨一个被称为“梯度流（Gradient Flow）”的概念。简单来说，梯度流是将我们在用梯度下降法中寻找最小值的过程中的各个点连接起来，形成一条随（虚拟的）时间变化的轨迹，...]]></summary>
+        <author>
+            <name>苏剑林</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Noctureine 2023]]></title>
         <id>http://xianblog.wordpress.com/?p=53100</id>
@@ -2694,16 +2704,6 @@ Today, PAIR is part of the Responsible AI and Human-Centered Technology team wit
         <summary type="html"><![CDATA[Following my earlier post on the terrible performances of ChatGPT for a grasshopping riddle, Bob Carpenter sent me his interaction with GPT4, using the same entry. Here is the python code outcome he obtained. The code is running  and the answer is correct. BC: Thanks. Can you write a python program to simulate the final […]]]></summary>
         <author>
             <name>xi'an</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Phở]]></title>
-        <id>https://languagelog.ldc.upenn.edu/nll/?p=58720</id>
-        <link href="https://languagelog.ldc.upenn.edu/nll/?p=58720&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=pho"/>
-        <updated>2023-05-17T13:34:32.000Z</updated>
-        <summary type="html"><![CDATA[Since about the 90s, pho has been popping up all over the place.  It has been especially conspicuous after the turn of the millennium, and I think it adapted well to the pandemic as a quick and ready kind of street food.  I've often wondered whether it had anything to do with French "fire" or […]]]></summary>
-        <author>
-            <name>Victor Mair</name>
         </author>
     </entry>
 </feed>
