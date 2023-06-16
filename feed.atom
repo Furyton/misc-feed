@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-06-16T17:13:10.370Z</updated>
+    <updated>2023-06-16T18:18:01.773Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -68,6 +68,16 @@
         <summary type="html"><![CDATA[Valerie Krug, Raihan Kabir Ratul, Christopher Olson, Sebastian Stober]]></summary>
         <author>
             <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[🎉 PyTorch Docathon H1 2023 Wrap-up 🎉]]></title>
+        <id>https://pytorch.org/blog/docathon-h1-2023-wrap-up/</id>
+        <link href="https://pytorch.org/blog/docathon-h1-2023-wrap-up/"/>
+        <updated>2023-06-16T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Thank you to all who participated in our first ever PyTorch Docathon, the results have been nothing short of amazing! We want to extend our sincerest gratitude to all the participants who made this event a resounding success. Your passion, talent, and hard work have left an indelible mark on the PyTorch documentation.]]></summary>
+        <author>
+            <name>PyTorch Website</name>
         </author>
     </entry>
     <entry>
