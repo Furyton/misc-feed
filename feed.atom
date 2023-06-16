@@ -2,10 +2,64 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-06-16T06:19:29.977Z</updated>
+    <updated>2023-06-16T07:13:38.463Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[WavPool: A New Block for Deep Neural Networks]]></title>
+        <id>http://arxiv.org/abs/2306.08734</id>
+        <link href="http://arxiv.org/abs/2306.08734"/>
+        <updated>2023-06-16T07:13:31.376Z</updated>
+        <summary type="html"><![CDATA[Samuel D. McDermott, M. Voetberg, Brian Nord]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Phase diagram of Stochastic Gradient Descent in high-dimensional
+  two-layer neural networks]]></title>
+        <id>http://arxiv.org/abs/2202.00293</id>
+        <link href="http://arxiv.org/abs/2202.00293"/>
+        <updated>2023-06-16T07:13:30.776Z</updated>
+        <summary type="html"><![CDATA[Rodrigo Veiga, Ludovic Stephan, Bruno Loureiro, Florent Krzakala,
+  Lenka Zdeborov\'a]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nonparametric regression using over-parameterized shallow ReLU neural
+  networks]]></title>
+        <id>http://arxiv.org/abs/2306.08321</id>
+        <link href="http://arxiv.org/abs/2306.08321"/>
+        <updated>2023-06-16T07:13:30.771Z</updated>
+        <summary type="html"><![CDATA[Yunfei Yang, Ding-Xuan Zhou]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Unbiased Learning of Deep Generative Models with Structured Discrete
+  Representations]]></title>
+        <id>http://arxiv.org/abs/2306.08230</id>
+        <link href="http://arxiv.org/abs/2306.08230"/>
+        <updated>2023-06-16T07:13:30.766Z</updated>
+        <summary type="html"><![CDATA[Harry Bendekgey, Gabriel Hope, Erik B. Sudderth]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Visualizing Deep Neural Networks with Topographic Activation Maps]]></title>
+        <id>http://arxiv.org/abs/2204.03528</id>
+        <link href="http://arxiv.org/abs/2204.03528"/>
+        <updated>2023-06-16T07:13:30.619Z</updated>
+        <summary type="html"><![CDATA[Valerie Krug, Raihan Kabir Ratul, Christopher Olson, Sebastian Stober]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[梯度流：探索通往最小值之路]]></title>
         <id>https://kexue.fm/archives/9660</id>
