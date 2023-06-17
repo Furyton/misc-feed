@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-06-17T19:11:31.080Z</updated>
+    <updated>2023-06-17T20:14:42.346Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -2658,51 +2658,6 @@ Differential Privacy (DP) is one of the most widely accepted technologies that a
 These projects followed a similar methodology - models were pre-trained using data collected from game databases. Then they were improved iteratively with reinforcement learning. Viewed from the vantage point of model-based reinforcement learning, optimization of language models is in its infancy. Put simply, there are clear experiments which are likely to create much better models. Why haven’t these experiments been run already? Since performant language models are large and reward is derived from human preferences, experiments require extensive coordination of people and compute. Given economic incentives, we can expect researchers to overcome these hurdles. There is therefore good reason to believe that language model capabilities will continue to improve rapidly. This motivates increased investment in AI safety research, policy, and governance.]]></summary>
         <author>
             <name>Harvard ML Foundations</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Epistemic Neural Networks]]></title>
-        <id>http://arxiv.org/abs/2107.08924</id>
-        <link href="http://arxiv.org/abs/2107.08924"/>
-        <updated>2023-05-19T07:13:19.926Z</updated>
-        <summary type="html"><![CDATA[Ian Osband, Zheng Wen, Seyed Mohammad Asghari, Vikranth Dwaracherla,
-  Morteza Ibrahimi, Xiuyuan Lu, Benjamin Van Roy]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Smoothing the Landscape Boosts the Signal for SGD: Optimal Sample
-  Complexity for Learning Single Index Models]]></title>
-        <id>http://arxiv.org/abs/2305.10633</id>
-        <link href="http://arxiv.org/abs/2305.10633"/>
-        <updated>2023-05-19T07:13:19.919Z</updated>
-        <summary type="html"><![CDATA[Alex Damian, Eshaan Nichani, Rong Ge, Jason D. Lee]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Unified machine learning: Open-set learning with augmented category by
-  exploiting unlabelled data (Open-LACU)]]></title>
-        <id>http://arxiv.org/abs/2002.01368</id>
-        <link href="http://arxiv.org/abs/2002.01368"/>
-        <updated>2023-05-19T07:13:19.894Z</updated>
-        <summary type="html"><![CDATA[Emile R. Engelbrecht, Johan A. du Preez]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Measure of the Complexity of Neural Representations based on Partial
-  Information Decomposition]]></title>
-        <id>http://arxiv.org/abs/2209.10438</id>
-        <link href="http://arxiv.org/abs/2209.10438"/>
-        <updated>2023-05-19T07:13:19.888Z</updated>
-        <summary type="html"><![CDATA[David A. Ehrlich, Andreas C. Schneider, Viola Priesemann, Michael
-  Wibral, Abdullah Makkeh]]></summary>
-        <author>
-            <name>arxivist feed</name>
         </author>
     </entry>
 </feed>
