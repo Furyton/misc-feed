@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-06-16T23:15:08.969Z</updated>
+    <updated>2023-06-17T01:20:22.762Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -2735,16 +2735,6 @@ PAIR (People + AI Research) first launched in 2017 with the belief that “AI ca
 Today, PAIR is part of the Responsible AI and Human-Centered Technology team within Google Research, and our work spans this larger research space: We advance foundational research on human-AI interaction (HAI) and machine learning (ML); we publish educational materials, including the PAIR Guidebook and …]]></summary>
         <author>
             <name>Google AI Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[基于量子化假设推导模型的尺度定律（Scaling Law）]]></title>
-        <id>https://kexue.fm/archives/9607</id>
-        <link href="https://kexue.fm/archives/9607"/>
-        <updated>2023-05-18T12:55:00.000Z</updated>
-        <summary type="html"><![CDATA[尺度定律（Scaling Law），指的是模型能力与模型尺度之间的渐近关系。具体来说，模型能力我们可以简单理解为模型的损失函数，模型尺度可以指模型参数量、训练数据量、训练步数等，所谓尺度定律，就...]]></summary>
-        <author>
-            <name>苏剑林</name>
         </author>
     </entry>
 </feed>

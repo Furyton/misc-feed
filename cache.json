@@ -1249,16 +1249,6 @@
           "wordCount": 1593,
           "title": "NBCE：使用朴素贝叶斯拓展LLM的Context处理长度",
           "imageUrl": null
-        },
-        {
-          "id": "https://kexue.fm/archives/9607",
-          "author": "苏剑林",
-          "description": "尺度定律（Scaling Law），指的是模型能力与模型尺度之间的渐近关系。具体来说，模型能力我们可以简单理解为模型的损失函数，模型尺度可以指模型参数量、训练数据量、训练步数等，所谓尺度定律，就...",
-          "link": "https://kexue.fm/archives/9607",
-          "publishedOn": "2023-05-18T12:55:00.000Z",
-          "wordCount": 1491,
-          "title": "基于量子化假设推导模型的尺度定律（Scaling Law）",
-          "imageUrl": null
         }
       ]
     },
