@@ -2124,16 +2124,6 @@
           "wordCount": 28028,
           "title": "Making ML models differentially private: Best practices and open challenges",
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhqMCb-nNfoCncADD29b0YyxB4wN8bOhRph7pJBGzKyYc1bvdZ10VC3RkyUCJBopmvukjXJnZiJyiZ5ZIPyIW66ZfrYmBoJFrxx35T8OrL_HmNr4YIKzBS5y6Ej24f1Mjsu-IqH5ECyzPBRKDRtoGgQhoKoOpILElqHDIGsn9SiI-7x58qc_nbtQ1JZ1A/w1200-h630-p-k-no-nu/DPfy%20hero.gif"
-        },
-        {
-          "id": "http://ai.googleblog.com/2023/05/sparse-video-tubes-for-joint-video-and.html",
-          "author": null,
-          "description": "Posted by AJ Piergiovanni and Anelia Angelova, Research Scientists, Google\n\n\n\n\n\n\n\n\nVideo understanding is a challenging problem that requires reasoning about both spatial information (e.g., for objects in a scene, including their locations and relations) and temporal information for activities or events shown in a video. There are many video understanding applications and tasks, such as understanding the semantic content of web videos and robot perception. However, current works, such as ViViT and TimeSFormer, densely process the video and require significant compute, especially as model size plus video length and resolution increase. \n\n\n\nIn “Rethinking Video ViTs: Sparse Video Tubes for Joint Image and Video Learning”, to be presented at CVPR 2023, we introduce a simple technique that tur…",
-          "link": "http://ai.googleblog.com/2023/05/sparse-video-tubes-for-joint-video-and.html",
-          "publishedOn": "2023-05-18T21:08:00.000Z",
-          "wordCount": 27729,
-          "title": "Sparse video tubes for joint video and image vision transformers",
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg5vGQDyw66Z4hevP1JdKXnn8OCKudaDk2bacIPBkxtSYH1BgyNqXhK2QXOr-ANdX6MfoZp-jzVsETmH6kgy_Tvnii7ylDJEA-u5pJXareZRDyIBsRqguw2-AcDejtp3HXImtSLXKs_wUfMf8plDnpWzk1KGCgmm0U_j31qGh3rU4Cyv58HTpiocpyZiA/w1200-h630-p-k-no-nu/TubeViT%20hero.jpg"
         }
       ]
     },
