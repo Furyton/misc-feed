@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-06-18T05:14:27.001Z</updated>
+    <updated>2023-06-18T06:18:23.485Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Saturn < Cronus (Κρόνος) ≠ Chronos (Χρόνος)]]></title>
+        <id>https://languagelog.ldc.upenn.edu/nll/?p=59190</id>
+        <link href="https://languagelog.ldc.upenn.edu/nll/?p=59190&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=saturn-cronus-%25ce%25ba%25cf%2581%25cf%258c%25ce%25bd%25ce%25bf%25cf%2582-%25e2%2589%25a0-chronos-%25cf%2587%25cf%2581%25cf%258c%25ce%25bd%25ce%25bf%25cf%2582"/>
+        <updated>2023-06-18T04:50:29.000Z</updated>
+        <summary type="html"><![CDATA[[This is a guest post by Jichang Lulu, with some minor modifications and additions by VHM] You might have seen this — the PRC embassy in Poland has given Badiucao's forthcoming exhibition in Warsaw (coorganised by Sinopsis) some very welcome, completely unexpected publicity by trying to have it shut down. Lots of international reporting: The Guardian, Sydney Morning Herald, &c., &c. […]]]></summary>
+        <author>
+            <name>Victor Mair</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[webscussion on Bayesian causality]]></title>
         <id>http://xianblog.wordpress.com/?p=53243</id>
@@ -2635,17 +2645,6 @@ The following figure lists four scenarios in which Stable Diffusion falls short 
         <summary type="html"><![CDATA[[See my post with Edelman on AI takeover and Aaronson on AI scenarios. This is a rough, with various fine print, caveats, and other discussions missing. Cross-posted on Windows on Theory.]  One challenge for considering the implications of “artificial intelligence,” especially of the “general” variety, is that we don’t have a consensus definition of intelligence. The Oxford Companion … Continue reading GPT as an “Intelligence Forklift.”]]></summary>
         <author>
             <name>Boaz Barak</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[互联网技术比游戏后端技术领先十年吗？]]></title>
-        <id>https://www.skywind.me/blog/?p=2719</id>
-        <link href="https://www.skywind.me/blog/archives/2719"/>
-        <updated>2023-05-19T17:14:00.000Z</updated>
-        <summary type="html"><![CDATA[最近时间线上看到不少人在论战，做互联网的人觉得游戏服务端发展很慢，而互联网技术日新月异，觉得似乎互联网技术领先了游戏后端技术十年，这个结论显然是武断的，互联网就是发展到今天，就是任意一台互联网的服务器拿出来，其复杂度也远远比不上游戏服务器，即便各种 C/C++ 开发的互联网基建项目。 同时没有意识到游戏玩家之间交互性的复杂性与实时性是大部分互联网项目无法比较的。话分两头说，看到一些做游戏后端的同学觉得互联网更简单，电商之类的更是 CRUD 的增删改查，比起游戏服务器落后十年不止。 我觉得游戏服务端的同学实属没必要和这个互联网的人一般见识，不管不顾的也跟着说什么游戏服务端比互联网先进十年什么的，这是另一个极端了，一些情况也需要正视： 1）游戏服务端足够复杂，但是发展太慢，祖传代码修修补补跑个十多年的不要太多。能用固然是好事，但没有新观念的引入，导致可用性和开发效率一直没有太多提升。 2）各自闭门造车，没有形成行业标准与合力，这个项目的代码，很难在另一个项目共享，相互之间缺少支持和协同。 3）互联网后端随便拎出一个服务来（包括各种 C/C++ 基建）大概率都没有游戏服务端复杂，但最近十年日新月异，形成了很强的互相组合互相增强的态势。 我上面指的是互联网基建项目，不是互联网 CRUD，实话实说，游戏服务器的确很复杂很难，可能 ARPG 里砍一刀这种小事情，想砍的有手感，做互联网的也不一定能理解背后的复杂度有多少。但互联网近十年的发展，让其整体可用性，效能，开发效率，都上了很多个台阶，不应一味忽视。 如果继续觉得游戏服务端领先互联网十年可以直接右转了，开放心态的话我也可以多聊一些（点击下方 more 阅读更多）： 举个例子，音视频领域的基建，并不比游戏服务端简单： 1）一路高清视频 720-1080p 的，差不多每秒钟 2MB/s 的数据量，同时在线 100w 的，整个网络每秒钟至少有 2T/s 的数据量在跑着，不但不分服，而且玩家遍布世界每个角落，还要不卡不掉不延迟，这个数据量比起游戏的消息要大好几个数量级吧？在把这 2T/s 数据安排明白妥当的同时，还得保证延迟不能超过 500ms，超过就没法玩了。 2）一个房间的人数少的是 2-4 人，多的上千人，遍布 4-5 个国家，你一屏幕打开，可以同时看到 50 个人的视频，虽然是小窗口，但是你拉住任意小窗口，快速拉大到全屏，看不到明显的清晰度梯度切换带来的抖动，如何实现呢？ 3）全球上百个机房协同工作，组成一张很大的网络，一会这个机房出问题，一会那里线路阻塞了，能做到动态自如的切换，让用户几乎感觉不到，也不容易吧？ 4）更新无需停机，停服，即便一个 1000 人的房间后面的服务器更新，可能你都感觉不出来，视频的房间也算是有状态的，这种平滑的切换，不算简单吧？ 5）弱网情况下，开着车接着视频，不停切换基站，60% 的丢包情况下，虽然会卡一些，但如果要保证基础可用，也还是有点技术含量的吧。 ６）服务端跑视频编码器，即便有现成开源的也需要自己花大力气二次开发，编码器方面的积累，你不搞个四五年，你入不了手吧？这方面的知识日新月异，每年都有新标准，更新比游戏快多了。 ７）后端图象增强，允许带宽不足用户发送比较差的视频，增强成比较清晰的视频，这个 AI 增强技术，比 DLSS 1/2 复杂好几个台阶。 8）即便不是实时通信，点播，看着简单，也有很多挑战的地方，比如你客户端看短视频，不停的手指往上滑，连续划十个，不卡，秒出，丝滑切换，光这一点数据量有多大？客户端该怎么管理资源？服务端从接入服务，调度服务，到 CDN 和传输协议，要做多少项优化呢？ […]
-The post 互联网技术比游戏后端技术领先十年吗？ appeared first on Skywind Inside.]]></summary>
-        <author>
-            <name>skywind</name>
         </author>
     </entry>
 </feed>
