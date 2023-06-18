@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-06-18T04:17:20.367Z</updated>
+    <updated>2023-06-18T05:14:27.001Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -2646,27 +2646,6 @@ The following figure lists four scenarios in which Stable Diffusion falls short 
 The post 互联网技术比游戏后端技术领先十年吗？ appeared first on Skywind Inside.]]></summary>
         <author>
             <name>skywind</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Making ML models differentially private: Best practices and open challenges]]></title>
-        <id>http://ai.googleblog.com/2023/05/making-ml-models-differentially-private.html</id>
-        <link href="http://ai.googleblog.com/2023/05/making-ml-models-differentially-private.html"/>
-        <updated>2023-05-19T16:59:00.002Z</updated>
-        <summary type="html"><![CDATA[Posted by Natalia Ponomareva and Alex Kurakin, Staff Software Engineers, Google Research
-
-
-
-
-
-
-Large machine learning (ML) models are ubiquitous in modern applications: from spam filters to recommender systems and virtual assistants. These models achieve remarkable performance partially due to the abundance of available training data. However, these data can sometimes contain private information, including personal identifiable information, copyright material, etc. Therefore, protecting the privacy of the training data is critical to practical, applied ML.  
-
-
-
-Differential Privacy (DP) is one of the most widely accepted technologies that allows reasoning about data anonymization in a formal way. In the context of an ML model, DP can guarantee that each individual user's contribution will …]]></summary>
-        <author>
-            <name>Google AI Blog</name>
         </author>
     </entry>
 </feed>

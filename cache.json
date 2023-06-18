@@ -2064,16 +2064,6 @@
           "wordCount": 27806,
           "title": "Resolving code review comments with ML",
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjoK3FH1StJnuqrj0gTExqLUxNkVfwRVmiG9tbCNUDV2I5295yqrPlw0L4hRHJmsruvZBIa_FqAFvJfwW7VU4XvxDU4ZweaW6ehENeU7-BLJaLVGPPtn-25cme5qTUldd11YigkAj6Ks9Tif6J3MePey_Gn3cAp3nQf9LMmVy4Eg3yF0qyBZPUKfYJYLw/w1200-h630-p-k-no-nu/comments2code.png"
-        },
-        {
-          "id": "http://ai.googleblog.com/2023/05/making-ml-models-differentially-private.html",
-          "author": null,
-          "description": "Posted by Natalia Ponomareva and Alex Kurakin, Staff Software Engineers, Google Research\n\n\n\n\n\n\nLarge machine learning (ML) models are ubiquitous in modern applications: from spam filters to recommender systems and virtual assistants. These models achieve remarkable performance partially due to the abundance of available training data. However, these data can sometimes contain private information, including personal identifiable information, copyright material, etc. Therefore, protecting the privacy of the training data is critical to practical, applied ML.  \n\n\n\nDifferential Privacy (DP) is one of the most widely accepted technologies that allows reasoning about data anonymization in a formal way. In the context of an ML model, DP can guarantee that each individual user's contribution will …",
-          "link": "http://ai.googleblog.com/2023/05/making-ml-models-differentially-private.html",
-          "publishedOn": "2023-05-19T16:59:00.002Z",
-          "wordCount": 28028,
-          "title": "Making ML models differentially private: Best practices and open challenges",
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhqMCb-nNfoCncADD29b0YyxB4wN8bOhRph7pJBGzKyYc1bvdZ10VC3RkyUCJBopmvukjXJnZiJyiZ5ZIPyIW66ZfrYmBoJFrxx35T8OrL_HmNr4YIKzBS5y6Ej24f1Mjsu-IqH5ECyzPBRKDRtoGgQhoKoOpILElqHDIGsn9SiI-7x58qc_nbtQ1JZ1A/w1200-h630-p-k-no-nu/DPfy%20hero.gif"
         }
       ]
     },
