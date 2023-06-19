@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-06-19T22:14:28.162Z</updated>
+    <updated>2023-06-19T23:15:38.306Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Approximation Methods in Bayesian Analysis [#1]]]></title>
+        <id>http://xianblog.wordpress.com/?p=53331</id>
+        <link href="https://xianblog.wordpress.com/2023/06/20/approximation-methods-in-bayesian-analysis-1/"/>
+        <updated>2023-06-19T22:23:58.000Z</updated>
+        <summary type="html"><![CDATA[Interesting first day, if somewhat intense!, with Sylvia Richardson talking of divide & conquer strategies, which we had recently explored in our work on mixtures with Adrien and Judith. Then Jere Koskela (Warwick) on sufficient conditions for consistent inference on trees like Kingman’s coalescent. And in the afternoon Julia-Adela Palacios on tree estimation, with novel […]]]></summary>
+        <author>
+            <name>xi'an</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Stabilized Neural Differential Equations for Learning Constrained
   Dynamics]]></title>
@@ -2677,16 +2687,6 @@ The following figure lists four scenarios in which Stable Diffusion falls short 
         <summary type="html"><![CDATA[I recently stumbled on this 5/10/2023 Medium article by David Brock, "A Backup of Historical Proportions" — which reminded me of the Xerox Palo Alto Research Center ("PARC") and the Xerox Alto. Those were the people and the machine that invented interactive GUIs on bit-mapped displays, the computer mouse, and so on — though it […]]]></summary>
         <author>
             <name>Mark Liberman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ChatGPT does cuneiform studies]]></title>
-        <id>https://languagelog.ldc.upenn.edu/nll/?p=58745</id>
-        <link href="https://languagelog.ldc.upenn.edu/nll/?p=58745&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=chatgpt-does-cuneiform-studies"/>
-        <updated>2023-05-21T10:32:21.000Z</updated>
-        <summary type="html"><![CDATA[We have seen ChatGPT tell stories (and variants of the stories it tells), fancify Coleridge's famous poem on Xanadu, pose a serious challenge to the Great Firewall of China, mimic VHM, write Haiku, and perform all manner of amazing feats.  In a forthcoming post, we will witness its efforts to translate Chinese poetry.  Today, we […]]]></summary>
-        <author>
-            <name>Victor Mair</name>
         </author>
     </entry>
 </feed>
