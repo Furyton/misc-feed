@@ -6,6 +6,56 @@
       "siteUrl": "https://www.arxivist.com",
       "articles": [
         {
+          "id": "http://arxiv.org/abs/2306.09739",
+          "author": null,
+          "description": "Alistair White, Niki Kilbertus, Maximilian Gelbrecht, Niklas Boers",
+          "link": "http://arxiv.org/abs/2306.09739",
+          "publishedOn": "2023-06-19T07:14:46.765Z",
+          "wordCount": 625,
+          "title": "Stabilized Neural Differential Equations for Learning Constrained\n  Dynamics",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2206.04039",
+          "author": null,
+          "description": "Divyansh Kaushik, Zachary C. Lipton, Alex John London",
+          "link": "http://arxiv.org/abs/2206.04039",
+          "publishedOn": "2023-06-19T07:14:46.761Z",
+          "wordCount": 766,
+          "title": "Resolving the Human Subjects Status of Machine Learning's Crowdworkers",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2303.03363",
+          "author": null,
+          "description": "Philipp Seidl, Andreu Vall, Sepp Hochreiter, G\\\"unter Klambauer",
+          "link": "http://arxiv.org/abs/2303.03363",
+          "publishedOn": "2023-06-19T07:14:46.756Z",
+          "wordCount": 700,
+          "title": "Enhancing Activity Prediction Models in Drug Discovery with the Ability\n  to Understand Human Language",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2306.09686",
+          "author": null,
+          "description": "Zhe Zeng, Guy Van den Broeck",
+          "link": "http://arxiv.org/abs/2306.09686",
+          "publishedOn": "2023-06-19T07:14:46.750Z",
+          "wordCount": 688,
+          "title": "Collapsed Inference for Bayesian Deep Learning",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2306.09927",
+          "author": null,
+          "description": "Ruiqi Zhang, Spencer Frei, Peter L. Bartlett",
+          "link": "http://arxiv.org/abs/2306.09927",
+          "publishedOn": "2023-06-19T07:14:46.650Z",
+          "wordCount": 738,
+          "title": "Trained Transformers Learn Linear Models In-Context",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
           "id": "http://arxiv.org/abs/2306.06008",
           "author": null,
           "description": "Pierre Naz\\'e",
@@ -1883,16 +1933,6 @@
           "wordCount": 1648,
           "title": "foxhuntshire",
           "imageUrl": "https://static01.nyt.com/images/2023/02/11/multimedia/11uk-foxhunt--gbtv/11uk-foxhunt--gbtv-superJumbo.jpg"
-        },
-        {
-          "id": "http://xianblog.wordpress.com/?p=52447",
-          "author": "xi'an",
-          "description": "Visit the post for more.",
-          "link": "https://xianblog.wordpress.com/2023/05/20/chateau-balac-haut-medoc/",
-          "publishedOn": "2023-05-20T18:20:23.000Z",
-          "wordCount": 1708,
-          "title": "Château Balac [Haut-Médoc]",
-          "imageUrl": "https://xianblog.files.wordpress.com/2023/03/1677843445855-e1677844190281.jpg"
         }
       ]
     },
