@@ -1084,46 +1084,6 @@
           "wordCount": 585,
           "title": "Adaptive and Robust Multi-Task Learning",
           "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
-        },
-        {
-          "id": "http://arxiv.org/abs/2305.11400",
-          "author": null,
-          "description": "Cat P. Le, Juncheng Dong, Ahmed Aloui, Vahid Tarokh",
-          "link": "http://arxiv.org/abs/2305.11400",
-          "publishedOn": "2023-05-22T08:19:27.936Z",
-          "wordCount": 647,
-          "title": "Few-Shot Continual Learning for Conditional Generative Adversarial\n  Networks",
-          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
-        },
-        {
-          "id": "http://arxiv.org/abs/2305.11353",
-          "author": null,
-          "description": "Tomoharu Iwata, Yoichi Chikahara",
-          "link": "http://arxiv.org/abs/2305.11353",
-          "publishedOn": "2023-05-22T08:19:27.389Z",
-          "wordCount": 639,
-          "title": "Meta-learning for heterogeneous treatment effect estimation with\n  closed-form solvers",
-          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
-        },
-        {
-          "id": "http://arxiv.org/abs/2305.11278",
-          "author": null,
-          "description": "Matthew Dowling, Yuan Zhao, Il Memming Park",
-          "link": "http://arxiv.org/abs/2305.11278",
-          "publishedOn": "2023-05-22T08:19:27.383Z",
-          "wordCount": 650,
-          "title": "Real-Time Variational Method for Learning Neural Trajectory and its\n  Dynamics",
-          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
-        },
-        {
-          "id": "http://arxiv.org/abs/2304.01762",
-          "author": null,
-          "description": "Mrinank Sharma, Tom Rainforth, Yee Whye Teh, Vincent Fortuin",
-          "link": "http://arxiv.org/abs/2304.01762",
-          "publishedOn": "2023-05-22T08:19:27.328Z",
-          "wordCount": 610,
-          "title": "Incorporating Unlabelled Data into Bayesian Neural Networks",
-          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
         }
       ]
     },
@@ -2138,6 +2098,16 @@
       "feedUrl": "https://languagelog.ldc.upenn.edu/nll/?feed=rss2",
       "siteUrl": "https://languagelog.ldc.upenn.edu/nll",
       "articles": [
+        {
+          "id": "https://languagelog.ldc.upenn.edu/nll/?p=59348",
+          "author": "Victor Mair",
+          "description": "I'm in Georgetown for a few days to meet with colleagues and do some research.  Shortly after I left my hotel and headed down Wisconsin Avenue toward the Potomac for a morning run, I stopped dead in my tracks when I crossed over the canal and saw this: Especially with all the butterflies in the window, I […]",
+          "link": "https://languagelog.ldc.upenn.edu/nll/?p=59348&utm_source=rss&utm_medium=rss&utm_campaign=fangyan-topolect-in-dc",
+          "publishedOn": "2023-06-20T20:58:16.000Z",
+          "wordCount": 2140,
+          "title": "Fangyán = topolect in DC",
+          "imageUrl": null
+        },
         {
           "id": "https://languagelog.ldc.upenn.edu/nll/?p=59286",
           "author": "Victor Mair",

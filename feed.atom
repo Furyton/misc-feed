@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-06-20T20:15:47.131Z</updated>
+    <updated>2023-06-20T21:12:20.339Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Fangyán = topolect in DC]]></title>
+        <id>https://languagelog.ldc.upenn.edu/nll/?p=59348</id>
+        <link href="https://languagelog.ldc.upenn.edu/nll/?p=59348&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=fangyan-topolect-in-dc"/>
+        <updated>2023-06-20T20:58:16.000Z</updated>
+        <summary type="html"><![CDATA[I'm in Georgetown for a few days to meet with colleagues and do some research.  Shortly after I left my hotel and headed down Wisconsin Avenue toward the Potomac for a morning run, I stopped dead in my tracks when I crossed over the canal and saw this: Especially with all the butterflies in the window, I […]]]></summary>
+        <author>
+            <name>Victor Mair</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Fursty Ferret]]></title>
         <id>http://xianblog.wordpress.com/?p=53009</id>
@@ -2654,49 +2664,6 @@ The following figure lists four scenarios in which Stable Diffusion falls short 
         <summary type="html"><![CDATA[Plus Indic, plus Arabic, Korean, Vietnamese, Hokkien (Taiwanese), Hakka, and Fuzhou (Eastern Min). For an exciting read / ride, be sure to follow the whole thread, travelling through time and space. 零 originally didn't mean 'zero,' but 'small rain, drizzle.' Makes it easy to learn: Rain 雨 above, pronunciation 令 below (ok, tone is different). […]]]></summary>
         <author>
             <name>Victor Mair</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Few-Shot Continual Learning for Conditional Generative Adversarial
-  Networks]]></title>
-        <id>http://arxiv.org/abs/2305.11400</id>
-        <link href="http://arxiv.org/abs/2305.11400"/>
-        <updated>2023-05-22T08:19:27.936Z</updated>
-        <summary type="html"><![CDATA[Cat P. Le, Juncheng Dong, Ahmed Aloui, Vahid Tarokh]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meta-learning for heterogeneous treatment effect estimation with
-  closed-form solvers]]></title>
-        <id>http://arxiv.org/abs/2305.11353</id>
-        <link href="http://arxiv.org/abs/2305.11353"/>
-        <updated>2023-05-22T08:19:27.389Z</updated>
-        <summary type="html"><![CDATA[Tomoharu Iwata, Yoichi Chikahara]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Real-Time Variational Method for Learning Neural Trajectory and its
-  Dynamics]]></title>
-        <id>http://arxiv.org/abs/2305.11278</id>
-        <link href="http://arxiv.org/abs/2305.11278"/>
-        <updated>2023-05-22T08:19:27.383Z</updated>
-        <summary type="html"><![CDATA[Matthew Dowling, Yuan Zhao, Il Memming Park]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Incorporating Unlabelled Data into Bayesian Neural Networks]]></title>
-        <id>http://arxiv.org/abs/2304.01762</id>
-        <link href="http://arxiv.org/abs/2304.01762"/>
-        <updated>2023-05-22T08:19:27.328Z</updated>
-        <summary type="html"><![CDATA[Mrinank Sharma, Tom Rainforth, Yee Whye Teh, Vincent Fortuin]]></summary>
-        <author>
-            <name>arxivist feed</name>
         </author>
     </entry>
 </feed>
