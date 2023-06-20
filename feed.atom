@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-06-20T18:17:31.273Z</updated>
+    <updated>2023-06-20T19:11:36.143Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The Fursty Ferret]]></title>
+        <id>http://xianblog.wordpress.com/?p=53009</id>
+        <link href="https://xianblog.wordpress.com/2023/06/20/the-fursty-ferret/"/>
+        <updated>2023-06-20T18:20:00.000Z</updated>
+        <summary type="html"><![CDATA[Visit the post for more.]]></summary>
+        <author>
+            <name>xi'an</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Topolects and texts]]></title>
         <id>https://languagelog.ldc.upenn.edu/nll/?p=59286</id>
@@ -2687,16 +2697,6 @@ The following figure lists four scenarios in which Stable Diffusion falls short 
         <summary type="html"><![CDATA[Mrinank Sharma, Tom Rainforth, Yee Whye Teh, Vincent Fortuin]]></summary>
         <author>
             <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Out of the box acceleration and memory savings of 🤗 decoder models with PyTorch 2.0]]></title>
-        <id>https://pytorch.org/blog/out-of-the-box-acceleration/</id>
-        <link href="https://pytorch.org/blog/out-of-the-box-acceleration/"/>
-        <updated>2023-05-22T07:00:00.000Z</updated>
-        <summary type="html"><![CDATA[As part of PyTorch 2.0 release, an accelerated implementation of the attention mechanism as part of the “Better Transformer” project (and known in PyTorch as Accelerated Transformers) has been added natively into PyTorch as torch.nn.functional.scaled_dot_product_attention. This implementation leverages fused kernels from FlashAttention and Memory-efficient attention, and supports both training and inference.]]></summary>
-        <author>
-            <name>PyTorch Website</name>
         </author>
     </entry>
 </feed>

@@ -1533,16 +1533,6 @@
           "wordCount": 1529,
           "title": "Join the PyTorch Foundation: Membership Now Open",
           "imageUrl": "https://pytorch.org/assets/images/pytorch-logo.png"
-        },
-        {
-          "id": "https://pytorch.org/blog/out-of-the-box-acceleration/",
-          "author": null,
-          "description": "As part of PyTorch 2.0 release, an accelerated implementation of the attention mechanism as part of the “Better Transformer” project (and known in PyTorch as Accelerated Transformers) has been added natively into PyTorch as torch.nn.functional.scaled_dot_product_attention. This implementation leverages fused kernels from FlashAttention and Memory-efficient attention, and supports both training and inference.",
-          "link": "https://pytorch.org/blog/out-of-the-box-acceleration/",
-          "publishedOn": "2023-05-22T07:00:00.000Z",
-          "wordCount": 2191,
-          "title": "Out of the box acceleration and memory savings of 🤗 decoder models with PyTorch 2.0",
-          "imageUrl": "https://pytorch.org/assets/images/pytorch-logo.png"
         }
       ]
     },
@@ -1644,6 +1634,16 @@
       "feedUrl": "https://xianblog.wordpress.com/feed/",
       "siteUrl": "https://xianblog.wordpress.com",
       "articles": [
+        {
+          "id": "http://xianblog.wordpress.com/?p=53009",
+          "author": "xi'an",
+          "description": "Visit the post for more.",
+          "link": "https://xianblog.wordpress.com/2023/06/20/the-fursty-ferret/",
+          "publishedOn": "2023-06-20T18:20:00.000Z",
+          "wordCount": 1772,
+          "title": "The Fursty Ferret",
+          "imageUrl": "https://xianblog.files.wordpress.com/2023/05/1683538746386-e1683548726872.jpg"
+        },
         {
           "id": "http://xianblog.wordpress.com/?p=53331",
           "author": "xi'an",
