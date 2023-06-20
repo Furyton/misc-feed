@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-06-20T14:13:16.946Z</updated>
+    <updated>2023-06-20T15:15:03.652Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -24,6 +24,16 @@
         <summary type="html"><![CDATA[A few years ago, I began to notice that the scientific and technical papers relentless spammed at me, by academia.edu and similar outfits, were becoming increasingly surrealistic. And I soon learned that the source for such articles was systems for "article spinning" by "rogeting" — automatic random subsitution of (usually inappropriate) synonyms. Those techniques were […]]]></summary>
         <author>
             <name>Mark Liberman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RoboCat: A self-improving robotic agent]]></title>
+        <id>https://www.deepmind.com/blog/robocat-a-self-improving-robotic-agent</id>
+        <link href="https://www.deepmind.com/blog/robocat-a-self-improving-robotic-agent"/>
+        <updated>2023-06-20T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Robots are quickly becoming part of our everyday lives, but they’re often only programmed to perform specific tasks well. While harnessing recent advances in AI could lead to robots that could help in many more ways, progress in building general-purpose robots is slower in part because of the time needed to collect real-world training data. Our latest paper introduces a self-improving AI agent for robotics, RoboCat, that learns to perform a variety of tasks across different arms, and then self-generates new training data to improve its technique.]]></summary>
+        <author>
+            <name>DeepMind Blog</name>
         </author>
     </entry>
     <entry>
