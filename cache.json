@@ -1585,6 +1585,16 @@
       "siteUrl": "https://xianblog.wordpress.com",
       "articles": [
         {
+          "id": "http://xianblog.wordpress.com/?p=53342",
+          "author": "xi'an",
+          "description": "A more theoretical Day #2 of the workshop, with Debdeep Pati comparing two representations of Gaussian processes with significantly different efficiencies, and Aad van der Vaart presenting a form of linearisation for a range of inverse problems, Kolyan Ray debiasing Lasso impacts by variational Bayes, although through a somewhat intricate process that distanced the procedure […]",
+          "link": "https://xianblog.wordpress.com/2023/06/22/approximation-methods-in-bayesian-analysis-2/",
+          "publishedOn": "2023-06-21T22:23:33.000Z",
+          "wordCount": 2231,
+          "title": "Approximation Methods in Bayesian Analysis [#2]",
+          "imageUrl": "https://xianblog.files.wordpress.com/2023/06/1687358816764-e1687358982710.jpg"
+        },
+        {
           "id": "http://xianblog.wordpress.com/?p=53337",
           "author": "xi'an",
           "description": "Visit the post for more.",
@@ -1914,6 +1924,16 @@
       "feedUrl": "http://feeds.feedburner.com/blogspot/gJZg",
       "siteUrl": "http://ai.googleblog.com/",
       "articles": [
+        {
+          "id": "http://ai.googleblog.com/2023/06/responsible-ai-at-google-research-ai.html",
+          "author": null,
+          "description": "Posted by Jimmy Tobin and Katrin Tomanek, Software Engineers, Google Research, AI for Social Good\n\n\nGoogle’s AI for Social Good team consists of researchers, engineers, volunteers, and others with a shared focus on positive social impact. Our mission is to demonstrate AI’s societal benefit by enabling real-world value, with projects spanning work in public health, accessibility, crisis response, climate and energy, and nature and society. We believe that the best way to drive positive change in underserved communities is by partnering with change-makers and the organizations they serve.\n\n\n \n\n\nIn this blog post we discuss work done by Project Euphonia, a team within AI for Social Good, that aims to improve automatic speech recognition (ASR) for people with disordered speech. For people with…",
+          "link": "http://ai.googleblog.com/2023/06/responsible-ai-at-google-research-ai.html",
+          "publishedOn": "2023-06-21T20:57:00.002Z",
+          "wordCount": 27599,
+          "title": "Responsible AI at Google Research: AI for Social Good",
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHxJe3sno8uMxxn3EfeK7RHGLZArqkHyOFhvOqt00___7W-jf_KWEpN5lTyGx8pVHSvaSa5NOnWZRy-7AGQZU0A05GlAPyQF5sdqyt4kbseLwR5LNMhKX8mx3MvonGGJKAssz8rlwqiUBv7ljUi9exqbFLE3Yq7yy8eyGTQCK4iIt4BuLvm-3jrC_rUt2G/w1200-h630-p-k-no-nu/image1.png"
+        },
         {
           "id": "http://ai.googleblog.com/2023/06/the-worlds-first-braiding-of-non.html",
           "author": null,
@@ -2671,16 +2691,6 @@
           "publishedOn": "2023-05-24T11:14:27.000Z",
           "wordCount": 2185,
           "title": "Decipherment of Linear A",
-          "imageUrl": null
-        },
-        {
-          "id": "https://languagelog.ldc.upenn.edu/nll/?p=58781",
-          "author": "Victor Mair",
-          "description": "Is it really so? Uncannily and independently, Apollo Wu* sent me the following note before I made this post: Hànzì bùrú pīnyīn de guānjiàn lǐngyù shì páixù, jiǎnsuǒ hé réngōng zhìnéng. Fùzá, fánsuǒ, nán xué nán yòng shì wǒmen mùqián miànlín de kùnnán. Hànzì de luàn, biāozhìzhe Zhōngguó wénhuà de luàn! 汉字 比不上 字母文字 的 […]",
-          "link": "https://languagelog.ldc.upenn.edu/nll/?p=58781&utm_source=rss&utm_medium=rss&utm_campaign=chinese-characters-and-the-messiness-of-chinese-culture",
-          "publishedOn": "2023-05-23T10:57:23.000Z",
-          "wordCount": 2356,
-          "title": "Chinese characters and the messiness of Chinese culture",
           "imageUrl": null
         }
       ]
