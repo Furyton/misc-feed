@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-06-21T14:13:21.743Z</updated>
+    <updated>2023-06-21T15:15:12.520Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -2699,16 +2699,6 @@ The following figure lists four scenarios in which Stable Diffusion falls short 
         <summary type="html"><![CDATA[Yaqi Duan, Kaizheng Wang]]></summary>
         <author>
             <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NBCE：使用朴素贝叶斯拓展LLM的Context处理长度]]></title>
-        <id>https://kexue.fm/archives/9617</id>
-        <link href="https://kexue.fm/archives/9617"/>
-        <updated>2023-05-23T02:45:00.000Z</updated>
-        <summary type="html"><![CDATA[在LLM时代还玩朴素贝叶斯（Naive Bayes）？这可能是许多读者在看到标题后的首个想法。确实如此，当古老的朴素贝叶斯与前沿的LLM相遇时，产生了令人惊讶的效果——我们可以直接提升现有LLM...]]></summary>
-        <author>
-            <name>苏剑林</name>
         </author>
     </entry>
 </feed>
