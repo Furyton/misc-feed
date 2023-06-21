@@ -6,6 +6,56 @@
       "siteUrl": "https://www.arxivist.com",
       "articles": [
         {
+          "id": "http://arxiv.org/abs/2003.11768",
+          "author": null,
+          "description": "Disha Shrivastava, Hugo Larochelle, Daniel Tarlow",
+          "link": "http://arxiv.org/abs/2003.11768",
+          "publishedOn": "2023-06-21T01:23:11.749Z",
+          "wordCount": 760,
+          "title": "On-the-Fly Adaptation of Source Code Models using Meta-Learning",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2302.09807",
+          "author": null,
+          "description": "Zhiyuan Li, Hailong Li, Anca L. Ralescu, Jonathan R. Dillman, Nehal A.\n  Parikh, Lili He",
+          "link": "http://arxiv.org/abs/2302.09807",
+          "publishedOn": "2023-06-21T01:23:11.744Z",
+          "wordCount": 712,
+          "title": "A Novel Collaborative Self-Supervised Learning Method for Radiomic Data",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2210.11049",
+          "author": null,
+          "description": "Guangsheng Zhang, Bo Liu, Huan Tian, Tianqing Zhu, Ming Ding, Wanlei\n  Zhou",
+          "link": "http://arxiv.org/abs/2210.11049",
+          "publishedOn": "2023-06-21T01:23:11.454Z",
+          "wordCount": 749,
+          "title": "How Does a Deep Learning Model Architecture Impact Its Privacy? A\n  Comprehensive Study of Privacy Attacks on CNNs and Transformers",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2306.11668",
+          "author": null,
+          "description": "Gage DeZoort, Boris Hanin",
+          "link": "http://arxiv.org/abs/2306.11668",
+          "publishedOn": "2023-06-21T01:23:11.449Z",
+          "wordCount": 677,
+          "title": "Principles for Initialization and Architecture Selection in Graph Neural\n  Networks with ReLU Activations",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2306.11680",
+          "author": null,
+          "description": "Yuan Cao, Difan Zou, Yuanzhi Li, Quanquan Gu",
+          "link": "http://arxiv.org/abs/2306.11680",
+          "publishedOn": "2023-06-21T01:23:07.429Z",
+          "wordCount": 653,
+          "title": "The Implicit Bias of Batch Normalization in Linear Models and Two-layer\n  Linear Convolutional Neural Networks",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
           "id": "http://arxiv.org/abs/2306.09739",
           "author": null,
           "description": "Alistair White, Niki Kilbertus, Maximilian Gelbrecht, Niklas Boers",
@@ -2691,16 +2741,6 @@
           "publishedOn": "2023-05-23T10:57:23.000Z",
           "wordCount": 2356,
           "title": "Chinese characters and the messiness of Chinese culture",
-          "imageUrl": null
-        },
-        {
-          "id": "https://languagelog.ldc.upenn.edu/nll/?p=58778",
-          "author": "Victor Mair",
-          "description": "Plus Indic, plus Arabic, Korean, Vietnamese, Hokkien (Taiwanese), Hakka, and Fuzhou (Eastern Min). For an exciting read / ride, be sure to follow the whole thread, travelling through time and space. 零 originally didn't mean 'zero,' but 'small rain, drizzle.' Makes it easy to learn: Rain 雨 above, pronunciation 令 below (ok, tone is different). […]",
-          "link": "https://languagelog.ldc.upenn.edu/nll/?p=58778&utm_source=rss&utm_medium=rss&utm_campaign=learning-sinitic-and-sinoglyphic-zero",
-          "publishedOn": "2023-05-22T12:00:04.000Z",
-          "wordCount": 2005,
-          "title": "Learning sinitic and sinoglyphic \"zero\"",
           "imageUrl": null
         }
       ]
