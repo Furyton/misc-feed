@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-06-21T10:16:25.889Z</updated>
+    <updated>2023-06-21T11:12:29.815Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -2709,16 +2709,6 @@ The following figure lists four scenarios in which Stable Diffusion falls short 
         <summary type="html"><![CDATA[在LLM时代还玩朴素贝叶斯（Naive Bayes）？这可能是许多读者在看到标题后的首个想法。确实如此，当古老的朴素贝叶斯与前沿的LLM相遇时，产生了令人惊讶的效果——我们可以直接提升现有LLM...]]></summary>
         <author>
             <name>苏剑林</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bernoulli factory on a budget]]></title>
-        <id>http://xianblog.wordpress.com/?p=53038</id>
-        <link href="https://xianblog.wordpress.com/2023/05/23/bernoulli-factory-on-a-budget/"/>
-        <updated>2023-05-22T22:23:22.000Z</updated>
-        <summary type="html"><![CDATA[A form of Bernoulli factory with limited energy from The Riddler: being given the choice of 0<p<1, what is the minimal number n of throws such that the outcomes of n iid B(p) draws can be partitioned into six groups of equal probability? Running a brute force R code [in the train to Cambridge] and […]]]></summary>
-        <author>
-            <name>xi'an</name>
         </author>
     </entry>
 </feed>
