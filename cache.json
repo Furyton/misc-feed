@@ -2061,16 +2061,6 @@
           "wordCount": 28008,
           "title": "Google Research at I/O 2023",
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjUde5cQAPm8frw1OO3Ub-QIx91GGpY3crqacseMxvbkJ55GMmjma-dqjEmxg8XtAJpSEYvyVWsFagmNVLzugwLWJiQ6OHPm0c1yDgIgXzTHRRF4NpoOJRl5p75u3O11uYuOmPNJW97Xyciox0OJni48f3MrMGmAPqVudm9mtsUUtGaCvt9vIQrc6h3NA/w1200-h630-p-k-no-nu/GoogleIO.jpg"
-        },
-        {
-          "id": "http://ai.googleblog.com/2023/05/resolving-code-review-comments-with-ml.html",
-          "author": null,
-          "description": "Posted by Alexander Frömmgen, Staff Software Engineer, and Lera Kharatyan, Senior Software Engineer, Core Systems & Experiences\n\n\n  \n\nCode-change reviews are a critical part of the software development process at scale, taking a significant amount of the code authors’ and the code reviewers’ time. As part of this process, the reviewer inspects the proposed code and asks the author for code changes through comments written in natural language. At Google, we see millions of reviewer comments per year, and authors require an average of ~60 minutes active shepherding time between sending changes for review and finally submitting the change. In our measurements, the required active work time that the code author must do to address reviewer comments grows almost linearly with the number of comme…",
-          "link": "http://ai.googleblog.com/2023/05/resolving-code-review-comments-with-ml.html",
-          "publishedOn": "2023-05-23T17:51:00.003Z",
-          "wordCount": 27806,
-          "title": "Resolving code review comments with ML",
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjoK3FH1StJnuqrj0gTExqLUxNkVfwRVmiG9tbCNUDV2I5295yqrPlw0L4hRHJmsruvZBIa_FqAFvJfwW7VU4XvxDU4ZweaW6ehENeU7-BLJaLVGPPtn-25cme5qTUldd11YigkAj6Ks9Tif6J3MePey_Gn3cAp3nQf9LMmVy4Eg3yF0qyBZPUKfYJYLw/w1200-h630-p-k-no-nu/comments2code.png"
         }
       ]
     },
