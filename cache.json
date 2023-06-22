@@ -1232,18 +1232,7 @@
       "title": "Harvard ML Foundations",
       "feedUrl": "https://mlfoundations.org/index.xml",
       "siteUrl": "https://mlfoundations.org/",
-      "articles": [
-        {
-          "id": "https://mlfoundations.org/talk/lecun/",
-          "author": null,
-          "description": "How could machines learn as efficiently as humans and animals? How could machines learn how the world works and acquire common sense? How could machines learn to reason and plan? Current AI architectures, such as Auto-Regressive Large Language Models fall short.  I will propose a modular cognitive architecture that may constitute a path towards answering these questions.  The centerpiece of the architecture is a predictive world model that allows the system to predict the consequences of its actions and to plan a sequence of actions that optimize a set of objectives. The world model employs a Hierarchical Joint Embedding Predictive Architecture (H-JEPA) trained with self-supervised learning. The JEPA learns abstract representations of the percepts that are simultaneously maximally informative and maximally predictable. The corresponding working paper is available here - [A Path Towards Autonomous Machine Intelligence](https://openreview.net/forum?id=BZ5a1r-kVsf)",
-          "link": "https://mlfoundations.org/talk/lecun/",
-          "publishedOn": "2023-05-23T14:00:00.000Z",
-          "wordCount": 204,
-          "title": "Yann LeCun - Towards Machines that can Learn, Reason, and Plan.",
-          "imageUrl": "https://mlfoundations.org/img/icon-192.png"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Statistics » Event Diary",
