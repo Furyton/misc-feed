@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-06-22T18:18:53.978Z</updated>
+    <updated>2023-06-22T19:14:08.825Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[SoundStorm: Efficient parallel audio generation]]></title>
+        <id>http://ai.googleblog.com/2023/06/soundstorm-efficient-parallel-audio.html</id>
+        <link href="http://ai.googleblog.com/2023/06/soundstorm-efficient-parallel-audio.html"/>
+        <updated>2023-06-22T18:33:00.000Z</updated>
+        <summary type="html"><![CDATA[Posted by Zalán Borsos, Research Software Engineer, and Marco Tagliasacchi, Senior Staff Research Scientist, Google Research
+
+
+
+
+
+
+
+The recent progress in generative AI unlocked the possibility of creating new content in several different domains, including text, vision and audio. These models often rely on the fact that raw data is first converted to a compressed format as a sequence of tokens. In the case of audio, neural audio codecs (e.g., SoundStream or EnCodec) can efficiently compress waveforms to a compact representation, which can be inverted to reconstruct an approximation of the original audio signal. Such a representation consists of a sequence of discrete audio tokens, capturing the local properties of sounds (e.g., phonemes) and their temporal structure (e.g., prosody). By re…]]></summary>
+        <author>
+            <name>Google AI Blog</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The legal standing of the serial comma]]></title>
         <id>https://languagelog.ldc.upenn.edu/nll/?p=59352</id>
@@ -2634,61 +2652,6 @@ PaLM 2, is built on advances in compute-optimal scaling, scaled instruction-fine
         <summary type="html"><![CDATA[Methodologically, the following communication from Elizabeth J. W. Barber is too important to be left buried in a comment to this post:  "ChatGPT does cuneiform studies" (5/21/23) As I showed in my 1974 book, Archaeological Decipherment, there is a mathematical algorithm showing how much text one needs to PROVABLY accomplish a decipherment for what sort […]]]></summary>
         <author>
             <name>Victor Mair</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mind the spikes: Benign overfitting of kernels and neural networks in
-  fixed dimension]]></title>
-        <id>http://arxiv.org/abs/2305.14077</id>
-        <link href="http://arxiv.org/abs/2305.14077"/>
-        <updated>2023-05-24T07:13:44.399Z</updated>
-        <summary type="html"><![CDATA[Moritz Haas, David Holzm\"uller, Ulrike von Luxburg, Ingo Steinwart]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The CoT Collection: Improving Zero-shot and Few-shot Learning of
-  Language Models via Chain-of-Thought Fine-Tuning]]></title>
-        <id>http://arxiv.org/abs/2305.14045</id>
-        <link href="http://arxiv.org/abs/2305.14045"/>
-        <updated>2023-05-24T07:13:44.392Z</updated>
-        <summary type="html"><![CDATA[Seungone Kim, Se June Joo, Doyoung Kim, Joel Jang, Seonghyeon Ye,
-  Jamin Shin, Minjoon Seo]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ZeroSCROLLS: A Zero-Shot Benchmark for Long Text Understanding]]></title>
-        <id>http://arxiv.org/abs/2305.14196</id>
-        <link href="http://arxiv.org/abs/2305.14196"/>
-        <updated>2023-05-24T07:13:44.382Z</updated>
-        <summary type="html"><![CDATA[Uri Shaham, Maor Ivgi, Avia Efrat, Jonathan Berant, Omer
-  Levy]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Deep Learning with Kernels through RKHM and the Perron-Frobenius
-  Operator]]></title>
-        <id>http://arxiv.org/abs/2305.13588</id>
-        <link href="http://arxiv.org/abs/2305.13588"/>
-        <updated>2023-05-24T07:13:44.376Z</updated>
-        <summary type="html"><![CDATA[Yuka Hashimoto, Masahiro Ikeda, Hachem Kadri]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Transferring Learning Trajectories of Neural Networks]]></title>
-        <id>http://arxiv.org/abs/2305.14122</id>
-        <link href="http://arxiv.org/abs/2305.14122"/>
-        <updated>2023-05-24T07:13:44.370Z</updated>
-        <summary type="html"><![CDATA[Daiki Chijiwa]]></summary>
-        <author>
-            <name>arxivist feed</name>
         </author>
     </entry>
 </feed>

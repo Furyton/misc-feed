@@ -1084,56 +1084,6 @@
           "wordCount": 665,
           "title": "Test like you Train in Implicit Deep Learning",
           "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
-        },
-        {
-          "id": "http://arxiv.org/abs/2305.14077",
-          "author": null,
-          "description": "Moritz Haas, David Holzm\\\"uller, Ulrike von Luxburg, Ingo Steinwart",
-          "link": "http://arxiv.org/abs/2305.14077",
-          "publishedOn": "2023-05-24T07:13:44.399Z",
-          "wordCount": 730,
-          "title": "Mind the spikes: Benign overfitting of kernels and neural networks in\n  fixed dimension",
-          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
-        },
-        {
-          "id": "http://arxiv.org/abs/2305.14045",
-          "author": null,
-          "description": "Seungone Kim, Se June Joo, Doyoung Kim, Joel Jang, Seonghyeon Ye,\n  Jamin Shin, Minjoon Seo",
-          "link": "http://arxiv.org/abs/2305.14045",
-          "publishedOn": "2023-05-24T07:13:44.392Z",
-          "wordCount": 683,
-          "title": "The CoT Collection: Improving Zero-shot and Few-shot Learning of\n  Language Models via Chain-of-Thought Fine-Tuning",
-          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
-        },
-        {
-          "id": "http://arxiv.org/abs/2305.14196",
-          "author": null,
-          "description": "Uri Shaham, Maor Ivgi, Avia Efrat, Jonathan Berant, Omer\n  Levy",
-          "link": "http://arxiv.org/abs/2305.14196",
-          "publishedOn": "2023-05-24T07:13:44.382Z",
-          "wordCount": 635,
-          "title": "ZeroSCROLLS: A Zero-Shot Benchmark for Long Text Understanding",
-          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
-        },
-        {
-          "id": "http://arxiv.org/abs/2305.13588",
-          "author": null,
-          "description": "Yuka Hashimoto, Masahiro Ikeda, Hachem Kadri",
-          "link": "http://arxiv.org/abs/2305.13588",
-          "publishedOn": "2023-05-24T07:13:44.376Z",
-          "wordCount": 625,
-          "title": "Deep Learning with Kernels through RKHM and the Perron-Frobenius\n  Operator",
-          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
-        },
-        {
-          "id": "http://arxiv.org/abs/2305.14122",
-          "author": null,
-          "description": "Daiki Chijiwa",
-          "link": "http://arxiv.org/abs/2305.14122",
-          "publishedOn": "2023-05-24T07:13:44.370Z",
-          "wordCount": 628,
-          "title": "Transferring Learning Trajectories of Neural Networks",
-          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
         }
       ]
     },
@@ -1942,6 +1892,16 @@
       "feedUrl": "http://feeds.feedburner.com/blogspot/gJZg",
       "siteUrl": "http://ai.googleblog.com/",
       "articles": [
+        {
+          "id": "http://ai.googleblog.com/2023/06/soundstorm-efficient-parallel-audio.html",
+          "author": null,
+          "description": "Posted by Zalán Borsos, Research Software Engineer, and Marco Tagliasacchi, Senior Staff Research Scientist, Google Research\n\n\n\n\n\n\n\nThe recent progress in generative AI unlocked the possibility of creating new content in several different domains, including text, vision and audio. These models often rely on the fact that raw data is first converted to a compressed format as a sequence of tokens. In the case of audio, neural audio codecs (e.g., SoundStream or EnCodec) can efficiently compress waveforms to a compact representation, which can be inverted to reconstruct an approximation of the original audio signal. Such a representation consists of a sequence of discrete audio tokens, capturing the local properties of sounds (e.g., phonemes) and their temporal structure (e.g., prosody). By re…",
+          "link": "http://ai.googleblog.com/2023/06/soundstorm-efficient-parallel-audio.html",
+          "publishedOn": "2023-06-22T18:33:00.000Z",
+          "wordCount": 27618,
+          "title": "SoundStorm: Efficient parallel audio generation",
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhjNO7RwCdlB6y_dfklFN6uJAEWuV2K-dPXjXjoNVPT_x9MsARxpLNLj5IsTj666uo_9avS2dlxmz8cvZaKPj_dLy3IR6Jn6vLRXviPZaYunzxOsmQf8vZZYzCWQwq_CSmjIv3f1OLLuI6fvayDGUlgU7jLpcivR5us6eayttLYbjFugvqP-j2pcsK2Utdy/w1200-h630-p-k-no-nu/SoundStorm.png"
+        },
         {
           "id": "http://ai.googleblog.com/2023/06/responsible-ai-at-google-research-ai.html",
           "author": null,
