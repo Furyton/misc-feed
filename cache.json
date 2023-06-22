@@ -1563,6 +1563,16 @@
       "siteUrl": "https://xianblog.wordpress.com",
       "articles": [
         {
+          "id": "http://xianblog.wordpress.com/?p=53355",
+          "author": "xi'an",
+          "description": "My last day (#4) at the workshop, as I had to return to Paris earlier. A rather theoretical morning again, with Morgane Austern on (probabilistic) concentration inequalities on transport distances, far from my comfort zone if lively, Jason Xu on replacing non-convex penalisation factors to distances to the corresponding manifold, which I found most interesting […]",
+          "link": "https://xianblog.wordpress.com/2023/06/23/approximation-methods-in-bayesian-analysis-3/",
+          "publishedOn": "2023-06-22T22:23:24.000Z",
+          "wordCount": 2083,
+          "title": "Approximation Methods in Bayesian Analysis [#3]",
+          "imageUrl": "https://xianblog.files.wordpress.com/2010/07/img_7249.jpg"
+        },
+        {
           "id": "http://xianblog.wordpress.com/?p=53342",
           "author": "xi'an",
           "description": "A more theoretical Day #2 of the workshop, with Debdeep Pati comparing two representations of Gaussian processes with significantly different efficiencies, and Aad van der Vaart presenting a form of linearisation for a range of inverse problems, Kolyan Ray debiasing Lasso impacts by variational Bayes, although through a somewhat intricate process that distanced the procedure […]",
@@ -2659,16 +2669,6 @@
           "publishedOn": "2023-05-25T08:48:28.000Z",
           "wordCount": 2166,
           "title": "\"Master the essence of solid\"",
-          "imageUrl": null
-        },
-        {
-          "id": "https://languagelog.ldc.upenn.edu/nll/?p=58786",
-          "author": "Victor Mair",
-          "description": "Methodologically, the following communication from Elizabeth J. W. Barber is too important to be left buried in a comment to this post:  \"ChatGPT does cuneiform studies\" (5/21/23) As I showed in my 1974 book, Archaeological Decipherment, there is a mathematical algorithm showing how much text one needs to PROVABLY accomplish a decipherment for what sort […]",
-          "link": "https://languagelog.ldc.upenn.edu/nll/?p=58786&utm_source=rss&utm_medium=rss&utm_campaign=decipherment-of-linear-a",
-          "publishedOn": "2023-05-24T11:14:27.000Z",
-          "wordCount": 2185,
-          "title": "Decipherment of Linear A",
           "imageUrl": null
         }
       ]
