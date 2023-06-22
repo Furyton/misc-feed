@@ -1310,16 +1310,6 @@
           "wordCount": 3002,
           "title": "Understanding CPUs can help speed up Numba and NumPy code",
           "imageUrl": "https://pythonspeed.com/assets/titles/speeding-up-numba.png"
-        },
-        {
-          "id": "https://pythonspeed.com/articles/best-file-format-for-pandas/",
-          "author": null,
-          "description": "Before you can process your data with Pandas, you need to load it (from disk or remote storage).\nThere are plenty of data formats supported by Pandas, from CSV, to JSON, to Parquet, and many others as well.\nWhich should you use?\nYou don’t want loading the data to be slow, or use lots of memory: that’s pure overhead.\nIdeally you’d want a file format that’s fast, efficient, small, and broadly supported.\nYou also want to make sure the loaded data has all the right types: numeric types, datetimes, and so on.\nSome data formats do a better job at this than others.\nWhile there is no one true answer that works for everyone, this article will try to help you narrow down the field and make an informed decision.\nRead more...",
-          "link": "https://pythonspeed.com/articles/best-file-format-for-pandas/",
-          "publishedOn": "2023-05-24T00:00:00.000Z",
-          "wordCount": 1898,
-          "title": "Choosing a good file format for Pandas",
-          "imageUrl": "https://pythonspeed.com/assets/titles/best-file-format-for-pandas.png"
         }
       ]
     },
