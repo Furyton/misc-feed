@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-06-22T13:17:58.733Z</updated>
+    <updated>2023-06-22T14:13:29.972Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The legal standing of the serial comma]]></title>
+        <id>https://languagelog.ldc.upenn.edu/nll/?p=59352</id>
+        <link href="https://languagelog.ldc.upenn.edu/nll/?p=59352&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=the-legal-standing-of-the-serial-comma"/>
+        <updated>2023-06-22T13:30:29.000Z</updated>
+        <summary type="html"><![CDATA[[This is a guest post by Mark Cohen] I am wondering if members of this group have had experience with translating the Chinese serial comma or dùnhào 顿号  [、] ("the caesura sign; a slight-pause mark used to set off items in a series; punctuation mark used between parallel words or short phrases; sign of coordination; […]]]></summary>
+        <author>
+            <name>Victor Mair</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Open Problem: Learning with Variational Objectives on Measures]]></title>
         <id>http://arxiv.org/abs/2306.11928</id>
