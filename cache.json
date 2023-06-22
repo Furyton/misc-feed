@@ -6,6 +6,56 @@
       "siteUrl": "https://www.arxivist.com",
       "articles": [
         {
+          "id": "http://arxiv.org/abs/2306.11928",
+          "author": null,
+          "description": "Vivien Cabannes, Carles Domingo-Enrich",
+          "link": "http://arxiv.org/abs/2306.11928",
+          "publishedOn": "2023-06-22T07:16:05.265Z",
+          "wordCount": 557,
+          "title": "Open Problem: Learning with Variational Objectives on Measures",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2306.11827",
+          "author": null,
+          "description": "Mattia Jacopo Villani, Nandi Schoots",
+          "link": "http://arxiv.org/abs/2306.11827",
+          "publishedOn": "2023-06-22T07:16:05.251Z",
+          "wordCount": 559,
+          "title": "Any Deep ReLU Network is Shallow",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2302.00375",
+          "author": null,
+          "description": "Hugo Cui, Florent Krzakala, Lenka Zdeborov\\'a",
+          "link": "http://arxiv.org/abs/2302.00375",
+          "publishedOn": "2023-06-22T07:16:04.347Z",
+          "wordCount": 643,
+          "title": "Bayes-optimal Learning of Deep Random Networks of Extensive-width",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2203.13887",
+          "author": null,
+          "description": "Victor Chernozhukov, Whitney Newey, Rahul Singh, Vasilis Syrgkanis",
+          "link": "http://arxiv.org/abs/2203.13887",
+          "publishedOn": "2023-06-22T07:16:04.342Z",
+          "wordCount": 715,
+          "title": "Automatic Debiased Machine Learning for Dynamic Treatment Effects and\n  General Nested Functionals",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2304.01561",
+          "author": null,
+          "description": "Yunfei Yang, Ding-Xuan Zhou",
+          "link": "http://arxiv.org/abs/2304.01561",
+          "publishedOn": "2023-06-22T07:16:04.220Z",
+          "wordCount": 685,
+          "title": "Optimal rates of approximation by shallow ReLU$^k$ neural networks and\n  applications to nonparametric regression",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
           "id": "http://arxiv.org/abs/2003.11768",
           "author": null,
           "description": "Disha Shrivastava, Hugo Larochelle, Daniel Tarlow",
