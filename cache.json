@@ -1153,16 +1153,6 @@
           "wordCount": 4660,
           "title": "Physics Related News: Israel Joining CERN, Pugwash and Global Zero, The Replication Crisis, and MAX the Damon.",
           "imageUrl": "https://gilkalai.files.wordpress.com/2023/05/cern22.jpg"
-        },
-        {
-          "id": "http://gilkalai.wordpress.com/?p=24359",
-          "author": "Gil Kalai",
-          "description": "Bob choses a sequences of zeroes and ones of length . The bits are presented to Alice one by one. Alice’s task is to choose, at a certain time of her choice, some number (smaller than the number of unseen … Continue reading →",
-          "link": "https://gilkalai.wordpress.com/2023/05/25/test-your-intuition-52-can-you-predict-the-ratios-of-ones/",
-          "publishedOn": "2023-05-25T08:33:58.000Z",
-          "wordCount": 3098,
-          "title": "Test your intuition 52: Can you predict the ratios of ones?",
-          "imageUrl": "https://s0.wp.com/i/blank.jpg"
         }
       ]
     },
@@ -1538,16 +1528,6 @@
           "wordCount": 4660,
           "title": "Physics Related News: Israel Joining CERN, Pugwash and Global Zero, The Replication Crisis, and MAX the Damon.",
           "imageUrl": "https://gilkalai.files.wordpress.com/2023/05/cern22.jpg"
-        },
-        {
-          "id": "http://gilkalai.wordpress.com/?p=24359",
-          "author": "Gil Kalai",
-          "description": "Bob choses a sequences of zeroes and ones of length . The bits are presented to Alice one by one. Alice’s task is to choose, at a certain time of her choice, some number (smaller than the number of unseen … Continue reading →",
-          "link": "https://gilkalai.wordpress.com/2023/05/25/test-your-intuition-52-can-you-predict-the-ratios-of-ones/",
-          "publishedOn": "2023-05-25T08:33:58.000Z",
-          "wordCount": 3098,
-          "title": "Test your intuition 52: Can you predict the ratios of ones?",
-          "imageUrl": "https://s0.wp.com/i/blank.jpg"
         }
       ]
     },
@@ -1892,6 +1872,16 @@
       "feedUrl": "http://feeds.feedburner.com/blogspot/gJZg",
       "siteUrl": "http://ai.googleblog.com/",
       "articles": [
+        {
+          "id": "http://ai.googleblog.com/2023/06/preference-learning-with-automated.html",
+          "author": null,
+          "description": "Posted by Ramki Gummadi, Software Engineer, Google and Kevin Chen, Software Engineer, YouTube\n\n\n\n\n\nCaching is a ubiquitous idea in computer science that significantly improves the performance of storage and retrieval systems by storing a subset of popular items closer to the client based on request patterns. An important algorithmic piece of cache management is the decision policy used for dynamically updating the set of items being stored, which has been extensively optimized over several decades, resulting in several efficient and robust heuristics. While applying machine learning to cache policies has shown promising results in recent years (e.g., LRB, LHD, storage applications), it remains a challenge to outperform robust heuristics in a way that can generalize reliably beyond benchmar…",
+          "link": "http://ai.googleblog.com/2023/06/preference-learning-with-automated.html",
+          "publishedOn": "2023-06-23T19:24:00.001Z",
+          "wordCount": 27974,
+          "title": "Preference learning with automated feedback for cache eviction",
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjvw85_8jzAL-q7CGVpJ-qtMLcu0Zmi6d831BAsHj-33Mw6dF6SphPpL5Bhx13fAzZFtayquwlGdwhSLIvcktVm5Iu48JpNCNBueEbu-tJrs5tlJD5eS2qV0DeCdR0z9ppfVNFafEc3B-CcXg68mhybf2z458qG9hjTGtHPQ4tLOCF15GRcL4uiHTu5vIvL/w1200-h630-p-k-no-nu/Halp%20hero%20gif.gif"
+        },
         {
           "id": "http://ai.googleblog.com/2023/06/soundstorm-efficient-parallel-audio.html",
           "author": null,
@@ -2669,16 +2659,6 @@
           "publishedOn": "2023-05-25T12:19:56.000Z",
           "wordCount": 2206,
           "title": "\"Failure to Launch\"?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://languagelog.ldc.upenn.edu/nll/?p=58775",
-          "author": "Victor Mair",
-          "description": "From the website for Royal China Group, a famous Chinese restaurant group in London: The problem begins at the beginning:  jingcui 精粹 does not mean \"master\"; it means \"essence\". The entire text reads as follows: Zhōngguó yǐnshí wénhuà bódàjīngshēn,Huángcháo nǔlì bùxiè yánshǒu zhèngzōng chuántǒng Yuècài de fēnggé,bìng zài wèijué de lǐngyù zhōng xúnqiú túpò,zhǎngwò gùzhōng jīngcuì […]",
-          "link": "https://languagelog.ldc.upenn.edu/nll/?p=58775&utm_source=rss&utm_medium=rss&utm_campaign=master-the-essence-of-solid",
-          "publishedOn": "2023-05-25T08:48:28.000Z",
-          "wordCount": 2166,
-          "title": "\"Master the essence of solid\"",
           "imageUrl": null
         }
       ]
