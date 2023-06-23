@@ -2,10 +2,62 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-06-23T06:23:17.142Z</updated>
+    <updated>2023-06-23T07:19:36.778Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Sharp analysis of EM for learning mixtures of pairwise differences]]></title>
+        <id>http://arxiv.org/abs/2302.10066</id>
+        <link href="http://arxiv.org/abs/2302.10066"/>
+        <updated>2023-06-23T07:19:28.276Z</updated>
+        <summary type="html"><![CDATA[Abhishek Dhawan, Cheng Mao, Ashwin Pananjady]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[On the explainable properties of 1-Lipschitz Neural Networks: An Optimal
+  Transport Perspective]]></title>
+        <id>http://arxiv.org/abs/2206.06854</id>
+        <link href="http://arxiv.org/abs/2206.06854"/>
+        <updated>2023-06-23T07:19:28.271Z</updated>
+        <summary type="html"><![CDATA[Mathieu Serrurier (IRIT, UT), Franck Mamalet (UT), Thomas Fel (UT),
+  Louis B\'ethune (UT3, UT, IRIT), Thibaut Boissin (UT)]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Path to Autonomous Learners]]></title>
+        <id>http://arxiv.org/abs/2211.02403</id>
+        <link href="http://arxiv.org/abs/2211.02403"/>
+        <updated>2023-06-23T07:19:28.265Z</updated>
+        <summary type="html"><![CDATA[Hanna Abi Akl]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Finite-time Lyapunov exponents of deep neural networks]]></title>
+        <id>http://arxiv.org/abs/2306.12548</id>
+        <link href="http://arxiv.org/abs/2306.12548"/>
+        <updated>2023-06-23T07:19:28.245Z</updated>
+        <summary type="html"><![CDATA[L. Storm, H. Linander, J. Bec, K. Gustavsson, B. Mehlig]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SQ Lower Bounds for Learning Bounded Covariance GMMs]]></title>
+        <id>http://arxiv.org/abs/2306.13057</id>
+        <link href="http://arxiv.org/abs/2306.13057"/>
+        <updated>2023-06-23T07:19:28.227Z</updated>
+        <summary type="html"><![CDATA[Ilias Diakonikolas, Daniel M. Kane, Thanasis Pittas, Nikos Zarifis]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Approximation Methods in Bayesian Analysis [#3]]]></title>
         <id>http://xianblog.wordpress.com/?p=53355</id>
