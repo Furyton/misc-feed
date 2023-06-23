@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-06-23T12:33:53.936Z</updated>
+    <updated>2023-06-23T13:25:13.779Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -2696,16 +2696,6 @@ PaLM 2, is built on advances in compute-optimal scaling, scaled instruction-fine
         <summary type="html"><![CDATA[Zaccharie Ramzi, Pierre Ablin, Gabriel Peyr\'e, Thomas Moreau]]></summary>
         <author>
             <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[An early warning system for novel AI risks]]></title>
-        <id>https://www.deepmind.com/blog/an-early-warning-system-for-novel-ai-risks</id>
-        <link href="https://www.deepmind.com/blog/an-early-warning-system-for-novel-ai-risks"/>
-        <updated>2023-05-25T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[AI researchers already use a range of evaluation benchmarks to identify unwanted behaviours in AI systems, such as AI systems making misleading statements, biased decisions, or repeating copyrighted content. Now, as the AI community builds and deploys increasingly powerful AI, we must expand the evaluation portfolio to include the possibility of extreme risks from general-purpose AI models that have strong skills in manipulation, deception, cyber-offense, or other dangerous capabilities.]]></summary>
-        <author>
-            <name>DeepMind Blog</name>
         </author>
     </entry>
 </feed>
