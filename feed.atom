@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-06-23T08:21:18.419Z</updated>
+    <updated>2023-06-23T09:17:54.883Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Interpretable Neural-Symbolic Concept Reasoning]]></title>
+        <id>http://arxiv.org/abs/2304.14068</id>
+        <link href="http://arxiv.org/abs/2304.14068"/>
+        <updated>2023-06-23T09:17:07.507Z</updated>
+        <summary type="html"><![CDATA[Pietro Barbiero, Gabriele Ciravegna, Francesco Giannini, Mateo
+  Espinosa Zarlenga, Lucie Charlotte Magister, Alberto Tonda, Pietro Lio',
+  Frederic Precioso, Mateja Jamnik, Giuseppe Marra]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Sharp analysis of EM for learning mixtures of pairwise differences]]></title>
         <id>http://arxiv.org/abs/2302.10066</id>
