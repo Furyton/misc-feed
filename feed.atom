@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-06-24T01:40:07.589Z</updated>
+    <updated>2023-06-24T02:58:26.502Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[生成扩散模型漫谈（十九）：作为扩散ODE的GAN]]></title>
+        <id>https://kexue.fm/archives/9662</id>
+        <link href="https://kexue.fm/archives/9662"/>
+        <updated>2023-06-24T01:38:00.000Z</updated>
+        <summary type="html"><![CDATA[在文章《生成扩散模型漫谈（十六）：W距离 ≤ 得分匹配》中，我们推导了Wasserstein距离与扩散模型得分匹配损失之间的一个不等式，表明扩散模型的优化目标与WGAN的优化目标在某种程度上具有...]]></summary>
+        <author>
+            <name>苏剑林</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[noctureine 2023 [16/6/23, 20h40, 10k, 41’54”, 29⁰, 48th/295, 1st M5/11]]]></title>
         <id>http://xianblog.wordpress.com/?p=53258</id>
