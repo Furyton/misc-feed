@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-06-24T04:20:24.639Z</updated>
+    <updated>2023-06-24T05:15:54.007Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -2647,27 +2647,6 @@ Clustering is a central problem in unsupervised machine learning (ML) with many 
         <summary type="html"><![CDATA[Visit the post for more.]]></summary>
         <author>
             <name>xi'an</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google Research at I/O 2023]]></title>
-        <id>http://ai.googleblog.com/2023/05/google-research-at-io-2023.html</id>
-        <link href="http://ai.googleblog.com/2023/05/google-research-at-io-2023.html"/>
-        <updated>2023-05-25T17:03:00.003Z</updated>
-        <summary type="html"><![CDATA[Posted by James Manyika, SVP Google Research and Technology & Society, and Jeff Dean, Chief Scientist, Google DeepMind and Google Research
-
-
-
-
-Wednesday, May 10th was an exciting day for the Google Research community as we watched the results of months and years of our foundational and applied work get announced on the Google I/O stage. With the quick pace of announcements on stage, it can be difficult to convey the substantial effort and unique innovations that underlie the technologies we presented. So today, we’re excited to reveal more about the research efforts behind some of the many exciting announcements at this year's I/O. 
-
-
- 
-
-PaLM 2 
-PaLM 2, is built on advances in compute-optimal scaling, scaled instruction-fine tuning and improved dataset mixture. By fine-tuning and instructi…]]></summary>
-        <author>
-            <name>Google AI Blog</name>
         </author>
     </entry>
 </feed>
