@@ -1054,56 +1054,6 @@
           "wordCount": 612,
           "title": "Neural Architecture Search for Parameter-Efficient Fine-tuning of Large\n  Pre-trained Language Models",
           "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
-        },
-        {
-          "id": "http://arxiv.org/abs/2108.13097",
-          "author": null,
-          "description": "Adam X. Yang, Maxime Robeyns, Edward Milsom, Ben Anson, Nandi Schoots,\n  Laurence Aitchison",
-          "link": "http://arxiv.org/abs/2108.13097",
-          "publishedOn": "2023-05-26T02:32:49.402Z",
-          "wordCount": 786,
-          "title": "A theory of representation learning gives a deep generalisation of\n  kernel methods",
-          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
-        },
-        {
-          "id": "http://arxiv.org/abs/2304.06767",
-          "author": null,
-          "description": "Hanze Dong, Wei Xiong, Deepanshu Goyal, Rui Pan, Shizhe Diao, Jipeng\n  Zhang, Kashun Shum, Tong Zhang",
-          "link": "http://arxiv.org/abs/2304.06767",
-          "publishedOn": "2023-05-26T02:32:49.394Z",
-          "wordCount": 763,
-          "title": "RAFT: Reward rAnked FineTuning for Generative Foundation Model Alignment",
-          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
-        },
-        {
-          "id": "http://arxiv.org/abs/2305.15786",
-          "author": null,
-          "description": "Hilaf Hasson, Danielle C. Maddix, Yuyang Wang, Gaurav Gupta, Youngsuk\n  Park",
-          "link": "http://arxiv.org/abs/2305.15786",
-          "publishedOn": "2023-05-26T02:32:49.374Z",
-          "wordCount": 691,
-          "title": "Theoretical Guarantees of Learning Ensembling Strategies with\n  Applications to Time Series Forecasting",
-          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
-        },
-        {
-          "id": "http://arxiv.org/abs/2302.03067",
-          "author": null,
-          "description": "Tim Genewein, Gr\\'egoire Del\\'etang, Anian Ruoss, Li Kevin Wenliang,\n  Elliot Catt, Vincent Dutordoir, Jordi Grau-Moya, Laurent Orseau, Marcus\n  Hutter, Joel Veness",
-          "link": "http://arxiv.org/abs/2302.03067",
-          "publishedOn": "2023-05-26T02:32:49.365Z",
-          "wordCount": 632,
-          "title": "Memory-Based Meta-Learning on Non-Stationary Distributions",
-          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
-        },
-        {
-          "id": "http://arxiv.org/abs/2305.15598",
-          "author": null,
-          "description": "Suzanna Parkinson, Greg Ongie, Rebecca Willett",
-          "link": "http://arxiv.org/abs/2305.15598",
-          "publishedOn": "2023-05-26T02:32:49.357Z",
-          "wordCount": 685,
-          "title": "Linear Neural Network Layers Promote Learning Single- and Multiple-Index\n  Models",
-          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
         }
       ]
     },
@@ -2076,6 +2026,16 @@
       "feedUrl": "https://languagelog.ldc.upenn.edu/nll/?feed=rss2",
       "siteUrl": "https://languagelog.ldc.upenn.edu/nll",
       "articles": [
+        {
+          "id": "https://languagelog.ldc.upenn.edu/nll/?p=59396",
+          "author": "Mark Liberman",
+          "description": "Just wow. A video has surfaced showing Prigozhin at the Southern Military District HQ in Rostov-on-Don talking to (and HUMILIATING) Deputy Defense Minister Yunus-bek Yevkurov. He threatens to blockade Rostov and head for Moscow! I have extreme trouble understanding Yevkurov and… pic.twitter.com/jGr9gaLB1i — Kevin Rothrock (@KevinRothrock) June 24, 2023 An English translation of the linguistically-relevant […]",
+          "link": "https://languagelog.ldc.upenn.edu/nll/?p=59396&utm_source=rss&utm_medium=rss&utm_campaign=prigozhins-pronouns",
+          "publishedOn": "2023-06-24T14:26:14.000Z",
+          "wordCount": 2167,
+          "title": "Prigozhin's pronouns",
+          "imageUrl": null
+        },
         {
           "id": "https://languagelog.ldc.upenn.edu/nll/?p=59388",
           "author": "Victor Mair",
