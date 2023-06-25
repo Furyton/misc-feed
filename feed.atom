@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-06-25T10:17:29.650Z</updated>
+    <updated>2023-06-25T11:14:10.265Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -2567,16 +2567,6 @@ Today we describe DIDACT (​​Dynamic Integrated Developer ACTivity), which is
         <link href="https://xianblog.wordpress.com/2023/05/28/natural-nested-sampling/"/>
         <updated>2023-05-27T22:23:11.000Z</updated>
         <summary type="html"><![CDATA[“The nested sampling algorithm solves otherwise challenging, high-dimensional integrals by evolving a collection of live points through parameter space. The algorithm was immediately adopted in cosmology because it partially overcomes three of the major difficulties in Markov chain Monte Carlo, the algorithm traditionally used for Bayesian computation. Nested sampling simultaneously returns results for model comparison […]]]></summary>
-        <author>
-            <name>xi'an</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[on control variates]]></title>
-        <id>http://xianblog.wordpress.com/?p=52378</id>
-        <link href="https://xianblog.wordpress.com/2023/05/27/on-control-variates/"/>
-        <updated>2023-05-26T22:23:58.000Z</updated>
-        <summary type="html"><![CDATA[A few months ago, I had to write a thesis evaluation of Rémi Leluc’s PhD, which contained several novel Monte Carlo proposals on control variates and importance techniques. For instance, Leluc et al. (Statistics and Computing, 2021) revisits the concept of control variables by adding a perspective of control variable selection using LASSO. This prior […]]]></summary>
         <author>
             <name>xi'an</name>
         </author>
