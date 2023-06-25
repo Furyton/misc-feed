@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-06-25T06:21:36.954Z</updated>
+    <updated>2023-06-25T07:15:26.258Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -2579,25 +2579,6 @@ Today we describe DIDACT (​​Dynamic Integrated Developer ACTivity), which is
         <summary type="html"><![CDATA[A few months ago, I had to write a thesis evaluation of Rémi Leluc’s PhD, which contained several novel Monte Carlo proposals on control variates and importance techniques. For instance, Leluc et al. (Statistics and Computing, 2021) revisits the concept of control variables by adding a perspective of control variable selection using LASSO. This prior […]]]></summary>
         <author>
             <name>xi'an</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Foundation models for reasoning on charts]]></title>
-        <id>http://ai.googleblog.com/2023/05/foundation-models-for-reasoning-on.html</id>
-        <link href="http://ai.googleblog.com/2023/05/foundation-models-for-reasoning-on.html"/>
-        <updated>2023-05-26T19:08:00.002Z</updated>
-        <summary type="html"><![CDATA[Posted by Julian Eisenschlos, Research Software Engineer, Google Research
-
-
-
-
-
-Visual language is the form of communication that relies on pictorial symbols outside of text to convey information. It is ubiquitous in our digital life in the form of iconography, infographics, tables, plots, and charts, extending to the real world in street signs, comic books, food labels, etc. For that reason, having computers better understand this type of media can help with scientific communication and discovery, accessibility, and data transparency.
- 
-
-While computer vision models have made tremendous progress using learning-based solutions since the advent of ImageNet, the focus has been on natural images, where all sorts of tasks, such as classification, visual question answering (VQA), captioning, det…]]></summary>
-        <author>
-            <name>Google AI Blog</name>
         </author>
     </entry>
 </feed>
