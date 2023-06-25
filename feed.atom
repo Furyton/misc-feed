@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-06-25T04:20:25.015Z</updated>
+    <updated>2023-06-25T05:16:17.495Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -2596,22 +2596,6 @@ Visual language is the form of communication that relies on pictorial symbols ou
  
 
 While computer vision models have made tremendous progress using learning-based solutions since the advent of ImageNet, the focus has been on natural images, where all sorts of tasks, such as classification, visual question answering (VQA), captioning, det…]]></summary>
-        <author>
-            <name>Google AI Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Barkour: Benchmarking animal-level agility with quadruped robots]]></title>
-        <id>http://ai.googleblog.com/2023/05/barkour-benchmarking-animal-level.html</id>
-        <link href="http://ai.googleblog.com/2023/05/barkour-benchmarking-animal-level.html"/>
-        <updated>2023-05-26T16:58:00.000Z</updated>
-        <summary type="html"><![CDATA[Posted by Ken Caluwaerts and Atil Iscen, Research Scientists, Google
-
-
-
-
-
-Creating robots that exhibit robust and dynamic locomotion capabilities, similar to animals or humans, has been a long-standing goal in the robotics community. In addition to completing tasks quickly and efficiently, agility allows legged robots to move through complex environments that are otherwise difficult to traverse. Researchers at Google have been pursuing agility for multiple years and across various form factors. Yet, while researchers have enabled robots to hike or jump over some obstacles, there is still no generally accepted benchmark that comprehensively measures robot agility or mobility. In contrast, benchmarks are driving forces behind the development of machine learning, such as ImageNet for computer…]]></summary>
         <author>
             <name>Google AI Blog</name>
         </author>
