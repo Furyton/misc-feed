@@ -6,6 +6,56 @@
       "siteUrl": "https://www.arxivist.com",
       "articles": [
         {
+          "id": "http://arxiv.org/abs/1812.06591",
+          "author": null,
+          "description": "Rob Chew, Michael Wenger, Caroline Kery, Jason Nance, Keith Richards,\n  Emily Hadley, Peter Baumgartner",
+          "link": "http://arxiv.org/abs/1812.06591",
+          "publishedOn": "2023-06-26T07:16:33.172Z",
+          "wordCount": 627,
+          "title": "SMART: An Open Source Data Labeling Platform for Supervised Learning",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2306.13255",
+          "author": null,
+          "description": "David X. Wu, Anant Sahai",
+          "link": "http://arxiv.org/abs/2306.13255",
+          "publishedOn": "2023-06-26T07:16:33.165Z",
+          "wordCount": 680,
+          "title": "Precise Asymptotic Generalization for Multiclass Classification with\n  Overparameterized Linear Models",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2305.19185",
+          "author": null,
+          "description": "Zongyu Guo, Gergely Flamich, Jiajun He, Zhibo Chen, Jos\\'e Miguel\n  Hern\\'andez-Lobato",
+          "link": "http://arxiv.org/abs/2305.19185",
+          "publishedOn": "2023-06-26T07:16:33.144Z",
+          "wordCount": 701,
+          "title": "Compression with Bayesian Implicit Neural Representations",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2306.13242",
+          "author": null,
+          "description": "Ziwei Jiang, Lai Wei, Murat Kocaoglu",
+          "link": "http://arxiv.org/abs/2306.13242",
+          "publishedOn": "2023-06-26T07:16:33.135Z",
+          "wordCount": 682,
+          "title": "Approximate Causal Effect Identification under Weak Confounding",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2306.13461",
+          "author": null,
+          "description": "Elies Gil-Fuster, Jens Eisert, Carlos Bravo-Prieto",
+          "link": "http://arxiv.org/abs/2306.13461",
+          "publishedOn": "2023-06-26T07:16:33.055Z",
+          "wordCount": 692,
+          "title": "Understanding quantum machine learning also requires rethinking\n  generalization",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
           "id": "http://arxiv.org/abs/2306.09832",
           "author": null,
           "description": "Xiaolei Zhang, Tiwei Zhao, Dingguo Wang",

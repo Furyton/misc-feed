@@ -2,10 +2,64 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-06-26T06:24:04.776Z</updated>
+    <updated>2023-06-26T07:16:44.301Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[SMART: An Open Source Data Labeling Platform for Supervised Learning]]></title>
+        <id>http://arxiv.org/abs/1812.06591</id>
+        <link href="http://arxiv.org/abs/1812.06591"/>
+        <updated>2023-06-26T07:16:33.172Z</updated>
+        <summary type="html"><![CDATA[Rob Chew, Michael Wenger, Caroline Kery, Jason Nance, Keith Richards,
+  Emily Hadley, Peter Baumgartner]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Precise Asymptotic Generalization for Multiclass Classification with
+  Overparameterized Linear Models]]></title>
+        <id>http://arxiv.org/abs/2306.13255</id>
+        <link href="http://arxiv.org/abs/2306.13255"/>
+        <updated>2023-06-26T07:16:33.165Z</updated>
+        <summary type="html"><![CDATA[David X. Wu, Anant Sahai]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Compression with Bayesian Implicit Neural Representations]]></title>
+        <id>http://arxiv.org/abs/2305.19185</id>
+        <link href="http://arxiv.org/abs/2305.19185"/>
+        <updated>2023-06-26T07:16:33.144Z</updated>
+        <summary type="html"><![CDATA[Zongyu Guo, Gergely Flamich, Jiajun He, Zhibo Chen, Jos\'e Miguel
+  Hern\'andez-Lobato]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Approximate Causal Effect Identification under Weak Confounding]]></title>
+        <id>http://arxiv.org/abs/2306.13242</id>
+        <link href="http://arxiv.org/abs/2306.13242"/>
+        <updated>2023-06-26T07:16:33.135Z</updated>
+        <summary type="html"><![CDATA[Ziwei Jiang, Lai Wei, Murat Kocaoglu]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Understanding quantum machine learning also requires rethinking
+  generalization]]></title>
+        <id>http://arxiv.org/abs/2306.13461</id>
+        <link href="http://arxiv.org/abs/2306.13461"/>
+        <updated>2023-06-26T07:16:33.055Z</updated>
+        <summary type="html"><![CDATA[Elies Gil-Fuster, Jens Eisert, Carlos Bravo-Prieto]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[BobWords on eggcorn]]></title>
         <id>https://languagelog.ldc.upenn.edu/nll/?p=59418</id>
