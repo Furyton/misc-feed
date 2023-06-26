@@ -1261,7 +1261,18 @@
       "title": "Lil'Log",
       "feedUrl": "https://lilianweng.github.io/index.xml",
       "siteUrl": "https://lilianweng.github.io/",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://lilianweng.github.io/posts/2023-06-23-agent/",
+          "author": null,
+          "description": "Building agents with LLM (large language model) as its core controller is a cool concept. Several proof-of-concepts demos, such as AutoGPT, GPT-Engineer and BabAGI, serve as inspiring examples. The potentiality of LLM extends beyond generating well-written copies, stories, essays and programs; it can be framed as a powerful general problem solver.\nAgent System Overview In a LLM-powered autonomous agent system, LLM functions as the agent’s brain, complemented by several key components:",
+          "link": "https://lilianweng.github.io/posts/2023-06-23-agent/",
+          "publishedOn": "2023-06-23T00:00:00.000Z",
+          "wordCount": 12728,
+          "title": "LLM Powered Autonomous Agents",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "Amit Chaudhary",
