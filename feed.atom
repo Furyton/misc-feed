@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-06-26T08:26:19.647Z</updated>
+    <updated>2023-06-26T09:17:31.996Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Convergence of First-Order Methods for Constrained Nonconvex
+  Optimization with Dependent Data]]></title>
+        <id>http://arxiv.org/abs/2203.15797</id>
+        <link href="http://arxiv.org/abs/2203.15797"/>
+        <updated>2023-06-26T09:17:23.822Z</updated>
+        <summary type="html"><![CDATA[Ahmet Alacaoglu, Hanbaek Lyu]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SMART: An Open Source Data Labeling Platform for Supervised Learning]]></title>
         <id>http://arxiv.org/abs/1812.06591</id>
