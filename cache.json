@@ -1882,16 +1882,6 @@
           "wordCount": 1734,
           "title": "Model-Based Clustering, Classification, and Density Estimation Using mclust in R [not a book review]",
           "imageUrl": "https://xianblog.files.wordpress.com/2023/05/temp-5.png"
-        },
-        {
-          "id": "http://xianblog.wordpress.com/?p=53091",
-          "author": "xi'an",
-          "description": "“The nested sampling algorithm solves otherwise challenging, high-dimensional integrals by evolving a collection of live points through parameter space. The algorithm was immediately adopted in cosmology because it partially overcomes three of the major difficulties in Markov chain Monte Carlo, the algorithm traditionally used for Bayesian computation. Nested sampling simultaneously returns results for model comparison […]",
-          "link": "https://xianblog.wordpress.com/2023/05/28/natural-nested-sampling/",
-          "publishedOn": "2023-05-27T22:23:11.000Z",
-          "wordCount": 2040,
-          "title": "Natural nested sampling",
-          "imageUrl": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs43586-022-00121-x/MediaObjects/43586_2022_121_Fig2_HTML.png"
         }
       ]
     },
@@ -2087,6 +2077,16 @@
       "feedUrl": "https://languagelog.ldc.upenn.edu/nll/?feed=rss2",
       "siteUrl": "https://languagelog.ldc.upenn.edu/nll",
       "articles": [
+        {
+          "id": "https://languagelog.ldc.upenn.edu/nll/?p=59411",
+          "author": "Victor Mair",
+          "description": "Article by Melanie Lidman in The Times of Israel (6/17/23): Groundbreaking AI project translates 5,000-year-old cuneiform at push of a button ‘Google Translate’-like program for Akkadian cuneiform will enable tens of thousands of digitized but unread tablets to be translated to English. Accuracy is debatable. Opening and key paragraphs: Cuneiform is the oldest known form […]",
+          "link": "https://languagelog.ldc.upenn.edu/nll/?p=59411&utm_source=rss&utm_medium=rss&utm_campaign=ai-for-akkadian",
+          "publishedOn": "2023-06-26T11:12:00.000Z",
+          "wordCount": 2909,
+          "title": "AI for Akkadian",
+          "imageUrl": null
+        },
         {
           "id": "https://languagelog.ldc.upenn.edu/nll/?p=59418",
           "author": "Mark Liberman",
