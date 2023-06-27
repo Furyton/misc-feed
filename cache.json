@@ -1322,6 +1322,16 @@
       "siteUrl": "https://pythonspeed.com/atom.xml",
       "articles": [
         {
+          "id": "https://pythonspeed.com/articles/numpy-is-slow/",
+          "author": null,
+          "description": "If you’re doing numeric calculations, NumPy is a lot faster than than plain Python—but sometimes that’s not enough.\nWhat should you do when your NumPy-based code is too slow?\nYour first thought might be parallelism, but that should probably be the last thing you consider.\nThere are many speedups you can do before parallelism becomes helpful, from algorithmic improvements to working around NumPy’s architectural limitations.\nLet’s see why NumPy can be slow, and then some solutions to help speed up your code even more.\nRead more...",
+          "link": "https://pythonspeed.com/articles/numpy-is-slow/",
+          "publishedOn": "2023-06-27T00:00:00.000Z",
+          "wordCount": 1853,
+          "title": "When NumPy is too slow",
+          "imageUrl": "https://pythonspeed.com/assets/titles/numpy-is-slow.png"
+        },
+        {
           "id": "https://pythonspeed.com/articles/speeding-up-numba/",
           "author": null,
           "description": "When you need to speed up your NumPy processing—or just reduce your memory usage—the Numba just-in-time compiler is a great tool.\nIt lets you write Python code that gets compiled at runtime to machine code, allowing you to get the kind of speed improvements you’d get from languages like C, Fortran, or Rust.\nOr at least, that’s the theory.\nIn practice, your initial Numba code may be no faster than the NumPy equivalent.\nBut you can do better, once you have a better understanding of how CPUs work.\nAnd this knowledge will help you more broadly with any compiled language.\nIn this article we’ll:\nConsider a simple image-processing problem.\nTry, and initially fail, to speed it up with Numba.\nWe’ll review just a little bit how modern CPUs are so fast, and the limits of compilers.\nBased on our new understanding, we’ll then show how we can tweak our code to run 25× faster than our original version.\nRead more...",
