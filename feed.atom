@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-06-26T23:17:20.324Z</updated>
+    <updated>2023-06-27T01:43:24.390Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The scatology and physiology of push and pull]]></title>
+        <id>https://languagelog.ldc.upenn.edu/nll/?p=59422</id>
+        <link href="https://languagelog.ldc.upenn.edu/nll/?p=59422&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=the-scatology-and-physiology-of-push-and-pull"/>
+        <updated>2023-06-27T00:11:13.000Z</updated>
+        <summary type="html"><![CDATA[Having just written about "Drainage issues" (6/25/23), with a graphic depiction of what causes the problem with the drainage system in question, I am emboldened finally to answer a question that one of my graduate students has been asking about for several years.  Namely, why do Chinese say "pull poo / shit / excrement" (lāshǐ […]]]></summary>
+        <author>
+            <name>Victor Mair</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Xing the 100k milestone]]></title>
         <id>http://xianblog.wordpress.com/?p=53264</id>
@@ -2675,16 +2685,6 @@ Today we describe DIDACT (​​Dynamic Integrated Developer ACTivity), which is
         <summary type="html"><![CDATA[Visit the post for more.]]></summary>
         <author>
             <name>xi'an</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["Vatnik" — ethnic or political slur?]]></title>
-        <id>https://languagelog.ldc.upenn.edu/nll/?p=58816</id>
-        <link href="https://languagelog.ldc.upenn.edu/nll/?p=58816&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=vatnik-ethnic-or-political-slur"/>
-        <updated>2023-05-28T13:31:58.000Z</updated>
-        <summary type="html"><![CDATA[Adam Taylor, Anastacia Galouchka & Heidi Levine, "Ukrainians fighting outside Bakhmut see Russian mercenaries withdrawing", Washington Post 5/282023: “The Wagner guys have left and the [regular Russians] have come in,” said a 26-year-old commander who asked to be identified by his call sign, Chichen. He used an anti-Russian ethnic slur to refer to the troops […]]]></summary>
-        <author>
-            <name>Mark Liberman</name>
         </author>
     </entry>
 </feed>
