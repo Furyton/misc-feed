@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-06-27T19:13:41.898Z</updated>
+    <updated>2023-06-27T20:17:47.129Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -2681,61 +2681,6 @@ Today we describe DIDACT (​​Dynamic Integrated Developer ACTivity), which is
         <summary type="html"><![CDATA[In a recent arXival, Metodiev et al. (including my friend Adrian Raftery, who is spending the academic year in Paris) proposed a new version of reciprocal importance sampling, expanding the proposal we made with Darren Wraith (2009) of using a Uniform over an HPD region. It is called THAMES, hence the picture (of London, not […]]]></summary>
         <author>
             <name>xi'an</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Manifold Regularization for Memory-Efficient Training of Deep Neural
-  Networks]]></title>
-        <id>http://arxiv.org/abs/2305.17119</id>
-        <link href="http://arxiv.org/abs/2305.17119"/>
-        <updated>2023-05-29T07:14:17.605Z</updated>
-        <summary type="html"><![CDATA[Shadi Sartipi, Edgar A. Bernal]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vecchia Gaussian Process Ensembles on Internal Representations of Deep
-  Neural Networks]]></title>
-        <id>http://arxiv.org/abs/2305.17063</id>
-        <link href="http://arxiv.org/abs/2305.17063"/>
-        <updated>2023-05-29T07:14:17.597Z</updated>
-        <summary type="html"><![CDATA[Felix Jimenez, Matthias Katzfuss]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Large Language Models as Tool Makers]]></title>
-        <id>http://arxiv.org/abs/2305.17126</id>
-        <link href="http://arxiv.org/abs/2305.17126"/>
-        <updated>2023-05-29T07:14:16.379Z</updated>
-        <summary type="html"><![CDATA[Tianle Cai, Xuezhi Wang, Tengyu Ma, Xinyun Chen, Denny Zhou]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Influence of Learning Rule on Representation Dynamics in Wide Neural
-  Networks]]></title>
-        <id>http://arxiv.org/abs/2210.02157</id>
-        <link href="http://arxiv.org/abs/2210.02157"/>
-        <updated>2023-05-29T07:14:16.372Z</updated>
-        <summary type="html"><![CDATA[Blake Bordelon, Cengiz Pehlevan]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Neural Architecture Search for Parameter-Efficient Fine-tuning of Large
-  Pre-trained Language Models]]></title>
-        <id>http://arxiv.org/abs/2305.16597</id>
-        <link href="http://arxiv.org/abs/2305.16597"/>
-        <updated>2023-05-29T07:14:16.356Z</updated>
-        <summary type="html"><![CDATA[Neal Lawton, Anoop Kumar, Govind Thattai, Aram Galstyan, Greg Ver
-  Steeg]]></summary>
-        <author>
-            <name>arxivist feed</name>
         </author>
     </entry>
 </feed>
