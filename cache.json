@@ -1914,6 +1914,16 @@
       "siteUrl": "http://ai.googleblog.com/",
       "articles": [
         {
+          "id": "http://ai.googleblog.com/2023/06/unifying-image-caption-and-image.html",
+          "author": null,
+          "description": "Posted by Kuniaki Saito, Student Researcher, Cloud AI Team, and Kihyuk Sohn, Research Scientist, Perception Team\n\n\n\n\nPre-training visual language (VL) models on web-scale image-caption datasets has recently emerged as a powerful alternative to traditional pre-training on image classification data. Image-caption datasets are considered to be more “open-domain” because they contain broader scene types and vocabulary words, which result in models with strong performance in few- and zero-shot recognition tasks. However, images with fine-grained class descriptions can be rare, and the class distribution can be imbalanced since image-caption datasets do not go through manual curation. By contrast, large-scale classification datasets, such as ImageNet, are often curated and can thus provide fine-…",
+          "link": "http://ai.googleblog.com/2023/06/unifying-image-caption-and-image.html",
+          "publishedOn": "2023-06-27T21:19:00.000Z",
+          "wordCount": 27418,
+          "title": "Unifying image-caption and image-classification datasets with prefix conditioning",
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhy_hT7xaiysVeAL6MKhQiqMfun0uCX1GJX9atNr8QSg4BlXfPPxNtC7AD21LJ0FSHjSnZnrKgttj1kIkmQGPyO4ORWvPSROjxfTvV9IlaTG5ZJom9oKEwwocUGaj3EtiuUgEmKKLHpWpQCrmHe3BzJeDGzwvI1Oqet18qsCNzIc3DsNTCXWGjZ0uMW9-Bc/w1200-h630-p-k-no-nu/Prefix%20conditioning%20hero.jpg"
+        },
+        {
           "id": "http://ai.googleblog.com/2023/06/preference-learning-with-automated.html",
           "author": null,
           "description": "Posted by Ramki Gummadi, Software Engineer, Google and Kevin Chen, Software Engineer, YouTube\n\n\n\n\n\nCaching is a ubiquitous idea in computer science that significantly improves the performance of storage and retrieval systems by storing a subset of popular items closer to the client based on request patterns. An important algorithmic piece of cache management is the decision policy used for dynamically updating the set of items being stored, which has been extensively optimized over several decades, resulting in several efficient and robust heuristics. While applying machine learning to cache policies has shown promising results in recent years (e.g., LRB, LHD, storage applications), it remains a challenge to outperform robust heuristics in a way that can generalize reliably beyond benchmar…",

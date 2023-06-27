@@ -2,10 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-06-27T21:14:41.385Z</updated>
+    <updated>2023-06-27T22:15:42.797Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Unifying image-caption and image-classification datasets with prefix conditioning]]></title>
+        <id>http://ai.googleblog.com/2023/06/unifying-image-caption-and-image.html</id>
+        <link href="http://ai.googleblog.com/2023/06/unifying-image-caption-and-image.html"/>
+        <updated>2023-06-27T21:19:00.000Z</updated>
+        <summary type="html"><![CDATA[Posted by Kuniaki Saito, Student Researcher, Cloud AI Team, and Kihyuk Sohn, Research Scientist, Perception Team
+
+
+
+
+Pre-training visual language (VL) models on web-scale image-caption datasets has recently emerged as a powerful alternative to traditional pre-training on image classification data. Image-caption datasets are considered to be more “open-domain” because they contain broader scene types and vocabulary words, which result in models with strong performance in few- and zero-shot recognition tasks. However, images with fine-grained class descriptions can be rare, and the class distribution can be imbalanced since image-caption datasets do not go through manual curation. By contrast, large-scale classification datasets, such as ImageNet, are often curated and can thus provide fine-…]]></summary>
+        <author>
+            <name>Google AI Blog</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Near Optimal Heteroscedastic Regression with Symbiotic Learning]]></title>
         <id>http://arxiv.org/abs/2306.14288</id>
