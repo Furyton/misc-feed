@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-06-28T01:42:53.874Z</updated>
+    <updated>2023-06-28T02:58:05.010Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[生成扩散模型漫谈（二十）：从ReFlow到WGAN-GP]]></title>
+        <id>https://kexue.fm/archives/9668</id>
+        <link href="https://kexue.fm/archives/9668"/>
+        <updated>2023-06-28T01:48:00.000Z</updated>
+        <summary type="html"><![CDATA[上一篇文章《生成扩散模型漫谈（十九）：作为扩散ODE的GAN》中，我们介绍了如何将GAN理解为在另一个时间维度上的扩散ODE，简而言之，GAN实际上就是将扩散模型中样本的运动转化为生成器参数的运...]]></summary>
+        <author>
+            <name>苏剑林</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[re-MCM’d]]></title>
         <id>http://xianblog.wordpress.com/?p=53368</id>
