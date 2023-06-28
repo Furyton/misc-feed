@@ -6,6 +6,56 @@
       "siteUrl": "https://www.arxivist.com",
       "articles": [
         {
+          "id": "http://arxiv.org/abs/2306.15626",
+          "author": null,
+          "description": "Kaiyu Yang, Aidan M. Swope, Alex Gu, Rahul Chalamala, Peiyang Song,\n  Shixing Yu, Saad Godil, Ryan Prenger, Anima Anandkumar",
+          "link": "http://arxiv.org/abs/2306.15626",
+          "publishedOn": "2023-06-28T07:16:00.831Z",
+          "wordCount": 773,
+          "title": "LeanDojo: Theorem Proving with Retrieval-Augmented Language Models",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2301.11556",
+          "author": null,
+          "description": "Ziyi Liang, Yanfei Zhou, Matteo Sesia",
+          "link": "http://arxiv.org/abs/2301.11556",
+          "publishedOn": "2023-06-28T07:16:00.803Z",
+          "wordCount": 676,
+          "title": "Conformal inference is (almost) free for neural networks trained with\n  early stopping",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2111.08851",
+          "author": null,
+          "description": "Xintong Shi, Wenzhi Cao, Sebastian Raschka",
+          "link": "http://arxiv.org/abs/2111.08851",
+          "publishedOn": "2023-06-28T07:15:56.500Z",
+          "wordCount": 843,
+          "title": "Deep Neural Networks for Rank-Consistent Ordinal Regression Based On\n  Conditional Probabilities",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2208.12975",
+          "author": null,
+          "description": "Nicol\\`o Botteghi, Mengwu Guo, Christoph Brune",
+          "link": "http://arxiv.org/abs/2208.12975",
+          "publishedOn": "2023-06-28T07:15:56.445Z",
+          "wordCount": 687,
+          "title": "Deep Kernel Learning of Dynamical Models from High-Dimensional Noisy\n  Data",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2305.17583",
+          "author": null,
+          "description": "Boyao Li, Alexandar J. Thomson, Matthew M. Engelhard, David Page",
+          "link": "http://arxiv.org/abs/2305.17583",
+          "publishedOn": "2023-06-28T07:15:56.438Z",
+          "wordCount": 636,
+          "title": "On Neural Networks as Infinite Tree-Structured Probabilistic Graphical\n  Models",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
           "id": "http://arxiv.org/abs/2306.14288",
           "author": null,
           "description": "Dheeraj Baby, Aniket Das, Dheeraj Nagaraj, Praneeth\n  Netrapalli",

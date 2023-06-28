@@ -2,10 +2,65 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-06-28T06:22:14.850Z</updated>
+    <updated>2023-06-28T07:16:01.161Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[LeanDojo: Theorem Proving with Retrieval-Augmented Language Models]]></title>
+        <id>http://arxiv.org/abs/2306.15626</id>
+        <link href="http://arxiv.org/abs/2306.15626"/>
+        <updated>2023-06-28T07:16:00.831Z</updated>
+        <summary type="html"><![CDATA[Kaiyu Yang, Aidan M. Swope, Alex Gu, Rahul Chalamala, Peiyang Song,
+  Shixing Yu, Saad Godil, Ryan Prenger, Anima Anandkumar]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Conformal inference is (almost) free for neural networks trained with
+  early stopping]]></title>
+        <id>http://arxiv.org/abs/2301.11556</id>
+        <link href="http://arxiv.org/abs/2301.11556"/>
+        <updated>2023-06-28T07:16:00.803Z</updated>
+        <summary type="html"><![CDATA[Ziyi Liang, Yanfei Zhou, Matteo Sesia]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Deep Neural Networks for Rank-Consistent Ordinal Regression Based On
+  Conditional Probabilities]]></title>
+        <id>http://arxiv.org/abs/2111.08851</id>
+        <link href="http://arxiv.org/abs/2111.08851"/>
+        <updated>2023-06-28T07:15:56.500Z</updated>
+        <summary type="html"><![CDATA[Xintong Shi, Wenzhi Cao, Sebastian Raschka]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Deep Kernel Learning of Dynamical Models from High-Dimensional Noisy
+  Data]]></title>
+        <id>http://arxiv.org/abs/2208.12975</id>
+        <link href="http://arxiv.org/abs/2208.12975"/>
+        <updated>2023-06-28T07:15:56.445Z</updated>
+        <summary type="html"><![CDATA[Nicol\`o Botteghi, Mengwu Guo, Christoph Brune]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[On Neural Networks as Infinite Tree-Structured Probabilistic Graphical
+  Models]]></title>
+        <id>http://arxiv.org/abs/2305.17583</id>
+        <link href="http://arxiv.org/abs/2305.17583"/>
+        <updated>2023-06-28T07:15:56.438Z</updated>
+        <summary type="html"><![CDATA[Boyao Li, Alexandar J. Thomson, Matthew M. Engelhard, David Page]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[生成扩散模型漫谈（二十）：从ReFlow到WGAN-GP]]></title>
         <id>https://kexue.fm/archives/9668</id>
