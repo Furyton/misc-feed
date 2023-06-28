@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-06-28T10:18:30.108Z</updated>
+    <updated>2023-06-28T11:13:59.005Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -2771,16 +2771,6 @@ Today we describe DIDACT (​​Dynamic Integrated Developer ACTivity), which is
         <summary type="html"><![CDATA[(Click to enlarge.) Plan for this post: Prologue: “Can we sleep soundly at night?” Meeting Ephraim Halevi (former head of the Israeli Mossad) in 2007. Israel and CERN, an evening in honor of Eliezer Rabinovici: The story of how Israel … Continue reading →]]></summary>
         <author>
             <name>Gil Kalai</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[reciprocal importance sampling]]></title>
-        <id>http://xianblog.wordpress.com/?p=53111</id>
-        <link href="https://xianblog.wordpress.com/2023/05/30/reciprocal-importance-sampling/"/>
-        <updated>2023-05-29T22:23:39.000Z</updated>
-        <summary type="html"><![CDATA[In a recent arXival, Metodiev et al. (including my friend Adrian Raftery, who is spending the academic year in Paris) proposed a new version of reciprocal importance sampling, expanding the proposal we made with Darren Wraith (2009) of using a Uniform over an HPD region. It is called THAMES, hence the picture (of London, not […]]]></summary>
-        <author>
-            <name>xi'an</name>
         </author>
     </entry>
 </feed>
