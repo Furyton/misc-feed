@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-06-28T17:14:52.116Z</updated>
+    <updated>2023-06-28T18:20:44.891Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Today I learned  a new word]]></title>
+        <id>https://languagelog.ldc.upenn.edu/nll/?p=59447</id>
+        <link href="https://languagelog.ldc.upenn.edu/nll/?p=59447&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=today-i-learned-a-new-word"/>
+        <updated>2023-06-28T17:46:06.000Z</updated>
+        <summary type="html"><![CDATA[The new-to-me word: assembloid. It occurred in the second (of 20!) bullet points that the blurb for a new publication, Brain Organoid & Systems Neuroscience Journal, lists under the heading Specific areas of interest include, but are not limited to: Brain organogenesis and Neuronal cultures Methods for generating brain assembloids The rest of the list: […]]]></summary>
+        <author>
+            <name>Mark Liberman</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Touring the Turing Test again]]></title>
         <id>https://languagelog.ldc.upenn.edu/nll/?p=59428</id>
@@ -2771,26 +2781,6 @@ Today we describe DIDACT (​​Dynamic Integrated Developer ACTivity), which is
         <summary type="html"><![CDATA[Ziang Song, Tianle Cai, Jason D. Lee, Weijie J. Su]]></summary>
         <author>
             <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Physics Related News: Israel Joining CERN, Pugwash and Global Zero, The Replication Crisis, and MAX the Damon.]]></title>
-        <id>http://gilkalai.wordpress.com/?p=23932</id>
-        <link href="https://gilkalai.wordpress.com/2023/05/30/physics-related-news-israel-joining-cern-pugwash-and-global-zero-the-replication-crisis-and-max-the-damon/"/>
-        <updated>2023-05-30T05:38:33.000Z</updated>
-        <summary type="html"><![CDATA[(Click to enlarge.) Plan for this post: Prologue: “Can we sleep soundly at night?” Meeting Ephraim Halevi (former head of the Israeli Mossad) in 2007. Israel and CERN, an evening in honor of Eliezer Rabinovici: The story of how Israel … Continue reading →]]></summary>
-        <author>
-            <name>Gil Kalai</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Physics Related News: Israel Joining CERN, Pugwash and Global Zero, The Replication Crisis, and MAX the Damon.]]></title>
-        <id>http://gilkalai.wordpress.com/?p=23932</id>
-        <link href="https://gilkalai.wordpress.com/2023/05/30/physics-related-news-israel-joining-cern-pugwash-and-global-zero-the-replication-crisis-and-max-the-damon/"/>
-        <updated>2023-05-30T05:38:33.000Z</updated>
-        <summary type="html"><![CDATA[(Click to enlarge.) Plan for this post: Prologue: “Can we sleep soundly at night?” Meeting Ephraim Halevi (former head of the Israeli Mossad) in 2007. Israel and CERN, an evening in honor of Eliezer Rabinovici: The story of how Israel … Continue reading →]]></summary>
-        <author>
-            <name>Gil Kalai</name>
         </author>
     </entry>
 </feed>
