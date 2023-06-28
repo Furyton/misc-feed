@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-06-28T11:13:59.005Z</updated>
+    <updated>2023-06-28T12:35:57.106Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Touring the Turing Test again]]></title>
+        <id>https://languagelog.ldc.upenn.edu/nll/?p=59428</id>
+        <link href="https://languagelog.ldc.upenn.edu/nll/?p=59428&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=touring-the-turing-test-again"/>
+        <updated>2023-06-28T12:28:06.000Z</updated>
+        <summary type="html"><![CDATA[The buzz about Large Language Models has re-ignited interest Alan Turing's famous 1950 article "Computing Machinery and Intelligence". Two interesting recent discussions: Jessica Riskin, "A Sort of Buzzing Inside My Head", NYRB 6/25/2023, and Mustafa Suleyman, "The Coming Wave: Technology, Power, and the Twenty-first Century's Greatest Dilemma", Random House 9/5/2023. Suleyman's book won't be released until […]]]></summary>
+        <author>
+            <name>Mark Liberman</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Tasting History]]></title>
         <id>https://languagelog.ldc.upenn.edu/nll/?p=59425</id>
