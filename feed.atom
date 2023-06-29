@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-06-29T14:14:46.476Z</updated>
+    <updated>2023-06-29T15:16:24.842Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -14,6 +14,23 @@
         <summary type="html"><![CDATA[A couple of weeks ago, John Hansen tried "an experiment to see if I could successfully combine random and seemingly unconnected topics into one poem", and reported the results on Medium. This experiment was quickly reproduced by Adrian CDTPPW, Block Wife, and Robert G. Longpré. The structure was Choose three random words (No AI involved […]]]></summary>
         <author>
             <name>Mark Liberman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Generating 3D Molecular Conformers via Equivariant Coarse-Graining and Aggregated Attention]]></title>
+        <id>http://bair.berkeley.edu/blog/2023/06/29/coarsenconf/</id>
+        <link href="http://bair.berkeley.edu/blog/2023/06/29/coarsenconf/"/>
+        <updated>2023-06-29T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[-->
+
+Figure 1: CoarsenConf architecture.
+
+(I) The encoder $q_\phi(z| X, \mathcal{R})$ takes the fine-grained (FG) ground truth conformer $X$, RDKit approximate conformer $\mathcal{R}$ , and coarse-grained (CG) conformer $\mathcal{C}$ as inputs (derived from $X$ and a predefined CG strategy), and outputs a variable-length equivariant CG representation via equivariant message passing and point convolutions.
+(II) Equivariant MLPs are applied to learn the mean and log variance of both the posterior and prior distributions.
+(III) The posterior (training) or prior (inference) is sampled and fed into the Channel Selection module, where an attention layer is used to learn the optimal pathway from CG to FG structure.
+(IV) Given the FG latent vector and the RDKit approximation, the decoder $p_\theta…]]></summary>
+        <author>
+            <name>The Berkeley Artificial Intelligence Research Blog</name>
         </author>
     </entry>
     <entry>

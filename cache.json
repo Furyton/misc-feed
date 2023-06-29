@@ -1384,7 +1384,18 @@
       "title": "The Berkeley Artificial Intelligence Research Blog",
       "feedUrl": "https://bair.berkeley.edu/blog/feed",
       "siteUrl": "http://bair.berkeley.edu/blog/",
-      "articles": []
+      "articles": [
+        {
+          "id": "http://bair.berkeley.edu/blog/2023/06/29/coarsenconf/",
+          "author": null,
+          "description": "-->\n\nFigure 1: CoarsenConf architecture.\n\n(I) The encoder $q_\\phi(z| X, \\mathcal{R})$ takes the fine-grained (FG) ground truth conformer $X$, RDKit approximate conformer $\\mathcal{R}$ , and coarse-grained (CG) conformer $\\mathcal{C}$ as inputs (derived from $X$ and a predefined CG strategy), and outputs a variable-length equivariant CG representation via equivariant message passing and point convolutions.\n(II) Equivariant MLPs are applied to learn the mean and log variance of both the posterior and prior distributions.\n(III) The posterior (training) or prior (inference) is sampled and fed into the Channel Selection module, where an attention layer is used to learn the optimal pathway from CG to FG structure.\n(IV) Given the FG latent vector and the RDKit approximation, the decoder $p_\\theta…",
+          "link": "http://bair.berkeley.edu/blog/2023/06/29/coarsenconf/",
+          "publishedOn": "2023-06-29T08:00:00.000Z",
+          "wordCount": 1468,
+          "title": "Generating 3D Molecular Conformers via Equivariant Coarse-Graining and Aggregated Attention",
+          "imageUrl": "http://bair.berkeley.edu/blog/assets/coarsenconf/schematic.png"
+        }
+      ]
     },
     {
       "title": "inFERENCe",
