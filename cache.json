@@ -1505,6 +1505,16 @@
       "siteUrl": "https://pytorch.org/",
       "articles": [
         {
+          "id": "https://pytorch.org/blog/optimizing-libtorch/",
+          "author": null,
+          "description": "Outline",
+          "link": "https://pytorch.org/blog/optimizing-libtorch/",
+          "publishedOn": "2023-06-29T07:00:00.000Z",
+          "wordCount": 1729,
+          "title": "Optimizing LibTorch-based inference engine memory usage and thread-pooling",
+          "imageUrl": "https://pytorch.org/assets/images/pytorch-logo.png"
+        },
+        {
           "id": "https://pytorch.org/blog/path-achieve-low-inference-latency/",
           "author": null,
           "description": "Background &amp; State of the Art",
