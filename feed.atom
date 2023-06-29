@@ -2,10 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-06-29T06:22:36.922Z</updated>
+    <updated>2023-06-29T07:15:42.351Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Unified machine learning: Classification with simultaneous observed and
+  unobserved novelty detection]]></title>
+        <id>http://arxiv.org/abs/2002.01368</id>
+        <link href="http://arxiv.org/abs/2002.01368"/>
+        <updated>2023-06-29T07:15:37.367Z</updated>
+        <summary type="html"><![CDATA[Emile R. Engelbrecht, Johan A. du Preez]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Incorporating Prior Knowledge into Neural Networks through an Implicit
+  Composite Kernel]]></title>
+        <id>http://arxiv.org/abs/2205.07384</id>
+        <link href="http://arxiv.org/abs/2205.07384"/>
+        <updated>2023-06-29T07:15:36.141Z</updated>
+        <summary type="html"><![CDATA[Ziyang Jiang, Tongshu Zheng, Yiling Liu, David Carlson]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BayesFlow: Amortized Bayesian Workflows With Neural Networks]]></title>
+        <id>http://arxiv.org/abs/2306.16015</id>
+        <link href="http://arxiv.org/abs/2306.16015"/>
+        <updated>2023-06-29T07:15:35.502Z</updated>
+        <summary type="html"><![CDATA[Stefan T Radev, Marvin Schmitt, Lukas Schumacher, Lasse
+  Elsem\"uller, Valentin Pratz, Yannik Sch\"alte, Ullrich K\"othe and
+  Paul-Christian B\"urkner]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Metaphors for AI, and why I don’t like them]]></title>
         <id>http://windowsontheory.org/?p=8635</id>

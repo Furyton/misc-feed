@@ -6,6 +6,36 @@
       "siteUrl": "https://www.arxivist.com",
       "articles": [
         {
+          "id": "http://arxiv.org/abs/2002.01368",
+          "author": null,
+          "description": "Emile R. Engelbrecht, Johan A. du Preez",
+          "link": "http://arxiv.org/abs/2002.01368",
+          "publishedOn": "2023-06-29T07:15:37.367Z",
+          "wordCount": 821,
+          "title": "Unified machine learning: Classification with simultaneous observed and\n  unobserved novelty detection",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2205.07384",
+          "author": null,
+          "description": "Ziyang Jiang, Tongshu Zheng, Yiling Liu, David Carlson",
+          "link": "http://arxiv.org/abs/2205.07384",
+          "publishedOn": "2023-06-29T07:15:36.141Z",
+          "wordCount": 783,
+          "title": "Incorporating Prior Knowledge into Neural Networks through an Implicit\n  Composite Kernel",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2306.16015",
+          "author": null,
+          "description": "Stefan T Radev, Marvin Schmitt, Lukas Schumacher, Lasse\n  Elsem\\\"uller, Valentin Pratz, Yannik Sch\\\"alte, Ullrich K\\\"othe and\n  Paul-Christian B\\\"urkner",
+          "link": "http://arxiv.org/abs/2306.16015",
+          "publishedOn": "2023-06-29T07:15:35.502Z",
+          "wordCount": 680,
+          "title": "BayesFlow: Amortized Bayesian Workflows With Neural Networks",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
           "id": "http://arxiv.org/abs/2306.15626",
           "author": null,
           "description": "Kaiyu Yang, Aidan M. Swope, Alex Gu, Rahul Chalamala, Peiyang Song,\n  Shixing Yu, Saad Godil, Ryan Prenger, Anima Anandkumar",
