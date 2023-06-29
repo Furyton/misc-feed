@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-06-29T13:27:45.571Z</updated>
+    <updated>2023-06-29T14:14:46.476Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Cooperative creation with Generative AI]]></title>
+        <id>https://languagelog.ldc.upenn.edu/nll/?p=59461</id>
+        <link href="https://languagelog.ldc.upenn.edu/nll/?p=59461&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=cooperative-creation-with-generative-ai"/>
+        <updated>2023-06-29T13:59:05.000Z</updated>
+        <summary type="html"><![CDATA[A couple of weeks ago, John Hansen tried "an experiment to see if I could successfully combine random and seemingly unconnected topics into one poem", and reported the results on Medium. This experiment was quickly reproduced by Adrian CDTPPW, Block Wife, and Robert G. Longpré. The structure was Choose three random words (No AI involved […]]]></summary>
+        <author>
+            <name>Mark Liberman</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Unified machine learning: Classification with simultaneous observed and
   unobserved novelty detection]]></title>
