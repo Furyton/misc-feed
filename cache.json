@@ -1915,6 +1915,16 @@
       "siteUrl": "http://ai.googleblog.com/",
       "articles": [
         {
+          "id": "http://ai.googleblog.com/2023/06/announcing-first-machine-unlearning.html",
+          "author": null,
+          "description": "Posted by Fabian Pedregosa and Eleni Triantafillou, Research Scientists, Google\n\n\n\n\n\nDeep learning has recently driven tremendous progress in a wide array of applications, ranging from realistic image generation and impressive retrieval systems to language models that can hold human-like conversations. While this progress is very exciting, the widespread use of deep neural network models requires caution: as guided by Google’s AI Principles, we seek to develop AI technologies responsibly by understanding and mitigating potential risks, such as the propagation and amplification of unfair biases and protecting user privacy.\n \n\nFully erasing the influence of the data requested to be deleted is challenging since, aside from simply deleting it from databases where it’s stored, it also requires …",
+          "link": "http://ai.googleblog.com/2023/06/announcing-first-machine-unlearning.html",
+          "publishedOn": "2023-06-29T21:08:00.000Z",
+          "wordCount": 27756,
+          "title": "Announcing the first Machine Unlearning Challenge",
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhnYgC13GY7TTT4dhlutperGlCU07bWBJJr3yICTpKX4kxu8Beso89UtRLslnKi7XhD3T2kzkjHvKLNfXG_hztQxmbDFLafmLscIDZKGzOqWbOUxcYWjTDYgudshWu7v-mNrbhlegtEj7I-9woJvwgtOSfi01nKsalbOiYZmP1YN2FnQw_dTwobwwQvSrsv/w1200-h630-p-k-no-nu/Unlearning.png"
+        },
+        {
           "id": "http://ai.googleblog.com/2023/06/on-device-diffusion-plugins-for.html",
           "author": null,
           "description": "Posted by Yang Zhao and Tingbo Hou, Software Engineers, Core ML\n\n\n\n\nIn recent years, diffusion models have shown great success in text-to-image generation, achieving high image quality, improved inference performance, and expanding our creative inspiration. Nevertheless, it is still challenging to efficiently control the generation, especially with conditions that are difficult to describe with text.\n\n\n\nToday, we announce MediaPipe diffusion plugins, which enable controllable text-to-image generation to be run on-device. Expanding upon our prior work on GPU inference for on-device large generative models, we introduce new low-cost solutions for controllable text-to-image generation that can be plugged into existing diffusion models and their Low-Rank Adaptation (LoRA) variants. \n\n\n\n\nText-t…",
