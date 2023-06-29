@@ -2,10 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-06-29T19:13:19.752Z</updated>
+    <updated>2023-06-29T20:16:57.684Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[On-device diffusion plugins for conditioned text-to-image generation]]></title>
+        <id>http://ai.googleblog.com/2023/06/on-device-diffusion-plugins-for.html</id>
+        <link href="http://ai.googleblog.com/2023/06/on-device-diffusion-plugins-for.html"/>
+        <updated>2023-06-29T19:10:00.002Z</updated>
+        <summary type="html"><![CDATA[Posted by Yang Zhao and Tingbo Hou, Software Engineers, Core ML
+
+
+
+
+In recent years, diffusion models have shown great success in text-to-image generation, achieving high image quality, improved inference performance, and expanding our creative inspiration. Nevertheless, it is still challenging to efficiently control the generation, especially with conditions that are difficult to describe with text.
+
+
+
+Today, we announce MediaPipe diffusion plugins, which enable controllable text-to-image generation to be run on-device. Expanding upon our prior work on GPU inference for on-device large generative models, we introduce new low-cost solutions for controllable text-to-image generation that can be plugged into existing diffusion models and their Low-Rank Adaptation (LoRA) variants. 
+
+
+
+
+Text-t…]]></summary>
+        <author>
+            <name>Google AI Blog</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The AI threat:  keep calm and carry on]]></title>
         <id>https://languagelog.ldc.upenn.edu/nll/?p=59453</id>
@@ -2766,70 +2790,6 @@ Software isn’t created in one dramatic step. It improves bit by bit, one littl
 Today we describe DIDACT (​​Dynamic Integrated Developer ACTivity), which is a methodology for training large machine learning (ML) models for software development. The novelty of DIDACT is that it uses …]]></summary>
         <author>
             <name>Google AI Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[关于NBCE方法的一些补充说明和分析]]></title>
-        <id>https://kexue.fm/archives/9632</id>
-        <link href="https://kexue.fm/archives/9632"/>
-        <updated>2023-05-31T07:38:00.000Z</updated>
-        <summary type="html"><![CDATA[上周在《NBCE：使用朴素贝叶斯扩展LLM的Context处理长度》中，我们介绍了一种基于朴素贝叶斯来扩展LLM的Context长度的方案NBCE（Naive Bayes-based Conte...]]></summary>
-        <author>
-            <name>苏剑林</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[On the minimax optimality and superiority of deep neural network
-  learning over sparse parameter spaces]]></title>
-        <id>http://arxiv.org/abs/1905.09195</id>
-        <link href="http://arxiv.org/abs/1905.09195"/>
-        <updated>2023-05-31T07:13:39.538Z</updated>
-        <summary type="html"><![CDATA[Satoshi Hayakawa, Taiji Suzuki]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Prediction Error-based Classification for Class-Incremental Learning]]></title>
-        <id>http://arxiv.org/abs/2305.18806</id>
-        <link href="http://arxiv.org/abs/2305.18806"/>
-        <updated>2023-05-31T07:13:39.532Z</updated>
-        <summary type="html"><![CDATA[Micha{\l} Zaj\k{a}c, Tinne Tuytelaars, Gido M. van de Ven]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Universal Approximation Property of Hamiltonian Deep Neural Networks]]></title>
-        <id>http://arxiv.org/abs/2303.12147</id>
-        <link href="http://arxiv.org/abs/2303.12147"/>
-        <updated>2023-05-31T07:13:39.527Z</updated>
-        <summary type="html"><![CDATA[Muhammad Zakwan, Massimiliano d'Angelo, Giancarlo Ferrari-Trecate]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Conformal Prediction with Large Language Models for Multi-Choice
-  Question Answering]]></title>
-        <id>http://arxiv.org/abs/2305.18404</id>
-        <link href="http://arxiv.org/abs/2305.18404"/>
-        <updated>2023-05-31T07:13:39.521Z</updated>
-        <summary type="html"><![CDATA[Bhawesh Kumar, Charlie Lu, Gauri Gupta, Anil Palepu, David Bellamy,
-  Ramesh Raskar, Andrew Beam]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Generating with Confidence: Uncertainty Quantification for Black-box
-  Large Language Models]]></title>
-        <id>http://arxiv.org/abs/2305.19187</id>
-        <link href="http://arxiv.org/abs/2305.19187"/>
-        <updated>2023-05-31T07:13:39.504Z</updated>
-        <summary type="html"><![CDATA[Zhen Lin, Shubhendu Trivedi, Jimeng Sun]]></summary>
-        <author>
-            <name>arxivist feed</name>
         </author>
     </entry>
 </feed>
