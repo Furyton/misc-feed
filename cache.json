@@ -2083,16 +2083,6 @@
           "wordCount": 27826,
           "title": "Retrieval-augmented visual-language pre-training",
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrAmMW5q9tM1RpbnrDdMiw-kXeP1kkCNH0Vj_ZmqxTxoT45GYgBjIKXBZ2eF7_mtQ-ijE7h5g-O69tcbfmEoqifjP6ssE12hsRzIE-fl64ZdaFBL0f0Ruu-Ix3R-dy1jhBibQXoxZCpF0CVsdLWwK1aS-JJGu2wcPdyZkPMeRQFP-AqZq5nYUq0KTOAQ/w1200-h630-p-k-no-nu/REVEAL%20hero.jpg"
-        },
-        {
-          "id": "http://ai.googleblog.com/2023/05/large-sequence-models-for-software.html",
-          "author": null,
-          "description": "Posted by Petros Maniatis and Daniel Tarlow, Research Scientists, Google\n\n\n\n\nSoftware isn’t created in one dramatic step. It improves bit by bit, one little step at a time — editing, running unit tests, fixing build errors, addressing code reviews, editing some more, appeasing linters, and fixing more errors — until finally it becomes good enough to merge into a code repository. Software engineering isn’t an isolated process, but a dialogue among human developers, code reviewers, bug reporters, software architects and tools, such as compilers, unit tests, linters and static analyzers. \n\n\n\n\nToday we describe DIDACT (​​Dynamic Integrated Developer ACTivity), which is a methodology for training large machine learning (ML) models for software development. The novelty of DIDACT is that it uses …",
-          "link": "http://ai.googleblog.com/2023/05/large-sequence-models-for-software.html",
-          "publishedOn": "2023-05-31T17:13:00.001Z",
-          "wordCount": 27930,
-          "title": "Large sequence models for software development activities",
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8_SbpjaNoBFB_ymmlPa_9YTKL4tOAPfWFHajgnphxoPc3dTXyORaOPk1kN1TP8gVgdjiyPtqGfEYmVCyYIIBdd2ICEIROmNVMCbJmcmT0wLoRWow8djNms5ejc-pfk2Bx_79P7FCnN5PGAQqnXq8YWkn5sX_oLwP0NSoq3IvaV9WyiYhYk1wYK8cTEg/w1200-h630-p-k-no-nu/DIDACT-Hero.jpg"
         }
       ]
     },
