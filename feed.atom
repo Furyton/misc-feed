@@ -2,10 +2,63 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-06-30T06:21:31.330Z</updated>
+    <updated>2023-06-30T07:14:59.146Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Concept-Oriented Deep Learning with Large Language Models]]></title>
+        <id>http://arxiv.org/abs/2306.17089</id>
+        <link href="http://arxiv.org/abs/2306.17089"/>
+        <updated>2023-06-30T07:14:48.986Z</updated>
+        <summary type="html"><![CDATA[Daniel T. Chang]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Understanding Graph Neural Networks with Generalized Geometric
+  Scattering Transforms]]></title>
+        <id>http://arxiv.org/abs/1911.06253</id>
+        <link href="http://arxiv.org/abs/1911.06253"/>
+        <updated>2023-06-30T07:14:48.969Z</updated>
+        <summary type="html"><![CDATA[Michael Perlmutter, Alexander Tong, Feng Gao, Guy Wolf and
+  Matthew Hirn]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Joint Multi-view Unsupervised Feature Selection and Graph Learning]]></title>
+        <id>http://arxiv.org/abs/2204.08247</id>
+        <link href="http://arxiv.org/abs/2204.08247"/>
+        <updated>2023-06-30T07:14:48.936Z</updated>
+        <summary type="html"><![CDATA[Si-Guo Fang, Dong Huang, Chang-Dong Wang, Yong Tang]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Provable Advantage of Curriculum Learning on Parity Targets with Mixed
+  Inputs]]></title>
+        <id>http://arxiv.org/abs/2306.16921</id>
+        <link href="http://arxiv.org/abs/2306.16921"/>
+        <updated>2023-06-30T07:14:48.911Z</updated>
+        <summary type="html"><![CDATA[Emmanuel Abbe, Elisabetta Cornacchia, Aryo Lotfi]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Neural networks can detect model-free static arbitrage strategies]]></title>
+        <id>http://arxiv.org/abs/2306.16422</id>
+        <link href="http://arxiv.org/abs/2306.16422"/>
+        <updated>2023-06-30T07:14:48.865Z</updated>
+        <summary type="html"><![CDATA[Ariel Neufeld, Julian Sester]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[short trip to a theocracy]]></title>
         <id>http://xianblog.wordpress.com/?p=53134</id>

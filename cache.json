@@ -6,6 +6,56 @@
       "siteUrl": "https://www.arxivist.com",
       "articles": [
         {
+          "id": "http://arxiv.org/abs/2306.17089",
+          "author": null,
+          "description": "Daniel T. Chang",
+          "link": "http://arxiv.org/abs/2306.17089",
+          "publishedOn": "2023-06-30T07:14:48.986Z",
+          "wordCount": 661,
+          "title": "Concept-Oriented Deep Learning with Large Language Models",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/1911.06253",
+          "author": null,
+          "description": "Michael Perlmutter, Alexander Tong, Feng Gao, Guy Wolf and\n  Matthew Hirn",
+          "link": "http://arxiv.org/abs/1911.06253",
+          "publishedOn": "2023-06-30T07:14:48.969Z",
+          "wordCount": 721,
+          "title": "Understanding Graph Neural Networks with Generalized Geometric\n  Scattering Transforms",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2204.08247",
+          "author": null,
+          "description": "Si-Guo Fang, Dong Huang, Chang-Dong Wang, Yong Tang",
+          "link": "http://arxiv.org/abs/2204.08247",
+          "publishedOn": "2023-06-30T07:14:48.936Z",
+          "wordCount": 755,
+          "title": "Joint Multi-view Unsupervised Feature Selection and Graph Learning",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2306.16921",
+          "author": null,
+          "description": "Emmanuel Abbe, Elisabetta Cornacchia, Aryo Lotfi",
+          "link": "http://arxiv.org/abs/2306.16921",
+          "publishedOn": "2023-06-30T07:14:48.911Z",
+          "wordCount": 679,
+          "title": "Provable Advantage of Curriculum Learning on Parity Targets with Mixed\n  Inputs",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2306.16422",
+          "author": null,
+          "description": "Ariel Neufeld, Julian Sester",
+          "link": "http://arxiv.org/abs/2306.16422",
+          "publishedOn": "2023-06-30T07:14:48.865Z",
+          "wordCount": 634,
+          "title": "Neural networks can detect model-free static arbitrage strategies",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
           "id": "http://arxiv.org/abs/2002.01368",
           "author": null,
           "description": "Emile R. Engelbrecht, Johan A. du Preez",
