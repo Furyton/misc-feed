@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-06-30T19:12:45.047Z</updated>
+    <updated>2023-06-30T20:16:48.744Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The spiny terminological conundrum of ekhidna and ekhinos]]></title>
+        <id>https://languagelog.ldc.upenn.edu/nll/?p=59471</id>
+        <link href="https://languagelog.ldc.upenn.edu/nll/?p=59471&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=the-spiny-terminological-conundrum-of-ekhidna-and-ekhinos"/>
+        <updated>2023-06-30T19:15:51.000Z</updated>
+        <summary type="html"><![CDATA[[This is a guest post by Stewart Nicol] Greek particles I am a zoologist and comparative physiologist who has worked extensively on the monotremes, the platypus and the echidna. I have been putting together some notes on the naming of the these animals. After originally being placed in the genus Myrmecophaga with the other, totally unrelated, […]]]></summary>
+        <author>
+            <name>Victor Mair</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Alex Cohen, Cosmin Pohoata, and Dmitrii Zakharov Improved the Upper Bound for the Heilbronn triangle problem!]]></title>
         <id>http://gilkalai.wordpress.com/?p=24605</id>
@@ -2788,60 +2798,6 @@ Large-scale models, such as T5, GPT-3, PaLM, Flamingo and PaLI, have demonstrate
         <summary type="html"><![CDATA[The medical news site MedPage Today has recently added a daily game page, "Wordectomy", in which a medically-relevant Wikipedia article is presented with all letters blanked out except for punctuation and (some) function words, e.g. The instructions: Welcome to Wordectomy — a word game from MedPage Today where you try to determine what medical condition is […]]]></summary>
         <author>
             <name>Mark Liberman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Low-rank extended Kalman filtering for online learning of neural
-  networks from streaming data]]></title>
-        <id>http://arxiv.org/abs/2305.19535</id>
-        <link href="http://arxiv.org/abs/2305.19535"/>
-        <updated>2023-06-01T07:14:05.921Z</updated>
-        <summary type="html"><![CDATA[Peter Chang, Gerardo Dur\`an-Mart\'in, Alexander Y Shestopaloff, Matt
-  Jones, Kevin Murphy]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Active causal structure learning with advice]]></title>
-        <id>http://arxiv.org/abs/2305.19588</id>
-        <link href="http://arxiv.org/abs/2305.19588"/>
-        <updated>2023-06-01T07:14:05.907Z</updated>
-        <summary type="html"><![CDATA[Davin Choo, Themis Gouleakis, Arnab Bhattacharyya]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Optimal Estimates for Pairwise Learning with Deep ReLU Networks]]></title>
-        <id>http://arxiv.org/abs/2305.19640</id>
-        <link href="http://arxiv.org/abs/2305.19640"/>
-        <updated>2023-06-01T07:14:05.886Z</updated>
-        <summary type="html"><![CDATA[Junyu Zhou, Shuo Huang, Han Feng, Ding-Xuan Zhou]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What and How does In-Context Learning Learn? Bayesian Model Averaging,
-  Parameterization, and Generalization]]></title>
-        <id>http://arxiv.org/abs/2305.19420</id>
-        <link href="http://arxiv.org/abs/2305.19420"/>
-        <updated>2023-06-01T07:14:05.878Z</updated>
-        <summary type="html"><![CDATA[Yufeng Zhang, Fengzhuo Zhang, Zhuoran Yang, Zhaoran Wang]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Machine learning with tree tensor networks, CP rank constraints, and
-  tensor dropout]]></title>
-        <id>http://arxiv.org/abs/2305.19440</id>
-        <link href="http://arxiv.org/abs/2305.19440"/>
-        <updated>2023-06-01T07:14:05.872Z</updated>
-        <summary type="html"><![CDATA[Hao Chen, Thomas Barthel]]></summary>
-        <author>
-            <name>arxivist feed</name>
         </author>
     </entry>
 </feed>
