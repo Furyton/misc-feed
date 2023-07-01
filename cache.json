@@ -2073,16 +2073,6 @@
           "wordCount": 27574,
           "title": "AVFormer: Injecting vision into frozen speech models for zero-shot AV-ASR",
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgEpnVot9nisUn-B5GierK8WfqI_mhVwKmJ1mjj_FOdOr2_74gIwvwSJgobi8K_a1uq9n5B3pO4Zi5-mXoE0mzOw32WW-ny6kBThTgHIv3wtQVrpjdMdhMYCSqustzlN7ArP3y2jSqEy_2rlz_zXfsfp05Z3svQ7bu8rYJAN6V1ellHjbL-SJOHraUHEQ/w1200-h630-p-k-no-nu/AVFormer.png"
-        },
-        {
-          "id": "http://ai.googleblog.com/2023/06/retrieval-augmented-visual-language-pre.html",
-          "author": null,
-          "description": "Posted by Ziniu Hu, Student Researcher, and Alireza Fathi, Research Scientist, Google Research, Perception Team\n\n\n\n\n\nLarge-scale models, such as T5, GPT-3, PaLM, Flamingo and PaLI, have demonstrated the ability to store substantial amounts of knowledge when scaled to tens of billions of parameters and trained on large text and image datasets. These models achieve state-of-the-art results on downstream tasks, such as image captioning, visual question answering and open vocabulary recognition. Despite such achievements, these models require a massive volume of data for training and end up with a tremendous number of parameters (billions in many cases), resulting in significant computational requirements. Moreover, the data used to train these models can become outdated, requiring re-training…",
-          "link": "http://ai.googleblog.com/2023/06/retrieval-augmented-visual-language-pre.html",
-          "publishedOn": "2023-06-01T17:25:00.000Z",
-          "wordCount": 27826,
-          "title": "Retrieval-augmented visual-language pre-training",
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrAmMW5q9tM1RpbnrDdMiw-kXeP1kkCNH0Vj_ZmqxTxoT45GYgBjIKXBZ2eF7_mtQ-ijE7h5g-O69tcbfmEoqifjP6ssE12hsRzIE-fl64ZdaFBL0f0Ruu-Ix3R-dy1jhBibQXoxZCpF0CVsdLWwK1aS-JJGu2wcPdyZkPMeRQFP-AqZq5nYUq0KTOAQ/w1200-h630-p-k-no-nu/REVEAL%20hero.jpg"
         }
       ]
     },

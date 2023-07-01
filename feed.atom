@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-07-01T05:15:20.586Z</updated>
+    <updated>2023-07-01T06:20:51.183Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -2772,22 +2772,6 @@ Although lip motion can provide strong signals for speech recognition and is the
         <summary type="html"><![CDATA[Randy Alexander reports that during a guitar lesson, he asked his student: Māmā de dìdi de nǚér shì biǎomèi ma？ 妈妈的弟弟的女儿是表妹吗？ "Is your mother's younger brother's daughter your younger maternal female cousin?" The student replied: wǒyě bútài qīngchǔ děngyíxià 我也不太清楚等一下 "I don't quite know either, wait a minute." Here's a screen shot of the student's […]]]></summary>
         <author>
             <name>Victor Mair</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Retrieval-augmented visual-language pre-training]]></title>
-        <id>http://ai.googleblog.com/2023/06/retrieval-augmented-visual-language-pre.html</id>
-        <link href="http://ai.googleblog.com/2023/06/retrieval-augmented-visual-language-pre.html"/>
-        <updated>2023-06-01T17:25:00.000Z</updated>
-        <summary type="html"><![CDATA[Posted by Ziniu Hu, Student Researcher, and Alireza Fathi, Research Scientist, Google Research, Perception Team
-
-
-
-
-
-Large-scale models, such as T5, GPT-3, PaLM, Flamingo and PaLI, have demonstrated the ability to store substantial amounts of knowledge when scaled to tens of billions of parameters and trained on large text and image datasets. These models achieve state-of-the-art results on downstream tasks, such as image captioning, visual question answering and open vocabulary recognition. Despite such achievements, these models require a massive volume of data for training and end up with a tremendous number of parameters (billions in many cases), resulting in significant computational requirements. Moreover, the data used to train these models can become outdated, requiring re-training…]]></summary>
-        <author>
-            <name>Google AI Blog</name>
         </author>
     </entry>
 </feed>
