@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-07-01T03:07:16.786Z</updated>
+    <updated>2023-07-01T04:19:48.774Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -2788,16 +2788,6 @@ Although lip motion can provide strong signals for speech recognition and is the
 Large-scale models, such as T5, GPT-3, PaLM, Flamingo and PaLI, have demonstrated the ability to store substantial amounts of knowledge when scaled to tens of billions of parameters and trained on large text and image datasets. These models achieve state-of-the-art results on downstream tasks, such as image captioning, visual question answering and open vocabulary recognition. Despite such achievements, these models require a massive volume of data for training and end up with a tremendous number of parameters (billions in many cases), resulting in significant computational requirements. Moreover, the data used to train these models can become outdated, requiring re-training…]]></summary>
         <author>
             <name>Google AI Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Multilingual TV series]]></title>
-        <id>https://languagelog.ldc.upenn.edu/nll/?p=58835</id>
-        <link href="https://languagelog.ldc.upenn.edu/nll/?p=58835&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=multilingual-tv-series"/>
-        <updated>2023-06-01T15:13:03.000Z</updated>
-        <summary type="html"><![CDATA[Coby Lubliner called my attention to the Belgian Netflix series "Rough Diamonds." It takes place in Antwerp, so the default language is Dutch (Flemish), but the characters move into Yiddish, English and French with the greatest of ease. The subtitles don't indicate the language spoken in any one scene, except that when [Yiddish] appears what is […]]]></summary>
-        <author>
-            <name>Victor Mair</name>
         </author>
     </entry>
 </feed>
