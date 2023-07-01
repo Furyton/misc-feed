@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-07-01T19:12:38.094Z</updated>
+    <updated>2023-07-01T20:15:58.178Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -2708,60 +2708,6 @@ Although lip motion can provide strong signals for speech recognition and is the
         <summary type="html"><![CDATA[A recent Dinosaur Comics strip features T-Rex imitating (a certain kind of) speech style from the 1940s: Mouseover title: "to t-rex's mind, and mine as well, all of the past takes place around the 1930s. well sure! and why not?" The next strip: Mouseover title: "you want a gender-neutral way to address a room, well here […]]]></summary>
         <author>
             <name>Mark Liberman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[On the Expressive Power of Neural Networks]]></title>
-        <id>http://arxiv.org/abs/2306.00145</id>
-        <link href="http://arxiv.org/abs/2306.00145"/>
-        <updated>2023-06-02T07:13:25.962Z</updated>
-        <summary type="html"><![CDATA[Jan Holstermann]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Combining Explicit and Implicit Regularization for Efficient Learning in
-  Deep Networks]]></title>
-        <id>http://arxiv.org/abs/2306.00342</id>
-        <link href="http://arxiv.org/abs/2306.00342"/>
-        <updated>2023-06-02T07:13:25.957Z</updated>
-        <summary type="html"><![CDATA[Dan Zhao]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Provably Learning Diverse Features in Multi-View Data with Midpoint
-  Mixup]]></title>
-        <id>http://arxiv.org/abs/2210.13512</id>
-        <link href="http://arxiv.org/abs/2210.13512"/>
-        <updated>2023-06-02T07:13:25.952Z</updated>
-        <summary type="html"><![CDATA[Muthu Chidambaram, Xiang Wang, Chenwei Wu, Rong Ge]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Towards Revealing the Mystery behind Chain of Thought: a Theoretical
-  Perspective]]></title>
-        <id>http://arxiv.org/abs/2305.15408</id>
-        <link href="http://arxiv.org/abs/2305.15408"/>
-        <updated>2023-06-02T07:13:25.946Z</updated>
-        <summary type="html"><![CDATA[Guhao Feng, Bohang Zhang, Yuntian Gu, Haotian Ye, Di He, Liwei Wang]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Robust Sensible Adversarial Learning of Deep Neural Networks for Image
-  Classification]]></title>
-        <id>http://arxiv.org/abs/2205.10457</id>
-        <link href="http://arxiv.org/abs/2205.10457"/>
-        <updated>2023-06-02T07:13:25.730Z</updated>
-        <summary type="html"><![CDATA[Jungeum Kim, Xiao Wang]]></summary>
-        <author>
-            <name>arxivist feed</name>
         </author>
     </entry>
 </feed>
