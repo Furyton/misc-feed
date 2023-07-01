@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-07-01T10:16:38.787Z</updated>
+    <updated>2023-07-01T11:13:01.362Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -2752,16 +2752,6 @@ Although lip motion can provide strong signals for speech recognition and is the
         <summary type="html"><![CDATA[Jungeum Kim, Xiao Wang]]></summary>
         <author>
             <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Galton and Watson voluntarily skipping some generations]]></title>
-        <id>http://xianblog.wordpress.com/?p=53139</id>
-        <link href="https://xianblog.wordpress.com/2023/06/02/galton-and-watson-voluntarily-skipping-some-generations/"/>
-        <updated>2023-06-01T22:23:10.000Z</updated>
-        <summary type="html"><![CDATA[A riddle on a form of a Galton-Watson process, starting from a single unit, where no one dies but rather, at each of 100 generations, Dog either opts for a Uniform number υ of additional units or increments a counter γ by this number υ, its goal being to optimise γ. The solution proposed by […]]]></summary>
-        <author>
-            <name>xi'an</name>
         </author>
     </entry>
 </feed>
