@@ -2013,16 +2013,6 @@
           "wordCount": 27845,
           "title": "Visual captions: Using large language models to augment video conferences with dynamic visuals",
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiuQA-vtXoNbaUU05FVACHS1vMdvtOxK5pcusTeWW2dkG9OpPiKHLtRuCbtNlAMX4TyRYYNNO0NMhCPTDsGDkVzs2FJvITsOknz8GcO4hJ7Eds57YVXdFtQW3fEzNxiLq0MQC2G3GW0ESfVqOBogCsbIDc1YfQpIgKsJm0idXET58ia266bNjb63HHuDw/w1200-h630-p-k-no-nu/VisualCaptions.gif"
-        },
-        {
-          "id": "http://ai.googleblog.com/2023/06/avformer-injecting-vision-into-frozen.html",
-          "author": null,
-          "description": "Posted by Arsha Nagrani and Paul Hongsuck Seo, Research Scientists, Google Research\n\n\n\n\n\n\nAutomatic speech recognition (ASR) is a well-established technology that is widely adopted for various applications such as conference calls, streamed video transcription and voice commands. While the challenges for this technology are centered around noisy audio inputs, the visual stream in multimodal videos (e.g., TV, online edited videos) can provide strong cues for improving the robustness of ASR systems — this is called audiovisual ASR (AV-ASR).\n \n\nAlthough lip motion can provide strong signals for speech recognition and is the most common area of focus for AV-ASR, the mouth is often not directly visible in videos in the wild (e.g., due to egocentric viewpoints, face coverings, and low resolution…",
-          "link": "http://ai.googleblog.com/2023/06/avformer-injecting-vision-into-frozen.html",
-          "publishedOn": "2023-06-02T17:02:00.000Z",
-          "wordCount": 27574,
-          "title": "AVFormer: Injecting vision into frozen speech models for zero-shot AV-ASR",
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgEpnVot9nisUn-B5GierK8WfqI_mhVwKmJ1mjj_FOdOr2_74gIwvwSJgobi8K_a1uq9n5B3pO4Zi5-mXoE0mzOw32WW-ny6kBThTgHIv3wtQVrpjdMdhMYCSqustzlN7ArP3y2jSqEy_2rlz_zXfsfp05Z3svQ7bu8rYJAN6V1ellHjbL-SJOHraUHEQ/w1200-h630-p-k-no-nu/AVFormer.png"
         }
       ]
     },

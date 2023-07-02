@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-07-02T04:18:52.521Z</updated>
+    <updated>2023-07-02T05:15:23.067Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -2688,26 +2688,6 @@ In “Visual Captions: Augmenting Verbal Communication With On-the-fly Visuals�
         <summary type="html"><![CDATA[Handbook of Formosan Languages (Online): The Indigenous Languages of Taiwan Editors: Paul Jen-kuei Li, Academia SinicaElizabeth Zeitoun, Academia SinicaRik De Busser, National Taiwan Cheng-Chi University Leiden:  Brill, 2023 Outright Purchase: € 2249 / US dollars 2495Subscription: € 350 / US dollars 390 A print version is forthcoming (September 2023 ; 3 vols, ~ 2200 pp.) […]]]></summary>
         <author>
             <name>Victor Mair</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AVFormer: Injecting vision into frozen speech models for zero-shot AV-ASR]]></title>
-        <id>http://ai.googleblog.com/2023/06/avformer-injecting-vision-into-frozen.html</id>
-        <link href="http://ai.googleblog.com/2023/06/avformer-injecting-vision-into-frozen.html"/>
-        <updated>2023-06-02T17:02:00.000Z</updated>
-        <summary type="html"><![CDATA[Posted by Arsha Nagrani and Paul Hongsuck Seo, Research Scientists, Google Research
-
-
-
-
-
-
-Automatic speech recognition (ASR) is a well-established technology that is widely adopted for various applications such as conference calls, streamed video transcription and voice commands. While the challenges for this technology are centered around noisy audio inputs, the visual stream in multimodal videos (e.g., TV, online edited videos) can provide strong cues for improving the robustness of ASR systems — this is called audiovisual ASR (AV-ASR).
- 
-
-Although lip motion can provide strong signals for speech recognition and is the most common area of focus for AV-ASR, the mouth is often not directly visible in videos in the wild (e.g., due to egocentric viewpoints, face coverings, and low resolution…]]></summary>
-        <author>
-            <name>Google AI Blog</name>
         </author>
     </entry>
 </feed>
