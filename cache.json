@@ -1227,7 +1227,18 @@
       "title": "统计之都",
       "feedUrl": "https://cosx.org/index.xml",
       "siteUrl": "https://cosx.org/",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://cosx.org/2023/07/monthly/",
+          "author": null,
+          "description": "推荐语：一些活跃的线上研讨会网站：Online Causal Inference Seminar是因果推断的研讨会，每周二晚上有研讨会，2020春季到现在已经举办了几十期报",
+          "link": "https://cosx.org/2023/07/monthly/",
+          "publishedOn": "2023-07-01T00:00:00.000Z",
+          "wordCount": 268,
+          "title": "统计月读（2023 年 5-6 月）",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "Sander Dieleman",
