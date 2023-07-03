@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-07-03T22:16:36.427Z</updated>
+    <updated>2023-07-03T23:17:34.993Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ISB’agoya [28 June – 3 July 2026]]]></title>
+        <id>http://xianblog.wordpress.com/?p=53383</id>
+        <link href="https://xianblog.wordpress.com/2023/07/04/isbagoya-28-june-3-july-2026/"/>
+        <updated>2023-07-03T22:23:24.000Z</updated>
+        <summary type="html"><![CDATA[Visit the post for more.]]></summary>
+        <author>
+            <name>xi'an</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[In North Korea, it's a dire crime to speak like a South Korean, part 2]]></title>
         <id>https://languagelog.ldc.upenn.edu/nll/?p=59489</id>
@@ -2632,16 +2642,6 @@ In “Visual Captions: Augmenting Verbal Communication With On-the-fly Visuals�
         <summary type="html"><![CDATA[This exercise video shows a woman repeating the syllable "rua" to describe a move that she makes: Problem is that there's no Sinoglyph (hànzì 漢字 / 汉字) for writing that in Modern Standard Mandarin (MSM), although some might claim that it can be written with this character, ruó 挼 ("rub; knead; massage"). According to this table, "rua" is not a […]]]></summary>
         <author>
             <name>Victor Mair</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The rise (and fall?) of shiesties]]></title>
-        <id>https://languagelog.ldc.upenn.edu/nll/?p=58927</id>
-        <link href="https://languagelog.ldc.upenn.edu/nll/?p=58927&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=the-rise-and-fall-of-shiesties"/>
-        <updated>2023-06-04T10:52:10.000Z</updated>
-        <summary type="html"><![CDATA[Last month I learned a new word, shiesty — which rhymes with feisty, as if it were written "sheisty" — because shiesties have been banned on the local transit system ("SEPTA"): Your browser does not support the audio element. Keith, I'm sure if you walked around Philadelphia, live in Philadelphia, work in Philadelphia, you've seen […]]]></summary>
-        <author>
-            <name>Mark Liberman</name>
         </author>
     </entry>
 </feed>
