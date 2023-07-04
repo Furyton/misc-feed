@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-07-04T11:14:19.471Z</updated>
+    <updated>2023-07-04T12:35:54.538Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Transitive "blink"]]></title>
+        <id>https://languagelog.ldc.upenn.edu/nll/?p=59494</id>
+        <link href="https://languagelog.ldc.upenn.edu/nll/?p=59494&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=transitive-blink"/>
+        <updated>2023-07-04T11:14:19.000Z</updated>
+        <summary type="html"><![CDATA[Reader Scott Mauldin asks: I am curious about a unique usage I read in SCOTUS Justice Ketanji Jackson's dissent to the recent cases on affirmative action. She says  “This contention blinks both history and reality in ways too numerous to count.” To me, the usage of "blink" as an transitive verb to mean [I assume] […]]]></summary>
+        <author>
+            <name>Victor Mair</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Learning Hidden Markov Models When the Locations of Missing Observations
   are Unknown]]></title>
