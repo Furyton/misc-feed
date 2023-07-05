@@ -964,56 +964,6 @@
           "wordCount": 652,
           "title": "Deep neural networks architectures from the perspective of manifold\n  learning",
           "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
-        },
-        {
-          "id": "http://arxiv.org/abs/2106.02770",
-          "author": null,
-          "description": "Dongxia Wu, Ruijia Niu, Matteo Chinazzi, Alessandro Vespignani, Yi-An\n  Ma, Rose Yu",
-          "link": "http://arxiv.org/abs/2106.02770",
-          "publishedOn": "2023-06-06T07:14:01.826Z",
-          "wordCount": 745,
-          "title": "Deep Bayesian Active Learning for Accelerating Stochastic Simulation",
-          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
-        },
-        {
-          "id": "http://arxiv.org/abs/2301.11990",
-          "author": null,
-          "description": "Ilia Sucholutsky, Thomas L. Griffiths",
-          "link": "http://arxiv.org/abs/2301.11990",
-          "publishedOn": "2023-06-06T07:14:01.819Z",
-          "wordCount": 630,
-          "title": "Alignment with human representations supports robust few-shot learning",
-          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
-        },
-        {
-          "id": "http://arxiv.org/abs/2306.02533",
-          "author": null,
-          "description": "Chaoyue Liu, Amirhesam Abedsoltan, Mikhail Belkin",
-          "link": "http://arxiv.org/abs/2306.02533",
-          "publishedOn": "2023-06-06T07:14:01.813Z",
-          "wordCount": 667,
-          "title": "On Emergence of Clean-Priority Learning in Early Stopped Neural Networks",
-          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
-        },
-        {
-          "id": "http://arxiv.org/abs/2306.03065",
-          "author": null,
-          "description": "Zhuoning Yuan, Dixian Zhu, Zi-Hao Qiu, Gang Li, Xuanhui Wang, Tianbao\n  Yang",
-          "link": "http://arxiv.org/abs/2306.03065",
-          "publishedOn": "2023-06-06T07:14:01.438Z",
-          "wordCount": 792,
-          "title": "LibAUC: A Deep Learning Library for X-Risk Optimization",
-          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
-        },
-        {
-          "id": "http://arxiv.org/abs/2306.02235",
-          "author": null,
-          "description": "Simon Buchholz, Goutham Rajendran, Elan Rosenfeld, Bryon Aragam,\n  Bernhard Sch\\\"olkopf, Pradeep Ravikumar",
-          "link": "http://arxiv.org/abs/2306.02235",
-          "publishedOn": "2023-06-06T07:14:01.143Z",
-          "wordCount": 654,
-          "title": "Learning Linear Causal Representations from Interventions under General\n  Nonlinear Mixing",
-          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
         }
       ]
     },
@@ -1999,6 +1949,16 @@
       "feedUrl": "https://languagelog.ldc.upenn.edu/nll/?feed=rss2",
       "siteUrl": "https://languagelog.ldc.upenn.edu/nll",
       "articles": [
+        {
+          "id": "https://languagelog.ldc.upenn.edu/nll/?p=59521",
+          "author": "Mark Liberman",
+          "description": "Ilia Shumailov et al., \"The Curse of Recursion: Training on Generated Data Makes Models Forget\", 5/31/2023: What will happen to GPT-{n} once LLMs contribute much of the language found online? We find that use of model-generated content in training causes irreversible defects in the resulting models, where tails of the original content distribution disappear. We […]",
+          "link": "https://languagelog.ldc.upenn.edu/nll/?p=59521&utm_source=rss&utm_medium=rss&utm_campaign=alan-turings-revenge",
+          "publishedOn": "2023-07-05T20:15:50.000Z",
+          "wordCount": 2460,
+          "title": "Alan Turing's revenge?",
+          "imageUrl": null
+        },
         {
           "id": "https://languagelog.ldc.upenn.edu/nll/?p=59512",
           "author": "Mark Liberman",
