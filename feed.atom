@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-07-06T18:20:42.146Z</updated>
+    <updated>2023-07-06T19:13:37.969Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -2528,16 +2528,6 @@ listening tests, during which dozens of annotators listen to the utterances one 
         <summary type="html"><![CDATA[German Magai]]></summary>
         <author>
             <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Join the PyTorch Foundation: Membership Now Open]]></title>
-        <id>https://pytorch.org/blog/join-pytorch/</id>
-        <link href="https://pytorch.org/blog/join-pytorch/"/>
-        <updated>2023-06-07T07:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In September 2022, we welcomed PyTorch to the Linux Foundation from Meta, which formed the PyTorch Foundation with founding members AMD, Amazon Web Services (AWS), Google, Meta, Microsoft, and NVIDIA.]]></summary>
-        <author>
-            <name>PyTorch Website</name>
         </author>
     </entry>
 </feed>
