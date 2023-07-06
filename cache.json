@@ -1190,16 +1190,6 @@
           "wordCount": 1853,
           "title": "When NumPy is too slow",
           "imageUrl": "https://pythonspeed.com/assets/titles/numpy-is-slow.png"
-        },
-        {
-          "id": "https://pythonspeed.com/articles/speeding-up-numba/",
-          "author": null,
-          "description": "When you need to speed up your NumPy processing—or just reduce your memory usage—the Numba just-in-time compiler is a great tool.\nIt lets you write Python code that gets compiled at runtime to machine code, allowing you to get the kind of speed improvements you’d get from languages like C, Fortran, or Rust.\nOr at least, that’s the theory.\nIn practice, your initial Numba code may be no faster than the NumPy equivalent.\nBut you can do better, once you have a better understanding of how CPUs work.\nAnd this knowledge will help you more broadly with any compiled language.\nIn this article we’ll:\nConsider a simple image-processing problem.\nTry, and initially fail, to speed it up with Numba.\nWe’ll review just a little bit how modern CPUs are so fast, and the limits of compilers.\nBased on our new understanding, we’ll then show how we can tweak our code to run 25× faster than our original version.\nRead more...",
-          "link": "https://pythonspeed.com/articles/speeding-up-numba/",
-          "publishedOn": "2023-06-07T00:00:00.000Z",
-          "wordCount": 3002,
-          "title": "Understanding CPUs can help speed up Numba and NumPy code",
-          "imageUrl": "https://pythonspeed.com/assets/titles/speeding-up-numba.png"
         }
       ]
     },
@@ -1315,26 +1305,6 @@
           "wordCount": 1252,
           "title": "RoboCat: A self-improving robotic agent",
           "imageUrl": "https://assets-global.website-files.com/621e749a546b7592125f38ed/6491af31af4e56ab852adc12_robocat.webp"
-        },
-        {
-          "id": "https://www.deepmind.com/blog/optimising-computer-systems-with-more-generalised-ai-tools",
-          "author": null,
-          "description": "Based on reinforcement learning, our AI models AlphaZero and MuZero have achieved superhuman performance winning games. Now, they’re expanding their capabilities to help optimise resources in data centres and advance video compression – and most recently, our specialised version of AlphaZero, called AlphaDev, discovered new algorithms that are already accelerating the software applications at the foundations of our digital society.",
-          "link": "https://www.deepmind.com/blog/optimising-computer-systems-with-more-generalised-ai-tools",
-          "publishedOn": "2023-06-07T00:00:00.000Z",
-          "wordCount": 1389,
-          "title": "Optimising computer systems with more generalised AI tools",
-          "imageUrl": "https://assets-global.website-files.com/621e749a546b7592125f38ed/64807bf25294d9863578ef5a_DM_Hero1.png"
-        },
-        {
-          "id": "https://www.deepmind.com/blog/alphadev-discovers-faster-sorting-algorithms",
-          "author": null,
-          "description": "In our paper published today in Nature, we introduce AlphaDev, an artificial intelligence (AI) system that uses reinforcement learning to discover enhanced computer science algorithms – surpassing those honed by scientists and engineers over decades.",
-          "link": "https://www.deepmind.com/blog/alphadev-discovers-faster-sorting-algorithms",
-          "publishedOn": "2023-06-07T00:00:00.000Z",
-          "wordCount": 2284,
-          "title": "AlphaDev discovers faster sorting algorithms",
-          "imageUrl": "https://assets-global.website-files.com/621e749a546b7592125f38ed/64807d68d425bdd22cc43233_Copy%20of%20alphadev_01_06_crops_crop5_0114%20(1).png"
         }
       ]
     },

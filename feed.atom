@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-07-06T11:14:39.804Z</updated>
+    <updated>2023-07-06T12:36:41.698Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -2538,47 +2538,6 @@ listening tests, during which dozens of annotators listen to the utterances one 
         <summary type="html"><![CDATA[Yuan (? dynasty (1271-1368) jade seal in the Bristol Museum: Know what language this is, or even what it says? Yes? Please get back to me. No? Please retweet it until somebody does. (But be aware, it's stumped some quite clever people who've already been asked, so it isn't obvious) Also, advance apologies if it […]]]></summary>
         <author>
             <name>Victor Mair</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Understanding CPUs can help speed up Numba and NumPy code]]></title>
-        <id>https://pythonspeed.com/articles/speeding-up-numba/</id>
-        <link href="https://pythonspeed.com/articles/speeding-up-numba/"/>
-        <updated>2023-06-07T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[When you need to speed up your NumPy processing—or just reduce your memory usage—the Numba just-in-time compiler is a great tool.
-It lets you write Python code that gets compiled at runtime to machine code, allowing you to get the kind of speed improvements you’d get from languages like C, Fortran, or Rust.
-Or at least, that’s the theory.
-In practice, your initial Numba code may be no faster than the NumPy equivalent.
-But you can do better, once you have a better understanding of how CPUs work.
-And this knowledge will help you more broadly with any compiled language.
-In this article we’ll:
-Consider a simple image-processing problem.
-Try, and initially fail, to speed it up with Numba.
-We’ll review just a little bit how modern CPUs are so fast, and the limits of compilers.
-Based on our new understanding, we’ll then show how we can tweak our code to run 25× faster than our original version.
-Read more...]]></summary>
-        <author>
-            <name>Python⇒Speed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Optimising computer systems with more generalised AI tools]]></title>
-        <id>https://www.deepmind.com/blog/optimising-computer-systems-with-more-generalised-ai-tools</id>
-        <link href="https://www.deepmind.com/blog/optimising-computer-systems-with-more-generalised-ai-tools"/>
-        <updated>2023-06-07T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Based on reinforcement learning, our AI models AlphaZero and MuZero have achieved superhuman performance winning games. Now, they’re expanding their capabilities to help optimise resources in data centres and advance video compression – and most recently, our specialised version of AlphaZero, called AlphaDev, discovered new algorithms that are already accelerating the software applications at the foundations of our digital society.]]></summary>
-        <author>
-            <name>DeepMind Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AlphaDev discovers faster sorting algorithms]]></title>
-        <id>https://www.deepmind.com/blog/alphadev-discovers-faster-sorting-algorithms</id>
-        <link href="https://www.deepmind.com/blog/alphadev-discovers-faster-sorting-algorithms"/>
-        <updated>2023-06-07T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In our paper published today in Nature, we introduce AlphaDev, an artificial intelligence (AI) system that uses reinforcement learning to discover enhanced computer science algorithms – surpassing those honed by scientists and engineers over decades.]]></summary>
-        <author>
-            <name>DeepMind Blog</name>
         </author>
     </entry>
 </feed>
