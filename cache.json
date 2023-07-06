@@ -6,6 +6,56 @@
       "siteUrl": "https://www.arxivist.com",
       "articles": [
         {
+          "id": "http://arxiv.org/abs/2307.02071",
+          "author": null,
+          "description": "Fabio Sigrist",
+          "link": "http://arxiv.org/abs/2307.02071",
+          "publishedOn": "2023-07-06T01:43:31.042Z",
+          "wordCount": 619,
+          "title": "A Comparison of Machine Learning Methods for Data with High-Cardinality\n  Categorical Variables",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2307.02295",
+          "author": null,
+          "description": "Mikhail Khodak, Ilya Osadchiy, Keegan Harris, Maria-Florina Balcan,\n  Kfir Y. Levy, Ron Meir, Zhiwei Steven Wu",
+          "link": "http://arxiv.org/abs/2307.02295",
+          "publishedOn": "2023-07-06T01:43:31.038Z",
+          "wordCount": 667,
+          "title": "Meta-Learning Adversarial Bandit Algorithms",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2307.01951",
+          "author": null,
+          "description": "Vignesh Kothapalli, Tom Tirer, Joan Bruna",
+          "link": "http://arxiv.org/abs/2307.01951",
+          "publishedOn": "2023-07-06T01:43:30.940Z",
+          "wordCount": 759,
+          "title": "A Neural Collapse Perspective on Feature Evolution in Graph Neural\n  Networks",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2202.12888",
+          "author": null,
+          "description": "Mohammadjavad Azizi, Branislav Kveton, Mohammad Ghavamzadeh, Sumeet\n  Katariya",
+          "link": "http://arxiv.org/abs/2202.12888",
+          "publishedOn": "2023-07-06T01:43:28.199Z",
+          "wordCount": 678,
+          "title": "Meta-Learning for Simple Regret Minimization",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2307.02129",
+          "author": null,
+          "description": "Leonardo Petrini, Francesco Cagnetta, Umberto M. Tomasini, Alessandro\n  Favero, Matthieu Wyart",
+          "link": "http://arxiv.org/abs/2307.02129",
+          "publishedOn": "2023-07-06T01:43:28.194Z",
+          "wordCount": 760,
+          "title": "How Deep Neural Networks Learn Compositional Data: The Random Hierarchy\n  Model",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
           "id": "http://arxiv.org/abs/2203.06527",
           "author": null,
           "description": "Binyamin Perets, Mark Kozdoba, Shie Mannor",
@@ -2587,16 +2637,6 @@
           "publishedOn": "2023-06-06T17:45:45.000Z",
           "wordCount": 2205,
           "title": "Sinitic exclamations in English speech",
-          "imageUrl": null
-        },
-        {
-          "id": "https://languagelog.ldc.upenn.edu/nll/?p=58977",
-          "author": "Mark Liberman",
-          "description": "I've recently seen many articles like this one, \"You probably don't need to learn to code anymore\" (Medium 6/5/2023), arguing that Large Language Models will make human programming (and human programmers) unnecessary. These arguments puzzle me, because my experience with LLMs suggests that they can't be relied on even for very simple programming tasks. After […]",
-          "link": "https://languagelog.ldc.upenn.edu/nll/?p=58977&utm_source=rss&utm_medium=rss&utm_campaign=llms-as-coders",
-          "publishedOn": "2023-06-06T12:19:14.000Z",
-          "wordCount": 3689,
-          "title": "LLMs as coders?",
           "imageUrl": null
         }
       ]

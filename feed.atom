@@ -2,10 +2,66 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-07-05T23:17:19.912Z</updated>
+    <updated>2023-07-06T01:43:32.278Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[A Comparison of Machine Learning Methods for Data with High-Cardinality
+  Categorical Variables]]></title>
+        <id>http://arxiv.org/abs/2307.02071</id>
+        <link href="http://arxiv.org/abs/2307.02071"/>
+        <updated>2023-07-06T01:43:31.042Z</updated>
+        <summary type="html"><![CDATA[Fabio Sigrist]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Meta-Learning Adversarial Bandit Algorithms]]></title>
+        <id>http://arxiv.org/abs/2307.02295</id>
+        <link href="http://arxiv.org/abs/2307.02295"/>
+        <updated>2023-07-06T01:43:31.038Z</updated>
+        <summary type="html"><![CDATA[Mikhail Khodak, Ilya Osadchiy, Keegan Harris, Maria-Florina Balcan,
+  Kfir Y. Levy, Ron Meir, Zhiwei Steven Wu]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Neural Collapse Perspective on Feature Evolution in Graph Neural
+  Networks]]></title>
+        <id>http://arxiv.org/abs/2307.01951</id>
+        <link href="http://arxiv.org/abs/2307.01951"/>
+        <updated>2023-07-06T01:43:30.940Z</updated>
+        <summary type="html"><![CDATA[Vignesh Kothapalli, Tom Tirer, Joan Bruna]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Meta-Learning for Simple Regret Minimization]]></title>
+        <id>http://arxiv.org/abs/2202.12888</id>
+        <link href="http://arxiv.org/abs/2202.12888"/>
+        <updated>2023-07-06T01:43:28.199Z</updated>
+        <summary type="html"><![CDATA[Mohammadjavad Azizi, Branislav Kveton, Mohammad Ghavamzadeh, Sumeet
+  Katariya]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Deep Neural Networks Learn Compositional Data: The Random Hierarchy
+  Model]]></title>
+        <id>http://arxiv.org/abs/2307.02129</id>
+        <link href="http://arxiv.org/abs/2307.02129"/>
+        <updated>2023-07-06T01:43:28.194Z</updated>
+        <summary type="html"><![CDATA[Leonardo Petrini, Francesco Cagnetta, Umberto M. Tomasini, Alessandro
+  Favero, Matthieu Wyart]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AI without human oversight]]></title>
         <id>https://languagelog.ldc.upenn.edu/nll/?p=59501</id>
@@ -2543,16 +2599,6 @@ Recent advances in video conferencing have significantly improved remote video c
 In “Visual Captions: Augmenting Verbal Communication With On-the-fly Visuals”, presented at …]]></summary>
         <author>
             <name>Google AI Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LLMs as coders?]]></title>
-        <id>https://languagelog.ldc.upenn.edu/nll/?p=58977</id>
-        <link href="https://languagelog.ldc.upenn.edu/nll/?p=58977&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=llms-as-coders"/>
-        <updated>2023-06-06T12:19:14.000Z</updated>
-        <summary type="html"><![CDATA[I've recently seen many articles like this one, "You probably don't need to learn to code anymore" (Medium 6/5/2023), arguing that Large Language Models will make human programming (and human programmers) unnecessary. These arguments puzzle me, because my experience with LLMs suggests that they can't be relied on even for very simple programming tasks. After […]]]></summary>
-        <author>
-            <name>Mark Liberman</name>
         </author>
     </entry>
 </feed>
