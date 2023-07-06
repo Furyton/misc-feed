@@ -1766,6 +1766,16 @@
       "siteUrl": "http://ai.googleblog.com/",
       "articles": [
         {
+          "id": "http://ai.googleblog.com/2023/07/pic2word-mapping-pictures-to-words-for.html",
+          "author": null,
+          "description": "Posted by Kuniaki Saito, Student Researcher, Google Research, Cloud AI Team, and Kihyuk Sohn, Research Scientist, Google Research\n\n\n\n\n\nImage retrieval plays a crucial role in search engines. Typically, their users rely on either image or text as a query to retrieve a desired target image. However, text-based retrieval has its limitations, as describing the target image accurately using words can be challenging. For instance, when searching for a fashion item, users may want an item whose specific attribute, e.g., the color of a logo or the logo itself, is different from what they find in a website. Yet searching for the item in an existing search engine is not trivial since precisely describing the fashion item by text can be challenging. To address this fact, composed image retrieval (CIR…",
+          "link": "http://ai.googleblog.com/2023/07/pic2word-mapping-pictures-to-words-for.html",
+          "publishedOn": "2023-07-06T19:50:00.000Z",
+          "wordCount": 27565,
+          "title": "Pic2Word: Mapping pictures to words for zero-shot composed image retrieval",
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi6B2QkPYBxWvwycmetnYj3hn1h6R9lhon2guJb7jNE3lSCmGXWSe-tm_AdTC6pJ-ORJSIsGz-JuRHpFqflOHvk02R_1AVd0s4Z0JvZ4m1SV6OtiPx0b6DF4BOpEtfW-hkTKt1VhoTPbQKDQCBF3ihZ5rQG9GGe9AQ6xVH8vMYtUYIWBc2hIIvs0mwQh70r/w1200-h630-p-k-no-nu/Pic2Word.png"
+        },
+        {
           "id": "http://ai.googleblog.com/2023/06/announcing-first-machine-unlearning.html",
           "author": null,
           "description": "Posted by Fabian Pedregosa and Eleni Triantafillou, Research Scientists, Google\n\n\n\n\n\nDeep learning has recently driven tremendous progress in a wide array of applications, ranging from realistic image generation and impressive retrieval systems to language models that can hold human-like conversations. While this progress is very exciting, the widespread use of deep neural network models requires caution: as guided by Google’s AI Principles, we seek to develop AI technologies responsibly by understanding and mitigating potential risks, such as the propagation and amplification of unfair biases and protecting user privacy.\n \n\nFully erasing the influence of the data requested to be deleted is challenging since, aside from simply deleting it from databases where it’s stored, it also requires …",
@@ -1919,6 +1929,21 @@
       "feedUrl": "https://languagelog.ldc.upenn.edu/nll/?feed=rss2",
       "siteUrl": "https://languagelog.ldc.upenn.edu/nll",
       "articles": [
+        {
+          "id": "https://languagelog.ldc.upenn.edu/nll/?p=59590",
+          "author": "Mark Liberman",
+          "description": "From the movie \"Jak rozpętałem drugą wojnę światową\" (How I Unleashed World War II): The initial Q&A: Your browser does not support the audio element. Q: Name und Vorname? A: Grzegorz Brzęczyszczykiewicz. Waveform, spectrogram, F0 track: Just the answer: Your browser does not support the audio element. \"Birthplace\" Q&A, at the end of the scene: […]",
+          "link": "https://languagelog.ldc.upenn.edu/nll/?p=59590&utm_source=rss&utm_medium=rss&utm_campaign=language-as-a-nonviolent-weapon",
+          "publishedOn": "2023-07-06T20:38:48.000Z",
+          "wordCount": 2015,
+          "title": "Language as a (nonviolent) weapon",
+          "enclosure": {
+            "url": "https://languagelog.ldc.upenn.edu/myl/PolishNameSceneX1.wav",
+            "length": "97352",
+            "type": "audio/wav"
+          },
+          "imageUrl": null
+        },
         {
           "id": "https://languagelog.ldc.upenn.edu/nll/?p=59528",
           "author": "Victor Mair",

@@ -2,10 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-07-06T20:17:48.150Z</updated>
+    <updated>2023-07-06T21:15:05.075Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Language as a (nonviolent) weapon]]></title>
+        <id>https://languagelog.ldc.upenn.edu/nll/?p=59590</id>
+        <link href="https://languagelog.ldc.upenn.edu/nll/?p=59590&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=language-as-a-nonviolent-weapon"/>
+        <updated>2023-07-06T20:38:48.000Z</updated>
+        <summary type="html"><![CDATA[From the movie "Jak rozpętałem drugą wojnę światową" (How I Unleashed World War II): The initial Q&A: Your browser does not support the audio element. Q: Name und Vorname? A: Grzegorz Brzęczyszczykiewicz. Waveform, spectrogram, F0 track: Just the answer: Your browser does not support the audio element. "Birthplace" Q&A, at the end of the scene: […]]]></summary>
+        <author>
+            <name>Mark Liberman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pic2Word: Mapping pictures to words for zero-shot composed image retrieval]]></title>
+        <id>http://ai.googleblog.com/2023/07/pic2word-mapping-pictures-to-words-for.html</id>
+        <link href="http://ai.googleblog.com/2023/07/pic2word-mapping-pictures-to-words-for.html"/>
+        <updated>2023-07-06T19:50:00.000Z</updated>
+        <summary type="html"><![CDATA[Posted by Kuniaki Saito, Student Researcher, Google Research, Cloud AI Team, and Kihyuk Sohn, Research Scientist, Google Research
+
+
+
+
+
+Image retrieval plays a crucial role in search engines. Typically, their users rely on either image or text as a query to retrieve a desired target image. However, text-based retrieval has its limitations, as describing the target image accurately using words can be challenging. For instance, when searching for a fashion item, users may want an item whose specific attribute, e.g., the color of a logo or the logo itself, is different from what they find in a website. Yet searching for the item in an existing search engine is not trivial since precisely describing the fashion item by text can be challenging. To address this fact, composed image retrieval (CIR…]]></summary>
+        <author>
+            <name>Google AI Blog</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Impressive speech in Taiwanese by Australian representative]]></title>
         <id>https://languagelog.ldc.upenn.edu/nll/?p=59528</id>
