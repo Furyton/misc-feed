@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-07-06T19:13:37.969Z</updated>
+    <updated>2023-07-06T20:17:48.150Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -2483,51 +2483,6 @@ Previously, we presented the 1,000 languages initiative and the Universal Speech
 listening tests, during which dozens of annotators listen to the utterances one after the other to determine how natural they sound. While humans are still unbeaten at detecting whether a piece of text sounds natural, this process can be impractical — especially in the early stages of research projects, when engineers need rapid feedback to test and re…]]></summary>
         <author>
             <name>Google AI Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Aligning Language Models with Preferences through f-divergence
-  Minimization]]></title>
-        <id>http://arxiv.org/abs/2302.08215</id>
-        <link href="http://arxiv.org/abs/2302.08215"/>
-        <updated>2023-06-07T07:13:39.489Z</updated>
-        <summary type="html"><![CDATA[Dongyoung Go, Tomasz Korbak, Germ\'an Kruszewski, Jos Rozen, Nahyeon
-  Ryu, Marc Dymetman]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Denise: Deep Robust Principal Component Analysis for Positive
-  Semidefinite Matrices]]></title>
-        <id>http://arxiv.org/abs/2004.13612</id>
-        <link href="http://arxiv.org/abs/2004.13612"/>
-        <updated>2023-06-07T07:13:39.484Z</updated>
-        <summary type="html"><![CDATA[Calypso Herrera, Florian Krach, Anastasis Kratsios, Pierre Ruyssen,
-  Josef Teichmann]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Orthogonal Statistical Learning]]></title>
-        <id>http://arxiv.org/abs/1901.09036</id>
-        <link href="http://arxiv.org/abs/1901.09036"/>
-        <updated>2023-06-07T07:13:39.478Z</updated>
-        <summary type="html"><![CDATA[Dylan J. Foster, Vasilis Syrgkanis]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Deep neural networks architectures from the perspective of manifold
-  learning]]></title>
-        <id>http://arxiv.org/abs/2306.03406</id>
-        <link href="http://arxiv.org/abs/2306.03406"/>
-        <updated>2023-06-07T07:13:39.454Z</updated>
-        <summary type="html"><![CDATA[German Magai]]></summary>
-        <author>
-            <name>arxivist feed</name>
         </author>
     </entry>
 </feed>
