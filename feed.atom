@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-07-07T12:34:36.972Z</updated>
+    <updated>2023-07-07T13:24:14.522Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The LLM-detection boom]]></title>
+        <id>https://languagelog.ldc.upenn.edu/nll/?p=59607</id>
+        <link href="https://languagelog.ldc.upenn.edu/nll/?p=59607&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=the-llm-detection-boom"/>
+        <updated>2023-07-07T12:49:58.000Z</updated>
+        <summary type="html"><![CDATA[Joe Marshall, "As AI cheating booms, so does the industry detecting it: ‘We couldn’t keep up with demand’", The Guardian 7/5/2023: Since its release last November, ChatGPT has shaken the education world. The chatbot and other sophisticated AI tools are reportedly being used everywhere from college essays to high school art projects. A recent survey […]]]></summary>
+        <author>
+            <name>Mark Liberman</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[DeepOnto: A Python Package for Ontology Engineering with Deep Learning]]></title>
         <id>http://arxiv.org/abs/2307.03067</id>
