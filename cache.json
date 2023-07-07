@@ -6,6 +6,16 @@
       "siteUrl": "https://www.arxivist.com",
       "articles": [
         {
+          "id": "http://arxiv.org/abs/2306.04637",
+          "author": null,
+          "description": "Yu Bai, Fan Chen, Huan Wang, Caiming Xiong, Song Mei",
+          "link": "http://arxiv.org/abs/2306.04637",
+          "publishedOn": "2023-07-07T21:14:12.881Z",
+          "wordCount": 818,
+          "title": "Transformers as Statisticians: Provable In-Context Learning with\n  In-Context Algorithm Selection",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
           "id": "http://arxiv.org/abs/2307.03067",
           "author": null,
           "description": "Yuan He, Jiaoyan Chen, Hang Dong, Ian Horrocks, Carlo Allocca, Taehun\n  Kim, Brahmananda Sapkota",

@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-07-07T20:17:23.955Z</updated>
+    <updated>2023-07-07T21:14:17.683Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Transformers as Statisticians: Provable In-Context Learning with
+  In-Context Algorithm Selection]]></title>
+        <id>http://arxiv.org/abs/2306.04637</id>
+        <link href="http://arxiv.org/abs/2306.04637"/>
+        <updated>2023-07-07T21:14:12.881Z</updated>
+        <summary type="html"><![CDATA[Yu Bai, Fan Chen, Huan Wang, Caiming Xiong, Song Mei]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Modular visual question answering via code generation]]></title>
         <id>http://ai.googleblog.com/2023/07/modular-visual-question-answering-via.html</id>
