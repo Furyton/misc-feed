@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-07-07T13:24:14.522Z</updated>
+    <updated>2023-07-07T14:15:18.990Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -2539,16 +2539,6 @@ a structured search]]></summary>
         <summary type="html"><![CDATA[当前AI生成与大语言模型的指数级发展，为相关产业链带来新的发展引擎，也为AI落地应用带来新的想象空间。2023 […]]]></summary>
         <author>
             <name>达观数据</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Naive Bayes is all you need ?]]></title>
-        <id>https://kexue.fm/archives/9648</id>
-        <link href="https://kexue.fm/archives/9648"/>
-        <updated>2023-06-08T01:25:00.000Z</updated>
-        <summary type="html"><![CDATA[很抱歉，起了这么个具有标题党特征的题目。在写完《NBCE：使用朴素贝叶斯扩展LLM的Context处理长度》之后，笔者就觉得朴素贝叶斯（Naive Bayes）跟Attention机制有很多相同...]]></summary>
-        <author>
-            <name>苏剑林</name>
         </author>
     </entry>
 </feed>
