@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-07-07T05:16:10.483Z</updated>
+    <updated>2023-07-07T06:22:36.271Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Boatswain]]></title>
+        <id>https://languagelog.ldc.upenn.edu/nll/?p=59573</id>
+        <link href="https://languagelog.ldc.upenn.edu/nll/?p=59573&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=boatswain"/>
+        <updated>2023-07-07T05:59:14.000Z</updated>
+        <summary type="html"><![CDATA[This picture troubled me: (source) It seems that the person at the right side of the photograph is saluting with his left hand.  I wondered whether that is permissible in the armed forces? I asked Captain James Fanell, a retired high-ranking naval officer in the Pacific Fleet, how to explain the saluting behavior of this […]]]></summary>
+        <author>
+            <name>Victor Mair</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Welcome to MCM 2025]]></title>
         <id>http://xianblog.wordpress.com/?p=53400</id>
@@ -2496,29 +2506,6 @@ a structured search]]></summary>
         <summary type="html"><![CDATA[A riddle on uniform spacings!, namely when considering eight iid Uniform (0,1) variates as visiting times and three further iid Uniform (0,1) variates as server availability times, with unit service time, the question being the probability a server is available for a ninth visiting time, T⁹. Which can be decomposed into four cases: at least […]]]></summary>
         <author>
             <name>xi'an</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Evaluating speech synthesis in many languages with SQuId]]></title>
-        <id>http://ai.googleblog.com/2023/06/evaluating-speech-synthesis-in-many.html</id>
-        <link href="http://ai.googleblog.com/2023/06/evaluating-speech-synthesis-in-many.html"/>
-        <updated>2023-06-07T18:07:00.001Z</updated>
-        <summary type="html"><![CDATA[Posted by Thibault Sellam, Research Scientist, Google
-
-
-
-
-
-Previously, we presented the 1,000 languages initiative and the Universal Speech Model with the goal of making speech and language technologies available to billions of users around the world. Part of this commitment involves developing high-quality speech synthesis technologies, which build upon projects such as VDTTS and AudioLM, for users that speak many different languages.
-
-
-
-
-
-
-listening tests, during which dozens of annotators listen to the utterances one after the other to determine how natural they sound. While humans are still unbeaten at detecting whether a piece of text sounds natural, this process can be impractical — especially in the early stages of research projects, when engineers need rapid feedback to test and re…]]></summary>
-        <author>
-            <name>Google AI Blog</name>
         </author>
     </entry>
 </feed>
