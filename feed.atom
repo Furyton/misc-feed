@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-07-08T03:31:09.069Z</updated>
+    <updated>2023-07-08T04:19:53.998Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -2487,18 +2487,6 @@ Sam Mattheus and Jacques Verstraete have posted a preprint today where they solv
         <summary type="html"><![CDATA[From Simon Cartoon: Here's something I just saw at a local bakery in Berkeley, CA. Simon explains: We have English, Spanish, and then French in the last position, no issues there. 3rd position is Mandarin Chinese via pinyin: Who is this for? What is the population of people uncomfortable reading in English, but comfortable reading […]]]></summary>
         <author>
             <name>Victor Mair</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[We may finally crack Maths. But should we?]]></title>
-        <id>6481b5876965110001df8c10</id>
-        <link href="https://www.inference.vc/we-may-finally-crack-maths-but-should-we/"/>
-        <updated>2023-06-08T15:58:13.000Z</updated>
-        <summary type="html"><![CDATA[Automating mathematical theorem proving has been a long standing goal of artificial intelligence and indeed computer science. It's one of the areas I became very interested in recently. This is because I feel we may have the ingredients needed to make very, very significant progress:
-
-a structured search]]></summary>
-        <author>
-            <name>Ferenc Huszar</name>
         </author>
     </entry>
 </feed>
