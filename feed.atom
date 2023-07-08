@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-07-08T04:19:53.998Z</updated>
+    <updated>2023-07-08T05:15:26.848Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Somking]]></title>
+        <id>https://languagelog.ldc.upenn.edu/nll/?p=59618</id>
+        <link href="https://languagelog.ldc.upenn.edu/nll/?p=59618&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=somking"/>
+        <updated>2023-07-08T04:50:13.000Z</updated>
+        <summary type="html"><![CDATA[Sign at Dunhuang, at the western end of the Gansu Corridor in northwestern China, where I did my doctoral research more than half a century ago (there were no signs like this in those days): The sign says: qǐng wù xīyān 请勿吸烟 "Please do not smoke" Easiest Chinglish I ever had to figure out. Selected readings *Chinese 'No […]]]></summary>
+        <author>
+            <name>Victor Mair</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[another fine…]]></title>
         <id>http://xianblog.wordpress.com/?p=53375</id>
@@ -2477,16 +2487,6 @@ Sam Mattheus and Jacques Verstraete have posted a preprint today where they solv
 Sam Mattheus and Jacques Verstraete have posted a preprint today where they solve the classic open problem of determining the asymptotics of the Ramsey number . They show that which is just a…]]></summary>
         <author>
             <name>Gil Kalai</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Transliterations aplenty]]></title>
-        <id>https://languagelog.ldc.upenn.edu/nll/?p=59014</id>
-        <link href="https://languagelog.ldc.upenn.edu/nll/?p=59014&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=transliterations-aplenty"/>
-        <updated>2023-06-08T16:50:05.000Z</updated>
-        <summary type="html"><![CDATA[From Simon Cartoon: Here's something I just saw at a local bakery in Berkeley, CA. Simon explains: We have English, Spanish, and then French in the last position, no issues there. 3rd position is Mandarin Chinese via pinyin: Who is this for? What is the population of people uncomfortable reading in English, but comfortable reading […]]]></summary>
-        <author>
-            <name>Victor Mair</name>
         </author>
     </entry>
 </feed>
