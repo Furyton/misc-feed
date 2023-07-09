@@ -22,6 +22,75 @@
             data-action="toggle-accordions"
             title="Click to toggle the day, Ctrl + click to toggle all."
           >
+            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2023-07-09 datetime="2023-07-09T07:14:24.887Z">2023-07-09</time>
+            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2023-07-09 datetime="2023-07-09T07:14:24.887Z"></time>
+          </button>
+        </h2>
+        <ul class="sources card">
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >arxivist feed</button>
+                  <a class="source-heading__link" href="https://www.arxivist.com">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="http://arxiv.org/abs/2205.11026"
+                        open
+                      >
+                        <summary class="article-expander__title">Three principles for modernizing an undergraduate regression analysis
+  course</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="http://arxiv.org/abs/2205.11026">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>Maria Tackett</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;2
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="http://arxiv.org/abs/2201.05255"
+                        open
+                      >
+                        <summary class="article-expander__title">Unstable higher Toda brackets III</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="http://arxiv.org/abs/2201.05255">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>Hideaki Ooshima, Katsumi Oshima</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;2
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+        </ul>
+      </section>
+      <section class="daily-content js-toggle-accordions-scope">
+        <h2 class="daily-heading">
+          <button
+            class="daily-heading-toggle"
+            data-action="toggle-accordions"
+            title="Click to toggle the day, Ctrl + click to toggle all."
+          >
             <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2023-07-08 datetime="2023-07-08T04:50:13.000Z">2023-07-08</time>
             <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2023-07-08 datetime="2023-07-08T04:50:13.000Z"></time>
           </button>
@@ -6309,52 +6378,12 @@ People have the remarkable ability to take in a tremendous amount of information
                 </section>
               </section>
             </li>
-            <li class="card__section">
-              <section class="js-toggle-accordions-scope">
-                <h3 class="source-heading">
-                  <button
-                    class="source-heading__name"
-                    data-action="toggle-accordions"
-                    title="Click to toggle the source, Ctrl + click to toggle all."
-                  >Google AI Blog</button>
-                  <a class="source-heading__link" href="http://ai.googleblog.com/">Open</a>
-                </h3>
-                <section class="articles-per-source">
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="http://ai.googleblog.com/2023/06/imagen-editor-and-editbench-advancing.html"
-                        open
-                      >
-                        <summary class="article-expander__title">Imagen Editor and EditBench: Advancing and evaluating text-guided image inpainting</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="http://ai.googleblog.com/2023/06/imagen-editor-and-editbench-advancing.html">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjCOhgOtXQGmv1getpW3oHgD-4dCvqg9Q_Srs4qnD-FtydmHFb6XEesvUNGkf1eXRemuok7hb58ikl8tSw4xoNSwDd_YZkrdxVgj-6Fb5AeM6DkRB32URqFjpdzLYZaOtjjHcOqXzDmh7KdshdtaNtU1cVgv69UbvwW-v4-yu6h0-XDBe7vyo6PB23dyg/w1200-h630-p-k-no-nu/Imagen%20Editor%20&amp;%20EditBench%20hero.jpg" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>Posted by Su Wang and Ceslee Montgormery, Research Engineers, Google Research
-
-
-
-
-
-In the last few years, text-to-image generation research has seen an explosion of breakthroughs (notably, Imagen, Parti, DALL-E 2, etc.) that have naturally permeated into related topics. In particular, text-guided image editing (TGIE) is a practical task that involves editing generated and photographed visuals rather than completely redoing them. Quick, automated, and controllable editing is a convenient solution when recreating visuals would be time-consuming or infeasible (e.g., tweaking objects in vacation photos or perfecting fine-grained details on a cute pup generated from scratch). Further, TGIE represents a substantial opportunity to improve training of foundational models themselves. Multimodal mod…</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;93
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                </section>
-              </section>
-            </li>
         </ul>
       </section>
 
     <footer>
-      <a class="footer-link" href="https://github.com/Furyton/misc-feed/actions/runs/5498413126">
-        <time id="build-timestamp" datetime="2023-07-09T06:20:56.206Z">2023-07-09T06:20:56.206Z</time>
+      <a class="footer-link" href="https://github.com/Furyton/misc-feed/actions/runs/5498612996">
+        <time id="build-timestamp" datetime="2023-07-09T07:14:28.711Z">2023-07-09T07:14:28.711Z</time>
       </a>
       <a class="footer-link" href="https://github.com/osmoscraft/osmosfeed">osmosfeed 1.15.1</a>
     </footer>

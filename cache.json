@@ -6,6 +6,26 @@
       "siteUrl": "https://www.arxivist.com",
       "articles": [
         {
+          "id": "http://arxiv.org/abs/2205.11026",
+          "author": null,
+          "description": "Maria Tackett",
+          "link": "http://arxiv.org/abs/2205.11026",
+          "publishedOn": "2023-07-09T07:14:24.887Z",
+          "wordCount": 709,
+          "title": "Three principles for modernizing an undergraduate regression analysis\n  course",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2201.05255",
+          "author": null,
+          "description": "Hideaki Ooshima, Katsumi Oshima",
+          "link": "http://arxiv.org/abs/2201.05255",
+          "publishedOn": "2023-07-09T07:14:24.882Z",
+          "wordCount": 506,
+          "title": "Unstable higher Toda brackets III",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
           "id": "http://arxiv.org/abs/2306.04637",
           "author": null,
           "description": "Yu Bai, Fan Chen, Huan Wang, Caiming Xiong, Song Mei",
@@ -1783,16 +1803,6 @@
           "wordCount": 27890,
           "title": "Enabling delightful user experiences via predictive models of human attention",
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjerKPFbdl3UNBtSQUQXn94PZtgAw7zM4KC4KRdMJxwP_iQlOUkkg6FYURau3sBRJUkeNXMoiHKy-WRc_d0Ypx4Hh4x8KGUHPkeqCXM7BR7MoX6MVOWTHylNnAcQg4ogEMk7vZJDropM08gc9t1Y2HG-GwolJuWEdhFT19yaJV9gpqbr3_ZBl-geZCfcw/w1200-h630-p-k-no-nu/HumanAttention.png"
-        },
-        {
-          "id": "http://ai.googleblog.com/2023/06/imagen-editor-and-editbench-advancing.html",
-          "author": null,
-          "description": "Posted by Su Wang and Ceslee Montgormery, Research Engineers, Google Research\n\n\n\n\n\nIn the last few years, text-to-image generation research has seen an explosion of breakthroughs (notably, Imagen, Parti, DALL-E 2, etc.) that have naturally permeated into related topics. In particular, text-guided image editing (TGIE) is a practical task that involves editing generated and photographed visuals rather than completely redoing them. Quick, automated, and controllable editing is a convenient solution when recreating visuals would be time-consuming or infeasible (e.g., tweaking objects in vacation photos or perfecting fine-grained details on a cute pup generated from scratch). Further, TGIE represents a substantial opportunity to improve training of foundational models themselves. Multimodal mod…",
-          "link": "http://ai.googleblog.com/2023/06/imagen-editor-and-editbench-advancing.html",
-          "publishedOn": "2023-06-09T19:09:00.000Z",
-          "wordCount": 27984,
-          "title": "Imagen Editor and EditBench: Advancing and evaluating text-guided image inpainting",
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjCOhgOtXQGmv1getpW3oHgD-4dCvqg9Q_Srs4qnD-FtydmHFb6XEesvUNGkf1eXRemuok7hb58ikl8tSw4xoNSwDd_YZkrdxVgj-6Fb5AeM6DkRB32URqFjpdzLYZaOtjjHcOqXzDmh7KdshdtaNtU1cVgv69UbvwW-v4-yu6h0-XDBe7vyo6PB23dyg/w1200-h630-p-k-no-nu/Imagen%20Editor%20&%20EditBench%20hero.jpg"
         }
       ]
     },

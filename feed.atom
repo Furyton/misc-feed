@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-07-09T06:20:56.241Z</updated>
+    <updated>2023-07-09T07:14:28.739Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Three principles for modernizing an undergraduate regression analysis
+  course]]></title>
+        <id>http://arxiv.org/abs/2205.11026</id>
+        <link href="http://arxiv.org/abs/2205.11026"/>
+        <updated>2023-07-09T07:14:24.887Z</updated>
+        <summary type="html"><![CDATA[Maria Tackett]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Unstable higher Toda brackets III]]></title>
+        <id>http://arxiv.org/abs/2201.05255</id>
+        <link href="http://arxiv.org/abs/2201.05255"/>
+        <updated>2023-07-09T07:14:24.882Z</updated>
+        <summary type="html"><![CDATA[Hideaki Ooshima, Katsumi Oshima]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Somking]]></title>
         <id>https://languagelog.ldc.upenn.edu/nll/?p=59618</id>
@@ -2352,22 +2373,6 @@ People have the remarkable ability to take in a tremendous amount of information
         <summary type="html"><![CDATA[Statistical Modeling with R (A dual frequentist and Bayesian approach for life scientists) is a recent book written by Pablo Inchausti, from Uruguay. In a highly personal and congenial style (witness the preface), with references to (fiction) books that enticed me to buy them. The book was sent to me by the JASA book editor […]]]></summary>
         <author>
             <name>xi'an</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Imagen Editor and EditBench: Advancing and evaluating text-guided image inpainting]]></title>
-        <id>http://ai.googleblog.com/2023/06/imagen-editor-and-editbench-advancing.html</id>
-        <link href="http://ai.googleblog.com/2023/06/imagen-editor-and-editbench-advancing.html"/>
-        <updated>2023-06-09T19:09:00.000Z</updated>
-        <summary type="html"><![CDATA[Posted by Su Wang and Ceslee Montgormery, Research Engineers, Google Research
-
-
-
-
-
-In the last few years, text-to-image generation research has seen an explosion of breakthroughs (notably, Imagen, Parti, DALL-E 2, etc.) that have naturally permeated into related topics. In particular, text-guided image editing (TGIE) is a practical task that involves editing generated and photographed visuals rather than completely redoing them. Quick, automated, and controllable editing is a convenient solution when recreating visuals would be time-consuming or infeasible (e.g., tweaking objects in vacation photos or perfecting fine-grained details on a cute pup generated from scratch). Further, TGIE represents a substantial opportunity to improve training of foundational models themselves. Multimodal mod…]]></summary>
-        <author>
-            <name>Google AI Blog</name>
         </author>
     </entry>
 </feed>
