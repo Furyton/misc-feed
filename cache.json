@@ -1356,7 +1356,18 @@
       "title": "Math ∩ Programming",
       "feedUrl": "https://jeremykun.com/feed/",
       "siteUrl": "https://jeremykun.com",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://jeremykun.com/?p=119571",
+          "author": "Jeremy Kun",
+          "description": "Before I discovered math, I was a first year undergrad computer science student taking Electrical Engineering 101. The first topic I learned was what bits and boolean gates are, and the second was the two’s complement representation of a negative n-bit integer. At the time two’s complement seemed to me like a bizarre quirk of […]",
+          "link": "https://jeremykun.com/2023/07/10/twos-complement-and-group-theory/",
+          "publishedOn": "2023-07-10T14:00:00.000Z",
+          "wordCount": 3293,
+          "title": "Two’s Complement and Group Theory",
+          "imageUrl": "https://jeremykun.com/wp-content/uploads/2023/07/group_theory_twos_complement-1.png"
+        }
+      ]
     },
     {
       "title": "Jonty Sinai",
@@ -2495,16 +2506,6 @@
           "publishedOn": "2023-06-11T12:39:45.000Z",
           "wordCount": 2533,
           "title": "Apostrophes in Hanyu Pinyin",
-          "imageUrl": null
-        },
-        {
-          "id": "https://languagelog.ldc.upenn.edu/nll/?p=59096",
-          "author": "Victor Mair",
-          "description": "Benj Edwards has a mirthful article in Ars Technica (6/9/23) Researchers discover that ChatGPT prefers repeating 25 jokes over and over When tested, \"Over 90% of 1,008 generated jokes were the same 25 jokes.\" [includes an AI generated image of \"a laughing robot\"] On Wednesday, two German researchers, Sophie Jentzsch and Kristian Kersting, released a […]",
-          "link": "https://languagelog.ldc.upenn.edu/nll/?p=59096&utm_source=rss&utm_medium=rss&utm_campaign=chatgpt-has-a-sense-of-humor-sort-of",
-          "publishedOn": "2023-06-11T01:50:18.000Z",
-          "wordCount": 2618,
-          "title": "ChatGPT has a sense of humor (sort of)",
           "imageUrl": null
         }
       ]

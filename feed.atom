@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-07-10T13:26:11.402Z</updated>
+    <updated>2023-07-10T14:15:58.939Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Two’s Complement and Group Theory]]></title>
+        <id>https://jeremykun.com/?p=119571</id>
+        <link href="https://jeremykun.com/2023/07/10/twos-complement-and-group-theory/"/>
+        <updated>2023-07-10T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Before I discovered math, I was a first year undergrad computer science student taking Electrical Engineering 101. The first topic I learned was what bits and boolean gates are, and the second was the two’s complement representation of a negative n-bit integer. At the time two’s complement seemed to me like a bizarre quirk of […]]]></summary>
+        <author>
+            <name>Jeremy Kun</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[On the Stepwise Nature of <br> Self-Supervised Learning]]></title>
         <id>http://bair.berkeley.edu/blog/2023/07/10/stepwise-ssl/</id>
@@ -2414,16 +2424,6 @@ People have the remarkable ability to take in a tremendous amount of information
         <link href="https://languagelog.ldc.upenn.edu/nll/?p=59105&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=apostrophes-in-hanyu-pinyin"/>
         <updated>2023-06-11T12:39:45.000Z</updated>
         <summary type="html"><![CDATA[The most famous instance of the use of an apostrophe in Hanyu Pinyin romanization is in the place name "Xi'an", the capital of Shaanxi (the doubled "a" is another story) Province. Xī'ān 西安 — two characters signifying "Western Peace" If you don't use an apostrophe to separate the syllables, you end up with the monosyllable […]]]></summary>
-        <author>
-            <name>Victor Mair</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ChatGPT has a sense of humor (sort of)]]></title>
-        <id>https://languagelog.ldc.upenn.edu/nll/?p=59096</id>
-        <link href="https://languagelog.ldc.upenn.edu/nll/?p=59096&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=chatgpt-has-a-sense-of-humor-sort-of"/>
-        <updated>2023-06-11T01:50:18.000Z</updated>
-        <summary type="html"><![CDATA[Benj Edwards has a mirthful article in Ars Technica (6/9/23) Researchers discover that ChatGPT prefers repeating 25 jokes over and over When tested, "Over 90% of 1,008 generated jokes were the same 25 jokes." [includes an AI generated image of "a laughing robot"] On Wednesday, two German researchers, Sophie Jentzsch and Kristian Kersting, released a […]]]></summary>
         <author>
             <name>Victor Mair</name>
         </author>
