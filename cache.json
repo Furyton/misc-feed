@@ -1766,6 +1766,16 @@
       "siteUrl": "http://ai.googleblog.com/",
       "articles": [
         {
+          "id": "http://ai.googleblog.com/2023/07/google-at-acl-2023.html",
+          "author": null,
+          "description": "Posted by Malaya Jules, Program Manager, Google\n\n\n\n\n  This week, the 61st annual meeting of the Association for Computational Linguistics (ACL), a premier conference covering a broad spectrum of research areas that are concerned with computational approaches to natural language, is taking place online.\n\n\n  As a leader in natural language processing and understanding, and a Diamond Level sponsor of ACL 2023, Google will showcase the latest research in the field with over 50 publications, and active involvement in a variety of workshops and tutorials.\nbold).\n \n\nBoard and Organizing Committee\nDan Garrette\n\nWorkshop chairs include: Annie Louis\n\nPublication chairs include: Lei Shu\n\nProgram Committee includes: Vinodkumar Prabhakaran, Najoung Kim, Markus Freitag\n\n\n \n\nSpotlight papers\nNusaCrowd: O…",
+          "link": "http://ai.googleblog.com/2023/07/google-at-acl-2023.html",
+          "publishedOn": "2023-07-10T13:02:00.002Z",
+          "wordCount": 27867,
+          "title": "Google at ACL 2023",
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhBdDtnqi_LowdC1jsFHjA9Lymk8MJ26d0BWJSPNdTert_9_2DdTsO6qPDFOEzIr3dSpPnFZBh0oUvcFmGYB6yDHW-2V00nQPMDplZCVxtiifG70N3_mTG2Xf6a5fRJtHir0O4GBel3wfun3eAk60vY9Pu8Lru6w6qzA5VFd0zKgCsloz9sdSWDH81WIRL6/w1200-h630-p-k-no-nu/Google%20ACL%202023%20Toronto%20Sticker%20Art%20Vector%20PO%2013695%20(1).jpg"
+        },
+        {
           "id": "http://ai.googleblog.com/2023/07/modular-visual-question-answering-via.html",
           "author": null,
           "description": "Posted by Sanjay Subramanian, PhD student, UC Berkeley, and Arsha Nagrani, Research Scientist, Google Research, Perception Team\n\n\n\n\nVisual question answering (VQA) is a machine learning task that requires a model to answer a question about an image or a set of images. Conventional VQA approaches need a large amount of labeled training data consisting of thousands of human-annotated question-answer pairs associated with images. In recent years, advances in large-scale pre-training have led to the development of VQA methods that perform well with fewer than fifty training examples (few-shot) and without any human-annotated VQA training data (zero-shot). However, there is still a significant performance gap between these methods and state-of-the-art fully supervised VQA methods, such as MaMMU…",

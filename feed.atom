@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-07-10T17:15:16.565Z</updated>
+    <updated>2023-07-10T18:21:07.540Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -14,6 +14,41 @@
         <summary type="html"><![CDATA[Before I discovered math, I was a first year undergrad computer science student taking Electrical Engineering 101. The first topic I learned was what bits and boolean gates are, and the second was the two’s complement representation of a negative n-bit integer. At the time two’s complement seemed to me like a bizarre quirk of […]]]></summary>
         <author>
             <name>Jeremy Kun</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google at ACL 2023]]></title>
+        <id>http://ai.googleblog.com/2023/07/google-at-acl-2023.html</id>
+        <link href="http://ai.googleblog.com/2023/07/google-at-acl-2023.html"/>
+        <updated>2023-07-10T13:02:00.002Z</updated>
+        <summary type="html"><![CDATA[Posted by Malaya Jules, Program Manager, Google
+
+
+
+
+  This week, the 61st annual meeting of the Association for Computational Linguistics (ACL), a premier conference covering a broad spectrum of research areas that are concerned with computational approaches to natural language, is taking place online.
+
+
+  As a leader in natural language processing and understanding, and a Diamond Level sponsor of ACL 2023, Google will showcase the latest research in the field with over 50 publications, and active involvement in a variety of workshops and tutorials.
+bold).
+ 
+
+Board and Organizing Committee
+Dan Garrette
+
+Workshop chairs include: Annie Louis
+
+Publication chairs include: Lei Shu
+
+Program Committee includes: Vinodkumar Prabhakaran, Najoung Kim, Markus Freitag
+
+
+ 
+
+Spotlight papers
+NusaCrowd: O…]]></summary>
+        <author>
+            <name>Google AI Blog</name>
         </author>
     </entry>
     <entry>
