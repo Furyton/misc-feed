@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-07-10T06:22:59.575Z</updated>
+    <updated>2023-07-10T07:16:31.956Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -16,6 +16,57 @@
 It is widely believed that deep learning’s stunning success is due in part to its ability to discover and extract useful representations of complex data. Self-supervised learning (SSL) has emerged as a leading framework for learning these representations for images directly from unlabeled data, similar to how LLMs learn re…]]></summary>
         <author>
             <name>The Berkeley Artificial Intelligence Research Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Black-Box Batch Active Learning for Regression]]></title>
+        <id>http://arxiv.org/abs/2302.08981</id>
+        <link href="http://arxiv.org/abs/2302.08981"/>
+        <updated>2023-07-10T07:16:12.822Z</updated>
+        <summary type="html"><![CDATA[Andreas Kirsch]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MALIBO: Meta-learning for Likelihood-free Bayesian Optimization]]></title>
+        <id>http://arxiv.org/abs/2307.03565</id>
+        <link href="http://arxiv.org/abs/2307.03565"/>
+        <updated>2023-07-10T07:16:12.528Z</updated>
+        <summary type="html"><![CDATA[Jiarong Pan, Stefan Falkner, Felix Berkenkamp, Joaquin Vanschoren]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Backward Feature Correction: How Deep Learning Performs Deep
+  (Hierarchical) Learning]]></title>
+        <id>http://arxiv.org/abs/2001.04413</id>
+        <link href="http://arxiv.org/abs/2001.04413"/>
+        <updated>2023-07-10T07:16:12.521Z</updated>
+        <summary type="html"><![CDATA[Zeyuan Allen-Zhu, Yuanzhi Li]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Multiclass Online Learning and Uniform Convergence]]></title>
+        <id>http://arxiv.org/abs/2303.17716</id>
+        <link href="http://arxiv.org/abs/2303.17716"/>
+        <updated>2023-07-10T07:16:12.506Z</updated>
+        <summary type="html"><![CDATA[Steve Hanneke, Shay Moran, Vinod Raman, Unique Subedi, Ambuj Tewari]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learning Theory of Distribution Regression with Neural Networks]]></title>
+        <id>http://arxiv.org/abs/2307.03487</id>
+        <link href="http://arxiv.org/abs/2307.03487"/>
+        <updated>2023-07-10T07:16:12.490Z</updated>
+        <summary type="html"><![CDATA[Zhongjie Shi, Zhan Yu, Ding-Xuan Zhou]]></summary>
+        <author>
+            <name>arxivist feed</name>
         </author>
     </entry>
     <entry>
