@@ -1157,6 +1157,16 @@
       "siteUrl": "http://bair.berkeley.edu/blog/",
       "articles": [
         {
+          "id": "http://bair.berkeley.edu/blog/2023/07/10/stepwise-ssl/",
+          "author": null,
+          "description": "Figure 1: stepwise behavior in self-supervised learning. When training common SSL algorithms, we find that the loss descends in a stepwise fashion (top left) and the learned embeddings iteratively increase in dimensionality (bottom left). Direct visualization of embeddings (right; top three PCA directions shown) confirms that embeddings are initially collapsed to a point, which then expands to a 1D manifold, a 2D manifold, and beyond concurrently with steps in the loss.\n\nIt is widely believed that deep learning’s stunning success is due in part to its ability to discover and extract useful representations of complex data. Self-supervised learning (SSL) has emerged as a leading framework for learning these representations for images directly from unlabeled data, similar to how LLMs learn re…",
+          "link": "http://bair.berkeley.edu/blog/2023/07/10/stepwise-ssl/",
+          "publishedOn": "2023-07-10T09:00:00.000Z",
+          "wordCount": 1640,
+          "title": "On the Stepwise Nature of <br> Self-Supervised Learning",
+          "imageUrl": "http://bair.berkeley.edu/blog/assets/eigenlearning/eigenlearning_blog_post_fig1.mp4"
+        },
+        {
           "id": "http://bair.berkeley.edu/blog/2023/06/29/coarsenconf/",
           "author": null,
           "description": "-->\n\nFigure 1: CoarsenConf architecture.\n\n(I) The encoder $q_\\phi(z| X, \\mathcal{R})$ takes the fine-grained (FG) ground truth conformer $X$, RDKit approximate conformer $\\mathcal{R}$ , and coarse-grained (CG) conformer $\\mathcal{C}$ as inputs (derived from $X$ and a predefined CG strategy), and outputs a variable-length equivariant CG representation via equivariant message passing and point convolutions.\n(II) Equivariant MLPs are applied to learn the mean and log variance of both the posterior and prior distributions.\n(III) The posterior (training) or prior (inference) is sampled and fed into the Channel Selection module, where an attention layer is used to learn the optimal pathway from CG to FG structure.\n(IV) Given the FG latent vector and the RDKit approximation, the decoder $p_\\theta…",
@@ -1827,6 +1837,26 @@
       "feedUrl": "https://languagelog.ldc.upenn.edu/nll/?feed=rss2",
       "siteUrl": "https://languagelog.ldc.upenn.edu/nll",
       "articles": [
+        {
+          "id": "https://languagelog.ldc.upenn.edu/nll/?p=59632",
+          "author": "Victor Mair",
+          "description": "Headline from NL Times (9 July 2023): \"Sheep farmer injured after wolf attack in Wapse, ordered to be shot.\" Poor sheep farmer; our condolences to his family. Selected readings \"Vocalizations of wolves and justices\" (2/17/23) \"Year of the ovicaprid\" (2/15/15) [Thanks to Jonathan Silk]",
+          "link": "https://languagelog.ldc.upenn.edu/nll/?p=59632&utm_source=rss&utm_medium=rss&utm_campaign=a-lupine-crash-blossom-from-the-netherlands",
+          "publishedOn": "2023-07-10T03:00:20.000Z",
+          "wordCount": 1926,
+          "title": "A lupine crash blossom from the Netherlands",
+          "imageUrl": null
+        },
+        {
+          "id": "https://languagelog.ldc.upenn.edu/nll/?p=59622",
+          "author": "Victor Mair",
+          "description": "More savory Chinglish from Dunhuang: lāo zhī qiāncéng dù 捞汁千层肚 \"thousand-layered tripe scooped from broth\" gàn bàn shùnfēng ěr 干拌顺风耳 \"dry mixed clairaudient (pig) ears\" N.B.:  When Chinese eat the ears of an animal, it's usually those of pigs.  To prettify the pigs' ears, they style them \"clairaudient\".  No mention of chili sauce in the Chinese. […]",
+          "link": "https://languagelog.ldc.upenn.edu/nll/?p=59622&utm_source=rss&utm_medium=rss&utm_campaign=more-savory-chinglish-from-dunhuang",
+          "publishedOn": "2023-07-10T02:26:05.000Z",
+          "wordCount": 1981,
+          "title": "More savory Chinglish from Dunhuang:",
+          "imageUrl": null
+        },
         {
           "id": "https://languagelog.ldc.upenn.edu/nll/?p=59629",
           "author": "Victor Mair",

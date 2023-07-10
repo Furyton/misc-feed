@@ -2,10 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-07-10T01:42:43.030Z</updated>
+    <updated>2023-07-10T03:01:23.186Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[On the Stepwise Nature of <br> Self-Supervised Learning]]></title>
+        <id>http://bair.berkeley.edu/blog/2023/07/10/stepwise-ssl/</id>
+        <link href="http://bair.berkeley.edu/blog/2023/07/10/stepwise-ssl/"/>
+        <updated>2023-07-10T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Figure 1: stepwise behavior in self-supervised learning. When training common SSL algorithms, we find that the loss descends in a stepwise fashion (top left) and the learned embeddings iteratively increase in dimensionality (bottom left). Direct visualization of embeddings (right; top three PCA directions shown) confirms that embeddings are initially collapsed to a point, which then expands to a 1D manifold, a 2D manifold, and beyond concurrently with steps in the loss.
+
+It is widely believed that deep learning’s stunning success is due in part to its ability to discover and extract useful representations of complex data. Self-supervised learning (SSL) has emerged as a leading framework for learning these representations for images directly from unlabeled data, similar to how LLMs learn re…]]></summary>
+        <author>
+            <name>The Berkeley Artificial Intelligence Research Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A lupine crash blossom from the Netherlands]]></title>
+        <id>https://languagelog.ldc.upenn.edu/nll/?p=59632</id>
+        <link href="https://languagelog.ldc.upenn.edu/nll/?p=59632&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=a-lupine-crash-blossom-from-the-netherlands"/>
+        <updated>2023-07-10T03:00:20.000Z</updated>
+        <summary type="html"><![CDATA[Headline from NL Times (9 July 2023): "Sheep farmer injured after wolf attack in Wapse, ordered to be shot." Poor sheep farmer; our condolences to his family. Selected readings "Vocalizations of wolves and justices" (2/17/23) "Year of the ovicaprid" (2/15/15) [Thanks to Jonathan Silk]]]></summary>
+        <author>
+            <name>Victor Mair</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[More savory Chinglish from Dunhuang:]]></title>
+        <id>https://languagelog.ldc.upenn.edu/nll/?p=59622</id>
+        <link href="https://languagelog.ldc.upenn.edu/nll/?p=59622&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=more-savory-chinglish-from-dunhuang"/>
+        <updated>2023-07-10T02:26:05.000Z</updated>
+        <summary type="html"><![CDATA[More savory Chinglish from Dunhuang: lāo zhī qiāncéng dù 捞汁千层肚 "thousand-layered tripe scooped from broth" gàn bàn shùnfēng ěr 干拌顺风耳 "dry mixed clairaudient (pig) ears" N.B.:  When Chinese eat the ears of an animal, it's usually those of pigs.  To prettify the pigs' ears, they style them "clairaudient".  No mention of chili sauce in the Chinese. […]]]></summary>
+        <author>
+            <name>Victor Mair</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ban on cluster bombs]]></title>
         <id>http://xianblog.wordpress.com/?p=53481</id>
