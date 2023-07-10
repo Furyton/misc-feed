@@ -1132,6 +1132,16 @@
       "siteUrl": "https://pythonspeed.com/atom.xml",
       "articles": [
         {
+          "id": "https://pythonspeed.com/articles/easiest-rust-python/",
+          "author": null,
+          "description": "If you want to speed up some existing Python code, writing a compiled extension in Rust can be an excellent choice:\nIn many situations, Rust code can run much faster than Python.\nRust prevents most of the memory-management bugs that often occur in C, C++, and Cython code.\nThere is a growing ecosystem of third-party Rust packages available, and unlike C and C++ it also has a built-in package manager and build system.\nHowever, if you just want to prototype a Rust extension, packaging and integration boilerplate can get in the way: every extra bit of friction prevents you from just doing the experiment of whether or not Rust will help.\nThis is where rustimport comes in, a library that makes standalone Rust files easily importable in Python (currently only on Linux and macOS).\nIn this article we’ll cover:\nHow to use rustimport to quickly try out your Rust code.\nThe most common performance mistake Rust beginners make, and how to avoid it.\nSome gotchas when using rustimport.\nRead more...",
+          "link": "https://pythonspeed.com/articles/easiest-rust-python/",
+          "publishedOn": "2023-07-10T00:00:00.000Z",
+          "wordCount": 2009,
+          "title": "The easiest way to speed up Python with Rust",
+          "imageUrl": "https://pythonspeed.com/assets/titles/easiest-rust-python.png"
+        },
+        {
           "id": "https://pythonspeed.com/articles/numpy-is-slow/",
           "author": null,
           "description": "If you’re doing numeric calculations, NumPy is a lot faster than than plain Python—but sometimes that’s not enough.\nWhat should you do when your NumPy-based code is too slow?\nYour first thought might be parallelism, but that should probably be the last thing you consider.\nThere are many speedups you can do before parallelism becomes helpful, from algorithmic improvements to working around NumPy’s architectural limitations.\nLet’s see why NumPy can be slow, and then some solutions to help speed up your code even more.\nRead more...",
@@ -1304,6 +1314,16 @@
       "feedUrl": "https://pytorch.org/feed",
       "siteUrl": "https://pytorch.org/",
       "articles": [
+        {
+          "id": "https://pytorch.org/blog/how-to-accelerate/",
+          "author": null,
+          "description": "Overview",
+          "link": "https://pytorch.org/blog/how-to-accelerate/",
+          "publishedOn": "2023-07-10T07:00:00.000Z",
+          "wordCount": 1615,
+          "title": "How to Accelerate PyTorch Geometric on Intel® CPUs",
+          "imageUrl": "https://pytorch.org/assets/images/pytorch-logo.png"
+        },
         {
           "id": "https://pytorch.org/blog/optimizing-libtorch/",
           "author": null,
