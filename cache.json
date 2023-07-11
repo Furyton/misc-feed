@@ -6,6 +6,56 @@
       "siteUrl": "https://www.arxivist.com",
       "articles": [
         {
+          "id": "http://arxiv.org/abs/2305.18404",
+          "author": null,
+          "description": "Bhawesh Kumar, Charlie Lu, Gauri Gupta, Anil Palepu, David Bellamy,\n  Ramesh Raskar, Andrew Beam",
+          "link": "http://arxiv.org/abs/2305.18404",
+          "publishedOn": "2023-07-11T07:15:38.013Z",
+          "wordCount": 704,
+          "title": "Conformal Prediction with Large Language Models for Multi-Choice\n  Question Answering",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2301.07733",
+          "author": null,
+          "description": "Aaron Defazio, Konstantin Mishchenko",
+          "link": "http://arxiv.org/abs/2301.07733",
+          "publishedOn": "2023-07-11T07:15:38.007Z",
+          "wordCount": 641,
+          "title": "Learning-Rate-Free Learning by D-Adaptation",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2206.04530",
+          "author": null,
+          "description": "Kirill Bykov, Mayukh Deb, Dennis Grinwald, Klaus-Robert M\\\"uller,\n  Marina M.-C. H\\\"ohne",
+          "link": "http://arxiv.org/abs/2206.04530",
+          "publishedOn": "2023-07-11T07:15:38.000Z",
+          "wordCount": 742,
+          "title": "DORA: Exploring Outlier Representations in Deep Neural Networks",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2307.03848",
+          "author": null,
+          "description": "Idan Attias, Steve Hanneke, Alkis Kalavasis, Amin Karbasi, Grigoris\n  Velegkas",
+          "link": "http://arxiv.org/abs/2307.03848",
+          "publishedOn": "2023-07-11T07:15:37.994Z",
+          "wordCount": 719,
+          "title": "Optimal Learners for Realizable Regression: PAC Learning and Online\n  Learning",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2307.03810",
+          "author": null,
+          "description": "Michael Kirchhof, B\\'alint Mucs\\'anyi, Seong Joon Oh and\n  Enkelejda Kasneci",
+          "link": "http://arxiv.org/abs/2307.03810",
+          "publishedOn": "2023-07-11T07:15:37.984Z",
+          "wordCount": 698,
+          "title": "URL: A Representation Learning Benchmark for Transferable Uncertainty\n  Estimates",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
           "id": "http://arxiv.org/abs/2302.08981",
           "author": null,
           "description": "Andreas Kirsch",
