@@ -2,10 +2,39 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-07-11T17:14:37.749Z</updated>
+    <updated>2023-07-11T18:20:49.173Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The etiology of a self-inflicted earworm]]></title>
+        <id>https://languagelog.ldc.upenn.edu/nll/?p=59651</id>
+        <link href="https://languagelog.ldc.upenn.edu/nll/?p=59651&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=the-etiology-of-a-self-inflicted-earworm"/>
+        <updated>2023-07-11T18:01:40.000Z</updated>
+        <summary type="html"><![CDATA[I am prone / prey to earworms.  Sometimes when I'm seriously affected / infected by one, it takes me weeks to get rid of the scourge, and I have to resort to all sorts of devices and deceptions to disinfect them from the space between my ears and the auditory cortex inside the lateral sulcus […]]]></summary>
+        <author>
+            <name>Victor Mair</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[An open-source gymnasium for machine learning assisted computer architecture design]]></title>
+        <id>http://ai.googleblog.com/2023/07/an-open-source-gymnasium-for-computer.html</id>
+        <link href="http://ai.googleblog.com/2023/07/an-open-source-gymnasium-for-computer.html"/>
+        <updated>2023-07-11T17:00:00.005Z</updated>
+        <summary type="html"><![CDATA[Posted by Amir Yazdanbakhsh, Research Scientist, and Vijay Janapa Reddi, Visiting Researcher, Google Research
+
+
+
+
+Computer Architecture research has a long history of developing simulators and tools to evaluate and shape the design of computer systems. For example, the SimpleScalar simulator was introduced in the late 1990s and allowed researchers to explore various microarchitectural ideas. Computer architecture simulators and tools, such as gem5, DRAMSys, and many more have played a significant role in advancing computer architecture research. Since then, these shared resources and infrastructure have benefited industry and academia and have enabled researchers to systematically build on each other's work, leading to significant advances in the field. 
+
+
+
+Nonetheless, computer architectu…]]></summary>
+        <author>
+            <name>Google AI Blog</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The growing supinity of Chinese youth]]></title>
         <id>https://languagelog.ldc.upenn.edu/nll/?p=59648</id>

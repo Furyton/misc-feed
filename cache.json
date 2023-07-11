@@ -1846,6 +1846,16 @@
       "siteUrl": "http://ai.googleblog.com/",
       "articles": [
         {
+          "id": "http://ai.googleblog.com/2023/07/an-open-source-gymnasium-for-computer.html",
+          "author": null,
+          "description": "Posted by Amir Yazdanbakhsh, Research Scientist, and Vijay Janapa Reddi, Visiting Researcher, Google Research\n\n\n\n\nComputer Architecture research has a long history of developing simulators and tools to evaluate and shape the design of computer systems. For example, the SimpleScalar simulator was introduced in the late 1990s and allowed researchers to explore various microarchitectural ideas. Computer architecture simulators and tools, such as gem5, DRAMSys, and many more have played a significant role in advancing computer architecture research. Since then, these shared resources and infrastructure have benefited industry and academia and have enabled researchers to systematically build on each other's work, leading to significant advances in the field. \n\n\n\nNonetheless, computer architectu…",
+          "link": "http://ai.googleblog.com/2023/07/an-open-source-gymnasium-for-computer.html",
+          "publishedOn": "2023-07-11T17:00:00.005Z",
+          "wordCount": 28016,
+          "title": "An open-source gymnasium for machine learning assisted computer architecture design",
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgMJx6osjDEhIpBGYohScAOpBU1CJmTsafUF9GgeM6BhBQ0KBjhSGirW0WY_8hu1boJvi-oqfbDlcHMO7RsrVOs1voUVsyE0f4uVSsBM2LgrSjGbFtuyWVXRbX7StUb4xbNgX7ZIfFDtfmjtJcEPvz6VGD_zGo1aEcQvbewZwSSwvMoHZP7ZW1Fob8tb86h/w1200-h630-p-k-no-nu/ArchGym-animation2.gif"
+        },
+        {
           "id": "http://ai.googleblog.com/2023/07/google-at-acl-2023.html",
           "author": null,
           "description": "Posted by Malaya Jules, Program Manager, Google\n\n\n\n\n  This week, the 61st annual meeting of the Association for Computational Linguistics (ACL), a premier conference covering a broad spectrum of research areas that are concerned with computational approaches to natural language, is taking place online.\n\n\n  As a leader in natural language processing and understanding, and a Diamond Level sponsor of ACL 2023, Google will showcase the latest research in the field with over 50 publications, and active involvement in a variety of workshops and tutorials.\nbold).\n \n\nBoard and Organizing Committee\nDan Garrette\n\nWorkshop chairs include: Annie Louis\n\nPublication chairs include: Lei Shu\n\nProgram Committee includes: Vinodkumar Prabhakaran, Najoung Kim, Markus Freitag\n\n\n \n\nSpotlight papers\nNusaCrowd: O…",
@@ -1998,6 +2008,16 @@
       "feedUrl": "https://languagelog.ldc.upenn.edu/nll/?feed=rss2",
       "siteUrl": "https://languagelog.ldc.upenn.edu/nll",
       "articles": [
+        {
+          "id": "https://languagelog.ldc.upenn.edu/nll/?p=59651",
+          "author": "Victor Mair",
+          "description": "I am prone / prey to earworms.  Sometimes when I'm seriously affected / infected by one, it takes me weeks to get rid of the scourge, and I have to resort to all sorts of devices and deceptions to disinfect them from the space between my ears and the auditory cortex inside the lateral sulcus […]",
+          "link": "https://languagelog.ldc.upenn.edu/nll/?p=59651&utm_source=rss&utm_medium=rss&utm_campaign=the-etiology-of-a-self-inflicted-earworm",
+          "publishedOn": "2023-07-11T18:01:40.000Z",
+          "wordCount": 3098,
+          "title": "The etiology of a self-inflicted earworm",
+          "imageUrl": null
+        },
         {
           "id": "https://languagelog.ldc.upenn.edu/nll/?p=59648",
           "author": "Victor Mair",
