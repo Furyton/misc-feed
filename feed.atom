@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-07-12T20:17:42.555Z</updated>
+    <updated>2023-07-12T21:14:26.810Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -2428,85 +2428,6 @@ People have the remarkable ability to take in a tremendous amount of information
         <summary type="html"><![CDATA[The next event in the Salon Sanctuary concert series is "Victorious Secret: Love Gamed and Gender Untamed in the Sparkling Courts of the Baroque": Before the bars of gender binaries caged the mainstream operatic imagination, a golden age of fluidity guided the vocal soundscape. Virility declared itself with the castrato’s clarion high notes, while femininity […]]]></summary>
         <author>
             <name>Mark Liberman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Beyond the Imitation Game: Quantifying and extrapolating the
-  capabilities of language models]]></title>
-        <id>http://arxiv.org/abs/2206.04615</id>
-        <link href="http://arxiv.org/abs/2206.04615"/>
-        <updated>2023-06-13T08:19:00.775Z</updated>
-        <summary type="html"><![CDATA[Aarohi Srivastava, Abhinav Rastogi, Abhishek Rao, Abu Awal Md Shoeb,
-  Abubakar Abid, Adam Fisch, Adam R. Brown, Adam Santoro, Aditya Gupta, Adri\`a
-  Garriga-Alonso, Agnieszka Kluska, Aitor Lewkowycz, Akshat Agarwal, Alethea
-  Power, Alex Ray, Alex Warstadt, Alexander W. Kocurek, Ali Safaya, Ali Tazarv,
-  Alice Xiang, Alicia Parrish, Allen Nie, Aman Hussain, Amanda Askell, Amanda
-  Dsouza, Ambrose Slone, Ameet Rahane, Anantharaman S. Iyer, Anders Andreassen,
-  Andrea Madotto, Andrea Santilli, Andreas Stuhlm\"uller, Andrew Dai, Andrew
-  La, Andrew Lampinen, Andy Zou, Angela Jiang, Angelica Chen, Anh Vuong,
-  Animesh Gupta, Anna Gottardi, Antonio Norelli, Anu Venkatesh, Arash
-  Gholamidavoodi, Arfa Tabassum, Arul Menezes, Arun Kirubarajan, Asher
-  Mullokandov, Ashish Sabharwal, Austin Herrick, Avia Efrat, Aykut Erdem, Ayla
-  Karaka\c{s}, B. Ryan Roberts, Bao Sheng Loe, Barret Zoph, Bart{\l}omiej
-  Bojanowski, Batuhan \"Ozyurt, Behnam Hedayatnia, Behnam Neyshabur, Benjamin
-  Inden, Benno Stein, Berk Ekmekci, Bill Yuchen Lin, Blake Howald, Bryan
-  Orinion, Cameron Diao, Cameron Dour, Catherine Stinson, Cedrick Argueta,
-  C\'esar Ferri Ram\'irez, Chandan Singh, Charles Rathkopf, Chenlin Meng,
-  Chitta Baral, Chiyu Wu, Chris Callison-Burch, Chris Waites, Christian Voigt,
-  Christopher D. Manning, Christopher Potts, Cindy Ramirez, Clara E. Rivera,
-  Clemencia Siro, Colin Raffel, Courtney Ashcraft, Cristina Garbacea, Damien
-  Sileo, Dan Garrette, Dan Hendrycks, Dan Kilman, Dan Roth, Daniel Freeman,
-  Daniel Khashabi, Daniel Levy, Daniel Mosegu\'i Gonz\'alez, Danielle Perszyk,
-  Danny Hernandez, Danqi Chen, Daphne Ippolito, Dar Gilboa, David Dohan, David
-  Drakard, David Jurgens, Debajyoti Datta, Deep Ganguli, Denis Emelin, Denis
-  Kleyko, Deniz Yuret, Derek Chen, Derek Tam, Dieuwke Hupkes, Diganta Misra,
-  Dilyar Buzan, Dimitri Coelho Mollo, Diyi Yang, Dong-Ho Lee, Dylan Schrader,
-  Ekaterina Shutova, Ekin Dogus Cubuk, Elad Segal, Eleanor Hagerman, Elizabeth
-  Barnes, Elizabeth Donoway, Ellie Pavlick, Emanuele Rodola,]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Energy-Dissipative Evolutionary Deep Operator Neural Networks]]></title>
-        <id>http://arxiv.org/abs/2306.06281</id>
-        <link href="http://arxiv.org/abs/2306.06281"/>
-        <updated>2023-06-13T08:19:00.296Z</updated>
-        <summary type="html"><![CDATA[Jiahao Zhang, Shiheng Zhang, Jie Shen, Guang Lin]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meta-Learning Priors for Safe Bayesian Optimization]]></title>
-        <id>http://arxiv.org/abs/2210.00762</id>
-        <link href="http://arxiv.org/abs/2210.00762"/>
-        <updated>2023-06-13T08:19:00.280Z</updated>
-        <summary type="html"><![CDATA[Jonas Rothfuss, Christopher Koenig, Alisa Rupenyan, Andreas Krause]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Intensity Profile Projection: A Framework for Continuous-Time
-  Representation Learning for Dynamic Networks]]></title>
-        <id>http://arxiv.org/abs/2306.06155</id>
-        <link href="http://arxiv.org/abs/2306.06155"/>
-        <updated>2023-06-13T08:19:00.275Z</updated>
-        <summary type="html"><![CDATA[Alexander Modell, Ian Gallagher, Emma Ceccherini, Nick Whiteley and
-  Patrick Rubin-Delanchy]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learning Variational Models with Unrolling and Bilevel Optimization]]></title>
-        <id>http://arxiv.org/abs/2209.12651</id>
-        <link href="http://arxiv.org/abs/2209.12651"/>
-        <updated>2023-06-13T08:19:00.264Z</updated>
-        <summary type="html"><![CDATA[Christoph Brauer, Niklas Breustedt, Timo de Wolff, Dirk A. Lorenz]]></summary>
-        <author>
-            <name>arxivist feed</name>
         </author>
     </entry>
 </feed>
