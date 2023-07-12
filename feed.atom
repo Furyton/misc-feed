@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-07-12T22:15:31.847Z</updated>
+    <updated>2023-07-12T23:16:28.419Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Nesnesitelná lehkost bytí]]></title>
+        <id>http://xianblog.wordpress.com/?p=53499</id>
+        <link href="https://xianblog.wordpress.com/2023/07/13/nesnesitelna-lehkost-byti/"/>
+        <updated>2023-07-12T22:23:43.000Z</updated>
+        <summary type="html"><![CDATA[Just heard that Milan Kundera, Czech-French author of The Unbearable Lightness of Being and other fantastic books had passed away on Tuesday in Paris. I still remember from the mid 1980’s the deep impression this book left on me, both as a bitter-sweet love story with the Prague Spring and its aftermath as its background, […]]]></summary>
+        <author>
+            <name>xi'an</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[A High-Dimensional Diameter Problem for Polytopes]]></title>
         <id>http://gilkalai.wordpress.com/?p=24636</id>
@@ -2418,16 +2428,6 @@ Immersive experiences that are interactive, photorealistic, and multi-dimensiona
 People have the remarkable ability to take in a tremendous amount of information (estimated to be ~1010 bits/s entering the retina) and selectively attend to a few task-relevant and interesting regions for further processing (e.g., memory, comprehension, action). Modeling human attention (the result of which is often called a saliency model) has therefore been of interest across the fields of neuroscience, psychology, human-computer interaction (HCI) and computer vision. The ability to predict which regions are likely to attract attention has numerous important applications in areas like graphics, photography, image compression and processing, and the measurement of visual quali…]]></summary>
         <author>
             <name>Google AI Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Victorious Secret]]></title>
-        <id>https://languagelog.ldc.upenn.edu/nll/?p=59183</id>
-        <link href="https://languagelog.ldc.upenn.edu/nll/?p=59183&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=victorious-secret"/>
-        <updated>2023-06-13T10:25:10.000Z</updated>
-        <summary type="html"><![CDATA[The next event in the Salon Sanctuary concert series is "Victorious Secret: Love Gamed and Gender Untamed in the Sparkling Courts of the Baroque": Before the bars of gender binaries caged the mainstream operatic imagination, a golden age of fluidity guided the vocal soundscape. Virility declared itself with the castrato’s clarion high notes, while femininity […]]]></summary>
-        <author>
-            <name>Mark Liberman</name>
         </author>
     </entry>
 </feed>
