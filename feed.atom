@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-07-12T19:13:11.580Z</updated>
+    <updated>2023-07-12T20:17:42.555Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[A High-Dimensional Diameter Problem for Polytopes]]></title>
+        <id>http://gilkalai.wordpress.com/?p=24636</id>
+        <link href="https://gilkalai.wordpress.com/2023/07/12/a-high-dimensional-diameter-problems-for-polytopes/"/>
+        <updated>2023-07-12T20:06:46.000Z</updated>
+        <summary type="html"><![CDATA[Avi Wigderson is here for a year and it was a good opportunity to go back together to the question of diameter of polytopes. The diameter problem for polytopes is to determine the behavior of the maximum diameter of the … Continue reading →]]></summary>
+        <author>
+            <name>Gil Kalai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A High-Dimensional Diameter Problem for Polytopes]]></title>
+        <id>http://gilkalai.wordpress.com/?p=24636</id>
+        <link href="https://gilkalai.wordpress.com/2023/07/12/a-high-dimensional-diameter-problems-for-polytopes/"/>
+        <updated>2023-07-12T20:06:46.000Z</updated>
+        <summary type="html"><![CDATA[Avi Wigderson is here for a year and it was a good opportunity to go back together to the question of diameter of polytopes. The diameter problem for polytopes is to determine the behavior of the maximum diameter of the … Continue reading →]]></summary>
+        <author>
+            <name>Gil Kalai</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Selective Sampling and Imitation Learning via Online Regression]]></title>
         <id>http://arxiv.org/abs/2307.04998</id>
@@ -2485,56 +2505,6 @@ People have the remarkable ability to take in a tremendous amount of information
         <link href="http://arxiv.org/abs/2209.12651"/>
         <updated>2023-06-13T08:19:00.264Z</updated>
         <summary type="html"><![CDATA[Christoph Brauer, Niklas Breustedt, Timo de Wolff, Dirk A. Lorenz]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Introduction to Queueing Theory and Stochastic Teletraffic Models]]></title>
-        <id>http://arxiv.org/abs/1307.2968</id>
-        <link href="http://arxiv.org/abs/1307.2968"/>
-        <updated>2023-06-13T07:14:02.706Z</updated>
-        <summary type="html"><![CDATA[Moshe Zukerman]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Effect of driving on coarsening dynamics in phase-separating systems]]></title>
-        <id>http://arxiv.org/abs/1905.13396</id>
-        <link href="http://arxiv.org/abs/1905.13396"/>
-        <updated>2023-06-13T07:14:02.700Z</updated>
-        <summary type="html"><![CDATA[D. Tseluiko, M. Alesemi, T.-S. Lin, U. Thiele]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Converse growth estimates for ODEs with slowly growing solutions]]></title>
-        <id>http://arxiv.org/abs/1811.08736</id>
-        <link href="http://arxiv.org/abs/1811.08736"/>
-        <updated>2023-06-13T07:14:02.683Z</updated>
-        <summary type="html"><![CDATA[Janne Gr\"ohn]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Alexandrov geometry: foundations]]></title>
-        <id>http://arxiv.org/abs/1903.08539</id>
-        <link href="http://arxiv.org/abs/1903.08539"/>
-        <updated>2023-06-13T07:14:02.676Z</updated>
-        <summary type="html"><![CDATA[Stephanie Alexander, Vitali Kapovitch, Anton Petrunin]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Good News for Polynomial Root-finding]]></title>
-        <id>http://arxiv.org/abs/1805.12042</id>
-        <link href="http://arxiv.org/abs/1805.12042"/>
-        <updated>2023-06-13T07:14:02.670Z</updated>
-        <summary type="html"><![CDATA[Victor Y. Pan]]></summary>
         <author>
             <name>arxivist feed</name>
         </author>

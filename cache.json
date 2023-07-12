@@ -974,56 +974,6 @@
           "wordCount": 703,
           "title": "Learning Variational Models with Unrolling and Bilevel Optimization",
           "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
-        },
-        {
-          "id": "http://arxiv.org/abs/1307.2968",
-          "author": null,
-          "description": "Moshe Zukerman",
-          "link": "http://arxiv.org/abs/1307.2968",
-          "publishedOn": "2023-06-13T07:14:02.706Z",
-          "wordCount": 796,
-          "title": "Introduction to Queueing Theory and Stochastic Teletraffic Models",
-          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
-        },
-        {
-          "id": "http://arxiv.org/abs/1905.13396",
-          "author": null,
-          "description": "D. Tseluiko, M. Alesemi, T.-S. Lin, U. Thiele",
-          "link": "http://arxiv.org/abs/1905.13396",
-          "publishedOn": "2023-06-13T07:14:02.700Z",
-          "wordCount": 815,
-          "title": "Effect of driving on coarsening dynamics in phase-separating systems",
-          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
-        },
-        {
-          "id": "http://arxiv.org/abs/1811.08736",
-          "author": null,
-          "description": "Janne Gr\\\"ohn",
-          "link": "http://arxiv.org/abs/1811.08736",
-          "publishedOn": "2023-06-13T07:14:02.683Z",
-          "wordCount": 696,
-          "title": "Converse growth estimates for ODEs with slowly growing solutions",
-          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
-        },
-        {
-          "id": "http://arxiv.org/abs/1903.08539",
-          "author": null,
-          "description": "Stephanie Alexander, Vitali Kapovitch, Anton Petrunin",
-          "link": "http://arxiv.org/abs/1903.08539",
-          "publishedOn": "2023-06-13T07:14:02.676Z",
-          "wordCount": 681,
-          "title": "Alexandrov geometry: foundations",
-          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
-        },
-        {
-          "id": "http://arxiv.org/abs/1805.12042",
-          "author": null,
-          "description": "Victor Y. Pan",
-          "link": "http://arxiv.org/abs/1805.12042",
-          "publishedOn": "2023-06-13T07:14:02.670Z",
-          "wordCount": 980,
-          "title": "Good News for Polynomial Root-finding",
-          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
         }
       ]
     },
@@ -1044,6 +994,16 @@
       "feedUrl": "https://gilkalai.wordpress.com/feed/",
       "siteUrl": "https://gilkalai.wordpress.com",
       "articles": [
+        {
+          "id": "http://gilkalai.wordpress.com/?p=24636",
+          "author": "Gil Kalai",
+          "description": "Avi Wigderson is here for a year and it was a good opportunity to go back together to the question of diameter of polytopes. The diameter problem for polytopes is to determine the behavior of the maximum diameter of the … Continue reading →",
+          "link": "https://gilkalai.wordpress.com/2023/07/12/a-high-dimensional-diameter-problems-for-polytopes/",
+          "publishedOn": "2023-07-12T20:06:46.000Z",
+          "wordCount": 3415,
+          "title": "A High-Dimensional Diameter Problem for Polytopes",
+          "imageUrl": "https://s0.wp.com/i/blank.jpg"
+        },
         {
           "id": "http://gilkalai.wordpress.com/?p=24628",
           "author": "Gil Kalai",
@@ -1462,6 +1422,16 @@
       "feedUrl": "https://gilkalai.wordpress.com/feed/",
       "siteUrl": "https://gilkalai.wordpress.com",
       "articles": [
+        {
+          "id": "http://gilkalai.wordpress.com/?p=24636",
+          "author": "Gil Kalai",
+          "description": "Avi Wigderson is here for a year and it was a good opportunity to go back together to the question of diameter of polytopes. The diameter problem for polytopes is to determine the behavior of the maximum diameter of the … Continue reading →",
+          "link": "https://gilkalai.wordpress.com/2023/07/12/a-high-dimensional-diameter-problems-for-polytopes/",
+          "publishedOn": "2023-07-12T20:06:46.000Z",
+          "wordCount": 3415,
+          "title": "A High-Dimensional Diameter Problem for Polytopes",
+          "imageUrl": "https://s0.wp.com/i/blank.jpg"
+        },
         {
           "id": "http://gilkalai.wordpress.com/?p=24628",
           "author": "Gil Kalai",
