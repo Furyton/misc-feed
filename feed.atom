@@ -2,10 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-07-12T06:21:46.741Z</updated>
+    <updated>2023-07-12T07:15:28.492Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Selective Sampling and Imitation Learning via Online Regression]]></title>
+        <id>http://arxiv.org/abs/2307.04998</id>
+        <link href="http://arxiv.org/abs/2307.04998"/>
+        <updated>2023-07-12T07:15:23.615Z</updated>
+        <summary type="html"><![CDATA[Ayush Sekhari, Karthik Sridharan, Wen Sun, Runzhe Wu]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Reconstructing Kernel-based Machine Learning Force Fields with
+  Super-linear Convergence]]></title>
+        <id>http://arxiv.org/abs/2212.12737</id>
+        <link href="http://arxiv.org/abs/2212.12737"/>
+        <updated>2023-07-12T07:15:22.611Z</updated>
+        <summary type="html"><![CDATA[Stefan Bl\"ucher, Klaus-Robert M\"uller, Stefan Chmiela]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Differentially Private Statistical Inference through $\beta$-Divergence
+  One Posterior Sampling]]></title>
+        <id>http://arxiv.org/abs/2307.05194</id>
+        <link href="http://arxiv.org/abs/2307.05194"/>
+        <updated>2023-07-12T07:15:22.605Z</updated>
+        <summary type="html"><![CDATA[Jack Jewson, Sahra Ghalebikesabi, Chris Holmes]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Used to be a bun]]></title>
         <id>https://languagelog.ldc.upenn.edu/nll/?p=59639</id>

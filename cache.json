@@ -6,6 +6,36 @@
       "siteUrl": "https://www.arxivist.com",
       "articles": [
         {
+          "id": "http://arxiv.org/abs/2307.04998",
+          "author": null,
+          "description": "Ayush Sekhari, Karthik Sridharan, Wen Sun, Runzhe Wu",
+          "link": "http://arxiv.org/abs/2307.04998",
+          "publishedOn": "2023-07-12T07:15:23.615Z",
+          "wordCount": 823,
+          "title": "Selective Sampling and Imitation Learning via Online Regression",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2212.12737",
+          "author": null,
+          "description": "Stefan Bl\\\"ucher, Klaus-Robert M\\\"uller, Stefan Chmiela",
+          "link": "http://arxiv.org/abs/2212.12737",
+          "publishedOn": "2023-07-12T07:15:22.611Z",
+          "wordCount": 738,
+          "title": "Reconstructing Kernel-based Machine Learning Force Fields with\n  Super-linear Convergence",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2307.05194",
+          "author": null,
+          "description": "Jack Jewson, Sahra Ghalebikesabi, Chris Holmes",
+          "link": "http://arxiv.org/abs/2307.05194",
+          "publishedOn": "2023-07-12T07:15:22.605Z",
+          "wordCount": 710,
+          "title": "Differentially Private Statistical Inference through $\\beta$-Divergence\n  One Posterior Sampling",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
           "id": "http://arxiv.org/abs/2305.18404",
           "author": null,
           "description": "Bhawesh Kumar, Charlie Lu, Gauri Gupta, Anil Palepu, David Bellamy,\n  Ramesh Raskar, Andrew Beam",
