@@ -2,10 +2,39 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-07-13T21:14:21.892Z</updated>
+    <updated>2023-07-13T22:15:45.113Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Éric turns 60]]></title>
+        <id>http://xianblog.wordpress.com/?p=53449</id>
+        <link href="https://xianblog.wordpress.com/2023/07/14/eric-turns-60/"/>
+        <updated>2023-07-13T22:05:25.000Z</updated>
+        <summary type="html"><![CDATA[Conférence en l’honneur d’Eric Moulines 13-14 sept. 2023 IHP Paris (France) There will be a conference / Festschrift held for the 60th birthday of Eric Moulines [longtime friend, coauthor, ERC Synergy co-PI, whom I almost killed when missing a catch on Dent Parrachée!] at Institut Henri Poincaré, Paris, on 13 and 14 September 2023. Registration […]]]></summary>
+        <author>
+            <name>xi'an</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Symbol tuning improves in-context learning in language models]]></title>
+        <id>http://ai.googleblog.com/2023/07/symbol-tuning-improves-in-context.html</id>
+        <link href="http://ai.googleblog.com/2023/07/symbol-tuning-improves-in-context.html"/>
+        <updated>2023-07-13T21:01:00.001Z</updated>
+        <summary type="html"><![CDATA[Posted by Jerry Wei, Student Researcher, and Denny Zhou, Principal Scientist, Google Research
+
+
+
+
+
+A key feature of human intelligence is that humans can learn to perform new tasks by reasoning using only a few examples. Scaling up language models has unlocked a range of new applications and paradigms in machine learning, including the ability to perform challenging reasoning tasks via in-context learning. Language models, however, are still sensitive to the way that prompts are given, indicating that they are not reasoning in a robust manner. For instance, language models often require heavy prompt engineering or phrasing tasks as instructions, and they exhibit unexpected behaviors such as performance on tasks being unaffected even when shown incorrect labels.
+
+
+In “Symbol tuning improves…]]></summary>
+        <author>
+            <name>Google AI Blog</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Python源码剖析：深度探索Cpython对象-达观数据]]></title>
         <id>https://www.52nlp.cn/?p=13490</id>

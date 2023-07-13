@@ -1416,6 +1416,16 @@
       "siteUrl": "https://xianblog.wordpress.com",
       "articles": [
         {
+          "id": "http://xianblog.wordpress.com/?p=53449",
+          "author": "xi'an",
+          "description": "Conférence en l’honneur d’Eric Moulines 13-14 sept. 2023 IHP Paris (France) There will be a conference / Festschrift held for the 60th birthday of Eric Moulines [longtime friend, coauthor, ERC Synergy co-PI, whom I almost killed when missing a catch on Dent Parrachée!] at Institut Henri Poincaré, Paris, on 13 and 14 September 2023. Registration […]",
+          "link": "https://xianblog.wordpress.com/2023/07/14/eric-turns-60/",
+          "publishedOn": "2023-07-13T22:05:25.000Z",
+          "wordCount": 1870,
+          "title": "Éric turns 60",
+          "imageUrl": "https://em60.sciencesconf.org/data/header/sketchEricThree.jpg"
+        },
+        {
           "id": "http://xianblog.wordpress.com/?p=53499",
           "author": "xi'an",
           "description": "Just heard that Milan Kundera, Czech-French author of The Unbearable Lightness of Being and other fantastic books had passed away on Tuesday in Paris. I still remember from the mid 1980’s the deep impression this book left on me, both as a bitter-sweet love story with the Prague Spring and its aftermath as its background, […]",
@@ -1745,6 +1755,16 @@
       "feedUrl": "http://feeds.feedburner.com/blogspot/gJZg",
       "siteUrl": "http://ai.googleblog.com/",
       "articles": [
+        {
+          "id": "http://ai.googleblog.com/2023/07/symbol-tuning-improves-in-context.html",
+          "author": null,
+          "description": "Posted by Jerry Wei, Student Researcher, and Denny Zhou, Principal Scientist, Google Research\n\n\n\n\n\nA key feature of human intelligence is that humans can learn to perform new tasks by reasoning using only a few examples. Scaling up language models has unlocked a range of new applications and paradigms in machine learning, including the ability to perform challenging reasoning tasks via in-context learning. Language models, however, are still sensitive to the way that prompts are given, indicating that they are not reasoning in a robust manner. For instance, language models often require heavy prompt engineering or phrasing tasks as instructions, and they exhibit unexpected behaviors such as performance on tasks being unaffected even when shown incorrect labels.\n\n\nIn “Symbol tuning improves…",
+          "link": "http://ai.googleblog.com/2023/07/symbol-tuning-improves-in-context.html",
+          "publishedOn": "2023-07-13T21:01:00.001Z",
+          "wordCount": 27765,
+          "title": "Symbol tuning improves in-context learning in language models",
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpcvWqT7OBMHzleUaxiCaADL7SGlXJOakpKo6HsXwWHuERHv1mYDtz0UaLaKNoY6f7cgS7CVack55eHRIcUrDPd9ZY01EKCCUTsxkVAXh3qD7rSw0x2VWj17yKWoTYQD6xiIj-7Zp2vsPaT9ew4UpT6ec4LI0R0nKfb4Sbd1vEjyQEQW0lvbroBBFWfZ1h/w1200-h630-p-k-no-nu/SymbolTuning.png"
+        },
         {
           "id": "http://ai.googleblog.com/2023/07/an-open-source-gymnasium-for-computer.html",
           "author": null,
