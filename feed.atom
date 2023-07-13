@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-07-13T05:16:02.282Z</updated>
+    <updated>2023-07-13T06:22:02.224Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -2423,21 +2423,6 @@ Immersive experiences that are interactive, photorealistic, and multi-dimensiona
         <summary type="html"><![CDATA[Next Tuesday, June 13, at 16:00 UTC, I am giving a talk on inferring the number of components in a mixture at the international online IAU-IAA Astrostats and Astroinfo seminar. As pointed out by my Cornell friend Tom Loredo, it is unfortunately clashing with the ISI quadrenial Statistical Challenges in Modern Astronomy meeting help at […]]]></summary>
         <author>
             <name>xi'an</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Enabling delightful user experiences via predictive models of human attention]]></title>
-        <id>http://ai.googleblog.com/2023/06/enabling-delightful-user-experiences.html</id>
-        <link href="http://ai.googleblog.com/2023/06/enabling-delightful-user-experiences.html"/>
-        <updated>2023-06-13T17:18:00.004Z</updated>
-        <summary type="html"><![CDATA[Posted by Junfeng He, Senior Research Scientist, and Kai Kohlhoff, Staff Research Scientist, Google Research
-
-
-
-
-People have the remarkable ability to take in a tremendous amount of information (estimated to be ~1010 bits/s entering the retina) and selectively attend to a few task-relevant and interesting regions for further processing (e.g., memory, comprehension, action). Modeling human attention (the result of which is often called a saliency model) has therefore been of interest across the fields of neuroscience, psychology, human-computer interaction (HCI) and computer vision. The ability to predict which regions are likely to attract attention has numerous important applications in areas like graphics, photography, image compression and processing, and the measurement of visual quali…]]></summary>
-        <author>
-            <name>Google AI Blog</name>
         </author>
     </entry>
 </feed>
