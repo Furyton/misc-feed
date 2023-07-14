@@ -1894,16 +1894,6 @@
           "wordCount": 27689,
           "title": "Speed is all you need: On-device acceleration of large diffusion models via GPU-aware optimizations",
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjm8J7pV44tX5D9h_So9djOQ6574uRfNDoRjQDgg8kN78DFf7H3N8y7AIEnHfGJCqbYqxN9ZJVs9PaQ2B0qQ7SoXgjGEzEVfcuPQZCKQqMjqR7kDZ7rk_vjR_RFRiw-OoW7k-KjF5ecEkEVNiX2_27bePakLG6Ac805m8q6YhQPaA3IEWaWpmFbrLsWKg/w1200-h630-p-k-no-nu/SpeedHero.png"
-        },
-        {
-          "id": "http://ai.googleblog.com/2023/06/reconstructing-indoor-spaces-with-nerf.html",
-          "author": null,
-          "description": "Marcos Seefelder, Software Engineer, and Daniel Duckworth, Research Software Engineer, Google Research\n\n\n\n\nWhen choosing a venue, we often find ourselves with questions like the following: Does this restaurant have the right vibe for a date? Is there good outdoor seating? Are there enough screens to watch the game? While photos and videos may partially answer questions like these, they are no substitute for feeling like you’re there, even when visiting in person isn't an option.\n\n\n\nImmersive experiences that are interactive, photorealistic, and multi-dimensional stand to bridge this gap and recreate the feel and vibe of a space, empowering users to naturally and intuitively find the information they need. To help with this, Google Maps launched Immersive View, which uses advances in machin…",
-          "link": "http://ai.googleblog.com/2023/06/reconstructing-indoor-spaces-with-nerf.html",
-          "publishedOn": "2023-06-14T16:00:00.000Z",
-          "wordCount": 27930,
-          "title": "Reconstructing indoor spaces with NeRF",
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhxGrEnhxjRJV-5Ws2doej6GjSpHuwLJBxjBbQnqzlVhuBAyBAKRmz0LuAYLSGHqtMPEfyZf9HIxVdNGhOsvMnlZKC6gnTq0oEFw0-YjU-yoHXXUhV1ZCWNxJVZUW4_rnT6ktLhHh4TjLfS9B2A4Txv5kKF3FZcxBU4q8ktQoaNPERvfLV1S9zHzCaLQQ/w1200-h630-p-k-no-nu/Immersive%20View%20hero.gif"
         }
       ]
     },
@@ -1912,6 +1902,16 @@
       "feedUrl": "https://www.52nlp.cn/feed",
       "siteUrl": "https://www.52nlp.cn",
       "articles": [
+        {
+          "id": "https://www.52nlp.cn/?p=13492",
+          "author": "达观数据",
+          "description": "大模型时代到来，国内出现“百模大战”的局面。达观数据自23年3月宣布研发大语言模型以来，一直积极探索大语言模型 […]",
+          "link": "https://www.52nlp.cn/%e8%be%be%e8%a7%82%e6%9b%b9%e6%a4%8d%e5%a4%a7%e6%a8%a1%e5%9e%8b%e6%ad%a3%e5%bc%8f%e5%af%b9%e5%a4%96%e5%85%ac%e6%b5%8b%ef%bc%81%e4%b8%93%e6%b3%a8%e4%ba%8e%e9%95%bf%e6%96%87%e6%9c%ac%e3%80%81%e5%a4%9a-2",
+          "publishedOn": "2023-07-14T03:37:50.000Z",
+          "wordCount": 775,
+          "title": "达观曹植大模型正式对外公测！专注于长文本、多语言、垂直化发展",
+          "imageUrl": null
+        },
         {
           "id": "https://www.52nlp.cn/?p=13490",
           "author": "达观数据",
