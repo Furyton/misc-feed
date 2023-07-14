@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-07-14T10:17:43.297Z</updated>
+    <updated>2023-07-14T11:13:37.353Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Is there no / any longer a reason / need to learn a foreign language?]]></title>
+        <id>https://languagelog.ldc.upenn.edu/nll/?p=59666</id>
+        <link href="https://languagelog.ldc.upenn.edu/nll/?p=59666&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=is-there-no-any-longer-a-reason-need-to-learn-a-foreign-language"/>
+        <updated>2023-07-14T10:47:27.000Z</updated>
+        <summary type="html"><![CDATA[Or, to put it another way, in the words of Douglas Hofstadter, Learn a Foreign Language Before It’s Too Late AI translators may seem wondrous but they also erode a major part of what it is to be human. The Atlantic (7/13/23) Hofstadter recounts how he spent years of painstaking, hard labor learning more than […]]]></summary>
+        <author>
+            <name>Victor Mair</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[当生成模型肆虐：互联网将有“疯牛病”之忧？]]></title>
         <id>https://kexue.fm/archives/9687</id>
@@ -2492,16 +2502,6 @@ We address this challenge in our work titled “Speed Is All You Need: On-Device
   Santos-Rodriguez, Meelis Kull, Peter Flach]]></summary>
         <author>
             <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[soon off to CIRM]]></title>
-        <id>http://xianblog.wordpress.com/?p=53229</id>
-        <link href="https://xianblog.wordpress.com/2023/06/15/soon-off-to-cirm/"/>
-        <updated>2023-06-14T22:23:19.000Z</updated>
-        <summary type="html"><![CDATA[Visit the post for more.]]></summary>
-        <author>
-            <name>xi'an</name>
         </author>
     </entry>
 </feed>
