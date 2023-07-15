@@ -1945,16 +1945,6 @@
           "wordCount": 29122,
           "title": "Google at CVPR 2023",
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjna9ws3HEBS4wd_UsuPUR1OMmrdGD8agFbkXjiv9Y2yAKkwAGUgGOOdvqQZESTsNRLHhj0Wj8ZCtKpIGhkR0SrwielzXijpCIr57s_n6EobR8Vry_h6x2B7cAWtiB0obvEyJ098j5K2pYFdjgUdN-vhmC17aSkx-dkseTblY3VGhjWHBZ7G_D7n8pYqw/w1200-h630-p-k-no-nu/CVPR%20Design-hero.jpg"
-        },
-        {
-          "id": "http://ai.googleblog.com/2023/06/speed-is-all-you-need-on-device.html",
-          "author": null,
-          "description": "Posted by Juhyun Lee and Raman Sarokin, Software Engineers, Core Systems & Experiences\n\n\n\n\nThe proliferation of large diffusion models for image generation has led to a significant increase in model size and inference workloads. On-device ML inference in mobile environments requires meticulous performance optimization and consideration of trade-offs due to resource constraints. Running inference of large diffusion models (LDMs) on-device, driven by the need for cost efficiency and user privacy, presents even greater challenges due to the substantial memory requirements and computational demands of these models.\n \n\nWe address this challenge in our work titled “Speed Is All You Need: On-Device Acceleration of Large Diffusion Models via GPU-Aware Optimizations” (to be presented at the CVPR 20…",
-          "link": "http://ai.googleblog.com/2023/06/speed-is-all-you-need-on-device.html",
-          "publishedOn": "2023-06-15T20:53:00.000Z",
-          "wordCount": 27689,
-          "title": "Speed is all you need: On-device acceleration of large diffusion models via GPU-aware optimizations",
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjm8J7pV44tX5D9h_So9djOQ6574uRfNDoRjQDgg8kN78DFf7H3N8y7AIEnHfGJCqbYqxN9ZJVs9PaQ2B0qQ7SoXgjGEzEVfcuPQZCKQqMjqR7kDZ7rk_vjR_RFRiw-OoW7k-KjF5ecEkEVNiX2_27bePakLG6Ac805m8q6YhQPaA3IEWaWpmFbrLsWKg/w1200-h630-p-k-no-nu/SpeedHero.png"
         }
       ]
     },
