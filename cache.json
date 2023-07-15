@@ -1010,7 +1010,18 @@
       "title": "Parsiad Azimzadeh",
       "feedUrl": "http://parsiad.ca/feed.xml",
       "siteUrl": "https://parsiad.ca/",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://parsiad.ca/blog/2023/updating_the_cholesky_decomposition_of_a_matrix/",
+          "author": null,
+          "description": "Sometimes, we already have the Cholesky decomposition of a given matrix and wish to update it efficiently when that matrix “grows” in size (i.e., through the addition of new rows/columns). Instead of recomputing the entire Cholesky decomposition from scratch, we can compute it incrementally. Moreover, this incremental computation can also be strung together to retrieve an iterative algorithm to compute the full Cholesky decomposition.",
+          "link": "https://parsiad.ca/blog/2023/updating_the_cholesky_decomposition_of_a_matrix/",
+          "publishedOn": "2023-07-14T20:00:00.000Z",
+          "wordCount": 594,
+          "title": "Updating the Cholesky Decomposition of a Matrix",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "Windows On Theory",
