@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-07-14T23:16:04.966Z</updated>
+    <updated>2023-07-15T01:43:13.159Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Excuse my French]]></title>
+        <id>https://languagelog.ldc.upenn.edu/nll/?p=59669</id>
+        <link href="https://languagelog.ldc.upenn.edu/nll/?p=59669&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=excuse-my-french"/>
+        <updated>2023-07-14T23:25:11.000Z</updated>
+        <summary type="html"><![CDATA[The following article is presented in typical New Yorker cartoon style, but I've retyped the text so that it will take up less space, allowing me to expatiate on the origin and meaning of the key phrase in the title. Pardon My French: A Guide to French Colloquialisms A visual "guide" to speaking and thinking […]]]></summary>
+        <author>
+            <name>Victor Mair</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Alexandre Grothendieck’s visit to the Democratic Republic of Vietnam]]></title>
         <id>http://xianblog.wordpress.com/?p=53456</id>
@@ -2525,16 +2535,6 @@ The proliferation of large diffusion models for image generation has led to a si
 We address this challenge in our work titled “Speed Is All You Need: On-Device Acceleration of Large Diffusion Models via GPU-Aware Optimizations” (to be presented at the CVPR 20…]]></summary>
         <author>
             <name>Google AI Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Cantophone and the state]]></title>
-        <id>https://languagelog.ldc.upenn.edu/nll/?p=59228</id>
-        <link href="https://languagelog.ldc.upenn.edu/nll/?p=59228&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=the-cantophone-and-the-state"/>
-        <updated>2023-06-15T12:19:22.000Z</updated>
-        <summary type="html"><![CDATA[Cantonese — its nature, its status, its past, present, and future, its place in the realm of Sinitic languages and in the world — has been one of the chief foci of Language Log.  Consequently, it is my great pleasure to announce the publication of the three-hundred-and-thirty-fourth issue of Sino-Platonic Papers: “The Concept of the […]]]></summary>
-        <author>
-            <name>Victor Mair</name>
         </author>
     </entry>
 </feed>
