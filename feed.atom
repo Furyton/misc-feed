@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-07-15T13:20:22.357Z</updated>
+    <updated>2023-07-15T14:13:51.561Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -2507,16 +2507,6 @@ If you are attending CVPR this year, please stop by our booth to chat with our r
         <summary type="html"><![CDATA[Thank you to all who participated in our first ever PyTorch Docathon, the results have been nothing short of amazing! We want to extend our sincerest gratitude to all the participants who made this event a resounding success. Your passion, talent, and hard work have left an indelible mark on the PyTorch documentation.]]></summary>
         <author>
             <name>PyTorch Website</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[梯度流：探索通往最小值之路]]></title>
-        <id>https://kexue.fm/archives/9660</id>
-        <link href="https://kexue.fm/archives/9660"/>
-        <updated>2023-06-16T02:10:00.000Z</updated>
-        <summary type="html"><![CDATA[在这篇文章中，我们将探讨一个被称为“梯度流（Gradient Flow）”的概念。简单来说，梯度流是将我们在用梯度下降法中寻找最小值的过程中的各个点连接起来，形成一条随（虚拟的）时间变化的轨迹，...]]></summary>
-        <author>
-            <name>苏剑林</name>
         </author>
     </entry>
 </feed>

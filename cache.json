@@ -1090,16 +1090,6 @@
           "wordCount": 1603,
           "title": "生成扩散模型漫谈（十九）：作为扩散ODE的GAN",
           "imageUrl": null
-        },
-        {
-          "id": "https://kexue.fm/archives/9660",
-          "author": "苏剑林",
-          "description": "在这篇文章中，我们将探讨一个被称为“梯度流（Gradient Flow）”的概念。简单来说，梯度流是将我们在用梯度下降法中寻找最小值的过程中的各个点连接起来，形成一条随（虚拟的）时间变化的轨迹，...",
-          "link": "https://kexue.fm/archives/9660",
-          "publishedOn": "2023-06-16T02:10:00.000Z",
-          "wordCount": 1642,
-          "title": "梯度流：探索通往最小值之路",
-          "imageUrl": null
         }
       ]
     },
