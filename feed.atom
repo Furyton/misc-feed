@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-07-15T10:16:38.870Z</updated>
+    <updated>2023-07-15T11:12:39.775Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -2507,16 +2507,6 @@ If you are attending CVPR this year, please stop by our booth to chat with our r
         <summary type="html"><![CDATA[在这篇文章中，我们将探讨一个被称为“梯度流（Gradient Flow）”的概念。简单来说，梯度流是将我们在用梯度下降法中寻找最小值的过程中的各个点连接起来，形成一条随（虚拟的）时间变化的轨迹，...]]></summary>
         <author>
             <name>苏剑林</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Noctureine 2023]]></title>
-        <id>http://xianblog.wordpress.com/?p=53100</id>
-        <link href="https://xianblog.wordpress.com/2023/06/16/noctureine-2023/"/>
-        <updated>2023-06-15T22:23:03.000Z</updated>
-        <summary type="html"><![CDATA[Visit the post for more.]]></summary>
-        <author>
-            <name>xi'an</name>
         </author>
     </entry>
 </feed>
