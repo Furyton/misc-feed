@@ -1457,6 +1457,16 @@
       "siteUrl": "https://xianblog.wordpress.com",
       "articles": [
         {
+          "id": "http://xianblog.wordpress.com/?p=53411",
+          "author": "xi'an",
+          "description": "Last week, Gegor  Zens, Sylvia Frühwirth-Schnatter, and Helga Wagner arXived a revision of their paper on latent Pólya-Gamma random variables for logistic regression models (which I had not read before). The central idea follows from Albert and Chib 1993 paper on a Gibbs sampler for binary and polychotomous data, namely a data augmentation (a.k.a. Gibbs […]",
+          "link": "https://xianblog.wordpress.com/2023/07/18/ul%ce%b3ima%ce%b3e-pol%ce%b3a/",
+          "publishedOn": "2023-07-17T22:23:26.000Z",
+          "wordCount": 1964,
+          "title": "ulΓimaΓe Pólγa",
+          "imageUrl": "https://xianblog.files.wordpress.com/2014/09/wien2.jpg"
+        },
+        {
           "id": "http://xianblog.wordpress.com/?p=53473",
           "author": "xi'an",
           "description": "A simple X-validated question on approximating P(X<Y) from two independent samples of X and Y. Which can be solved by a Monte Carlo approximation to using all pairs of X’s and Y’s if the samples are not too large and a subsample of this set otherwise. However, I am (still) wondering if there is a […]",
