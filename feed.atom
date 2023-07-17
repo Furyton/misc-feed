@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-07-17T14:15:40.922Z</updated>
+    <updated>2023-07-17T15:17:54.958Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -69,6 +69,16 @@
         <summary type="html"><![CDATA[Ron Dorfman, Shay Vargaftik, Yaniv Ben-Itzhak, Kfir Y. Levy]]></summary>
         <author>
             <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Developing reliable AI tools for healthcare]]></title>
+        <id>https://www.deepmind.com/blog/codoc-developing-reliable-ai-tools-for-healthcare</id>
+        <link href="https://www.deepmind.com/blog/codoc-developing-reliable-ai-tools-for-healthcare"/>
+        <updated>2023-07-17T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[We’ve published our joint paper with Google Research in Nature Medicine, which proposes CoDoC (Complementarity-driven Deferral-to-Clinical Workflow), an AI system that learns when to rely on predictive AI tools or defer to a clinician for the most accurate interpretation of medical images.]]></summary>
+        <author>
+            <name>DeepMind Blog</name>
         </author>
     </entry>
     <entry>
