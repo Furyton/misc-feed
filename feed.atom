@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-07-17T10:18:59.398Z</updated>
+    <updated>2023-07-17T11:13:55.540Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -2478,16 +2478,6 @@ If you are attending CVPR this year, please stop by our booth to chat with our r
         <summary type="html"><![CDATA[[This is a guest post by Jichang Lulu, with some minor modifications and additions by VHM] You might have seen this — the PRC embassy in Poland has given Badiucao's forthcoming exhibition in Warsaw (coorganised by Sinopsis) some very welcome, completely unexpected publicity by trying to have it shut down. Lots of international reporting: The Guardian, Sydney Morning Herald, &c., &c. […]]]></summary>
         <author>
             <name>Victor Mair</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[webscussion on Bayesian causality]]></title>
-        <id>http://xianblog.wordpress.com/?p=53243</id>
-        <link href="https://xianblog.wordpress.com/2023/06/18/webscussion-on-bayesian-causality/"/>
-        <updated>2023-06-17T22:23:11.000Z</updated>
-        <summary type="html"><![CDATA[Today, I attended (most of) and briefly took part in the discussion webinar run by Bayesian Analysis (the journal) and featuring the paper Causal Inference Under Mis-Specification: Adjustment Based on the Propensity Score by David Stephens, Widemberg Nobre, Erica Moodie, and Alexandra M. Schmidt, for which Pierre Jacob and I contributed a written discussion. I […]]]></summary>
-        <author>
-            <name>xi'an</name>
         </author>
     </entry>
 </feed>
