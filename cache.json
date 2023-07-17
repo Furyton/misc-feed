@@ -6,6 +6,56 @@
       "siteUrl": "https://www.arxivist.com",
       "articles": [
         {
+          "id": "http://arxiv.org/abs/2207.09874",
+          "author": null,
+          "description": "Davide Cacciarelli, Murat Kulahci, John S{\\o}lve Tyssedal",
+          "link": "http://arxiv.org/abs/2207.09874",
+          "publishedOn": "2023-07-17T07:16:13.148Z",
+          "wordCount": 770,
+          "title": "Stream-based active learning with linear models",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2307.07508",
+          "author": null,
+          "description": "Edyvalberty Alenquer Cordeiro, Anselmo Ramalho Pitombeira-Neto",
+          "link": "http://arxiv.org/abs/2307.07508",
+          "publishedOn": "2023-07-17T07:16:13.132Z",
+          "wordCount": 723,
+          "title": "Deep reinforcement learning for the dynamic vehicle dispatching problem:\n  An event-based approach",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2002.10113",
+          "author": null,
+          "description": "Alex Tong Lin, Samy Wu Fung, Wuchen Li, Levon Nurbekyan, Stanley J.\n  Osher",
+          "link": "http://arxiv.org/abs/2002.10113",
+          "publishedOn": "2023-07-17T07:16:13.092Z",
+          "wordCount": 722,
+          "title": "Alternating the Population and Control Neural Networks to Solve\n  High-Dimensional Stochastic Mean-Field Games",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2307.07072",
+          "author": null,
+          "description": "Christopher S. Parker, Anna Schroder, Sean C. Epstein, James Cole,\n  Daniel C. Alexander, Hui Zhang",
+          "link": "http://arxiv.org/abs/2307.07072",
+          "publishedOn": "2023-07-17T07:16:11.841Z",
+          "wordCount": 771,
+          "title": "Rician likelihood loss for quantitative MRI using self-supervised deep\n  learning",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2302.00543",
+          "author": null,
+          "description": "Ron Dorfman, Shay Vargaftik, Yaniv Ben-Itzhak, Kfir Y. Levy",
+          "link": "http://arxiv.org/abs/2302.00543",
+          "publishedOn": "2023-07-17T07:16:11.836Z",
+          "wordCount": 657,
+          "title": "DoCoFL: Downlink Compression for Cross-Device Federated Learning",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
           "id": "http://arxiv.org/abs/2109.13445",
           "author": null,
           "description": "Avi Cooper, Xavier Boix, Daniel Harari, Spandan Madan, Hanspeter\n  Pfister, Tomotake Sasaki, Pawan Sinha",
