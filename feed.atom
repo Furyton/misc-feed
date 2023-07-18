@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-07-18T19:12:19.383Z</updated>
+    <updated>2023-07-18T20:16:42.215Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -2521,58 +2521,6 @@ While this sounds like common sense, it only applies to our familiar three-dimen
         <summary type="html"><![CDATA[Interesting first day, if somewhat intense!, with Sylvia Richardson talking of divide & conquer strategies, which we had recently explored in our work on mixtures with Adrien and Judith. Then Jere Koskela (Warwick) on sufficient conditions for consistent inference on trees like Kingman’s coalescent. And in the afternoon Julia-Adela Palacios on tree estimation, with novel […]]]></summary>
         <author>
             <name>xi'an</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stabilized Neural Differential Equations for Learning Constrained
-  Dynamics]]></title>
-        <id>http://arxiv.org/abs/2306.09739</id>
-        <link href="http://arxiv.org/abs/2306.09739"/>
-        <updated>2023-06-19T07:14:46.765Z</updated>
-        <summary type="html"><![CDATA[Alistair White, Niki Kilbertus, Maximilian Gelbrecht, Niklas Boers]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Resolving the Human Subjects Status of Machine Learning's Crowdworkers]]></title>
-        <id>http://arxiv.org/abs/2206.04039</id>
-        <link href="http://arxiv.org/abs/2206.04039"/>
-        <updated>2023-06-19T07:14:46.761Z</updated>
-        <summary type="html"><![CDATA[Divyansh Kaushik, Zachary C. Lipton, Alex John London]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Enhancing Activity Prediction Models in Drug Discovery with the Ability
-  to Understand Human Language]]></title>
-        <id>http://arxiv.org/abs/2303.03363</id>
-        <link href="http://arxiv.org/abs/2303.03363"/>
-        <updated>2023-06-19T07:14:46.756Z</updated>
-        <summary type="html"><![CDATA[Philipp Seidl, Andreu Vall, Sepp Hochreiter, G\"unter Klambauer]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Collapsed Inference for Bayesian Deep Learning]]></title>
-        <id>http://arxiv.org/abs/2306.09686</id>
-        <link href="http://arxiv.org/abs/2306.09686"/>
-        <updated>2023-06-19T07:14:46.750Z</updated>
-        <summary type="html"><![CDATA[Zhe Zeng, Guy Van den Broeck]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Trained Transformers Learn Linear Models In-Context]]></title>
-        <id>http://arxiv.org/abs/2306.09927</id>
-        <link href="http://arxiv.org/abs/2306.09927"/>
-        <updated>2023-06-19T07:14:46.650Z</updated>
-        <summary type="html"><![CDATA[Ruiqi Zhang, Spencer Frei, Peter L. Bartlett]]></summary>
-        <author>
-            <name>arxivist feed</name>
         </author>
     </entry>
 </feed>
