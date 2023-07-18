@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-07-18T12:32:15.717Z</updated>
+    <updated>2023-07-18T13:21:35.300Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Lawyers subject to hazing at Northwestern?]]></title>
+        <id>https://languagelog.ldc.upenn.edu/nll/?p=59775</id>
+        <link href="https://languagelog.ldc.upenn.edu/nll/?p=59775&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=lawyers-subject-to-hazing-at-northwestern"/>
+        <updated>2023-07-18T12:51:53.000Z</updated>
+        <summary type="html"><![CDATA["Ben Crump retained by group of Northwestern athletes amidst hazing scandal", WGN News 7/17/2023: EVANSTON, Ill. — A group of athletes from Northwestern University has retained a prominent civil rights and personal injury attorney in the midst of the hazing scandal within the football program. On Monday morning, Ben Crump along with co-counsel Steven M. […]]]></summary>
+        <author>
+            <name>Mark Liberman</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Multi-Objective Optimization of Performance and Interpretability of
   Tabular Supervised Machine Learning Models]]></title>
