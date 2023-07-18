@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-07-18T05:15:09.106Z</updated>
+    <updated>2023-07-18T06:20:21.288Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -2518,26 +2518,6 @@ While this sounds like common sense, it only applies to our familiar three-dimen
         <summary type="html"><![CDATA[Visit the post for more.]]></summary>
         <author>
             <name>xi'an</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google at CVPR 2023]]></title>
-        <id>http://ai.googleblog.com/2023/06/google-at-cvpr-2023.html</id>
-        <link href="http://ai.googleblog.com/2023/06/google-at-cvpr-2023.html"/>
-        <updated>2023-06-18T18:00:00.014Z</updated>
-        <summary type="html"><![CDATA[Posted by Shaina Mehta, Program Manager, Google
-
-
-
-
-This week marks the beginning of the premier annual Computer Vision and Pattern Recognition conference (CVPR 2023), held in-person in Vancouver, BC (with additional virtual content). As a leader in computer vision research and a Platinum Sponsor, Google Research will have a strong presence across CVPR 2023 with 90 papers being presented at the main conference and active involvement in over 40 conference workshops and tutorials.
-
-
-
-
-If you are attending CVPR this year, please stop by our booth to chat with our researchers who are actively exploring the latest techniques for application to various areas of machine perception. Our researchers will also be available to talk about and demo several recent efforts, including on-device ML applica…]]></summary>
-        <author>
-            <name>Google AI Blog</name>
         </author>
     </entry>
 </feed>
