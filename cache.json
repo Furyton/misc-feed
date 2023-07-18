@@ -6,6 +6,56 @@
       "siteUrl": "https://www.arxivist.com",
       "articles": [
         {
+          "id": "http://arxiv.org/abs/2307.08175",
+          "author": null,
+          "description": "Lennart Schneider, Bernd Bischl, Janek Thomas",
+          "link": "http://arxiv.org/abs/2307.08175",
+          "publishedOn": "2023-07-18T07:14:43.556Z",
+          "wordCount": 738,
+          "title": "Multi-Objective Optimization of Performance and Interpretability of\n  Tabular Supervised Machine Learning Models",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2307.08044",
+          "author": null,
+          "description": "Hyunjun Lee, Junhyun Lee, Taehwa Choi, Jaewoo Kang, Sangbum Choi",
+          "link": "http://arxiv.org/abs/2307.08044",
+          "publishedOn": "2023-07-18T07:14:41.145Z",
+          "wordCount": 779,
+          "title": "Towards Flexible Time-to-event Modeling: Optimizing Neural Networks via\n  Rank Regression",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2206.05794",
+          "author": null,
+          "description": "Tomer Galanti, Zachary S. Siegel, Aparna Gupte, Tomaso Poggio",
+          "link": "http://arxiv.org/abs/2206.05794",
+          "publishedOn": "2023-07-18T07:14:41.133Z",
+          "wordCount": 719,
+          "title": "SGD and Weight Decay Provably Induce a Low-Rank Bias in Neural Networks",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2307.07753",
+          "author": null,
+          "description": "Dominik Schnaus, Jongseok Lee, Daniel Cremers, Rudolph Triebel",
+          "link": "http://arxiv.org/abs/2307.07753",
+          "publishedOn": "2023-07-18T07:14:41.126Z",
+          "wordCount": 651,
+          "title": "Learning Expressive Priors for Generalization and Uncertainty Estimation\n  in Neural Networks",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2307.08438",
+          "author": null,
+          "description": "Ilias Diakonikolas, Jelena Diakonikolas, Daniel M. Kane, Puqian Wang,\n  Nikos Zarifis",
+          "link": "http://arxiv.org/abs/2307.08438",
+          "publishedOn": "2023-07-18T07:14:41.015Z",
+          "wordCount": 660,
+          "title": "Near-Optimal Bounds for Learning Gaussian Halfspaces with Random\n  Classification Noise",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
           "id": "http://arxiv.org/abs/2207.09874",
           "author": null,
           "description": "Davide Cacciarelli, Murat Kulahci, John S{\\o}lve Tyssedal",
