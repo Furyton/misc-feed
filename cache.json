@@ -1457,6 +1457,16 @@
       "siteUrl": "https://xianblog.wordpress.com",
       "articles": [
         {
+          "id": "http://xianblog.wordpress.com/?p=53485",
+          "author": "xi'an",
+          "description": "While looking for references for a Master summer project at Warwick on Bayesian inference on the Cauchy location parameter, I came across a 2011 Annals of Statistics paper by Peter McCullagh and Han Han.  Which expands the Bayesian framework to the improper case by considering a Poisson process over the parameter set with mean measure […]",
+          "link": "https://xianblog.wordpress.com/2023/07/19/bayess-theorem-for-improper-mixtures/",
+          "publishedOn": "2023-07-18T22:23:54.000Z",
+          "wordCount": 2042,
+          "title": "Bayes’s theorem for improper mixtures",
+          "imageUrl": "https://xianblog.files.wordpress.com/2014/05/sunwar.jpg"
+        },
+        {
           "id": "http://xianblog.wordpress.com/?p=53411",
           "author": "xi'an",
           "description": "Last week, Gegor  Zens, Sylvia Frühwirth-Schnatter, and Helga Wagner arXived a revision of their paper on latent Pólya-Gamma random variables for logistic regression models (which I had not read before). The central idea follows from Albert and Chib 1993 paper on a Gibbs sampler for binary and polychotomous data, namely a data augmentation (a.k.a. Gibbs […]",
