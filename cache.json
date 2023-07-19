@@ -6,6 +6,56 @@
       "siteUrl": "https://www.arxivist.com",
       "articles": [
         {
+          "id": "http://arxiv.org/abs/2305.07617",
+          "author": null,
+          "description": "Marianne Defresne, Sophie Barbe, Thomas Schiex",
+          "link": "http://arxiv.org/abs/2305.07617",
+          "publishedOn": "2023-07-19T07:13:44.338Z",
+          "wordCount": 658,
+          "title": "Scalable Coupling of Deep Learning with Logical Reasoning",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2205.13900",
+          "author": null,
+          "description": "Gregor Bachmann, Lorenzo Noci, Thomas Hofmann",
+          "link": "http://arxiv.org/abs/2205.13900",
+          "publishedOn": "2023-07-19T07:13:44.321Z",
+          "wordCount": 743,
+          "title": "How Tempering Fixes Data Augmentation in Bayesian Neural Networks",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2307.09423",
+          "author": null,
+          "description": "Jens Tuyls, Dhruv Madeka, Kari Torkkola, Dean Foster, Karthik\n  Narasimhan, Sham Kakade",
+          "link": "http://arxiv.org/abs/2307.09423",
+          "publishedOn": "2023-07-19T07:13:44.315Z",
+          "wordCount": 721,
+          "title": "Scaling Laws for Imitation Learning in NetHack",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2305.11997",
+          "author": null,
+          "description": "Faisal Hamman, Erfaun Noorani, Saumitra Mishra, Daniele Magazzeni,\n  Sanghamitra Dutta",
+          "link": "http://arxiv.org/abs/2305.11997",
+          "publishedOn": "2023-07-19T07:13:44.308Z",
+          "wordCount": 792,
+          "title": "Robust Counterfactual Explanations for Neural Networks With\n  Probabilistic Guarantees",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2307.09254",
+          "author": null,
+          "description": "Sangdon Park, Taesoo Kim",
+          "link": "http://arxiv.org/abs/2307.09254",
+          "publishedOn": "2023-07-19T07:13:44.277Z",
+          "wordCount": 665,
+          "title": "PAC Neural Prediction Set Learning to Quantify the Uncertainty of\n  Generative Language Models",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
           "id": "http://arxiv.org/abs/2307.08175",
           "author": null,
           "description": "Lennart Schneider, Bernd Bischl, Janek Thomas",
