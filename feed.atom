@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-07-19T10:16:10.659Z</updated>
+    <updated>2023-07-19T11:12:11.801Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -2605,16 +2605,6 @@ While this sounds like common sense, it only applies to our familiar three-dimen
         <summary type="html"><![CDATA[Robots are quickly becoming part of our everyday lives, but they’re often only programmed to perform specific tasks well. While harnessing recent advances in AI could lead to robots that could help in many more ways, progress in building general-purpose robots is slower in part because of the time needed to collect real-world training data. Our latest paper introduces a self-improving AI agent for robotics, RoboCat, that learns to perform a variety of tasks across different arms, and then self-generates new training data to improve its technique.]]></summary>
         <author>
             <name>DeepMind Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Approximation Methods in Bayesian Analysis [#1]]]></title>
-        <id>http://xianblog.wordpress.com/?p=53331</id>
-        <link href="https://xianblog.wordpress.com/2023/06/20/approximation-methods-in-bayesian-analysis-1/"/>
-        <updated>2023-06-19T22:23:58.000Z</updated>
-        <summary type="html"><![CDATA[Interesting first day, if somewhat intense!, with Sylvia Richardson talking of divide & conquer strategies, which we had recently explored in our work on mixtures with Adrien and Judith. Then Jere Koskela (Warwick) on sufficient conditions for consistent inference on trees like Kingman’s coalescent. And in the afternoon Julia-Adela Palacios on tree estimation, with novel […]]]></summary>
-        <author>
-            <name>xi'an</name>
         </author>
     </entry>
 </feed>
