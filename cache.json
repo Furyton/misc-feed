@@ -1497,6 +1497,16 @@
       "siteUrl": "https://xianblog.wordpress.com",
       "articles": [
         {
+          "id": "http://xianblog.wordpress.com/?p=53515",
+          "author": "xi'an",
+          "description": "Visit the post for more.",
+          "link": "https://xianblog.wordpress.com/2023/07/20/xing-the-mekong-river-jatp/",
+          "publishedOn": "2023-07-19T22:23:15.000Z",
+          "wordCount": 1803,
+          "title": "Xing the Mekong River [jatp]",
+          "imageUrl": "https://xianblog.files.wordpress.com/2023/07/1689742106466-e1689742576847.jpg"
+        },
+        {
           "id": "http://xianblog.wordpress.com/?p=53485",
           "author": "xi'an",
           "description": "While looking for references for a Master summer project at Warwick on Bayesian inference on the Cauchy location parameter, I came across a 2011 Annals of Statistics paper by Peter McCullagh and Han Han.  Which expands the Bayesian framework to the improper case by considering a Poisson process over the parameter set with mean measure […]",
