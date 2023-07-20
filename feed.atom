@@ -2,10 +2,65 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-07-20T06:19:36.123Z</updated>
+    <updated>2023-07-20T07:13:52.814Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Convergence Guarantees for Stochastic Subgradient Methods in Nonsmooth
+  Nonconvex Optimization]]></title>
+        <id>http://arxiv.org/abs/2307.10053</id>
+        <link href="http://arxiv.org/abs/2307.10053"/>
+        <updated>2023-07-20T07:13:46.383Z</updated>
+        <summary type="html"><![CDATA[Nachuan Xiao, Xiaoyin Hu, Kim-Chuan Toh]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learning from time-dependent streaming data with online stochastic
+  algorithms]]></title>
+        <id>http://arxiv.org/abs/2205.12549</id>
+        <link href="http://arxiv.org/abs/2205.12549"/>
+        <updated>2023-07-20T07:13:45.130Z</updated>
+        <summary type="html"><![CDATA[Antoine Godichon-Baggioni, Nicklas Werge, Olivier Wintenberger]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Critical Points and Convergence Analysis of Generative Deep Linear
+  Networks Trained with Bures-Wasserstein Loss]]></title>
+        <id>http://arxiv.org/abs/2303.03027</id>
+        <link href="http://arxiv.org/abs/2303.03027"/>
+        <updated>2023-07-20T07:13:45.124Z</updated>
+        <summary type="html"><![CDATA[Pierre Br\'echet, Katerina Papagiannouli, Jing An, Guido Mont\'ufar]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Manifold Learning with Sparse Regularised Optimal Transport]]></title>
+        <id>http://arxiv.org/abs/2307.09816</id>
+        <link href="http://arxiv.org/abs/2307.09816"/>
+        <updated>2023-07-20T07:13:45.024Z</updated>
+        <summary type="html"><![CDATA[Stephen Zhang, Gilles Mordant, Tetsuya Matsumoto, Geoffrey
+  Schiebinger]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sequential Monte Carlo Learning for Time Series Structure Discovery]]></title>
+        <id>http://arxiv.org/abs/2307.09607</id>
+        <link href="http://arxiv.org/abs/2307.09607"/>
+        <updated>2023-07-20T07:13:45.019Z</updated>
+        <summary type="html"><![CDATA[Feras A. Saad, Brian J. Patton, Matthew D. Hoffman, Rif A. Saurous,
+  Vikash K. Mansinghka]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Xing the Mekong River [jatp]]]></title>
         <id>http://xianblog.wordpress.com/?p=53515</id>
@@ -2585,16 +2640,6 @@ While this sounds like common sense, it only applies to our familiar three-dimen
         <summary type="html"><![CDATA[I'm in Georgetown for a few days to meet with colleagues and do some research.  Shortly after I left my hotel and headed down Wisconsin Avenue toward the Potomac for a morning run, I stopped dead in my tracks when I crossed over the canal and saw this: Especially with all the butterflies in the window, I […]]]></summary>
         <author>
             <name>Victor Mair</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Fursty Ferret]]></title>
-        <id>http://xianblog.wordpress.com/?p=53009</id>
-        <link href="https://xianblog.wordpress.com/2023/06/20/the-fursty-ferret/"/>
-        <updated>2023-06-20T18:20:00.000Z</updated>
-        <summary type="html"><![CDATA[Visit the post for more.]]></summary>
-        <author>
-            <name>xi'an</name>
         </author>
     </entry>
 </feed>

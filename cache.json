@@ -6,6 +6,56 @@
       "siteUrl": "https://www.arxivist.com",
       "articles": [
         {
+          "id": "http://arxiv.org/abs/2307.10053",
+          "author": null,
+          "description": "Nachuan Xiao, Xiaoyin Hu, Kim-Chuan Toh",
+          "link": "http://arxiv.org/abs/2307.10053",
+          "publishedOn": "2023-07-20T07:13:46.383Z",
+          "wordCount": 672,
+          "title": "Convergence Guarantees for Stochastic Subgradient Methods in Nonsmooth\n  Nonconvex Optimization",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2205.12549",
+          "author": null,
+          "description": "Antoine Godichon-Baggioni, Nicklas Werge, Olivier Wintenberger",
+          "link": "http://arxiv.org/abs/2205.12549",
+          "publishedOn": "2023-07-20T07:13:45.130Z",
+          "wordCount": 655,
+          "title": "Learning from time-dependent streaming data with online stochastic\n  algorithms",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2303.03027",
+          "author": null,
+          "description": "Pierre Br\\'echet, Katerina Papagiannouli, Jing An, Guido Mont\\'ufar",
+          "link": "http://arxiv.org/abs/2303.03027",
+          "publishedOn": "2023-07-20T07:13:45.124Z",
+          "wordCount": 692,
+          "title": "Critical Points and Convergence Analysis of Generative Deep Linear\n  Networks Trained with Bures-Wasserstein Loss",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2307.09816",
+          "author": null,
+          "description": "Stephen Zhang, Gilles Mordant, Tetsuya Matsumoto, Geoffrey\n  Schiebinger",
+          "link": "http://arxiv.org/abs/2307.09816",
+          "publishedOn": "2023-07-20T07:13:45.024Z",
+          "wordCount": 703,
+          "title": "Manifold Learning with Sparse Regularised Optimal Transport",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2307.09607",
+          "author": null,
+          "description": "Feras A. Saad, Brian J. Patton, Matthew D. Hoffman, Rif A. Saurous,\n  Vikash K. Mansinghka",
+          "link": "http://arxiv.org/abs/2307.09607",
+          "publishedOn": "2023-07-20T07:13:45.019Z",
+          "wordCount": 729,
+          "title": "Sequential Monte Carlo Learning for Time Series Structure Discovery",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
           "id": "http://arxiv.org/abs/2305.07617",
           "author": null,
           "description": "Marianne Defresne, Sophie Barbe, Thomas Schiex",
@@ -1795,16 +1845,6 @@
           "wordCount": 1706,
           "title": "shallow learning",
           "imageUrl": "https://static.milibris.com/thumbnail/issue/0cd7525f-d0b3-4241-8f66-e50a0987a20a/front/catalog-cover-large.jpeg"
-        },
-        {
-          "id": "http://xianblog.wordpress.com/?p=53009",
-          "author": "xi'an",
-          "description": "Visit the post for more.",
-          "link": "https://xianblog.wordpress.com/2023/06/20/the-fursty-ferret/",
-          "publishedOn": "2023-06-20T18:20:00.000Z",
-          "wordCount": 1772,
-          "title": "The Fursty Ferret",
-          "imageUrl": "https://xianblog.files.wordpress.com/2023/05/1683538746386-e1683548726872.jpg"
         }
       ]
     },
