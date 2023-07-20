@@ -2,10 +2,38 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-07-20T18:19:14.181Z</updated>
+    <updated>2023-07-20T19:11:40.490Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Château Barthez [Haut-Médoc]]]></title>
+        <id>http://xianblog.wordpress.com/?p=53025</id>
+        <link href="https://xianblog.wordpress.com/2023/07/20/chateau-barthez-haut-medoc/"/>
+        <updated>2023-07-20T18:20:58.000Z</updated>
+        <summary type="html"><![CDATA[Visit the post for more.]]></summary>
+        <author>
+            <name>xi'an</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Using societal context knowledge to foster the responsible application of AI]]></title>
+        <id>http://ai.googleblog.com/2023/07/using-societal-context-knowledge-to.html</id>
+        <link href="http://ai.googleblog.com/2023/07/using-societal-context-knowledge-to.html"/>
+        <updated>2023-07-20T16:22:00.001Z</updated>
+        <summary type="html"><![CDATA[Posted by Donald Martin, Jr., Technical Program Manager, Head of Societal Context Understanding Tools and Solutions (SCOUTS), Google Research
+
+
+
+
+AI-related products and technologies are constructed and deployed in a societal context: that is, a dynamic and complex collection of social, cultural, historical, political and economic circumstances. Because societal contexts by nature are dynamic, complex, non-linear, contested, subjective, and highly qualitative, they are challenging to translate into the quantitative representations, methods, and practices that dominate standard machine learning (ML) approaches and responsible AI product development practices.   
+ 
+
+The first phase of AI product development is problem understanding, and this phase has tremendous influence over how problems (…]]></summary>
+        <author>
+            <name>Google AI Blog</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Realitätsflucht]]></title>
         <id>https://languagelog.ldc.upenn.edu/nll/?p=59788</id>

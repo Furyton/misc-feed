@@ -1517,6 +1517,16 @@
       "siteUrl": "https://xianblog.wordpress.com",
       "articles": [
         {
+          "id": "http://xianblog.wordpress.com/?p=53025",
+          "author": "xi'an",
+          "description": "Visit the post for more.",
+          "link": "https://xianblog.wordpress.com/2023/07/20/chateau-barthez-haut-medoc/",
+          "publishedOn": "2023-07-20T18:20:58.000Z",
+          "wordCount": 1790,
+          "title": "Château Barthez [Haut-Médoc]",
+          "imageUrl": "https://xianblog.files.wordpress.com/2023/05/1683538746320-e1683549266758.jpg"
+        },
+        {
           "id": "http://xianblog.wordpress.com/?p=53515",
           "author": "xi'an",
           "description": "Visit the post for more.",
@@ -1846,6 +1856,16 @@
       "feedUrl": "http://feeds.feedburner.com/blogspot/gJZg",
       "siteUrl": "http://ai.googleblog.com/",
       "articles": [
+        {
+          "id": "http://ai.googleblog.com/2023/07/using-societal-context-knowledge-to.html",
+          "author": null,
+          "description": "Posted by Donald Martin, Jr., Technical Program Manager, Head of Societal Context Understanding Tools and Solutions (SCOUTS), Google Research\n\n\n\n\nAI-related products and technologies are constructed and deployed in a societal context: that is, a dynamic and complex collection of social, cultural, historical, political and economic circumstances. Because societal contexts by nature are dynamic, complex, non-linear, contested, subjective, and highly qualitative, they are challenging to translate into the quantitative representations, methods, and practices that dominate standard machine learning (ML) approaches and responsible AI product development practices.   \n \n\nThe first phase of AI product development is problem understanding, and this phase has tremendous influence over how problems (…",
+          "link": "http://ai.googleblog.com/2023/07/using-societal-context-knowledge-to.html",
+          "publishedOn": "2023-07-20T16:22:00.001Z",
+          "wordCount": 27834,
+          "title": "Using societal context knowledge to foster the responsible application of AI",
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgoaJIKwp3izoj_P77_py-4_y4ng5B_HEW6HUB0QpkS_t4zc7p1w8FuG8x1IRK7Rw0R6uJIgUheqqr0yvz4YRykesH-IRKiV_PaXCr7MdBuaLzrlbqTgiIm3UM0rYcmVmKUlA5KqOjbqRdI3mwbTSyusxGhWisrXNS-C62JbiCHJTNh826JMQ2KtD9nu1vu/w1200-h630-p-k-no-nu/scouts.png"
+        },
         {
           "id": "http://ai.googleblog.com/2023/07/simper-simple-self-supervised-learning.html",
           "author": null,
