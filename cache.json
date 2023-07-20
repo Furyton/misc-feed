@@ -1215,7 +1215,18 @@
       "title": "Sander Dieleman",
       "feedUrl": "https://benanne.github.io/feed",
       "siteUrl": "https://sander.ai/",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://sander.ai/2023/07/20/perspectives.html",
+          "author": null,
+          "description": "Diffusion models appear to come in many shapes and forms. If you pick two random research papers about diffusion and look at how they describe the model class in their respective introductions, chances are they will go about it in very different ways. This can be both frustrating and enlightening: frustrating, because it makes it harder to spot relationships and equivalences across papers and implementations – but also enlightening, because these various perspectives each reveal new connections and are a breeding ground for new ideas. This blog post is an overview of the perspectives on diffusion I’ve found useful.",
+          "link": "https://sander.ai/2023/07/20/perspectives.html",
+          "publishedOn": "2023-07-19T23:00:00.000Z",
+          "wordCount": 7496,
+          "title": "Perspectives on diffusion",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "Jeremy Jordan",
@@ -2050,6 +2061,16 @@
       "feedUrl": "https://languagelog.ldc.upenn.edu/nll/?feed=rss2",
       "siteUrl": "https://languagelog.ldc.upenn.edu/nll",
       "articles": [
+        {
+          "id": "https://languagelog.ldc.upenn.edu/nll/?p=59763",
+          "author": "Victor Mair",
+          "description": "Screenshots from @泰拳刚猛 on Weibo: The Japanese caption at the top right of the first image reads, \"When I was texting with my husband in pseudo-Chinese using only kanji\". You can see that the exchange is completely kanaless, only kanji. The couple are discussing quotidian affairs.  The wife says she wants to make mápó dòufu 麻婆豆腐 (\"Pock-marked Old Lady's […]",
+          "link": "https://languagelog.ldc.upenn.edu/nll/?p=59763&utm_source=rss&utm_medium=rss&utm_campaign=pseudo-chinese-conversation-of-a-japanese-couple",
+          "publishedOn": "2023-07-20T19:58:48.000Z",
+          "wordCount": 2141,
+          "title": "Pseudo-Chinese conversation of a Japanese couple",
+          "imageUrl": null
+        },
         {
           "id": "https://languagelog.ldc.upenn.edu/nll/?p=59788",
           "author": "Victor Mair",
