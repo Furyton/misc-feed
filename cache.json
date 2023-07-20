@@ -1307,6 +1307,16 @@
       "siteUrl": "https://www.deepmind.com",
       "articles": [
         {
+          "id": "https://www.deepmind.com/blog/google-deepmind-research-at-icml-2023",
+          "author": null,
+          "description": "Google DeepMind researchers are presenting more than 80 new papers at the 40th International Conference on Machine Learning (ICML 2023), taking place 23-29 July in Honolulu, Hawai'i.",
+          "link": "https://www.deepmind.com/blog/google-deepmind-research-at-icml-2023",
+          "publishedOn": "2023-07-20T00:00:00.000Z",
+          "wordCount": 1308,
+          "title": "Google DeepMind’s latest research at ICML 2023",
+          "imageUrl": "https://assets-global.website-files.com/621e749a546b7592125f38ed/64b9206886b6ef1228c7ac2f_google-deepmind-Vc0CmuIfMg0-unsplash.webp"
+        },
+        {
           "id": "https://www.deepmind.com/blog/codoc-developing-reliable-ai-tools-for-healthcare",
           "author": null,
           "description": "We’ve published our joint paper with Google Research in Nature Medicine, which proposes CoDoC (Complementarity-driven Deferral-to-Clinical Workflow), an AI system that learns when to rely on predictive AI tools or defer to a clinician for the most accurate interpretation of medical images.",
