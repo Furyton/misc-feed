@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-07-20T10:15:50.183Z</updated>
+    <updated>2023-07-20T11:12:30.277Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -2640,16 +2640,6 @@ While this sounds like common sense, it only applies to our familiar three-dimen
         <summary type="html"><![CDATA[Yuan Cao, Difan Zou, Yuanzhi Li, Quanquan Gu]]></summary>
         <author>
             <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[shallow learning]]></title>
-        <id>http://xianblog.wordpress.com/?p=53337</id>
-        <link href="https://xianblog.wordpress.com/2023/06/21/shallow-learning/"/>
-        <updated>2023-06-20T22:23:19.000Z</updated>
-        <summary type="html"><![CDATA[Visit the post for more.]]></summary>
-        <author>
-            <name>xi'an</name>
         </author>
     </entry>
 </feed>
