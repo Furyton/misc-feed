@@ -6,6 +6,56 @@
       "siteUrl": "https://www.arxivist.com",
       "articles": [
         {
+          "id": "http://arxiv.org/abs/2207.12877",
+          "author": null,
+          "description": "Ali Aouad, Antoine D\\'esir",
+          "link": "http://arxiv.org/abs/2207.12877",
+          "publishedOn": "2023-07-21T07:13:29.949Z",
+          "wordCount": 679,
+          "title": "Representing Random Utility Choice Models with Neural Networks",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2307.10870",
+          "author": null,
+          "description": "Dimitri Meunier, Zhu Li, Arthur Gretton, Samory Kpotufe",
+          "link": "http://arxiv.org/abs/2307.10870",
+          "publishedOn": "2023-07-21T07:13:29.906Z",
+          "wordCount": 669,
+          "title": "Nonlinear Meta-Learning Can Guarantee Faster Rates",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2307.10436",
+          "author": null,
+          "description": "Ved Piyush, Yuchen Yan, Yuzhen Zhou, Yanbin Yin, Souparno Ghosh",
+          "link": "http://arxiv.org/abs/2307.10436",
+          "publishedOn": "2023-07-21T07:13:29.414Z",
+          "wordCount": 697,
+          "title": "A Matrix Ensemble Kalman Filter-based Multi-arm Neural Network to\n  Adequately Approximate Deep Neural Networks",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2307.10459",
+          "author": null,
+          "description": "Andrei V. Konstantinov, Lev V. Utkin",
+          "link": "http://arxiv.org/abs/2307.10459",
+          "publishedOn": "2023-07-21T07:13:28.045Z",
+          "wordCount": 740,
+          "title": "A New Computationally Simple Approach for Implementing Neural Networks\n  with Output Hard Constraints",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2307.06092",
+          "author": null,
+          "description": "Stefano Favaro, Boris Hanin, Domenico Marinucci, Ivan Nourdin,\n  Giovanni Peccati",
+          "link": "http://arxiv.org/abs/2307.06092",
+          "publishedOn": "2023-07-21T07:13:28.010Z",
+          "wordCount": 667,
+          "title": "Quantitative CLTs in Deep Neural Networks",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
           "id": "http://arxiv.org/abs/2307.10053",
           "author": null,
           "description": "Nachuan Xiao, Xiaoyin Hu, Kim-Chuan Toh",

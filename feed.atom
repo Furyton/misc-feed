@@ -2,10 +2,63 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-07-21T06:19:38.536Z</updated>
+    <updated>2023-07-21T07:13:37.253Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Representing Random Utility Choice Models with Neural Networks]]></title>
+        <id>http://arxiv.org/abs/2207.12877</id>
+        <link href="http://arxiv.org/abs/2207.12877"/>
+        <updated>2023-07-21T07:13:29.949Z</updated>
+        <summary type="html"><![CDATA[Ali Aouad, Antoine D\'esir]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nonlinear Meta-Learning Can Guarantee Faster Rates]]></title>
+        <id>http://arxiv.org/abs/2307.10870</id>
+        <link href="http://arxiv.org/abs/2307.10870"/>
+        <updated>2023-07-21T07:13:29.906Z</updated>
+        <summary type="html"><![CDATA[Dimitri Meunier, Zhu Li, Arthur Gretton, Samory Kpotufe]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Matrix Ensemble Kalman Filter-based Multi-arm Neural Network to
+  Adequately Approximate Deep Neural Networks]]></title>
+        <id>http://arxiv.org/abs/2307.10436</id>
+        <link href="http://arxiv.org/abs/2307.10436"/>
+        <updated>2023-07-21T07:13:29.414Z</updated>
+        <summary type="html"><![CDATA[Ved Piyush, Yuchen Yan, Yuzhen Zhou, Yanbin Yin, Souparno Ghosh]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A New Computationally Simple Approach for Implementing Neural Networks
+  with Output Hard Constraints]]></title>
+        <id>http://arxiv.org/abs/2307.10459</id>
+        <link href="http://arxiv.org/abs/2307.10459"/>
+        <updated>2023-07-21T07:13:28.045Z</updated>
+        <summary type="html"><![CDATA[Andrei V. Konstantinov, Lev V. Utkin]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Quantitative CLTs in Deep Neural Networks]]></title>
+        <id>http://arxiv.org/abs/2307.06092</id>
+        <link href="http://arxiv.org/abs/2307.06092"/>
+        <updated>2023-07-21T07:13:28.010Z</updated>
+        <summary type="html"><![CDATA[Stefano Favaro, Boris Hanin, Domenico Marinucci, Ivan Nourdin,
+  Giovanni Peccati]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bayes impact]]></title>
         <id>http://xianblog.wordpress.com/?p=53493</id>
