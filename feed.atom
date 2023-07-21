@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-07-21T11:12:20.811Z</updated>
+    <updated>2023-07-21T12:29:28.175Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -67,6 +67,16 @@
   Giovanni Peccati]]></summary>
         <author>
             <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Using AI to fight climate change]]></title>
+        <id>https://www.deepmind.com/blog/using-ai-to-fight-climate-change</id>
+        <link href="https://www.deepmind.com/blog/using-ai-to-fight-climate-change"/>
+        <updated>2023-07-21T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[AI is a powerful technology that will transform our future, so how can we best apply it to help combat climate change and find sustainable solutions? The effects of climate change on Earth’s ecosystems are incredibly complex, and as part of our effort to use AI for solving some of the world’s most challenging problems, here are some of the ways we’re working to advance our understanding, optimise existing systems, and accelerate breakthrough science of climate and its effects.]]></summary>
+        <author>
+            <name>DeepMind Blog</name>
         </author>
     </entry>
     <entry>
