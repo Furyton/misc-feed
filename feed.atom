@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-07-21T19:11:45.241Z</updated>
+    <updated>2023-07-21T20:15:10.434Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -2614,58 +2614,6 @@ The recent progress in generative AI unlocked the possibility of creating new co
         <summary type="html"><![CDATA[[This is a guest post by Mark Cohen] I am wondering if members of this group have had experience with translating the Chinese serial comma or dùnhào 顿号  [、] ("the caesura sign; a slight-pause mark used to set off items in a series; punctuation mark used between parallel words or short phrases; sign of coordination; […]]]></summary>
         <author>
             <name>Victor Mair</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Open Problem: Learning with Variational Objectives on Measures]]></title>
-        <id>http://arxiv.org/abs/2306.11928</id>
-        <link href="http://arxiv.org/abs/2306.11928"/>
-        <updated>2023-06-22T07:16:05.265Z</updated>
-        <summary type="html"><![CDATA[Vivien Cabannes, Carles Domingo-Enrich]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Any Deep ReLU Network is Shallow]]></title>
-        <id>http://arxiv.org/abs/2306.11827</id>
-        <link href="http://arxiv.org/abs/2306.11827"/>
-        <updated>2023-06-22T07:16:05.251Z</updated>
-        <summary type="html"><![CDATA[Mattia Jacopo Villani, Nandi Schoots]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bayes-optimal Learning of Deep Random Networks of Extensive-width]]></title>
-        <id>http://arxiv.org/abs/2302.00375</id>
-        <link href="http://arxiv.org/abs/2302.00375"/>
-        <updated>2023-06-22T07:16:04.347Z</updated>
-        <summary type="html"><![CDATA[Hugo Cui, Florent Krzakala, Lenka Zdeborov\'a]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Automatic Debiased Machine Learning for Dynamic Treatment Effects and
-  General Nested Functionals]]></title>
-        <id>http://arxiv.org/abs/2203.13887</id>
-        <link href="http://arxiv.org/abs/2203.13887"/>
-        <updated>2023-06-22T07:16:04.342Z</updated>
-        <summary type="html"><![CDATA[Victor Chernozhukov, Whitney Newey, Rahul Singh, Vasilis Syrgkanis]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Optimal rates of approximation by shallow ReLU$^k$ neural networks and
-  applications to nonparametric regression]]></title>
-        <id>http://arxiv.org/abs/2304.01561</id>
-        <link href="http://arxiv.org/abs/2304.01561"/>
-        <updated>2023-06-22T07:16:04.220Z</updated>
-        <summary type="html"><![CDATA[Yunfei Yang, Ding-Xuan Zhou]]></summary>
-        <author>
-            <name>arxivist feed</name>
         </author>
     </entry>
 </feed>
