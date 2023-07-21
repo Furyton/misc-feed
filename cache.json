@@ -1485,16 +1485,6 @@
           "wordCount": 2897,
           "title": "The Path to Achieve Ultra-Low Inference Latency With LLaMA 65B",
           "imageUrl": "https://pytorch.org/assets/images/pytorch-logo.png"
-        },
-        {
-          "id": "https://pytorch.org/blog/optimized-pytorch-w-graviton/",
-          "author": null,
-          "description": "New generations of CPUs offer significant performance improvement in machine learning (ML) inference due to specialized built-in instructions. Combined with their flexibility, high speed of development, and low operating cost, these general-purpose processors offer an alternative ML inference solution to other existing hardware solutions.",
-          "link": "https://pytorch.org/blog/optimized-pytorch-w-graviton/",
-          "publishedOn": "2023-06-22T07:00:00.000Z",
-          "wordCount": 2005,
-          "title": "Optimized PyTorch 2.0 Inference with AWS Graviton processors",
-          "imageUrl": "https://pytorch.org/assets/images/pytorch-logo.png"
         }
       ]
     },
