@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-07-21T08:18:46.124Z</updated>
+    <updated>2023-07-21T09:14:17.462Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -2666,25 +2666,6 @@ The recent progress in generative AI unlocked the possibility of creating new co
         <summary type="html"><![CDATA[A more theoretical Day #2 of the workshop, with Debdeep Pati comparing two representations of Gaussian processes with significantly different efficiencies, and Aad van der Vaart presenting a form of linearisation for a range of inverse problems, Kolyan Ray debiasing Lasso impacts by variational Bayes, although through a somewhat intricate process that distanced the procedure […]]]></summary>
         <author>
             <name>xi'an</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Responsible AI at Google Research: AI for Social Good]]></title>
-        <id>http://ai.googleblog.com/2023/06/responsible-ai-at-google-research-ai.html</id>
-        <link href="http://ai.googleblog.com/2023/06/responsible-ai-at-google-research-ai.html"/>
-        <updated>2023-06-21T20:57:00.002Z</updated>
-        <summary type="html"><![CDATA[Posted by Jimmy Tobin and Katrin Tomanek, Software Engineers, Google Research, AI for Social Good
-
-
-Google’s AI for Social Good team consists of researchers, engineers, volunteers, and others with a shared focus on positive social impact. Our mission is to demonstrate AI’s societal benefit by enabling real-world value, with projects spanning work in public health, accessibility, crisis response, climate and energy, and nature and society. We believe that the best way to drive positive change in underserved communities is by partnering with change-makers and the organizations they serve.
-
-
- 
-
-
-In this blog post we discuss work done by Project Euphonia, a team within AI for Social Good, that aims to improve automatic speech recognition (ASR) for people with disordered speech. For people with…]]></summary>
-        <author>
-            <name>Google AI Blog</name>
         </author>
     </entry>
 </feed>
