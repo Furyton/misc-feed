@@ -1876,16 +1876,6 @@
           "wordCount": 2083,
           "title": "Approximation Methods in Bayesian Analysis [#3]",
           "imageUrl": "https://xianblog.files.wordpress.com/2010/07/img_7249.jpg"
-        },
-        {
-          "id": "http://xianblog.wordpress.com/?p=53342",
-          "author": "xi'an",
-          "description": "A more theoretical Day #2 of the workshop, with Debdeep Pati comparing two representations of Gaussian processes with significantly different efficiencies, and Aad van der Vaart presenting a form of linearisation for a range of inverse problems, Kolyan Ray debiasing Lasso impacts by variational Bayes, although through a somewhat intricate process that distanced the procedure […]",
-          "link": "https://xianblog.wordpress.com/2023/06/22/approximation-methods-in-bayesian-analysis-2/",
-          "publishedOn": "2023-06-21T22:23:33.000Z",
-          "wordCount": 2231,
-          "title": "Approximation Methods in Bayesian Analysis [#2]",
-          "imageUrl": "https://xianblog.files.wordpress.com/2023/06/1687358816764-e1687358982710.jpg"
         }
       ]
     },
@@ -2101,6 +2091,16 @@
       "feedUrl": "https://languagelog.ldc.upenn.edu/nll/?feed=rss2",
       "siteUrl": "https://languagelog.ldc.upenn.edu/nll",
       "articles": [
+        {
+          "id": "https://languagelog.ldc.upenn.edu/nll/?p=59800",
+          "author": "Victor Mair",
+          "description": "It's already happening. Of course, we don't want our students to use AI software to help them write their papers, but the fact of the matter is that some of them, especially among those who have poor English writing skills, are already routinely doing so.  Their attitude seems to be that they will do the […]",
+          "link": "https://languagelog.ldc.upenn.edu/nll/?p=59800&utm_source=rss&utm_medium=rss&utm_campaign=ai-encroachments",
+          "publishedOn": "2023-07-21T10:53:41.000Z",
+          "wordCount": 2955,
+          "title": "AI encroachments",
+          "imageUrl": null
+        },
         {
           "id": "https://languagelog.ldc.upenn.edu/nll/?p=59763",
           "author": "Victor Mair",

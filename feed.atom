@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-07-21T10:15:47.663Z</updated>
+    <updated>2023-07-21T11:12:20.811Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[AI encroachments]]></title>
+        <id>https://languagelog.ldc.upenn.edu/nll/?p=59800</id>
+        <link href="https://languagelog.ldc.upenn.edu/nll/?p=59800&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=ai-encroachments"/>
+        <updated>2023-07-21T10:53:41.000Z</updated>
+        <summary type="html"><![CDATA[It's already happening. Of course, we don't want our students to use AI software to help them write their papers, but the fact of the matter is that some of them, especially among those who have poor English writing skills, are already routinely doing so.  Their attitude seems to be that they will do the […]]]></summary>
+        <author>
+            <name>Victor Mair</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Representing Random Utility Choice Models with Neural Networks]]></title>
         <id>http://arxiv.org/abs/2207.12877</id>
@@ -2656,16 +2666,6 @@ The recent progress in generative AI unlocked the possibility of creating new co
         <summary type="html"><![CDATA[New generations of CPUs offer significant performance improvement in machine learning (ML) inference due to specialized built-in instructions. Combined with their flexibility, high speed of development, and low operating cost, these general-purpose processors offer an alternative ML inference solution to other existing hardware solutions.]]></summary>
         <author>
             <name>PyTorch Website</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Approximation Methods in Bayesian Analysis [#2]]]></title>
-        <id>http://xianblog.wordpress.com/?p=53342</id>
-        <link href="https://xianblog.wordpress.com/2023/06/22/approximation-methods-in-bayesian-analysis-2/"/>
-        <updated>2023-06-21T22:23:33.000Z</updated>
-        <summary type="html"><![CDATA[A more theoretical Day #2 of the workshop, with Debdeep Pati comparing two representations of Gaussian processes with significantly different efficiencies, and Aad van der Vaart presenting a form of linearisation for a range of inverse problems, Kolyan Ray debiasing Lasso impacts by variational Bayes, although through a somewhat intricate process that distanced the procedure […]]]></summary>
-        <author>
-            <name>xi'an</name>
         </author>
     </entry>
 </feed>
