@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-07-21T05:14:01.571Z</updated>
+    <updated>2023-07-21T06:19:38.536Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -2630,27 +2630,6 @@ Google’s AI for Social Good team consists of researchers, engineers, volunteer
 
 
 In this blog post we discuss work done by Project Euphonia, a team within AI for Social Good, that aims to improve automatic speech recognition (ASR) for people with disordered speech. For people with…]]></summary>
-        <author>
-            <name>Google AI Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The world’s first braiding of non-Abelian anyons]]></title>
-        <id>http://ai.googleblog.com/2023/06/the-worlds-first-braiding-of-non.html</id>
-        <link href="http://ai.googleblog.com/2023/06/the-worlds-first-braiding-of-non.html"/>
-        <updated>2023-06-21T17:29:00.000Z</updated>
-        <summary type="html"><![CDATA[Posted by Trond Andersen and Yuri Lensky, Research Scientists, Google Quantum AI Team  
-
-
-
-
-
-
-Imagine you’re shown two identical objects and then asked to close your eyes. When you open your eyes, you see the same two objects in the same position. How can you determine if they have been swapped back and forth? Intuition and the laws of quantum mechanics agree: If the objects are truly identical, there is no way to tell. 
-
-
-
-While this sounds like common sense, it only applies to our familiar three-dimensional world. Researchers have predicted that for a special type of particle, called an anyon, that is restricted to move only in a two-dimensional (2D) plane, quantum mechanics allows for something quite different. Anyons are indistinguishable from one another and some, non-Abelian anyons, …]]></summary>
         <author>
             <name>Google AI Blog</name>
         </author>
