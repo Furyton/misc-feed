@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-07-22T01:19:29.734Z</updated>
+    <updated>2023-07-22T02:31:58.250Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -2624,16 +2624,6 @@ Agent System Overview In a LLM-powered autonomous agent system, LLM functions as
 The recent progress in generative AI unlocked the possibility of creating new content in several different domains, including text, vision and audio. These models often rely on the fact that raw data is first converted to a compressed format as a sequence of tokens. In the case of audio, neural audio codecs (e.g., SoundStream or EnCodec) can efficiently compress waveforms to a compact representation, which can be inverted to reconstruct an approximation of the original audio signal. Such a representation consists of a sequence of discrete audio tokens, capturing the local properties of sounds (e.g., phonemes) and their temporal structure (e.g., prosody). By re…]]></summary>
         <author>
             <name>Google AI Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The legal standing of the serial comma]]></title>
-        <id>https://languagelog.ldc.upenn.edu/nll/?p=59352</id>
-        <link href="https://languagelog.ldc.upenn.edu/nll/?p=59352&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=the-legal-standing-of-the-serial-comma"/>
-        <updated>2023-06-22T13:30:29.000Z</updated>
-        <summary type="html"><![CDATA[[This is a guest post by Mark Cohen] I am wondering if members of this group have had experience with translating the Chinese serial comma or dùnhào 顿号  [、] ("the caesura sign; a slight-pause mark used to set off items in a series; punctuation mark used between parallel words or short phrases; sign of coordination; […]]]></summary>
-        <author>
-            <name>Victor Mair</name>
         </author>
     </entry>
 </feed>
