@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-07-22T10:14:29.165Z</updated>
+    <updated>2023-07-22T11:12:16.633Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Observation of large intrinsic anomalous Hall conductivity in
+  polycrystalline Mn$_3$Sn films]]></title>
+        <id>http://arxiv.org/abs/2307.09808</id>
+        <link href="http://arxiv.org/abs/2307.09808"/>
+        <updated>2023-07-22T11:11:44.973Z</updated>
+        <summary type="html"><![CDATA[W. AfzaL, Z. Yue, Z. Li, M. Fuhrer, X. Wang]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Observations of the Crab Nebula and Pulsar with the Large-Sized
   Telescope Prototype of the Cherenkov Telescope Array]]></title>
@@ -2687,16 +2698,6 @@ Caching is a ubiquitous idea in computer science that significantly improves the
 Agent System Overview In a LLM-powered autonomous agent system, LLM functions as the agent’s brain, complemented by several key components:]]></summary>
         <author>
             <name>Lil'Log</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Approximation Methods in Bayesian Analysis [#3]]]></title>
-        <id>http://xianblog.wordpress.com/?p=53355</id>
-        <link href="https://xianblog.wordpress.com/2023/06/23/approximation-methods-in-bayesian-analysis-3/"/>
-        <updated>2023-06-22T22:23:24.000Z</updated>
-        <summary type="html"><![CDATA[My last day (#4) at the workshop, as I had to return to Paris earlier. A rather theoretical morning again, with Morgane Austern on (probabilistic) concentration inequalities on transport distances, far from my comfort zone if lively, Jason Xu on replacing non-convex penalisation factors to distances to the corresponding manifold, which I found most interesting […]]]></summary>
-        <author>
-            <name>xi'an</name>
         </author>
     </entry>
 </feed>
