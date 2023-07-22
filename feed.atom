@@ -2,10 +2,64 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-07-22T06:18:06.412Z</updated>
+    <updated>2023-07-22T07:12:44.775Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Individualization of atrial tachycardia models for clinical
+  applications: Performance of fiber-independent model]]></title>
+        <id>http://arxiv.org/abs/2307.10592</id>
+        <link href="http://arxiv.org/abs/2307.10592"/>
+        <updated>2023-07-22T07:12:36.876Z</updated>
+        <summary type="html"><![CDATA[Jiyue He, Arkady Pertsov, John Bullinga, Rahul Mangharam]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Magneto-transport and electronic structures in MoSi$_2$ bulks and thin
+  films with different orientations]]></title>
+        <id>http://arxiv.org/abs/2307.09802</id>
+        <link href="http://arxiv.org/abs/2307.09802"/>
+        <updated>2023-07-22T07:12:36.871Z</updated>
+        <summary type="html"><![CDATA[W. Afzal, F. Yun, Z. Li, Z. Yue, W. Zhao, L. Sang, G. Yang, Y. He, G.
+  Peleckis, M. Fuhrer, X. Wang]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[An Analysis of Bugs In Persistent Memory Application]]></title>
+        <id>http://arxiv.org/abs/2307.10493</id>
+        <link href="http://arxiv.org/abs/2307.10493"/>
+        <updated>2023-07-22T07:12:36.866Z</updated>
+        <summary type="html"><![CDATA[Jahid Hasan]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GLSFormer: Gated - Long, Short Sequence Transformer for Step Recognition
+  in Surgical Videos]]></title>
+        <id>http://arxiv.org/abs/2307.11081</id>
+        <link href="http://arxiv.org/abs/2307.11081"/>
+        <updated>2023-07-22T07:12:36.833Z</updated>
+        <summary type="html"><![CDATA[Nisarg A. Shah, Shameema Sikder, S. Swaroop Vedula, Vishal M. Patel]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amortized Variational Inference: When and Why?]]></title>
+        <id>http://arxiv.org/abs/2307.11018</id>
+        <link href="http://arxiv.org/abs/2307.11018"/>
+        <updated>2023-07-22T07:12:36.828Z</updated>
+        <summary type="html"><![CDATA[Charles C. Margossian, David M. Blei]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Kushan inscriptions from Western and Southern Central Asia (WCA, SCA)]]></title>
         <id>https://languagelog.ldc.upenn.edu/nll/?p=59803</id>
@@ -2606,24 +2660,6 @@ Agent System Overview In a LLM-powered autonomous agent system, LLM functions as
         <summary type="html"><![CDATA[My last day (#4) at the workshop, as I had to return to Paris earlier. A rather theoretical morning again, with Morgane Austern on (probabilistic) concentration inequalities on transport distances, far from my comfort zone if lively, Jason Xu on replacing non-convex penalisation factors to distances to the corresponding manifold, which I found most interesting […]]]></summary>
         <author>
             <name>xi'an</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SoundStorm: Efficient parallel audio generation]]></title>
-        <id>http://ai.googleblog.com/2023/06/soundstorm-efficient-parallel-audio.html</id>
-        <link href="http://ai.googleblog.com/2023/06/soundstorm-efficient-parallel-audio.html"/>
-        <updated>2023-06-22T18:33:00.000Z</updated>
-        <summary type="html"><![CDATA[Posted by Zalán Borsos, Research Software Engineer, and Marco Tagliasacchi, Senior Staff Research Scientist, Google Research
-
-
-
-
-
-
-
-The recent progress in generative AI unlocked the possibility of creating new content in several different domains, including text, vision and audio. These models often rely on the fact that raw data is first converted to a compressed format as a sequence of tokens. In the case of audio, neural audio codecs (e.g., SoundStream or EnCodec) can efficiently compress waveforms to a compact representation, which can be inverted to reconstruct an approximation of the original audio signal. Such a representation consists of a sequence of discrete audio tokens, capturing the local properties of sounds (e.g., phonemes) and their temporal structure (e.g., prosody). By re…]]></summary>
-        <author>
-            <name>Google AI Blog</name>
         </author>
     </entry>
 </feed>
