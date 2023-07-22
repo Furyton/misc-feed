@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-07-22T11:12:16.633Z</updated>
+    <updated>2023-07-22T12:27:23.091Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -2687,17 +2687,6 @@ Caching is a ubiquitous idea in computer science that significantly improves the
         <summary type="html"><![CDATA[Ilias Diakonikolas, Daniel M. Kane, Thanasis Pittas, Nikos Zarifis]]></summary>
         <author>
             <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LLM Powered Autonomous Agents]]></title>
-        <id>https://lilianweng.github.io/posts/2023-06-23-agent/</id>
-        <link href="https://lilianweng.github.io/posts/2023-06-23-agent/"/>
-        <updated>2023-06-23T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Building agents with LLM (large language model) as its core controller is a cool concept. Several proof-of-concepts demos, such as AutoGPT, GPT-Engineer and BabAGI, serve as inspiring examples. The potentiality of LLM extends beyond generating well-written copies, stories, essays and programs; it can be framed as a powerful general problem solver.
-Agent System Overview In a LLM-powered autonomous agent system, LLM functions as the agent’s brain, complemented by several key components:]]></summary>
-        <author>
-            <name>Lil'Log</name>
         </author>
     </entry>
 </feed>
