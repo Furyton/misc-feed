@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-07-23T07:13:07.031Z</updated>
+    <updated>2023-07-23T08:17:39.142Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -2617,22 +2617,6 @@ Read more...]]></summary>
         <summary type="html"><![CDATA[The most recent xkcd: Mouseover title: "Arboretum Owner Denied Standing in Garden Path Suit on Grounds Grounds Appealing Appealing" What the Berkeley Neural Parser thinks: (S (PP (IN After) (NP (NN bird) (VBZ strikes))) (NP (NP (NN judge)) (SBAR (WHNP (WP who)) (S (VP (VBD ordered) (NP (NNP olive) (NNP garden) (NNP path) (NN sentence)) […]]]></summary>
         <author>
             <name>Mark Liberman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Preference learning with automated feedback for cache eviction]]></title>
-        <id>http://ai.googleblog.com/2023/06/preference-learning-with-automated.html</id>
-        <link href="http://ai.googleblog.com/2023/06/preference-learning-with-automated.html"/>
-        <updated>2023-06-23T19:24:00.001Z</updated>
-        <summary type="html"><![CDATA[Posted by Ramki Gummadi, Software Engineer, Google and Kevin Chen, Software Engineer, YouTube
-
-
-
-
-
-Caching is a ubiquitous idea in computer science that significantly improves the performance of storage and retrieval systems by storing a subset of popular items closer to the client based on request patterns. An important algorithmic piece of cache management is the decision policy used for dynamically updating the set of items being stored, which has been extensively optimized over several decades, resulting in several efficient and robust heuristics. While applying machine learning to cache policies has shown promising results in recent years (e.g., LRB, LHD, storage applications), it remains a challenge to outperform robust heuristics in a way that can generalize reliably beyond benchmar…]]></summary>
-        <author>
-            <name>Google AI Blog</name>
         </author>
     </entry>
 </feed>
