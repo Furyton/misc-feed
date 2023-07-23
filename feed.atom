@@ -2,10 +2,39 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-07-23T22:13:15.810Z</updated>
+    <updated>2023-07-23T23:14:48.775Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Sài Gòn snapshot #3 [jatp]]]></title>
+        <id>http://xianblog.wordpress.com/?p=53556</id>
+        <link href="https://xianblog.wordpress.com/2023/07/24/sai-gon-snapshot-3-jatp/"/>
+        <updated>2023-07-23T22:23:29.000Z</updated>
+        <summary type="html"><![CDATA[Visit the post for more.]]></summary>
+        <author>
+            <name>xi'an</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google at ICML 2023]]></title>
+        <id>http://ai.googleblog.com/2023/07/google-at-icml-2023.html</id>
+        <link href="http://ai.googleblog.com/2023/07/google-at-icml-2023.html"/>
+        <updated>2023-07-23T21:13:00.000Z</updated>
+        <summary type="html"><![CDATA[Posted by Cat Armato, Program Manager, Google
+
+
+
+
+Groups across Google actively pursue research in the field of machine learning (ML), ranging from theory and application. We build ML systems to solve deep scientific and engineering challenges in areas of language, music, visual processing, algorithm development, and more. We aim to build a more collaborative ecosystem with the broader ML research community through open-sourcing tools and datasets, publishing our work, and actively participating in conferences.
+
+
+
+Google is proud to be a Diamond Sponsor of the 40th International Conference on Machine Learning (ICML 2023), a premier annual conference, which is being held this week in Honolulu, Hawaii. As a leader in ML research, Google has a strong presence at this year’s conference with ov…]]></summary>
+        <author>
+            <name>Google AI Blog</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Sài Gòn snapshot #2 [jatp]]]></title>
         <id>http://xianblog.wordpress.com/?p=53531</id>
