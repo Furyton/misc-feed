@@ -1140,16 +1140,6 @@
           "wordCount": 1504,
           "title": "生成扩散模型漫谈（二十）：从ReFlow到WGAN-GP",
           "imageUrl": null
-        },
-        {
-          "id": "https://kexue.fm/archives/9662",
-          "author": "苏剑林",
-          "description": "在文章《生成扩散模型漫谈（十六）：W距离 ≤ 得分匹配》中，我们推导了Wasserstein距离与扩散模型得分匹配损失之间的一个不等式，表明扩散模型的优化目标与WGAN的优化目标在某种程度上具有...",
-          "link": "https://kexue.fm/archives/9662",
-          "publishedOn": "2023-06-24T01:38:00.000Z",
-          "wordCount": 1603,
-          "title": "生成扩散模型漫谈（十九）：作为扩散ODE的GAN",
-          "imageUrl": null
         }
       ]
     },
