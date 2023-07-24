@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-07-24T07:14:35.799Z</updated>
+    <updated>2023-07-24T08:19:41.974Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[RPA界面元素定位与操控技术详解-达观数据]]></title>
+        <id>https://www.52nlp.cn/?p=13498</id>
+        <link href="https://www.52nlp.cn/rpa%e7%95%8c%e9%9d%a2%e5%85%83%e7%b4%a0%e5%ae%9a%e4%bd%8d%e4%b8%8e%e6%93%8d%e6%8e%a7%e6%8a%80%e6%9c%af%e8%af%a6%e8%a7%a3-%e8%be%be%e8%a7%82%e6%95%b0%e6%8d%ae"/>
+        <updated>2023-07-24T08:15:46.000Z</updated>
+        <summary type="html"><![CDATA[RPA 入门介绍 什么是 RPA？RPA 是机器人流程自动化 Robotic Process Automati […]]]></summary>
+        <author>
+            <name>达观数据</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Simplifying Momentum-based Positive-definite Submanifold Optimization
   with Applications to Deep Learning]]></title>
