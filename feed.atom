@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-07-25T22:13:15.042Z</updated>
+    <updated>2023-07-25T23:12:28.116Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ellis unconference [not in Hawai’i]]]></title>
+        <id>http://xianblog.wordpress.com/?p=53585</id>
+        <link href="https://xianblog.wordpress.com/2023/07/26/ellis-unconference-not-in-hawaii/"/>
+        <updated>2023-07-25T22:23:24.000Z</updated>
+        <summary type="html"><![CDATA[As ICML 2023 is happening this week, in Hawai’i, many did not have the opportunity to get there, for whatever reason, and hence the ellis (European Lab for Learning {and} Intelligent Systems] board launched [fairly late!] with the help of Hi! Paris an unconference (i.e., a mirror) that is taking place in HEC, Jouy-en-Josas, SW […]]]></summary>
+        <author>
+            <name>xi'an</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Oil separator / cooker]]></title>
         <id>https://languagelog.ldc.upenn.edu/nll/?p=59817</id>
@@ -2605,16 +2615,6 @@ Read more...]]></summary>
         <summary type="html"><![CDATA[Visit the post for more.]]></summary>
         <author>
             <name>xi'an</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI for Akkadian]]></title>
-        <id>https://languagelog.ldc.upenn.edu/nll/?p=59411</id>
-        <link href="https://languagelog.ldc.upenn.edu/nll/?p=59411&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=ai-for-akkadian"/>
-        <updated>2023-06-26T11:12:00.000Z</updated>
-        <summary type="html"><![CDATA[Article by Melanie Lidman in The Times of Israel (6/17/23): Groundbreaking AI project translates 5,000-year-old cuneiform at push of a button ‘Google Translate’-like program for Akkadian cuneiform will enable tens of thousands of digitized but unread tablets to be translated to English. Accuracy is debatable. Opening and key paragraphs: Cuneiform is the oldest known form […]]]></summary>
-        <author>
-            <name>Victor Mair</name>
         </author>
     </entry>
 </feed>

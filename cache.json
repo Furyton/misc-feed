@@ -1547,6 +1547,16 @@
       "siteUrl": "https://xianblog.wordpress.com",
       "articles": [
         {
+          "id": "http://xianblog.wordpress.com/?p=53585",
+          "author": "xi'an",
+          "description": "As ICML 2023 is happening this week, in Hawai’i, many did not have the opportunity to get there, for whatever reason, and hence the ellis (European Lab for Learning {and} Intelligent Systems] board launched [fairly late!] with the help of Hi! Paris an unconference (i.e., a mirror) that is taking place in HEC, Jouy-en-Josas, SW […]",
+          "link": "https://xianblog.wordpress.com/2023/07/26/ellis-unconference-not-in-hawaii/",
+          "publishedOn": "2023-07-25T22:23:24.000Z",
+          "wordCount": 2379,
+          "title": "ellis unconference [not in Hawai’i]",
+          "imageUrl": "https://xianblog.files.wordpress.com/2023/07/1690300278740-e1690300379581.jpg"
+        },
+        {
           "id": "http://xianblog.wordpress.com/?p=53521",
           "author": "xi'an",
           "description": "“We introduce the Fixed Landscape Inference MethOd, a new likelihood-free inference method for continuous state-space stochastic models. It applies deterministic gradient-based optimization algorithms to obtain a point estimate of the parameters, minimizing the difference between the data and some simulations according to some prescribed summary statistics. In this sense, it is analogous to Approximate Bayesian […]",
@@ -2608,16 +2618,6 @@
           "publishedOn": "2023-06-27T00:11:13.000Z",
           "wordCount": 2512,
           "title": "The scatology and physiology of push and pull",
-          "imageUrl": null
-        },
-        {
-          "id": "https://languagelog.ldc.upenn.edu/nll/?p=59411",
-          "author": "Victor Mair",
-          "description": "Article by Melanie Lidman in The Times of Israel (6/17/23): Groundbreaking AI project translates 5,000-year-old cuneiform at push of a button ‘Google Translate’-like program for Akkadian cuneiform will enable tens of thousands of digitized but unread tablets to be translated to English. Accuracy is debatable. Opening and key paragraphs: Cuneiform is the oldest known form […]",
-          "link": "https://languagelog.ldc.upenn.edu/nll/?p=59411&utm_source=rss&utm_medium=rss&utm_campaign=ai-for-akkadian",
-          "publishedOn": "2023-06-26T11:12:00.000Z",
-          "wordCount": 2909,
-          "title": "AI for Akkadian",
           "imageUrl": null
         }
       ]
