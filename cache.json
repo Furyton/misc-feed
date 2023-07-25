@@ -6,6 +6,56 @@
       "siteUrl": "https://www.arxivist.com",
       "articles": [
         {
+          "id": "http://arxiv.org/abs/2110.08693",
+          "author": null,
+          "description": "Guan Wang, Hamid Laga, Anuj Srivastava",
+          "link": "http://arxiv.org/abs/2110.08693",
+          "publishedOn": "2023-07-25T07:14:19.942Z",
+          "wordCount": 828,
+          "title": "Elastic Representation and Generative Shape Models for Tree-like 3D\n  Objects",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2207.03522",
+          "author": null,
+          "description": "Oleksandr Ferludin, Arno Eigenwillig, Martin Blais, Dustin Zelle, Jan\n  Pfeifer, Alvaro Sanchez-Gonzalez, Wai Lok Sibon Li, Sami Abu-El-Haija, Peter\n  Battaglia, Neslihan Bulut, Jonathan Halcrow, Filipe Miguel Gon\\c{c}alves de\n  Almeida, Pedro Gonnet, Liangze Jiang, Parth Kothari, Silvio Lattanzi, Andr\\'e\n  Linhares, Brandon Mayer, Vahab Mirrokni, John Palowitch, Mihir Paradkar,\n  Jennifer She, Anton Tsitsulin, Kevin Villela, Lisa Wang, David Wong, Bryan\n  Perozzi",
+          "link": "http://arxiv.org/abs/2207.03522",
+          "publishedOn": "2023-07-25T07:14:19.918Z",
+          "wordCount": 688,
+          "title": "TF-GNN: Graph Neural Networks in TensorFlow",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2210.17230",
+          "author": null,
+          "description": "Hyemin Gu, Panagiota Birmpa, Yannis Pantazis, Luc Rey-Bellet, Markos\n  A. Katsoulakis",
+          "link": "http://arxiv.org/abs/2210.17230",
+          "publishedOn": "2023-07-25T07:14:19.493Z",
+          "wordCount": 646,
+          "title": "Lipschitz-regularized gradient flows and generative particle algorithms\n  for high-dimensional scarce data",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2205.09801",
+          "author": null,
+          "description": "Charilaos I. Kanatsoulis, Alejandro Ribeiro",
+          "link": "http://arxiv.org/abs/2205.09801",
+          "publishedOn": "2023-07-25T07:14:18.767Z",
+          "wordCount": 709,
+          "title": "Representation Power of Graph Neural Networks: Improved Expressivity via\n  Algebraic Analysis",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2209.14430",
+          "author": null,
+          "description": "Jikai Jin, Yiping Lu, Jose Blanchet, Lexing Ying",
+          "link": "http://arxiv.org/abs/2209.14430",
+          "publishedOn": "2023-07-25T07:14:18.696Z",
+          "wordCount": 693,
+          "title": "Minimax Optimal Kernel Operator Learning via Multilevel Training",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
           "id": "http://arxiv.org/abs/2302.09738",
           "author": null,
           "description": "Wu Lin, Valentin Duruisseaux, Melvin Leok, Frank Nielsen, Mohammad\n  Emtiyaz Khan, Mark Schmidt",
