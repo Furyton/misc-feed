@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-07-25T11:12:37.927Z</updated>
+    <updated>2023-07-25T12:31:37.899Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Rebranding]]></title>
+        <id>https://languagelog.ldc.upenn.edu/nll/?p=59827</id>
+        <link href="https://languagelog.ldc.upenn.edu/nll/?p=59827&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rebranding"/>
+        <updated>2023-07-25T11:20:03.000Z</updated>
+        <summary type="html"><![CDATA[Joshua Benton, "If other media companies thought about brand equity the way Elon Musk thinks about Twitter’s (er, X’s)", Nieman Labs 7/24/2023: In the spirit of Tronc, Elon Musk has decided to throw away more than a decade of brand equity by changing the name of Twitter to…the letter X. Imagine if more media executives […]]]></summary>
+        <author>
+            <name>Mark Liberman</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Elastic Representation and Generative Shape Models for Tree-like 3D
   Objects]]></title>
@@ -2640,16 +2650,6 @@ Read more...]]></summary>
         <summary type="html"><![CDATA[Elies Gil-Fuster, Jens Eisert, Carlos Bravo-Prieto]]></summary>
         <author>
             <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BobWords on eggcorn]]></title>
-        <id>https://languagelog.ldc.upenn.edu/nll/?p=59418</id>
-        <link href="https://languagelog.ldc.upenn.edu/nll/?p=59418&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=bobwords-on-eggcorn"/>
-        <updated>2023-06-25T23:38:50.000Z</updated>
-        <summary type="html"><![CDATA[RobWords for June 24, 2023: The word eggcorn was originally proposed in "Egg corns: folk etymology, malapropism, mondegreen, ???", 9/23/2003, and most recently discussed in "Ancient Eggcorns", 6/17/2023.]]></summary>
-        <author>
-            <name>Mark Liberman</name>
         </author>
     </entry>
 </feed>
