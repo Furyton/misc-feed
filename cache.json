@@ -1251,16 +1251,6 @@
           "wordCount": 2009,
           "title": "The easiest way to speed up Python with Rust",
           "imageUrl": "https://pythonspeed.com/assets/titles/easiest-rust-python.png"
-        },
-        {
-          "id": "https://pythonspeed.com/articles/numpy-is-slow/",
-          "author": null,
-          "description": "If you’re doing numeric calculations, NumPy is a lot faster than than plain Python—but sometimes that’s not enough.\nWhat should you do when your NumPy-based code is too slow?\nYour first thought might be parallelism, but that should probably be the last thing you consider.\nThere are many speedups you can do before parallelism becomes helpful, from algorithmic improvements to working around NumPy’s architectural limitations.\nLet’s see why NumPy can be slow, and then some solutions to help speed up your code even more.\nRead more...",
-          "link": "https://pythonspeed.com/articles/numpy-is-slow/",
-          "publishedOn": "2023-06-27T00:00:00.000Z",
-          "wordCount": 1853,
-          "title": "When NumPy is too slow",
-          "imageUrl": "https://pythonspeed.com/assets/titles/numpy-is-slow.png"
         }
       ]
     },
@@ -2668,16 +2658,6 @@
           "publishedOn": "2023-06-28T10:10:37.000Z",
           "wordCount": 2952,
           "title": "Tasting History",
-          "imageUrl": null
-        },
-        {
-          "id": "https://languagelog.ldc.upenn.edu/nll/?p=59422",
-          "author": "Victor Mair",
-          "description": "Having just written about \"Drainage issues\" (6/25/23), with a graphic depiction of what causes the problem with the drainage system in question, I am emboldened finally to answer a question that one of my graduate students has been asking about for several years.  Namely, why do Chinese say \"pull poo / shit / excrement\" (lāshǐ […]",
-          "link": "https://languagelog.ldc.upenn.edu/nll/?p=59422&utm_source=rss&utm_medium=rss&utm_campaign=the-scatology-and-physiology-of-push-and-pull",
-          "publishedOn": "2023-06-27T00:11:13.000Z",
-          "wordCount": 2512,
-          "title": "The scatology and physiology of push and pull",
           "imageUrl": null
         }
       ]

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-07-26T11:11:52.807Z</updated>
+    <updated>2023-07-26T12:29:34.271Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -2654,31 +2654,6 @@ Pre-training visual language (VL) models on web-scale image-caption datasets has
         <summary type="html"><![CDATA[Navjot Singh, Suhas Diggavi]]></summary>
         <author>
             <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The scatology and physiology of push and pull]]></title>
-        <id>https://languagelog.ldc.upenn.edu/nll/?p=59422</id>
-        <link href="https://languagelog.ldc.upenn.edu/nll/?p=59422&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=the-scatology-and-physiology-of-push-and-pull"/>
-        <updated>2023-06-27T00:11:13.000Z</updated>
-        <summary type="html"><![CDATA[Having just written about "Drainage issues" (6/25/23), with a graphic depiction of what causes the problem with the drainage system in question, I am emboldened finally to answer a question that one of my graduate students has been asking about for several years.  Namely, why do Chinese say "pull poo / shit / excrement" (lāshǐ […]]]></summary>
-        <author>
-            <name>Victor Mair</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[When NumPy is too slow]]></title>
-        <id>https://pythonspeed.com/articles/numpy-is-slow/</id>
-        <link href="https://pythonspeed.com/articles/numpy-is-slow/"/>
-        <updated>2023-06-27T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[If you’re doing numeric calculations, NumPy is a lot faster than than plain Python—but sometimes that’s not enough.
-What should you do when your NumPy-based code is too slow?
-Your first thought might be parallelism, but that should probably be the last thing you consider.
-There are many speedups you can do before parallelism becomes helpful, from algorithmic improvements to working around NumPy’s architectural limitations.
-Let’s see why NumPy can be slow, and then some solutions to help speed up your code even more.
-Read more...]]></summary>
-        <author>
-            <name>Python⇒Speed</name>
         </author>
     </entry>
 </feed>
