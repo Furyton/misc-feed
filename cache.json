@@ -6,6 +6,56 @@
       "siteUrl": "https://www.arxivist.com",
       "articles": [
         {
+          "id": "http://arxiv.org/abs/2302.03693",
+          "author": null,
+          "description": "Zihao Wang, Lin Gui, Jeffrey Negrea, Victor Veitch",
+          "link": "http://arxiv.org/abs/2302.03693",
+          "publishedOn": "2023-07-26T07:13:11.622Z",
+          "wordCount": 622,
+          "title": "Concept Algebra for Score-Based Conditional Models",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2303.06296",
+          "author": null,
+          "description": "Shuangfei Zhai, Tatiana Likhomanenko, Etai Littwin, Dan Busbridge,\n  Jason Ramapuram, Yizhe Zhang, Jiatao Gu, Josh Susskind",
+          "link": "http://arxiv.org/abs/2303.06296",
+          "publishedOn": "2023-07-26T07:13:10.167Z",
+          "wordCount": 810,
+          "title": "Stabilizing Transformer Training by Preventing Attention Entropy\n  Collapse",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2305.19557",
+          "author": null,
+          "description": "Subhroshekhar Ghosh, Aaron Y. R. Low, Yong Sheng Soh, Zhuohang Feng,\n , Brendan K. Y. Tan",
+          "link": "http://arxiv.org/abs/2305.19557",
+          "publishedOn": "2023-07-26T07:13:10.161Z",
+          "wordCount": 799,
+          "title": "Dictionary Learning under Symmetries via Group Representations",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2302.08580",
+          "author": null,
+          "description": "Ruichen Jiang, Qiujiang Jin, Aryan Mokhtari",
+          "link": "http://arxiv.org/abs/2302.08580",
+          "publishedOn": "2023-07-26T07:13:10.155Z",
+          "wordCount": 726,
+          "title": "Online Learning Guided Curvature Approximation: A Quasi-Newton Method\n  with Global Non-Asymptotic Superlinear Convergence",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2306.15865",
+          "author": null,
+          "description": "Marios Papachristou, M. Amin Rahimian",
+          "link": "http://arxiv.org/abs/2306.15865",
+          "publishedOn": "2023-07-26T07:13:10.140Z",
+          "wordCount": 794,
+          "title": "Differentially Private Distributed Estimation and Learning",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
           "id": "http://arxiv.org/abs/2110.08693",
           "author": null,
           "description": "Guan Wang, Hamid Laga, Anuj Srivastava",
