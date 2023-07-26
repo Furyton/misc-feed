@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-07-26T19:11:55.783Z</updated>
+    <updated>2023-07-26T20:14:07.072Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Radial dendrograms]]></title>
+        <id>https://languagelog.ldc.upenn.edu/nll/?p=59863</id>
+        <link href="https://languagelog.ldc.upenn.edu/nll/?p=59863&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=radial-dendrograms"/>
+        <updated>2023-07-26T19:53:52.000Z</updated>
+        <summary type="html"><![CDATA[From Sarah Gao and Andrew Gao, "On the Origin of LLMs: An Evolutionary Tree and Graph for 15,821 Large Language Models", arxiv.org 7/19/2023: That's not a vinyl — it's a "radial dendrogram" — showing the evolutionary tree of nearly 6,000 Large Language Models posted at Hugging Face. Zeroing in on one quadrant, so you can […]]]></summary>
+        <author>
+            <name>Mark Liberman</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[In search of a generalizable method for source-free domain adaptation]]></title>
         <id>http://ai.googleblog.com/2023/07/in-search-of-generalizable-method-for.html</id>
@@ -2641,52 +2651,6 @@ Figure 1: CoarsenConf architecture.
 Pre-training visual language (VL) models on web-scale image-caption datasets has recently emerged as a powerful alternative to traditional pre-training on image classification data. Image-caption datasets are considered to be more “open-domain” because they contain broader scene types and vocabulary words, which result in models with strong performance in few- and zero-shot recognition tasks. However, images with fine-grained class descriptions can be rare, and the class distribution can be imbalanced since image-caption datasets do not go through manual curation. By contrast, large-scale classification datasets, such as ImageNet, are often curated and can thus provide fine-…]]></summary>
         <author>
             <name>Google AI Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Near Optimal Heteroscedastic Regression with Symbiotic Learning]]></title>
-        <id>http://arxiv.org/abs/2306.14288</id>
-        <link href="http://arxiv.org/abs/2306.14288"/>
-        <updated>2023-06-27T07:15:43.389Z</updated>
-        <summary type="html"><![CDATA[Dheeraj Baby, Aniket Das, Dheeraj Nagaraj, Praneeth
-  Netrapalli]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Towards Trustworthy Explanation: On Causal Rationalization]]></title>
-        <id>http://arxiv.org/abs/2306.14115</id>
-        <link href="http://arxiv.org/abs/2306.14115"/>
-        <updated>2023-06-27T07:15:43.383Z</updated>
-        <summary type="html"><![CDATA[Wenbo Zhang, Tong Wu, Yunlong Wang, Yong Cai, Hengrui Cai]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Representation Ensembling for Synergistic Lifelong Learning with
-  Quasilinear Complexity]]></title>
-        <id>http://arxiv.org/abs/2004.12908</id>
-        <link href="http://arxiv.org/abs/2004.12908"/>
-        <updated>2023-06-27T07:15:43.377Z</updated>
-        <summary type="html"><![CDATA[Joshua T. Vogelstein, Jayanta Dey, Hayden S. Helm, Will LeVine, Ronak
-  D. Mehta, Tyler M. Tomita, Haoyin Xu, Ali Geisa, Qingyang Wang, Gido M. van
-  de Ven, Chenyu Gao, Weiwei Yang, Bryan Tower, Jonathan Larson, Christopher M.
-  White, Carey E. Priebe]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Representation Transfer Learning via Multiple Pre-trained models for
-  Linear Regression]]></title>
-        <id>http://arxiv.org/abs/2305.16440</id>
-        <link href="http://arxiv.org/abs/2305.16440"/>
-        <updated>2023-06-27T07:15:43.371Z</updated>
-        <summary type="html"><![CDATA[Navjot Singh, Suhas Diggavi]]></summary>
-        <author>
-            <name>arxivist feed</name>
         </author>
     </entry>
 </feed>
