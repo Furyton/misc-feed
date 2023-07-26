@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-07-26T01:20:45.490Z</updated>
+    <updated>2023-07-26T02:35:59.648Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Watermarking text?]]></title>
+        <id>https://languagelog.ldc.upenn.edu/nll/?p=59848</id>
+        <link href="https://languagelog.ldc.upenn.edu/nll/?p=59848&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=watermarking-text"/>
+        <updated>2023-07-26T01:33:01.000Z</updated>
+        <summary type="html"><![CDATA[Ashley Belanger, "OpenAI, Google will watermark AI-generated content to hinder deepfakes, misinfo", ars technica 7/21/2023: Seven companies — including OpenAI, Microsoft, Google, Meta, Amazon, Anthropic, and Inflection —- have committed to developing tech to clearly watermark AI-generated content. That will help make it safer to share AI-generated text, video, audio, and images without misleading others […]]]></summary>
+        <author>
+            <name>Mark Liberman</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ellis unconference [not in Hawai’i]]]></title>
         <id>http://xianblog.wordpress.com/?p=53585</id>
