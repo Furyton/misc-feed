@@ -2,10 +2,33 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-07-26T16:18:57.834Z</updated>
+    <updated>2023-07-26T17:12:52.254Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[In search of a generalizable method for source-free domain adaptation]]></title>
+        <id>http://ai.googleblog.com/2023/07/in-search-of-generalizable-method-for.html</id>
+        <link href="http://ai.googleblog.com/2023/07/in-search-of-generalizable-method-for.html"/>
+        <updated>2023-07-26T16:33:00.002Z</updated>
+        <summary type="html"><![CDATA[Posted by Eleni Triantafillou, Research Scientist, and Malik Boudiaf, Student Researcher, Google 
+
+
+
+
+
+
+
+
+
+Deep learning has recently made tremendous progress in a wide range of problems and applications, but models often fail unpredictably when deployed in unseen domains or distributions. Source-free domain adaptation (SFDA) is an area of research that aims to design methods for adapting a pre-trained model (trained on a “source domain”) to a new “target domain”, using only unlabeled data from the latter. 
+ 
+
+Designing adaptation methods for deep models is an important area of research. While the increasing scale of models and training datasets has been a key ingredient to their success, a negative consequence of this trend is that training such models is increasingly computationally expe…]]></summary>
+        <author>
+            <name>Google AI Blog</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The many meanings and faces of "vernacular"]]></title>
         <id>https://languagelog.ldc.upenn.edu/nll/?p=59823</id>
