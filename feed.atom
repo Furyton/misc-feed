@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-07-27T09:14:11.421Z</updated>
+    <updated>2023-07-27T10:15:08.699Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Buddhist ideas on Sanskrit-Chinese translation]]></title>
+        <id>https://languagelog.ldc.upenn.edu/nll/?p=59820</id>
+        <link href="https://languagelog.ldc.upenn.edu/nll/?p=59820&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=buddhist-ideas-on-sanskrit-chinese-translation"/>
+        <updated>2023-07-27T10:03:14.000Z</updated>
+        <summary type="html"><![CDATA[[This is a guest post by Max Deeg.  Although the following text has profound implications for anyone who is seriously interested in the actualities of translation between two very different kinds of languages from antiquity, it is fundamentally a task for specialists to render this type of Middle Buddhist Hybrid Sinitic into English.  This is […]]]></summary>
+        <author>
+            <name>Victor Mair</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Robustness Verification of Deep Neural Networks using Star-Based
   Reachability Analysis with Variable-Length Time Series Input]]></title>
@@ -2702,21 +2712,6 @@ Figure 1: CoarsenConf architecture.
         <summary type="html"><![CDATA[When I entered the classroom on the Jussieu campus where the Monday morning session on PDMP was taking place, some friends told me a badge was waiting for me at the registration desk of MCM 2023! Most surprisingly since I had received a deregistration message a few weeks earlier. Great PDMP session with non-reversible tempering […]]]></summary>
         <author>
             <name>xi'an</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Unifying image-caption and image-classification datasets with prefix conditioning]]></title>
-        <id>http://ai.googleblog.com/2023/06/unifying-image-caption-and-image.html</id>
-        <link href="http://ai.googleblog.com/2023/06/unifying-image-caption-and-image.html"/>
-        <updated>2023-06-27T21:19:00.000Z</updated>
-        <summary type="html"><![CDATA[Posted by Kuniaki Saito, Student Researcher, Cloud AI Team, and Kihyuk Sohn, Research Scientist, Perception Team
-
-
-
-
-Pre-training visual language (VL) models on web-scale image-caption datasets has recently emerged as a powerful alternative to traditional pre-training on image classification data. Image-caption datasets are considered to be more “open-domain” because they contain broader scene types and vocabulary words, which result in models with strong performance in few- and zero-shot recognition tasks. However, images with fine-grained class descriptions can be rare, and the class distribution can be imbalanced since image-caption datasets do not go through manual curation. By contrast, large-scale classification datasets, such as ImageNet, are often curated and can thus provide fine-…]]></summary>
-        <author>
-            <name>Google AI Blog</name>
         </author>
     </entry>
 </feed>

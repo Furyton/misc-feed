@@ -2065,16 +2065,6 @@
           "wordCount": 27583,
           "title": "On-device diffusion plugins for conditioned text-to-image generation",
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhWYz8RL4gwfO_N5cGmW4m-wglXWgC2UxgAJg70bS6arMkhdFdN-sWs66tOCm4tuw7w7Kuow4pHnLksYqRUz_rH2LplGJ7Wk5rm7wztNEoSsTiPIZKYPhZsnEe2OxNvOBDWYd889WJqAQ59-pnPayHiStWADTqpcYzZidBjf8wvM9_NTTL82iK19yjLbvTz/w1200-h630-p-k-no-nu/MediaPipeDiffusion-hero.gif"
-        },
-        {
-          "id": "http://ai.googleblog.com/2023/06/unifying-image-caption-and-image.html",
-          "author": null,
-          "description": "Posted by Kuniaki Saito, Student Researcher, Cloud AI Team, and Kihyuk Sohn, Research Scientist, Perception Team\n\n\n\n\nPre-training visual language (VL) models on web-scale image-caption datasets has recently emerged as a powerful alternative to traditional pre-training on image classification data. Image-caption datasets are considered to be more “open-domain” because they contain broader scene types and vocabulary words, which result in models with strong performance in few- and zero-shot recognition tasks. However, images with fine-grained class descriptions can be rare, and the class distribution can be imbalanced since image-caption datasets do not go through manual curation. By contrast, large-scale classification datasets, such as ImageNet, are often curated and can thus provide fine-…",
-          "link": "http://ai.googleblog.com/2023/06/unifying-image-caption-and-image.html",
-          "publishedOn": "2023-06-27T21:19:00.000Z",
-          "wordCount": 27418,
-          "title": "Unifying image-caption and image-classification datasets with prefix conditioning",
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhy_hT7xaiysVeAL6MKhQiqMfun0uCX1GJX9atNr8QSg4BlXfPPxNtC7AD21LJ0FSHjSnZnrKgttj1kIkmQGPyO4ORWvPSROjxfTvV9IlaTG5ZJom9oKEwwocUGaj3EtiuUgEmKKLHpWpQCrmHe3BzJeDGzwvI1Oqet18qsCNzIc3DsNTCXWGjZ0uMW9-Bc/w1200-h630-p-k-no-nu/Prefix%20conditioning%20hero.jpg"
         }
       ]
     },
@@ -2140,6 +2130,16 @@
       "feedUrl": "https://languagelog.ldc.upenn.edu/nll/?feed=rss2",
       "siteUrl": "https://languagelog.ldc.upenn.edu/nll",
       "articles": [
+        {
+          "id": "https://languagelog.ldc.upenn.edu/nll/?p=59820",
+          "author": "Victor Mair",
+          "description": "[This is a guest post by Max Deeg.  Although the following text has profound implications for anyone who is seriously interested in the actualities of translation between two very different kinds of languages from antiquity, it is fundamentally a task for specialists to render this type of Middle Buddhist Hybrid Sinitic into English.  This is […]",
+          "link": "https://languagelog.ldc.upenn.edu/nll/?p=59820&utm_source=rss&utm_medium=rss&utm_campaign=buddhist-ideas-on-sanskrit-chinese-translation",
+          "publishedOn": "2023-07-27T10:03:14.000Z",
+          "wordCount": 4865,
+          "title": "Buddhist ideas on Sanskrit-Chinese translation",
+          "imageUrl": null
+        },
         {
           "id": "https://languagelog.ldc.upenn.edu/nll/?p=59863",
           "author": "Mark Liberman",
