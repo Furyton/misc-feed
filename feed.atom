@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-07-27T18:18:04.116Z</updated>
+    <updated>2023-07-27T19:11:42.671Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -2722,16 +2722,6 @@ Figure 1: CoarsenConf architecture.
         <summary type="html"><![CDATA[Boyao Li, Alexandar J. Thomson, Matthew M. Engelhard, David Page]]></summary>
         <author>
             <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Path to Achieve Ultra-Low Inference Latency With LLaMA 65B]]></title>
-        <id>https://pytorch.org/blog/path-achieve-low-inference-latency/</id>
-        <link href="https://pytorch.org/blog/path-achieve-low-inference-latency/"/>
-        <updated>2023-06-28T07:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Background &amp; State of the Art]]></summary>
-        <author>
-            <name>PyTorch Website</name>
         </author>
     </entry>
 </feed>

@@ -1504,16 +1504,6 @@
           "wordCount": 1729,
           "title": "Optimizing LibTorch-based inference engine memory usage and thread-pooling",
           "imageUrl": "https://pytorch.org/assets/images/pytorch-logo.png"
-        },
-        {
-          "id": "https://pytorch.org/blog/path-achieve-low-inference-latency/",
-          "author": null,
-          "description": "Background &amp; State of the Art",
-          "link": "https://pytorch.org/blog/path-achieve-low-inference-latency/",
-          "publishedOn": "2023-06-28T07:00:00.000Z",
-          "wordCount": 2897,
-          "title": "The Path to Achieve Ultra-Low Inference Latency With LLaMA 65B",
-          "imageUrl": "https://pytorch.org/assets/images/pytorch-logo.png"
         }
       ]
     },
