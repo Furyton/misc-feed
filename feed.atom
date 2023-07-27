@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-07-27T10:15:08.699Z</updated>
+    <updated>2023-07-27T11:11:42.004Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Mark Twain's new novel?]]></title>
+        <id>https://languagelog.ldc.upenn.edu/nll/?p=59895</id>
+        <link href="https://languagelog.ldc.upenn.edu/nll/?p=59895&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=mark-twains-new-novel"/>
+        <updated>2023-07-27T11:00:39.000Z</updated>
+        <summary type="html"><![CDATA[Today's Non Sequitur: So of course I asked GPT-4: "Based on Mark Twain's writings, sketch the plot for a new novel by him." I suspect that I'm not the first person to ask this question, because GPT-4's answer began streaming out instantly: Title: "Driftwood: An American Journey" Part I: The Innocent Boyhood Our story begins […]]]></summary>
+        <author>
+            <name>Mark Liberman</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Buddhist ideas on Sanskrit-Chinese translation]]></title>
         <id>https://languagelog.ldc.upenn.edu/nll/?p=59820</id>
@@ -2702,16 +2712,6 @@ Figure 1: CoarsenConf architecture.
         <summary type="html"><![CDATA[上一篇文章《生成扩散模型漫谈（十九）：作为扩散ODE的GAN》中，我们介绍了如何将GAN理解为在另一个时间维度上的扩散ODE，简而言之，GAN实际上就是将扩散模型中样本的运动转化为生成器参数的运...]]></summary>
         <author>
             <name>苏剑林</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[re-MCM’d]]></title>
-        <id>http://xianblog.wordpress.com/?p=53368</id>
-        <link href="https://xianblog.wordpress.com/2023/06/28/re-mcmd/"/>
-        <updated>2023-06-27T22:23:05.000Z</updated>
-        <summary type="html"><![CDATA[When I entered the classroom on the Jussieu campus where the Monday morning session on PDMP was taking place, some friends told me a badge was waiting for me at the registration desk of MCM 2023! Most surprisingly since I had received a deregistration message a few weeks earlier. Great PDMP session with non-reversible tempering […]]]></summary>
-        <author>
-            <name>xi'an</name>
         </author>
     </entry>
 </feed>

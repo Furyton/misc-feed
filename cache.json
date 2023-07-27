@@ -1905,16 +1905,6 @@
           "wordCount": 1911,
           "title": "nAIture",
           "imageUrl": "https://media.springernature.com/w440/springer-static/cover-hires/journal/41586/618/7964"
-        },
-        {
-          "id": "http://xianblog.wordpress.com/?p=53368",
-          "author": "xi'an",
-          "description": "When I entered the classroom on the Jussieu campus where the Monday morning session on PDMP was taking place, some friends told me a badge was waiting for me at the registration desk of MCM 2023! Most surprisingly since I had received a deregistration message a few weeks earlier. Great PDMP session with non-reversible tempering […]",
-          "link": "https://xianblog.wordpress.com/2023/06/28/re-mcmd/",
-          "publishedOn": "2023-06-27T22:23:05.000Z",
-          "wordCount": 1916,
-          "title": "re-MCM’d",
-          "imageUrl": "https://xianblog.files.wordpress.com/2023/06/1687789137633-e1687789256516.jpg"
         }
       ]
     },
@@ -2130,6 +2120,16 @@
       "feedUrl": "https://languagelog.ldc.upenn.edu/nll/?feed=rss2",
       "siteUrl": "https://languagelog.ldc.upenn.edu/nll",
       "articles": [
+        {
+          "id": "https://languagelog.ldc.upenn.edu/nll/?p=59895",
+          "author": "Mark Liberman",
+          "description": "Today's Non Sequitur: So of course I asked GPT-4: \"Based on Mark Twain's writings, sketch the plot for a new novel by him.\" I suspect that I'm not the first person to ask this question, because GPT-4's answer began streaming out instantly: Title: \"Driftwood: An American Journey\" Part I: The Innocent Boyhood Our story begins […]",
+          "link": "https://languagelog.ldc.upenn.edu/nll/?p=59895&utm_source=rss&utm_medium=rss&utm_campaign=mark-twains-new-novel",
+          "publishedOn": "2023-07-27T11:00:39.000Z",
+          "wordCount": 2420,
+          "title": "Mark Twain's new novel?",
+          "imageUrl": null
+        },
         {
           "id": "https://languagelog.ldc.upenn.edu/nll/?p=59820",
           "author": "Victor Mair",
