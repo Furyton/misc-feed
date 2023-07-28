@@ -1494,16 +1494,6 @@
           "wordCount": 1615,
           "title": "How to Accelerate PyTorch Geometric on Intel® CPUs",
           "imageUrl": "https://pytorch.org/assets/images/pytorch-logo.png"
-        },
-        {
-          "id": "https://pytorch.org/blog/optimizing-libtorch/",
-          "author": null,
-          "description": "Outline",
-          "link": "https://pytorch.org/blog/optimizing-libtorch/",
-          "publishedOn": "2023-06-29T07:00:00.000Z",
-          "wordCount": 1729,
-          "title": "Optimizing LibTorch-based inference engine memory usage and thread-pooling",
-          "imageUrl": "https://pytorch.org/assets/images/pytorch-logo.png"
         }
       ]
     },
@@ -2100,6 +2090,16 @@
       "feedUrl": "https://languagelog.ldc.upenn.edu/nll/?feed=rss2",
       "siteUrl": "https://languagelog.ldc.upenn.edu/nll",
       "articles": [
+        {
+          "id": "https://languagelog.ldc.upenn.edu/nll/?p=59908",
+          "author": "Victor Mair",
+          "description": "The language family began to diverge from around 8,100 years ago, out of a homeland immediately south of the Caucasus. One migration reached the Pontic-Caspian and Forest Steppe around 7,000 years ago, and from there subsequent migrations spread into parts of Europe around 5,000 years ago. Credit: P. Heggarty et al., Science (2023) \"New Insights into the […]",
+          "link": "https://languagelog.ldc.upenn.edu/nll/?p=59908&utm_source=rss&utm_medium=rss&utm_campaign=where-did-the-pies-come-from-when-was-that",
+          "publishedOn": "2023-07-28T18:34:23.000Z",
+          "wordCount": 2919,
+          "title": "Where did the PIEs come from; when was that?",
+          "imageUrl": null
+        },
         {
           "id": "https://languagelog.ldc.upenn.edu/nll/?p=59918",
           "author": "Mark Liberman",
