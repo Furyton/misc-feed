@@ -2,10 +2,63 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-07-28T06:18:50.434Z</updated>
+    <updated>2023-07-28T07:13:04.177Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Incrementally-Computable Neural Networks: Efficient Inference for
+  Dynamic Inputs]]></title>
+        <id>http://arxiv.org/abs/2307.14988</id>
+        <link href="http://arxiv.org/abs/2307.14988"/>
+        <updated>2023-07-28T07:13:00.513Z</updated>
+        <summary type="html"><![CDATA[Or Sharir, Anima Anandkumar]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Statistical process monitoring of artificial neural networks]]></title>
+        <id>http://arxiv.org/abs/2209.07436</id>
+        <link href="http://arxiv.org/abs/2209.07436"/>
+        <updated>2023-07-28T07:13:00.507Z</updated>
+        <summary type="html"><![CDATA[Anna Malinovskaya, Pavlo Mozharovskyi, Philipp Otto]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[On the Generalization Effects of Linear Transformations in Data
+  Augmentation]]></title>
+        <id>http://arxiv.org/abs/2005.00695</id>
+        <link href="http://arxiv.org/abs/2005.00695"/>
+        <updated>2023-07-28T07:13:00.440Z</updated>
+        <summary type="html"><![CDATA[Sen Wu, Hongyang R. Zhang, Gregory Valiant, Christopher R\'e]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Multi-Source Domain Adaptation through Dataset Dictionary Learning in
+  Wasserstein Space]]></title>
+        <id>http://arxiv.org/abs/2307.14953</id>
+        <link href="http://arxiv.org/abs/2307.14953"/>
+        <updated>2023-07-28T07:13:00.420Z</updated>
+        <summary type="html"><![CDATA[Eduardo Fernandes Montesuma, Fred Ngol\`e Mboula, Antoine Souloumiac]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Speed Limits for Deep Learning]]></title>
+        <id>http://arxiv.org/abs/2307.14653</id>
+        <link href="http://arxiv.org/abs/2307.14653"/>
+        <updated>2023-07-28T07:13:00.413Z</updated>
+        <summary type="html"><![CDATA[Inbar Seroussi, Alexander A. Alemi, Moritz Helias, Zohar Ringel]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[probabilistic numerics [book review]]]></title>
         <id>http://xianblog.wordpress.com/?p=53536</id>
