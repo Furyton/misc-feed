@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-07-28T10:15:10.358Z</updated>
+    <updated>2023-07-28T11:11:59.067Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ROT-LLM?]]></title>
+        <id>https://languagelog.ldc.upenn.edu/nll/?p=59918</id>
+        <link href="https://languagelog.ldc.upenn.edu/nll/?p=59918&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rot-llm"/>
+        <updated>2023-07-28T10:37:20.000Z</updated>
+        <summary type="html"><![CDATA[There's a puzzling new proposal for watermarking AI-generated text — Alistair Croll, "To Watermark AI, It Needs Its Own Alphabet", Wired 7/27/2023: We need a way to distinguish things made by humans from things made by algorithms, and we need it very soon. […] Fortunately, we have a solution waiting in plain sight. […] If […]]]></summary>
+        <author>
+            <name>Mark Liberman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Is there no / any longer a reason / need to learn a foreign language?, part 2]]></title>
+        <id>https://languagelog.ldc.upenn.edu/nll/?p=59913</id>
+        <link href="https://languagelog.ldc.upenn.edu/nll/?p=59913&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=is-there-no-any-longer-a-reason-need-to-learn-a-foreign-language-part-2"/>
+        <updated>2023-07-28T10:30:00.000Z</updated>
+        <summary type="html"><![CDATA[People, including serious linguists, are beginning to wonder: John McWhorter, "Are translation apps making the learning of foreign languages obsolete?", NYT 7/25/2023 I remember a time, not too long ago, when John was making a serious effort to learn Mandarin, because he often asked me cogent questions about the language and wanted to know the […]]]></summary>
+        <author>
+            <name>Victor Mair</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Incrementally-Computable Neural Networks: Efficient Inference for
   Dynamic Inputs]]></title>
@@ -2670,36 +2690,6 @@ Figure 1: CoarsenConf architecture.
         <summary type="html"><![CDATA[Outline]]></summary>
         <author>
             <name>PyTorch Website</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Metaphors for AI, and why I don’t like them]]></title>
-        <id>http://windowsontheory.org/?p=8635</id>
-        <link href="https://windowsontheory.org/2023/06/28/metaphors-for-ai-and-why-i-dont-like-them/"/>
-        <updated>2023-06-28T22:46:34.000Z</updated>
-        <summary type="html"><![CDATA[Photo from National Photo Company Collection; see also (Sobel, 2017) [Cross posted in lesswrong and windows on theory see here for my prior writings] “computer, n. /kəmˈpjuːtə/. One who computes; a calculator, reckoner; specifically a person employed to make calculations in an observatory, in surveying, etc”, Oxford English Dictionary “There is no reason why mental as well as bodily labor should … Continue reading Metaphors for AI, and why I don’t like them]]></summary>
-        <author>
-            <name>Boaz Barak</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Metaphors for AI, and why I don’t like them]]></title>
-        <id>http://windowsontheory.org/?p=8635</id>
-        <link href="https://windowsontheory.org/2023/06/28/metaphors-for-ai-and-why-i-dont-like-them/"/>
-        <updated>2023-06-28T22:46:34.000Z</updated>
-        <summary type="html"><![CDATA[Photo from National Photo Company Collection; see also (Sobel, 2017) [Cross posted in lesswrong and windows on theory see here for my prior writings] “computer, n. /kəmˈpjuːtə/. One who computes; a calculator, reckoner; specifically a person employed to make calculations in an observatory, in surveying, etc”, Oxford English Dictionary “There is no reason why mental as well as bodily labor should … Continue reading Metaphors for AI, and why I don’t like them]]></summary>
-        <author>
-            <name>Boaz Barak</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[nAIture]]></title>
-        <id>http://xianblog.wordpress.com/?p=53324</id>
-        <link href="https://xianblog.wordpress.com/2023/06/29/naiture/"/>
-        <updated>2023-06-28T22:23:25.000Z</updated>
-        <summary type="html"><![CDATA[Plenty of AI related entries in Nature this week (8 June 2023): Why Nature will not allow the use of generative AI in images and videos (until they cannot spot them) AI intensifies fight against paper mills (as a further hindrance rather than an ally) AI learns to write sorting software on its own, through […]]]></summary>
-        <author>
-            <name>xi'an</name>
         </author>
     </entry>
 </feed>
