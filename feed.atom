@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-07-29T12:26:34.242Z</updated>
+    <updated>2023-07-29T13:15:54.065Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Semantic drift of the week]]></title>
+        <id>https://languagelog.ldc.upenn.edu/nll/?p=59938</id>
+        <link href="https://languagelog.ldc.upenn.edu/nll/?p=59938&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=semantic-drift-of-the-week"/>
+        <updated>2023-07-29T13:08:47.000Z</updated>
+        <summary type="html"><![CDATA[…or maybe we should call it a "semantic jump"? It's a pun that illustrates how word meanings can evolve along sensible paths that become obscure as time passes and culture changes. And this is one of the reasons that the reconstruction of linguistic history gets harder as time depth increases — see "Scrabble tips for […]]]></summary>
+        <author>
+            <name>Mark Liberman</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[insufficient Gibbs sampling]]></title>
         <id>http://xianblog.wordpress.com/?p=53642</id>
