@@ -1477,6 +1477,16 @@
       "siteUrl": "https://xianblog.wordpress.com",
       "articles": [
         {
+          "id": "http://xianblog.wordpress.com/?p=53269",
+          "author": "xi'an",
+          "description": "I am almost off to a BIRS workshop on differential privacy taking place on the Okanagan UBC campus rather than at the original BIRS place in Banff, three hours (drive) West, on the Okanagan Lake. When I saw the announcement for the workshop on the BIRS webpage, I saw it as a perfect opportunity to […]",
+          "link": "https://xianblog.wordpress.com/2023/07/30/off-to-banff-almost-23w5106/",
+          "publishedOn": "2023-07-29T22:23:59.000Z",
+          "wordCount": 1992,
+          "title": "off to Banff, almost [23w5106]",
+          "imageUrl": "https://xianblog.files.wordpress.com/2023/06/23w5106.png"
+        },
+        {
           "id": "http://xianblog.wordpress.com/?p=53642",
           "author": "xi'an",
           "description": "We have just arXived our paper on insufficient Gibbs sampling with Antoine Luciano and Robin Ryder, from Université Paris Dauphine. This is Antoine’s first paper and part of his PhD. (In particular, he wrote the entire code.) The idea stemmed from a discussion on ABC benchmarks, like the one when the pair (median, MAD) is […]",

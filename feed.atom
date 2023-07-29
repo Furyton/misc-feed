@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-07-29T22:12:35.415Z</updated>
+    <updated>2023-07-29T23:13:28.877Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[off to Banff, almost [23w5106]]]></title>
+        <id>http://xianblog.wordpress.com/?p=53269</id>
+        <link href="https://xianblog.wordpress.com/2023/07/30/off-to-banff-almost-23w5106/"/>
+        <updated>2023-07-29T22:23:59.000Z</updated>
+        <summary type="html"><![CDATA[I am almost off to a BIRS workshop on differential privacy taking place on the Okanagan UBC campus rather than at the original BIRS place in Banff, three hours (drive) West, on the Okanagan Lake. When I saw the announcement for the workshop on the BIRS webpage, I saw it as a perfect opportunity to […]]]></summary>
+        <author>
+            <name>xi'an</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Semantic drift of the week]]></title>
         <id>https://languagelog.ldc.upenn.edu/nll/?p=59938</id>
