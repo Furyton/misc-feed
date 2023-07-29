@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-07-29T08:16:29.183Z</updated>
+    <updated>2023-07-29T09:12:36.621Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -2586,25 +2586,6 @@ Image retrieval plays a crucial role in search engines. Typically, their users r
         <summary type="html"><![CDATA[Besides attending a workshop on my research themes and meeting researchers from that field, a supplementary incentive for attending Stochastic Numerics and Statistical Learning was to catch a glimpse of Saudi Arabia and its idiosyncrasies.  While this is far from my first time visiting a Muslim theocracy, remembering a most enlightening (if penniless) backpacking trip […]]]></summary>
         <author>
             <name>xi'an</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Announcing the first Machine Unlearning Challenge]]></title>
-        <id>http://ai.googleblog.com/2023/06/announcing-first-machine-unlearning.html</id>
-        <link href="http://ai.googleblog.com/2023/06/announcing-first-machine-unlearning.html"/>
-        <updated>2023-06-29T21:08:00.000Z</updated>
-        <summary type="html"><![CDATA[Posted by Fabian Pedregosa and Eleni Triantafillou, Research Scientists, Google
-
-
-
-
-
-Deep learning has recently driven tremendous progress in a wide array of applications, ranging from realistic image generation and impressive retrieval systems to language models that can hold human-like conversations. While this progress is very exciting, the widespread use of deep neural network models requires caution: as guided by Google’s AI Principles, we seek to develop AI technologies responsibly by understanding and mitigating potential risks, such as the propagation and amplification of unfair biases and protecting user privacy.
- 
-
-Fully erasing the influence of the data requested to be deleted is challenging since, aside from simply deleting it from databases where it’s stored, it also requires …]]></summary>
-        <author>
-            <name>Google AI Blog</name>
         </author>
     </entry>
 </feed>
