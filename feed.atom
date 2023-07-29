@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-07-29T06:17:07.100Z</updated>
+    <updated>2023-07-29T07:12:11.693Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -2605,40 +2605,6 @@ Deep learning has recently driven tremendous progress in a wide array of applica
 Fully erasing the influence of the data requested to be deleted is challenging since, aside from simply deleting it from databases where it’s stored, it also requires …]]></summary>
         <author>
             <name>Google AI Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[On-device diffusion plugins for conditioned text-to-image generation]]></title>
-        <id>http://ai.googleblog.com/2023/06/on-device-diffusion-plugins-for.html</id>
-        <link href="http://ai.googleblog.com/2023/06/on-device-diffusion-plugins-for.html"/>
-        <updated>2023-06-29T19:10:00.002Z</updated>
-        <summary type="html"><![CDATA[Posted by Yang Zhao and Tingbo Hou, Software Engineers, Core ML
-
-
-
-
-In recent years, diffusion models have shown great success in text-to-image generation, achieving high image quality, improved inference performance, and expanding our creative inspiration. Nevertheless, it is still challenging to efficiently control the generation, especially with conditions that are difficult to describe with text.
-
-
-
-Today, we announce MediaPipe diffusion plugins, which enable controllable text-to-image generation to be run on-device. Expanding upon our prior work on GPU inference for on-device large generative models, we introduce new low-cost solutions for controllable text-to-image generation that can be plugged into existing diffusion models and their Low-Rank Adaptation (LoRA) variants. 
-
-
-
-
-Text-t…]]></summary>
-        <author>
-            <name>Google AI Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The AI threat:  keep calm and carry on]]></title>
-        <id>https://languagelog.ldc.upenn.edu/nll/?p=59453</id>
-        <link href="https://languagelog.ldc.upenn.edu/nll/?p=59453&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=the-ai-threat-keep-calm-and-carry-on"/>
-        <updated>2023-06-29T18:36:01.000Z</updated>
-        <summary type="html"><![CDATA[Three weekends ago, I delivered a keynote here: New Directions in Chinese Language Education in the 21st Century The Eighth International Conference on Teaching Chinese as a Second Language Swarthmore College, June 9-10, 2023 ———– Abbreviations:     AI — Artificial Intelligence     DT — Digital Technology     IT — Information Technology     DH — Digital […]]]></summary>
-        <author>
-            <name>Victor Mair</name>
         </author>
     </entry>
 </feed>

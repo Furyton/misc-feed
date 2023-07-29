@@ -1985,16 +1985,6 @@
           "wordCount": 27756,
           "title": "Announcing the first Machine Unlearning Challenge",
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhnYgC13GY7TTT4dhlutperGlCU07bWBJJr3yICTpKX4kxu8Beso89UtRLslnKi7XhD3T2kzkjHvKLNfXG_hztQxmbDFLafmLscIDZKGzOqWbOUxcYWjTDYgudshWu7v-mNrbhlegtEj7I-9woJvwgtOSfi01nKsalbOiYZmP1YN2FnQw_dTwobwwQvSrsv/w1200-h630-p-k-no-nu/Unlearning.png"
-        },
-        {
-          "id": "http://ai.googleblog.com/2023/06/on-device-diffusion-plugins-for.html",
-          "author": null,
-          "description": "Posted by Yang Zhao and Tingbo Hou, Software Engineers, Core ML\n\n\n\n\nIn recent years, diffusion models have shown great success in text-to-image generation, achieving high image quality, improved inference performance, and expanding our creative inspiration. Nevertheless, it is still challenging to efficiently control the generation, especially with conditions that are difficult to describe with text.\n\n\n\nToday, we announce MediaPipe diffusion plugins, which enable controllable text-to-image generation to be run on-device. Expanding upon our prior work on GPU inference for on-device large generative models, we introduce new low-cost solutions for controllable text-to-image generation that can be plugged into existing diffusion models and their Low-Rank Adaptation (LoRA) variants. \n\n\n\n\nText-t…",
-          "link": "http://ai.googleblog.com/2023/06/on-device-diffusion-plugins-for.html",
-          "publishedOn": "2023-06-29T19:10:00.002Z",
-          "wordCount": 27583,
-          "title": "On-device diffusion plugins for conditioned text-to-image generation",
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhWYz8RL4gwfO_N5cGmW4m-wglXWgC2UxgAJg70bS6arMkhdFdN-sWs66tOCm4tuw7w7Kuow4pHnLksYqRUz_rH2LplGJ7Wk5rm7wztNEoSsTiPIZKYPhZsnEe2OxNvOBDWYd889WJqAQ59-pnPayHiStWADTqpcYzZidBjf8wvM9_NTTL82iK19yjLbvTz/w1200-h630-p-k-no-nu/MediaPipeDiffusion-hero.gif"
         }
       ]
     },
@@ -2638,16 +2628,6 @@
           "publishedOn": "2023-06-30T19:15:51.000Z",
           "wordCount": 2289,
           "title": "The spiny terminological conundrum of ekhidna and ekhinos",
-          "imageUrl": null
-        },
-        {
-          "id": "https://languagelog.ldc.upenn.edu/nll/?p=59453",
-          "author": "Victor Mair",
-          "description": "Three weekends ago, I delivered a keynote here: New Directions in Chinese Language Education in the 21st Century The Eighth International Conference on Teaching Chinese as a Second Language Swarthmore College, June 9-10, 2023 ———– Abbreviations:     AI — Artificial Intelligence     DT — Digital Technology     IT — Information Technology     DH — Digital […]",
-          "link": "https://languagelog.ldc.upenn.edu/nll/?p=59453&utm_source=rss&utm_medium=rss&utm_campaign=the-ai-threat-keep-calm-and-carry-on",
-          "publishedOn": "2023-06-29T18:36:01.000Z",
-          "wordCount": 3032,
-          "title": "The AI threat:  keep calm and carry on",
           "imageUrl": null
         }
       ]
