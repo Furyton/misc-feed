@@ -6,6 +6,56 @@
       "siteUrl": "https://www.arxivist.com",
       "articles": [
         {
+          "id": "http://arxiv.org/abs/2307.15285",
+          "author": null,
+          "description": "Jonathan W. Siegel",
+          "link": "http://arxiv.org/abs/2307.15285",
+          "publishedOn": "2023-07-31T07:14:10.850Z",
+          "wordCount": 633,
+          "title": "Optimal Approximation of Zonoids and Uniform Approximation by Shallow\n  Neural Networks",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2212.10839",
+          "author": null,
+          "description": "Jiongli Zhu, Sainyam Galhotra, Nazanin Sabri, Babak Salimi",
+          "link": "http://arxiv.org/abs/2212.10839",
+          "publishedOn": "2023-07-31T07:14:10.843Z",
+          "wordCount": 659,
+          "title": "Consistent Range Approximation for Fair Predictive Modeling",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2307.15691",
+          "author": null,
+          "description": "Patrick Vossler, Sina Aghaei, Nathan Justin, Nathanael Jo, Andr\\'es\n  G\\'omez, Phebe Vayanos",
+          "link": "http://arxiv.org/abs/2307.15691",
+          "publishedOn": "2023-07-31T07:14:10.837Z",
+          "wordCount": 683,
+          "title": "ODTlearn: A Package for Learning Optimal Decision Trees for Prediction\n  and Prescription",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2307.15625",
+          "author": null,
+          "description": "Renteng Yuan",
+          "link": "http://arxiv.org/abs/2307.15625",
+          "publishedOn": "2023-07-31T07:14:10.000Z",
+          "wordCount": 639,
+          "title": "A Comparative Analysis of Machine Learning Methods for Lane Change\n  Intention Recognition Using Vehicle Trajectory Data",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2307.15343",
+          "author": null,
+          "description": "Logesh Kumar Umapathi, Ankit Pal, Malaikannan Sankarasubbu",
+          "link": "http://arxiv.org/abs/2307.15343",
+          "publishedOn": "2023-07-31T07:14:08.894Z",
+          "wordCount": 680,
+          "title": "Med-HALT: Medical Domain Hallucination Test for Large Language Models",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
           "id": "http://arxiv.org/abs/2307.14988",
           "author": null,
           "description": "Or Sharir, Anima Anandkumar",
@@ -1081,6 +1131,16 @@
       "feedUrl": "https://kexue.fm/feed/",
       "siteUrl": "https://kexue.fm/",
       "articles": [
+        {
+          "id": "https://kexue.fm/archives/9706",
+          "author": "苏剑林",
+          "description": "在文章《Transformer升级之路：10、RoPE是一种β进制编码》中，我们给出了RoPE的$\\beta$进制诠释，并基于进制转化的思路推导了能够在不微调的情况下就可以扩展Context长度...",
+          "link": "https://kexue.fm/archives/9706",
+          "publishedOn": "2023-07-31T06:52:00.000Z",
+          "wordCount": 1705,
+          "title": "Transformer升级之路：11、将β进制位置进行到底",
+          "imageUrl": null
+        },
         {
           "id": "https://kexue.fm/archives/9698",
           "author": "苏剑林",

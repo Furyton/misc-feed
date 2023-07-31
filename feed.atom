@@ -2,10 +2,74 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-07-31T06:19:57.201Z</updated>
+    <updated>2023-07-31T07:14:15.867Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Optimal Approximation of Zonoids and Uniform Approximation by Shallow
+  Neural Networks]]></title>
+        <id>http://arxiv.org/abs/2307.15285</id>
+        <link href="http://arxiv.org/abs/2307.15285"/>
+        <updated>2023-07-31T07:14:10.850Z</updated>
+        <summary type="html"><![CDATA[Jonathan W. Siegel]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Consistent Range Approximation for Fair Predictive Modeling]]></title>
+        <id>http://arxiv.org/abs/2212.10839</id>
+        <link href="http://arxiv.org/abs/2212.10839"/>
+        <updated>2023-07-31T07:14:10.843Z</updated>
+        <summary type="html"><![CDATA[Jiongli Zhu, Sainyam Galhotra, Nazanin Sabri, Babak Salimi]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ODTlearn: A Package for Learning Optimal Decision Trees for Prediction
+  and Prescription]]></title>
+        <id>http://arxiv.org/abs/2307.15691</id>
+        <link href="http://arxiv.org/abs/2307.15691"/>
+        <updated>2023-07-31T07:14:10.837Z</updated>
+        <summary type="html"><![CDATA[Patrick Vossler, Sina Aghaei, Nathan Justin, Nathanael Jo, Andr\'es
+  G\'omez, Phebe Vayanos]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Comparative Analysis of Machine Learning Methods for Lane Change
+  Intention Recognition Using Vehicle Trajectory Data]]></title>
+        <id>http://arxiv.org/abs/2307.15625</id>
+        <link href="http://arxiv.org/abs/2307.15625"/>
+        <updated>2023-07-31T07:14:10.000Z</updated>
+        <summary type="html"><![CDATA[Renteng Yuan]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Med-HALT: Medical Domain Hallucination Test for Large Language Models]]></title>
+        <id>http://arxiv.org/abs/2307.15343</id>
+        <link href="http://arxiv.org/abs/2307.15343"/>
+        <updated>2023-07-31T07:14:08.894Z</updated>
+        <summary type="html"><![CDATA[Logesh Kumar Umapathi, Ankit Pal, Malaikannan Sankarasubbu]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Transformer升级之路：11、将β进制位置进行到底]]></title>
+        <id>https://kexue.fm/archives/9706</id>
+        <link href="https://kexue.fm/archives/9706"/>
+        <updated>2023-07-31T06:52:00.000Z</updated>
+        <summary type="html"><![CDATA[在文章《Transformer升级之路：10、RoPE是一种β进制编码》中，我们给出了RoPE的$\beta$进制诠释，并基于进制转化的思路推导了能够在不微调的情况下就可以扩展Context长度...]]></summary>
+        <author>
+            <name>苏剑林</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Contextual Integrity for Differential Privacy #0 [23w5106]]]></title>
         <id>http://xianblog.wordpress.com/?p=53658</id>
