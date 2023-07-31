@@ -1537,6 +1537,26 @@
       "siteUrl": "https://xianblog.wordpress.com",
       "articles": [
         {
+          "id": "http://xianblog.wordpress.com/?p=53691",
+          "author": "xi'an",
+          "description": "Very relaxed beginning to the workshop, with [xkcd illustrated] tutorials on CI and DP, plus informal discussions to find a common ground over the week. Helped by the beautiful surroundings of the UBC Okanagan campus. Tutorial on the fundamentals of differential privacy, with a long room discussion on the meaning(s) of the definition, for instance […]",
+          "link": "https://xianblog.wordpress.com/2023/08/01/contextual-integrity-for-differential-privacy-1-23w5106/",
+          "publishedOn": "2023-07-31T22:23:53.000Z",
+          "wordCount": 2049,
+          "title": "Contextual Integrity for Differential Privacy #1 [23w5106]",
+          "imageUrl": "https://xianblog.files.wordpress.com/2023/08/1690837847649-e1690838124671.jpg"
+        },
+        {
+          "id": "http://xianblog.wordpress.com/?p=53562",
+          "author": "xi'an",
+          "description": "Following a link from a NYT editorial, I came upon a transcribed interview of Douglas Hofstadter on his fright about the current nature of AI and in particular of the impact of (surprise, surprise!) ChatGPT. When the French translation of Gödel, Escher, Bach came out in 1985, it became an immediate success, I read it, […]",
+          "link": "https://xianblog.wordpress.com/2023/08/01/dougs-scared/",
+          "publishedOn": "2023-07-31T22:23:52.000Z",
+          "wordCount": 2259,
+          "title": "Doug’s scared…",
+          "imageUrl": "https://xianblog.files.wordpress.com/2011/08/pict0090-e1314047186338.jpg"
+        },
+        {
           "id": "http://xianblog.wordpress.com/?p=53658",
           "author": "xi'an",
           "description": "The Banff International Research Station will host the “Contextual Integrity for Differential Privacy” workshop at the UBC Okanagan campus in Kelowna, B.C., from July 30 to August 4, 2023. Privacy concerns are becoming a major obstacle to using data, and it is often unclear how current regulations should translate into technology. Over the last decade, […]",
