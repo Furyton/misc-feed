@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-08-01T18:18:25.666Z</updated>
+    <updated>2023-08-01T19:11:35.208Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -34,6 +34,16 @@
         <summary type="html"><![CDATA[Zihan Zhang, Lei Shi, Ding-Xuan Zhou]]></summary>
         <author>
             <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AMD’s Journey to Openness and Performance]]></title>
+        <id>https://pytorch.org/blog/amd-journey/</id>
+        <link href="https://pytorch.org/blog/amd-journey/"/>
+        <updated>2023-08-01T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[AMD has gained progress in building a robust software stack that supports an open ecosystem of models, libraries, frameworks, and tools. With proven platforms gaining momentum, there is significance of a leadership software stack and an optimized ecosystem for achieving application performance. PyTorch is a key part of AMD’s AI journey, and AMD’s Victor Peng, AMD President and Soumith Chintala, founder of PyTorch discussed the latest progress at the DC &amp; AI Keynote on June 12.]]></summary>
+        <author>
+            <name>PyTorch Website</name>
         </author>
     </entry>
     <entry>
