@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-08-01T05:14:23.482Z</updated>
+    <updated>2023-08-01T06:20:20.685Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Central Asian Kharosthi script on an ancient knife hilt found in Austria]]></title>
+        <id>https://languagelog.ldc.upenn.edu/nll/?p=59920</id>
+        <link href="https://languagelog.ldc.upenn.edu/nll/?p=59920&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=central-asian-kharosthi-script-on-an-ancient-knife-hilt-found-in-austria"/>
+        <updated>2023-08-01T03:57:17.000Z</updated>
+        <summary type="html"><![CDATA[Astonishing demonstration of East-West interaction during Roman times (with an equally mind-boggling demonstration of the occasional, yet horrendous [defying common sense], ineptitude of AI translation): "Geheimnis um Messergriff aus dem römerzeitlichen Wels gelüftet" Ein vor über 100 Jahren entdeckter Elfenbeingriff mit rätselhafter Inschrift aus dem antiken Ovilava gehörte wohl einst einem Besucher aus dem fernen […]]]></summary>
+        <author>
+            <name>Victor Mair</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[柴洪峰院士：大模型赋能金融科技思考与展望]]></title>
         <id>https://www.52nlp.cn/?p=13502</id>
@@ -2587,16 +2597,6 @@ Image retrieval plays a crucial role in search engines. Typically, their users r
         <summary type="html"><![CDATA[“Il conduisait sans permis mais c’est un non sujet, vous avez vu comme moi que le gouvernement comptait faire passer l’âge du permis à 17 ans, alors bon…” J. Cambla, lawyer. A few cars (and a bike!) were set on fire and a supermarket was looted just a block from home, on Thursday night, in […]]]></summary>
         <author>
             <name>xi'an</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Xi Jinping's faux classicism]]></title>
-        <id>https://languagelog.ldc.upenn.edu/nll/?p=59485</id>
-        <link href="https://languagelog.ldc.upenn.edu/nll/?p=59485&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=xi-jinpings-faux-classicism"/>
-        <updated>2023-07-02T17:32:06.000Z</updated>
-        <summary type="html"><![CDATA[This new article in The Economist (6/29/23) has a familiar ring to it: To understand Xi Jinping, it helps to be steeped in the classics China’s leader has invented a phrase—and an image Take four Chinese characters, all of them in everyday use. Put them in a certain order and, lo, they become a phrase […]]]></summary>
-        <author>
-            <name>Victor Mair</name>
         </author>
     </entry>
 </feed>
