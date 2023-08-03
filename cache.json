@@ -1567,6 +1567,16 @@
       "siteUrl": "https://xianblog.wordpress.com",
       "articles": [
         {
+          "id": "http://xianblog.wordpress.com/?p=53718",
+          "author": "xi'an",
+          "description": "Morning of diverse short talks. First talk by Bei Jiang (Edmonton) on locally processed privacy for quantile estimation, which relates very much to our ongoing research with Stan, who is starting his ERC funded PhD on privacy. Randomised response, in having a positive probability of replacing indicators in the empirical cdf by a random or […]",
+          "link": "https://xianblog.wordpress.com/2023/08/04/contextual-integrity-for-differential-privacy-3-23w5106/",
+          "publishedOn": "2023-08-03T22:23:23.000Z",
+          "wordCount": 2108,
+          "title": "Contextual Integrity for Differential Privacy #3 [23w5106]",
+          "imageUrl": "https://xianblog.files.wordpress.com/2023/08/1690992387546-e1690994241933.jpg"
+        },
+        {
           "id": "http://xianblog.wordpress.com/?p=53701",
           "author": "xi'an",
           "description": "Morning of diverse short talks. First one on What are the chances? Explaining ε towards endusers by presenting odds and illustrating the impact of including one potential user’s data. Then one on re-placing DP within CI in terms of causality. And multi-agent models, illustrated by the Cambridge Analytics scandal. I am still not getting the […]",
