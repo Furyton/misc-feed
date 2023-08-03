@@ -2,10 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-08-03T20:15:14.749Z</updated>
+    <updated>2023-08-03T21:12:22.389Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[LLMs4OL: Large Language Models for Ontology Learning]]></title>
+        <id>http://arxiv.org/abs/2307.16648</id>
+        <link href="http://arxiv.org/abs/2307.16648"/>
+        <updated>2023-08-03T21:12:13.214Z</updated>
+        <summary type="html"><![CDATA[Hamed Babaei Giglou, Jennifer D'Souza, S\"oren Auer]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Global Hierarchical Neural Networks using Hierarchical Softmax]]></title>
+        <id>http://arxiv.org/abs/2308.01210</id>
+        <link href="http://arxiv.org/abs/2308.01210"/>
+        <updated>2023-08-03T21:12:13.193Z</updated>
+        <summary type="html"><![CDATA[Jetze Schuurmans, Flavius Frasincar]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Automatic Emergency Dust-Free solution on-board International Space
+  Station with Bi-GRU (AED-ISS)]]></title>
+        <id>http://arxiv.org/abs/2210.08549</id>
+        <link href="http://arxiv.org/abs/2210.08549"/>
+        <updated>2023-08-03T21:12:13.187Z</updated>
+        <summary type="html"><![CDATA[Po-Han Hou, Wei-Chih Lin, Hong-Chun Hou, Yu-Hao Huang, Jih-Hong Shue]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Evaluating the Robustness of Test Selection Methods for Deep Neural
+  Networks]]></title>
+        <id>http://arxiv.org/abs/2308.01314</id>
+        <link href="http://arxiv.org/abs/2308.01314"/>
+        <updated>2023-08-03T21:12:13.064Z</updated>
+        <summary type="html"><![CDATA[Qiang Hu, Yuejun Guo, Xiaofei Xie, Maxime Cordy, Wei Ma, Mike
+  Papadakis, Yves Le Traon]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Multimodal medical AI]]></title>
         <id>http://ai.googleblog.com/2023/08/multimodal-medical-ai.html</id>
