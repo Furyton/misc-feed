@@ -1867,6 +1867,16 @@
       "siteUrl": "http://ai.googleblog.com/",
       "articles": [
         {
+          "id": "http://ai.googleblog.com/2023/08/multimodal-medical-ai.html",
+          "author": null,
+          "description": "Posted by Greg Corrado, Head of Health AI, Google Research, and Yossi Matias, VP, Engineering and Research, Google Research\n\n\n\n\n\n\nMedicine is an inherently multimodal discipline. When providing care, clinicians routinely interpret data from a wide range of modalities including medical images, clinical notes, lab tests, electronic health records, genomics, and more.  Over the last decade or so, AI systems have achieved expert-level performance on specific tasks within specific modalities — some AI systems processing CT scans, while others analyzing high magnification pathology slides, and still others hunting for rare genetic variations. The inputs to these systems tend to be complex data such as images, and they typically provide structured outputs, whether in the form of discrete grades o…",
+          "link": "http://ai.googleblog.com/2023/08/multimodal-medical-ai.html",
+          "publishedOn": "2023-08-03T18:24:00.001Z",
+          "wordCount": 27719,
+          "title": "Multimodal medical AI",
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhU2ypPfvmlgGQW4yp3EbUlJ4rLlIukRC9TDstIe7RV5JTxMo-THDgKPhFYbBUV4m0vKVjmG9lDTBWdy5kH_bR3-tqN8KzdhgmrLL_N2e_glc0WG-HkSm5Nouk7-MU65hu0RH5QWP0nHFNcZpERq9_agfaMqtHjhChbu_dPvWsJfZ8DsxZWnx15hogprRb3/w1200-h630-p-k-no-nu/medpalm.png"
+        },
+        {
           "id": "http://ai.googleblog.com/2023/07/in-search-of-generalizable-method-for.html",
           "author": null,
           "description": "Posted by Eleni Triantafillou, Research Scientist, and Malik Boudiaf, Student Researcher, Google \n\n\n\n\n\n\n\n\n\nDeep learning has recently made tremendous progress in a wide range of problems and applications, but models often fail unpredictably when deployed in unseen domains or distributions. Source-free domain adaptation (SFDA) is an area of research that aims to design methods for adapting a pre-trained model (trained on a “source domain”) to a new “target domain”, using only unlabeled data from the latter. \n \n\nDesigning adaptation methods for deep models is an important area of research. While the increasing scale of models and training datasets has been a key ingredient to their success, a negative consequence of this trend is that training such models is increasingly computationally expe…",
