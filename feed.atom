@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-08-03T15:15:28.999Z</updated>
+    <updated>2023-08-03T16:18:19.284Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Hugging Face Joins the PyTorch Foundation as a Premier Member]]></title>
+        <id>https://pytorch.org/blog/hugging-face-joins/</id>
+        <link href="https://pytorch.org/blog/hugging-face-joins/"/>
+        <updated>2023-08-03T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<div type="html"/>]]></summary>
+        <author>
+            <name>PyTorch Website</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Whose note?]]></title>
         <id>https://languagelog.ldc.upenn.edu/nll/?p=60012</id>
