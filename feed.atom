@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-08-04T14:13:28.109Z</updated>
+    <updated>2023-08-04T21:12:34.044Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -2538,16 +2538,6 @@ Image retrieval plays a crucial role in search engines. Typically, their users r
         <summary type="html"><![CDATA[The next-most-recent xkcd: Mouseover title: "Slowly progressing from 'how do protons behave in relativistic collisions?' to 'what the heck are protons even doing when they're just sitting there?'" This progression accords with most of my professional experience — for one example, see my 2018 paper "Towards Progress in Theories of Language Sound Structure", in Brentari […]]]></summary>
         <author>
             <name>Mark Liberman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Transformer升级之路：10、RoPE是一种β进制编码]]></title>
-        <id>https://kexue.fm/archives/9675</id>
-        <link href="https://kexue.fm/archives/9675"/>
-        <updated>2023-07-06T03:53:00.000Z</updated>
-        <summary type="html"><![CDATA[对关心如何扩展LLM的Context长度的读者来说，上周无疑是激动人心的一周，开源社区接连不断地出现令人振奋的成果。首先，网友@kaiokendev在他的项目SuperHOT中实验了“位置线性内...]]></summary>
-        <author>
-            <name>苏剑林</name>
         </author>
     </entry>
     <entry>
