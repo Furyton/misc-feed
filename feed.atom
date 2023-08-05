@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-08-05T01:11:46.097Z</updated>
+    <updated>2023-08-05T02:26:20.574Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Skunk stunk]]></title>
+        <id>https://languagelog.ldc.upenn.edu/nll/?p=60047</id>
+        <link href="https://languagelog.ldc.upenn.edu/nll/?p=60047&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=skunk-stunk"/>
+        <updated>2023-08-05T01:19:07.000Z</updated>
+        <summary type="html"><![CDATA[Two nights ago, it was raining heavily, with lightning and thunder every so often.  As I was peering out into the blackness of my backyard, all of a sudden, a bright light flashed on.  At first I thought it was lightning, but then I realized that someone or something had set off the light.  It […]]]></summary>
+        <author>
+            <name>Victor Mair</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Contextual Integrity for Differential Privacy #4 [23w5106]]]></title>
         <id>http://xianblog.wordpress.com/?p=53733</id>
