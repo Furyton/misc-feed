@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-08-04T21:12:34.044Z</updated>
+    <updated>2023-08-05T01:11:46.097Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Contextual Integrity for Differential Privacy #4 [23w5106]]]></title>
+        <id>http://xianblog.wordpress.com/?p=53733</id>
+        <link href="https://xianblog.wordpress.com/2023/08/05/contextual-integrity-for-differential-privacy-4-23w5106/"/>
+        <updated>2023-08-04T22:23:40.000Z</updated>
+        <summary type="html"><![CDATA[Mostly short talks. First talk by Thomas Seinke (Google) on interpreting ε, with a side wondering of mine on the relation between exp(ε) and the uncertainty that comes with Monte Carlo outcome. Which may relate to this 2022 paper by Ruobin Gong. Second talk by Gautam Kamath (U Waterloo) on large language models under privacy […]]]></summary>
+        <author>
+            <name>xi'an</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Just sayin']]></title>
         <id>https://languagelog.ldc.upenn.edu/nll/?p=60023</id>
@@ -2518,82 +2528,6 @@ Visual question answering (VQA) is a machine learning task that requires a model
 Image retrieval plays a crucial role in search engines. Typically, their users rely on either image or text as a query to retrieve a desired target image. However, text-based retrieval has its limitations, as describing the target image accurately using words can be challenging. For instance, when searching for a fashion item, users may want an item whose specific attribute, e.g., the color of a logo or the logo itself, is different from what they find in a website. Yet searching for the item in an existing search engine is not trivial since precisely describing the fashion item by text can be challenging. To address this fact, composed image retrieval (CIR…]]></summary>
         <author>
             <name>Google AI Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Impressive speech in Taiwanese by Australian representative]]></title>
-        <id>https://languagelog.ldc.upenn.edu/nll/?p=59528</id>
-        <link href="https://languagelog.ldc.upenn.edu/nll/?p=59528&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=impressive-speech-in-taiwanese-by-australian-representative"/>
-        <updated>2023-07-06T12:45:47.000Z</updated>
-        <summary type="html"><![CDATA[Over the last three years, I have seen first-hand Taiwan’s rich diversity and resilience and experienced the warmth, friendship, support and hospitality of the Taiwanese people. As I prepare to return to my hometown #Melbourne in the coming weeks, see my message in Taiwanese: pic.twitter.com/oSZ1hKp6Jx — Jenny Bloomfield (@AusOfficeTPE) July 4, 2023 With subtitles in […]]]></summary>
-        <author>
-            <name>Victor Mair</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Progress]]></title>
-        <id>https://languagelog.ldc.upenn.edu/nll/?p=59531</id>
-        <link href="https://languagelog.ldc.upenn.edu/nll/?p=59531&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=progress"/>
-        <updated>2023-07-06T10:34:58.000Z</updated>
-        <summary type="html"><![CDATA[The next-most-recent xkcd: Mouseover title: "Slowly progressing from 'how do protons behave in relativistic collisions?' to 'what the heck are protons even doing when they're just sitting there?'" This progression accords with most of my professional experience — for one example, see my 2018 paper "Towards Progress in Theories of Language Sound Structure", in Brentari […]]]></summary>
-        <author>
-            <name>Mark Liberman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Comparison of Machine Learning Methods for Data with High-Cardinality
-  Categorical Variables]]></title>
-        <id>http://arxiv.org/abs/2307.02071</id>
-        <link href="http://arxiv.org/abs/2307.02071"/>
-        <updated>2023-07-06T01:43:31.042Z</updated>
-        <summary type="html"><![CDATA[Fabio Sigrist]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meta-Learning Adversarial Bandit Algorithms]]></title>
-        <id>http://arxiv.org/abs/2307.02295</id>
-        <link href="http://arxiv.org/abs/2307.02295"/>
-        <updated>2023-07-06T01:43:31.038Z</updated>
-        <summary type="html"><![CDATA[Mikhail Khodak, Ilya Osadchiy, Keegan Harris, Maria-Florina Balcan,
-  Kfir Y. Levy, Ron Meir, Zhiwei Steven Wu]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Neural Collapse Perspective on Feature Evolution in Graph Neural
-  Networks]]></title>
-        <id>http://arxiv.org/abs/2307.01951</id>
-        <link href="http://arxiv.org/abs/2307.01951"/>
-        <updated>2023-07-06T01:43:30.940Z</updated>
-        <summary type="html"><![CDATA[Vignesh Kothapalli, Tom Tirer, Joan Bruna]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meta-Learning for Simple Regret Minimization]]></title>
-        <id>http://arxiv.org/abs/2202.12888</id>
-        <link href="http://arxiv.org/abs/2202.12888"/>
-        <updated>2023-07-06T01:43:28.199Z</updated>
-        <summary type="html"><![CDATA[Mohammadjavad Azizi, Branislav Kveton, Mohammad Ghavamzadeh, Sumeet
-  Katariya]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Deep Neural Networks Learn Compositional Data: The Random Hierarchy
-  Model]]></title>
-        <id>http://arxiv.org/abs/2307.02129</id>
-        <link href="http://arxiv.org/abs/2307.02129"/>
-        <updated>2023-07-06T01:43:28.194Z</updated>
-        <summary type="html"><![CDATA[Leonardo Petrini, Francesco Cagnetta, Umberto M. Tomasini, Alessandro
-  Favero, Matthieu Wyart]]></summary>
-        <author>
-            <name>arxivist feed</name>
         </author>
     </entry>
 </feed>
