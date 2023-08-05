@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-08-05T19:10:58.411Z</updated>
+    <updated>2023-08-05T20:14:02.195Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -2459,49 +2459,6 @@ Visual question answering (VQA) is a machine learning task that requires a model
         <summary type="html"><![CDATA[Joe Marshall, "As AI cheating booms, so does the industry detecting it: ‘We couldn’t keep up with demand’", The Guardian 7/5/2023: Since its release last November, ChatGPT has shaken the education world. The chatbot and other sophisticated AI tools are reportedly being used everywhere from college essays to high school art projects. A recent survey […]]]></summary>
         <author>
             <name>Mark Liberman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DeepOnto: A Python Package for Ontology Engineering with Deep Learning]]></title>
-        <id>http://arxiv.org/abs/2307.03067</id>
-        <link href="http://arxiv.org/abs/2307.03067"/>
-        <updated>2023-07-07T07:15:13.946Z</updated>
-        <summary type="html"><![CDATA[Yuan He, Jiaoyan Chen, Hang Dong, Ian Horrocks, Carlo Allocca, Taehun
-  Kim, Brahmananda Sapkota]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Evaluating the Evaluators: Are Current Few-Shot Learning Benchmarks Fit
-  for Purpose?]]></title>
-        <id>http://arxiv.org/abs/2307.02732</id>
-        <link href="http://arxiv.org/abs/2307.02732"/>
-        <updated>2023-07-07T07:15:13.939Z</updated>
-        <summary type="html"><![CDATA[Lu\'isa Shimabucoro, Timothy Hospedales, Henry Gouk]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Statistical-Computational Tradeoffs in Mixed Sparse Linear Regression]]></title>
-        <id>http://arxiv.org/abs/2303.02118</id>
-        <link href="http://arxiv.org/abs/2303.02118"/>
-        <updated>2023-07-07T07:15:13.931Z</updated>
-        <summary type="html"><![CDATA[Gabriel Arpino, Ramji Venkataramanan]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learning Low-Dimensional Nonlinear Structures from High-Dimensional
-  Noisy Data: An Integral Operator Approach]]></title>
-        <id>http://arxiv.org/abs/2203.00126</id>
-        <link href="http://arxiv.org/abs/2203.00126"/>
-        <updated>2023-07-07T07:15:13.910Z</updated>
-        <summary type="html"><![CDATA[Xiucai Ding, Rong Ma]]></summary>
-        <author>
-            <name>arxivist feed</name>
         </author>
     </entry>
 </feed>
