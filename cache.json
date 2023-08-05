@@ -1945,16 +1945,6 @@
           "wordCount": 27495,
           "title": "Modular visual question answering via code generation",
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjitkbpvH8cFcz-jbaK4Z8RzeDVi2aryR7NDkV55pqlh73A6iAeFEhw7HREIWOD0z9YY5Id3lhDLAIRs8fIJM0MxSYMljx8d9glfnv8p1WnXJNrABjVYgqA9xmCaNWTTyYw4qgSB26WreN62wWr382-4cSEXHgXe4nnDokdtNm9flD4zhxw9yynus09ZFeD/w1200-h630-p-k-no-nu/hero.gif"
-        },
-        {
-          "id": "http://ai.googleblog.com/2023/07/pic2word-mapping-pictures-to-words-for.html",
-          "author": null,
-          "description": "Posted by Kuniaki Saito, Student Researcher, Google Research, Cloud AI Team, and Kihyuk Sohn, Research Scientist, Google Research\n\n\n\n\n\nImage retrieval plays a crucial role in search engines. Typically, their users rely on either image or text as a query to retrieve a desired target image. However, text-based retrieval has its limitations, as describing the target image accurately using words can be challenging. For instance, when searching for a fashion item, users may want an item whose specific attribute, e.g., the color of a logo or the logo itself, is different from what they find in a website. Yet searching for the item in an existing search engine is not trivial since precisely describing the fashion item by text can be challenging. To address this fact, composed image retrieval (CIR…",
-          "link": "http://ai.googleblog.com/2023/07/pic2word-mapping-pictures-to-words-for.html",
-          "publishedOn": "2023-07-06T19:50:00.000Z",
-          "wordCount": 27565,
-          "title": "Pic2Word: Mapping pictures to words for zero-shot composed image retrieval",
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi6B2QkPYBxWvwycmetnYj3hn1h6R9lhon2guJb7jNE3lSCmGXWSe-tm_AdTC6pJ-ORJSIsGz-JuRHpFqflOHvk02R_1AVd0s4Z0JvZ4m1SV6OtiPx0b6DF4BOpEtfW-hkTKt1VhoTPbQKDQCBF3ihZ5rQG9GGe9AQ6xVH8vMYtUYIWBc2hIIvs0mwQh70r/w1200-h630-p-k-no-nu/Pic2Word.png"
         }
       ]
     },

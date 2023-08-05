@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-08-05T07:12:03.011Z</updated>
+    <updated>2023-08-05T08:16:33.072Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -2532,22 +2532,6 @@ Visual question answering (VQA) is a machine learning task that requires a model
         <summary type="html"><![CDATA[From the movie "Jak rozpętałem drugą wojnę światową" (How I Unleashed World War II): The initial Q&A: Your browser does not support the audio element. Q: Name und Vorname? A: Grzegorz Brzęczyszczykiewicz. Waveform, spectrogram, F0 track: Just the answer: Your browser does not support the audio element. "Birthplace" Q&A, at the end of the scene: […]]]></summary>
         <author>
             <name>Mark Liberman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pic2Word: Mapping pictures to words for zero-shot composed image retrieval]]></title>
-        <id>http://ai.googleblog.com/2023/07/pic2word-mapping-pictures-to-words-for.html</id>
-        <link href="http://ai.googleblog.com/2023/07/pic2word-mapping-pictures-to-words-for.html"/>
-        <updated>2023-07-06T19:50:00.000Z</updated>
-        <summary type="html"><![CDATA[Posted by Kuniaki Saito, Student Researcher, Google Research, Cloud AI Team, and Kihyuk Sohn, Research Scientist, Google Research
-
-
-
-
-
-Image retrieval plays a crucial role in search engines. Typically, their users rely on either image or text as a query to retrieve a desired target image. However, text-based retrieval has its limitations, as describing the target image accurately using words can be challenging. For instance, when searching for a fashion item, users may want an item whose specific attribute, e.g., the color of a logo or the logo itself, is different from what they find in a website. Yet searching for the item in an existing search engine is not trivial since precisely describing the fashion item by text can be challenging. To address this fact, composed image retrieval (CIR…]]></summary>
-        <author>
-            <name>Google AI Blog</name>
         </author>
     </entry>
 </feed>
