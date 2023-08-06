@@ -6,6 +6,16 @@
       "siteUrl": "https://www.arxivist.com",
       "articles": [
         {
+          "id": "http://arxiv.org/abs/2212.10749",
+          "author": null,
+          "description": "Jun-Yong Yan, Chen Chen, Xiao-Dong Zhang, Yu-Tong Wang, Hans-Georg\n  Babin, Andreas D. Wieck, Arne Ludwig, Yun Meng, Xiaolong Hu, Huali Duan,\n  Wenchao Chen, Wei Fang, Moritz Cygorek, Xing Lin, Da-Wei Wang, Chao-Yuan Jin,\n  Feng Liu",
+          "link": "http://arxiv.org/abs/2212.10749",
+          "publishedOn": "2023-08-06T01:08:44.930Z",
+          "wordCount": 746,
+          "title": "Coherent control of a high-orbital hole in a semiconductor quantum dot",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
           "id": "http://arxiv.org/abs/2307.16648",
           "author": null,
           "description": "Hamed Babaei Giglou, Jennifer D'Souza, S\\\"oren Auer",
@@ -2503,16 +2513,6 @@
           "publishedOn": "2023-07-07T15:57:05.000Z",
           "wordCount": 3209,
           "title": "Ptahhatp's proverbs",
-          "imageUrl": null
-        },
-        {
-          "id": "https://languagelog.ldc.upenn.edu/nll/?p=59607",
-          "author": "Mark Liberman",
-          "description": "Joe Marshall, \"As AI cheating booms, so does the industry detecting it: ‘We couldn’t keep up with demand’\", The Guardian 7/5/2023: Since its release last November, ChatGPT has shaken the education world. The chatbot and other sophisticated AI tools are reportedly being used everywhere from college essays to high school art projects. A recent survey […]",
-          "link": "https://languagelog.ldc.upenn.edu/nll/?p=59607&utm_source=rss&utm_medium=rss&utm_campaign=the-llm-detection-boom",
-          "publishedOn": "2023-07-07T12:49:58.000Z",
-          "wordCount": 2612,
-          "title": "The LLM-detection boom",
           "imageUrl": null
         }
       ]

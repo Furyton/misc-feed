@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-08-05T23:13:35.287Z</updated>
+    <updated>2023-08-06T01:08:48.450Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Coherent control of a high-orbital hole in a semiconductor quantum dot]]></title>
+        <id>http://arxiv.org/abs/2212.10749</id>
+        <link href="http://arxiv.org/abs/2212.10749"/>
+        <updated>2023-08-06T01:08:44.930Z</updated>
+        <summary type="html"><![CDATA[Jun-Yong Yan, Chen Chen, Xiao-Dong Zhang, Yu-Tong Wang, Hans-Georg
+  Babin, Andreas D. Wieck, Arne Ludwig, Yun Meng, Xiaolong Hu, Huali Duan,
+  Wenchao Chen, Wei Fang, Moritz Cygorek, Xing Lin, Da-Wei Wang, Chao-Yuan Jin,
+  Feng Liu]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[position at the Technical University of Munich (TUM)]]></title>
         <id>http://xianblog.wordpress.com/?p=53743</id>
@@ -2459,16 +2472,6 @@ Visual question answering (VQA) is a machine learning task that requires a model
         <summary type="html"><![CDATA[From the Wall Street Journal ‘The Oldest Book in the World’ Review: Also Sprach Ptahhatp A set of maxims attributed to an adviser of an Egyptian pharaoh may be the world’s earliest surviving work of philosophy. By Dominic Green July 6, 2023 6:20 pm ET What have we?  Philosophy in the Age of the Pyramids?  […]]]></summary>
         <author>
             <name>Victor Mair</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The LLM-detection boom]]></title>
-        <id>https://languagelog.ldc.upenn.edu/nll/?p=59607</id>
-        <link href="https://languagelog.ldc.upenn.edu/nll/?p=59607&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=the-llm-detection-boom"/>
-        <updated>2023-07-07T12:49:58.000Z</updated>
-        <summary type="html"><![CDATA[Joe Marshall, "As AI cheating booms, so does the industry detecting it: ‘We couldn’t keep up with demand’", The Guardian 7/5/2023: Since its release last November, ChatGPT has shaken the education world. The chatbot and other sophisticated AI tools are reportedly being used everywhere from college essays to high school art projects. A recent survey […]]]></summary>
-        <author>
-            <name>Mark Liberman</name>
         </author>
     </entry>
 </feed>
