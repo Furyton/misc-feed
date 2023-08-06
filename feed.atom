@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-08-06T03:14:41.039Z</updated>
+    <updated>2023-08-06T04:16:38.575Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -2462,16 +2462,6 @@ Read more...]]></summary>
 Visual question answering (VQA) is a machine learning task that requires a model to answer a question about an image or a set of images. Conventional VQA approaches need a large amount of labeled training data consisting of thousands of human-annotated question-answer pairs associated with images. In recent years, advances in large-scale pre-training have led to the development of VQA methods that perform well with fewer than fifty training examples (few-shot) and without any human-annotated VQA training data (zero-shot). However, there is still a significant performance gap between these methods and state-of-the-art fully supervised VQA methods, such as MaMMU…]]></summary>
         <author>
             <name>Google AI Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ptahhatp's proverbs]]></title>
-        <id>https://languagelog.ldc.upenn.edu/nll/?p=59587</id>
-        <link href="https://languagelog.ldc.upenn.edu/nll/?p=59587&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=ptahhatps-proverbs"/>
-        <updated>2023-07-07T15:57:05.000Z</updated>
-        <summary type="html"><![CDATA[From the Wall Street Journal ‘The Oldest Book in the World’ Review: Also Sprach Ptahhatp A set of maxims attributed to an adviser of an Egyptian pharaoh may be the world’s earliest surviving work of philosophy. By Dominic Green July 6, 2023 6:20 pm ET What have we?  Philosophy in the Age of the Pyramids?  […]]]></summary>
-        <author>
-            <name>Victor Mair</name>
         </author>
     </entry>
 </feed>
