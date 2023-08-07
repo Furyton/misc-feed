@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-08-07T10:15:56.767Z</updated>
+    <updated>2023-08-07T11:12:27.143Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Sergeant Dickason's Blend]]></title>
+        <id>https://languagelog.ldc.upenn.edu/nll/?p=60058</id>
+        <link href="https://languagelog.ldc.upenn.edu/nll/?p=60058&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=sergeant-dickasons-blend"/>
+        <updated>2023-08-07T10:43:28.000Z</updated>
+        <summary type="html"><![CDATA[Over brunch the other day, a question came up that I've wondered about in the past: Who was the "Major Dickason" of Major Dickason's Blend? Skipping my imaginary histories, here's the real story. According to "A coffee revolution: Peet’s’ first ever employee spills the beans", Berkeleyside 7/25/2023: Long before the pandemic, the widespread adoption of […]]]></summary>
+        <author>
+            <name>Mark Liberman</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Scalable PAC-Bayesian Meta-Learning via the PAC-Optimal Hyper-Posterior:
   From Theory to Practice]]></title>
@@ -2502,16 +2512,6 @@ Read more...]]></summary>
         <summary type="html"><![CDATA[Hideaki Ooshima, Katsumi Oshima]]></summary>
         <author>
             <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[poem about a crow [Victoria Amelina, 1986-2023]]]></title>
-        <id>http://xianblog.wordpress.com/?p=53433</id>
-        <link href="https://xianblog.wordpress.com/2023/07/09/poem-about-a-crow-victoria-amelina-1986-2023/"/>
-        <updated>2023-07-08T22:23:15.000Z</updated>
-        <summary type="html"><![CDATA[Poem About a Crow In a barren springtime field Stands a woman dressed in black Crying her sisters’ names Like a bird in the empty sky She’ll cry them all out of herself The one that flew away too soon The one that had begged to die The one that couldn’t stop death The one […]]]></summary>
-        <author>
-            <name>xi'an</name>
         </author>
     </entry>
 </feed>
