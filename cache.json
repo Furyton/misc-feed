@@ -6,6 +6,56 @@
       "siteUrl": "https://www.arxivist.com",
       "articles": [
         {
+          "id": "http://arxiv.org/abs/2211.07206",
+          "author": null,
+          "description": "Jonas Rothfuss, Martin Josifoski, Vincent Fortuin, Andreas Krause",
+          "link": "http://arxiv.org/abs/2211.07206",
+          "publishedOn": "2023-08-07T02:30:08.547Z",
+          "wordCount": 754,
+          "title": "Scalable PAC-Bayesian Meta-Learning via the PAC-Optimal Hyper-Posterior:\n  From Theory to Practice",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2308.01938",
+          "author": null,
+          "description": "Gabriel R. Lencione, Fernando J. Von Zuben",
+          "link": "http://arxiv.org/abs/2308.01938",
+          "publishedOn": "2023-08-07T02:30:08.541Z",
+          "wordCount": 668,
+          "title": "Online Multi-Task Learning with Recursive Least Squares and Recursive\n  Kernel Methods",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2308.02344",
+          "author": null,
+          "description": "Subhro Ghosh, Soumendu Sundar Mukherjee, Hoang-Son Tran, Ujan\n  Gangopadhyay",
+          "link": "http://arxiv.org/abs/2308.02344",
+          "publishedOn": "2023-08-07T02:30:08.527Z",
+          "wordCount": 739,
+          "title": "Learning Networks from Gaussian Graphical Models and Gaussian Free\n  Fields",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2308.02293",
+          "author": null,
+          "description": "Akifumi Okuno",
+          "link": "http://arxiv.org/abs/2308.02293",
+          "publishedOn": "2023-08-07T02:30:08.521Z",
+          "wordCount": 723,
+          "title": "A stochastic optimization approach to train non-linear neural networks\n  with regularization of higher-order total variation",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2308.02462",
+          "author": null,
+          "description": "Mahmoud Yaseen, Dewen Yushu, Peter German, Xu Wu",
+          "link": "http://arxiv.org/abs/2308.02462",
+          "publishedOn": "2023-08-07T02:30:08.516Z",
+          "wordCount": 786,
+          "title": "Fast and Accurate Reduced-Order Modeling of a MOOSE-based Additive\n  Manufacturing Model with Operator Learning",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
           "id": "http://arxiv.org/abs/2212.10749",
           "author": null,
           "description": "Jun-Yong Yan, Chen Chen, Xiao-Dong Zhang, Yu-Tong Wang, Hans-Georg\n  Babin, Andreas D. Wieck, Arne Ludwig, Yun Meng, Xiaolong Hu, Huali Duan,\n  Wenchao Chen, Wei Fang, Moritz Cygorek, Xing Lin, Da-Wei Wang, Chao-Yuan Jin,\n  Feng Liu",
@@ -1061,6 +1111,16 @@
       "feedUrl": "https://kexue.fm/feed/",
       "siteUrl": "https://kexue.fm/",
       "articles": [
+        {
+          "id": "https://kexue.fm/archives/9708",
+          "author": "苏剑林",
+          "description": "自从在《Transformer升级之路：11、将β进制位置进行到底》中引入混合进制的思路进一步推广了NTK-aware Scaled RoPE后，笔者感觉类似思路的效果已经达到了上限，想要更大幅...",
+          "link": "https://kexue.fm/archives/9708",
+          "publishedOn": "2023-08-07T02:08:00.000Z",
+          "wordCount": 2500,
+          "title": "Transformer升级之路：12、无限外推的ReRoPE？",
+          "imageUrl": null
+        },
         {
           "id": "https://kexue.fm/archives/9706",
           "author": "苏剑林",

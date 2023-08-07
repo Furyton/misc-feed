@@ -2,10 +2,76 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-08-07T01:14:37.052Z</updated>
+    <updated>2023-08-07T02:30:10.180Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Scalable PAC-Bayesian Meta-Learning via the PAC-Optimal Hyper-Posterior:
+  From Theory to Practice]]></title>
+        <id>http://arxiv.org/abs/2211.07206</id>
+        <link href="http://arxiv.org/abs/2211.07206"/>
+        <updated>2023-08-07T02:30:08.547Z</updated>
+        <summary type="html"><![CDATA[Jonas Rothfuss, Martin Josifoski, Vincent Fortuin, Andreas Krause]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Online Multi-Task Learning with Recursive Least Squares and Recursive
+  Kernel Methods]]></title>
+        <id>http://arxiv.org/abs/2308.01938</id>
+        <link href="http://arxiv.org/abs/2308.01938"/>
+        <updated>2023-08-07T02:30:08.541Z</updated>
+        <summary type="html"><![CDATA[Gabriel R. Lencione, Fernando J. Von Zuben]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learning Networks from Gaussian Graphical Models and Gaussian Free
+  Fields]]></title>
+        <id>http://arxiv.org/abs/2308.02344</id>
+        <link href="http://arxiv.org/abs/2308.02344"/>
+        <updated>2023-08-07T02:30:08.527Z</updated>
+        <summary type="html"><![CDATA[Subhro Ghosh, Soumendu Sundar Mukherjee, Hoang-Son Tran, Ujan
+  Gangopadhyay]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A stochastic optimization approach to train non-linear neural networks
+  with regularization of higher-order total variation]]></title>
+        <id>http://arxiv.org/abs/2308.02293</id>
+        <link href="http://arxiv.org/abs/2308.02293"/>
+        <updated>2023-08-07T02:30:08.521Z</updated>
+        <summary type="html"><![CDATA[Akifumi Okuno]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fast and Accurate Reduced-Order Modeling of a MOOSE-based Additive
+  Manufacturing Model with Operator Learning]]></title>
+        <id>http://arxiv.org/abs/2308.02462</id>
+        <link href="http://arxiv.org/abs/2308.02462"/>
+        <updated>2023-08-07T02:30:08.516Z</updated>
+        <summary type="html"><![CDATA[Mahmoud Yaseen, Dewen Yushu, Peter German, Xu Wu]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Transformer升级之路：12、无限外推的ReRoPE？]]></title>
+        <id>https://kexue.fm/archives/9708</id>
+        <link href="https://kexue.fm/archives/9708"/>
+        <updated>2023-08-07T02:08:00.000Z</updated>
+        <summary type="html"><![CDATA[自从在《Transformer升级之路：11、将β进制位置进行到底》中引入混合进制的思路进一步推广了NTK-aware Scaled RoPE后，笔者感觉类似思路的效果已经达到了上限，想要更大幅...]]></summary>
+        <author>
+            <name>苏剑林</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[the unapologetic brilliance of Sinéad O’Connor]]></title>
         <id>http://xianblog.wordpress.com/?p=53649</id>
