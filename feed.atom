@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-08-08T11:12:28.208Z</updated>
+    <updated>2023-08-08T12:29:07.090Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -2538,26 +2538,6 @@ It is widely believed that deep learning’s stunning success is due in part to 
         <summary type="html"><![CDATA[More savory Chinglish from Dunhuang: lāo zhī qiāncéng dù 捞汁千层肚 "thousand-layered tripe scooped from broth" gàn bàn shùnfēng ěr 干拌顺风耳 "dry mixed clairaudient (pig) ears" N.B.:  When Chinese eat the ears of an animal, it's usually those of pigs.  To prettify the pigs' ears, they style them "clairaudient".  No mention of chili sauce in the Chinese. […]]]></summary>
         <author>
             <name>Victor Mair</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The easiest way to speed up Python with Rust]]></title>
-        <id>https://pythonspeed.com/articles/easiest-rust-python/</id>
-        <link href="https://pythonspeed.com/articles/easiest-rust-python/"/>
-        <updated>2023-07-10T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[If you want to speed up some existing Python code, writing a compiled extension in Rust can be an excellent choice:
-In many situations, Rust code can run much faster than Python.
-Rust prevents most of the memory-management bugs that often occur in C, C++, and Cython code.
-There is a growing ecosystem of third-party Rust packages available, and unlike C and C++ it also has a built-in package manager and build system.
-However, if you just want to prototype a Rust extension, packaging and integration boilerplate can get in the way: every extra bit of friction prevents you from just doing the experiment of whether or not Rust will help.
-This is where rustimport comes in, a library that makes standalone Rust files easily importable in Python (currently only on Linux and macOS).
-In this article we’ll cover:
-How to use rustimport to quickly try out your Rust code.
-The most common performance mistake Rust beginners make, and how to avoid it.
-Some gotchas when using rustimport.
-Read more...]]></summary>
-        <author>
-            <name>Python⇒Speed</name>
         </author>
     </entry>
 </feed>
