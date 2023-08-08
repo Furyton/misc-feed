@@ -1846,6 +1846,16 @@
       "siteUrl": "http://ai.googleblog.com/",
       "articles": [
         {
+          "id": "http://ai.googleblog.com/2023/08/adatape-foundation-model-with-adaptive.html",
+          "author": null,
+          "description": "Posted by Fuzhao Xue, Research Intern, and Mostafa Dehghani, Research Scientist, Google\n\n\n\n\n\n\n\nAdaptive computation refers to the ability of a machine learning system to adjust its behavior in response to changes in the environment. While conventional neural networks have a fixed function and computation capacity, i.e., they spend the same number of FLOPs for processing different inputs, a model with adaptive and dynamic computation modulates the computational budget it dedicates to processing each input, depending on the complexity of the input.\n\n\nAdaptive computation in neural networks is appealing for two key reasons. First, the mechanism that introduces adaptivity provides an inductive bias that can play a key role in solving some challenging tasks. For instance, enabling different num…",
+          "link": "http://ai.googleblog.com/2023/08/adatape-foundation-model-with-adaptive.html",
+          "publishedOn": "2023-08-08T21:02:00.000Z",
+          "wordCount": 27871,
+          "title": "AdaTape: Foundation model with adaptive computation and dynamic read-and-write",
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjlzhnBmcyTQ940NZQduhyS5G17r9FghwVjYOPW2Ly0pRzug9DdZ7p02z1iK1g9b93xIqJhdQrg5XVmlcUQqUcSOwQXOGSm6lhcScopZX5J3OTxIsThxmAudIEpkrshjAhipDV4VKFL7Vv1r0Qad77VSiH7rGUD9-E5Jgg1HnzmSkIBt24rd3j1rPN2Ee2N/w1200-h630-p-k-no-nu/adatape.png"
+        },
+        {
           "id": "http://ai.googleblog.com/2023/08/multimodal-medical-ai.html",
           "author": null,
           "description": "Posted by Greg Corrado, Head of Health AI, Google Research, and Yossi Matias, VP, Engineering and Research, Google Research\n\n\n\n\n\n\nMedicine is an inherently multimodal discipline. When providing care, clinicians routinely interpret data from a wide range of modalities including medical images, clinical notes, lab tests, electronic health records, genomics, and more.  Over the last decade or so, AI systems have achieved expert-level performance on specific tasks within specific modalities — some AI systems processing CT scans, while others analyzing high magnification pathology slides, and still others hunting for rare genetic variations. The inputs to these systems tend to be complex data such as images, and they typically provide structured outputs, whether in the form of discrete grades o…",
