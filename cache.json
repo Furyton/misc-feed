@@ -1473,16 +1473,6 @@
           "wordCount": 1989,
           "title": "Announcing CPP-based S3 IO DataPipes",
           "imageUrl": "https://pytorch.org/assets/images/pytorch-logo.png"
-        },
-        {
-          "id": "https://pytorch.org/blog/how-to-accelerate/",
-          "author": null,
-          "description": "Overview",
-          "link": "https://pytorch.org/blog/how-to-accelerate/",
-          "publishedOn": "2023-07-10T07:00:00.000Z",
-          "wordCount": 1615,
-          "title": "How to Accelerate PyTorch Geometric on Intel® CPUs",
-          "imageUrl": "https://pytorch.org/assets/images/pytorch-logo.png"
         }
       ]
     },
@@ -2069,6 +2059,16 @@
       "feedUrl": "https://languagelog.ldc.upenn.edu/nll/?feed=rss2",
       "siteUrl": "https://languagelog.ldc.upenn.edu/nll",
       "articles": [
+        {
+          "id": "https://languagelog.ldc.upenn.edu/nll/?p=60081",
+          "author": "Mark Liberman",
+          "description": "…though they often do a credible job of faking it.  An interesting (preprint) paper by Konstantine Arkoudas, \"GPT-4 Can't Reason\", brings the receipts. The abstract: GPT-4 was released in March 2023 to wide acclaim, marking a very substantial improvement across the board over GPT-3.5 (OpenAI’s previously best model, which had powered the initial release of […]",
+          "link": "https://languagelog.ldc.upenn.edu/nll/?p=60081&utm_source=rss&utm_medium=rss&utm_campaign=llms-cant-reason",
+          "publishedOn": "2023-08-08T18:27:54.000Z",
+          "wordCount": 2833,
+          "title": "LLMs can't reason?",
+          "imageUrl": null
+        },
         {
           "id": "https://languagelog.ldc.upenn.edu/nll/?p=60072",
           "author": "Victor Mair",
