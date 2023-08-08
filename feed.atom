@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-08-08T20:15:24.821Z</updated>
+    <updated>2023-08-08T21:13:19.675Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -2465,18 +2465,6 @@ Spotlight papers
 NusaCrowd: O…]]></summary>
         <author>
             <name>Google AI Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[On the Stepwise Nature of <br> Self-Supervised Learning]]></title>
-        <id>http://bair.berkeley.edu/blog/2023/07/10/stepwise-ssl/</id>
-        <link href="http://bair.berkeley.edu/blog/2023/07/10/stepwise-ssl/"/>
-        <updated>2023-07-10T09:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Figure 1: stepwise behavior in self-supervised learning. When training common SSL algorithms, we find that the loss descends in a stepwise fashion (top left) and the learned embeddings iteratively increase in dimensionality (bottom left). Direct visualization of embeddings (right; top three PCA directions shown) confirms that embeddings are initially collapsed to a point, which then expands to a 1D manifold, a 2D manifold, and beyond concurrently with steps in the loss.
-
-It is widely believed that deep learning’s stunning success is due in part to its ability to discover and extract useful representations of complex data. Self-supervised learning (SSL) has emerged as a leading framework for learning these representations for images directly from unlabeled data, similar to how LLMs learn re…]]></summary>
-        <author>
-            <name>The Berkeley Artificial Intelligence Research Blog</name>
         </author>
     </entry>
 </feed>
