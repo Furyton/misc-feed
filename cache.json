@@ -6,6 +6,56 @@
       "siteUrl": "https://www.arxivist.com",
       "articles": [
         {
+          "id": "http://arxiv.org/abs/2307.12306",
+          "author": null,
+          "description": "Zheyuan Hu, Khemraj Shukla, George Em Karniadakis, Kenji Kawaguchi",
+          "link": "http://arxiv.org/abs/2307.12306",
+          "publishedOn": "2023-08-08T02:28:56.881Z",
+          "wordCount": 790,
+          "title": "Tackling the Curse of Dimensionality with Physics-Informed Neural\n  Networks",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2303.08613",
+          "author": null,
+          "description": "Siyu Chen, Jibang Wu, Yifan Wu, Zhuoran Yang",
+          "link": "http://arxiv.org/abs/2303.08613",
+          "publishedOn": "2023-08-08T02:28:56.865Z",
+          "wordCount": 733,
+          "title": "Learning to Incentivize Information Acquisition: Proper Scoring Rules\n  Meet Principal-Agent Model",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2308.03296",
+          "author": null,
+          "description": "Roger Grosse, Juhan Bae, Cem Anil, Nelson Elhage, Alex Tamkin,\n  Amirhossein Tajdini, Benoit Steiner, Dustin Li, Esin Durmus, Ethan Perez,\n  Evan Hubinger, Kamil\\.e Luko\\v{s}i\\=ut\\.e, Karina Nguyen, Nicholas Joseph,\n  Sam McCandlish, Jared Kaplan, Samuel R. Bowman",
+          "link": "http://arxiv.org/abs/2308.03296",
+          "publishedOn": "2023-08-08T02:28:56.846Z",
+          "wordCount": 773,
+          "title": "Studying Large Language Model Generalization with Influence Functions",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2206.02659",
+          "author": null,
+          "description": "Haotian Ju, Dongyue Li, Hongyang R. Zhang",
+          "link": "http://arxiv.org/abs/2206.02659",
+          "publishedOn": "2023-08-08T02:28:56.839Z",
+          "wordCount": 775,
+          "title": "Robust Fine-Tuning of Deep Neural Networks with Hessian-based\n  Generalization Guarantees",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2308.03730",
+          "author": null,
+          "description": "Lev V. Utkin, Danila Y. Eremenko, Andrei V. Konstantinov",
+          "link": "http://arxiv.org/abs/2308.03730",
+          "publishedOn": "2023-08-08T02:28:56.725Z",
+          "wordCount": 728,
+          "title": "SurvBeX: An explanation method of the machine learning survival models\n  based on the Beran estimator",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
           "id": "http://arxiv.org/abs/2211.07206",
           "author": null,
           "description": "Jonas Rothfuss, Martin Josifoski, Vincent Fortuin, Andreas Krause",
