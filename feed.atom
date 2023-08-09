@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-08-09T04:17:31.443Z</updated>
+    <updated>2023-08-09T05:13:53.531Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA["Don't blindly save yourself"]]></title>
+        <id>https://languagelog.ldc.upenn.edu/nll/?p=60068</id>
+        <link href="https://languagelog.ldc.upenn.edu/nll/?p=60068&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=dont-blindly-save-yourself"/>
+        <updated>2023-08-09T05:03:33.000Z</updated>
+        <summary type="html"><![CDATA[The following photo is from Guanghzhou and was taken recently by David Lobina's partner who’s there now.  The Chinese says: rúyǒu gùzhàng ， búyào mángmù zìjiù 如有故障，不要盲目自救 "If there is a malfunction, do not blindly rescue / save yourself" Though the second clause may initially strike one as being in error, it is actually a […]]]></summary>
+        <author>
+            <name>Victor Mair</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[It's so hard to say "goodbye" in Chinese]]></title>
+        <id>https://languagelog.ldc.upenn.edu/nll/?p=60050</id>
+        <link href="https://languagelog.ldc.upenn.edu/nll/?p=60050&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=its-so-hard-to-say-goodbye-in-chinese"/>
+        <updated>2023-08-09T05:00:17.000Z</updated>
+        <summary type="html"><![CDATA[From a photo sharing group on Facebook: The Chinese says: fēnshǒu 分手 "separate; (bid) farewell; part(ing); part company; break up (with); split up; end a relationship") Cf. fēnshǒu xìn 分手信 ("break up letter; Dear John letter"). Selected readings "Luv u" (4/29/17) "'Waiving goodbye'" (9/21/20) "Goodbye to Hello" (10/3/22) "'Just ghost'" (7/6/20) "Have a good / […]]]></summary>
+        <author>
+            <name>Victor Mair</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Inferring the finest pattern of mutual independence from data]]></title>
         <id>http://arxiv.org/abs/2306.12984</id>
