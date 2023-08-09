@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-08-09T20:16:03.108Z</updated>
+    <updated>2023-08-09T21:13:03.004Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA["Multi-hyphenate spaces"]]></title>
+        <id>https://languagelog.ldc.upenn.edu/nll/?p=60101</id>
+        <link href="https://languagelog.ldc.upenn.edu/nll/?p=60101&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=multi-hyphenate-spaces"/>
+        <updated>2023-08-09T20:36:53.000Z</updated>
+        <summary type="html"><![CDATA[Alex Bauman sent in this real-estate ad from Singapore: For the fully hyper-hyphenated experience, click here… I've managed somehow to live many decades in this world without ever registering the existence of the word multi-hyphenate. In fairness to me, it hasn't had its OED Word Induction Ceremony yet. And Merriam-Websters is similarly uninformed. But Wiktionary […]]]></summary>
+        <author>
+            <name>Mark Liberman</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Advances in document understanding]]></title>
         <id>http://ai.googleblog.com/2023/08/advances-in-document-understanding.html</id>
