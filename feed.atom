@@ -2,10 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-08-09T01:15:34.369Z</updated>
+    <updated>2023-08-09T02:29:16.486Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Inferring the finest pattern of mutual independence from data]]></title>
+        <id>http://arxiv.org/abs/2306.12984</id>
+        <link href="http://arxiv.org/abs/2306.12984"/>
+        <updated>2023-08-09T02:29:07.753Z</updated>
+        <summary type="html"><![CDATA[G. Marrelec, A. Giron]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Shuffle SGD is Always Better than SGD: Improved Analysis of SGD with
+  Arbitrary Data Orders]]></title>
+        <id>http://arxiv.org/abs/2305.19259</id>
+        <link href="http://arxiv.org/abs/2305.19259"/>
+        <updated>2023-08-09T02:29:07.722Z</updated>
+        <summary type="html"><![CDATA[Anastasia Koloskova, Nikita Doikov, Sebastian U. Stich, Martin Jaggi]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Can We Trust Race Prediction?]]></title>
+        <id>http://arxiv.org/abs/2307.08496</id>
+        <link href="http://arxiv.org/abs/2307.08496"/>
+        <updated>2023-08-09T02:29:07.710Z</updated>
+        <summary type="html"><![CDATA[Cangyuan Li]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Automated extraction of mutual independence patterns using Bayesian
   comparison of partition models]]></title>
@@ -2503,16 +2534,6 @@ Nonetheless, computer architectu…]]></summary>
         <summary type="html"><![CDATA[Regional Instability: Israel is situated in a highly volatile region, and any shift towards a dictatorial regime could potentially exacerbate existing conflicts and tensions. A dictatorial government in Israel may pursue aggressive policies, leading to increased regional instability and potential … Continue reading →]]></summary>
         <author>
             <name>Gil Kalai</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Two’s Complement and Group Theory]]></title>
-        <id>https://jeremykun.com/?p=119571</id>
-        <link href="https://jeremykun.com/2023/07/10/twos-complement-and-group-theory/"/>
-        <updated>2023-07-10T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Before I discovered math, I was a first year undergrad computer science student taking Electrical Engineering 101. The first topic I learned was what bits and boolean gates are, and the second was the two’s complement representation of a negative n-bit integer. At the time two’s complement seemed to me like a bizarre quirk of […]]]></summary>
-        <author>
-            <name>Jeremy Kun</name>
         </author>
     </entry>
 </feed>

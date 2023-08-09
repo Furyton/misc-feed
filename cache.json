@@ -6,6 +6,36 @@
       "siteUrl": "https://www.arxivist.com",
       "articles": [
         {
+          "id": "http://arxiv.org/abs/2306.12984",
+          "author": null,
+          "description": "G. Marrelec, A. Giron",
+          "link": "http://arxiv.org/abs/2306.12984",
+          "publishedOn": "2023-08-09T02:29:07.753Z",
+          "wordCount": 771,
+          "title": "Inferring the finest pattern of mutual independence from data",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2305.19259",
+          "author": null,
+          "description": "Anastasia Koloskova, Nikita Doikov, Sebastian U. Stich, Martin Jaggi",
+          "link": "http://arxiv.org/abs/2305.19259",
+          "publishedOn": "2023-08-09T02:29:07.722Z",
+          "wordCount": 720,
+          "title": "Shuffle SGD is Always Better than SGD: Improved Analysis of SGD with\n  Arbitrary Data Orders",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2307.08496",
+          "author": null,
+          "description": "Cangyuan Li",
+          "link": "http://arxiv.org/abs/2307.08496",
+          "publishedOn": "2023-08-09T02:29:07.710Z",
+          "wordCount": 631,
+          "title": "Can We Trust Race Prediction?",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
           "id": "http://arxiv.org/abs/2001.05407",
           "author": null,
           "description": "Guillaume Marrelec, Alain Giron",
@@ -1476,18 +1506,7 @@
       "title": "Math ∩ Programming",
       "feedUrl": "https://jeremykun.com/feed/",
       "siteUrl": "https://jeremykun.com",
-      "articles": [
-        {
-          "id": "https://jeremykun.com/?p=119571",
-          "author": "Jeremy Kun",
-          "description": "Before I discovered math, I was a first year undergrad computer science student taking Electrical Engineering 101. The first topic I learned was what bits and boolean gates are, and the second was the two’s complement representation of a negative n-bit integer. At the time two’s complement seemed to me like a bizarre quirk of […]",
-          "link": "https://jeremykun.com/2023/07/10/twos-complement-and-group-theory/",
-          "publishedOn": "2023-07-10T14:00:00.000Z",
-          "wordCount": 3293,
-          "title": "Two’s Complement and Group Theory",
-          "imageUrl": "https://jeremykun.com/wp-content/uploads/2023/07/group_theory_twos_complement-1.png"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Jonty Sinai",
