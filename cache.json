@@ -1024,56 +1024,6 @@
           "wordCount": 710,
           "title": "Differentially Private Statistical Inference through $\\beta$-Divergence\n  One Posterior Sampling",
           "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
-        },
-        {
-          "id": "http://arxiv.org/abs/2305.18404",
-          "author": null,
-          "description": "Bhawesh Kumar, Charlie Lu, Gauri Gupta, Anil Palepu, David Bellamy,\n  Ramesh Raskar, Andrew Beam",
-          "link": "http://arxiv.org/abs/2305.18404",
-          "publishedOn": "2023-07-11T07:15:38.013Z",
-          "wordCount": 704,
-          "title": "Conformal Prediction with Large Language Models for Multi-Choice\n  Question Answering",
-          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
-        },
-        {
-          "id": "http://arxiv.org/abs/2301.07733",
-          "author": null,
-          "description": "Aaron Defazio, Konstantin Mishchenko",
-          "link": "http://arxiv.org/abs/2301.07733",
-          "publishedOn": "2023-07-11T07:15:38.007Z",
-          "wordCount": 641,
-          "title": "Learning-Rate-Free Learning by D-Adaptation",
-          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
-        },
-        {
-          "id": "http://arxiv.org/abs/2206.04530",
-          "author": null,
-          "description": "Kirill Bykov, Mayukh Deb, Dennis Grinwald, Klaus-Robert M\\\"uller,\n  Marina M.-C. H\\\"ohne",
-          "link": "http://arxiv.org/abs/2206.04530",
-          "publishedOn": "2023-07-11T07:15:38.000Z",
-          "wordCount": 742,
-          "title": "DORA: Exploring Outlier Representations in Deep Neural Networks",
-          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
-        },
-        {
-          "id": "http://arxiv.org/abs/2307.03848",
-          "author": null,
-          "description": "Idan Attias, Steve Hanneke, Alkis Kalavasis, Amin Karbasi, Grigoris\n  Velegkas",
-          "link": "http://arxiv.org/abs/2307.03848",
-          "publishedOn": "2023-07-11T07:15:37.994Z",
-          "wordCount": 719,
-          "title": "Optimal Learners for Realizable Regression: PAC Learning and Online\n  Learning",
-          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
-        },
-        {
-          "id": "http://arxiv.org/abs/2307.03810",
-          "author": null,
-          "description": "Michael Kirchhof, B\\'alint Mucs\\'anyi, Seong Joon Oh and\n  Enkelejda Kasneci",
-          "link": "http://arxiv.org/abs/2307.03810",
-          "publishedOn": "2023-07-11T07:15:37.984Z",
-          "wordCount": 698,
-          "title": "URL: A Representation Learning Benchmark for Transferable Uncertainty\n  Estimates",
-          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
         }
       ]
     },
@@ -1884,6 +1834,16 @@
       "feedUrl": "http://feeds.feedburner.com/blogspot/gJZg",
       "siteUrl": "http://ai.googleblog.com/",
       "articles": [
+        {
+          "id": "http://ai.googleblog.com/2023/08/advances-in-document-understanding.html",
+          "author": null,
+          "description": "Posted by Sandeep Tata, Software Engineer, Google Research, Athena Team\n\n\n\n\nThe last few years have seen rapid progress in systems that can automatically process complex business documents and turn them into structured objects. A system that can automatically extract data from documents, e.g., receipts, insurance quotes, and financial statements, has the potential to dramatically improve the efficiency of business workflows by avoiding error-prone, manual work. Recent models, based on the Transformer architecture, have shown impressive gains in accuracy. Larger models, such as PaLM 2, are also being leveraged to further streamline these business workflows. However, the datasets used in academic literature fail to capture the challenges seen in real-world use cases. Consequently, academic b…",
+          "link": "http://ai.googleblog.com/2023/08/advances-in-document-understanding.html",
+          "publishedOn": "2023-08-09T18:32:00.001Z",
+          "wordCount": 27825,
+          "title": "Advances in document understanding",
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-Zs3cysjsJQsPfOZML1cR03gCO18NmC-KMsoQtctvWr7v_bwJ6MmQMXesUafsi7w53SY50YZOtnBdpAcBaplHXOPV8P1-X9deoXISeAfq85zUbcPXUOCPJSTsaIanCEIWUUkBNXE9JTU6q3OIgMZi5JqykbiN1x36LR78x4jEka2pL5MBjTdMr_Sn3FNv/w1200-h630-p-k-no-nu/Document%20understanding%20hero.png"
+        },
         {
           "id": "http://ai.googleblog.com/2023/08/adatape-foundation-model-with-adaptive.html",
           "author": null,
