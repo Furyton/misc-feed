@@ -6,6 +6,56 @@
       "siteUrl": "https://www.arxivist.com",
       "articles": [
         {
+          "id": "http://arxiv.org/abs/2001.05407",
+          "author": null,
+          "description": "Guillaume Marrelec, Alain Giron",
+          "link": "http://arxiv.org/abs/2001.05407",
+          "publishedOn": "2023-08-09T01:15:34.313Z",
+          "wordCount": 838,
+          "title": "Automated extraction of mutual independence patterns using Bayesian\n  comparison of partition models",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2105.02796",
+          "author": null,
+          "description": "Christian Fiedler, Carsten W. Scherer, Sebastian Trimpe",
+          "link": "http://arxiv.org/abs/2105.02796",
+          "publishedOn": "2023-08-09T01:15:34.116Z",
+          "wordCount": 699,
+          "title": "Practical and Rigorous Uncertainty Bounds for Gaussian Process\n  Regression",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2006.06926",
+          "author": null,
+          "description": "Yuta Shikuri",
+          "link": "http://arxiv.org/abs/2006.06926",
+          "publishedOn": "2023-08-09T01:15:34.109Z",
+          "wordCount": 705,
+          "title": "Learning Bayesian Networks with Annealing Machine",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/1910.06832",
+          "author": null,
+          "description": "Akinori Tanaka",
+          "link": "http://arxiv.org/abs/1910.06832",
+          "publishedOn": "2023-08-09T01:15:34.102Z",
+          "wordCount": 607,
+          "title": "Discriminator optimal transport",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2111.10275",
+          "author": null,
+          "description": "Oscar Key, Arthur Gretton, Fran\\c{c}ois-Xavier Briol, Tamara Fernandez",
+          "link": "http://arxiv.org/abs/2111.10275",
+          "publishedOn": "2023-08-09T01:15:34.087Z",
+          "wordCount": 719,
+          "title": "Composite Goodness-of-fit Tests with Kernels",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
           "id": "http://arxiv.org/abs/2307.12306",
           "author": null,
           "description": "Zheyuan Hu, Khemraj Shukla, George Em Karniadakis, Kenji Kawaguchi",
@@ -1934,16 +1984,6 @@
           "wordCount": 28016,
           "title": "An open-source gymnasium for machine learning assisted computer architecture design",
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgMJx6osjDEhIpBGYohScAOpBU1CJmTsafUF9GgeM6BhBQ0KBjhSGirW0WY_8hu1boJvi-oqfbDlcHMO7RsrVOs1voUVsyE0f4uVSsBM2LgrSjGbFtuyWVXRbX7StUb4xbNgX7ZIfFDtfmjtJcEPvz6VGD_zGo1aEcQvbewZwSSwvMoHZP7ZW1Fob8tb86h/w1200-h630-p-k-no-nu/ArchGym-animation2.gif"
-        },
-        {
-          "id": "http://ai.googleblog.com/2023/07/google-at-acl-2023.html",
-          "author": null,
-          "description": "Posted by Malaya Jules, Program Manager, Google\n\n\n\n\n  This week, the 61st annual meeting of the Association for Computational Linguistics (ACL), a premier conference covering a broad spectrum of research areas that are concerned with computational approaches to natural language, is taking place online.\n\n\n  As a leader in natural language processing and understanding, and a Diamond Level sponsor of ACL 2023, Google will showcase the latest research in the field with over 50 publications, and active involvement in a variety of workshops and tutorials.\nbold).\n \n\nBoard and Organizing Committee\nDan Garrette\n\nWorkshop chairs include: Annie Louis\n\nPublication chairs include: Lei Shu\n\nProgram Committee includes: Vinodkumar Prabhakaran, Najoung Kim, Markus Freitag\n\n\n \n\nSpotlight papers\nNusaCrowd: O…",
-          "link": "http://ai.googleblog.com/2023/07/google-at-acl-2023.html",
-          "publishedOn": "2023-07-10T13:02:00.002Z",
-          "wordCount": 27867,
-          "title": "Google at ACL 2023",
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhBdDtnqi_LowdC1jsFHjA9Lymk8MJ26d0BWJSPNdTert_9_2DdTsO6qPDFOEzIr3dSpPnFZBh0oUvcFmGYB6yDHW-2V00nQPMDplZCVxtiifG70N3_mTG2Xf6a5fRJtHir0O4GBel3wfun3eAk60vY9Pu8Lru6w6qzA5VFd0zKgCsloz9sdSWDH81WIRL6/w1200-h630-p-k-no-nu/Google%20ACL%202023%20Toronto%20Sticker%20Art%20Vector%20PO%2013695%20(1).jpg"
         }
       ]
     },

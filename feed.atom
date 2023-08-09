@@ -2,10 +2,62 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-08-08T23:14:13.335Z</updated>
+    <updated>2023-08-09T01:15:34.369Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Automated extraction of mutual independence patterns using Bayesian
+  comparison of partition models]]></title>
+        <id>http://arxiv.org/abs/2001.05407</id>
+        <link href="http://arxiv.org/abs/2001.05407"/>
+        <updated>2023-08-09T01:15:34.313Z</updated>
+        <summary type="html"><![CDATA[Guillaume Marrelec, Alain Giron]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Practical and Rigorous Uncertainty Bounds for Gaussian Process
+  Regression]]></title>
+        <id>http://arxiv.org/abs/2105.02796</id>
+        <link href="http://arxiv.org/abs/2105.02796"/>
+        <updated>2023-08-09T01:15:34.116Z</updated>
+        <summary type="html"><![CDATA[Christian Fiedler, Carsten W. Scherer, Sebastian Trimpe]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learning Bayesian Networks with Annealing Machine]]></title>
+        <id>http://arxiv.org/abs/2006.06926</id>
+        <link href="http://arxiv.org/abs/2006.06926"/>
+        <updated>2023-08-09T01:15:34.109Z</updated>
+        <summary type="html"><![CDATA[Yuta Shikuri]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Discriminator optimal transport]]></title>
+        <id>http://arxiv.org/abs/1910.06832</id>
+        <link href="http://arxiv.org/abs/1910.06832"/>
+        <updated>2023-08-09T01:15:34.102Z</updated>
+        <summary type="html"><![CDATA[Akinori Tanaka]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Composite Goodness-of-fit Tests with Kernels]]></title>
+        <id>http://arxiv.org/abs/2111.10275</id>
+        <link href="http://arxiv.org/abs/2111.10275"/>
+        <updated>2023-08-09T01:15:34.087Z</updated>
+        <summary type="html"><![CDATA[Oscar Key, Arthur Gretton, Fran\c{c}ois-Xavier Briol, Tamara Fernandez]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[exact yet private MCMC]]></title>
         <id>http://xianblog.wordpress.com/?p=53674</id>
@@ -2461,41 +2513,6 @@ Nonetheless, computer architectu…]]></summary>
         <summary type="html"><![CDATA[Before I discovered math, I was a first year undergrad computer science student taking Electrical Engineering 101. The first topic I learned was what bits and boolean gates are, and the second was the two’s complement representation of a negative n-bit integer. At the time two’s complement seemed to me like a bizarre quirk of […]]]></summary>
         <author>
             <name>Jeremy Kun</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google at ACL 2023]]></title>
-        <id>http://ai.googleblog.com/2023/07/google-at-acl-2023.html</id>
-        <link href="http://ai.googleblog.com/2023/07/google-at-acl-2023.html"/>
-        <updated>2023-07-10T13:02:00.002Z</updated>
-        <summary type="html"><![CDATA[Posted by Malaya Jules, Program Manager, Google
-
-
-
-
-  This week, the 61st annual meeting of the Association for Computational Linguistics (ACL), a premier conference covering a broad spectrum of research areas that are concerned with computational approaches to natural language, is taking place online.
-
-
-  As a leader in natural language processing and understanding, and a Diamond Level sponsor of ACL 2023, Google will showcase the latest research in the field with over 50 publications, and active involvement in a variety of workshops and tutorials.
-bold).
- 
-
-Board and Organizing Committee
-Dan Garrette
-
-Workshop chairs include: Annie Louis
-
-Publication chairs include: Lei Shu
-
-Program Committee includes: Vinodkumar Prabhakaran, Najoung Kim, Markus Freitag
-
-
- 
-
-Spotlight papers
-NusaCrowd: O…]]></summary>
-        <author>
-            <name>Google AI Blog</name>
         </author>
     </entry>
 </feed>
