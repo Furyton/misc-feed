@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-08-10T19:12:04.135Z</updated>
+    <updated>2023-08-10T20:14:17.022Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Google’s Recent FHE work, and starting HEIR]]></title>
+        <id>https://jeremykun.com/?p=119694</id>
+        <link href="https://jeremykun.com/2023/08/10/googles-recent-fhe-work-and-starting-heir/"/>
+        <updated>2023-08-10T19:22:29.000Z</updated>
+        <summary type="html"><![CDATA[Today my team at Google published an article on Google’s Developers Blog with some updates on what we’ve been doing with fully homomorphic encryption (FHE). There’s fun stuff in there, including work on video processing FHE, compiling ML models to FHE, an FHE implementation for TPUs, and improvements to the compiler I wrote about earlier […]]]></summary>
+        <author>
+            <name>Jeremy Kun</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[PIE *gene- *gwen-]]></title>
         <id>https://languagelog.ldc.upenn.edu/nll/?p=60080</id>
@@ -2466,38 +2476,6 @@ In “Symbol tuning improves…]]></summary>
         <summary type="html"><![CDATA[Avi Wigderson is here for a year and it was a good opportunity to go back together to the question of diameter of polytopes. The diameter problem for polytopes is to determine the behavior of the maximum diameter of the … Continue reading →]]></summary>
         <author>
             <name>Gil Kalai</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Selective Sampling and Imitation Learning via Online Regression]]></title>
-        <id>http://arxiv.org/abs/2307.04998</id>
-        <link href="http://arxiv.org/abs/2307.04998"/>
-        <updated>2023-07-12T07:15:23.615Z</updated>
-        <summary type="html"><![CDATA[Ayush Sekhari, Karthik Sridharan, Wen Sun, Runzhe Wu]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Reconstructing Kernel-based Machine Learning Force Fields with
-  Super-linear Convergence]]></title>
-        <id>http://arxiv.org/abs/2212.12737</id>
-        <link href="http://arxiv.org/abs/2212.12737"/>
-        <updated>2023-07-12T07:15:22.611Z</updated>
-        <summary type="html"><![CDATA[Stefan Bl\"ucher, Klaus-Robert M\"uller, Stefan Chmiela]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Differentially Private Statistical Inference through $\beta$-Divergence
-  One Posterior Sampling]]></title>
-        <id>http://arxiv.org/abs/2307.05194</id>
-        <link href="http://arxiv.org/abs/2307.05194"/>
-        <updated>2023-07-12T07:15:22.605Z</updated>
-        <summary type="html"><![CDATA[Jack Jewson, Sahra Ghalebikesabi, Chris Holmes]]></summary>
-        <author>
-            <name>arxivist feed</name>
         </author>
     </entry>
 </feed>

@@ -1034,36 +1034,6 @@
           "wordCount": 700,
           "title": "Random-Set Convolutional Neural Network (RS-CNN) for Epistemic Deep\n  Learning",
           "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
-        },
-        {
-          "id": "http://arxiv.org/abs/2307.04998",
-          "author": null,
-          "description": "Ayush Sekhari, Karthik Sridharan, Wen Sun, Runzhe Wu",
-          "link": "http://arxiv.org/abs/2307.04998",
-          "publishedOn": "2023-07-12T07:15:23.615Z",
-          "wordCount": 823,
-          "title": "Selective Sampling and Imitation Learning via Online Regression",
-          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
-        },
-        {
-          "id": "http://arxiv.org/abs/2212.12737",
-          "author": null,
-          "description": "Stefan Bl\\\"ucher, Klaus-Robert M\\\"uller, Stefan Chmiela",
-          "link": "http://arxiv.org/abs/2212.12737",
-          "publishedOn": "2023-07-12T07:15:22.611Z",
-          "wordCount": 738,
-          "title": "Reconstructing Kernel-based Machine Learning Force Fields with\n  Super-linear Convergence",
-          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
-        },
-        {
-          "id": "http://arxiv.org/abs/2307.05194",
-          "author": null,
-          "description": "Jack Jewson, Sahra Ghalebikesabi, Chris Holmes",
-          "link": "http://arxiv.org/abs/2307.05194",
-          "publishedOn": "2023-07-12T07:15:22.605Z",
-          "wordCount": 710,
-          "title": "Differentially Private Statistical Inference through $\\beta$-Divergence\n  One Posterior Sampling",
-          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
         }
       ]
     },
@@ -1486,7 +1456,18 @@
       "title": "Math ∩ Programming",
       "feedUrl": "https://jeremykun.com/feed/",
       "siteUrl": "https://jeremykun.com",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://jeremykun.com/?p=119694",
+          "author": "Jeremy Kun",
+          "description": "Today my team at Google published an article on Google’s Developers Blog with some updates on what we’ve been doing with fully homomorphic encryption (FHE). There’s fun stuff in there, including work on video processing FHE, compiling ML models to FHE, an FHE implementation for TPUs, and improvements to the compiler I wrote about earlier […]",
+          "link": "https://jeremykun.com/2023/08/10/googles-recent-fhe-work-and-starting-heir/",
+          "publishedOn": "2023-08-10T19:22:29.000Z",
+          "wordCount": 2685,
+          "title": "Google’s Recent FHE work, and starting HEIR",
+          "imageUrl": "https://s0.wp.com/i/blank.jpg"
+        }
+      ]
     },
     {
       "title": "Jonty Sinai",
