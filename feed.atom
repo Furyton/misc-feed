@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-08-10T14:14:42.353Z</updated>
+    <updated>2023-08-10T15:16:13.243Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -14,6 +14,16 @@
         <summary type="html"><![CDATA[I asked several Indo-Europeanist colleagues: In Hittite, Tocharian, Indo-Iranian (Indic and Persian), Greek, Albanian, Germanic, Armenian, Celtic, Anatolian, Italic, Lithuanian, Balto-Slavic, Macedonian, Phrygian, and other IE languages, do you ever find reflexes (derivatives) of these two PIE roots in close association / linkage with each other? PIE root *gene- "give birth, beget," with derivatives referring […]]]></summary>
         <author>
             <name>Victor Mair</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Intel Joins the PyTorch Foundation as a Premier Member]]></title>
+        <id>https://pytorch.org/blog/intel-joins-pytorch/</id>
+        <link href="https://pytorch.org/blog/intel-joins-pytorch/"/>
+        <updated>2023-08-10T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<div type="html"/>]]></summary>
+        <author>
+            <name>PyTorch Website</name>
         </author>
     </entry>
     <entry>
