@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-08-10T08:18:59.845Z</updated>
+    <updated>2023-08-10T09:15:28.102Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[PIE *gene- *gwen-]]></title>
+        <id>https://languagelog.ldc.upenn.edu/nll/?p=60080</id>
+        <link href="https://languagelog.ldc.upenn.edu/nll/?p=60080&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=pie-gene-gwen"/>
+        <updated>2023-08-10T08:40:20.000Z</updated>
+        <summary type="html"><![CDATA[I asked several Indo-Europeanist colleagues: In Hittite, Tocharian, Indo-Iranian (Indic and Persian), Greek, Albanian, Germanic, Armenian, Celtic, Anatolian, Italic, Lithuanian, Balto-Slavic, Macedonian, Phrygian, and other IE languages, do you ever find reflexes (derivatives) of these two PIE roots in close association / linkage with each other? PIE root *gene- "give birth, beget," with derivatives referring […]]]></summary>
+        <author>
+            <name>Victor Mair</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SLEM: Machine Learning for Path Modeling and Causal Inference with Super
   Learner Equation Modeling]]></title>
