@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-08-12T22:12:05.895Z</updated>
+    <updated>2023-08-12T23:13:24.038Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[classic postcard [jatp]]]></title>
+        <id>http://xianblog.wordpress.com/?p=53769</id>
+        <link href="https://xianblog.wordpress.com/2023/08/13/classic-postcard-jatp/"/>
+        <updated>2023-08-12T22:23:02.000Z</updated>
+        <summary type="html"><![CDATA[Visit the post for more.]]></summary>
+        <author>
+            <name>xi'an</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Text orientation ambiguity]]></title>
         <id>https://languagelog.ldc.upenn.edu/nll/?p=60150</id>
@@ -2385,16 +2395,6 @@ Approaches like RepNet highlight the importance of these types of tasks, and pre
         <summary type="html"><![CDATA[Sometimes, we already have the Cholesky decomposition of a given matrix and wish to update it efficiently when that matrix “grows” in size (i.e., through the addition of new rows/columns). Instead of recomputing the entire Cholesky decomposition from scratch, we can compute it incrementally. Moreover, this incremental computation can also be strung together to retrieve an iterative algorithm to compute the full Cholesky decomposition.]]></summary>
         <author>
             <name>Parsiad Azimzadeh</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Is there no / any longer a reason / need to learn a foreign language?]]></title>
-        <id>https://languagelog.ldc.upenn.edu/nll/?p=59666</id>
-        <link href="https://languagelog.ldc.upenn.edu/nll/?p=59666&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=is-there-no-any-longer-a-reason-need-to-learn-a-foreign-language"/>
-        <updated>2023-07-14T10:47:27.000Z</updated>
-        <summary type="html"><![CDATA[Or, to put it another way, in the words of Douglas Hofstadter, Learn a Foreign Language Before It’s Too Late AI translators may seem wondrous but they also erode a major part of what it is to be human. The Atlantic (7/13/23) Hofstadter recounts how he spent years of painstaking, hard labor learning more than […]]]></summary>
-        <author>
-            <name>Victor Mair</name>
         </author>
     </entry>
 </feed>
