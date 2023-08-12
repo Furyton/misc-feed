@@ -974,46 +974,6 @@
           "wordCount": 657,
           "title": "DoCoFL: Downlink Compression for Cross-Device Federated Learning",
           "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
-        },
-        {
-          "id": "http://arxiv.org/abs/2109.13445",
-          "author": null,
-          "description": "Avi Cooper, Xavier Boix, Daniel Harari, Spandan Madan, Hanspeter\n  Pfister, Tomotake Sasaki, Pawan Sinha",
-          "link": "http://arxiv.org/abs/2109.13445",
-          "publishedOn": "2023-07-14T07:15:10.868Z",
-          "wordCount": 668,
-          "title": "Emergent Neural Network Mechanisms for Generalization to Objects in\n  Novel Orientations",
-          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
-        },
-        {
-          "id": "http://arxiv.org/abs/2304.11140",
-          "author": null,
-          "description": "Matthieu Cordonnier, Nicolas Keriven, Nicolas Tremblay, Samuel Vaiter",
-          "link": "http://arxiv.org/abs/2304.11140",
-          "publishedOn": "2023-07-14T07:15:10.860Z",
-          "wordCount": 687,
-          "title": "Convergence of Message Passing Graph Neural Networks with Generic\n  Aggregation On Large Random Graphs",
-          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
-        },
-        {
-          "id": "http://arxiv.org/abs/2307.06753",
-          "author": null,
-          "description": "Ruichong Zhang",
-          "link": "http://arxiv.org/abs/2307.06753",
-          "publishedOn": "2023-07-14T07:15:10.679Z",
-          "wordCount": 777,
-          "title": "Cramer Type Distances for Learning Gaussian Mixture Models by Gradient\n  Descent",
-          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
-        },
-        {
-          "id": "http://arxiv.org/abs/2307.06581",
-          "author": null,
-          "description": "Hangbin Lee, IL DO HA, Youngjo Lee",
-          "link": "http://arxiv.org/abs/2307.06581",
-          "publishedOn": "2023-07-14T07:15:10.012Z",
-          "wordCount": 615,
-          "title": "Deep Neural Networks for Semiparametric Frailty Models via H-likelihood",
-          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
         }
       ]
     },
@@ -1989,6 +1949,16 @@
       "feedUrl": "https://languagelog.ldc.upenn.edu/nll/?feed=rss2",
       "siteUrl": "https://languagelog.ldc.upenn.edu/nll",
       "articles": [
+        {
+          "id": "https://languagelog.ldc.upenn.edu/nll/?p=60150",
+          "author": "Mark Liberman",
+          "description": "Perhaps Victor can point us to an analogous ambiguity in Chinese poetico-political history: The source is this tweet. (oO this X?). Although I don't think I've seen it before, this pattern should be pretty common: BAD NAME1 NAME2 GOOD",
+          "link": "https://languagelog.ldc.upenn.edu/nll/?p=60150&utm_source=rss&utm_medium=rss&utm_campaign=text-orientation-ambiguity",
+          "publishedOn": "2023-08-12T19:47:25.000Z",
+          "wordCount": 2056,
+          "title": "Text orientation ambiguity",
+          "imageUrl": null
+        },
         {
           "id": "https://languagelog.ldc.upenn.edu/nll/?p=60141",
           "author": "Mark Liberman",

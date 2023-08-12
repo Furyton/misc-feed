@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-08-12T19:10:37.092Z</updated>
+    <updated>2023-08-12T20:13:18.421Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Text orientation ambiguity]]></title>
+        <id>https://languagelog.ldc.upenn.edu/nll/?p=60150</id>
+        <link href="https://languagelog.ldc.upenn.edu/nll/?p=60150&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=text-orientation-ambiguity"/>
+        <updated>2023-08-12T19:47:25.000Z</updated>
+        <summary type="html"><![CDATA[Perhaps Victor can point us to an analogous ambiguity in Chinese poetico-political history: The source is this tweet. (oO this X?). Although I don't think I've seen it before, this pattern should be pretty common: BAD NAME1 NAME2 GOOD]]></summary>
+        <author>
+            <name>Mark Liberman</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[More on LLMs' current problem-solving abilities]]></title>
         <id>https://languagelog.ldc.upenn.edu/nll/?p=60141</id>
@@ -2430,50 +2440,6 @@ replay
 Diffusion models have recently emerged as the de facto standard for generating complex, high-dimensional outputs. You may know them for their ability to produce stunning AI art and hyper-realistic synthetic images, but they have also found success in oth…]]></summary>
         <author>
             <name>The Berkeley Artificial Intelligence Research Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Emergent Neural Network Mechanisms for Generalization to Objects in
-  Novel Orientations]]></title>
-        <id>http://arxiv.org/abs/2109.13445</id>
-        <link href="http://arxiv.org/abs/2109.13445"/>
-        <updated>2023-07-14T07:15:10.868Z</updated>
-        <summary type="html"><![CDATA[Avi Cooper, Xavier Boix, Daniel Harari, Spandan Madan, Hanspeter
-  Pfister, Tomotake Sasaki, Pawan Sinha]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Convergence of Message Passing Graph Neural Networks with Generic
-  Aggregation On Large Random Graphs]]></title>
-        <id>http://arxiv.org/abs/2304.11140</id>
-        <link href="http://arxiv.org/abs/2304.11140"/>
-        <updated>2023-07-14T07:15:10.860Z</updated>
-        <summary type="html"><![CDATA[Matthieu Cordonnier, Nicolas Keriven, Nicolas Tremblay, Samuel Vaiter]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cramer Type Distances for Learning Gaussian Mixture Models by Gradient
-  Descent]]></title>
-        <id>http://arxiv.org/abs/2307.06753</id>
-        <link href="http://arxiv.org/abs/2307.06753"/>
-        <updated>2023-07-14T07:15:10.679Z</updated>
-        <summary type="html"><![CDATA[Ruichong Zhang]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Deep Neural Networks for Semiparametric Frailty Models via H-likelihood]]></title>
-        <id>http://arxiv.org/abs/2307.06581</id>
-        <link href="http://arxiv.org/abs/2307.06581"/>
-        <updated>2023-07-14T07:15:10.012Z</updated>
-        <summary type="html"><![CDATA[Hangbin Lee, IL DO HA, Youngjo Lee]]></summary>
-        <author>
-            <name>arxivist feed</name>
         </author>
     </entry>
 </feed>
