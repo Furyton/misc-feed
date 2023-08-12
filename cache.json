@@ -1195,18 +1195,7 @@
       "title": "The Berkeley Artificial Intelligence Research Blog",
       "feedUrl": "https://bair.berkeley.edu/blog/feed",
       "siteUrl": "http://bair.berkeley.edu/blog/",
-      "articles": [
-        {
-          "id": "http://bair.berkeley.edu/blog/2023/07/14/ddpo/",
-          "author": null,
-          "description": "function reveal() {\n        const replay = document.querySelector('.ddpo-replay');\n        replay.style.display = 'flex';\n    }\n\n    window.onload = () => {\n        const replay = document.querySelector('.ddpo-replay');\n\n        replay.addEventListener('click', () => {\n            const video = document.querySelector('.ddpo-video');\n            video.currentTime = 0;\n            video.play();\n            replay.style.display = 'none';\n        });\n    }\n\n\nTraining Diffusion Models with Reinforcement Learning\n\n\n    \n        \n    \n    \nreplay\nDiffusion models have recently emerged as the de facto standard for generating complex, high-dimensional outputs. You may know them for their ability to produce stunning AI art and hyper-realistic synthetic images, but they have also found success in oth…",
-          "link": "http://bair.berkeley.edu/blog/2023/07/14/ddpo/",
-          "publishedOn": "2023-07-14T09:00:00.000Z",
-          "wordCount": 2007,
-          "title": "Training Diffusion Models with <br> Reinforcement Learning",
-          "imageUrl": "http://bair.berkeley.edu/blog/assets/ddpo/teaser.jpg"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "inFERENCe",

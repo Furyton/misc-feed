@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-08-12T20:13:18.421Z</updated>
+    <updated>2023-08-12T21:11:25.642Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -2405,41 +2405,6 @@ Approaches like RepNet highlight the importance of these types of tasks, and pre
         <summary type="html"><![CDATA[众所周知，不管是文本还是视觉领域，各种生成模型正在以无法阻挡的势头“肆虐”互联网。虽然大家都明白，实现真正的通用人工智能（AGI）还有很长的路要走，但这并没有阻止人们越来越频繁地利用生成模型来创...]]></summary>
         <author>
             <name>苏剑林</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Training Diffusion Models with <br> Reinforcement Learning]]></title>
-        <id>http://bair.berkeley.edu/blog/2023/07/14/ddpo/</id>
-        <link href="http://bair.berkeley.edu/blog/2023/07/14/ddpo/"/>
-        <updated>2023-07-14T09:00:00.000Z</updated>
-        <summary type="html"><![CDATA[function reveal() {
-        const replay = document.querySelector('.ddpo-replay');
-        replay.style.display = 'flex';
-    }
-
-    window.onload = () => {
-        const replay = document.querySelector('.ddpo-replay');
-
-        replay.addEventListener('click', () => {
-            const video = document.querySelector('.ddpo-video');
-            video.currentTime = 0;
-            video.play();
-            replay.style.display = 'none';
-        });
-    }
-
-
-Training Diffusion Models with Reinforcement Learning
-
-
-    
-        
-    
-    
-replay
-Diffusion models have recently emerged as the de facto standard for generating complex, high-dimensional outputs. You may know them for their ability to produce stunning AI art and hyper-realistic synthetic images, but they have also found success in oth…]]></summary>
-        <author>
-            <name>The Berkeley Artificial Intelligence Research Blog</name>
         </author>
     </entry>
 </feed>
