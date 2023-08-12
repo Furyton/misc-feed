@@ -1964,16 +1964,6 @@
           "wordCount": 27491,
           "title": "SimPer: Simple self-supervised learning of periodic targets",
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEipB_9hAxZvnElIMZ-TN-dvR0POGa65v8yaZCPs44rLweLTIuHtvXe9knDYpU3h4ydbjKk9F-bLE7WTNgx0MgzUMxHa-RXTg7Ch4nGU7rqSAMYpdxzDI7xuirzahNzDKHR9olCqeXv5vK0dTtCQPm1Ws6_364n0_6-2dR_u0zB0Qiabo_g92yjjDcc4SEhz/w1200-h630-p-k-no-nu/SimPer%20hero.jpeg"
-        },
-        {
-          "id": "http://ai.googleblog.com/2023/07/symbol-tuning-improves-in-context.html",
-          "author": null,
-          "description": "Posted by Jerry Wei, Student Researcher, and Denny Zhou, Principal Scientist, Google Research\n\n\n\n\n\nA key feature of human intelligence is that humans can learn to perform new tasks by reasoning using only a few examples. Scaling up language models has unlocked a range of new applications and paradigms in machine learning, including the ability to perform challenging reasoning tasks via in-context learning. Language models, however, are still sensitive to the way that prompts are given, indicating that they are not reasoning in a robust manner. For instance, language models often require heavy prompt engineering or phrasing tasks as instructions, and they exhibit unexpected behaviors such as performance on tasks being unaffected even when shown incorrect labels.\n\n\nIn “Symbol tuning improves…",
-          "link": "http://ai.googleblog.com/2023/07/symbol-tuning-improves-in-context.html",
-          "publishedOn": "2023-07-13T21:01:00.001Z",
-          "wordCount": 27765,
-          "title": "Symbol tuning improves in-context learning in language models",
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpcvWqT7OBMHzleUaxiCaADL7SGlXJOakpKo6HsXwWHuERHv1mYDtz0UaLaKNoY6f7cgS7CVack55eHRIcUrDPd9ZY01EKCCUTsxkVAXh3qD7rSw0x2VWj17yKWoTYQD6xiIj-7Zp2vsPaT9ew4UpT6ec4LI0R0nKfb4Sbd1vEjyQEQW0lvbroBBFWfZ1h/w1200-h630-p-k-no-nu/SymbolTuning.png"
         }
       ]
     },
