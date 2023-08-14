@@ -1121,6 +1121,16 @@
       "siteUrl": "https://kexue.fm/",
       "articles": [
         {
+          "id": "https://kexue.fm/archives/9728",
+          "author": "苏剑林",
+          "description": "上周在《Transformer升级之路：12、无限外推的ReRoPE？》中，笔者提出了ReRoPE和Leaky ReRoPE，诸多实验结果表明，它们能够在几乎不损失训练效果的情况下免微调地扩展L...",
+          "link": "https://kexue.fm/archives/9728",
+          "publishedOn": "2023-08-14T03:53:00.000Z",
+          "wordCount": 2073,
+          "title": "Transformer升级之路：13、逆用Leaky ReRoPE",
+          "imageUrl": null
+        },
+        {
           "id": "https://kexue.fm/archives/9708",
           "author": "苏剑林",
           "description": "自从在《Transformer升级之路：11、将β进制位置进行到底》中引入混合进制的思路进一步推广了NTK-aware Scaled RoPE后，笔者感觉类似思路的效果已经达到了上限，想要更大幅...",
@@ -2570,16 +2580,6 @@
           "publishedOn": "2023-07-16T14:29:25.000Z",
           "wordCount": 2575,
           "title": "Euro-Americans speaking Norrh Korean with native fluency",
-          "imageUrl": null
-        },
-        {
-          "id": "https://languagelog.ldc.upenn.edu/nll/?p=59698",
-          "author": "Mark Liberman",
-          "description": "Today's SMBC starts like this: The final panel: The aftercomic: Some legal background: Pamela Samuelson, \"Generative AI meets copyright\", Science 7/12/2023 Dan Milmo, \"Sarah Silverman sues OpenAI and Meta claiming AI training infringed copyright\", The Guardian 7/10/2023 Current U.S. Copyright protection for text now applies to works published since January 1, 1928. The situation in […]",
-          "link": "https://languagelog.ldc.upenn.edu/nll/?p=59698&utm_source=rss&utm_medium=rss&utm_campaign=copyright-safe-ai-training",
-          "publishedOn": "2023-07-15T16:05:36.000Z",
-          "wordCount": 1940,
-          "title": "Copyright-safe AI Training",
           "imageUrl": null
         }
       ]
