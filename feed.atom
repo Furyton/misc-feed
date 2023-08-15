@@ -2,10 +2,63 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-08-15T02:18:45.952Z</updated>
+    <updated>2023-08-15T03:14:37.633Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Probabilistic Analysis of Edge Elimination for Euclidean TSP]]></title>
+        <id>http://arxiv.org/abs/1809.10469</id>
+        <link href="http://arxiv.org/abs/1809.10469"/>
+        <updated>2023-08-15T03:14:32.337Z</updated>
+        <summary type="html"><![CDATA[Xianghui Zhong]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Smoothing finite group actions on three-manifolds]]></title>
+        <id>http://arxiv.org/abs/1901.11127</id>
+        <link href="http://arxiv.org/abs/1901.11127"/>
+        <updated>2023-08-15T03:14:32.317Z</updated>
+        <summary type="html"><![CDATA[John Pardon]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[On the Generalised Colouring Numbers of Graphs that Exclude a Fixed
+  Minor]]></title>
+        <id>http://arxiv.org/abs/1602.09052</id>
+        <link href="http://arxiv.org/abs/1602.09052"/>
+        <updated>2023-08-15T03:14:32.300Z</updated>
+        <summary type="html"><![CDATA[Jan van den Heuvel, Patrice Ossona de Mendez, Daniel Quiroz, Roman
+  Rabinovich, Sebastian Siebertz]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Proper equivariant stable homotopy theory]]></title>
+        <id>http://arxiv.org/abs/1908.00779</id>
+        <link href="http://arxiv.org/abs/1908.00779"/>
+        <updated>2023-08-15T03:14:32.294Z</updated>
+        <summary type="html"><![CDATA[Dieter Degrijse, Markus Hausmann, Wolfgang L\"uck, Irakli Patchkoria,
+  Stefan Schwede]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The eight Cayley-Dickson doubling products]]></title>
+        <id>http://arxiv.org/abs/1707.07318</id>
+        <link href="http://arxiv.org/abs/1707.07318"/>
+        <updated>2023-08-15T03:14:32.272Z</updated>
+        <summary type="html"><![CDATA[John W. Bales]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Approximation and Non-parametric Estimation of ResNet-type Convolutional
   Neural Networks]]></title>
@@ -2522,16 +2575,6 @@ Approaches like RepNet highlight the importance of these types of tasks, and pre
         <summary type="html"><![CDATA[A simple X-validated question on approximating P(X<Y) from two independent samples of X and Y. Which can be solved by a Monte Carlo approximation to using all pairs of X’s and Y’s if the samples are not too large and a subsample of this set otherwise. However, I am (still) wondering if there is a […]]]></summary>
         <author>
             <name>xi'an</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Euro-Americans speaking Norrh Korean with native fluency]]></title>
-        <id>https://languagelog.ldc.upenn.edu/nll/?p=59712</id>
-        <link href="https://languagelog.ldc.upenn.edu/nll/?p=59712&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=euro-americans-speaking-norrh-korean-with-native-fluency"/>
-        <updated>2023-07-16T14:29:25.000Z</updated>
-        <summary type="html"><![CDATA[This short video claims that these two men speak perfect Korean with a Pyeongyang accent.   Comments by Koreanists (whom I asked if this sounds right to them): Haewon Cho: Yes they are native North Korean speakers. Amazing!   Bob Ramsey: What the… Oh, my goodness, yes, they do speak what sounds like "perfect" Korean […]]]></summary>
-        <author>
-            <name>Victor Mair</name>
         </author>
     </entry>
 </feed>
