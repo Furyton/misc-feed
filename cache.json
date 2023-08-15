@@ -6,6 +6,46 @@
       "siteUrl": "https://www.arxivist.com",
       "articles": [
         {
+          "id": "http://arxiv.org/abs/1903.10047",
+          "author": null,
+          "description": "Kenta Oono, Taiji Suzuki",
+          "link": "http://arxiv.org/abs/1903.10047",
+          "publishedOn": "2023-08-15T02:18:45.906Z",
+          "wordCount": 754,
+          "title": "Approximation and Non-parametric Estimation of ResNet-type Convolutional\n  Neural Networks",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2302.08942",
+          "author": null,
+          "description": "Sokhna Diarra Mbacke, Florence Clerc, Pascal Germain",
+          "link": "http://arxiv.org/abs/2302.08942",
+          "publishedOn": "2023-08-15T02:18:45.900Z",
+          "wordCount": 625,
+          "title": "PAC-Bayesian Generalization Bounds for Adversarial Generative Models",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2308.06422",
+          "author": null,
+          "description": "Seyedarmin Azizi, Mahdi Nazemi, Arash Fayyazi, Massoud Pedram",
+          "link": "http://arxiv.org/abs/2308.06422",
+          "publishedOn": "2023-08-15T02:18:45.879Z",
+          "wordCount": 739,
+          "title": "Sensitivity-Aware Mixed-Precision Quantization and Width Optimization of\n  Deep Neural Networks Through Cluster-Based Tree-Structured Parzen Estimation",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2308.06399",
+          "author": null,
+          "description": "Lorenzo Vallegi, Marco Scutari, Federico Mattia Stefanini",
+          "link": "http://arxiv.org/abs/2308.06399",
+          "publishedOn": "2023-08-15T02:18:45.872Z",
+          "wordCount": 723,
+          "title": "Learning Bayesian Networks with Heterogeneous Agronomic Data Sets via\n  Mixed-Effect Models and Hierarchical Clustering",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
           "id": "http://arxiv.org/abs/2308.06138",
           "author": null,
           "description": "Masoume Kazemi, Davood Moradkhani, Alireza A. Alipour",
