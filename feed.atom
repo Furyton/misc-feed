@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-08-15T12:26:43.829Z</updated>
+    <updated>2023-08-15T13:16:26.786Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Bilingual wordplay on a Taipei sign]]></title>
+        <id>https://languagelog.ldc.upenn.edu/nll/?p=60178</id>
+        <link href="https://languagelog.ldc.upenn.edu/nll/?p=60178&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=bilingual-wordplay-on-a-taipei-sign"/>
+        <updated>2023-08-15T12:56:42.000Z</updated>
+        <summary type="html"><![CDATA[From Tom Mazanac: I came across this sign on the subway recently: Tom explains: It's an ad for the waterpark (which my children love), but what struck me most was the bilingual wordplay in the middle: 夏天Want to 水, above which is written "1 2 3", which I think is supposed to sound like "want to […]]]></summary>
+        <author>
+            <name>Victor Mair</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Probabilistic Analysis of Edge Elimination for Euclidean TSP]]></title>
         <id>http://arxiv.org/abs/1809.10469</id>
