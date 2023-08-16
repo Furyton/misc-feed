@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-08-16T10:15:18.983Z</updated>
+    <updated>2023-08-16T11:12:15.506Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -2475,16 +2475,6 @@ Approaches like RepNet highlight the importance of these types of tasks, and pre
         <summary type="html"><![CDATA[Bilingual label for a wall painting at the Mogao Caves in Dunhuang, Gansu, China: The Chinese text reads: Zhāng Yìcháo (799 nián 872 nián), Táng mò Dūnhuáng rén. Qí jiā shì jū Héxī, wèi guāngài wàngzú. Shǎo xǐ dúshū, sù yǒu dàzhì, yǒu tāolüè. Hòu shuàilǐng Guā, Shā zhōu mín qǐyì, qūzhú Héxī dìqū de […]]]></summary>
         <author>
             <name>Victor Mair</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ulΓimaΓe Pólγa]]></title>
-        <id>http://xianblog.wordpress.com/?p=53411</id>
-        <link href="https://xianblog.wordpress.com/2023/07/18/ul%ce%b3ima%ce%b3e-pol%ce%b3a/"/>
-        <updated>2023-07-17T22:23:26.000Z</updated>
-        <summary type="html"><![CDATA[Last week, Gegor  Zens, Sylvia Frühwirth-Schnatter, and Helga Wagner arXived a revision of their paper on latent Pólya-Gamma random variables for logistic regression models (which I had not read before). The central idea follows from Albert and Chib 1993 paper on a Gibbs sampler for binary and polychotomous data, namely a data augmentation (a.k.a. Gibbs […]]]></summary>
-        <author>
-            <name>xi'an</name>
         </author>
     </entry>
 </feed>
