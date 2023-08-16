@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-08-16T08:18:20.614Z</updated>
+    <updated>2023-08-16T09:14:12.895Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -2485,26 +2485,6 @@ Approaches like RepNet highlight the importance of these types of tasks, and pre
         <summary type="html"><![CDATA[Last week, Gegor  Zens, Sylvia Frühwirth-Schnatter, and Helga Wagner arXived a revision of their paper on latent Pólya-Gamma random variables for logistic regression models (which I had not read before). The central idea follows from Albert and Chib 1993 paper on a Gibbs sampler for binary and polychotomous data, namely a data augmentation (a.k.a. Gibbs […]]]></summary>
         <author>
             <name>xi'an</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The shape of AGI: Cartoons and back of envelope]]></title>
-        <id>http://windowsontheory.org/?p=8644</id>
-        <link href="https://windowsontheory.org/2023/07/17/the-shape-of-agi-cartoons-and-back-of-envelope/"/>
-        <updated>2023-07-17T20:53:20.000Z</updated>
-        <summary type="html"><![CDATA[​​[Cross posted on lesswrong; see here for my prior writings] There have been several studies to estimate the timelines for artificial general intelligence (aka AGI). Ajeya Cotra wrote a report in 2020 (see also 2022 update)  forecasting AGI based on comparisons with “biological anchors.” That is, comparing the total number of FLOPs invested in a training run or inference with … Continue reading The shape of AGI: Cartoons and back of envelope]]></summary>
-        <author>
-            <name>Boaz Barak</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The shape of AGI: Cartoons and back of envelope]]></title>
-        <id>http://windowsontheory.org/?p=8644</id>
-        <link href="https://windowsontheory.org/2023/07/17/the-shape-of-agi-cartoons-and-back-of-envelope/"/>
-        <updated>2023-07-17T20:53:20.000Z</updated>
-        <summary type="html"><![CDATA[​​[Cross posted on lesswrong; see here for my prior writings] There have been several studies to estimate the timelines for artificial general intelligence (aka AGI). Ajeya Cotra wrote a report in 2020 (see also 2022 update)  forecasting AGI based on comparisons with “biological anchors.” That is, comparing the total number of FLOPs invested in a training run or inference with … Continue reading The shape of AGI: Cartoons and back of envelope]]></summary>
-        <author>
-            <name>Boaz Barak</name>
         </author>
     </entry>
 </feed>
