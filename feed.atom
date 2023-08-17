@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-08-17T22:13:03.140Z</updated>
+    <updated>2023-08-17T23:13:46.258Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Canmore Xing [jatp]]]></title>
+        <id>http://xianblog.wordpress.com/?p=53806</id>
+        <link href="https://xianblog.wordpress.com/2023/08/18/canmore-xing-jatp/"/>
+        <updated>2023-08-17T22:23:32.000Z</updated>
+        <summary type="html"><![CDATA[Visit the post for more.]]></summary>
+        <author>
+            <name>xi'an</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Max-affine regression via first-order methods]]></title>
         <id>http://arxiv.org/abs/2308.08070</id>
