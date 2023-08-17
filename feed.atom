@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-08-17T10:14:57.514Z</updated>
+    <updated>2023-08-17T11:12:12.062Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -2380,16 +2380,6 @@ The first phase of AI product development is problem understanding, and this pha
         <summary type="html"><![CDATA[Sangdon Park, Taesoo Kim]]></summary>
         <author>
             <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bayes’s theorem for improper mixtures]]></title>
-        <id>http://xianblog.wordpress.com/?p=53485</id>
-        <link href="https://xianblog.wordpress.com/2023/07/19/bayess-theorem-for-improper-mixtures/"/>
-        <updated>2023-07-18T22:23:54.000Z</updated>
-        <summary type="html"><![CDATA[While looking for references for a Master summer project at Warwick on Bayesian inference on the Cauchy location parameter, I came across a 2011 Annals of Statistics paper by Peter McCullagh and Han Han.  Which expands the Bayesian framework to the improper case by considering a Poisson process over the parameter set with mean measure […]]]></summary>
-        <author>
-            <name>xi'an</name>
         </author>
     </entry>
     <entry>
