@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-08-17T07:13:13.417Z</updated>
+    <updated>2023-08-17T08:17:44.951Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -2400,26 +2400,6 @@ The first phase of AI product development is problem understanding, and this pha
         <summary type="html"><![CDATA[Whatever that means. That's what we get when we enter into AI translation software (GT, Baidu, Bing, DeepL) this key term — "双泛" — from this important policy document concerning the goernance of Xinjiang issued by the Xinjiang Uygur Autonomous Region Committee of the CCP. Shuāng 双 is simple:  it means "double".  Fair enough.  But […]]]></summary>
         <author>
             <name>Victor Mair</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SimPer: Simple self-supervised learning of periodic targets]]></title>
-        <id>http://ai.googleblog.com/2023/07/simper-simple-self-supervised-learning.html</id>
-        <link href="http://ai.googleblog.com/2023/07/simper-simple-self-supervised-learning.html"/>
-        <updated>2023-07-18T20:15:00.000Z</updated>
-        <summary type="html"><![CDATA[Posted by Daniel McDuff, Staff Research Scientist, and Yuzhe Yang, Student Researcher, Google
-
-
-
-
-
-Learning from periodic data (signals that repeat, such as a heart beat or the daily temperature changes on Earth’s surface) is crucial for many real-world applications, from monitoring weather systems to detecting vital signs. For example, in the environmental remote sensing domain, periodic learning is often needed to enable nowcasting of environmental changes, such as precipitation patterns or land surface temperature. In the health domain, learning from video measurement has shown to extract (quasi-)periodic vital signs such as atrial fibrillation and sleep apnea episodes.
-
-
-
-Approaches like RepNet highlight the importance of these types of tasks, and present a solution that recognizes rep…]]></summary>
-        <author>
-            <name>Google AI Blog</name>
         </author>
     </entry>
     <entry>
