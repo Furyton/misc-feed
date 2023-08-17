@@ -1924,6 +1924,16 @@
       "siteUrl": "http://ai.googleblog.com/",
       "articles": [
         {
+          "id": "http://ai.googleblog.com/2023/08/neural-network-pruning-with.html",
+          "author": null,
+          "description": "Posted by Hussein Hazimeh, Research Scientist, Athena Team, and Riade Benbaki, Graduate Student at MIT\n\n\n\n\n\nModern neural networks have achieved impressive performance across a variety of applications, such as language, mathematical reasoning, and vision. However, these networks often use large architectures that require lots of computational resources. This can make it impractical to serve such models to users, especially in resource-constrained environments like wearables and smartphones. A widely used approach to mitigate the inference costs of pre-trained networks is to prune them by removing some of their weights, in a way that doesn’t significantly affect utility. In standard neural networks, each weight defines a connection between two neurons. So after weights are pruned, the input…",
+          "link": "http://ai.googleblog.com/2023/08/neural-network-pruning-with.html",
+          "publishedOn": "2023-08-17T18:08:00.000Z",
+          "wordCount": 27758,
+          "title": "Neural network pruning with combinatorial optimization",
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgyU4esZL0DIoU6gbv90zR7Fw-r8Jm9DhLix7eBHMwp50c_3l1pP0myByQ4fSPidsrfhMrOxS2hQxLJuQ4d5DVJP3n5hAocfJeAWQDNjcvrU679bnFYcww0qcNWNzr3SEEcOQqG8owJmNxIWIrqJq_6ReXBJ9PUK-tW1ou0j73P3grgASIrfudrTyjyHu5K/w1200-h630-p-k-no-nu/CHITA%20hero.gif"
+        },
+        {
           "id": "http://ai.googleblog.com/2023/08/study-socially-aware-temporally-causal.html",
           "author": null,
           "description": "Posted by Eltayeb Ahmed, Research Engineer, and Subhrajit Roy, Senior Research Scientist, Google Research\n\n\n\n\nReading has many benefits for young students, such as better linguistic and life skills, and reading for pleasure has been shown to correlate with academic success. Furthermore students have reported improved emotional wellbeing from reading, as well as better general knowledge and better understanding of other cultures. With the vast amount of reading material both online and off, finding age-appropriate, relevant and engaging content can be a challenging task, but helping students do so is a necessary step to engage them in reading. Effective recommendations that present students with relevant reading material helps keep students reading, and this is where machine learning (ML) c…",
