@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-08-18T10:14:59.950Z</updated>
+    <updated>2023-08-18T11:11:36.540Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -2393,26 +2393,6 @@ The first phase of AI product development is problem understanding, and this pha
         <summary type="html"><![CDATA[Google DeepMind researchers are presenting more than 80 new papers at the 40th International Conference on Machine Learning (ICML 2023), taking place 23-29 July in Honolulu, Hawai'i.]]></summary>
         <author>
             <name>DeepMind Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Perspectives on diffusion]]></title>
-        <id>https://sander.ai/2023/07/20/perspectives.html</id>
-        <link href="https://sander.ai/2023/07/20/perspectives.html"/>
-        <updated>2023-07-19T23:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Diffusion models appear to come in many shapes and forms. If you pick two random research papers about diffusion and look at how they describe the model class in their respective introductions, chances are they will go about it in very different ways. This can be both frustrating and enlightening: frustrating, because it makes it harder to spot relationships and equivalences across papers and implementations – but also enlightening, because these various perspectives each reveal new connections and are a breeding ground for new ideas. This blog post is an overview of the perspectives on diffusion I’ve found useful.]]></summary>
-        <author>
-            <name>Sander Dieleman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Xing the Mekong River [jatp]]]></title>
-        <id>http://xianblog.wordpress.com/?p=53515</id>
-        <link href="https://xianblog.wordpress.com/2023/07/20/xing-the-mekong-river-jatp/"/>
-        <updated>2023-07-19T22:23:15.000Z</updated>
-        <summary type="html"><![CDATA[Visit the post for more.]]></summary>
-        <author>
-            <name>xi'an</name>
         </author>
     </entry>
 </feed>
