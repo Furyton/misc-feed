@@ -974,56 +974,6 @@
           "wordCount": 667,
           "title": "Quantitative CLTs in Deep Neural Networks",
           "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
-        },
-        {
-          "id": "http://arxiv.org/abs/2307.10053",
-          "author": null,
-          "description": "Nachuan Xiao, Xiaoyin Hu, Kim-Chuan Toh",
-          "link": "http://arxiv.org/abs/2307.10053",
-          "publishedOn": "2023-07-20T07:13:46.383Z",
-          "wordCount": 672,
-          "title": "Convergence Guarantees for Stochastic Subgradient Methods in Nonsmooth\n  Nonconvex Optimization",
-          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
-        },
-        {
-          "id": "http://arxiv.org/abs/2205.12549",
-          "author": null,
-          "description": "Antoine Godichon-Baggioni, Nicklas Werge, Olivier Wintenberger",
-          "link": "http://arxiv.org/abs/2205.12549",
-          "publishedOn": "2023-07-20T07:13:45.130Z",
-          "wordCount": 655,
-          "title": "Learning from time-dependent streaming data with online stochastic\n  algorithms",
-          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
-        },
-        {
-          "id": "http://arxiv.org/abs/2303.03027",
-          "author": null,
-          "description": "Pierre Br\\'echet, Katerina Papagiannouli, Jing An, Guido Mont\\'ufar",
-          "link": "http://arxiv.org/abs/2303.03027",
-          "publishedOn": "2023-07-20T07:13:45.124Z",
-          "wordCount": 692,
-          "title": "Critical Points and Convergence Analysis of Generative Deep Linear\n  Networks Trained with Bures-Wasserstein Loss",
-          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
-        },
-        {
-          "id": "http://arxiv.org/abs/2307.09816",
-          "author": null,
-          "description": "Stephen Zhang, Gilles Mordant, Tetsuya Matsumoto, Geoffrey\n  Schiebinger",
-          "link": "http://arxiv.org/abs/2307.09816",
-          "publishedOn": "2023-07-20T07:13:45.024Z",
-          "wordCount": 703,
-          "title": "Manifold Learning with Sparse Regularised Optimal Transport",
-          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
-        },
-        {
-          "id": "http://arxiv.org/abs/2307.09607",
-          "author": null,
-          "description": "Feras A. Saad, Brian J. Patton, Matthew D. Hoffman, Rif A. Saurous,\n  Vikash K. Mansinghka",
-          "link": "http://arxiv.org/abs/2307.09607",
-          "publishedOn": "2023-07-20T07:13:45.019Z",
-          "wordCount": 729,
-          "title": "Sequential Monte Carlo Learning for Time Series Structure Discovery",
-          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
         }
       ]
     },
@@ -1966,6 +1916,16 @@
       "feedUrl": "https://languagelog.ldc.upenn.edu/nll/?feed=rss2",
       "siteUrl": "https://languagelog.ldc.upenn.edu/nll",
       "articles": [
+        {
+          "id": "https://languagelog.ldc.upenn.edu/nll/?p=60209",
+          "author": "Mark Liberman",
+          "description": "In social and even mass media, you may have seen coverage of a recent paper by Joshua Harrison et al., \"A Practical Deep Learning-Based Acoustic Side Channel Attack on Keyboards\". Some samples of the clickbait: \"A.I. can identify keystrokes by just the sound of your typing and steal information with 95% accuracy, new research shows\", […]",
+          "link": "https://languagelog.ldc.upenn.edu/nll/?p=60209&utm_source=rss&utm_medium=rss&utm_campaign=ai-hype",
+          "publishedOn": "2023-08-18T19:37:27.000Z",
+          "wordCount": 2722,
+          "title": "AI hype #∞",
+          "imageUrl": null
+        },
         {
           "id": "https://languagelog.ldc.upenn.edu/nll/?p=60201",
           "author": "Victor Mair",

@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-08-18T19:11:15.192Z</updated>
+    <updated>2023-08-18T20:14:29.554Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[AI hype #∞]]></title>
+        <id>https://languagelog.ldc.upenn.edu/nll/?p=60209</id>
+        <link href="https://languagelog.ldc.upenn.edu/nll/?p=60209&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=ai-hype"/>
+        <updated>2023-08-18T19:37:27.000Z</updated>
+        <summary type="html"><![CDATA[In social and even mass media, you may have seen coverage of a recent paper by Joshua Harrison et al., "A Practical Deep Learning-Based Acoustic Side Channel Attack on Keyboards". Some samples of the clickbait: "A.I. can identify keystrokes by just the sound of your typing and steal information with 95% accuracy, new research shows", […]]]></summary>
+        <author>
+            <name>Mark Liberman</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Autonomous visual information seeking with large language models]]></title>
         <id>http://ai.googleblog.com/2023/08/autonomous-visual-information-seeking.html</id>
@@ -2353,61 +2363,6 @@ The first phase of AI product development is problem understanding, and this pha
         <summary type="html"><![CDATA[预训练刚兴起时，在语言模型的输出端重用Embedding权重是很常见的操作，比如BERT、第一版的T5、早期的GPT，都使用了这个操作，这是因为当模型主干部分不大且词表很大时，Embedding...]]></summary>
         <author>
             <name>苏剑林</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Convergence Guarantees for Stochastic Subgradient Methods in Nonsmooth
-  Nonconvex Optimization]]></title>
-        <id>http://arxiv.org/abs/2307.10053</id>
-        <link href="http://arxiv.org/abs/2307.10053"/>
-        <updated>2023-07-20T07:13:46.383Z</updated>
-        <summary type="html"><![CDATA[Nachuan Xiao, Xiaoyin Hu, Kim-Chuan Toh]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learning from time-dependent streaming data with online stochastic
-  algorithms]]></title>
-        <id>http://arxiv.org/abs/2205.12549</id>
-        <link href="http://arxiv.org/abs/2205.12549"/>
-        <updated>2023-07-20T07:13:45.130Z</updated>
-        <summary type="html"><![CDATA[Antoine Godichon-Baggioni, Nicklas Werge, Olivier Wintenberger]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Critical Points and Convergence Analysis of Generative Deep Linear
-  Networks Trained with Bures-Wasserstein Loss]]></title>
-        <id>http://arxiv.org/abs/2303.03027</id>
-        <link href="http://arxiv.org/abs/2303.03027"/>
-        <updated>2023-07-20T07:13:45.124Z</updated>
-        <summary type="html"><![CDATA[Pierre Br\'echet, Katerina Papagiannouli, Jing An, Guido Mont\'ufar]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Manifold Learning with Sparse Regularised Optimal Transport]]></title>
-        <id>http://arxiv.org/abs/2307.09816</id>
-        <link href="http://arxiv.org/abs/2307.09816"/>
-        <updated>2023-07-20T07:13:45.024Z</updated>
-        <summary type="html"><![CDATA[Stephen Zhang, Gilles Mordant, Tetsuya Matsumoto, Geoffrey
-  Schiebinger]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sequential Monte Carlo Learning for Time Series Structure Discovery]]></title>
-        <id>http://arxiv.org/abs/2307.09607</id>
-        <link href="http://arxiv.org/abs/2307.09607"/>
-        <updated>2023-07-20T07:13:45.019Z</updated>
-        <summary type="html"><![CDATA[Feras A. Saad, Brian J. Patton, Matthew D. Hoffman, Rif A. Saurous,
-  Vikash K. Mansinghka]]></summary>
-        <author>
-            <name>arxivist feed</name>
         </author>
     </entry>
 </feed>
