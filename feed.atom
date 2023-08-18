@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-08-18T11:11:36.540Z</updated>
+    <updated>2023-08-18T12:26:47.761Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -2383,16 +2383,6 @@ The first phase of AI product development is problem understanding, and this pha
   Vikash K. Mansinghka]]></summary>
         <author>
             <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google DeepMind’s latest research at ICML 2023]]></title>
-        <id>https://www.deepmind.com/blog/google-deepmind-research-at-icml-2023</id>
-        <link href="https://www.deepmind.com/blog/google-deepmind-research-at-icml-2023"/>
-        <updated>2023-07-20T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Google DeepMind researchers are presenting more than 80 new papers at the 40th International Conference on Machine Learning (ICML 2023), taking place 23-29 July in Honolulu, Hawai'i.]]></summary>
-        <author>
-            <name>DeepMind Blog</name>
         </author>
     </entry>
 </feed>
