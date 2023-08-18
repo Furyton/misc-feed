@@ -1079,16 +1079,6 @@
           "wordCount": 1705,
           "title": "Transformer升级之路：11、将β进制位置进行到底",
           "imageUrl": null
-        },
-        {
-          "id": "https://kexue.fm/archives/9698",
-          "author": "苏剑林",
-          "description": "预训练刚兴起时，在语言模型的输出端重用Embedding权重是很常见的操作，比如BERT、第一版的T5、早期的GPT，都使用了这个操作，这是因为当模型主干部分不大且词表很大时，Embedding...",
-          "link": "https://kexue.fm/archives/9698",
-          "publishedOn": "2023-07-20T09:26:00.000Z",
-          "wordCount": 1596,
-          "title": "语言模型输出端共享Embedding的重新探索",
-          "imageUrl": null
         }
       ]
     },
@@ -2459,16 +2449,6 @@
           "publishedOn": "2023-07-20T19:58:48.000Z",
           "wordCount": 2141,
           "title": "Pseudo-Chinese conversation of a Japanese couple",
-          "imageUrl": null
-        },
-        {
-          "id": "https://languagelog.ldc.upenn.edu/nll/?p=59788",
-          "author": "Victor Mair",
-          "description": "Another of those kraftvoll German words that grips you viscerally and won't let you go, like Schadenfreude (memes).  Naturally, you could also say \"Eskapismus\", \"Wirklichkeitsflucht\", or \"Weltflucht\" to get across roughly the same idea, but it just wouldn't have the oomph of Realitätsflucht. What made me think of \"Realitätsflucht\" at the present juncture?  This article […]",
-          "link": "https://languagelog.ldc.upenn.edu/nll/?p=59788&utm_source=rss&utm_medium=rss&utm_campaign=realitatsflucht",
-          "publishedOn": "2023-07-20T09:46:50.000Z",
-          "wordCount": 2050,
-          "title": "Realitätsflucht",
           "imageUrl": null
         }
       ]
