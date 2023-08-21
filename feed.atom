@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-08-21T08:20:03.192Z</updated>
+    <updated>2023-08-21T09:15:15.469Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Google at Interspeech 2023]]></title>
+        <id>http://ai.googleblog.com/2023/08/google-at-interspeech-2023.html</id>
+        <link href="http://ai.googleblog.com/2023/08/google-at-interspeech-2023.html"/>
+        <updated>2023-08-21T07:33:00.002Z</updated>
+        <summary type="html"><![CDATA[Posted by Catherine Armato, Program Manager, Google
+
+
+
+
+This week, the 24th Annual Conference of the International Speech Communication Association (INTERSPEECH 2023) is being held in Dublin, Ireland, representing one of the world’s most extensive conferences on research and technology of spoken language understanding and processing. Experts in speech-related research fields gather to take part in oral presentations and poster sessions and to build collaborations across the globe.
+
+
+
+
+We are excited to be a Platinum Sponsor of INTERSPEECH 2023, where we will be showcasing more than 20 research publications and supporting a number of workshops and special sessions. We welcome in-person attendees to drop by the Google Research booth to meet our researchers and participate in Q&As and demonst…]]></summary>
+        <author>
+            <name>Google AI Blog</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The rightness of the Riemann Hypothesis]]></title>
         <id>http://arxiv.org/abs/1608.03199</id>
