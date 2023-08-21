@@ -6,6 +6,56 @@
       "siteUrl": "https://www.arxivist.com",
       "articles": [
         {
+          "id": "http://arxiv.org/abs/2210.14396",
+          "author": null,
+          "description": "Zhishuai Guo, Rong Jin, Jiebo Luo, Tianbao Yang",
+          "link": "http://arxiv.org/abs/2210.14396",
+          "publishedOn": "2023-08-21T03:14:40.027Z",
+          "wordCount": 847,
+          "title": "FeDXL: Provable Federated Learning for Deep X-Risk Optimization",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2308.09444",
+          "author": null,
+          "description": "Weiguo Lu, Xuan Wu, Deng Ding, Gangnan Yuan",
+          "link": "http://arxiv.org/abs/2308.09444",
+          "publishedOn": "2023-08-21T03:14:40.020Z",
+          "wordCount": 656,
+          "title": "An Efficient 1 Iteration Learning Algorithm for Gaussian Mixture Model\n  And Gaussian Mixture Embedding For Neural Network",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2308.09605",
+          "author": null,
+          "description": "Guanhang Lei, Zhen Lei, Lei Shi, Chenyu Zeng, Ding-Xuan Zhou",
+          "link": "http://arxiv.org/abs/2308.09605",
+          "publishedOn": "2023-08-21T03:14:38.699Z",
+          "wordCount": 668,
+          "title": "Solving PDEs on Spheres with Physics-Informed Convolutional Neural\n  Networks",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2308.08977",
+          "author": null,
+          "description": "Elizabeth Collins-Woodfin, Courtney Paquette, Elliot Paquette, Inbar\n  Seroussi",
+          "link": "http://arxiv.org/abs/2308.08977",
+          "publishedOn": "2023-08-21T03:14:38.692Z",
+          "wordCount": 697,
+          "title": "Hitting the High-Dimensional Notes: An ODE for SGD learning dynamics on\n  GLMs and multi-index models",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2308.09374",
+          "author": null,
+          "description": "Johan Jonasson, Jeffrey E. Steif, Olof Zetterqvist",
+          "link": "http://arxiv.org/abs/2308.09374",
+          "publishedOn": "2023-08-21T03:14:38.671Z",
+          "wordCount": 611,
+          "title": "Noise Sensitivity and Stability of Deep Neural Networks for Binary\n  Classification",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
           "id": "http://arxiv.org/abs/2308.08070",
           "author": null,
           "description": "Seonho Kim, Kiryung Lee",
