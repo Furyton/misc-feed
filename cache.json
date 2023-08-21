@@ -1305,6 +1305,16 @@
       "siteUrl": "https://jeremykun.com",
       "articles": [
         {
+          "id": "https://jeremykun.com/?p=119602",
+          "author": "Jeremy Kun",
+          "description": "Table of Contents In the last article in the series, we migrated the passes we had written to use the tablegen code generation framework. That was a preface to using tablegen to define dialects. In this article we’ll define a dialect that represents arithmetic on single-variable polynomials, with coefficients in $\\mathbb{Z} / 2^{32} \\mathbb{Z}$ (32-bit […]",
+          "link": "https://jeremykun.com/2023/08/21/mlir-defining-a-new-dialect/",
+          "publishedOn": "2023-08-21T15:00:00.000Z",
+          "wordCount": 5250,
+          "title": "MLIR — Defining a New Dialect",
+          "imageUrl": "https://jeremykun.com/wp-content/uploads/2023/08/image.png"
+        },
+        {
           "id": "https://jeremykun.com/?p=119631",
           "author": "Jeremy Kun",
           "description": "Table of Contents In the last article in this series, we defined some custom lowering passes that modified an MLIR program. Notably, we accomplished that by implementing the required interfaces of the MLIR API directly. This is not the way that most MLIR developers work. Instead, they use a code generation tool called tablegen to […]",
@@ -1866,6 +1876,16 @@
       "feedUrl": "https://languagelog.ldc.upenn.edu/nll/?feed=rss2",
       "siteUrl": "https://languagelog.ldc.upenn.edu/nll",
       "articles": [
+        {
+          "id": "https://languagelog.ldc.upenn.edu/nll/?p=60244",
+          "author": "Victor Mair",
+          "description": "In recent weeks and months, Language Log has been quite active in discussions on Tocharian and its relationship to other members of Indo-European.  Today's post takes a different approach from this post made just yesterday and many earlier posts. \"Europe's ancient languages shed light on a great migration and weather vocabulary\" by Ali Jones, Horizon: […]",
+          "link": "https://languagelog.ldc.upenn.edu/nll/?p=60244&utm_source=rss&utm_medium=rss&utm_campaign=the-tocharian-trek-pie-and-migration-across-eurasia",
+          "publishedOn": "2023-08-21T14:29:48.000Z",
+          "wordCount": 3141,
+          "title": "The Tocharian Trek:  PIE and migration across Eurasia",
+          "imageUrl": null
+        },
         {
           "id": "https://languagelog.ldc.upenn.edu/nll/?p=60245",
           "author": "Mark Liberman",
