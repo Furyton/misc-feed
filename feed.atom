@@ -2,10 +2,61 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-08-21T04:19:08.491Z</updated>
+    <updated>2023-08-21T05:13:39.023Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The rightness of the Riemann Hypothesis]]></title>
+        <id>http://arxiv.org/abs/1608.03199</id>
+        <link href="http://arxiv.org/abs/1608.03199"/>
+        <updated>2023-08-21T05:13:37.677Z</updated>
+        <summary type="html"><![CDATA[Shaoyong Lai]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Strong boundedness of simply connected split Chevalley groups defined
+  over rings]]></title>
+        <id>http://arxiv.org/abs/2004.05039</id>
+        <link href="http://arxiv.org/abs/2004.05039"/>
+        <updated>2023-08-21T05:13:37.670Z</updated>
+        <summary type="html"><![CDATA[Alexander Alois Trost]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A certain structure of Artin groups and the isomorphism conjecture]]></title>
+        <id>http://arxiv.org/abs/1811.11589</id>
+        <link href="http://arxiv.org/abs/1811.11589"/>
+        <updated>2023-08-21T05:13:37.663Z</updated>
+        <summary type="html"><![CDATA[S. K. Roushon]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Quantisation of derived Poisson structures]]></title>
+        <id>http://arxiv.org/abs/1708.00496</id>
+        <link href="http://arxiv.org/abs/1708.00496"/>
+        <updated>2023-08-21T05:13:37.655Z</updated>
+        <summary type="html"><![CDATA[J.P.Pridham]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lie, associative and commutative quasi-isomorphism]]></title>
+        <id>http://arxiv.org/abs/1904.03585</id>
+        <link href="http://arxiv.org/abs/1904.03585"/>
+        <updated>2023-08-21T05:13:37.458Z</updated>
+        <summary type="html"><![CDATA[Ricardo Campos, Dan Petersen, Daniel Robert-Nicoud, Felix Wierstra]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[FeDXL: Provable Federated Learning for Deep X-Risk Optimization]]></title>
         <id>http://arxiv.org/abs/2210.14396</id>
