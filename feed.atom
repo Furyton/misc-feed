@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-08-22T18:18:19.721Z</updated>
+    <updated>2023-08-22T19:12:11.519Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Language to rewards for robotic skill synthesis]]></title>
+        <id>http://ai.googleblog.com/2023/08/language-to-rewards-for-robotic-skill.html</id>
+        <link href="http://ai.googleblog.com/2023/08/language-to-rewards-for-robotic-skill.html"/>
+        <updated>2023-08-22T18:47:00.003Z</updated>
+        <summary type="html"><![CDATA[Posted by Wenhao Yu and Fei Xia, Research Scientists, Google
+
+
+
+
+
+
+Empowering end-users to interactively teach robots to perform novel tasks is a crucial capability for their successful integration into real-world applications. For example, a user may want to teach a robot dog to perform a new trick, or teach a manipulator robot how to organize a lunch box based on user preferences. The recent advancements in large language models (LLMs) pre-trained on extensive internet data have shown a promising path towards achieving this goal. Indeed, researchers have explored diverse ways of leveraging LLMs for robotics, from step-by-step planning and goal-oriented dialogue to robot-code-writing agents. 
+
+
+
+While these methods impart new modes of compositional generalization, they focus on using lang…]]></summary>
+        <author>
+            <name>Google AI Blog</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ron's Princibles]]></title>
         <id>https://languagelog.ldc.upenn.edu/nll/?p=60291</id>
