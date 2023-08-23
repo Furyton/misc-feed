@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-08-23T10:15:32.248Z</updated>
+    <updated>2023-08-23T11:11:51.029Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -2352,16 +2352,6 @@ Designing adaptation methods for deep models is an important area of research. W
         <summary type="html"><![CDATA[Training large deep learning models requires large datasets. Amazon Simple Storage Service (Amazon S3) is a scalable cloud object store service used for storing large training datasets. Machine learning (ML) practitioners need an efficient data pipe that can download data from Amazon S3, transform the data, and feed the data to GPUs for training models with high throughput and low latency. In this post, we introduce the new S3 IO DataPipes for PyTorch, S3FileLister and S3FileLoader. For memory efficiency and fast runs, the new DataPipes use the C++ extension to access Amazon S3. Benchmarking shows that S3FileLoader is 59.8% faster than FSSpecFileOpener for downloading a natural language processing (NLP) dataset from Amazon S3. You can build IterDataPipe training pipelines with the new DataPipes. We also demonstrate that the new DataPipe can reduce overall Bert and ResNet50 training time by 7%. The new DataPipes have been upstreamed to the open-source TorchData 0.4.0 with PyTorch 1.12.0.]]></summary>
         <author>
             <name>PyTorch Website</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[a versatile alternative to ABC]]></title>
-        <id>http://xianblog.wordpress.com/?p=53521</id>
-        <link href="https://xianblog.wordpress.com/2023/07/25/a-versatile-alternative-to-abc/"/>
-        <updated>2023-07-24T22:23:21.000Z</updated>
-        <summary type="html"><![CDATA[“We introduce the Fixed Landscape Inference MethOd, a new likelihood-free inference method for continuous state-space stochastic models. It applies deterministic gradient-based optimization algorithms to obtain a point estimate of the parameters, minimizing the difference between the data and some simulations according to some prescribed summary statistics. In this sense, it is analogous to Approximate Bayesian […]]]></summary>
-        <author>
-            <name>xi'an</name>
         </author>
     </entry>
 </feed>
