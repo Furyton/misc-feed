@@ -1762,6 +1762,16 @@
       "siteUrl": "http://ai.googleblog.com/",
       "articles": [
         {
+          "id": "http://ai.googleblog.com/2023/08/teaching-language-models-to-reason.html",
+          "author": null,
+          "description": "Posted by Hattie Zhou, Graduate Student at MILA, Hanie Sedghi, Research Scientist, Google\n\n\n\n\nLarge language models (LLMs), such as GPT-3 and PaLM, have shown impressive progress in recent years, which have been driven by scaling up models and training data sizes. Nonetheless, a long standing debate has been whether LLMs can reason symbolically (i.e., manipulating symbols based on logical rules). For example, LLMs are able to perform simple arithmetic operations when numbers are small, but struggle to perform with large numbers. This suggests that LLMs have not learned the underlying rules needed to perform these arithmetic operations. \n\n\n\nWhile neural networks have powerful pattern matching capabilities, they are prone to overfitting to spurious statistical patterns in the data. This does…",
+          "link": "http://ai.googleblog.com/2023/08/teaching-language-models-to-reason.html",
+          "publishedOn": "2023-08-24T19:33:00.002Z",
+          "wordCount": 27415,
+          "title": "Teaching language models to reason algorithmically",
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiAcRJnal11QtGWoPisWMdALAc6RjoHACiQOfXBIBDnG5Vx_bZ2nS9KJKFfPrq_n_pDArbmBOVQG7UIr8cNo96aFqEVWUGN-2e0aXVIylHIfr4ZMKXkGRI_BsuhVm-xrpWSJTWJ_Cg8h5Vmfqr79R8E4cSazK6d2UHEOxCG49qM0uRW7uL5RwwWgpxPy0ci/w1200-h630-p-k-no-nu/hero.gif"
+        },
+        {
           "id": "http://ai.googleblog.com/2023/08/language-to-rewards-for-robotic-skill.html",
           "author": null,
           "description": "Posted by Wenhao Yu and Fei Xia, Research Scientists, Google\n\n\n\n\n\n\nEmpowering end-users to interactively teach robots to perform novel tasks is a crucial capability for their successful integration into real-world applications. For example, a user may want to teach a robot dog to perform a new trick, or teach a manipulator robot how to organize a lunch box based on user preferences. The recent advancements in large language models (LLMs) pre-trained on extensive internet data have shown a promising path towards achieving this goal. Indeed, researchers have explored diverse ways of leveraging LLMs for robotics, from step-by-step planning and goal-oriented dialogue to robot-code-writing agents. \n\n\n\nWhile these methods impart new modes of compositional generalization, they focus on using lang…",
