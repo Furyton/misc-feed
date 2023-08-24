@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-08-24T19:11:42.766Z</updated>
+    <updated>2023-08-24T20:15:31.309Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -2290,60 +2290,6 @@ Designing adaptation methods for deep models is an important area of research. W
         <summary type="html"><![CDATA[During the first twenty years of my academic career, if anybody asked me what my specialty was, I would have told them something like "medieval popular Buddhist vernacular Chinese literature".  In that usage of "vernacular", which I thought was the standard meaning of the term, I simply considered it a register of language and writing […]]]></summary>
         <author>
             <name>Victor Mair</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Concept Algebra for Score-Based Conditional Models]]></title>
-        <id>http://arxiv.org/abs/2302.03693</id>
-        <link href="http://arxiv.org/abs/2302.03693"/>
-        <updated>2023-07-26T07:13:11.622Z</updated>
-        <summary type="html"><![CDATA[Zihao Wang, Lin Gui, Jeffrey Negrea, Victor Veitch]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stabilizing Transformer Training by Preventing Attention Entropy
-  Collapse]]></title>
-        <id>http://arxiv.org/abs/2303.06296</id>
-        <link href="http://arxiv.org/abs/2303.06296"/>
-        <updated>2023-07-26T07:13:10.167Z</updated>
-        <summary type="html"><![CDATA[Shuangfei Zhai, Tatiana Likhomanenko, Etai Littwin, Dan Busbridge,
-  Jason Ramapuram, Yizhe Zhang, Jiatao Gu, Josh Susskind]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dictionary Learning under Symmetries via Group Representations]]></title>
-        <id>http://arxiv.org/abs/2305.19557</id>
-        <link href="http://arxiv.org/abs/2305.19557"/>
-        <updated>2023-07-26T07:13:10.161Z</updated>
-        <summary type="html"><![CDATA[Subhroshekhar Ghosh, Aaron Y. R. Low, Yong Sheng Soh, Zhuohang Feng,
- , Brendan K. Y. Tan]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Online Learning Guided Curvature Approximation: A Quasi-Newton Method
-  with Global Non-Asymptotic Superlinear Convergence]]></title>
-        <id>http://arxiv.org/abs/2302.08580</id>
-        <link href="http://arxiv.org/abs/2302.08580"/>
-        <updated>2023-07-26T07:13:10.155Z</updated>
-        <summary type="html"><![CDATA[Ruichen Jiang, Qiujiang Jin, Aryan Mokhtari]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Differentially Private Distributed Estimation and Learning]]></title>
-        <id>http://arxiv.org/abs/2306.15865</id>
-        <link href="http://arxiv.org/abs/2306.15865"/>
-        <updated>2023-07-26T07:13:10.140Z</updated>
-        <summary type="html"><![CDATA[Marios Papachristou, M. Amin Rahimian]]></summary>
-        <author>
-            <name>arxivist feed</name>
         </author>
     </entry>
 </feed>
