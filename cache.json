@@ -1422,6 +1422,16 @@
       "siteUrl": "https://xianblog.wordpress.com",
       "articles": [
         {
+          "id": "http://xianblog.wordpress.com/?p=53619",
+          "author": "xi'an",
+          "description": "One of the students’ requests I almost invariably reject is code debugging (and they are warned about it from the start). Here is an illustration why, with an R code sent by a student working this summer on the standard estimators of a Cauchy location parameter, asking for debugging help in order “to make the […]",
+          "link": "https://xianblog.wordpress.com/2023/08/25/making-the-next-meeting-more-productive/",
+          "publishedOn": "2023-08-24T22:23:56.000Z",
+          "wordCount": 1998,
+          "title": "making the next meeting more productive",
+          "imageUrl": "https://secure.gravatar.com/blavatar/eee7e3d9c2da9d5b5ec1465920a1fe024c186e86c5cee173529bd882e372fe0c?s=200&ts=1692918841"
+        },
+        {
           "id": "http://xianblog.wordpress.com/?p=53842",
           "author": "xi'an",
           "description": "Visit the post for more.",
@@ -1761,6 +1771,16 @@
       "feedUrl": "http://feeds.feedburner.com/blogspot/gJZg",
       "siteUrl": "http://ai.googleblog.com/",
       "articles": [
+        {
+          "id": "http://ai.googleblog.com/2023/08/how-to-compare-noisy-quantum-processor.html",
+          "author": null,
+          "description": "Posted by Sergio Boixo and Vadim Smelyanskiy, Principal Scientists, Google Quantum AI Team\n\n\n\n\nA full-scale error-corrected quantum computer will be able to solve some problems that are impossible for classical computers, but building such a device is a huge endeavor. We are proud of the milestones that we have achieved toward a fully error-corrected quantum computer, but that large-scale computer is still some number of years away. Meanwhile, we are using our current noisy quantum processors as flexible platforms for quantum experiments. \n\n\n\nIn contrast to an error-corrected quantum computer, experiments in noisy quantum processors are currently limited to a few thousand quantum operations or gates, before noise degrades the quantum state. In 2019 we implemented a specific computational t…",
+          "link": "http://ai.googleblog.com/2023/08/how-to-compare-noisy-quantum-processor.html",
+          "publishedOn": "2023-08-24T22:10:00.000Z",
+          "wordCount": 28064,
+          "title": "How to compare a noisy quantum processor to a classical computer",
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1m1RqJqSczNGfbF05c8xU86oE8qjQSUVctpJVz3H_FvmW-ebQI9kxslYLp_CwAGoN4ve4RIndX2qsEcLuEDPnWZFZ4uDrqzyPVw-Kl10Aol6C1UQM4b2YXMwJ7BwXuc42U2EV9nPUQ-UkRfEoVmvqM9yHsMINGFibYWWvhVj2yDHJMTymEs8RQoszIYvu/w1200-h630-p-k-no-nu/hero.jpg"
+        },
         {
           "id": "http://ai.googleblog.com/2023/08/teaching-language-models-to-reason.html",
           "author": null,

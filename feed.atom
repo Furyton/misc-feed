@@ -2,10 +2,39 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-08-24T22:13:00.499Z</updated>
+    <updated>2023-08-24T23:14:32.931Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[making the next meeting more productive]]></title>
+        <id>http://xianblog.wordpress.com/?p=53619</id>
+        <link href="https://xianblog.wordpress.com/2023/08/25/making-the-next-meeting-more-productive/"/>
+        <updated>2023-08-24T22:23:56.000Z</updated>
+        <summary type="html"><![CDATA[One of the students’ requests I almost invariably reject is code debugging (and they are warned about it from the start). Here is an illustration why, with an R code sent by a student working this summer on the standard estimators of a Cauchy location parameter, asking for debugging help in order “to make the […]]]></summary>
+        <author>
+            <name>xi'an</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to compare a noisy quantum processor to a classical computer]]></title>
+        <id>http://ai.googleblog.com/2023/08/how-to-compare-noisy-quantum-processor.html</id>
+        <link href="http://ai.googleblog.com/2023/08/how-to-compare-noisy-quantum-processor.html"/>
+        <updated>2023-08-24T22:10:00.000Z</updated>
+        <summary type="html"><![CDATA[Posted by Sergio Boixo and Vadim Smelyanskiy, Principal Scientists, Google Quantum AI Team
+
+
+
+
+A full-scale error-corrected quantum computer will be able to solve some problems that are impossible for classical computers, but building such a device is a huge endeavor. We are proud of the milestones that we have achieved toward a fully error-corrected quantum computer, but that large-scale computer is still some number of years away. Meanwhile, we are using our current noisy quantum processors as flexible platforms for quantum experiments. 
+
+
+
+In contrast to an error-corrected quantum computer, experiments in noisy quantum processors are currently limited to a few thousand quantum operations or gates, before noise degrades the quantum state. In 2019 we implemented a specific computational t…]]></summary>
+        <author>
+            <name>Google AI Blog</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Teaching language models to reason algorithmically]]></title>
         <id>http://ai.googleblog.com/2023/08/teaching-language-models-to-reason.html</id>
