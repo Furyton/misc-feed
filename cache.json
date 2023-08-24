@@ -1091,6 +1091,16 @@
       "siteUrl": "https://kexue.fm/",
       "articles": [
         {
+          "id": "https://kexue.fm/archives/9731",
+          "author": "苏剑林",
+          "description": "在上一篇文章《Transformer升级之路：13、逆用Leaky ReRoPE》中，笔者尝试通过在训练阶段逆用Leaky ReRoPE的思路，使得推理阶段的位置编码变为正常的RoPE，从而在达...",
+          "link": "https://kexue.fm/archives/9731",
+          "publishedOn": "2023-08-24T10:24:00.000Z",
+          "wordCount": 1791,
+          "title": "Transformer升级之路：14、当HWFA遇见ReRoPE",
+          "imageUrl": null
+        },
+        {
           "id": "https://kexue.fm/archives/9728",
           "author": "苏剑林",
           "description": "上周在《Transformer升级之路：12、无限外推的ReRoPE？》中，笔者提出了ReRoPE和Leaky ReRoPE，诸多实验结果表明，它们能够在几乎不损失训练效果的情况下免微调地扩展L...",
@@ -1750,16 +1760,6 @@
           "wordCount": 1765,
           "title": "what is the caption?!",
           "imageUrl": "https://media.newyorker.com/cartoons/64badc2c901381cd37289a36/master/w_1160,c_limit/230731_a27015_859.jpg"
-        },
-        {
-          "id": "http://xianblog.wordpress.com/?p=53585",
-          "author": "xi'an",
-          "description": "As ICML 2023 is happening this week, in Hawai’i, many did not have the opportunity to get there, for whatever reason, and hence the ellis (European Lab for Learning {and} Intelligent Systems] board launched [fairly late!] with the help of Hi! Paris an unconference (i.e., a mirror) that is taking place in HEC, Jouy-en-Josas, SW […]",
-          "link": "https://xianblog.wordpress.com/2023/07/26/ellis-unconference-not-in-hawaii/",
-          "publishedOn": "2023-07-25T22:23:24.000Z",
-          "wordCount": 2379,
-          "title": "ellis unconference [not in Hawai’i]",
-          "imageUrl": "https://xianblog.files.wordpress.com/2023/07/1690300278740-e1690300379581.jpg"
         }
       ]
     },

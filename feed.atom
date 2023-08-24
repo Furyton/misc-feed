@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-08-24T10:15:33.775Z</updated>
+    <updated>2023-08-24T11:12:07.129Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Transformer升级之路：14、当HWFA遇见ReRoPE]]></title>
+        <id>https://kexue.fm/archives/9731</id>
+        <link href="https://kexue.fm/archives/9731"/>
+        <updated>2023-08-24T10:24:00.000Z</updated>
+        <summary type="html"><![CDATA[在上一篇文章《Transformer升级之路：13、逆用Leaky ReRoPE》中，笔者尝试通过在训练阶段逆用Leaky ReRoPE的思路，使得推理阶段的位置编码变为正常的RoPE，从而在达...]]></summary>
+        <author>
+            <name>苏剑林</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Vulgar Cantonese elegantly displayed]]></title>
         <id>https://languagelog.ldc.upenn.edu/nll/?p=60319</id>
@@ -2334,16 +2344,6 @@ Designing adaptation methods for deep models is an important area of research. W
         <summary type="html"><![CDATA[Ashley Belanger, "OpenAI, Google will watermark AI-generated content to hinder deepfakes, misinfo", ars technica 7/21/2023: Seven companies — including OpenAI, Microsoft, Google, Meta, Amazon, Anthropic, and Inflection —- have committed to developing tech to clearly watermark AI-generated content. That will help make it safer to share AI-generated text, video, audio, and images without misleading others […]]]></summary>
         <author>
             <name>Mark Liberman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ellis unconference [not in Hawai’i]]]></title>
-        <id>http://xianblog.wordpress.com/?p=53585</id>
-        <link href="https://xianblog.wordpress.com/2023/07/26/ellis-unconference-not-in-hawaii/"/>
-        <updated>2023-07-25T22:23:24.000Z</updated>
-        <summary type="html"><![CDATA[As ICML 2023 is happening this week, in Hawai’i, many did not have the opportunity to get there, for whatever reason, and hence the ellis (European Lab for Learning {and} Intelligent Systems] board launched [fairly late!] with the help of Hi! Paris an unconference (i.e., a mirror) that is taking place in HEC, Jouy-en-Josas, SW […]]]></summary>
-        <author>
-            <name>xi'an</name>
         </author>
     </entry>
 </feed>
