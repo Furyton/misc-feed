@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-08-25T02:20:22.436Z</updated>
+    <updated>2023-08-25T03:15:13.676Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Calligraphic license]]></title>
+        <id>https://languagelog.ldc.upenn.edu/nll/?p=60331</id>
+        <link href="https://languagelog.ldc.upenn.edu/nll/?p=60331&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=calligraphic-license"/>
+        <updated>2023-08-25T03:07:39.000Z</updated>
+        <summary type="html"><![CDATA[Shaing tai asked whether I recognized these characters: I didn't recognize the two characters, so I asked several Chinese and Japanese friends, and none of them recognized the characters either.  My curiosity piqued, I figured I might as well take a stab on my own to figure out what they were. The calligraphy was displayed […]]]></summary>
+        <author>
+            <name>Victor Mair</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[StableDR: Stabilized Doubly Robust Learning for Recommendation on Data
   Missing Not at Random]]></title>
