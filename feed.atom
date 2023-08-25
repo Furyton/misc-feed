@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-08-25T12:27:38.280Z</updated>
+    <updated>2023-08-25T13:17:04.527Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Debate words]]></title>
+        <id>https://languagelog.ldc.upenn.edu/nll/?p=60351</id>
+        <link href="https://languagelog.ldc.upenn.edu/nll/?p=60351&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=debate-words-3"/>
+        <updated>2023-08-25T12:41:38.000Z</updated>
+        <summary type="html"><![CDATA[The Transcript Library at rev.com is a great resource — within 24 hours, they had transcripts of Wednesday's Fox News Republican presidential debate, and also of Tucker Carlson's debate night interview with Donald Trump on X. So this morning I downloaded the transcripts, and ran the code that I've used several times over the years […]]]></summary>
+        <author>
+            <name>Mark Liberman</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Calligraphic license]]></title>
         <id>https://languagelog.ldc.upenn.edu/nll/?p=60331</id>
