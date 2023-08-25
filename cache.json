@@ -6,6 +6,46 @@
       "siteUrl": "https://www.arxivist.com",
       "articles": [
         {
+          "id": "http://arxiv.org/abs/2205.04701",
+          "author": null,
+          "description": "Haoxuan Li, Chunyuan Zheng, Peng Wu",
+          "link": "http://arxiv.org/abs/2205.04701",
+          "publishedOn": "2023-08-25T02:20:22.385Z",
+          "wordCount": 720,
+          "title": "StableDR: Stabilized Doubly Robust Learning for Recommendation on Data\n  Missing Not at Random",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2308.12445",
+          "author": null,
+          "description": "Ahmed Haj Yahmed, Rached Bouchoucha, Houssem Ben Braiek, Foutse Khomh",
+          "link": "http://arxiv.org/abs/2308.12445",
+          "publishedOn": "2023-08-25T02:20:22.378Z",
+          "wordCount": 769,
+          "title": "An Intentional Forgetting-Driven Self-Healing Method For Deep\n  Reinforcement Learning Systems",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2308.12785",
+          "author": null,
+          "description": "Kai Brach, Beate Sick, Oliver D\\\"urr",
+          "link": "http://arxiv.org/abs/2308.12785",
+          "publishedOn": "2023-08-25T02:20:22.204Z",
+          "wordCount": 733,
+          "title": "Single-shot Bayesian approximation for neural networks",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2209.10634",
+          "author": null,
+          "description": "David Lipshutz, Cengiz Pehlevan, Dmitri B. Chklovskii",
+          "link": "http://arxiv.org/abs/2209.10634",
+          "publishedOn": "2023-08-25T02:20:22.197Z",
+          "wordCount": 747,
+          "title": "Interneurons accelerate learning dynamics in recurrent neural networks\n  for statistical adaptation",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
           "id": "http://arxiv.org/abs/2308.12108",
           "author": null,
           "description": "Edmund Lau, Daniel Murfet, Susan Wei",
