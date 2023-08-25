@@ -1910,16 +1910,6 @@
           "wordCount": 27719,
           "title": "Multimodal medical AI",
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhU2ypPfvmlgGQW4yp3EbUlJ4rLlIukRC9TDstIe7RV5JTxMo-THDgKPhFYbBUV4m0vKVjmG9lDTBWdy5kH_bR3-tqN8KzdhgmrLL_N2e_glc0WG-HkSm5Nouk7-MU65hu0RH5QWP0nHFNcZpERq9_agfaMqtHjhChbu_dPvWsJfZ8DsxZWnx15hogprRb3/w1200-h630-p-k-no-nu/medpalm.png"
-        },
-        {
-          "id": "http://ai.googleblog.com/2023/07/in-search-of-generalizable-method-for.html",
-          "author": null,
-          "description": "Posted by Eleni Triantafillou, Research Scientist, and Malik Boudiaf, Student Researcher, Google \n\n\n\n\n\n\n\n\n\nDeep learning has recently made tremendous progress in a wide range of problems and applications, but models often fail unpredictably when deployed in unseen domains or distributions. Source-free domain adaptation (SFDA) is an area of research that aims to design methods for adapting a pre-trained model (trained on a “source domain”) to a new “target domain”, using only unlabeled data from the latter. \n \n\nDesigning adaptation methods for deep models is an important area of research. While the increasing scale of models and training datasets has been a key ingredient to their success, a negative consequence of this trend is that training such models is increasingly computationally expe…",
-          "link": "http://ai.googleblog.com/2023/07/in-search-of-generalizable-method-for.html",
-          "publishedOn": "2023-07-26T16:33:00.002Z",
-          "wordCount": 27928,
-          "title": "In search of a generalizable method for source-free domain adaptation",
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhnKLO5myVKCSpTQa17lSR3Jj3i3D5Ll87Me9l6CHJ4eyQe_1feJitNR6CYsDURNb7OobVrh3MRU49C4epC-kkkEL7-kgiJ4MXEIvlxIxc8G7NXZxjzjgyM4nY06lQWVIGEL2yoKnK_mR9P8UyK5T_4b1pnQPOnjW2fhJVYgQkVTk7gxthW-n5WwKDdgmiA/w1200-h630-p-k-no-nu/notela.png"
         }
       ]
     },
