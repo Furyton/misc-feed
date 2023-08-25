@@ -1402,6 +1402,16 @@
       "siteUrl": "https://xianblog.wordpress.com",
       "articles": [
         {
+          "id": "http://xianblog.wordpress.com/?p=53899",
+          "author": "xi'an",
+          "description": "Just heard that C.R. Rao had passed away on Wednesday. Above is a 1941 picture I photographed while attending the jubilee of the Department of Statistics of the University of Calcuta. Showing R.A. Fisher and P.C. Mahalanobis surrounded by faculty and students from the Department. Including a very young Rao who would a few years […]",
+          "link": "https://xianblog.wordpress.com/2023/08/26/calyampudi-radhakrishna-rao-1920-2023/",
+          "publishedOn": "2023-08-25T22:23:46.000Z",
+          "wordCount": 2099,
+          "title": "Calyampudi Radhakrishna Rao (1920-2023)",
+          "imageUrl": "https://xianblog.files.wordpress.com/2016/12/fisher-e1482752982599.jpg"
+        },
+        {
           "id": "http://xianblog.wordpress.com/?p=53619",
           "author": "xi'an",
           "description": "One of the students’ requests I almost invariably reject is code debugging (and they are warned about it from the start). Here is an illustration why, with an R code sent by a student working this summer on the standard estimators of a Cauchy location parameter, asking for debugging help in order “to make the […]",
@@ -2418,16 +2428,6 @@
           "publishedOn": "2023-07-27T12:01:01.000Z",
           "wordCount": 3127,
           "title": "Knowledge and skills contributed by enslaved Africans",
-          "imageUrl": null
-        },
-        {
-          "id": "https://languagelog.ldc.upenn.edu/nll/?p=59895",
-          "author": "Mark Liberman",
-          "description": "Today's Non Sequitur: So of course I asked GPT-4: \"Based on Mark Twain's writings, sketch the plot for a new novel by him.\" I suspect that I'm not the first person to ask this question, because GPT-4's answer began streaming out instantly: Title: \"Driftwood: An American Journey\" Part I: The Innocent Boyhood Our story begins […]",
-          "link": "https://languagelog.ldc.upenn.edu/nll/?p=59895&utm_source=rss&utm_medium=rss&utm_campaign=mark-twains-new-novel",
-          "publishedOn": "2023-07-27T11:00:39.000Z",
-          "wordCount": 2420,
-          "title": "Mark Twain's new novel?",
           "imageUrl": null
         }
       ]
