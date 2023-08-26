@@ -1341,6 +1341,16 @@
       "siteUrl": "https://xianblog.wordpress.com",
       "articles": [
         {
+          "id": "http://xianblog.wordpress.com/?p=53766",
+          "author": "xi'an",
+          "description": "Visit the post for more.",
+          "link": "https://xianblog.wordpress.com/2023/08/27/23w5106-group-picture/",
+          "publishedOn": "2023-08-26T22:23:25.000Z",
+          "wordCount": 1825,
+          "title": "23w5106 [group picture]",
+          "imageUrl": "https://www.birs.ca/files//workshops/UBCO/2023/23w5106/23w5106_groupphoto.jpg"
+        },
+        {
           "id": "http://xianblog.wordpress.com/?p=53899",
           "author": "xi'an",
           "description": "Just heard that C.R. Rao had passed away on Wednesday. Above is a 1941 picture I photographed while attending the jubilee of the Department of Statistics of the University of Calcuta. Showing R.A. Fisher and P.C. Mahalanobis surrounded by faculty and students from the Department. Including a very young Rao who would a few years […]",
@@ -2337,26 +2347,6 @@
           "publishedOn": "2023-07-28T18:34:23.000Z",
           "wordCount": 2919,
           "title": "Where did the PIEs come from; when was that?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://languagelog.ldc.upenn.edu/nll/?p=59918",
-          "author": "Mark Liberman",
-          "description": "There's a puzzling new proposal for watermarking AI-generated text — Alistair Croll, \"To Watermark AI, It Needs Its Own Alphabet\", Wired 7/27/2023: We need a way to distinguish things made by humans from things made by algorithms, and we need it very soon. […] Fortunately, we have a solution waiting in plain sight. […] If […]",
-          "link": "https://languagelog.ldc.upenn.edu/nll/?p=59918&utm_source=rss&utm_medium=rss&utm_campaign=rot-llm",
-          "publishedOn": "2023-07-28T10:37:20.000Z",
-          "wordCount": 2471,
-          "title": "ROT-LLM?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://languagelog.ldc.upenn.edu/nll/?p=59913",
-          "author": "Victor Mair",
-          "description": "People, including serious linguists, are beginning to wonder: John McWhorter, \"Are translation apps making the learning of foreign languages obsolete?\", NYT 7/25/2023 I remember a time, not too long ago, when John was making a serious effort to learn Mandarin, because he often asked me cogent questions about the language and wanted to know the […]",
-          "link": "https://languagelog.ldc.upenn.edu/nll/?p=59913&utm_source=rss&utm_medium=rss&utm_campaign=is-there-no-any-longer-a-reason-need-to-learn-a-foreign-language-part-2",
-          "publishedOn": "2023-07-28T10:30:00.000Z",
-          "wordCount": 2496,
-          "title": "Is there no / any longer a reason / need to learn a foreign language?, part 2",
           "imageUrl": null
         }
       ]
