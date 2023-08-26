@@ -1160,18 +1160,7 @@
       "title": "DeepMind Blog",
       "feedUrl": "https://deepmind.com/blog/feed/basic/",
       "siteUrl": "https://www.deepmind.com",
-      "articles": [
-        {
-          "id": "https://www.deepmind.com/blog/rt-2-new-model-translates-vision-and-language-into-action",
-          "author": null,
-          "description": "Introducing Robotic Transformer 2 (RT-2), a novel vision-language-action (VLA) model that learns from both web and robotics data, and translates this knowledge into generalised instructions for robotic control, while retaining web-scale capabilities. This work builds upon Robotic Transformer 1 (RT-1), a model trained on multi-task demonstrations which can learn combinations of tasks and objects seen in the robotic data. RT-2 shows improved generalisation capabilities and semantic and visual understanding, beyond the robotic data it was exposed to. This includes interpreting new commands and responding to user commands by performing rudimentary reasoning, such as reasoning about object categories or high-level descriptions.",
-          "link": "https://www.deepmind.com/blog/rt-2-new-model-translates-vision-and-language-into-action",
-          "publishedOn": "2023-07-28T00:00:00.000Z",
-          "wordCount": 2026,
-          "title": "RT-2: New model translates vision and language into action",
-          "imageUrl": "https://assets-global.website-files.com/621e749a546b7592125f38ed/64c28b81ad5efcad99aca86f_rt2_header-min.png"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Distill",
