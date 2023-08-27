@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-08-27T06:17:40.038Z</updated>
+    <updated>2023-08-27T07:12:20.510Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -2202,16 +2202,6 @@ Medicine is an inherently multimodal discipline. When providing care, clinicians
         <summary type="html"><![CDATA[We have just arXived our paper on insufficient Gibbs sampling with Antoine Luciano and Robin Ryder, from Université Paris Dauphine. This is Antoine’s first paper and part of his PhD. (In particular, he wrote the entire code.) The idea stemmed from a discussion on ABC benchmarks, like the one when the pair (median, MAD) is […]]]></summary>
         <author>
             <name>xi'an</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Where did the PIEs come from; when was that?]]></title>
-        <id>https://languagelog.ldc.upenn.edu/nll/?p=59908</id>
-        <link href="https://languagelog.ldc.upenn.edu/nll/?p=59908&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=where-did-the-pies-come-from-when-was-that"/>
-        <updated>2023-07-28T18:34:23.000Z</updated>
-        <summary type="html"><![CDATA[The language family began to diverge from around 8,100 years ago, out of a homeland immediately south of the Caucasus. One migration reached the Pontic-Caspian and Forest Steppe around 7,000 years ago, and from there subsequent migrations spread into parts of Europe around 5,000 years ago. Credit: P. Heggarty et al., Science (2023) "New Insights into the […]]]></summary>
-        <author>
-            <name>Victor Mair</name>
         </author>
     </entry>
 </feed>
