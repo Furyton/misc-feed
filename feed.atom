@@ -2,10 +2,62 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-08-28T01:03:38.097Z</updated>
+    <updated>2023-08-28T02:20:35.012Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Bayesian Reasoning for Physics Informed Neural Networks]]></title>
+        <id>http://arxiv.org/abs/2308.13222</id>
+        <link href="http://arxiv.org/abs/2308.13222"/>
+        <updated>2023-08-28T02:20:34.966Z</updated>
+        <summary type="html"><![CDATA[Krzysztof M. Graczyk, Kornel Witkowski]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PDSketch: Integrated Planning Domain Programming and Learning]]></title>
+        <id>http://arxiv.org/abs/2303.05501</id>
+        <link href="http://arxiv.org/abs/2303.05501"/>
+        <updated>2023-08-28T02:20:34.959Z</updated>
+        <summary type="html"><![CDATA[Jiayuan Mao, Tom\'as Lozano-P\'erez, Joshua B. Tenenbaum, Leslie Pack
+  Kaelbling]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kernel Density Matrices for Probabilistic Deep Learning]]></title>
+        <id>http://arxiv.org/abs/2305.18204</id>
+        <link href="http://arxiv.org/abs/2305.18204"/>
+        <updated>2023-08-28T02:20:34.918Z</updated>
+        <summary type="html"><![CDATA[Fabio A. Gonz\'alez, Ra\'ul Ramos-Poll\'an, Joseph A. Gallego-Mejia]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Six Lectures on Linearized Neural Networks]]></title>
+        <id>http://arxiv.org/abs/2308.13431</id>
+        <link href="http://arxiv.org/abs/2308.13431"/>
+        <updated>2023-08-28T02:20:34.912Z</updated>
+        <summary type="html"><![CDATA[Theodor Misiakiewicz, Andrea Montanari]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A topological model for partial equivariance in deep learning and data
+  analysis]]></title>
+        <id>http://arxiv.org/abs/2308.13357</id>
+        <link href="http://arxiv.org/abs/2308.13357"/>
+        <updated>2023-08-28T02:20:34.906Z</updated>
+        <summary type="html"><![CDATA[Lucia Ferrari, Patrizio Frosini, Nicola Quercioli, Francesca Tombari]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[BayesComp²⁵ in Singapore]]></title>
         <id>http://xianblog.wordpress.com/?p=53654</id>
@@ -2222,16 +2274,6 @@ Medicine is an inherently multimodal discipline. When providing care, clinicians
         <summary type="html"><![CDATA[I am almost off to a BIRS workshop on differential privacy taking place on the Okanagan UBC campus rather than at the original BIRS place in Banff, three hours (drive) West, on the Okanagan Lake. When I saw the announcement for the workshop on the BIRS webpage, I saw it as a perfect opportunity to […]]]></summary>
         <author>
             <name>xi'an</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Semantic drift of the week]]></title>
-        <id>https://languagelog.ldc.upenn.edu/nll/?p=59938</id>
-        <link href="https://languagelog.ldc.upenn.edu/nll/?p=59938&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=semantic-drift-of-the-week"/>
-        <updated>2023-07-29T13:08:47.000Z</updated>
-        <summary type="html"><![CDATA[…or maybe we should call it a "semantic jump"? It's a pun that illustrates how word meanings can evolve along sensible paths that become obscure as time passes and culture changes. And this is one of the reasons that the reconstruction of linguistic history gets harder as time depth increases — see "Scrabble tips for […]]]></summary>
-        <author>
-            <name>Mark Liberman</name>
         </author>
     </entry>
 </feed>

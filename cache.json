@@ -6,6 +6,56 @@
       "siteUrl": "https://www.arxivist.com",
       "articles": [
         {
+          "id": "http://arxiv.org/abs/2308.13222",
+          "author": null,
+          "description": "Krzysztof M. Graczyk, Kornel Witkowski",
+          "link": "http://arxiv.org/abs/2308.13222",
+          "publishedOn": "2023-08-28T02:20:34.966Z",
+          "wordCount": 630,
+          "title": "Bayesian Reasoning for Physics Informed Neural Networks",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2303.05501",
+          "author": null,
+          "description": "Jiayuan Mao, Tom\\'as Lozano-P\\'erez, Joshua B. Tenenbaum, Leslie Pack\n  Kaelbling",
+          "link": "http://arxiv.org/abs/2303.05501",
+          "publishedOn": "2023-08-28T02:20:34.959Z",
+          "wordCount": 664,
+          "title": "PDSketch: Integrated Planning Domain Programming and Learning",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2305.18204",
+          "author": null,
+          "description": "Fabio A. Gonz\\'alez, Ra\\'ul Ramos-Poll\\'an, Joseph A. Gallego-Mejia",
+          "link": "http://arxiv.org/abs/2305.18204",
+          "publishedOn": "2023-08-28T02:20:34.918Z",
+          "wordCount": 714,
+          "title": "Kernel Density Matrices for Probabilistic Deep Learning",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2308.13431",
+          "author": null,
+          "description": "Theodor Misiakiewicz, Andrea Montanari",
+          "link": "http://arxiv.org/abs/2308.13431",
+          "publishedOn": "2023-08-28T02:20:34.912Z",
+          "wordCount": 578,
+          "title": "Six Lectures on Linearized Neural Networks",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2308.13357",
+          "author": null,
+          "description": "Lucia Ferrari, Patrizio Frosini, Nicola Quercioli, Francesca Tombari",
+          "link": "http://arxiv.org/abs/2308.13357",
+          "publishedOn": "2023-08-28T02:20:34.906Z",
+          "wordCount": 628,
+          "title": "A topological model for partial equivariance in deep learning and data\n  analysis",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
           "id": "http://arxiv.org/abs/2205.04701",
           "author": null,
           "description": "Haoxuan Li, Chunyuan Zheng, Peng Wu",
@@ -2357,16 +2407,6 @@
             "length": "37548",
             "type": "audio/wav"
           },
-          "imageUrl": null
-        },
-        {
-          "id": "https://languagelog.ldc.upenn.edu/nll/?p=59938",
-          "author": "Mark Liberman",
-          "description": "…or maybe we should call it a \"semantic jump\"? It's a pun that illustrates how word meanings can evolve along sensible paths that become obscure as time passes and culture changes. And this is one of the reasons that the reconstruction of linguistic history gets harder as time depth increases — see \"Scrabble tips for […]",
-          "link": "https://languagelog.ldc.upenn.edu/nll/?p=59938&utm_source=rss&utm_medium=rss&utm_campaign=semantic-drift-of-the-week",
-          "publishedOn": "2023-07-29T13:08:47.000Z",
-          "wordCount": 2737,
-          "title": "Semantic drift of the week",
           "imageUrl": null
         }
       ]
