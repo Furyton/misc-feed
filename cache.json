@@ -1122,7 +1122,18 @@
       "title": "Sander Dieleman",
       "feedUrl": "https://benanne.github.io/feed",
       "siteUrl": "https://sander.ai/",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://sander.ai/2023/08/28/geometry.html",
+          "author": null,
+          "description": "Guidance is a powerful method that can be used to enhance diffusion model sampling. As I’ve discussed in an earlier blog post, it’s almost like a cheat code: it can improve sample quality so much that it’s as if the model had ten times the number of parameters – an order of magnitude improvement, basically for free! This follow-up post provides a geometric interpretation and visualisation of the diffusion sampling procedure, which I’ve found particularly useful to explain how guidance works.",
+          "link": "https://sander.ai/2023/08/28/geometry.html",
+          "publishedOn": "2023-08-27T23:00:00.000Z",
+          "wordCount": 3782,
+          "title": "The geometry of diffusion guidance",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "Jeremy Jordan",

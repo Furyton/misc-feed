@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-08-28T15:15:23.599Z</updated>
+    <updated>2023-08-28T16:18:51.777Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -76,6 +76,16 @@
         <summary type="html"><![CDATA[Lucia Ferrari, Patrizio Frosini, Nicola Quercioli, Francesca Tombari]]></summary>
         <author>
             <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The geometry of diffusion guidance]]></title>
+        <id>https://sander.ai/2023/08/28/geometry.html</id>
+        <link href="https://sander.ai/2023/08/28/geometry.html"/>
+        <updated>2023-08-27T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Guidance is a powerful method that can be used to enhance diffusion model sampling. As I’ve discussed in an earlier blog post, it’s almost like a cheat code: it can improve sample quality so much that it’s as if the model had ten times the number of parameters – an order of magnitude improvement, basically for free! This follow-up post provides a geometric interpretation and visualisation of the diffusion sampling procedure, which I’ve found particularly useful to explain how guidance works.]]></summary>
+        <author>
+            <name>Sander Dieleman</name>
         </author>
     </entry>
     <entry>
