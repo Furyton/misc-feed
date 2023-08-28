@@ -1031,6 +1031,16 @@
       "siteUrl": "https://kexue.fm/",
       "articles": [
         {
+          "id": "https://kexue.fm/archives/9736",
+          "author": "苏剑林",
+          "description": "打从在《Tiger：一个“抠”到极致的优化器》提出了Tiger优化器之后，Tiger就一直成为了我训练模型的“标配”优化器。最近笔者已经尝试将Tiger用到了70亿参数模型的预训练之中，前期效果...",
+          "link": "https://kexue.fm/archives/9736",
+          "publishedOn": "2023-08-28T06:44:00.000Z",
+          "wordCount": 1438,
+          "title": "Lion/Tiger优化器训练下的Embedding异常和对策",
+          "imageUrl": null
+        },
+        {
           "id": "https://kexue.fm/archives/9731",
           "author": "苏剑林",
           "description": "在上一篇文章《Transformer升级之路：13、逆用Leaky ReRoPE》中，笔者尝试通过在训练阶段逆用Leaky ReRoPE的思路，使得推理阶段的位置编码变为正常的RoPE，从而在达...",
