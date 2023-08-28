@@ -1752,6 +1752,16 @@
       "siteUrl": "http://ai.googleblog.com/",
       "articles": [
         {
+          "id": "http://ai.googleblog.com/2023/08/ro-vit-region-aware-pre-training-for.html",
+          "author": null,
+          "description": "Posted by Dahun Kim and Weicheng Kuo, Research Scientists, Google\n\n\n\nThe ability to detect objects in the visual world is crucial for computer vision and machine intelligence, enabling applications like adaptive autonomous agents and versatile shopping systems. However, modern object detectors are limited by the manual annotations of their training data, resulting in a vocabulary size significantly smaller than the vast array of objects encountered in reality. To overcome this, the open-vocabulary detection task (OVD) has emerged, utilizing image-text pairs for training and incorporating new category names at test time by associating them with the image content. By treating categories as text embeddings, open-vocabulary detectors can predict a wide range of unseen objects. Various techniqu…",
+          "link": "http://ai.googleblog.com/2023/08/ro-vit-region-aware-pre-training-for.html",
+          "publishedOn": "2023-08-28T16:59:00.001Z",
+          "wordCount": 27771,
+          "title": "RO-ViT: Region-aware pre-training for open-vocabulary object detection with vision transformers",
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9wOjJcc9-JUy0J6NEo8aRgBIeiHRY6YdneL3pBlAF4GszMf6MctGLuZG5ZClFHqMGK9j_RpgF-M2AvcScwa98FwLHtEt1rC7HCiSPhnNpG0podsHDn8uKlh9fVuIj5xYGUFytZWHkE4pANrDnXLknL-7_FTTEYVtL2MVR-DMwREMdxi3TeGZKw1OcLiPI/w1200-h630-p-k-no-nu/RO-ViT-hero.jpg"
+        },
+        {
           "id": "http://ai.googleblog.com/2023/08/responsible-ai-at-google-research.html",
           "author": null,
           "description": "Posted by Susanna Ricco and Utsav Prabhu, co-leads, Perception Fairness Team, Google Research\n\n\n\n\n\nGoogle’s Responsible AI research is built on a foundation of collaboration — between teams with diverse backgrounds and expertise, between researchers and product developers, and ultimately with the community at large. The Perception Fairness team drives progress by combining deep subject-matter expertise in both computer vision and machine learning (ML) fairness with direct connections to the researchers building the perception systems that power products across Google and beyond. Together, we are working to intentionally design our systems to be inclusive from the ground up, guided by Google’s AI Principles.\n\n\n\n\n\n\nPerception Fairness research spans the design, development, and deployment of…",

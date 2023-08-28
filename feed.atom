@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-08-28T20:15:27.809Z</updated>
+    <updated>2023-08-28T21:13:13.752Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -14,6 +14,20 @@
         <summary type="html"><![CDATA[From the Hong Kong Language Learning Association: Announcement Regarding Suspension of Hong Kong Language Learning Association Given recent events, wherein personnel from the Hong Kong National Security Department (NSD) visited both my former residence and the residence of my family members for searches and inquiries, alleging a violation of the National Security Law in connection with […]]]></summary>
         <author>
             <name>Victor Mair</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RO-ViT: Region-aware pre-training for open-vocabulary object detection with vision transformers]]></title>
+        <id>http://ai.googleblog.com/2023/08/ro-vit-region-aware-pre-training-for.html</id>
+        <link href="http://ai.googleblog.com/2023/08/ro-vit-region-aware-pre-training-for.html"/>
+        <updated>2023-08-28T16:59:00.001Z</updated>
+        <summary type="html"><![CDATA[Posted by Dahun Kim and Weicheng Kuo, Research Scientists, Google
+
+
+
+The ability to detect objects in the visual world is crucial for computer vision and machine intelligence, enabling applications like adaptive autonomous agents and versatile shopping systems. However, modern object detectors are limited by the manual annotations of their training data, resulting in a vocabulary size significantly smaller than the vast array of objects encountered in reality. To overcome this, the open-vocabulary detection task (OVD) has emerged, utilizing image-text pairs for training and incorporating new category names at test time by associating them with the image content. By treating categories as text embeddings, open-vocabulary detectors can predict a wide range of unseen objects. Various techniqu…]]></summary>
+        <author>
+            <name>Google AI Blog</name>
         </author>
     </entry>
     <entry>
