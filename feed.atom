@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-08-29T10:16:15.775Z</updated>
+    <updated>2023-08-29T11:12:16.173Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -2597,16 +2597,6 @@ Medicine is an inherently multimodal discipline. When providing care, clinicians
         <summary type="html"><![CDATA[在文章《Transformer升级之路：10、RoPE是一种β进制编码》中，我们给出了RoPE的$\beta$进制诠释，并基于进制转化的思路推导了能够在不微调的情况下就可以扩展Context长度...]]></summary>
         <author>
             <name>苏剑林</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Contextual Integrity for Differential Privacy #0 [23w5106]]]></title>
-        <id>http://xianblog.wordpress.com/?p=53658</id>
-        <link href="https://xianblog.wordpress.com/2023/07/31/contextual-integrity-for-differential-privacy-0-23w5106/"/>
-        <updated>2023-07-30T22:23:14.000Z</updated>
-        <summary type="html"><![CDATA[The Banff International Research Station will host the “Contextual Integrity for Differential Privacy” workshop at the UBC Okanagan campus in Kelowna, B.C., from July 30 to August 4, 2023. Privacy concerns are becoming a major obstacle to using data, and it is often unclear how current regulations should translate into technology. Over the last decade, […]]]></summary>
-        <author>
-            <name>xi'an</name>
         </author>
     </entry>
 </feed>
