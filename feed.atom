@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-08-29T16:19:48.649Z</updated>
+    <updated>2023-08-29T17:14:20.025Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA["Re-Grand Opening"]]></title>
+        <id>https://languagelog.ldc.upenn.edu/nll/?p=60440</id>
+        <link href="https://languagelog.ldc.upenn.edu/nll/?p=60440&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=re-grand-opening"/>
+        <updated>2023-08-29T16:22:55.000Z</updated>
+        <summary type="html"><![CDATA[From John Bell: I thought of you and your interest in the oddities of linguistic expression a few days ago when I noticed that the local Safeway supermarket had large signs up saying "RE-GRAND OPENING".   They had recently done some renovation in a corner of the store — enlarging the self-checkout and the Starbucks […]]]></summary>
+        <author>
+            <name>Mark Liberman</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[On the Estimation of Derivatives Using Plug-in Kernel Ridge Regression
   Estimators]]></title>
