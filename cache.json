@@ -1809,8 +1809,18 @@
     {
       "title": "Google AI Blog",
       "feedUrl": "http://feeds.feedburner.com/blogspot/gJZg",
-      "siteUrl": "http://ai.googleblog.com/",
+      "siteUrl": "http://blog.research.google/",
       "articles": [
+        {
+          "id": "http://blog.research.google/2023/08/ro-vit-region-aware-pre-training-for.html",
+          "author": null,
+          "description": "Posted by Dahun Kim and Weicheng Kuo, Research Scientists, Google\n\n\n\nThe ability to detect objects in the visual world is crucial for computer vision and machine intelligence, enabling applications like adaptive autonomous agents and versatile shopping systems. However, modern object detectors are limited by the manual annotations of their training data, resulting in a vocabulary size significantly smaller than the vast array of objects encountered in reality. To overcome this, the open-vocabulary detection task (OVD) has emerged, utilizing image-text pairs for training and incorporating new category names at test time by associating them with the image content. By treating categories as text embeddings, open-vocabulary detectors can predict a wide range of unseen objects. Various techniqu…",
+          "link": "http://blog.research.google/2023/08/ro-vit-region-aware-pre-training-for.html",
+          "publishedOn": "2023-08-28T16:59:00.003Z",
+          "wordCount": 27771,
+          "title": "RO-ViT: Region-aware pre-training for open-vocabulary object detection with vision transformers",
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9wOjJcc9-JUy0J6NEo8aRgBIeiHRY6YdneL3pBlAF4GszMf6MctGLuZG5ZClFHqMGK9j_RpgF-M2AvcScwa98FwLHtEt1rC7HCiSPhnNpG0podsHDn8uKlh9fVuIj5xYGUFytZWHkE4pANrDnXLknL-7_FTTEYVtL2MVR-DMwREMdxi3TeGZKw1OcLiPI/w1200-h630-p-k-no-nu/RO-ViT-hero.jpg"
+        },
         {
           "id": "http://ai.googleblog.com/2023/08/ro-vit-region-aware-pre-training-for.html",
           "author": null,
@@ -1820,6 +1830,16 @@
           "wordCount": 27771,
           "title": "RO-ViT: Region-aware pre-training for open-vocabulary object detection with vision transformers",
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9wOjJcc9-JUy0J6NEo8aRgBIeiHRY6YdneL3pBlAF4GszMf6MctGLuZG5ZClFHqMGK9j_RpgF-M2AvcScwa98FwLHtEt1rC7HCiSPhnNpG0podsHDn8uKlh9fVuIj5xYGUFytZWHkE4pANrDnXLknL-7_FTTEYVtL2MVR-DMwREMdxi3TeGZKw1OcLiPI/w1200-h630-p-k-no-nu/RO-ViT-hero.jpg"
+        },
+        {
+          "id": "http://blog.research.google/2023/08/responsible-ai-at-google-research.html",
+          "author": null,
+          "description": "Posted by Susanna Ricco and Utsav Prabhu, co-leads, Perception Fairness Team, Google Research\n\n\n\n\n\nGoogle’s Responsible AI research is built on a foundation of collaboration — between teams with diverse backgrounds and expertise, between researchers and product developers, and ultimately with the community at large. The Perception Fairness team drives progress by combining deep subject-matter expertise in both computer vision and machine learning (ML) fairness with direct connections to the researchers building the perception systems that power products across Google and beyond. Together, we are working to intentionally design our systems to be inclusive from the ground up, guided by Google’s AI Principles.\n\n\n\n\n\n\nPerception Fairness research spans the design, development, and deployment of…",
+          "link": "http://blog.research.google/2023/08/responsible-ai-at-google-research.html",
+          "publishedOn": "2023-08-25T17:38:00.003Z",
+          "wordCount": 27808,
+          "title": "Responsible AI at Google Research: Perception Fairness",
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjvTD0aWY1G5CHtuxdtUEk965xABcjRdBuilg_78JFVxqDTqLqgtyNAypbqx0PoBPsduY1Jf3MOHdsoPXm3T8gSCzvtQwyeNcwG5fxlX3-CSzNAHIjJe8K0EfkL34wX_S8NjwdtD81fX9FRGHck2KBM1GtQrP1-inoVXdrU1ZkgBMe_ZVdXPNTRyW5m92te/w1200-h630-p-k-no-nu/hero.gif"
         },
         {
           "id": "http://ai.googleblog.com/2023/08/responsible-ai-at-google-research.html",
@@ -1832,6 +1852,16 @@
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjvTD0aWY1G5CHtuxdtUEk965xABcjRdBuilg_78JFVxqDTqLqgtyNAypbqx0PoBPsduY1Jf3MOHdsoPXm3T8gSCzvtQwyeNcwG5fxlX3-CSzNAHIjJe8K0EfkL34wX_S8NjwdtD81fX9FRGHck2KBM1GtQrP1-inoVXdrU1ZkgBMe_ZVdXPNTRyW5m92te/w1200-h630-p-k-no-nu/hero.gif"
         },
         {
+          "id": "http://blog.research.google/2023/08/how-to-compare-noisy-quantum-processor.html",
+          "author": null,
+          "description": "Posted by Sergio Boixo and Vadim Smelyanskiy, Principal Scientists, Google Quantum AI Team\n\n\n\n\nA full-scale error-corrected quantum computer will be able to solve some problems that are impossible for classical computers, but building such a device is a huge endeavor. We are proud of the milestones that we have achieved toward a fully error-corrected quantum computer, but that large-scale computer is still some number of years away. Meanwhile, we are using our current noisy quantum processors as flexible platforms for quantum experiments. \n\n\n\nIn contrast to an error-corrected quantum computer, experiments in noisy quantum processors are currently limited to a few thousand quantum operations or gates, before noise degrades the quantum state. In 2019 we implemented a specific computational t…",
+          "link": "http://blog.research.google/2023/08/how-to-compare-noisy-quantum-processor.html",
+          "publishedOn": "2023-08-24T22:10:00.000Z",
+          "wordCount": 28064,
+          "title": "How to compare a noisy quantum processor to a classical computer",
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1m1RqJqSczNGfbF05c8xU86oE8qjQSUVctpJVz3H_FvmW-ebQI9kxslYLp_CwAGoN4ve4RIndX2qsEcLuEDPnWZFZ4uDrqzyPVw-Kl10Aol6C1UQM4b2YXMwJ7BwXuc42U2EV9nPUQ-UkRfEoVmvqM9yHsMINGFibYWWvhVj2yDHJMTymEs8RQoszIYvu/w1200-h630-p-k-no-nu/hero.jpg"
+        },
+        {
           "id": "http://ai.googleblog.com/2023/08/how-to-compare-noisy-quantum-processor.html",
           "author": null,
           "description": "Posted by Sergio Boixo and Vadim Smelyanskiy, Principal Scientists, Google Quantum AI Team\n\n\n\n\nA full-scale error-corrected quantum computer will be able to solve some problems that are impossible for classical computers, but building such a device is a huge endeavor. We are proud of the milestones that we have achieved toward a fully error-corrected quantum computer, but that large-scale computer is still some number of years away. Meanwhile, we are using our current noisy quantum processors as flexible platforms for quantum experiments. \n\n\n\nIn contrast to an error-corrected quantum computer, experiments in noisy quantum processors are currently limited to a few thousand quantum operations or gates, before noise degrades the quantum state. In 2019 we implemented a specific computational t…",
@@ -1840,6 +1870,16 @@
           "wordCount": 28064,
           "title": "How to compare a noisy quantum processor to a classical computer",
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1m1RqJqSczNGfbF05c8xU86oE8qjQSUVctpJVz3H_FvmW-ebQI9kxslYLp_CwAGoN4ve4RIndX2qsEcLuEDPnWZFZ4uDrqzyPVw-Kl10Aol6C1UQM4b2YXMwJ7BwXuc42U2EV9nPUQ-UkRfEoVmvqM9yHsMINGFibYWWvhVj2yDHJMTymEs8RQoszIYvu/w1200-h630-p-k-no-nu/hero.jpg"
+        },
+        {
+          "id": "http://blog.research.google/2023/08/teaching-language-models-to-reason.html",
+          "author": null,
+          "description": "Posted by Hattie Zhou, Graduate Student at MILA, Hanie Sedghi, Research Scientist, Google\n\n\n\n\nLarge language models (LLMs), such as GPT-3 and PaLM, have shown impressive progress in recent years, which have been driven by scaling up models and training data sizes. Nonetheless, a long standing debate has been whether LLMs can reason symbolically (i.e., manipulating symbols based on logical rules). For example, LLMs are able to perform simple arithmetic operations when numbers are small, but struggle to perform with large numbers. This suggests that LLMs have not learned the underlying rules needed to perform these arithmetic operations. \n\n\n\nWhile neural networks have powerful pattern matching capabilities, they are prone to overfitting to spurious statistical patterns in the data. This does…",
+          "link": "http://blog.research.google/2023/08/teaching-language-models-to-reason.html",
+          "publishedOn": "2023-08-24T19:33:00.002Z",
+          "wordCount": 27415,
+          "title": "Teaching language models to reason algorithmically",
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiAcRJnal11QtGWoPisWMdALAc6RjoHACiQOfXBIBDnG5Vx_bZ2nS9KJKFfPrq_n_pDArbmBOVQG7UIr8cNo96aFqEVWUGN-2e0aXVIylHIfr4ZMKXkGRI_BsuhVm-xrpWSJTWJ_Cg8h5Vmfqr79R8E4cSazK6d2UHEOxCG49qM0uRW7uL5RwwWgpxPy0ci/w1200-h630-p-k-no-nu/hero.gif"
         },
         {
           "id": "http://ai.googleblog.com/2023/08/teaching-language-models-to-reason.html",
@@ -1852,6 +1892,16 @@
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiAcRJnal11QtGWoPisWMdALAc6RjoHACiQOfXBIBDnG5Vx_bZ2nS9KJKFfPrq_n_pDArbmBOVQG7UIr8cNo96aFqEVWUGN-2e0aXVIylHIfr4ZMKXkGRI_BsuhVm-xrpWSJTWJ_Cg8h5Vmfqr79R8E4cSazK6d2UHEOxCG49qM0uRW7uL5RwwWgpxPy0ci/w1200-h630-p-k-no-nu/hero.gif"
         },
         {
+          "id": "http://blog.research.google/2023/08/language-to-rewards-for-robotic-skill.html",
+          "author": null,
+          "description": "Posted by Wenhao Yu and Fei Xia, Research Scientists, Google\n\n\n\n\n\n\nEmpowering end-users to interactively teach robots to perform novel tasks is a crucial capability for their successful integration into real-world applications. For example, a user may want to teach a robot dog to perform a new trick, or teach a manipulator robot how to organize a lunch box based on user preferences. The recent advancements in large language models (LLMs) pre-trained on extensive internet data have shown a promising path towards achieving this goal. Indeed, researchers have explored diverse ways of leveraging LLMs for robotics, from step-by-step planning and goal-oriented dialogue to robot-code-writing agents. \n\n\n\nWhile these methods impart new modes of compositional generalization, they focus on using lang…",
+          "link": "http://blog.research.google/2023/08/language-to-rewards-for-robotic-skill.html",
+          "publishedOn": "2023-08-22T18:47:00.004Z",
+          "wordCount": 27686,
+          "title": "Language to rewards for robotic skill synthesis",
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgacqpwjLAyYeUGIRPNXYoXb6Ph_d3WB9nQqOHqKZLMY2YvK42G5-LILRyP5YWW7oPVxSyKGO8d-RjWO-k4XYF9elHZ_G_NkAUFRRNFDvLJh1s3_1iTNeyC4B9CZUztROlYv6kYA7RYxNZnFwQrFdHJdHGZyzMF09L5igS_He1A31m4ZNvTU9V0upGzaRiw/w1200-h630-p-k-no-nu/Language%20to%20reward.jpg"
+        },
+        {
           "id": "http://ai.googleblog.com/2023/08/language-to-rewards-for-robotic-skill.html",
           "author": null,
           "description": "Posted by Wenhao Yu and Fei Xia, Research Scientists, Google\n\n\n\n\n\n\nEmpowering end-users to interactively teach robots to perform novel tasks is a crucial capability for their successful integration into real-world applications. For example, a user may want to teach a robot dog to perform a new trick, or teach a manipulator robot how to organize a lunch box based on user preferences. The recent advancements in large language models (LLMs) pre-trained on extensive internet data have shown a promising path towards achieving this goal. Indeed, researchers have explored diverse ways of leveraging LLMs for robotics, from step-by-step planning and goal-oriented dialogue to robot-code-writing agents. \n\n\n\nWhile these methods impart new modes of compositional generalization, they focus on using lang…",
@@ -1860,6 +1910,16 @@
           "wordCount": 27687,
           "title": "Language to rewards for robotic skill synthesis",
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgacqpwjLAyYeUGIRPNXYoXb6Ph_d3WB9nQqOHqKZLMY2YvK42G5-LILRyP5YWW7oPVxSyKGO8d-RjWO-k4XYF9elHZ_G_NkAUFRRNFDvLJh1s3_1iTNeyC4B9CZUztROlYv6kYA7RYxNZnFwQrFdHJdHGZyzMF09L5igS_He1A31m4ZNvTU9V0upGzaRiw/w1200-h630-p-k-no-nu/Language%20to%20reward.jpg"
+        },
+        {
+          "id": "http://blog.research.google/2023/08/google-at-interspeech-2023.html",
+          "author": null,
+          "description": "Posted by Catherine Armato, Program Manager, Google\n\n\n\n\nThis week, the 24th Annual Conference of the International Speech Communication Association (INTERSPEECH 2023) is being held in Dublin, Ireland, representing one of the world’s most extensive conferences on research and technology of spoken language understanding and processing. Experts in speech-related research fields gather to take part in oral presentations and poster sessions and to build collaborations across the globe.\n\n\n\n\nWe are excited to be a Platinum Sponsor of INTERSPEECH 2023, where we will be showcasing more than 20 research publications and supporting a number of workshops and special sessions. We welcome in-person attendees to drop by the Google Research booth to meet our researchers and participate in Q&As and demonst…",
+          "link": "http://blog.research.google/2023/08/google-at-interspeech-2023.html",
+          "publishedOn": "2023-08-21T07:33:00.002Z",
+          "wordCount": 27067,
+          "title": "Google at Interspeech 2023",
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhZ9tgKAAGviknbBlcGujLQ0tdvvu9tyvwCGble7iZ8jXSHMhYPEUI0rRiX0PwzFSK0Kx-vO6ByrqK20v_qhxE3xE6W0P4tGPQdFGx3OeZJVLOR-_Erh0-0qIE9YWLHuJiKjB5nXOpiPmTxg7Y4sT_m2WXn-uqPvZ7r9iySvCqfgo756D25jyw66KtFOEbi/w1200-h630-p-k-no-nu/Interspeech2023-Hero.jpg"
         },
         {
           "id": "http://ai.googleblog.com/2023/08/google-at-interspeech-2023.html",
@@ -1872,6 +1932,16 @@
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhZ9tgKAAGviknbBlcGujLQ0tdvvu9tyvwCGble7iZ8jXSHMhYPEUI0rRiX0PwzFSK0Kx-vO6ByrqK20v_qhxE3xE6W0P4tGPQdFGx3OeZJVLOR-_Erh0-0qIE9YWLHuJiKjB5nXOpiPmTxg7Y4sT_m2WXn-uqPvZ7r9iySvCqfgo756D25jyw66KtFOEbi/w1200-h630-p-k-no-nu/Interspeech2023-Hero.jpg"
         },
         {
+          "id": "http://blog.research.google/2023/08/autonomous-visual-information-seeking.html",
+          "author": null,
+          "description": "Posted by Ziniu Hu, Student Researcher, and Alireza Fathi, Research Scientist, Google Research, Perception Team\n\n\n\n\nThere has been great progress towards adapting large language models (LLMs) to accommodate multimodal inputs for tasks including image captioning, visual question answering (VQA), and open vocabulary recognition. Despite such achievements, current state-of-the-art visual language models (VLMs) perform inadequately on visual information seeking datasets, such as Infoseek and OK-VQA, where external knowledge is required to answer the questions. \n \n\n\n\n\n\n\nExamples of visual information seeking queries where external knowledge is required to answer the question. Images are taken from the OK-VQA dataset.\n\nAVIS: Autonomous Visual Information Seeking with Large Language Models”, we i…",
+          "link": "http://blog.research.google/2023/08/autonomous-visual-information-seeking.html",
+          "publishedOn": "2023-08-18T18:28:00.004Z",
+          "wordCount": 27660,
+          "title": "Autonomous visual information seeking with large language models",
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEje4SF07XPWF1tjYompjrnyrqMXDjqkeotbgVq0mMaGL6fuTPtw45P0TewFTemIVW8KBVCDdWtMS89gLqNpbDNjwWRg8WlvzzkhBGBOWmM1SUFzF5vkoFiiaIylBb2jZELcM4HDYqYoAmK4eYzrvfCHgAASKIZY1kVGcL9ORQXF4Qdfo32mA8Z4bh8smHNA/w1200-h630-p-k-no-nu/AVIS.png"
+        },
+        {
           "id": "http://ai.googleblog.com/2023/08/autonomous-visual-information-seeking.html",
           "author": null,
           "description": "Posted by Ziniu Hu, Student Researcher, and Alireza Fathi, Research Scientist, Google Research, Perception Team\n\n\n\n\nThere has been great progress towards adapting large language models (LLMs) to accommodate multimodal inputs for tasks including image captioning, visual question answering (VQA), and open vocabulary recognition. Despite such achievements, current state-of-the-art visual language models (VLMs) perform inadequately on visual information seeking datasets, such as Infoseek and OK-VQA, where external knowledge is required to answer the questions. \n \n\n\n\n\n\n\nExamples of visual information seeking queries where external knowledge is required to answer the question. Images are taken from the OK-VQA dataset.\n\nAVIS: Autonomous Visual Information Seeking with Large Language Models”, we i…",
@@ -1880,6 +1950,16 @@
           "wordCount": 27660,
           "title": "Autonomous visual information seeking with large language models",
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEje4SF07XPWF1tjYompjrnyrqMXDjqkeotbgVq0mMaGL6fuTPtw45P0TewFTemIVW8KBVCDdWtMS89gLqNpbDNjwWRg8WlvzzkhBGBOWmM1SUFzF5vkoFiiaIylBb2jZELcM4HDYqYoAmK4eYzrvfCHgAASKIZY1kVGcL9ORQXF4Qdfo32mA8Z4bh8smHNA/w1200-h630-p-k-no-nu/AVIS.png"
+        },
+        {
+          "id": "http://blog.research.google/2023/08/neural-network-pruning-with.html",
+          "author": null,
+          "description": "Posted by Hussein Hazimeh, Research Scientist, Athena Team, and Riade Benbaki, Graduate Student at MIT\n\n\n\n\n\nModern neural networks have achieved impressive performance across a variety of applications, such as language, mathematical reasoning, and vision. However, these networks often use large architectures that require lots of computational resources. This can make it impractical to serve such models to users, especially in resource-constrained environments like wearables and smartphones. A widely used approach to mitigate the inference costs of pre-trained networks is to prune them by removing some of their weights, in a way that doesn’t significantly affect utility. In standard neural networks, each weight defines a connection between two neurons. So after weights are pruned, the input…",
+          "link": "http://blog.research.google/2023/08/neural-network-pruning-with.html",
+          "publishedOn": "2023-08-17T18:08:00.000Z",
+          "wordCount": 27758,
+          "title": "Neural network pruning with combinatorial optimization",
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgyU4esZL0DIoU6gbv90zR7Fw-r8Jm9DhLix7eBHMwp50c_3l1pP0myByQ4fSPidsrfhMrOxS2hQxLJuQ4d5DVJP3n5hAocfJeAWQDNjcvrU679bnFYcww0qcNWNzr3SEEcOQqG8owJmNxIWIrqJq_6ReXBJ9PUK-tW1ou0j73P3grgASIrfudrTyjyHu5K/w1200-h630-p-k-no-nu/CHITA%20hero.gif"
         },
         {
           "id": "http://ai.googleblog.com/2023/08/neural-network-pruning-with.html",
@@ -1892,6 +1972,16 @@
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgyU4esZL0DIoU6gbv90zR7Fw-r8Jm9DhLix7eBHMwp50c_3l1pP0myByQ4fSPidsrfhMrOxS2hQxLJuQ4d5DVJP3n5hAocfJeAWQDNjcvrU679bnFYcww0qcNWNzr3SEEcOQqG8owJmNxIWIrqJq_6ReXBJ9PUK-tW1ou0j73P3grgASIrfudrTyjyHu5K/w1200-h630-p-k-no-nu/CHITA%20hero.gif"
         },
         {
+          "id": "http://blog.research.google/2023/08/study-socially-aware-temporally-causal.html",
+          "author": null,
+          "description": "Posted by Eltayeb Ahmed, Research Engineer, and Subhrajit Roy, Senior Research Scientist, Google Research\n\n\n\n\nReading has many benefits for young students, such as better linguistic and life skills, and reading for pleasure has been shown to correlate with academic success. Furthermore students have reported improved emotional wellbeing from reading, as well as better general knowledge and better understanding of other cultures. With the vast amount of reading material both online and off, finding age-appropriate, relevant and engaging content can be a challenging task, but helping students do so is a necessary step to engage them in reading. Effective recommendations that present students with relevant reading material helps keep students reading, and this is where machine learning (ML) c…",
+          "link": "http://blog.research.google/2023/08/study-socially-aware-temporally-causal.html",
+          "publishedOn": "2023-08-15T19:59:00.001Z",
+          "wordCount": 28224,
+          "title": "STUDY: Socially aware temporally causal decoder recommender systems",
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhtKv9JocvNhtzu5Cxb5h_vVAz4y-OOQJ9YRj8gmvLlt-PLgnxqXM5KytIsUWkdtHtEvqmTvyiUqOqaJM1R4096YBLtUYQmv2nEQR0CMZvPc2ccfCIriJFGVCp94fe24etHhZrZh4JtzAV6GpumD657Q3qqPinhVpJ1Zn3UqJPE7BDa8GxE9h8CqAx8AO1_/w1200-h630-p-k-no-nu/study-hero.png"
+        },
+        {
           "id": "http://ai.googleblog.com/2023/08/study-socially-aware-temporally-causal.html",
           "author": null,
           "description": "Posted by Eltayeb Ahmed, Research Engineer, and Subhrajit Roy, Senior Research Scientist, Google Research\n\n\n\n\nReading has many benefits for young students, such as better linguistic and life skills, and reading for pleasure has been shown to correlate with academic success. Furthermore students have reported improved emotional wellbeing from reading, as well as better general knowledge and better understanding of other cultures. With the vast amount of reading material both online and off, finding age-appropriate, relevant and engaging content can be a challenging task, but helping students do so is a necessary step to engage them in reading. Effective recommendations that present students with relevant reading material helps keep students reading, and this is where machine learning (ML) c…",
@@ -1900,6 +1990,16 @@
           "wordCount": 28224,
           "title": "STUDY: Socially aware temporally causal decoder recommender systems",
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhtKv9JocvNhtzu5Cxb5h_vVAz4y-OOQJ9YRj8gmvLlt-PLgnxqXM5KytIsUWkdtHtEvqmTvyiUqOqaJM1R4096YBLtUYQmv2nEQR0CMZvPc2ccfCIriJFGVCp94fe24etHhZrZh4JtzAV6GpumD657Q3qqPinhVpJ1Zn3UqJPE7BDa8GxE9h8CqAx8AO1_/w1200-h630-p-k-no-nu/study-hero.png"
+        },
+        {
+          "id": "http://blog.research.google/2023/08/advances-in-document-understanding.html",
+          "author": null,
+          "description": "Posted by Sandeep Tata, Software Engineer, Google Research, Athena Team\n\n\n\n\nThe last few years have seen rapid progress in systems that can automatically process complex business documents and turn them into structured objects. A system that can automatically extract data from documents, e.g., receipts, insurance quotes, and financial statements, has the potential to dramatically improve the efficiency of business workflows by avoiding error-prone, manual work. Recent models, based on the Transformer architecture, have shown impressive gains in accuracy. Larger models, such as PaLM 2, are also being leveraged to further streamline these business workflows. However, the datasets used in academic literature fail to capture the challenges seen in real-world use cases. Consequently, academic b…",
+          "link": "http://blog.research.google/2023/08/advances-in-document-understanding.html",
+          "publishedOn": "2023-08-09T18:32:00.001Z",
+          "wordCount": 27823,
+          "title": "Advances in document understanding",
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-Zs3cysjsJQsPfOZML1cR03gCO18NmC-KMsoQtctvWr7v_bwJ6MmQMXesUafsi7w53SY50YZOtnBdpAcBaplHXOPV8P1-X9deoXISeAfq85zUbcPXUOCPJSTsaIanCEIWUUkBNXE9JTU6q3OIgMZi5JqykbiN1x36LR78x4jEka2pL5MBjTdMr_Sn3FNv/w1200-h630-p-k-no-nu/Document%20understanding%20hero.png"
         },
         {
           "id": "http://ai.googleblog.com/2023/08/advances-in-document-understanding.html",
@@ -1912,6 +2012,16 @@
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-Zs3cysjsJQsPfOZML1cR03gCO18NmC-KMsoQtctvWr7v_bwJ6MmQMXesUafsi7w53SY50YZOtnBdpAcBaplHXOPV8P1-X9deoXISeAfq85zUbcPXUOCPJSTsaIanCEIWUUkBNXE9JTU6q3OIgMZi5JqykbiN1x36LR78x4jEka2pL5MBjTdMr_Sn3FNv/w1200-h630-p-k-no-nu/Document%20understanding%20hero.png"
         },
         {
+          "id": "http://blog.research.google/2023/08/adatape-foundation-model-with-adaptive.html",
+          "author": null,
+          "description": "Posted by Fuzhao Xue, Research Intern, and Mostafa Dehghani, Research Scientist, Google\n\n\n\n\n\n\n\nAdaptive computation refers to the ability of a machine learning system to adjust its behavior in response to changes in the environment. While conventional neural networks have a fixed function and computation capacity, i.e., they spend the same number of FLOPs for processing different inputs, a model with adaptive and dynamic computation modulates the computational budget it dedicates to processing each input, depending on the complexity of the input.\n\n\nAdaptive computation in neural networks is appealing for two key reasons. First, the mechanism that introduces adaptivity provides an inductive bias that can play a key role in solving some challenging tasks. For instance, enabling different num…",
+          "link": "http://blog.research.google/2023/08/adatape-foundation-model-with-adaptive.html",
+          "publishedOn": "2023-08-08T21:02:00.000Z",
+          "wordCount": 27869,
+          "title": "AdaTape: Foundation model with adaptive computation and dynamic read-and-write",
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjlzhnBmcyTQ940NZQduhyS5G17r9FghwVjYOPW2Ly0pRzug9DdZ7p02z1iK1g9b93xIqJhdQrg5XVmlcUQqUcSOwQXOGSm6lhcScopZX5J3OTxIsThxmAudIEpkrshjAhipDV4VKFL7Vv1r0Qad77VSiH7rGUD9-E5Jgg1HnzmSkIBt24rd3j1rPN2Ee2N/w1200-h630-p-k-no-nu/adatape.png"
+        },
+        {
           "id": "http://ai.googleblog.com/2023/08/adatape-foundation-model-with-adaptive.html",
           "author": null,
           "description": "Posted by Fuzhao Xue, Research Intern, and Mostafa Dehghani, Research Scientist, Google\n\n\n\n\n\n\n\nAdaptive computation refers to the ability of a machine learning system to adjust its behavior in response to changes in the environment. While conventional neural networks have a fixed function and computation capacity, i.e., they spend the same number of FLOPs for processing different inputs, a model with adaptive and dynamic computation modulates the computational budget it dedicates to processing each input, depending on the complexity of the input.\n\n\nAdaptive computation in neural networks is appealing for two key reasons. First, the mechanism that introduces adaptivity provides an inductive bias that can play a key role in solving some challenging tasks. For instance, enabling different num…",
@@ -1920,6 +2030,16 @@
           "wordCount": 27871,
           "title": "AdaTape: Foundation model with adaptive computation and dynamic read-and-write",
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjlzhnBmcyTQ940NZQduhyS5G17r9FghwVjYOPW2Ly0pRzug9DdZ7p02z1iK1g9b93xIqJhdQrg5XVmlcUQqUcSOwQXOGSm6lhcScopZX5J3OTxIsThxmAudIEpkrshjAhipDV4VKFL7Vv1r0Qad77VSiH7rGUD9-E5Jgg1HnzmSkIBt24rd3j1rPN2Ee2N/w1200-h630-p-k-no-nu/adatape.png"
+        },
+        {
+          "id": "http://blog.research.google/2023/08/multimodal-medical-ai.html",
+          "author": null,
+          "description": "Posted by Greg Corrado, Head of Health AI, Google Research, and Yossi Matias, VP, Engineering and Research, Google Research\n\n\n\n\n\n\nMedicine is an inherently multimodal discipline. When providing care, clinicians routinely interpret data from a wide range of modalities including medical images, clinical notes, lab tests, electronic health records, genomics, and more.  Over the last decade or so, AI systems have achieved expert-level performance on specific tasks within specific modalities — some AI systems processing CT scans, while others analyzing high magnification pathology slides, and still others hunting for rare genetic variations. The inputs to these systems tend to be complex data such as images, and they typically provide structured outputs, whether in the form of discrete grades o…",
+          "link": "http://blog.research.google/2023/08/multimodal-medical-ai.html",
+          "publishedOn": "2023-08-03T18:24:00.001Z",
+          "wordCount": 27717,
+          "title": "Multimodal medical AI",
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhU2ypPfvmlgGQW4yp3EbUlJ4rLlIukRC9TDstIe7RV5JTxMo-THDgKPhFYbBUV4m0vKVjmG9lDTBWdy5kH_bR3-tqN8KzdhgmrLL_N2e_glc0WG-HkSm5Nouk7-MU65hu0RH5QWP0nHFNcZpERq9_agfaMqtHjhChbu_dPvWsJfZ8DsxZWnx15hogprRb3/w1200-h630-p-k-no-nu/medpalm.png"
         },
         {
           "id": "http://ai.googleblog.com/2023/08/multimodal-medical-ai.html",
