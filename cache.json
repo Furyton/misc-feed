@@ -1403,6 +1403,16 @@
       "siteUrl": "https://xianblog.wordpress.com",
       "articles": [
         {
+          "id": "http://xianblog.wordpress.com/?p=53623",
+          "author": "xi'an",
+          "description": "An ICML 2023 paper by Barıs¸ Alparslan, Sinan Yıldırım¸ and Ilker Birbil that (re)addresses the issue of privacy when running a Bayesian regression analysis. Resorting to the common notion of differential privacy, imposing a limited variability if a single observation is modified, and a Gaussian randomisation of the observations. “A differentially private algorithm constrains the […]",
+          "link": "https://xianblog.wordpress.com/2023/08/30/differentially-private-distributed-bayesian-linear-regression-with-mcmc/",
+          "publishedOn": "2023-08-29T22:23:23.000Z",
+          "wordCount": 2262,
+          "title": "differentially private distributed Bayesian linear regression with MCMC",
+          "imageUrl": "https://xianblog.files.wordpress.com/2023/07/screenshot-2023-07-26-at-19-20-54-differentially-private-distributed-bayesian-linear-regression-with-mcmc-alparslan23a.pdf.png"
+        },
+        {
           "id": "http://xianblog.wordpress.com/?p=53928",
           "author": "xi'an",
           "description": "Visit the post for more.",
@@ -2016,6 +2026,16 @@
       "feedUrl": "https://languagelog.ldc.upenn.edu/nll/?feed=rss2",
       "siteUrl": "https://languagelog.ldc.upenn.edu/nll",
       "articles": [
+        {
+          "id": "https://languagelog.ldc.upenn.edu/nll/?p=60435",
+          "author": "Victor Mair",
+          "description": "This morning in the first class of my course on \"Language, Script, and Society in China\", I had just spoken about the most frequent morphemes in Mandarin, Taiwanese, and Japanese (the possessive particles de 的, e, and no の) and other common terms that had no fixed characters to write them or had to borrow […]",
+          "link": "https://languagelog.ldc.upenn.edu/nll/?p=60435&utm_source=rss&utm_medium=rss&utm_campaign=de-japanification-of-japanese",
+          "publishedOn": "2023-08-29T22:22:30.000Z",
+          "wordCount": 2370,
+          "title": "De-Japanification of Japanese",
+          "imageUrl": null
+        },
         {
           "id": "https://languagelog.ldc.upenn.edu/nll/?p=60440",
           "author": "Mark Liberman",

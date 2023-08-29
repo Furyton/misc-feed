@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-08-29T22:15:16.244Z</updated>
+    <updated>2023-08-29T23:13:21.658Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[differentially private distributed Bayesian linear regression with MCMC]]></title>
+        <id>http://xianblog.wordpress.com/?p=53623</id>
+        <link href="https://xianblog.wordpress.com/2023/08/30/differentially-private-distributed-bayesian-linear-regression-with-mcmc/"/>
+        <updated>2023-08-29T22:23:23.000Z</updated>
+        <summary type="html"><![CDATA[An ICML 2023 paper by Barıs¸ Alparslan, Sinan Yıldırım¸ and Ilker Birbil that (re)addresses the issue of privacy when running a Bayesian regression analysis. Resorting to the common notion of differential privacy, imposing a limited variability if a single observation is modified, and a Gaussian randomisation of the observations. “A differentially private algorithm constrains the […]]]></summary>
+        <author>
+            <name>xi'an</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[De-Japanification of Japanese]]></title>
+        <id>https://languagelog.ldc.upenn.edu/nll/?p=60435</id>
+        <link href="https://languagelog.ldc.upenn.edu/nll/?p=60435&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=de-japanification-of-japanese"/>
+        <updated>2023-08-29T22:22:30.000Z</updated>
+        <summary type="html"><![CDATA[This morning in the first class of my course on "Language, Script, and Society in China", I had just spoken about the most frequent morphemes in Mandarin, Taiwanese, and Japanese (the possessive particles de 的, e, and no の) and other common terms that had no fixed characters to write them or had to borrow […]]]></summary>
+        <author>
+            <name>Victor Mair</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SayTap: Language to quadrupedal locomotion]]></title>
         <id>http://blog.research.google/2023/08/saytap-language-to-quadrupedal.html</id>
