@@ -1119,16 +1119,6 @@
           "wordCount": 2500,
           "title": "Transformer升级之路：12、无限外推的ReRoPE？",
           "imageUrl": null
-        },
-        {
-          "id": "https://kexue.fm/archives/9706",
-          "author": "苏剑林",
-          "description": "在文章《Transformer升级之路：10、RoPE是一种β进制编码》中，我们给出了RoPE的$\\beta$进制诠释，并基于进制转化的思路推导了能够在不微调的情况下就可以扩展Context长度...",
-          "link": "https://kexue.fm/archives/9706",
-          "publishedOn": "2023-07-31T06:52:00.000Z",
-          "wordCount": 1705,
-          "title": "Transformer升级之路：11、将β进制位置进行到底",
-          "imageUrl": null
         }
       ]
     },
@@ -1339,16 +1329,6 @@
           "publishedOn": "2023-08-01T07:00:00.000Z",
           "wordCount": 1079,
           "title": "AMD’s Journey to Openness and Performance",
-          "imageUrl": "https://pytorch.org/assets/images/pytorch-logo.png"
-        },
-        {
-          "id": "https://pytorch.org/blog/performant-distributed-checkpointing/",
-          "author": null,
-          "description": "<div type=\"html\"/>",
-          "link": "https://pytorch.org/blog/performant-distributed-checkpointing/",
-          "publishedOn": "2023-07-31T07:00:00.000Z",
-          "wordCount": 1411,
-          "title": "Performant Distributed checkpointing in Production with IBM",
           "imageUrl": "https://pytorch.org/assets/images/pytorch-logo.png"
         }
       ]
