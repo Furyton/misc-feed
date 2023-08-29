@@ -2,10 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-08-29T20:15:39.413Z</updated>
+    <updated>2023-08-29T21:12:34.173Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[SayTap: Language to quadrupedal locomotion]]></title>
+        <id>http://blog.research.google/2023/08/saytap-language-to-quadrupedal.html</id>
+        <link href="http://blog.research.google/2023/08/saytap-language-to-quadrupedal.html"/>
+        <updated>2023-08-29T19:57:00.000Z</updated>
+        <summary type="html"><![CDATA[Posted by Yujin Tang and Wenhao Yu, Research Scientists, Google
+
+
+
+
+Simple and effective interaction between human and quadrupedal robots paves the way towards creating intelligent and capable helper robots, forging a future where technology enhances our lives in ways beyond our imagination. Key to such human-robot interaction systems is enabling quadrupedal robots to respond to natural language instructions. Recent developments in large language models (LLMs) have demonstrated the potential to perform high-level planning. Yet, it remains a challenge for LLMs to comprehend low-level commands, such as joint angle targets or motor torques, especially for inherently unstable legged robots, necessitating high-frequency control signals. Consequently, most existing work presumes the provision of…]]></summary>
+        <author>
+            <name>Google AI Blog</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA["Re-Grand Opening"]]></title>
         <id>https://languagelog.ldc.upenn.edu/nll/?p=60440</id>

@@ -1743,6 +1743,16 @@
       "siteUrl": "http://blog.research.google/",
       "articles": [
         {
+          "id": "http://blog.research.google/2023/08/saytap-language-to-quadrupedal.html",
+          "author": null,
+          "description": "Posted by Yujin Tang and Wenhao Yu, Research Scientists, Google\n\n\n\n\nSimple and effective interaction between human and quadrupedal robots paves the way towards creating intelligent and capable helper robots, forging a future where technology enhances our lives in ways beyond our imagination. Key to such human-robot interaction systems is enabling quadrupedal robots to respond to natural language instructions. Recent developments in large language models (LLMs) have demonstrated the potential to perform high-level planning. Yet, it remains a challenge for LLMs to comprehend low-level commands, such as joint angle targets or motor torques, especially for inherently unstable legged robots, necessitating high-frequency control signals. Consequently, most existing work presumes the provision of…",
+          "link": "http://blog.research.google/2023/08/saytap-language-to-quadrupedal.html",
+          "publishedOn": "2023-08-29T19:57:00.000Z",
+          "wordCount": 27861,
+          "title": "SayTap: Language to quadrupedal locomotion",
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgWzjJBM7DUieoZyN9KN5N5ta17-mXVFjbz-eOS4dJPZM9W0yC9OHL4f-ng2BMjF3v62w-X5cMFN1bzv5PTEJTG5KdOrmhySUpQqM01aevHn1JyP9VJxYSvio46dX78aBg3tDn_rXKs7I1e_nXntWcEeGePLGRRbvGz8TK-FZnvm-tRfXtxOHWHaGqcHaMI/w1200-h630-p-k-no-nu/SayTap%20hero.jpg"
+        },
+        {
           "id": "http://blog.research.google/2023/08/ro-vit-region-aware-pre-training-for.html",
           "author": null,
           "description": "Posted by Dahun Kim and Weicheng Kuo, Research Scientists, Google\n\n\n\nThe ability to detect objects in the visual world is crucial for computer vision and machine intelligence, enabling applications like adaptive autonomous agents and versatile shopping systems. However, modern object detectors are limited by the manual annotations of their training data, resulting in a vocabulary size significantly smaller than the vast array of objects encountered in reality. To overcome this, the open-vocabulary detection task (OVD) has emerged, utilizing image-text pairs for training and incorporating new category names at test time by associating them with the image content. By treating categories as text embeddings, open-vocabulary detectors can predict a wide range of unseen objects. Various techniqu…",
