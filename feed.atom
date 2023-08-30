@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-08-30T10:15:35.987Z</updated>
+    <updated>2023-08-30T11:12:16.871Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -2594,26 +2594,6 @@ Medicine is an inherently multimodal discipline. When providing care, clinicians
         <summary type="html"><![CDATA[本文整理自7月7日世界人工智能大会“AI生成与垂直大语言模型的无限魅力”论坛上中国工程院院士、复旦大学金融科技 […]]]></summary>
         <author>
             <name>达观数据</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Contextual Integrity for Differential Privacy #1 [23w5106]]]></title>
-        <id>http://xianblog.wordpress.com/?p=53691</id>
-        <link href="https://xianblog.wordpress.com/2023/08/01/contextual-integrity-for-differential-privacy-1-23w5106/"/>
-        <updated>2023-07-31T22:23:53.000Z</updated>
-        <summary type="html"><![CDATA[Very relaxed beginning to the workshop, with [xkcd illustrated] tutorials on CI and DP, plus informal discussions to find a common ground over the week. Helped by the beautiful surroundings of the UBC Okanagan campus. Tutorial on the fundamentals of differential privacy, with a long room discussion on the meaning(s) of the definition, for instance […]]]></summary>
-        <author>
-            <name>xi'an</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Doug’s scared…]]></title>
-        <id>http://xianblog.wordpress.com/?p=53562</id>
-        <link href="https://xianblog.wordpress.com/2023/08/01/dougs-scared/"/>
-        <updated>2023-07-31T22:23:52.000Z</updated>
-        <summary type="html"><![CDATA[Following a link from a NYT editorial, I came upon a transcribed interview of Douglas Hofstadter on his fright about the current nature of AI and in particular of the impact of (surprise, surprise!) ChatGPT. When the French translation of Gödel, Escher, Bach came out in 1985, it became an immediate success, I read it, […]]]></summary>
-        <author>
-            <name>xi'an</name>
         </author>
     </entry>
 </feed>
