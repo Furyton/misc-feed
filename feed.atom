@@ -2,10 +2,33 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-08-30T20:15:43.258Z</updated>
+    <updated>2023-08-30T21:14:02.675Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Modeling and improving text stability in live captions]]></title>
+        <id>http://blog.research.google/2023/08/modeling-and-improving-text-stability.html</id>
+        <link href="http://blog.research.google/2023/08/modeling-and-improving-text-stability.html"/>
+        <updated>2023-08-30T19:34:00.002Z</updated>
+        <summary type="html"><![CDATA[Posted by Vikas Bahirwani, Research Scientist, and Susan Xu, Software Engineer, Google Augmented Reality
+
+
+
+
+
+Automatic speech recognition (ASR) technology has made conversations more accessible with live captions in remote conferencing software, mobile applications, and head-worn displays. However, to maintain real-time responsiveness, live caption systems often display interim predictions that are updated as new utterances are received. This can cause text instability (a “flicker” where previously displayed text is updated, shown in the captions on the left in the video below), which can impair users' reading experience due to distraction, fatigue, and difficulty following the conversation.
+
+
+
+
+
+
+In “Modeling and Improving Text Stability in Live Captions”, presented at ACM CHI 2023, we f…]]></summary>
+        <author>
+            <name>Google AI Blog</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Once in a blue moon]]></title>
         <id>https://languagelog.ldc.upenn.edu/nll/?p=60454</id>

@@ -1733,6 +1733,16 @@
       "siteUrl": "http://blog.research.google/",
       "articles": [
         {
+          "id": "http://blog.research.google/2023/08/modeling-and-improving-text-stability.html",
+          "author": null,
+          "description": "Posted by Vikas Bahirwani, Research Scientist, and Susan Xu, Software Engineer, Google Augmented Reality\n\n\n\n\n\nAutomatic speech recognition (ASR) technology has made conversations more accessible with live captions in remote conferencing software, mobile applications, and head-worn displays. However, to maintain real-time responsiveness, live caption systems often display interim predictions that are updated as new utterances are received. This can cause text instability (a “flicker” where previously displayed text is updated, shown in the captions on the left in the video below), which can impair users' reading experience due to distraction, fatigue, and difficulty following the conversation.\n\n\n\n\n\n\nIn “Modeling and Improving Text Stability in Live Captions”, presented at ACM CHI 2023, we f…",
+          "link": "http://blog.research.google/2023/08/modeling-and-improving-text-stability.html",
+          "publishedOn": "2023-08-30T19:34:00.002Z",
+          "wordCount": 27954,
+          "title": "Modeling and improving text stability in live captions",
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhmZKQpatrRUfrTX1UjaVW9wrHoVajjHupeWwkV45-muvTV7F1It2G37lV7OzA8aS_AKcxxNaX9AsJGfWAH5Hf5vedsp0L51VLZE-kxgUevXur_npeMsJT1GXIX_ArfCvcupT4Y8U5-8Gbzb0oiIptaxr8zd4fkk4ICy-mNmOTWXQPX7GU3cpnXoMfH9tnz/w1200-h630-p-k-no-nu/stabilizedcaptions.png"
+        },
+        {
           "id": "http://blog.research.google/2023/08/saytap-language-to-quadrupedal.html",
           "author": null,
           "description": "Posted by Yujin Tang and Wenhao Yu, Research Scientists, Google\n\n\n\n\nSimple and effective interaction between human and quadrupedal robots paves the way towards creating intelligent and capable helper robots, forging a future where technology enhances our lives in ways beyond our imagination. Key to such human-robot interaction systems is enabling quadrupedal robots to respond to natural language instructions. Recent developments in large language models (LLMs) have demonstrated the potential to perform high-level planning. Yet, it remains a challenge for LLMs to comprehend low-level commands, such as joint angle targets or motor torques, especially for inherently unstable legged robots, necessitating high-frequency control signals. Consequently, most existing work presumes the provision of…",
