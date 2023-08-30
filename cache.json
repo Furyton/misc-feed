@@ -1403,6 +1403,16 @@
       "siteUrl": "https://xianblog.wordpress.com",
       "articles": [
         {
+          "id": "http://xianblog.wordpress.com/?p=53938",
+          "author": "xi'an",
+          "description": "Visit the post for more.",
+          "link": "https://xianblog.wordpress.com/2023/08/31/isba%c2%b2%e2%81%b4-website/",
+          "publishedOn": "2023-08-30T22:24:14.000Z",
+          "wordCount": 1911,
+          "title": "ISBA²⁴ [website]",
+          "imageUrl": "https://xianblog.files.wordpress.com/2023/08/temp-3.png"
+        },
+        {
           "id": "http://xianblog.wordpress.com/?p=53623",
           "author": "xi'an",
           "description": "An ICML 2023 paper by Barıs¸ Alparslan, Sinan Yıldırım¸ and Ilker Birbil that (re)addresses the issue of privacy when running a Bayesian regression analysis. Resorting to the common notion of differential privacy, imposing a limited variability if a single observation is modified, and a Gaussian randomisation of the observations. “A differentially private algorithm constrains the […]",
@@ -2005,6 +2015,16 @@
       "feedUrl": "https://languagelog.ldc.upenn.edu/nll/?feed=rss2",
       "siteUrl": "https://languagelog.ldc.upenn.edu/nll",
       "articles": [
+        {
+          "id": "https://languagelog.ldc.upenn.edu/nll/?p=60457",
+          "author": "Victor Mair",
+          "description": "I spent much of the summer in Vermont ensconced in a hermit's cottage reading, writing, and, of course, running through the Green Mountains and verdant woods.  When I left last week to come back for the fall semester at Penn, I brought with me about fifty bottle gourds (Lagenaria siceraria) that had been abandoned by […]",
+          "link": "https://languagelog.ldc.upenn.edu/nll/?p=60457&utm_source=rss&utm_medium=rss&utm_campaign=korean-words-for-bottle-gourd",
+          "publishedOn": "2023-08-30T22:51:10.000Z",
+          "wordCount": 3221,
+          "title": "Korean words for \"bottle gourd\"",
+          "imageUrl": null
+        },
         {
           "id": "https://languagelog.ldc.upenn.edu/nll/?p=60454",
           "author": "Victor Mair",
