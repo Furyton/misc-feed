@@ -2,10 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-08-31T17:13:13.827Z</updated>
+    <updated>2023-08-31T18:18:17.423Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[WeatherBench 2: A benchmark for the next generation of data-driven weather models]]></title>
+        <id>http://blog.research.google/2023/08/weatherbench-2-benchmark-for-next.html</id>
+        <link href="http://blog.research.google/2023/08/weatherbench-2-benchmark-for-next.html"/>
+        <updated>2023-08-31T17:14:00.000Z</updated>
+        <summary type="html"><![CDATA[Posted by Stephan Rasp, Research Scientist, and Carla Bromberg, Program Lead, Google Research
+
+
+
+
+
+In 1950, weather forecasting started its digital revolution when researchers used the first programmable, general-purpose computer ENIAC to solve mathematical equations describing how weather evolves. In the more than 70 years since, continuous advancements in computing power and improvements to the model formulations have led to steady gains in weather forecast skill: a 7-day forecast today is about as accurate as a 5-day forecast in 2000 and a 3-day forecast in 1980. While improving forecast accuracy at the pace of approximately one day per decade may not seem like a big deal, every day improved is important in far reaching use cases, such as for logistics planning, disaster management, agr…]]></summary>
+        <author>
+            <name>Google AI Blog</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA["Get some linguists out here"]]></title>
         <id>https://languagelog.ldc.upenn.edu/nll/?p=60468</id>
@@ -24,6 +40,16 @@
         <summary type="html"><![CDATA["Chinese Song Streamed Billions of Times for ‘Satirical’ Vibe" By Miho Tamura / Yomiuri Shimbun Correspondent Yomiuri Shimbun (August 29, 2023) Here's the song, with the lyrics in characters, pinyin romanization, and a poor English translation: There are several other inferior English translations on the internet.  I have yet to find one that is serviceable, […]]]></summary>
         <author>
             <name>Victor Mair</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PyTorch/XLA SPMD: Scale Up Model Training and Serving with Automatic Parallelization]]></title>
+        <id>https://pytorch.org/blog/pytorch-xla-spmd/</id>
+        <link href="https://pytorch.org/blog/pytorch-xla-spmd/"/>
+        <updated>2023-08-31T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Today, we are delighted to announce PyTorch/XLA SPMD: the integration of GSPMD into PyTorch with an easy to use API. PyTorch developers seeking superior performance and scale can train and serve the largest neural networks while maximizing utilization of AI accelerators, such as Google Cloud TPUs.]]></summary>
+        <author>
+            <name>PyTorch Website</name>
         </author>
     </entry>
     <entry>
