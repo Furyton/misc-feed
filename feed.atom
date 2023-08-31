@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-08-31T10:16:09.981Z</updated>
+    <updated>2023-08-31T11:12:08.318Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Viral vibe]]></title>
+        <id>https://languagelog.ldc.upenn.edu/nll/?p=60461</id>
+        <link href="https://languagelog.ldc.upenn.edu/nll/?p=60461&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=viral-vibe"/>
+        <updated>2023-08-31T10:23:58.000Z</updated>
+        <summary type="html"><![CDATA["Chinese Song Streamed Billions of Times for ‘Satirical’ Vibe" By Miho Tamura / Yomiuri Shimbun Correspondent Yomiuri Shimbun (August 29, 2023) Here's the song, with the lyrics in characters, pinyin romanization, and a poor English translation: There are several other inferior English translations on the internet.  I have yet to find one that is serviceable, […]]]></summary>
+        <author>
+            <name>Victor Mair</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Coagent Networks Revisited]]></title>
         <id>http://arxiv.org/abs/2001.10474</id>
@@ -2631,16 +2641,6 @@ Medicine is an inherently multimodal discipline. When providing care, clinicians
         <summary type="html"><![CDATA[Robert Shackleton sent in this photo of a sign: He followed up with a link to Neal Whitman, "Trespassers Will Be Trespassed", Visual Thesaurus 4/25/2013, which reacts to another transitive-trespass sign: Which reminds me of an experience from 50-odd years ago, recounted in "Those who are not authorized are not authorized", 8/9/2003. The OED gives […]]]></summary>
         <author>
             <name>Mark Liberman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Contextual Integrity for Differential Privacy #1 [23w5106]]]></title>
-        <id>http://xianblog.wordpress.com/?p=53691</id>
-        <link href="https://xianblog.wordpress.com/2023/08/02/contextual-integrity-for-differential-privacy-1-23w5106/"/>
-        <updated>2023-08-01T22:23:53.000Z</updated>
-        <summary type="html"><![CDATA[Very relaxed beginning to the workshop, with [xkcd illustrated] tutorials on CI and DP, plus informal discussions to find a common ground over the week. Helped by the beautiful surroundings of the UBC Okanagan campus. Tutorial on the fundamentals of differential privacy, with a long room discussion on the meaning(s) of the definition, for instance […]]]></summary>
-        <author>
-            <name>xi'an</name>
         </author>
     </entry>
 </feed>
