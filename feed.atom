@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-08-31T20:15:31.037Z</updated>
+    <updated>2023-08-31T21:12:41.657Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[No Japanese people or American dogs]]></title>
+        <id>https://languagelog.ldc.upenn.edu/nll/?p=60466</id>
+        <link href="https://languagelog.ldc.upenn.edu/nll/?p=60466&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=no-japanese-people-or-american-dogs"/>
+        <updated>2023-08-31T20:56:32.000Z</updated>
+        <summary type="html"><![CDATA[From the Twitter / X account of the famous popular science writer and muckraker, Fang Zhouzi / Fang Shimin: 光禁止“日本人”“美国狗”入内哪够啊，还有欧盟、英国、澳大利亚、加拿大……呢？不如干脆搞一个白名单，只欢迎朝鲜人、俄国狗入内。 pic.twitter.com/fhVu6oMyZx — 方舟子 (@fangshimin) August 31, 2023 The sign says: Rìběn rénMěiguó gǒujìnzhǐ rùnèi 日本人美国狗禁止入内 "Japanese peopleAmerican dogsAre forbidden from entering" It seems that Americans are of a lower order than Japanese.  What did we […]]]></summary>
+        <author>
+            <name>Victor Mair</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[WeatherBench 2: A benchmark for the next generation of data-driven weather models]]></title>
         <id>http://blog.research.google/2023/08/weatherbench-2-benchmark-for-next.html</id>
