@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-08-31T11:12:08.318Z</updated>
+    <updated>2023-08-31T12:28:29.638Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA["Get some linguists out here"]]></title>
+        <id>https://languagelog.ldc.upenn.edu/nll/?p=60468</id>
+        <link href="https://languagelog.ldc.upenn.edu/nll/?p=60468&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=get-some-linguists-out-here"/>
+        <updated>2023-08-31T12:02:17.000Z</updated>
+        <summary type="html"><![CDATA[Email from John B.: Writing to you about a never-expected-to-see sentence, in a novel I’m reading. “And get some linguists out here as fast as you can.” (Well, but why not?) It’s a newly released off the wall novel, The Road to Roswell by Connie Willis. The heroine, Francie, has agreed to be maid of […]]]></summary>
+        <author>
+            <name>Mark Liberman</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Viral vibe]]></title>
         <id>https://languagelog.ldc.upenn.edu/nll/?p=60461</id>
@@ -2631,16 +2641,6 @@ Medicine is an inherently multimodal discipline. When providing care, clinicians
   Steinwart]]></summary>
         <author>
             <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[You will be trespassed automatically]]></title>
-        <id>https://languagelog.ldc.upenn.edu/nll/?p=60002</id>
-        <link href="https://languagelog.ldc.upenn.edu/nll/?p=60002&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=you-will-be-trespassed-automatically"/>
-        <updated>2023-08-01T23:13:00.000Z</updated>
-        <summary type="html"><![CDATA[Robert Shackleton sent in this photo of a sign: He followed up with a link to Neal Whitman, "Trespassers Will Be Trespassed", Visual Thesaurus 4/25/2013, which reacts to another transitive-trespass sign: Which reminds me of an experience from 50-odd years ago, recounted in "Those who are not authorized are not authorized", 8/9/2003. The OED gives […]]]></summary>
-        <author>
-            <name>Mark Liberman</name>
         </author>
     </entry>
 </feed>
