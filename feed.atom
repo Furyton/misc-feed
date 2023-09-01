@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-09-01T22:13:22.360Z</updated>
+    <updated>2023-09-01T23:13:45.284Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Quantum-enhanced Markov chain Monte Carlo]]></title>
+        <id>http://xianblog.wordpress.com/?p=53575</id>
+        <link href="https://xianblog.wordpress.com/2023/09/02/quantum-enhanced-markov-chain-monte-carlo/"/>
+        <updated>2023-09-01T22:23:51.000Z</updated>
+        <summary type="html"><![CDATA[A rare occurrence of an MCMC paper in Nature!!! David Layden and co-authors published this paper on 12 July, about using a quantum proposal in a Metropolis-Rosenbluth-Hastings simulation of an Ising model. More specifically, based on “quenched dynamics of a transverse-field quantum Ising model20, which can be efficiently simulated on a quantum computer21“, which amounts […]]]></summary>
+        <author>
+            <name>xi'an</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Central Asian Turkish languages]]></title>
         <id>https://languagelog.ldc.upenn.edu/nll/?p=60479</id>

@@ -1473,6 +1473,16 @@
       "siteUrl": "https://xianblog.wordpress.com",
       "articles": [
         {
+          "id": "http://xianblog.wordpress.com/?p=53575",
+          "author": "xi'an",
+          "description": "A rare occurrence of an MCMC paper in Nature!!! David Layden and co-authors published this paper on 12 July, about using a quantum proposal in a Metropolis-Rosenbluth-Hastings simulation of an Ising model. More specifically, based on “quenched dynamics of a transverse-field quantum Ising model20, which can be efficiently simulated on a quantum computer21“, which amounts […]",
+          "link": "https://xianblog.wordpress.com/2023/09/02/quantum-enhanced-markov-chain-monte-carlo/",
+          "publishedOn": "2023-09-01T22:23:51.000Z",
+          "wordCount": 2148,
+          "title": "Quantum-enhanced Markov chain Monte Carlo",
+          "imageUrl": "https://xianblog.files.wordpress.com/2023/07/qmcmc.png"
+        },
+        {
           "id": "http://xianblog.wordpress.com/?p=53752",
           "author": "xi'an",
           "description": "Indeed, the year of the mega-fires in West and East Canada, with Kelowna (and UBC Okanagan where BIRS 23w5106 took place) severely hit. Travelling through BC by car and plane, we saw several wildfire fume clouds, incl. a massive one from the Yellowknife region… Read a few dozen pages of Gene Wolfe’s The Knight, in […]",
