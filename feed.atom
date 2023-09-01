@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-09-01T12:27:56.129Z</updated>
+    <updated>2023-09-01T13:17:27.593Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Central Asian Turkish languages]]></title>
+        <id>https://languagelog.ldc.upenn.edu/nll/?p=60479</id>
+        <link href="https://languagelog.ldc.upenn.edu/nll/?p=60479&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=central-asian-turkish-languages"/>
+        <updated>2023-09-01T12:33:21.000Z</updated>
+        <summary type="html"><![CDATA[I write to announce an exceptional opportunity to learn the Turkish languages of Central Asia. There is a new Turkic course at Penn: TURK 1050.   This is a survey course that introduces students to the main languages spoken in Central Asia: Kazakh, Uzbek, Kyrgyz, Azeri. The language study will facilitate student research in topics like […]]]></summary>
+        <author>
+            <name>Victor Mair</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA["Don't speak Japanese loudly outside!"]]></title>
         <id>https://languagelog.ldc.upenn.edu/nll/?p=60476</id>
@@ -2687,16 +2697,6 @@ Medicine is an inherently multimodal discipline. When providing care, clinicians
         <summary type="html"><![CDATA[<div type="html"/>]]></summary>
         <author>
             <name>PyTorch Website</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Whose note?]]></title>
-        <id>https://languagelog.ldc.upenn.edu/nll/?p=60012</id>
-        <link href="https://languagelog.ldc.upenn.edu/nll/?p=60012&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=whose-note"/>
-        <updated>2023-08-03T01:11:03.000Z</updated>
-        <summary type="html"><![CDATA[A 7/29/2023 article by Elaine Mendonça in the online periodical The Best Stocks ("Anticipating Positive Results: Brookfield Renewable Partners to Release Q2 Earnings Data") starts like this: July 28, 2023 – Brookfield Renewable Partners (NYSE:BEP) (TSE:BEP), a leading utilities provider, is set to announce its second-quarter earnings on Friday, August 4th. And after a few […]]]></summary>
-        <author>
-            <name>Mark Liberman</name>
         </author>
     </entry>
 </feed>
