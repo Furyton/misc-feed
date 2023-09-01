@@ -2,10 +2,63 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-08-31T23:14:47.652Z</updated>
+    <updated>2023-09-01T01:07:40.336Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The Open MatSci ML Toolkit: A Flexible Framework for Machine Learning in
+  Materials Science]]></title>
+        <id>http://arxiv.org/abs/2210.17484</id>
+        <link href="http://arxiv.org/abs/2210.17484"/>
+        <updated>2023-09-01T01:07:38.561Z</updated>
+        <summary type="html"><![CDATA[Santiago Miret, Kin Long Kelvin Lee, Carmelo Gonzales, Marcel Nassar,
+  Matthew Spellings]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[0/1 Deep Neural Networks via Block Coordinate Descent]]></title>
+        <id>http://arxiv.org/abs/2206.09379</id>
+        <link href="http://arxiv.org/abs/2206.09379"/>
+        <updated>2023-09-01T01:07:34.775Z</updated>
+        <summary type="html"><![CDATA[Hui Zhang, Shenglong Zhou, Geoffrey Ye Li, Naihua Xiu]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learning Optimal Strategies for Temporal Tasks in Stochastic Games]]></title>
+        <id>http://arxiv.org/abs/2102.04307</id>
+        <link href="http://arxiv.org/abs/2102.04307"/>
+        <updated>2023-09-01T01:07:34.769Z</updated>
+        <summary type="html"><![CDATA[Alper Kamil Bozkurt, Yu Wang, Michael M. Zavlanos, Miroslav Pajic]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Leveraging Image-based Generative Adversarial Networks for Time Series
+  Generation]]></title>
+        <id>http://arxiv.org/abs/2112.08060</id>
+        <link href="http://arxiv.org/abs/2112.08060"/>
+        <updated>2023-09-01T01:07:34.763Z</updated>
+        <summary type="html"><![CDATA[Justin Hellermann, Stefan Lessmann]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GRASP: A Goodness-of-Fit Test for Classification Learning]]></title>
+        <id>http://arxiv.org/abs/2209.02064</id>
+        <link href="http://arxiv.org/abs/2209.02064"/>
+        <updated>2023-09-01T01:07:34.757Z</updated>
+        <summary type="html"><![CDATA[Adel Javanmard, Mohammad Mehrabi]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[a journal of the year of fires]]></title>
         <id>http://xianblog.wordpress.com/?p=53752</id>
