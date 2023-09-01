@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-09-01T10:15:33.558Z</updated>
+    <updated>2023-09-01T11:12:24.485Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -2697,16 +2697,6 @@ Medicine is an inherently multimodal discipline. When providing care, clinicians
         <summary type="html"><![CDATA[A 7/29/2023 article by Elaine Mendonça in the online periodical The Best Stocks ("Anticipating Positive Results: Brookfield Renewable Partners to Release Q2 Earnings Data") starts like this: July 28, 2023 – Brookfield Renewable Partners (NYSE:BEP) (TSE:BEP), a leading utilities provider, is set to announce its second-quarter earnings on Friday, August 4th. And after a few […]]]></summary>
         <author>
             <name>Mark Liberman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Contextual Integrity for Differential Privacy #2 [23w5106]]]></title>
-        <id>http://xianblog.wordpress.com/?p=53701</id>
-        <link href="https://xianblog.wordpress.com/2023/08/03/contextual-integrity-for-differential-privacy-2-23w5106/"/>
-        <updated>2023-08-02T22:23:32.000Z</updated>
-        <summary type="html"><![CDATA[Morning of diverse short talks. First one on What are the chances? Explaining ε towards endusers by presenting odds and illustrating the impact of including one potential user’s data. Then one on re-placing DP within CI in terms of causality. And multi-agent models, illustrated by the Cambridge Analytics scandal. I am still not getting the […]]]></summary>
-        <author>
-            <name>xi'an</name>
         </author>
     </entry>
 </feed>
