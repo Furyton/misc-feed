@@ -68,6 +68,57 @@
                     class="source-heading__name"
                     data-action="toggle-accordions"
                     title="Click to toggle the source, Ctrl + click to toggle all."
+                  >YongYuan&#x27;s homepage</button>
+                  <a class="source-heading__link" href="https://yongyuan.name">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://yongyuan.name//blog/mha-mqa-gqa.html"
+                        open
+                      >
+                        <summary class="article-expander__title">论文阅读：MHA、MQA、GQA的差异与共性</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://yongyuan.name//blog/mha-mqa-gqa.html">
+                          <div class="article-summary-box-inner media-object">
+                            <span class="media-object__text">
+                              <span>MHA: Attention is All You Need
+MQA：Fast Transformer Decoding: One Write-Head is All You Need
+GQA: Training Generalized Multi-Query Transformer Models fromMulti-Head Checkpoints
+MHA、MQA、GQA差异
+
+MHA：Multi-Head Attention，QKV 三部分有相同数量的头，且一一对应。每次做 Attention，head1 的 QKV 就做好自己运算就可以，输出时各个头加起来就行。
+MQA：Multi-Query Attention，让 Q 仍然保持原来的头数，但 K 和 V 只有一个头，相当于所有的 Q 头共享一组 K 和 V 头，所以叫做 Multi-Query 了。
+实现改变了会不会影响效果呢？确实会影响但相对它能带来的收益，性能的些微降低是可以接受的。能带来多大的收益呢，实验发现一般能提高 30%-40% 的吞吐。收益主要就是由降低了 KV cache 带来的。实际上 MQA 运算量和 MHA 是差不多的，可理解为读取一组 KV 头之后，给所有 Q 头用，但因为之前提到的内存和计算的不对称，所以是有利的。
+GQA：Grouped-Query Attention，是 MHA 和 MQA 的折衷方案，既不想损失性能太多，又想获得 MQA 带来的推理加速好处。具体思想是，不是所有 Q 头共享一组 KV，而是分组一定头数 Q 共享一组 KV，比如上面图片就是两组 Q 共享一组 KV。
+MHA、MQA、GQA共性
+实际上，MHA、MQA可以看做是GQA两个特例版本：
+MQA对应GQA-1，即只有一个分组，对应一个K和V；
+MHA对应GQA-H，对应H个head，对应H个K和V；
+怎么从MHA模型得到MQA和GQA？
+
+从MHA得到MQA：将MHA中H个head的的K和V，分别做mean pooling后得到一个K和V，用得到的K和V继续训练。
+从MHA得到GQA：将MHA中H个head的的K和V，分别做mean pooling后，得到H个K和V，用得到的K和V继续训练。
+MHA、MQA、GQA效果
+在LLAMA2中，在不同的数据数据集上对比的效果（注意：为了维持参数量一致，对于MQA、GQA的FFN layer的维度，会有一定的拓宽）：</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;1
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
                   >Language Log</button>
                   <a class="source-heading__link" href="https://languagelog.ldc.upenn.edu/nll">Open</a>
                 </h3>
@@ -6804,109 +6855,12 @@ Adaptive computation in neural networks is appealing for two key reasons. First,
                 </section>
               </section>
             </li>
-            <li class="card__section">
-              <section class="js-toggle-accordions-scope">
-                <h3 class="source-heading">
-                  <button
-                    class="source-heading__name"
-                    data-action="toggle-accordions"
-                    title="Click to toggle the source, Ctrl + click to toggle all."
-                  >arxivist feed</button>
-                  <a class="source-heading__link" href="https://www.arxivist.com">Open</a>
-                </h3>
-                <section class="articles-per-source">
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="http://arxiv.org/abs/2307.16648"
-                        open
-                      >
-                        <summary class="article-expander__title">LLMs4OL: Large Language Models for Ontology Learning</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="http://arxiv.org/abs/2307.16648">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>Hamed Babaei Giglou, Jennifer D&#x27;Souza, S\&quot;oren Auer</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;2
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="http://arxiv.org/abs/2308.01210"
-                        open
-                      >
-                        <summary class="article-expander__title">Global Hierarchical Neural Networks using Hierarchical Softmax</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="http://arxiv.org/abs/2308.01210">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>Jetze Schuurmans, Flavius Frasincar</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;2
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="http://arxiv.org/abs/2210.08549"
-                        open
-                      >
-                        <summary class="article-expander__title">Automatic Emergency Dust-Free solution on-board International Space
-  Station with Bi-GRU (AED-ISS)</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="http://arxiv.org/abs/2210.08549">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>Po-Han Hou, Wei-Chih Lin, Hong-Chun Hou, Yu-Hao Huang, Jih-Hong Shue</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;2
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="http://arxiv.org/abs/2308.01314"
-                        open
-                      >
-                        <summary class="article-expander__title">Evaluating the Robustness of Test Selection Methods for Deep Neural
-  Networks</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="http://arxiv.org/abs/2308.01314">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>Qiang Hu, Yuejun Guo, Xiaofei Xie, Maxime Cordy, Wei Ma, Mike
-  Papadakis, Yves Le Traon</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;2
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                </section>
-              </section>
-            </li>
         </ul>
       </section>
 
     <footer>
-      <a class="footer-link" href="https://github.com/Furyton/misc-feed/actions/runs/6057504088">
-        <time id="build-timestamp" datetime="2023-09-02T09:12:23.544Z">2023-09-02T09:12:23.544Z</time>
+      <a class="footer-link" href="https://github.com/Furyton/misc-feed/actions/runs/6057744146">
+        <time id="build-timestamp" datetime="2023-09-02T10:13:55.238Z">2023-09-02T10:13:55.238Z</time>
       </a>
       <a class="footer-link" href="https://github.com/osmoscraft/osmosfeed">osmosfeed 1.15.1</a>
     </footer>
