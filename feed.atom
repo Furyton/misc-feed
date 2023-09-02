@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-09-02T06:17:10.787Z</updated>
+    <updated>2023-09-02T07:12:04.489Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -2663,40 +2663,6 @@ Adaptive computation in neural networks is appealing for two key reasons. First,
   Papadakis, Yves Le Traon]]></summary>
         <author>
             <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Multimodal medical AI]]></title>
-        <id>http://blog.research.google/2023/08/multimodal-medical-ai.html</id>
-        <link href="http://blog.research.google/2023/08/multimodal-medical-ai.html"/>
-        <updated>2023-08-03T18:24:00.001Z</updated>
-        <summary type="html"><![CDATA[Posted by Greg Corrado, Head of Health AI, Google Research, and Yossi Matias, VP, Engineering and Research, Google Research
-
-
-
-
-
-
-Medicine is an inherently multimodal discipline. When providing care, clinicians routinely interpret data from a wide range of modalities including medical images, clinical notes, lab tests, electronic health records, genomics, and more.  Over the last decade or so, AI systems have achieved expert-level performance on specific tasks within specific modalities — some AI systems processing CT scans, while others analyzing high magnification pathology slides, and still others hunting for rare genetic variations. The inputs to these systems tend to be complex data such as images, and they typically provide structured outputs, whether in the form of discrete grades o…]]></summary>
-        <author>
-            <name>Google AI Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Multimodal medical AI]]></title>
-        <id>http://ai.googleblog.com/2023/08/multimodal-medical-ai.html</id>
-        <link href="http://ai.googleblog.com/2023/08/multimodal-medical-ai.html"/>
-        <updated>2023-08-03T18:24:00.001Z</updated>
-        <summary type="html"><![CDATA[Posted by Greg Corrado, Head of Health AI, Google Research, and Yossi Matias, VP, Engineering and Research, Google Research
-
-
-
-
-
-
-Medicine is an inherently multimodal discipline. When providing care, clinicians routinely interpret data from a wide range of modalities including medical images, clinical notes, lab tests, electronic health records, genomics, and more.  Over the last decade or so, AI systems have achieved expert-level performance on specific tasks within specific modalities — some AI systems processing CT scans, while others analyzing high magnification pathology slides, and still others hunting for rare genetic variations. The inputs to these systems tend to be complex data such as images, and they typically provide structured outputs, whether in the form of discrete grades o…]]></summary>
-        <author>
-            <name>Google AI Blog</name>
         </author>
     </entry>
 </feed>
