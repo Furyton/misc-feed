@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-09-03T10:13:58.407Z</updated>
+    <updated>2023-09-03T11:10:55.972Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -2638,16 +2638,6 @@ Adaptive computation in neural networks is appealing for two key reasons. First,
         <summary type="html"><![CDATA[Two nights ago, it was raining heavily, with lightning and thunder every so often.  As I was peering out into the blackness of my backyard, all of a sudden, a bright light flashed on.  At first I thought it was lightning, but then I realized that someone or something had set off the light.  It […]]]></summary>
         <author>
             <name>Victor Mair</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Contextual Integrity for Differential Privacy #4 [23w5106]]]></title>
-        <id>http://xianblog.wordpress.com/?p=53733</id>
-        <link href="https://xianblog.wordpress.com/2023/08/05/contextual-integrity-for-differential-privacy-4-23w5106/"/>
-        <updated>2023-08-04T22:23:40.000Z</updated>
-        <summary type="html"><![CDATA[Mostly short talks. First talk by Thomas Seinke (Google) on interpreting ε, with a side wondering of mine on the relation between exp(ε) and the uncertainty that comes with Monte Carlo outcome. Which may relate to this 2022 paper by Ruobin Gong. Second talk by Gautam Kamath (U Waterloo) on large language models under privacy […]]]></summary>
-        <author>
-            <name>xi'an</name>
         </author>
     </entry>
 </feed>
