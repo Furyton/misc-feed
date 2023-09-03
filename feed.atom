@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-09-03T01:06:29.516Z</updated>
+    <updated>2023-09-03T02:20:30.400Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -2648,16 +2648,6 @@ Adaptive computation in neural networks is appealing for two key reasons. First,
         <summary type="html"><![CDATA[Mostly short talks. First talk by Thomas Seinke (Google) on interpreting ε, with a side wondering of mine on the relation between exp(ε) and the uncertainty that comes with Monte Carlo outcome. Which may relate to this 2022 paper by Ruobin Gong. Second talk by Gautam Kamath (U Waterloo) on large language models under privacy […]]]></summary>
         <author>
             <name>xi'an</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Just sayin']]></title>
-        <id>https://languagelog.ldc.upenn.edu/nll/?p=60023</id>
-        <link href="https://languagelog.ldc.upenn.edu/nll/?p=60023&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=just-sayin-2"/>
-        <updated>2023-08-04T13:53:15.000Z</updated>
-        <summary type="html"><![CDATA[The third verse of Ben Sidran's song Can We Talk (track 5 on the 2013 album Don't Cry For No Hipster) repeats the couplet "I'm not sayin'; I'm just sayin'": Your browser does not support the audio element. This reminded me of a LLOG Post of Yore: "Just sayin'", 1/11/2012, which tried to answer a […]]]></summary>
-        <author>
-            <name>Mark Liberman</name>
         </author>
     </entry>
 </feed>
