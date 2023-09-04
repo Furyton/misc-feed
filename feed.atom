@@ -2,10 +2,64 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-09-04T01:04:02.198Z</updated>
+    <updated>2023-09-04T02:20:44.418Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[VDM++: Variational Diffusion Models for High-Quality Synthesis]]></title>
+        <id>http://arxiv.org/abs/2303.00848</id>
+        <link href="http://arxiv.org/abs/2303.00848"/>
+        <updated>2023-09-04T02:20:36.085Z</updated>
+        <summary type="html"><![CDATA[Diederik P. Kingma, Ruiqi Gao]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Knowledge Infused Learning (K-IL): Towards Deep Incorporation of
+  Knowledge in Deep Learning]]></title>
+        <id>http://arxiv.org/abs/1912.00512</id>
+        <link href="http://arxiv.org/abs/1912.00512"/>
+        <updated>2023-09-04T02:20:36.080Z</updated>
+        <summary type="html"><![CDATA[Ugur Kursuncu, Manas Gaur, Amit Sheth]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Diversified Ensemble of Independent Sub-Networks for Robust
+  Self-Supervised Representation Learning]]></title>
+        <id>http://arxiv.org/abs/2308.14705</id>
+        <link href="http://arxiv.org/abs/2308.14705"/>
+        <updated>2023-09-04T02:20:36.074Z</updated>
+        <summary type="html"><![CDATA[Amirhossein Vahidi, Lisa Wimmer, H\"useyin Anil G\"und\"uz, Bernd
+  Bischl, Eyke H\"ullermeier, Mina Rezaei]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[On the Implicit Bias of Adam]]></title>
+        <id>http://arxiv.org/abs/2309.00079</id>
+        <link href="http://arxiv.org/abs/2309.00079"/>
+        <updated>2023-09-04T02:20:36.039Z</updated>
+        <summary type="html"><![CDATA[Matias D. Cattaneo, Jason M. Klusowski, Boris Shigida]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SGD learning on neural networks: leap complexity and saddle-to-saddle
+  dynamics]]></title>
+        <id>http://arxiv.org/abs/2302.11055</id>
+        <link href="http://arxiv.org/abs/2302.11055"/>
+        <updated>2023-09-04T02:20:36.034Z</updated>
+        <summary type="html"><![CDATA[Emmanuel Abbe, Enric Boix-Adsera, Theodor Misiakiewicz]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[UTMB congratulations!]]></title>
         <id>http://xianblog.wordpress.com/?p=53990</id>
