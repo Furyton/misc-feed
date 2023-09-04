@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-09-04T22:12:52.359Z</updated>
+    <updated>2023-09-04T23:13:46.400Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[capture & maybe recapture]]></title>
+        <id>http://xianblog.wordpress.com/?p=53568</id>
+        <link href="https://xianblog.wordpress.com/2023/09/05/capture-maybe-recapture-estimation/"/>
+        <updated>2023-09-04T22:23:42.000Z</updated>
+        <summary type="html"><![CDATA[I read population size estimation with capture-recapture in presence of individual misidentification and low recapture arXived by Rémy Fraysse and coauthors on my flight back from Saigon. The setup is one of a capture-recapture experience where potential misidentification (of a recapture individual labelled as new) may occur due to visual identification errors as, e.g., in […]]]></summary>
+        <author>
+            <name>xi'an</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Tatar Journalism in Tatar]]></title>
         <id>https://languagelog.ldc.upenn.edu/nll/?p=60494</id>
