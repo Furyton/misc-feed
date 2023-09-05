@@ -1414,6 +1414,16 @@
       "siteUrl": "https://xianblog.wordpress.com",
       "articles": [
         {
+          "id": "http://xianblog.wordpress.com/?p=53996",
+          "author": "xi'an",
+          "description": "Visit the post for more.",
+          "link": "https://xianblog.wordpress.com/2023/09/06/400-bright-minds/",
+          "publishedOn": "2023-09-05T22:23:13.000Z",
+          "wordCount": 1893,
+          "title": "400 bright minds",
+          "imageUrl": "https://xianblog.files.wordpress.com/2023/09/ercstg23.png"
+        },
+        {
           "id": "http://xianblog.wordpress.com/?p=53568",
           "author": "xi'an",
           "description": "I read population size estimation with capture-recapture in presence of individual misidentification and low recapture arXived by Rémy Fraysse and coauthors on my flight back from Saigon. The setup is one of a capture-recapture experience where potential misidentification (of a recapture individual labelled as new) may occur due to visual identification errors as, e.g., in […]",
@@ -2579,16 +2589,6 @@
           "publishedOn": "2023-08-07T12:25:18.000Z",
           "wordCount": 2130,
           "title": "Autodidact",
-          "imageUrl": null
-        },
-        {
-          "id": "https://languagelog.ldc.upenn.edu/nll/?p=60058",
-          "author": "Mark Liberman",
-          "description": "Over brunch the other day, a question came up that I've wondered about in the past: Who was the \"Major Dickason\" of Major Dickason's Blend? Skipping my imaginary histories, here's the real story. According to \"A coffee revolution: Peet’s’ first ever employee spills the beans\", Berkeleyside 7/25/2023: Long before the pandemic, the widespread adoption of […]",
-          "link": "https://languagelog.ldc.upenn.edu/nll/?p=60058&utm_source=rss&utm_medium=rss&utm_campaign=sergeant-dickasons-blend",
-          "publishedOn": "2023-08-07T10:43:28.000Z",
-          "wordCount": 2633,
-          "title": "Sergeant Dickason's Blend",
           "imageUrl": null
         }
       ]
