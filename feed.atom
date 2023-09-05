@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-09-05T14:13:39.038Z</updated>
+    <updated>2023-09-05T15:15:17.659Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Automated trace collection and analysis]]></title>
+        <id>https://pytorch.org/blog/automated-trace-collection/</id>
+        <link href="https://pytorch.org/blog/automated-trace-collection/"/>
+        <updated>2023-09-05T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In this blog, we share how we enabled the collection and analysis of PyTorch Profiler traces for training workloads without any user side code instrumentation. We leveraged Dynolog - an open source daemon for CPU and GPU telemetry to collect PyTorch Profiler traces, and analyzed the collected traces using Holistic Trace Analysis - an open source library for analyzing PyTorch Profiler traces. This toolchain has allowed engineers at Meta to accelerate their performance optimization workflows. The keystone to our solution was implementing pre and post hooks for the base Optimizer class in PyTorch. We demo PyTorch trace collection using Dynolog in a short video.]]></summary>
+        <author>
+            <name>PyTorch Website</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[capture & maybe recapture]]></title>
         <id>http://xianblog.wordpress.com/?p=53568</id>
@@ -2593,62 +2603,6 @@ Adaptive computation in neural networks is appealing for two key reasons. First,
         <summary type="html"><![CDATA[Overview]]></summary>
         <author>
             <name>PyTorch Website</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Scalable PAC-Bayesian Meta-Learning via the PAC-Optimal Hyper-Posterior:
-  From Theory to Practice]]></title>
-        <id>http://arxiv.org/abs/2211.07206</id>
-        <link href="http://arxiv.org/abs/2211.07206"/>
-        <updated>2023-08-07T02:30:08.547Z</updated>
-        <summary type="html"><![CDATA[Jonas Rothfuss, Martin Josifoski, Vincent Fortuin, Andreas Krause]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Online Multi-Task Learning with Recursive Least Squares and Recursive
-  Kernel Methods]]></title>
-        <id>http://arxiv.org/abs/2308.01938</id>
-        <link href="http://arxiv.org/abs/2308.01938"/>
-        <updated>2023-08-07T02:30:08.541Z</updated>
-        <summary type="html"><![CDATA[Gabriel R. Lencione, Fernando J. Von Zuben]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learning Networks from Gaussian Graphical Models and Gaussian Free
-  Fields]]></title>
-        <id>http://arxiv.org/abs/2308.02344</id>
-        <link href="http://arxiv.org/abs/2308.02344"/>
-        <updated>2023-08-07T02:30:08.527Z</updated>
-        <summary type="html"><![CDATA[Subhro Ghosh, Soumendu Sundar Mukherjee, Hoang-Son Tran, Ujan
-  Gangopadhyay]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A stochastic optimization approach to train non-linear neural networks
-  with regularization of higher-order total variation]]></title>
-        <id>http://arxiv.org/abs/2308.02293</id>
-        <link href="http://arxiv.org/abs/2308.02293"/>
-        <updated>2023-08-07T02:30:08.521Z</updated>
-        <summary type="html"><![CDATA[Akifumi Okuno]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fast and Accurate Reduced-Order Modeling of a MOOSE-based Additive
-  Manufacturing Model with Operator Learning]]></title>
-        <id>http://arxiv.org/abs/2308.02462</id>
-        <link href="http://arxiv.org/abs/2308.02462"/>
-        <updated>2023-08-07T02:30:08.516Z</updated>
-        <summary type="html"><![CDATA[Mahmoud Yaseen, Dewen Yushu, Peter German, Xu Wu]]></summary>
-        <author>
-            <name>arxivist feed</name>
         </author>
     </entry>
 </feed>

@@ -984,56 +984,6 @@
           "wordCount": 728,
           "title": "SurvBeX: An explanation method of the machine learning survival models\n  based on the Beran estimator",
           "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
-        },
-        {
-          "id": "http://arxiv.org/abs/2211.07206",
-          "author": null,
-          "description": "Jonas Rothfuss, Martin Josifoski, Vincent Fortuin, Andreas Krause",
-          "link": "http://arxiv.org/abs/2211.07206",
-          "publishedOn": "2023-08-07T02:30:08.547Z",
-          "wordCount": 754,
-          "title": "Scalable PAC-Bayesian Meta-Learning via the PAC-Optimal Hyper-Posterior:\n  From Theory to Practice",
-          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
-        },
-        {
-          "id": "http://arxiv.org/abs/2308.01938",
-          "author": null,
-          "description": "Gabriel R. Lencione, Fernando J. Von Zuben",
-          "link": "http://arxiv.org/abs/2308.01938",
-          "publishedOn": "2023-08-07T02:30:08.541Z",
-          "wordCount": 668,
-          "title": "Online Multi-Task Learning with Recursive Least Squares and Recursive\n  Kernel Methods",
-          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
-        },
-        {
-          "id": "http://arxiv.org/abs/2308.02344",
-          "author": null,
-          "description": "Subhro Ghosh, Soumendu Sundar Mukherjee, Hoang-Son Tran, Ujan\n  Gangopadhyay",
-          "link": "http://arxiv.org/abs/2308.02344",
-          "publishedOn": "2023-08-07T02:30:08.527Z",
-          "wordCount": 739,
-          "title": "Learning Networks from Gaussian Graphical Models and Gaussian Free\n  Fields",
-          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
-        },
-        {
-          "id": "http://arxiv.org/abs/2308.02293",
-          "author": null,
-          "description": "Akifumi Okuno",
-          "link": "http://arxiv.org/abs/2308.02293",
-          "publishedOn": "2023-08-07T02:30:08.521Z",
-          "wordCount": 723,
-          "title": "A stochastic optimization approach to train non-linear neural networks\n  with regularization of higher-order total variation",
-          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
-        },
-        {
-          "id": "http://arxiv.org/abs/2308.02462",
-          "author": null,
-          "description": "Mahmoud Yaseen, Dewen Yushu, Peter German, Xu Wu",
-          "link": "http://arxiv.org/abs/2308.02462",
-          "publishedOn": "2023-08-07T02:30:08.516Z",
-          "wordCount": 786,
-          "title": "Fast and Accurate Reduced-Order Modeling of a MOOSE-based Additive\n  Manufacturing Model with Operator Learning",
-          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
         }
       ]
     },
@@ -1302,6 +1252,16 @@
       "feedUrl": "https://pytorch.org/feed",
       "siteUrl": "https://pytorch.org/",
       "articles": [
+        {
+          "id": "https://pytorch.org/blog/automated-trace-collection/",
+          "author": null,
+          "description": "In this blog, we share how we enabled the collection and analysis of PyTorch Profiler traces for training workloads without any user side code instrumentation. We leveraged Dynolog - an open source daemon for CPU and GPU telemetry to collect PyTorch Profiler traces, and analyzed the collected traces using Holistic Trace Analysis - an open source library for analyzing PyTorch Profiler traces. This toolchain has allowed engineers at Meta to accelerate their performance optimization workflows. The keystone to our solution was implementing pre and post hooks for the base Optimizer class in PyTorch. We demo PyTorch trace collection using Dynolog in a short video.",
+          "link": "https://pytorch.org/blog/automated-trace-collection/",
+          "publishedOn": "2023-09-05T07:00:00.000Z",
+          "wordCount": 1669,
+          "title": "Automated trace collection and analysis",
+          "imageUrl": "https://pytorch.org/assets/images/pytorch-logo.png"
+        },
         {
           "id": "https://pytorch.org/blog/pytorch-xla-spmd/",
           "author": null,
