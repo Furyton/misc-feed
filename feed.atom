@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-09-05T21:13:02.775Z</updated>
+    <updated>2023-09-05T22:13:33.579Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[↗↘↗]]></title>
+        <id>https://languagelog.ldc.upenn.edu/nll/?p=60503</id>
+        <link href="https://languagelog.ldc.upenn.edu/nll/?p=60503&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=%25e2%2586%2597%25e2%2586%2598%25e2%2586%2597"/>
+        <updated>2023-09-05T21:52:54.000Z</updated>
+        <summary type="html"><![CDATA[That's one of the extreme nicknames for Xi Jinping that are being used to avoid censorship.  It consists of the three tones for his name, Xí Jìnpíng 习近平. Likewise, netizens are referring to him as "2-4-2".  He is also called "N" because that reminds people of ↗↘↗.  Another emerging Xi nickname is “n-butane,” whose chemical […]]]></summary>
+        <author>
+            <name>Victor Mair</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Automated trace collection and analysis]]></title>
         <id>https://pytorch.org/blog/automated-trace-collection/</id>
