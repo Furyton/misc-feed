@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-09-05T18:18:35.026Z</updated>
+    <updated>2023-09-05T19:11:33.828Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -2593,16 +2593,6 @@ Adaptive computation in neural networks is appealing for two key reasons. First,
         <summary type="html"><![CDATA[Over brunch the other day, a question came up that I've wondered about in the past: Who was the "Major Dickason" of Major Dickason's Blend? Skipping my imaginary histories, here's the real story. According to "A coffee revolution: Peet’s’ first ever employee spills the beans", Berkeleyside 7/25/2023: Long before the pandemic, the widespread adoption of […]]]></summary>
         <author>
             <name>Mark Liberman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[INT8 Quantization for x86 CPU in PyTorch]]></title>
-        <id>https://pytorch.org/blog/int8-quantization/</id>
-        <link href="https://pytorch.org/blog/int8-quantization/"/>
-        <updated>2023-08-07T07:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Overview]]></summary>
-        <author>
-            <name>PyTorch Website</name>
         </author>
     </entry>
 </feed>
