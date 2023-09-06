@@ -2,10 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-09-06T17:13:22.923Z</updated>
+    <updated>2023-09-06T21:13:23.616Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[TSMixer: An all-MLP architecture for time series forecasting]]></title>
+        <id>http://blog.research.google/2023/09/tsmixer-all-mlp-architecture-for-time.html</id>
+        <link href="http://blog.research.google/2023/09/tsmixer-all-mlp-architecture-for-time.html"/>
+        <updated>2023-09-06T19:47:00.000Z</updated>
+        <summary type="html"><![CDATA[Posted by Si-An Chen, Student Researcher, Cloud AI Team, and Chun-Liang Li, Research Scientist, Cloud AI Team
+
+
+
+
+Time series forecasting is critical to various real-world applications, from demand forecasting to pandemic spread prediction. In multivariate time series forecasting (forecasting multiple variants at the same time), one can split existing methods into two categories: univariate models and multivariate models. Univariate models focus on inter-series interactions or temporal patterns that encompass trends and seasonal patterns on a time series with a single variable. Examples of such trends and seasonal patterns might be the way mortgage rates increase due to inflation, and how traffic peaks during rush hour. In addition to inter-series patterns, multivariate models process intr…]]></summary>
+        <author>
+            <name>Google AI Blog</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Graphcore Joins the PyTorch Foundation as a General Member]]></title>
         <id>https://pytorch.org/blog/graphcore-joins-pytorch/</id>

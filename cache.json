@@ -1804,6 +1804,16 @@
       "siteUrl": "http://blog.research.google/",
       "articles": [
         {
+          "id": "http://blog.research.google/2023/09/tsmixer-all-mlp-architecture-for-time.html",
+          "author": null,
+          "description": "Posted by Si-An Chen, Student Researcher, Cloud AI Team, and Chun-Liang Li, Research Scientist, Cloud AI Team\n\n\n\n\nTime series forecasting is critical to various real-world applications, from demand forecasting to pandemic spread prediction. In multivariate time series forecasting (forecasting multiple variants at the same time), one can split existing methods into two categories: univariate models and multivariate models. Univariate models focus on inter-series interactions or temporal patterns that encompass trends and seasonal patterns on a time series with a single variable. Examples of such trends and seasonal patterns might be the way mortgage rates increase due to inflation, and how traffic peaks during rush hour. In addition to inter-series patterns, multivariate models process intr…",
+          "link": "http://blog.research.google/2023/09/tsmixer-all-mlp-architecture-for-time.html",
+          "publishedOn": "2023-09-06T19:47:00.000Z",
+          "wordCount": 27688,
+          "title": "TSMixer: An all-MLP architecture for time series forecasting",
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEii5BTCsKal44jn1oYu-ILYHeAog8SPGZZ-i8g6Q2C0di7Wl-RcKI7jblQEd7sAtFINsCL8gPMBJQ449s1cTbxIzQizRmdjesDg2g4BgCqd24e3Iozp8nC1C9KNmJ7M9iUS8EnuM0uPs5Z6mNzVFOrlq1HcmurtARWu-T7KzL97qpjGqJhAHUzy46yjR2lH/w1200-h630-p-k-no-nu/hero.jpg"
+        },
+        {
           "id": "http://blog.research.google/2023/08/weatherbench-2-benchmark-for-next.html",
           "author": null,
           "description": "Posted by Stephan Rasp, Research Scientist, and Carla Bromberg, Program Lead, Google Research\n\n\n\n\n\nIn 1950, weather forecasting started its digital revolution when researchers used the first programmable, general-purpose computer ENIAC to solve mathematical equations describing how weather evolves. In the more than 70 years since, continuous advancements in computing power and improvements to the model formulations have led to steady gains in weather forecast skill: a 7-day forecast today is about as accurate as a 5-day forecast in 2000 and a 3-day forecast in 1980. While improving forecast accuracy at the pace of approximately one day per decade may not seem like a big deal, every day improved is important in far reaching use cases, such as for logistics planning, disaster management, agr…",
