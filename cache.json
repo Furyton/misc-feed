@@ -1356,6 +1356,16 @@
       "siteUrl": "https://jeremykun.com",
       "articles": [
         {
+          "id": "https://jeremykun.com/?p=119800",
+          "author": "Jeremy Kun",
+          "description": "Problem: Compute 16% of 25 in your head. Solution: 16% of 25 is equivalent to 25% of 16, which is clearly 4. This is true for all numbers: $x\\%$ of $y$ is always equal to $y\\%$ of $x$. The first one is $\\frac{x}{100} y$ and the second is $\\frac{y}{100}x$, and because multiplication is commutative and […]",
+          "link": "https://jeremykun.com/2023/09/05/computing-percentages-easier/",
+          "publishedOn": "2023-09-06T04:47:37.000Z",
+          "wordCount": null,
+          "title": "Computing Percentages Easier",
+          "imageUrl": null
+        },
+        {
           "id": "https://jeremykun.com/?p=119602",
           "author": "Jeremy Kun",
           "description": "Table of Contents In the last article in the series, we migrated the passes we had written to use the tablegen code generation framework. That was a preface to using tablegen to define dialects. In this article we’ll define a dialect that represents arithmetic on single-variable polynomials, with coefficients in $\\mathbb{Z} / 2^{32} \\mathbb{Z}$ (32-bit […]",
