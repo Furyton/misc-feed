@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-09-07T11:12:28.375Z</updated>
+    <updated>2023-09-07T12:28:22.854Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[On-the-job jargon]]></title>
+        <id>https://languagelog.ldc.upenn.edu/nll/?p=60516</id>
+        <link href="https://languagelog.ldc.upenn.edu/nll/?p=60516&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=on-the-job-jargon"/>
+        <updated>2023-09-07T12:11:31.000Z</updated>
+        <summary type="html"><![CDATA[There seem to be a lot of people complaining about it these days, so maybe there's something to worry about here.  Francois Lang, who called this current wave of criticism to my attention asks whether academia is isolated from such horrors. FWIW, here's what it's like in business: "A look at the most annoying workplace […]]]></summary>
+        <author>
+            <name>Victor Mair</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[BytePiece：更纯粹、更高压缩率的Tokenizer]]></title>
         <id>https://kexue.fm/archives/9752</id>
