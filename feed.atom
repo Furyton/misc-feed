@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-09-07T05:13:48.898Z</updated>
+    <updated>2023-09-07T06:18:47.781Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -2676,16 +2676,6 @@ Adaptive computation in neural networks is appealing for two key reasons. First,
         <summary type="html"><![CDATA[…though they often do a credible job of faking it.  An interesting (preprint) paper by Konstantine Arkoudas, "GPT-4 Can't Reason", brings the receipts. The abstract: GPT-4 was released in March 2023 to wide acclaim, marking a very substantial improvement across the board over GPT-3.5 (OpenAI’s previously best model, which had powered the initial release of […]]]></summary>
         <author>
             <name>Mark Liberman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Eyeworm]]></title>
-        <id>https://languagelog.ldc.upenn.edu/nll/?p=60072</id>
-        <link href="https://languagelog.ldc.upenn.edu/nll/?p=60072&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=eyeworm"/>
-        <updated>2023-08-08T18:05:52.000Z</updated>
-        <summary type="html"><![CDATA[No, I'm not talking about the eye parasite called Loa loa (a filarial nematode), which is also called eyeworm.  I'm talking about an image that gets stuck in your brain the same way an earworm (also called brainworm, sticky music, or stuck song syndrome) gets stuck in your head.  We've talked about earworms a lot […]]]></summary>
-        <author>
-            <name>Victor Mair</name>
         </author>
     </entry>
 </feed>
