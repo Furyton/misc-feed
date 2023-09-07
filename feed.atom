@@ -2,10 +2,63 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-09-07T01:03:32.423Z</updated>
+    <updated>2023-09-07T02:19:49.183Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Learning Variational Models with Unrolling and Bilevel Optimization]]></title>
+        <id>http://arxiv.org/abs/2209.12651</id>
+        <link href="http://arxiv.org/abs/2209.12651"/>
+        <updated>2023-09-07T02:19:38.123Z</updated>
+        <summary type="html"><![CDATA[Christoph Brauer, Niklas Breustedt, Timo de Wolff, Dirk A. Lorenz]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learning Active Subspaces for Effective and Scalable Uncertainty
+  Quantification in Deep Neural Networks]]></title>
+        <id>http://arxiv.org/abs/2309.03061</id>
+        <link href="http://arxiv.org/abs/2309.03061"/>
+        <updated>2023-09-07T02:19:38.046Z</updated>
+        <summary type="html"><![CDATA[Sanket Jantre, Nathan M. Urban, Xiaoning Qian, Byung-Jun Yoon]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Explaining the Behavior of Black-Box Prediction Algorithms with Causal
+  Learning]]></title>
+        <id>http://arxiv.org/abs/2006.02482</id>
+        <link href="http://arxiv.org/abs/2006.02482"/>
+        <updated>2023-09-07T02:19:34.348Z</updated>
+        <summary type="html"><![CDATA[Numair Sani, Daniel Malinsky, Ilya Shpitser]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Topological Deep Learning Framework for Neural Spike Decoding]]></title>
+        <id>http://arxiv.org/abs/2212.05037</id>
+        <link href="http://arxiv.org/abs/2212.05037"/>
+        <updated>2023-09-07T02:19:34.335Z</updated>
+        <summary type="html"><![CDATA[Edward C. Mitchell, Brittany Story, David Boothe, Piotr J.
+  Franaszczuk, Vasileios Maroulas]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bayes-optimal Learning of Deep Random Networks of Extensive-width]]></title>
+        <id>http://arxiv.org/abs/2302.00375</id>
+        <link href="http://arxiv.org/abs/2302.00375"/>
+        <updated>2023-09-07T02:19:34.330Z</updated>
+        <summary type="html"><![CDATA[Hugo Cui, Florent Krzakala, Lenka Zdeborov\'a]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[data science ≠ algebra ???]]></title>
         <id>http://xianblog.wordpress.com/?p=53505</id>

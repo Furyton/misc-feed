@@ -6,6 +6,56 @@
       "siteUrl": "https://www.arxivist.com",
       "articles": [
         {
+          "id": "http://arxiv.org/abs/2209.12651",
+          "author": null,
+          "description": "Christoph Brauer, Niklas Breustedt, Timo de Wolff, Dirk A. Lorenz",
+          "link": "http://arxiv.org/abs/2209.12651",
+          "publishedOn": "2023-09-07T02:19:38.123Z",
+          "wordCount": 729,
+          "title": "Learning Variational Models with Unrolling and Bilevel Optimization",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2309.03061",
+          "author": null,
+          "description": "Sanket Jantre, Nathan M. Urban, Xiaoning Qian, Byung-Jun Yoon",
+          "link": "http://arxiv.org/abs/2309.03061",
+          "publishedOn": "2023-09-07T02:19:38.046Z",
+          "wordCount": 648,
+          "title": "Learning Active Subspaces for Effective and Scalable Uncertainty\n  Quantification in Deep Neural Networks",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2006.02482",
+          "author": null,
+          "description": "Numair Sani, Daniel Malinsky, Ilya Shpitser",
+          "link": "http://arxiv.org/abs/2006.02482",
+          "publishedOn": "2023-09-07T02:19:34.348Z",
+          "wordCount": 766,
+          "title": "Explaining the Behavior of Black-Box Prediction Algorithms with Causal\n  Learning",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2212.05037",
+          "author": null,
+          "description": "Edward C. Mitchell, Brittany Story, David Boothe, Piotr J.\n  Franaszczuk, Vasileios Maroulas",
+          "link": "http://arxiv.org/abs/2212.05037",
+          "publishedOn": "2023-09-07T02:19:34.335Z",
+          "wordCount": 764,
+          "title": "A Topological Deep Learning Framework for Neural Spike Decoding",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2302.00375",
+          "author": null,
+          "description": "Hugo Cui, Florent Krzakala, Lenka Zdeborov\\'a",
+          "link": "http://arxiv.org/abs/2302.00375",
+          "publishedOn": "2023-09-07T02:19:34.330Z",
+          "wordCount": 670,
+          "title": "Bayes-optimal Learning of Deep Random Networks of Extensive-width",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
           "id": "http://arxiv.org/abs/1603.01867",
           "author": null,
           "description": "Yucai Su",
