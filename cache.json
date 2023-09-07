@@ -2062,26 +2062,6 @@
           "wordCount": 27825,
           "title": "Advances in document understanding",
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-Zs3cysjsJQsPfOZML1cR03gCO18NmC-KMsoQtctvWr7v_bwJ6MmQMXesUafsi7w53SY50YZOtnBdpAcBaplHXOPV8P1-X9deoXISeAfq85zUbcPXUOCPJSTsaIanCEIWUUkBNXE9JTU6q3OIgMZi5JqykbiN1x36LR78x4jEka2pL5MBjTdMr_Sn3FNv/w1200-h630-p-k-no-nu/Document%20understanding%20hero.png"
-        },
-        {
-          "id": "http://blog.research.google/2023/08/adatape-foundation-model-with-adaptive.html",
-          "author": null,
-          "description": "Posted by Fuzhao Xue, Research Intern, and Mostafa Dehghani, Research Scientist, Google\n\n\n\n\n\n\n\nAdaptive computation refers to the ability of a machine learning system to adjust its behavior in response to changes in the environment. While conventional neural networks have a fixed function and computation capacity, i.e., they spend the same number of FLOPs for processing different inputs, a model with adaptive and dynamic computation modulates the computational budget it dedicates to processing each input, depending on the complexity of the input.\n\n\nAdaptive computation in neural networks is appealing for two key reasons. First, the mechanism that introduces adaptivity provides an inductive bias that can play a key role in solving some challenging tasks. For instance, enabling different num…",
-          "link": "http://blog.research.google/2023/08/adatape-foundation-model-with-adaptive.html",
-          "publishedOn": "2023-08-08T21:02:00.000Z",
-          "wordCount": 27869,
-          "title": "AdaTape: Foundation model with adaptive computation and dynamic read-and-write",
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjlzhnBmcyTQ940NZQduhyS5G17r9FghwVjYOPW2Ly0pRzug9DdZ7p02z1iK1g9b93xIqJhdQrg5XVmlcUQqUcSOwQXOGSm6lhcScopZX5J3OTxIsThxmAudIEpkrshjAhipDV4VKFL7Vv1r0Qad77VSiH7rGUD9-E5Jgg1HnzmSkIBt24rd3j1rPN2Ee2N/w1200-h630-p-k-no-nu/adatape.png"
-        },
-        {
-          "id": "http://ai.googleblog.com/2023/08/adatape-foundation-model-with-adaptive.html",
-          "author": null,
-          "description": "Posted by Fuzhao Xue, Research Intern, and Mostafa Dehghani, Research Scientist, Google\n\n\n\n\n\n\n\nAdaptive computation refers to the ability of a machine learning system to adjust its behavior in response to changes in the environment. While conventional neural networks have a fixed function and computation capacity, i.e., they spend the same number of FLOPs for processing different inputs, a model with adaptive and dynamic computation modulates the computational budget it dedicates to processing each input, depending on the complexity of the input.\n\n\nAdaptive computation in neural networks is appealing for two key reasons. First, the mechanism that introduces adaptivity provides an inductive bias that can play a key role in solving some challenging tasks. For instance, enabling different num…",
-          "link": "http://ai.googleblog.com/2023/08/adatape-foundation-model-with-adaptive.html",
-          "publishedOn": "2023-08-08T21:02:00.000Z",
-          "wordCount": 27871,
-          "title": "AdaTape: Foundation model with adaptive computation and dynamic read-and-write",
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjlzhnBmcyTQ940NZQduhyS5G17r9FghwVjYOPW2Ly0pRzug9DdZ7p02z1iK1g9b93xIqJhdQrg5XVmlcUQqUcSOwQXOGSm6lhcScopZX5J3OTxIsThxmAudIEpkrshjAhipDV4VKFL7Vv1r0Qad77VSiH7rGUD9-E5Jgg1HnzmSkIBt24rd3j1rPN2Ee2N/w1200-h630-p-k-no-nu/adatape.png"
         }
       ]
     },

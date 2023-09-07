@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-09-07T08:18:58.696Z</updated>
+    <updated>2023-09-07T09:14:37.401Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -2634,48 +2634,6 @@ The last few years have seen rapid progress in systems that can automatically pr
         <summary type="html"><![CDATA[“at each iteration, DP-fast MH first samples a minibatch size and checks if it uses a minibatch of data or full-batch data. Then it checks whether to require additional Gaussian noise. If so, it will instantiate the Gaussian mechanism which adds Gaussian noise to the energy difference function. Finally, it chooses accept or reject θ′ […]]]></summary>
         <author>
             <name>xi'an</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AdaTape: Foundation model with adaptive computation and dynamic read-and-write]]></title>
-        <id>http://blog.research.google/2023/08/adatape-foundation-model-with-adaptive.html</id>
-        <link href="http://blog.research.google/2023/08/adatape-foundation-model-with-adaptive.html"/>
-        <updated>2023-08-08T21:02:00.000Z</updated>
-        <summary type="html"><![CDATA[Posted by Fuzhao Xue, Research Intern, and Mostafa Dehghani, Research Scientist, Google
-
-
-
-
-
-
-
-Adaptive computation refers to the ability of a machine learning system to adjust its behavior in response to changes in the environment. While conventional neural networks have a fixed function and computation capacity, i.e., they spend the same number of FLOPs for processing different inputs, a model with adaptive and dynamic computation modulates the computational budget it dedicates to processing each input, depending on the complexity of the input.
-
-
-Adaptive computation in neural networks is appealing for two key reasons. First, the mechanism that introduces adaptivity provides an inductive bias that can play a key role in solving some challenging tasks. For instance, enabling different num…]]></summary>
-        <author>
-            <name>Google AI Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AdaTape: Foundation model with adaptive computation and dynamic read-and-write]]></title>
-        <id>http://ai.googleblog.com/2023/08/adatape-foundation-model-with-adaptive.html</id>
-        <link href="http://ai.googleblog.com/2023/08/adatape-foundation-model-with-adaptive.html"/>
-        <updated>2023-08-08T21:02:00.000Z</updated>
-        <summary type="html"><![CDATA[Posted by Fuzhao Xue, Research Intern, and Mostafa Dehghani, Research Scientist, Google
-
-
-
-
-
-
-
-Adaptive computation refers to the ability of a machine learning system to adjust its behavior in response to changes in the environment. While conventional neural networks have a fixed function and computation capacity, i.e., they spend the same number of FLOPs for processing different inputs, a model with adaptive and dynamic computation modulates the computational budget it dedicates to processing each input, depending on the complexity of the input.
-
-
-Adaptive computation in neural networks is appealing for two key reasons. First, the mechanism that introduces adaptivity provides an inductive bias that can play a key role in solving some challenging tasks. For instance, enabling different num…]]></summary>
-        <author>
-            <name>Google AI Blog</name>
         </author>
     </entry>
 </feed>
