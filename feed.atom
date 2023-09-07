@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-09-07T06:18:47.781Z</updated>
+    <updated>2023-09-07T07:13:39.102Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[BytePiece：更纯粹、更高压缩率的Tokenizer]]></title>
+        <id>https://kexue.fm/archives/9752</id>
+        <link href="https://kexue.fm/archives/9752"/>
+        <updated>2023-09-07T07:05:00.000Z</updated>
+        <summary type="html"><![CDATA[目前在LLM中最流行的Tokenizer（分词器）应该是Google的SentencePiece了，因为它符合Tokenizer的一些理想特性，比如语言无关、数据驱动等，并且由于它是C++写的，...]]></summary>
+        <author>
+            <name>苏剑林</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Learning Variational Models with Unrolling and Bilevel Optimization]]></title>
         <id>http://arxiv.org/abs/2209.12651</id>
@@ -2666,16 +2676,6 @@ Adaptive computation refers to the ability of a machine learning system to adjus
 Adaptive computation in neural networks is appealing for two key reasons. First, the mechanism that introduces adaptivity provides an inductive bias that can play a key role in solving some challenging tasks. For instance, enabling different num…]]></summary>
         <author>
             <name>Google AI Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LLMs can't reason?]]></title>
-        <id>https://languagelog.ldc.upenn.edu/nll/?p=60081</id>
-        <link href="https://languagelog.ldc.upenn.edu/nll/?p=60081&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=llms-cant-reason"/>
-        <updated>2023-08-08T18:27:54.000Z</updated>
-        <summary type="html"><![CDATA[…though they often do a credible job of faking it.  An interesting (preprint) paper by Konstantine Arkoudas, "GPT-4 Can't Reason", brings the receipts. The abstract: GPT-4 was released in March 2023 to wide acclaim, marking a very substantial improvement across the board over GPT-3.5 (OpenAI’s previously best model, which had powered the initial release of […]]]></summary>
-        <author>
-            <name>Mark Liberman</name>
         </author>
     </entry>
 </feed>

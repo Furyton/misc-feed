@@ -1101,6 +1101,16 @@
       "siteUrl": "https://kexue.fm/",
       "articles": [
         {
+          "id": "https://kexue.fm/archives/9752",
+          "author": "苏剑林",
+          "description": "目前在LLM中最流行的Tokenizer（分词器）应该是Google的SentencePiece了，因为它符合Tokenizer的一些理想特性，比如语言无关、数据驱动等，并且由于它是C++写的，...",
+          "link": "https://kexue.fm/archives/9752",
+          "publishedOn": "2023-09-07T07:05:00.000Z",
+          "wordCount": 1533,
+          "title": "BytePiece：更纯粹、更高压缩率的Tokenizer",
+          "imageUrl": null
+        },
+        {
           "id": "https://kexue.fm/archives/9736",
           "author": "苏剑林",
           "description": "打从在《Tiger：一个“抠”到极致的优化器》提出了Tiger优化器之后，Tiger就一直成为了我训练模型的“标配”优化器。最近笔者已经尝试将Tiger用到了70亿参数模型的预训练之中，前期效果...",
@@ -2644,16 +2654,6 @@
           "publishedOn": "2023-08-09T05:00:17.000Z",
           "wordCount": 1953,
           "title": "It's so hard to say \"goodbye\" in Chinese",
-          "imageUrl": null
-        },
-        {
-          "id": "https://languagelog.ldc.upenn.edu/nll/?p=60081",
-          "author": "Mark Liberman",
-          "description": "…though they often do a credible job of faking it.  An interesting (preprint) paper by Konstantine Arkoudas, \"GPT-4 Can't Reason\", brings the receipts. The abstract: GPT-4 was released in March 2023 to wide acclaim, marking a very substantial improvement across the board over GPT-3.5 (OpenAI’s previously best model, which had powered the initial release of […]",
-          "link": "https://languagelog.ldc.upenn.edu/nll/?p=60081&utm_source=rss&utm_medium=rss&utm_campaign=llms-cant-reason",
-          "publishedOn": "2023-08-08T18:27:54.000Z",
-          "wordCount": 2833,
-          "title": "LLMs can't reason?",
           "imageUrl": null
         }
       ]
