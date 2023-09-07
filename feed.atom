@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-09-07T14:19:08.157Z</updated>
+    <updated>2023-09-07T15:15:23.948Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[MLIR — Using Traits]]></title>
+        <id>https://jeremykun.com/?p=119774</id>
+        <link href="https://jeremykun.com/2023/09/07/mlir-using-traits/"/>
+        <updated>2023-09-07T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Table of Contents Last time we defined a new dialect poly for polynomial arithmetic. This time we’ll spruce up the dialect by adding some pre-defined MLIR traits, and see how the application of traits enables some general purpose passes to optimize poly programs. The code for this article is in this pull request, and as […]]]></summary>
+        <author>
+            <name>Jeremy Kun</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[On-the-job jargon]]></title>
         <id>https://languagelog.ldc.upenn.edu/nll/?p=60516</id>
@@ -2551,37 +2561,6 @@ The last few years have seen rapid progress in systems that can automatically pr
         <summary type="html"><![CDATA[From a photo sharing group on Facebook: The Chinese says: fēnshǒu 分手 "separate; (bid) farewell; part(ing); part company; break up (with); split up; end a relationship") Cf. fēnshǒu xìn 分手信 ("break up letter; Dear John letter"). Selected readings "Luv u" (4/29/17) "'Waiving goodbye'" (9/21/20) "Goodbye to Hello" (10/3/22) "'Just ghost'" (7/6/20) "Have a good / […]]]></summary>
         <author>
             <name>Victor Mair</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Inferring the finest pattern of mutual independence from data]]></title>
-        <id>http://arxiv.org/abs/2306.12984</id>
-        <link href="http://arxiv.org/abs/2306.12984"/>
-        <updated>2023-08-09T02:29:07.753Z</updated>
-        <summary type="html"><![CDATA[G. Marrelec, A. Giron]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Shuffle SGD is Always Better than SGD: Improved Analysis of SGD with
-  Arbitrary Data Orders]]></title>
-        <id>http://arxiv.org/abs/2305.19259</id>
-        <link href="http://arxiv.org/abs/2305.19259"/>
-        <updated>2023-08-09T02:29:07.722Z</updated>
-        <summary type="html"><![CDATA[Anastasia Koloskova, Nikita Doikov, Sebastian U. Stich, Martin Jaggi]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Can We Trust Race Prediction?]]></title>
-        <id>http://arxiv.org/abs/2307.08496</id>
-        <link href="http://arxiv.org/abs/2307.08496"/>
-        <updated>2023-08-09T02:29:07.710Z</updated>
-        <summary type="html"><![CDATA[Cangyuan Li]]></summary>
-        <author>
-            <name>arxivist feed</name>
         </author>
     </entry>
 </feed>

@@ -954,36 +954,6 @@
           "wordCount": 704,
           "title": "A Critical Review of Physics-Informed Machine Learning Applications in\n  Subsurface Energy Systems",
           "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
-        },
-        {
-          "id": "http://arxiv.org/abs/2306.12984",
-          "author": null,
-          "description": "G. Marrelec, A. Giron",
-          "link": "http://arxiv.org/abs/2306.12984",
-          "publishedOn": "2023-08-09T02:29:07.753Z",
-          "wordCount": 771,
-          "title": "Inferring the finest pattern of mutual independence from data",
-          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
-        },
-        {
-          "id": "http://arxiv.org/abs/2305.19259",
-          "author": null,
-          "description": "Anastasia Koloskova, Nikita Doikov, Sebastian U. Stich, Martin Jaggi",
-          "link": "http://arxiv.org/abs/2305.19259",
-          "publishedOn": "2023-08-09T02:29:07.722Z",
-          "wordCount": 720,
-          "title": "Shuffle SGD is Always Better than SGD: Improved Analysis of SGD with\n  Arbitrary Data Orders",
-          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
-        },
-        {
-          "id": "http://arxiv.org/abs/2307.08496",
-          "author": null,
-          "description": "Cangyuan Li",
-          "link": "http://arxiv.org/abs/2307.08496",
-          "publishedOn": "2023-08-09T02:29:07.710Z",
-          "wordCount": 631,
-          "title": "Can We Trust Race Prediction?",
-          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
         }
       ]
     },
@@ -1325,6 +1295,16 @@
       "feedUrl": "https://jeremykun.com/feed/",
       "siteUrl": "https://jeremykun.com",
       "articles": [
+        {
+          "id": "https://jeremykun.com/?p=119774",
+          "author": "Jeremy Kun",
+          "description": "Table of Contents Last time we defined a new dialect poly for polynomial arithmetic. This time we’ll spruce up the dialect by adding some pre-defined MLIR traits, and see how the application of traits enables some general purpose passes to optimize poly programs. The code for this article is in this pull request, and as […]",
+          "link": "https://jeremykun.com/2023/09/07/mlir-using-traits/",
+          "publishedOn": "2023-09-07T15:00:00.000Z",
+          "wordCount": 3893,
+          "title": "MLIR — Using Traits",
+          "imageUrl": "https://s0.wp.com/i/blank.jpg"
+        },
         {
           "id": "https://jeremykun.com/?p=119800",
           "author": "Jeremy Kun",
