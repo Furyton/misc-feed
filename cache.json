@@ -1424,6 +1424,16 @@
       "siteUrl": "https://xianblog.wordpress.com",
       "articles": [
         {
+          "id": "http://xianblog.wordpress.com/?p=54001",
+          "author": "xi'an",
+          "description": "“[the UK rejoining Horizon Europe programme is] fantastic news not just for the UK but for scientists across the EU and for all the people of Europe”. Sir Adrian Smith, president of the Royal Society The EU and the UK Government have come to an agreement on the UK rejoining the Horizon Europe funding programme […]",
+          "link": "https://xianblog.wordpress.com/2023/09/08/back-to-horizon/",
+          "publishedOn": "2023-09-07T22:23:22.000Z",
+          "wordCount": 1959,
+          "title": "back to horizon",
+          "imageUrl": "https://efmc.eu/contentefmc2014/uploads/2021/03/Picture-1-Clusters-min.jpg"
+        },
+        {
           "id": "http://xianblog.wordpress.com/?p=53505",
           "author": "xi'an",
           "description": "Visit the post for more.",
@@ -1743,6 +1753,16 @@
       "feedUrl": "http://feeds.feedburner.com/blogspot/gJZg",
       "siteUrl": "http://blog.research.google/",
       "articles": [
+        {
+          "id": "http://blog.research.google/2023/09/a-novel-computational-fluid-dynamics.html",
+          "author": null,
+          "description": "Posted by Shantanu Shahane, Software Engineer, and Matthias Ihme, Research Scientist, Athena Team\n\n\n\n\nTurbulence is ubiquitous in environmental and engineering fluid flows, and is encountered routinely in everyday life. A better understanding of these turbulent processes could provide valuable insights across a variety of research areas — improving the prediction of cloud formation by atmospheric transport and the spreading of wildfires by turbulent energy exchange, understanding sedimentation of deposits in rivers, and improving the efficiency of combustion in aircraft engines to reduce emissions, to name a few. However, despite its importance, our current understanding and our ability to reliably predict such flows remains limited. This is mainly attributed to the highly chaotic nature a…",
+          "link": "http://blog.research.google/2023/09/a-novel-computational-fluid-dynamics.html",
+          "publishedOn": "2023-09-07T22:03:00.000Z",
+          "wordCount": 27976,
+          "title": "A novel computational fluid dynamics framework for turbulent flow research",
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi64RuCU05-EPPWn16XFfdaYYsN4F3WexwvCG-tto-hzDxR2kEsRpngok6epC9bApbGhaYWLsT4r1oj5zaGDi3JygwZWAsOpeJy6WgBiBJ5tBjp-nEP9LDoiF56tqNq0wtkKjiIAzaCwinN8TXddkODNGBlf8PDZmOhZwC92mCfPwFwXFm5P7rRQCfuzZ8E/w1200-h630-p-k-no-nu/image1.png"
+        },
         {
           "id": "http://blog.research.google/2023/09/tsmixer-all-mlp-architecture-for-time.html",
           "author": null,
