@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-09-08T06:19:13.832Z</updated>
+    <updated>2023-09-08T07:13:26.883Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -2601,36 +2601,6 @@ Reading has many benefits for young students, such as better linguistic and life
         <summary type="html"><![CDATA[Alex Bauman sent in this real-estate ad from Singapore: For the fully hyper-hyphenated experience, click here… I've managed somehow to live many decades in this world without ever registering the existence of the word multi-hyphenate. In fairness to me, it hasn't had its OED Word Induction Ceremony yet. And Merriam-Websters is similarly uninformed. But Wiktionary […]]]></summary>
         <author>
             <name>Mark Liberman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Advances in document understanding]]></title>
-        <id>http://blog.research.google/2023/08/advances-in-document-understanding.html</id>
-        <link href="http://blog.research.google/2023/08/advances-in-document-understanding.html"/>
-        <updated>2023-08-09T18:32:00.001Z</updated>
-        <summary type="html"><![CDATA[Posted by Sandeep Tata, Software Engineer, Google Research, Athena Team
-
-
-
-
-The last few years have seen rapid progress in systems that can automatically process complex business documents and turn them into structured objects. A system that can automatically extract data from documents, e.g., receipts, insurance quotes, and financial statements, has the potential to dramatically improve the efficiency of business workflows by avoiding error-prone, manual work. Recent models, based on the Transformer architecture, have shown impressive gains in accuracy. Larger models, such as PaLM 2, are also being leveraged to further streamline these business workflows. However, the datasets used in academic literature fail to capture the challenges seen in real-world use cases. Consequently, academic b…]]></summary>
-        <author>
-            <name>Google AI Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Advances in document understanding]]></title>
-        <id>http://ai.googleblog.com/2023/08/advances-in-document-understanding.html</id>
-        <link href="http://ai.googleblog.com/2023/08/advances-in-document-understanding.html"/>
-        <updated>2023-08-09T18:32:00.001Z</updated>
-        <summary type="html"><![CDATA[Posted by Sandeep Tata, Software Engineer, Google Research, Athena Team
-
-
-
-
-The last few years have seen rapid progress in systems that can automatically process complex business documents and turn them into structured objects. A system that can automatically extract data from documents, e.g., receipts, insurance quotes, and financial statements, has the potential to dramatically improve the efficiency of business workflows by avoiding error-prone, manual work. Recent models, based on the Transformer architecture, have shown impressive gains in accuracy. Larger models, such as PaLM 2, are also being leveraged to further streamline these business workflows. However, the datasets used in academic literature fail to capture the challenges seen in real-world use cases. Consequently, academic b…]]></summary>
-        <author>
-            <name>Google AI Blog</name>
         </author>
     </entry>
 </feed>
