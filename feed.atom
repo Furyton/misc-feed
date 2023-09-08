@@ -2,10 +2,75 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-09-08T01:03:51.367Z</updated>
+    <updated>2023-09-08T02:20:13.251Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Tom Goldstein - Dataset security issues in generative AI]]></title>
+        <id>https://mlfoundations.org/talk/tom/</id>
+        <link href="https://mlfoundations.org/talk/tom/"/>
+        <updated>2023-09-08T14:15:00.000Z</updated>
+        <summary type="html"><![CDATA[Machine learning systems are built using large troves of training data that may contain private or copyrighted content. In this talk, I'll survey a number of security issues that arise when sensitive data is used. I'll begin by talking about attack methods that extract private training data from federated learning protocols. Then, I'll discuss data privacy issues that arise when using generative models. These models are often created using a training objective that explicitly promotes their ability to regenerate their training data, causing a host of issues.]]></summary>
+        <author>
+            <name>Harvard ML Foundations</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Deep Metric Learning with Chance Constraints]]></title>
+        <id>http://arxiv.org/abs/2209.09060</id>
+        <link href="http://arxiv.org/abs/2209.09060"/>
+        <updated>2023-09-08T02:20:06.402Z</updated>
+        <summary type="html"><![CDATA[Yeti Z. Gurbuz, Ogul Can, A. Aydin Alatan]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pareto Frontiers in Neural Feature Learning: Data, Compute, Width, and
+  Luck]]></title>
+        <id>http://arxiv.org/abs/2309.03800</id>
+        <link href="http://arxiv.org/abs/2309.03800"/>
+        <updated>2023-09-08T02:20:06.095Z</updated>
+        <summary type="html"><![CDATA[Benjamin L. Edelman, Surbhi Goel, Sham Kakade, Eran Malach, Cyril
+  Zhang]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Neural lasso: a unifying approach of lasso and neural networks]]></title>
+        <id>http://arxiv.org/abs/2309.03770</id>
+        <link href="http://arxiv.org/abs/2309.03770"/>
+        <updated>2023-09-08T02:20:06.089Z</updated>
+        <summary type="html"><![CDATA[David Delgado, Ernesto Curbelo, Danae Carreras]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Enhancing Pipeline-Based Conversational Agents with Large Language
+  Models]]></title>
+        <id>http://arxiv.org/abs/2309.03748</id>
+        <link href="http://arxiv.org/abs/2309.03748"/>
+        <updated>2023-09-08T02:20:04.935Z</updated>
+        <summary type="html"><![CDATA[Mina Foosherian, Hendrik Purwins, Purna Rathnayake, Touhidul Alam, Rui
+  Teimao, Klaus-Dieter Thoben]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Adversarially Robust Deep Learning with Optimal-Transport-Regularized
+  Divergences]]></title>
+        <id>http://arxiv.org/abs/2309.03791</id>
+        <link href="http://arxiv.org/abs/2309.03791"/>
+        <updated>2023-09-08T02:20:04.929Z</updated>
+        <summary type="html"><![CDATA[Jeremiah Birrell, Mohammadreza Ebrahimi]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[back to horizon]]></title>
         <id>http://xianblog.wordpress.com/?p=54001</id>
