@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-09-08T11:12:12.639Z</updated>
+    <updated>2023-09-08T12:27:51.166Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -14,6 +14,16 @@
         <summary type="html"><![CDATA[Machine learning systems are built using large troves of training data that may contain private or copyrighted content. In this talk, I'll survey a number of security issues that arise when sensitive data is used. I'll begin by talking about attack methods that extract private training data from federated learning protocols. Then, I'll discuss data privacy issues that arise when using generative models. These models are often created using a training objective that explicitly promotes their ability to regenerate their training data, causing a host of issues.]]></summary>
         <author>
             <name>Harvard ML Foundations</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Black Hand:  Language Log foretells the future]]></title>
+        <id>https://languagelog.ldc.upenn.edu/nll/?p=60519</id>
+        <link href="https://languagelog.ldc.upenn.edu/nll/?p=60519&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=black-hand-language-log-foretells-the-future"/>
+        <updated>2023-09-08T11:43:48.000Z</updated>
+        <summary type="html"><![CDATA[From Brian Miller: I believe it was your comment here on a 2019 use of a phrase in China politics or press “Thus my second surmise was that, by 'black hand', the CCP / PRC mean 'stealthy manipulator who remains totally out of view'.  But how does it get that meaning in Chinese?” I think […]]]></summary>
+        <author>
+            <name>Victor Mair</name>
         </author>
     </entry>
     <entry>
