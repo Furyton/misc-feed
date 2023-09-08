@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-09-08T21:12:46.753Z</updated>
+    <updated>2023-09-08T22:13:27.179Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -2526,16 +2526,6 @@ Reading has many benefits for young students, such as better linguistic and life
         <summary type="html"><![CDATA[Today my team at Google published an article on Google’s Developers Blog with some updates on what we’ve been doing with fully homomorphic encryption (FHE). There’s fun stuff in there, including work on video processing FHE, compiling ML models to FHE, an FHE implementation for TPUs, and improvements to the compiler I wrote about earlier […]]]></summary>
         <author>
             <name>Jeremy Kun</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PIE *gene- *gwen-]]></title>
-        <id>https://languagelog.ldc.upenn.edu/nll/?p=60080</id>
-        <link href="https://languagelog.ldc.upenn.edu/nll/?p=60080&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=pie-gene-gwen"/>
-        <updated>2023-08-10T08:40:20.000Z</updated>
-        <summary type="html"><![CDATA[I asked several Indo-Europeanist colleagues: In Hittite, Tocharian, Indo-Iranian (Indic and Persian), Greek, Albanian, Germanic, Armenian, Celtic, Anatolian, Italic, Lithuanian, Balto-Slavic, Macedonian, Phrygian, and other IE languages, do you ever find reflexes (derivatives) of these two PIE roots in close association / linkage with each other? PIE root *gene- "give birth, beget," with derivatives referring […]]]></summary>
-        <author>
-            <name>Victor Mair</name>
         </author>
     </entry>
 </feed>
