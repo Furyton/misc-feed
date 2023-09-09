@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-09-09T14:11:49.359Z</updated>
+    <updated>2023-09-09T15:13:11.320Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -2443,39 +2443,6 @@ Reading has many benefits for young students, such as better linguistic and life
         <summary type="html"><![CDATA[Small updates. I wrote a post about the overwhelming mathematical activities in the lat week of April 2023 and the following weeks were as exciting. It was difficult to follow all the activities (not to mention blogging about them). Let … Continue reading →]]></summary>
         <author>
             <name>Gil Kalai</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learning ground states of gapped quantum Hamiltonians with Kernel
-  Methods]]></title>
-        <id>http://arxiv.org/abs/2303.08902</id>
-        <link href="http://arxiv.org/abs/2303.08902"/>
-        <updated>2023-08-11T02:18:06.059Z</updated>
-        <summary type="html"><![CDATA[Clemens Giuliani, Filippo Vicentini, Riccardo Rossi, Giuseppe Carleo]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Neural Networks for Scalar Input and Functional Output]]></title>
-        <id>http://arxiv.org/abs/2208.05776</id>
-        <link href="http://arxiv.org/abs/2208.05776"/>
-        <updated>2023-08-11T02:18:05.885Z</updated>
-        <summary type="html"><![CDATA[Sidi Wu, C\'edric Beaulac, Jiguo Cao]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Updating Clinical Risk Stratification Models Using Rank-Based
-  Compatibility: Approaches for Evaluating and Optimizing Clinician-Model Team
-  Performance]]></title>
-        <id>http://arxiv.org/abs/2308.05619</id>
-        <link href="http://arxiv.org/abs/2308.05619"/>
-        <updated>2023-08-11T02:18:05.874Z</updated>
-        <summary type="html"><![CDATA[Erkin \"Otle\c{s}, Brian T. Denton, Jenna Wiens]]></summary>
-        <author>
-            <name>arxivist feed</name>
         </author>
     </entry>
 </feed>
