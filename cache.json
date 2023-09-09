@@ -1335,46 +1335,6 @@
           "wordCount": 5250,
           "title": "MLIR — Defining a New Dialect",
           "imageUrl": "https://jeremykun.com/wp-content/uploads/2023/08/image.png"
-        },
-        {
-          "id": "https://jeremykun.com/?p=119631",
-          "author": "Jeremy Kun",
-          "description": "Table of Contents In the last article in this series, we defined some custom lowering passes that modified an MLIR program. Notably, we accomplished that by implementing the required interfaces of the MLIR API directly. This is not the way that most MLIR developers work. Instead, they use a code generation tool called tablegen to […]",
-          "link": "https://jeremykun.com/2023/08/10/mlir-using-tablegen-for-passes/",
-          "publishedOn": "2023-08-10T21:41:45.000Z",
-          "wordCount": 4151,
-          "title": "MLIR — Using Tablegen for Passes",
-          "imageUrl": "https://s0.wp.com/i/blank.jpg"
-        },
-        {
-          "id": "https://jeremykun.com/?p=119490",
-          "author": "Jeremy Kun",
-          "description": "Table of Contents This series is an introduction to MLIR and an onboarding tutorial for the HEIR project. Last time we saw how to run and test a basic lowering. This time we will write some simple passes to illustrate the various parts of the MLIR API and the pass infrastructure. As mentioned previously, the […]",
-          "link": "https://jeremykun.com/2023/08/10/mlir-writing-our-first-pass/",
-          "publishedOn": "2023-08-10T21:39:42.000Z",
-          "wordCount": 5718,
-          "title": "MLIR — Writing Our First Pass",
-          "imageUrl": "https://s0.wp.com/i/blank.jpg"
-        },
-        {
-          "id": "https://jeremykun.com/?p=119430",
-          "author": "Jeremy Kun",
-          "description": "Table of Contents Last time, we covered a Bazel build system setup for an MLIR project. This time we’ll give an overview of a simple lowering and show how end-to-end tests work in MLIR. All of the code for this article is contained in this pull request on GitHub, and the commits are nicely organized […]",
-          "link": "https://jeremykun.com/2023/08/10/mlir-running-and-testing-a-lowering/",
-          "publishedOn": "2023-08-10T21:36:13.000Z",
-          "wordCount": 6093,
-          "title": "MLIR — Running and Testing a Lowering",
-          "imageUrl": "https://s0.wp.com/i/blank.jpg"
-        },
-        {
-          "id": "https://jeremykun.com/?p=119363",
-          "author": "Jeremy Kun",
-          "description": "Table of Contents As we announced recently, my team at Google has started a new effort to build production-worthy engineering tools for Fully Homomorphic Encryption (FHE). One focal point of this, and one which I’ll be focusing on as long as Google is willing to pay me to do so, is building out a compiler […]",
-          "link": "https://jeremykun.com/2023/08/10/mlir-getting-started/",
-          "publishedOn": "2023-08-10T21:32:33.000Z",
-          "wordCount": 4835,
-          "title": "MLIR — Getting Started",
-          "imageUrl": "https://s0.wp.com/i/blank.jpg"
         }
       ]
     },

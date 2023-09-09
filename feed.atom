@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-09-09T09:12:38.530Z</updated>
+    <updated>2023-09-09T10:13:57.756Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -2486,46 +2486,6 @@ Reading has many benefits for young students, such as better linguistic and life
         <summary type="html"><![CDATA[On the trail to Burgess Pass,we passed this wooden structure that had something bearish in it (at least in my short-sighted view!). And the day after, saw this 21 year old grizzly bear in an orphan bear refuge where he had spent most of his life after his mother was killed by a hunter. Magnificent […]]]></summary>
         <author>
             <name>xi'an</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MLIR — Using Tablegen for Passes]]></title>
-        <id>https://jeremykun.com/?p=119631</id>
-        <link href="https://jeremykun.com/2023/08/10/mlir-using-tablegen-for-passes/"/>
-        <updated>2023-08-10T21:41:45.000Z</updated>
-        <summary type="html"><![CDATA[Table of Contents In the last article in this series, we defined some custom lowering passes that modified an MLIR program. Notably, we accomplished that by implementing the required interfaces of the MLIR API directly. This is not the way that most MLIR developers work. Instead, they use a code generation tool called tablegen to […]]]></summary>
-        <author>
-            <name>Jeremy Kun</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MLIR — Writing Our First Pass]]></title>
-        <id>https://jeremykun.com/?p=119490</id>
-        <link href="https://jeremykun.com/2023/08/10/mlir-writing-our-first-pass/"/>
-        <updated>2023-08-10T21:39:42.000Z</updated>
-        <summary type="html"><![CDATA[Table of Contents This series is an introduction to MLIR and an onboarding tutorial for the HEIR project. Last time we saw how to run and test a basic lowering. This time we will write some simple passes to illustrate the various parts of the MLIR API and the pass infrastructure. As mentioned previously, the […]]]></summary>
-        <author>
-            <name>Jeremy Kun</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MLIR — Running and Testing a Lowering]]></title>
-        <id>https://jeremykun.com/?p=119430</id>
-        <link href="https://jeremykun.com/2023/08/10/mlir-running-and-testing-a-lowering/"/>
-        <updated>2023-08-10T21:36:13.000Z</updated>
-        <summary type="html"><![CDATA[Table of Contents Last time, we covered a Bazel build system setup for an MLIR project. This time we’ll give an overview of a simple lowering and show how end-to-end tests work in MLIR. All of the code for this article is contained in this pull request on GitHub, and the commits are nicely organized […]]]></summary>
-        <author>
-            <name>Jeremy Kun</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MLIR — Getting Started]]></title>
-        <id>https://jeremykun.com/?p=119363</id>
-        <link href="https://jeremykun.com/2023/08/10/mlir-getting-started/"/>
-        <updated>2023-08-10T21:32:33.000Z</updated>
-        <summary type="html"><![CDATA[Table of Contents As we announced recently, my team at Google has started a new effort to build production-worthy engineering tools for Fully Homomorphic Encryption (FHE). One focal point of this, and one which I’ll be focusing on as long as Google is willing to pay me to do so, is building out a compiler […]]]></summary>
-        <author>
-            <name>Jeremy Kun</name>
         </author>
     </entry>
 </feed>
