@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-09-09T11:11:01.381Z</updated>
+    <updated>2023-09-09T12:25:17.000Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Hurrian hymn from Ugarit, Canaan in northern Syria, 1400 BC]]></title>
+        <id>https://languagelog.ldc.upenn.edu/nll/?p=60527</id>
+        <link href="https://languagelog.ldc.upenn.edu/nll/?p=60527&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=hurrian-hymn-from-ugarit-canaan-in-northern-syria-1400-bc"/>
+        <updated>2023-09-09T11:52:06.000Z</updated>
+        <summary type="html"><![CDATA["The Oldest (Known) Song of All Time" Includes spectrograms of different reconstructions. Although this YouTube was made three years ago, I am calling it to the attention of Language Log readers now that I know about it because it draws together many themes we have discussed in previous posts. Note by the author, hochelaga: The […]]]></summary>
+        <author>
+            <name>Victor Mair</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Inverted writing in video subtitles:  traditional cotton processing]]></title>
         <id>https://languagelog.ldc.upenn.edu/nll/?p=60523</id>
@@ -2466,16 +2476,6 @@ Reading has many benefits for young students, such as better linguistic and life
         <summary type="html"><![CDATA[Erkin \"Otle\c{s}, Brian T. Denton, Jenna Wiens]]></summary>
         <author>
             <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ta Mother Noodle]]></title>
-        <id>https://languagelog.ldc.upenn.edu/nll/?p=60106</id>
-        <link href="https://languagelog.ldc.upenn.edu/nll/?p=60106&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=ta-mother-noodle"/>
-        <updated>2023-08-10T23:25:27.000Z</updated>
-        <summary type="html"><![CDATA[Sign on a noodle shop in Xindan, Taiwan: (Via Google Street View) Mark Swofford has written a nice post about this on Pinyin News:  "Mother-effing noodles". As anyone who has studied more than a few months of Chinese or is a regular Language Log reader knows, "his mother's" (tāmā de) is China's "national swear" (see […]]]></summary>
-        <author>
-            <name>Victor Mair</name>
         </author>
     </entry>
 </feed>
