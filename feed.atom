@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-09-09T22:13:08.014Z</updated>
+    <updated>2023-09-09T23:13:14.531Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[approximate computation for exact statistical inference from differentially private data]]></title>
+        <id>http://xianblog.wordpress.com/?p=53876</id>
+        <link href="https://xianblog.wordpress.com/2023/09/10/approximate-computation-for-exact-statistical-inference-from-differentially-private-data/"/>
+        <updated>2023-09-09T22:23:35.000Z</updated>
+        <summary type="html"><![CDATA[“the employment of ABC for differentially private data serendipitously eradicates the “approximate” nature of the resulting posterior  samples, which otherwise would be the case if the data were noise-free.” In parallel or conjunction with the 23w5601 workshop, I was reading some privacy literature and came across this Exact inference with approximate computation for differentially private […]]]></summary>
+        <author>
+            <name>xi'an</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hurrian hymn from Ugarit, Canaan in northern Syria, 1400 BC]]></title>
         <id>https://languagelog.ldc.upenn.edu/nll/?p=60527</id>
@@ -2423,26 +2433,6 @@ Reading has many benefits for young students, such as better linguistic and life
         <summary type="html"><![CDATA[…if you haven't noticed, is good. There are many applications, from conversing with Siri and Alexa and Google Assistant, to getting voicemail in textual form, to automatically generated subtitles, and so on. For linguists, one parochial (but important) application is accurate automatic transcription of speech corpora, and the example that motivates this post comes from […]]]></summary>
         <author>
             <name>Mark Liberman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cheerful news in difficult times: David Conlon and Jeck Lim settled Kupitz’s planar discrepancy problem for pseudolines.]]></title>
-        <id>http://gilkalai.wordpress.com/?p=24665</id>
-        <link href="https://gilkalai.wordpress.com/2023/08/11/cheerful-news-in-difficult-times-david-conlon-and-jeck-lim-settled-kupitzs-planar-discrepancy-problem-for-pseudolines/"/>
-        <updated>2023-08-11T10:56:48.000Z</updated>
-        <summary type="html"><![CDATA[Small updates. I wrote a post about the overwhelming mathematical activities in the lat week of April 2023 and the following weeks were as exciting. It was difficult to follow all the activities (not to mention blogging about them). Let … Continue reading →]]></summary>
-        <author>
-            <name>Gil Kalai</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cheerful news in difficult times: David Conlon and Jeck Lim settled Kupitz’s planar discrepancy problem for pseudolines.]]></title>
-        <id>http://gilkalai.wordpress.com/?p=24665</id>
-        <link href="https://gilkalai.wordpress.com/2023/08/11/cheerful-news-in-difficult-times-david-conlon-and-jeck-lim-settled-kupitzs-planar-discrepancy-problem-for-pseudolines/"/>
-        <updated>2023-08-11T10:56:48.000Z</updated>
-        <summary type="html"><![CDATA[Small updates. I wrote a post about the overwhelming mathematical activities in the lat week of April 2023 and the following weeks were as exciting. It was difficult to follow all the activities (not to mention blogging about them). Let … Continue reading →]]></summary>
-        <author>
-            <name>Gil Kalai</name>
         </author>
     </entry>
 </feed>

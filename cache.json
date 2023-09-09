@@ -953,18 +953,7 @@
       "title": "Combinatorics and more",
       "feedUrl": "https://gilkalai.wordpress.com/feed/",
       "siteUrl": "https://gilkalai.wordpress.com",
-      "articles": [
-        {
-          "id": "http://gilkalai.wordpress.com/?p=24665",
-          "author": "Gil Kalai",
-          "description": "Small updates. I wrote a post about the overwhelming mathematical activities in the lat week of April 2023 and the following weeks were as exciting. It was difficult to follow all the activities (not to mention blogging about them). Let … Continue reading →",
-          "link": "https://gilkalai.wordpress.com/2023/08/11/cheerful-news-in-difficult-times-david-conlon-and-jeck-lim-settled-kupitzs-planar-discrepancy-problem-for-pseudolines/",
-          "publishedOn": "2023-08-11T10:56:48.000Z",
-          "wordCount": 3630,
-          "title": "Cheerful news in difficult times: David Conlon and Jeck Lim settled Kupitz’s planar discrepancy problem for pseudolines.",
-          "imageUrl": "https://gilkalai.files.wordpress.com/2023/08/kupitz-pr.png"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Parsiad Azimzadeh",
@@ -1330,18 +1319,7 @@
       "title": "Combinatorics and more",
       "feedUrl": "https://gilkalai.wordpress.com/feed/",
       "siteUrl": "https://gilkalai.wordpress.com",
-      "articles": [
-        {
-          "id": "http://gilkalai.wordpress.com/?p=24665",
-          "author": "Gil Kalai",
-          "description": "Small updates. I wrote a post about the overwhelming mathematical activities in the lat week of April 2023 and the following weeks were as exciting. It was difficult to follow all the activities (not to mention blogging about them). Let … Continue reading →",
-          "link": "https://gilkalai.wordpress.com/2023/08/11/cheerful-news-in-difficult-times-david-conlon-and-jeck-lim-settled-kupitzs-planar-discrepancy-problem-for-pseudolines/",
-          "publishedOn": "2023-08-11T10:56:48.000Z",
-          "wordCount": 3630,
-          "title": "Cheerful news in difficult times: David Conlon and Jeck Lim settled Kupitz’s planar discrepancy problem for pseudolines.",
-          "imageUrl": "https://gilkalai.files.wordpress.com/2023/08/kupitz-pr.png"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Skywind Inside",
@@ -1354,6 +1332,16 @@
       "feedUrl": "https://xianblog.wordpress.com/feed/",
       "siteUrl": "https://xianblog.wordpress.com",
       "articles": [
+        {
+          "id": "http://xianblog.wordpress.com/?p=53876",
+          "author": "xi'an",
+          "description": "“the employment of ABC for differentially private data serendipitously eradicates the “approximate” nature of the resulting posterior  samples, which otherwise would be the case if the data were noise-free.” In parallel or conjunction with the 23w5601 workshop, I was reading some privacy literature and came across this Exact inference with approximate computation for differentially private […]",
+          "link": "https://xianblog.wordpress.com/2023/09/10/approximate-computation-for-exact-statistical-inference-from-differentially-private-data/",
+          "publishedOn": "2023-09-09T22:23:35.000Z",
+          "wordCount": 2135,
+          "title": "approximate computation for exact statistical inference from differentially private data",
+          "imageUrl": "https://xianblog.files.wordpress.com/2023/08/kelowna31-e1692880226442.jpg"
+        },
         {
           "id": "http://xianblog.wordpress.com/?p=53831",
           "author": "xi'an",
