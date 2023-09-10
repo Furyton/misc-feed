@@ -1343,6 +1343,16 @@
       "siteUrl": "https://xianblog.wordpress.com",
       "articles": [
         {
+          "id": "http://xianblog.wordpress.com/?p=54012",
+          "author": "xi'an",
+          "description": "Visit the post for more.",
+          "link": "https://xianblog.wordpress.com/2023/09/11/support-for-moroccans/",
+          "publishedOn": "2023-09-10T22:23:20.000Z",
+          "wordCount": 1823,
+          "title": "support for Moroccans",
+          "imageUrl": "https://www.msf.fr/sites/default/files/styles/contenu_article/public/2023-09/RTSNHYLU.JPG"
+        },
+        {
           "id": "http://xianblog.wordpress.com/?p=53876",
           "author": "xi'an",
           "description": "“the employment of ABC for differentially private data serendipitously eradicates the “approximate” nature of the resulting posterior  samples, which otherwise would be the case if the data were noise-free.” In parallel or conjunction with the 23w5601 workshop, I was reading some privacy literature and came across this Exact inference with approximate computation for differentially private […]",
