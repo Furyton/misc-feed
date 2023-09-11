@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-09-11T17:14:09.821Z</updated>
+    <updated>2023-09-11T18:19:14.678Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -151,6 +151,25 @@
         <summary type="html"><![CDATA[In an off-topic comment (4/27/08), DDeden requested an English translation of the subtitles of a video about "Cotton: from fluff to dyed cloth the traditional Chinese way" (the video is embedded in this tweet).  It seemed a worthwhile endeavor, since the film itself was visually quite informative, though the subtitles looked rather sketchy. I asked […]]]></summary>
         <author>
             <name>Victor Mair</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Differentially private median and more]]></title>
+        <id>http://blog.research.google/2023/09/differentially-private-median-and-more.html</id>
+        <link href="http://blog.research.google/2023/09/differentially-private-median-and-more.html"/>
+        <updated>2023-09-08T22:59:00.002Z</updated>
+        <summary type="html"><![CDATA[Posted by Edith Cohen and Uri Stemmer, Research Scientists, Google Research
+
+
+
+
+
+Differential privacy (DP) is a rigorous mathematical definition of privacy. DP algorithms are randomized to protect user data by ensuring that the probability of any particular output is nearly unchanged when a data point is added or removed. Therefore, the output of a DP algorithm does not disclose the presence of any one data point. There has been significant progress in both foundational research and adoption of differential privacy with contributions such as the Privacy Sandbox and Google Open Source Library.
+
+
+ML and data analytics algorithms can often be described as performing multiple basic computation steps on the same dataset. When each such step is differentially private, so is the output, but with …]]></summary>
+        <author>
+            <name>Google AI Blog</name>
         </author>
     </entry>
     <entry>
