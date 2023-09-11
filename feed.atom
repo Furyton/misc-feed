@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-09-11T13:19:00.228Z</updated>
+    <updated>2023-09-11T14:14:23.651Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[New models of speech timing?]]></title>
+        <id>https://languagelog.ldc.upenn.edu/nll/?p=60543</id>
+        <link href="https://languagelog.ldc.upenn.edu/nll/?p=60543&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=new-models-of-speech-timing"/>
+        <updated>2023-09-11T13:57:01.000Z</updated>
+        <summary type="html"><![CDATA[There are many statistics used to characterize timing patterns in speech, at various scales, with applications in many areas. Among them: Intervals  between phonetic events, by category and/or position and/or context; Overall measures of speaking rate (words per minute, syllables per minute), relative to total time or total speaking time (leaving out silences); Mean and […]]]></summary>
+        <author>
+            <name>Mark Liberman</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Network Revenue Management with Demand Learning and Fair
   Resource-Consumption Balancing]]></title>
