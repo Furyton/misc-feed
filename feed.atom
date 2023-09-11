@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-09-11T03:15:25.230Z</updated>
+    <updated>2023-09-11T04:17:36.477Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Network Revenue Management with Demand Learning and Fair
+  Resource-Consumption Balancing]]></title>
+        <id>http://arxiv.org/abs/2207.11159</id>
+        <link href="http://arxiv.org/abs/2207.11159"/>
+        <updated>2023-09-11T04:17:31.064Z</updated>
+        <summary type="html"><![CDATA[Xi Chen, Jiameng Lyu, Yining Wang, Yuan Zhou]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Optimal Rate of Kernel Regression in Large Dimensions]]></title>
         <id>http://arxiv.org/abs/2309.04268</id>
