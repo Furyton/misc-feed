@@ -2,10 +2,65 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-09-11T01:04:36.828Z</updated>
+    <updated>2023-09-11T02:21:01.050Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Optimal Rate of Kernel Regression in Large Dimensions]]></title>
+        <id>http://arxiv.org/abs/2309.04268</id>
+        <link href="http://arxiv.org/abs/2309.04268"/>
+        <updated>2023-09-11T02:20:52.531Z</updated>
+        <summary type="html"><![CDATA[Weihao Lu, Haobo Zhang, Yicheng Li, Manyun Xu, Qian Lin]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Adaptive Distributed Kernel Ridge Regression: A Feasible Distributed
+  Learning Scheme for Data Silos]]></title>
+        <id>http://arxiv.org/abs/2309.04236</id>
+        <link href="http://arxiv.org/abs/2309.04236"/>
+        <updated>2023-09-11T02:20:51.236Z</updated>
+        <summary type="html"><![CDATA[Di Wang, Xiaotong Liu, Shao-Bo Lin, Ding-Xuan Zhou]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Actor critic learning algorithms for mean-field control with moment
+  neural networks]]></title>
+        <id>http://arxiv.org/abs/2309.04317</id>
+        <link href="http://arxiv.org/abs/2309.04317"/>
+        <updated>2023-09-11T02:20:51.167Z</updated>
+        <summary type="html"><![CDATA[Huy\^en Pham, Xavier Warin]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Generalization Bounds: Perspectives from Information Theory and
+  PAC-Bayes]]></title>
+        <id>http://arxiv.org/abs/2309.04381</id>
+        <link href="http://arxiv.org/abs/2309.04381"/>
+        <updated>2023-09-11T02:20:51.160Z</updated>
+        <summary type="html"><![CDATA[Fredrik Hellstr\"om, Giuseppe Durisi, Benjamin Guedj, Maxim Raginsky]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Postprocessing of Ensemble Weather Forecasts Using Permutation-invariant
+  Neural Networks]]></title>
+        <id>http://arxiv.org/abs/2309.04452</id>
+        <link href="http://arxiv.org/abs/2309.04452"/>
+        <updated>2023-09-11T02:20:50.965Z</updated>
+        <summary type="html"><![CDATA[Kevin H\"ohlein, Benedikt Schulz, R\"udiger Westermann, Sebastian
+  Lerch]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[support for Moroccans]]></title>
         <id>http://xianblog.wordpress.com/?p=54012</id>

@@ -6,6 +6,56 @@
       "siteUrl": "https://www.arxivist.com",
       "articles": [
         {
+          "id": "http://arxiv.org/abs/2309.04268",
+          "author": null,
+          "description": "Weihao Lu, Haobo Zhang, Yicheng Li, Manyun Xu, Qian Lin",
+          "link": "http://arxiv.org/abs/2309.04268",
+          "publishedOn": "2023-09-11T02:20:52.531Z",
+          "wordCount": 708,
+          "title": "Optimal Rate of Kernel Regression in Large Dimensions",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2309.04236",
+          "author": null,
+          "description": "Di Wang, Xiaotong Liu, Shao-Bo Lin, Ding-Xuan Zhou",
+          "link": "http://arxiv.org/abs/2309.04236",
+          "publishedOn": "2023-09-11T02:20:51.236Z",
+          "wordCount": 730,
+          "title": "Adaptive Distributed Kernel Ridge Regression: A Feasible Distributed\n  Learning Scheme for Data Silos",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2309.04317",
+          "author": null,
+          "description": "Huy\\^en Pham, Xavier Warin",
+          "link": "http://arxiv.org/abs/2309.04317",
+          "publishedOn": "2023-09-11T02:20:51.167Z",
+          "wordCount": 643,
+          "title": "Actor critic learning algorithms for mean-field control with moment\n  neural networks",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2309.04381",
+          "author": null,
+          "description": "Fredrik Hellstr\\\"om, Giuseppe Durisi, Benjamin Guedj, Maxim Raginsky",
+          "link": "http://arxiv.org/abs/2309.04381",
+          "publishedOn": "2023-09-11T02:20:51.160Z",
+          "wordCount": 756,
+          "title": "Generalization Bounds: Perspectives from Information Theory and\n  PAC-Bayes",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2309.04452",
+          "author": null,
+          "description": "Kevin H\\\"ohlein, Benedikt Schulz, R\\\"udiger Westermann, Sebastian\n  Lerch",
+          "link": "http://arxiv.org/abs/2309.04452",
+          "publishedOn": "2023-09-11T02:20:50.965Z",
+          "wordCount": 706,
+          "title": "Postprocessing of Ensemble Weather Forecasts Using Permutation-invariant\n  Neural Networks",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
           "id": "http://arxiv.org/abs/2211.02241",
           "author": null,
           "description": "Sadamichi Maekawa, Takashi Kikkawa, Hiroyuki Chudo, Jun'ichi Ieda,\n  Eiji Saitoh",
