@@ -22,11 +22,45 @@
             data-action="toggle-accordions"
             title="Click to toggle the day, Ctrl + click to toggle all."
           >
-            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2023-09-11 datetime="2023-09-11T13:57:01.000Z">2023-09-11</time>
-            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2023-09-11 datetime="2023-09-11T13:57:01.000Z"></time>
+            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2023-09-11 datetime="2023-09-11T15:00:00.000Z">2023-09-11</time>
+            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2023-09-11 datetime="2023-09-11T15:00:00.000Z"></time>
           </button>
         </h2>
         <ul class="sources card">
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >Math ∩ Programming</button>
+                  <a class="source-heading__link" href="https://jeremykun.com">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://jeremykun.com/?p&#x3D;119834"
+                        open
+                      >
+                        <summary class="article-expander__title">MLIR — Folders and Constant Propagation</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://jeremykun.com/2023/09/11/mlir-folders/">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://s0.wp.com/i/blank.jpg" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>Table of Contents Last time we saw how to use pre-defined MLIR traits to enable upstream MLIR passes like loop-invariant-code-motion to apply to poly programs. We left out -sccp (sparse conditional constant propagation), and so this time we’ll add what is needed to make that pass work. It requires the concept of folding. The code […]</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;13
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
             <li class="card__section">
               <section class="js-toggle-accordions-scope">
                 <h3 class="source-heading">
@@ -6464,8 +6498,8 @@ Reading has many benefits for young students, such as better linguistic and life
       </section>
 
     <footer>
-      <a class="footer-link" href="https://github.com/Furyton/misc-feed/actions/runs/6147613885">
-        <time id="build-timestamp" datetime="2023-09-11T14:14:23.615Z">2023-09-11T14:14:23.615Z</time>
+      <a class="footer-link" href="https://github.com/Furyton/misc-feed/actions/runs/6148350606">
+        <time id="build-timestamp" datetime="2023-09-11T15:15:24.555Z">2023-09-11T15:15:24.555Z</time>
       </a>
       <a class="footer-link" href="https://github.com/osmoscraft/osmosfeed">osmosfeed 1.15.1</a>
     </footer>

@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-09-11T14:14:23.651Z</updated>
+    <updated>2023-09-11T15:15:24.600Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[MLIR — Folders and Constant Propagation]]></title>
+        <id>https://jeremykun.com/?p=119834</id>
+        <link href="https://jeremykun.com/2023/09/11/mlir-folders/"/>
+        <updated>2023-09-11T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Table of Contents Last time we saw how to use pre-defined MLIR traits to enable upstream MLIR passes like loop-invariant-code-motion to apply to poly programs. We left out -sccp (sparse conditional constant propagation), and so this time we’ll add what is needed to make that pass work. It requires the concept of folding. The code […]]]></summary>
+        <author>
+            <name>Jeremy Kun</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[New models of speech timing?]]></title>
         <id>https://languagelog.ldc.upenn.edu/nll/?p=60543</id>

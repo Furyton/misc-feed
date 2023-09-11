@@ -1306,6 +1306,16 @@
       "siteUrl": "https://jeremykun.com",
       "articles": [
         {
+          "id": "https://jeremykun.com/?p=119834",
+          "author": "Jeremy Kun",
+          "description": "Table of Contents Last time we saw how to use pre-defined MLIR traits to enable upstream MLIR passes like loop-invariant-code-motion to apply to poly programs. We left out -sccp (sparse conditional constant propagation), and so this time we’ll add what is needed to make that pass work. It requires the concept of folding. The code […]",
+          "link": "https://jeremykun.com/2023/09/11/mlir-folders/",
+          "publishedOn": "2023-09-11T15:00:00.000Z",
+          "wordCount": 3998,
+          "title": "MLIR — Folders and Constant Propagation",
+          "imageUrl": "https://s0.wp.com/i/blank.jpg"
+        },
+        {
           "id": "https://jeremykun.com/?p=119774",
           "author": "Jeremy Kun",
           "description": "Table of Contents Last time we defined a new dialect poly for polynomial arithmetic. This time we’ll spruce up the dialect by adding some pre-defined MLIR traits, and see how the application of traits enables some general purpose passes to optimize poly programs. The code for this article is in this pull request, and as […]",
