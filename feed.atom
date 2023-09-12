@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-09-12T14:14:13.595Z</updated>
+    <updated>2023-09-12T17:13:44.370Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -2405,16 +2405,6 @@ Reading has many benefits for young students, such as better linguistic and life
         <summary type="html"><![CDATA[Despite the evidence of my most recent relevant post, the best current speech-to-text systems still make mistakes that a literate and informed human wouldn't. In this recent YouTube video on the history of robotics research, the automatic closed-captioning system renders "DARPA" as "Dartmouth": The audio is clear enough: Your browser does not support the audio […]]]></summary>
         <author>
             <name>Mark Liberman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Transformer升级之路：13、逆用Leaky ReRoPE]]></title>
-        <id>https://kexue.fm/archives/9728</id>
-        <link href="https://kexue.fm/archives/9728"/>
-        <updated>2023-08-14T03:53:00.000Z</updated>
-        <summary type="html"><![CDATA[上周在《Transformer升级之路：12、无限外推的ReRoPE？》中，笔者提出了ReRoPE和Leaky ReRoPE，诸多实验结果表明，它们能够在几乎不损失训练效果的情况下免微调地扩展L...]]></summary>
-        <author>
-            <name>苏剑林</name>
         </author>
     </entry>
     <entry>
