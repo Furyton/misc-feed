@@ -1204,7 +1204,18 @@
       "title": "scikit-learn Blog",
       "feedUrl": "https://blog.scikit-learn.org/feed",
       "siteUrl": "https://blog.scikit-learn.org/",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://blog.scikit-learn.org/events/paris-dev-sprint/",
+          "author": null,
+          "description": "Author: Reshama Shaikh , François Goupil",
+          "link": "https://blog.scikit-learn.org/events/paris-dev-sprint/",
+          "publishedOn": "2023-09-10T00:00:00.000Z",
+          "wordCount": 659,
+          "title": "scikit-learn 2023 In-person Developer Sprint in Paris, France",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "Machine Learning (Theory)",

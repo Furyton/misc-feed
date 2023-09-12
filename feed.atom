@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-09-12T11:12:34.181Z</updated>
+    <updated>2023-09-12T14:14:13.595Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -131,6 +131,16 @@
   Eiji Saitoh]]></summary>
         <author>
             <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[scikit-learn 2023 In-person Developer Sprint in Paris, France]]></title>
+        <id>https://blog.scikit-learn.org/events/paris-dev-sprint/</id>
+        <link href="https://blog.scikit-learn.org/events/paris-dev-sprint/"/>
+        <updated>2023-09-10T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author: Reshama Shaikh , François Goupil]]></summary>
+        <author>
+            <name>scikit-learn Blog</name>
         </author>
     </entry>
     <entry>
