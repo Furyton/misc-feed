@@ -1254,6 +1254,16 @@
       "siteUrl": "https://pytorch.org/",
       "articles": [
         {
+          "id": "https://pytorch.org/blog/one-year-pytorch/",
+          "author": null,
+          "description": "It’s been one year since we announced the formation of the PyTorch Foundation! 🎉",
+          "link": "https://pytorch.org/blog/one-year-pytorch/",
+          "publishedOn": "2023-09-12T07:00:00.000Z",
+          "wordCount": 743,
+          "title": "One Year of PyTorch Foundation",
+          "imageUrl": "https://pytorch.org/assets/images/pytorch-logo.png"
+        },
+        {
           "id": "https://pytorch.org/blog/graphcore-joins-pytorch/",
           "author": null,
           "description": "<div type=\"html\"/>",
