@@ -894,96 +894,6 @@
           "wordCount": 634,
           "title": "Learning Ability of Interpolating Deep Convolutional Neural Networks",
           "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
-        },
-        {
-          "id": "http://arxiv.org/abs/1809.10469",
-          "author": null,
-          "description": "Xianghui Zhong",
-          "link": "http://arxiv.org/abs/1809.10469",
-          "publishedOn": "2023-08-15T03:14:32.337Z",
-          "wordCount": 688,
-          "title": "Probabilistic Analysis of Edge Elimination for Euclidean TSP",
-          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
-        },
-        {
-          "id": "http://arxiv.org/abs/1901.11127",
-          "author": null,
-          "description": "John Pardon",
-          "link": "http://arxiv.org/abs/1901.11127",
-          "publishedOn": "2023-08-15T03:14:32.317Z",
-          "wordCount": 556,
-          "title": "Smoothing finite group actions on three-manifolds",
-          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
-        },
-        {
-          "id": "http://arxiv.org/abs/1602.09052",
-          "author": null,
-          "description": "Jan van den Heuvel, Patrice Ossona de Mendez, Daniel Quiroz, Roman\n  Rabinovich, Sebastian Siebertz",
-          "link": "http://arxiv.org/abs/1602.09052",
-          "publishedOn": "2023-08-15T03:14:32.300Z",
-          "wordCount": 714,
-          "title": "On the Generalised Colouring Numbers of Graphs that Exclude a Fixed\n  Minor",
-          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
-        },
-        {
-          "id": "http://arxiv.org/abs/1908.00779",
-          "author": null,
-          "description": "Dieter Degrijse, Markus Hausmann, Wolfgang L\\\"uck, Irakli Patchkoria,\n  Stefan Schwede",
-          "link": "http://arxiv.org/abs/1908.00779",
-          "publishedOn": "2023-08-15T03:14:32.294Z",
-          "wordCount": 799,
-          "title": "Proper equivariant stable homotopy theory",
-          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
-        },
-        {
-          "id": "http://arxiv.org/abs/1707.07318",
-          "author": null,
-          "description": "John W. Bales",
-          "link": "http://arxiv.org/abs/1707.07318",
-          "publishedOn": "2023-08-15T03:14:32.272Z",
-          "wordCount": 688,
-          "title": "The eight Cayley-Dickson doubling products",
-          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
-        },
-        {
-          "id": "http://arxiv.org/abs/1903.10047",
-          "author": null,
-          "description": "Kenta Oono, Taiji Suzuki",
-          "link": "http://arxiv.org/abs/1903.10047",
-          "publishedOn": "2023-08-15T02:18:45.906Z",
-          "wordCount": 754,
-          "title": "Approximation and Non-parametric Estimation of ResNet-type Convolutional\n  Neural Networks",
-          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
-        },
-        {
-          "id": "http://arxiv.org/abs/2302.08942",
-          "author": null,
-          "description": "Sokhna Diarra Mbacke, Florence Clerc, Pascal Germain",
-          "link": "http://arxiv.org/abs/2302.08942",
-          "publishedOn": "2023-08-15T02:18:45.900Z",
-          "wordCount": 625,
-          "title": "PAC-Bayesian Generalization Bounds for Adversarial Generative Models",
-          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
-        },
-        {
-          "id": "http://arxiv.org/abs/2308.06422",
-          "author": null,
-          "description": "Seyedarmin Azizi, Mahdi Nazemi, Arash Fayyazi, Massoud Pedram",
-          "link": "http://arxiv.org/abs/2308.06422",
-          "publishedOn": "2023-08-15T02:18:45.879Z",
-          "wordCount": 739,
-          "title": "Sensitivity-Aware Mixed-Precision Quantization and Width Optimization of\n  Deep Neural Networks Through Cluster-Based Tree-Structured Parzen Estimation",
-          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
-        },
-        {
-          "id": "http://arxiv.org/abs/2308.06399",
-          "author": null,
-          "description": "Lorenzo Vallegi, Marco Scutari, Federico Mattia Stefanini",
-          "link": "http://arxiv.org/abs/2308.06399",
-          "publishedOn": "2023-08-15T02:18:45.872Z",
-          "wordCount": 723,
-          "title": "Learning Bayesian Networks with Heterogeneous Agronomic Data Sets via\n  Mixed-Effect Models and Hierarchical Clustering",
-          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
         }
       ]
     },
@@ -1281,6 +1191,16 @@
           "publishedOn": "2023-09-12T07:00:00.000Z",
           "wordCount": 743,
           "title": "One Year of PyTorch Foundation",
+          "imageUrl": "https://pytorch.org/assets/images/pytorch-logo.png"
+        },
+        {
+          "id": "https://pytorch.org/blog/accelerated-cpu-inference/",
+          "author": null,
+          "description": "Story at a Glance",
+          "link": "https://pytorch.org/blog/accelerated-cpu-inference/",
+          "publishedOn": "2023-09-09T07:00:00.000Z",
+          "wordCount": 2533,
+          "title": "Accelerated CPU Inference with PyTorch Inductor using torch.compile",
           "imageUrl": "https://pytorch.org/assets/images/pytorch-logo.png"
         },
         {

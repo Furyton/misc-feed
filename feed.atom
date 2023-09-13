@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-09-13T14:14:03.636Z</updated>
+    <updated>2023-09-13T15:15:24.615Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -285,6 +285,16 @@ Learning preferences from observed sequential decision making behavior is a clas
         <summary type="html"><![CDATA["The Oldest (Known) Song of All Time" Includes spectrograms of different reconstructions. Although this YouTube was made three years ago, I am calling it to the attention of Language Log readers now that I know about it because it draws together many themes we have discussed in previous posts. Note by the author, hochelaga: The […]]]></summary>
         <author>
             <name>Victor Mair</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Accelerated CPU Inference with PyTorch Inductor using torch.compile]]></title>
+        <id>https://pytorch.org/blog/accelerated-cpu-inference/</id>
+        <link href="https://pytorch.org/blog/accelerated-cpu-inference/"/>
+        <updated>2023-09-09T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Story at a Glance]]></summary>
+        <author>
+            <name>PyTorch Website</name>
         </author>
     </entry>
     <entry>
@@ -2403,102 +2413,6 @@ Reading has many benefits for young students, such as better linguistic and life
         <summary type="html"><![CDATA[From Tom Mazanac: I came across this sign on the subway recently: Tom explains: It's an ad for the waterpark (which my children love), but what struck me most was the bilingual wordplay in the middle: 夏天Want to 水, above which is written "1 2 3", which I think is supposed to sound like "want to […]]]></summary>
         <author>
             <name>Victor Mair</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Probabilistic Analysis of Edge Elimination for Euclidean TSP]]></title>
-        <id>http://arxiv.org/abs/1809.10469</id>
-        <link href="http://arxiv.org/abs/1809.10469"/>
-        <updated>2023-08-15T03:14:32.337Z</updated>
-        <summary type="html"><![CDATA[Xianghui Zhong]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Smoothing finite group actions on three-manifolds]]></title>
-        <id>http://arxiv.org/abs/1901.11127</id>
-        <link href="http://arxiv.org/abs/1901.11127"/>
-        <updated>2023-08-15T03:14:32.317Z</updated>
-        <summary type="html"><![CDATA[John Pardon]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[On the Generalised Colouring Numbers of Graphs that Exclude a Fixed
-  Minor]]></title>
-        <id>http://arxiv.org/abs/1602.09052</id>
-        <link href="http://arxiv.org/abs/1602.09052"/>
-        <updated>2023-08-15T03:14:32.300Z</updated>
-        <summary type="html"><![CDATA[Jan van den Heuvel, Patrice Ossona de Mendez, Daniel Quiroz, Roman
-  Rabinovich, Sebastian Siebertz]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Proper equivariant stable homotopy theory]]></title>
-        <id>http://arxiv.org/abs/1908.00779</id>
-        <link href="http://arxiv.org/abs/1908.00779"/>
-        <updated>2023-08-15T03:14:32.294Z</updated>
-        <summary type="html"><![CDATA[Dieter Degrijse, Markus Hausmann, Wolfgang L\"uck, Irakli Patchkoria,
-  Stefan Schwede]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The eight Cayley-Dickson doubling products]]></title>
-        <id>http://arxiv.org/abs/1707.07318</id>
-        <link href="http://arxiv.org/abs/1707.07318"/>
-        <updated>2023-08-15T03:14:32.272Z</updated>
-        <summary type="html"><![CDATA[John W. Bales]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Approximation and Non-parametric Estimation of ResNet-type Convolutional
-  Neural Networks]]></title>
-        <id>http://arxiv.org/abs/1903.10047</id>
-        <link href="http://arxiv.org/abs/1903.10047"/>
-        <updated>2023-08-15T02:18:45.906Z</updated>
-        <summary type="html"><![CDATA[Kenta Oono, Taiji Suzuki]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PAC-Bayesian Generalization Bounds for Adversarial Generative Models]]></title>
-        <id>http://arxiv.org/abs/2302.08942</id>
-        <link href="http://arxiv.org/abs/2302.08942"/>
-        <updated>2023-08-15T02:18:45.900Z</updated>
-        <summary type="html"><![CDATA[Sokhna Diarra Mbacke, Florence Clerc, Pascal Germain]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sensitivity-Aware Mixed-Precision Quantization and Width Optimization of
-  Deep Neural Networks Through Cluster-Based Tree-Structured Parzen Estimation]]></title>
-        <id>http://arxiv.org/abs/2308.06422</id>
-        <link href="http://arxiv.org/abs/2308.06422"/>
-        <updated>2023-08-15T02:18:45.879Z</updated>
-        <summary type="html"><![CDATA[Seyedarmin Azizi, Mahdi Nazemi, Arash Fayyazi, Massoud Pedram]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learning Bayesian Networks with Heterogeneous Agronomic Data Sets via
-  Mixed-Effect Models and Hierarchical Clustering]]></title>
-        <id>http://arxiv.org/abs/2308.06399</id>
-        <link href="http://arxiv.org/abs/2308.06399"/>
-        <updated>2023-08-15T02:18:45.872Z</updated>
-        <summary type="html"><![CDATA[Lorenzo Vallegi, Marco Scutari, Federico Mattia Stefanini]]></summary>
-        <author>
-            <name>arxivist feed</name>
         </author>
     </entry>
 </feed>
