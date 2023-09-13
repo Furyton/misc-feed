@@ -1344,6 +1344,16 @@
       "siteUrl": "https://xianblog.wordpress.com",
       "articles": [
         {
+          "id": "http://xianblog.wordpress.com/?p=53774",
+          "author": "xi'an",
+          "description": "Visit the post for more.",
+          "link": "https://xianblog.wordpress.com/2023/09/14/no-google-play/",
+          "publishedOn": "2023-09-13T22:23:36.000Z",
+          "wordCount": 1830,
+          "title": "no [Google] play",
+          "imageUrl": "https://xianblog.files.wordpress.com/2023/08/temp-1.png"
+        },
+        {
           "id": "http://xianblog.wordpress.com/?p=53885",
           "author": "xi'an",
           "description": "A new arXival on nested sampling, Snowballing Nested Sampling by Johannes Buchner, just appeared. The idea behind this short note is to increase the number of “live” points at each iteration. (How?! Depending on how the different additions are dependent, the effective sample size will vary.) This exacerbates the tendency of the algorithm to concentrate […]",
