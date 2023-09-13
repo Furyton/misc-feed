@@ -934,46 +934,6 @@
           "wordCount": 723,
           "title": "Learning Bayesian Networks with Heterogeneous Agronomic Data Sets via\n  Mixed-Effect Models and Hierarchical Clustering",
           "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
-        },
-        {
-          "id": "http://arxiv.org/abs/2308.06138",
-          "author": null,
-          "description": "Masoume Kazemi, Davood Moradkhani, Alireza A. Alipour",
-          "link": "http://arxiv.org/abs/2308.06138",
-          "publishedOn": "2023-08-14T02:19:10.155Z",
-          "wordCount": 729,
-          "title": "Application of Artificial Neural Networks for Investigation of Pressure\n  Filtration Performance, a Zinc Leaching Filter Cake Moisture Modeling",
-          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
-        },
-        {
-          "id": "http://arxiv.org/abs/2306.09927",
-          "author": null,
-          "description": "Ruiqi Zhang, Spencer Frei, Peter L. Bartlett",
-          "link": "http://arxiv.org/abs/2306.09927",
-          "publishedOn": "2023-08-14T02:19:10.147Z",
-          "wordCount": 794,
-          "title": "Trained Transformers Learn Linear Models In-Context",
-          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
-        },
-        {
-          "id": "http://arxiv.org/abs/2303.02266",
-          "author": null,
-          "description": "Mahdi Boloursaz Mashhadi, Mahnoosh Mahdavimoghadam, Rahim Tafazolli,\n  Walid Saad",
-          "link": "http://arxiv.org/abs/2303.02266",
-          "publishedOn": "2023-08-14T02:19:10.125Z",
-          "wordCount": 768,
-          "title": "Collaborative Learning with a Drone Orchestrator",
-          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
-        },
-        {
-          "id": "http://arxiv.org/abs/2210.17020",
-          "author": null,
-          "description": "Hangfeng He, Weijie J. Su",
-          "link": "http://arxiv.org/abs/2210.17020",
-          "publishedOn": "2023-08-14T02:19:10.119Z",
-          "wordCount": 666,
-          "title": "A Law of Data Separation in Deep Learning",
-          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
         }
       ]
     },
@@ -1394,6 +1354,16 @@
       "siteUrl": "https://xianblog.wordpress.com",
       "articles": [
         {
+          "id": "http://xianblog.wordpress.com/?p=53885",
+          "author": "xi'an",
+          "description": "A new arXival on nested sampling, Snowballing Nested Sampling by Johannes Buchner, just appeared. The idea behind this short note is to increase the number of “live” points at each iteration. (How?! Depending on how the different additions are dependent, the effective sample size will vary.) This exacerbates the tendency of the algorithm to concentrate […]",
+          "link": "https://xianblog.wordpress.com/2023/09/13/snowballs-in-summer/",
+          "publishedOn": "2023-09-12T22:23:59.000Z",
+          "wordCount": 2051,
+          "title": "snowballs in summer",
+          "imageUrl": "https://xianblog.files.wordpress.com/2012/02/pict0496.jpg"
+        },
+        {
           "id": "http://xianblog.wordpress.com/?p=54015",
           "author": "xi'an",
           "description": "Visit the post for more.",
@@ -1714,6 +1684,16 @@
       "siteUrl": "http://blog.research.google/",
       "articles": [
         {
+          "id": "http://blog.research.google/2023/09/world-scale-inverse-reinforcement.html",
+          "author": null,
+          "description": "Posted by Matt Barnes, Software Engineer, Google Research\n\n\n\n\nRouting in Google Maps remains one of our most helpful and frequently used features. Determining the best route from A to B requires making complex trade-offs between factors including the estimated time of arrival (ETA), tolls, directness, surface conditions (e.g., paved, unpaved roads), and user preferences, which vary across transportation mode and local geography. Often, the most natural visibility we have into travelers' preferences is by analyzing real-world travel patterns.\n\n\n\nLearning preferences from observed sequential decision making behavior is a classic application of inverse reinforcement learning (IRL). Given a Markov decision process (MDP) — a formalization of the road network — and a set of demonstration traject…",
+          "link": "http://blog.research.google/2023/09/world-scale-inverse-reinforcement.html",
+          "publishedOn": "2023-09-12T21:22:00.000Z",
+          "wordCount": 27551,
+          "title": "World scale inverse reinforcement learning in Google Maps",
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhgA5ZpGidOzCqTYTLV8bj62lAG7yfVa0cson-09oo7hqGA9ayl7h6koU96mxkBOqP_NyqiKamaoFrSAHtBlY7UH7XMnoq5Hn1H0hoiC5Uk0mMOkunNi6-j08iSEmUXTYEmp1YuFEgWLRJtieseqhQseMpy6e8KY5wElwNKDcy99GjCO-j04G0TVaJb0Pcr/w1200-h630-p-k-no-nu/hero.jpg"
+        },
+        {
           "id": "http://blog.research.google/2023/09/differentially-private-median-and-more.html",
           "author": null,
           "description": "Posted by Edith Cohen and Uri Stemmer, Research Scientists, Google Research\n\n\n\n\n\nDifferential privacy (DP) is a rigorous mathematical definition of privacy. DP algorithms are randomized to protect user data by ensuring that the probability of any particular output is nearly unchanged when a data point is added or removed. Therefore, the output of a DP algorithm does not disclose the presence of any one data point. There has been significant progress in both foundational research and adoption of differential privacy with contributions such as the Privacy Sandbox and Google Open Source Library.\n\n\nML and data analytics algorithms can often be described as performing multiple basic computation steps on the same dataset. When each such step is differentially private, so is the output, but with …",
@@ -1966,6 +1946,16 @@
       "feedUrl": "https://languagelog.ldc.upenn.edu/nll/?feed=rss2",
       "siteUrl": "https://languagelog.ldc.upenn.edu/nll",
       "articles": [
+        {
+          "id": "https://languagelog.ldc.upenn.edu/nll/?p=60536",
+          "author": "Victor Mair",
+          "description": "\"Elusive Ernie: China's new chatbot has a censorship problem\"    By Stephen McDonell, BBC, 1 day ago It seems that Ernie's favorite response is \"Let's talk about something else\", particularly when you ask it a \"difficult\" question. For example, Ernie seemed baffled by the question: \"Why is Xi Jinping not attending the upcoming G20 meeting?\" […]",
+          "link": "https://languagelog.ldc.upenn.edu/nll/?p=60536&utm_source=rss&utm_medium=rss&utm_campaign=chatbot-censorship-in-china",
+          "publishedOn": "2023-09-12T19:44:32.000Z",
+          "wordCount": 2336,
+          "title": "Chatbot censorship in China",
+          "imageUrl": null
+        },
         {
           "id": "https://languagelog.ldc.upenn.edu/nll/?p=60543",
           "author": "Mark Liberman",
@@ -2434,21 +2424,6 @@
           "publishedOn": "2023-08-14T17:57:54.000Z",
           "wordCount": 2729,
           "title": "The new, enhanced / advanced quiet luxury language of pèihuò 配货",
-          "imageUrl": null
-        },
-        {
-          "id": "https://languagelog.ldc.upenn.edu/nll/?p=60168",
-          "author": "Mark Liberman",
-          "description": "Despite the evidence of my most recent relevant post, the best current speech-to-text systems still make mistakes that a literate and informed human wouldn't. In this recent YouTube video on the history of robotics research, the automatic closed-captioning system renders \"DARPA\" as \"Dartmouth\": The audio is clear enough: Your browser does not support the audio […]",
-          "link": "https://languagelog.ldc.upenn.edu/nll/?p=60168&utm_source=rss&utm_medium=rss&utm_campaign=darpa-dartmouth-one-won",
-          "publishedOn": "2023-08-14T11:17:31.000Z",
-          "wordCount": 2235,
-          "title": "DARPA/Dartmouth one/won …",
-          "enclosure": {
-            "url": "https://languagelog.ldc.upenn.edu/myl/DarpaDartmouthX1.wav",
-            "length": "307762",
-            "type": "audio/wav"
-          },
           "imageUrl": null
         }
       ]

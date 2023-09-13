@@ -2,10 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-09-12T19:11:34.858Z</updated>
+    <updated>2023-09-13T01:04:53.869Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[snowballs in summer]]></title>
+        <id>http://xianblog.wordpress.com/?p=53885</id>
+        <link href="https://xianblog.wordpress.com/2023/09/13/snowballs-in-summer/"/>
+        <updated>2023-09-12T22:23:59.000Z</updated>
+        <summary type="html"><![CDATA[A new arXival on nested sampling, Snowballing Nested Sampling by Johannes Buchner, just appeared. The idea behind this short note is to increase the number of “live” points at each iteration. (How?! Depending on how the different additions are dependent, the effective sample size will vary.) This exacerbates the tendency of the algorithm to concentrate […]]]></summary>
+        <author>
+            <name>xi'an</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[World scale inverse reinforcement learning in Google Maps]]></title>
+        <id>http://blog.research.google/2023/09/world-scale-inverse-reinforcement.html</id>
+        <link href="http://blog.research.google/2023/09/world-scale-inverse-reinforcement.html"/>
+        <updated>2023-09-12T21:22:00.000Z</updated>
+        <summary type="html"><![CDATA[Posted by Matt Barnes, Software Engineer, Google Research
+
+
+
+
+Routing in Google Maps remains one of our most helpful and frequently used features. Determining the best route from A to B requires making complex trade-offs between factors including the estimated time of arrival (ETA), tolls, directness, surface conditions (e.g., paved, unpaved roads), and user preferences, which vary across transportation mode and local geography. Often, the most natural visibility we have into travelers' preferences is by analyzing real-world travel patterns.
+
+
+
+Learning preferences from observed sequential decision making behavior is a classic application of inverse reinforcement learning (IRL). Given a Markov decision process (MDP) — a formalization of the road network — and a set of demonstration traject…]]></summary>
+        <author>
+            <name>Google AI Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chatbot censorship in China]]></title>
+        <id>https://languagelog.ldc.upenn.edu/nll/?p=60536</id>
+        <link href="https://languagelog.ldc.upenn.edu/nll/?p=60536&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=chatbot-censorship-in-china"/>
+        <updated>2023-09-12T19:44:32.000Z</updated>
+        <summary type="html"><![CDATA["Elusive Ernie: China's new chatbot has a censorship problem"    By Stephen McDonell, BBC, 1 day ago It seems that Ernie's favorite response is "Let's talk about something else", particularly when you ask it a "difficult" question. For example, Ernie seemed baffled by the question: "Why is Xi Jinping not attending the upcoming G20 meeting?" […]]]></summary>
+        <author>
+            <name>Victor Mair</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[One Year of PyTorch Foundation]]></title>
         <id>https://pytorch.org/blog/one-year-pytorch/</id>
@@ -2405,58 +2444,6 @@ Reading has many benefits for young students, such as better linguistic and life
         <summary type="html"><![CDATA["Pèihuò 配货" is not a new term to me.  I knew it quite a while ago as it is used in supply chain studies with the meaning of "distribution; prepare goods for delivery according to an order"), as in the expression "pèihuò zhōngxīn 配货中心" ("distribution center").  Now, though, it has morphed into something altogether different. […]]]></summary>
         <author>
             <name>Victor Mair</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DARPA/Dartmouth one/won …]]></title>
-        <id>https://languagelog.ldc.upenn.edu/nll/?p=60168</id>
-        <link href="https://languagelog.ldc.upenn.edu/nll/?p=60168&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=darpa-dartmouth-one-won"/>
-        <updated>2023-08-14T11:17:31.000Z</updated>
-        <summary type="html"><![CDATA[Despite the evidence of my most recent relevant post, the best current speech-to-text systems still make mistakes that a literate and informed human wouldn't. In this recent YouTube video on the history of robotics research, the automatic closed-captioning system renders "DARPA" as "Dartmouth": The audio is clear enough: Your browser does not support the audio […]]]></summary>
-        <author>
-            <name>Mark Liberman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Application of Artificial Neural Networks for Investigation of Pressure
-  Filtration Performance, a Zinc Leaching Filter Cake Moisture Modeling]]></title>
-        <id>http://arxiv.org/abs/2308.06138</id>
-        <link href="http://arxiv.org/abs/2308.06138"/>
-        <updated>2023-08-14T02:19:10.155Z</updated>
-        <summary type="html"><![CDATA[Masoume Kazemi, Davood Moradkhani, Alireza A. Alipour]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Trained Transformers Learn Linear Models In-Context]]></title>
-        <id>http://arxiv.org/abs/2306.09927</id>
-        <link href="http://arxiv.org/abs/2306.09927"/>
-        <updated>2023-08-14T02:19:10.147Z</updated>
-        <summary type="html"><![CDATA[Ruiqi Zhang, Spencer Frei, Peter L. Bartlett]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Collaborative Learning with a Drone Orchestrator]]></title>
-        <id>http://arxiv.org/abs/2303.02266</id>
-        <link href="http://arxiv.org/abs/2303.02266"/>
-        <updated>2023-08-14T02:19:10.125Z</updated>
-        <summary type="html"><![CDATA[Mahdi Boloursaz Mashhadi, Mahnoosh Mahdavimoghadam, Rahim Tafazolli,
-  Walid Saad]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Law of Data Separation in Deep Learning]]></title>
-        <id>http://arxiv.org/abs/2210.17020</id>
-        <link href="http://arxiv.org/abs/2210.17020"/>
-        <updated>2023-08-14T02:19:10.119Z</updated>
-        <summary type="html"><![CDATA[Hangfeng He, Weijie J. Su]]></summary>
-        <author>
-            <name>arxivist feed</name>
         </author>
     </entry>
 </feed>
