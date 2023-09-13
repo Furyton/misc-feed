@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-09-13T15:15:24.615Z</updated>
+    <updated>2023-09-13T16:18:10.312Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[MLIR — Verifiers]]></title>
+        <id>https://jeremykun.com/?p=119898</id>
+        <link href="https://jeremykun.com/2023/09/13/mlir-verifiers/"/>
+        <updated>2023-09-13T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Table of Contents Last time we defined folders and used them to enable some canonicalization and the sccp constant propagation pass for the poly dialect. This time we’ll add some additional safety checks to the dialect in the form of verifiers. The code for this article is in this pull request, and as usual the […]]]></summary>
+        <author>
+            <name>Jeremy Kun</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[大词表语言模型在续写任务上的一个问题及对策]]></title>
         <id>https://kexue.fm/archives/9762</id>
