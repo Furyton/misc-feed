@@ -1040,6 +1040,16 @@
       "siteUrl": "https://kexue.fm/",
       "articles": [
         {
+          "id": "https://kexue.fm/archives/9762",
+          "author": "苏剑林",
+          "description": "对于LLM来说，通过增大Tokenizer的词表来提高压缩率，从而缩短序列长度、降低解码成本，是大家都喜闻乐见的事情。毕竟增大词表只需要增大Embedding层和输出的Dense层，这部分增加的...",
+          "link": "https://kexue.fm/archives/9762",
+          "publishedOn": "2023-09-13T13:22:00.000Z",
+          "wordCount": 1441,
+          "title": "大词表语言模型在续写任务上的一个问题及对策",
+          "imageUrl": null
+        },
+        {
           "id": "https://kexue.fm/archives/9752",
           "author": "苏剑林",
           "description": "目前在LLM中最流行的Tokenizer（分词器）应该是Google的SentencePiece了，因为它符合Tokenizer的一些理想特性，比如语言无关、数据驱动等，并且由于它是C++写的，...",

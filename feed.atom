@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-09-13T13:18:56.130Z</updated>
+    <updated>2023-09-13T14:14:03.636Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[大词表语言模型在续写任务上的一个问题及对策]]></title>
+        <id>https://kexue.fm/archives/9762</id>
+        <link href="https://kexue.fm/archives/9762"/>
+        <updated>2023-09-13T13:22:00.000Z</updated>
+        <summary type="html"><![CDATA[对于LLM来说，通过增大Tokenizer的词表来提高压缩率，从而缩短序列长度、降低解码成本，是大家都喜闻乐见的事情。毕竟增大词表只需要增大Embedding层和输出的Dense层，这部分增加的...]]></summary>
+        <author>
+            <name>苏剑林</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Overall, why do Mandarin enrollments continue to decline?]]></title>
         <id>https://languagelog.ldc.upenn.edu/nll/?p=60540</id>
