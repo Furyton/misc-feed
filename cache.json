@@ -1927,6 +1927,16 @@
       "siteUrl": "https://languagelog.ldc.upenn.edu/nll",
       "articles": [
         {
+          "id": "https://languagelog.ldc.upenn.edu/nll/?p=60563",
+          "author": "Mark Liberman",
+          "description": "This is a simple-minded follow-up to \"New models of speech timing?\" (9/11/2023). Before getting into fancy stochastic-point-process models, neural or otherwise, I though I'd start with something really basic: just the distribution of inter-syllable intervals, and its relationship to overall speech-segment and silence-segment durations. For data, I took one-minute samples from 2006 TED talks by […]",
+          "link": "https://languagelog.ldc.upenn.edu/nll/?p=60563&utm_source=rss&utm_medium=rss&utm_campaign=inter-syllable-intervals",
+          "publishedOn": "2023-09-13T18:18:28.000Z",
+          "wordCount": 2217,
+          "title": "Inter-syllable intervals",
+          "imageUrl": null
+        },
+        {
           "id": "https://languagelog.ldc.upenn.edu/nll/?p=60540",
           "author": "Victor Mair",
           "description": "This is a problem that has been troubling colleagues across the country. \"Why fewer university students are studying Mandarin\" Learning the difficult language does not seem as worthwhile as it once did Economist (Aug 24th 2023) China | How do you say “not interested”? Ten years ago Mandarin, the mother tongue of most Chinese, was […]",

@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-09-13T18:18:42.295Z</updated>
+    <updated>2023-09-13T19:11:48.898Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Inter-syllable intervals]]></title>
+        <id>https://languagelog.ldc.upenn.edu/nll/?p=60563</id>
+        <link href="https://languagelog.ldc.upenn.edu/nll/?p=60563&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=inter-syllable-intervals"/>
+        <updated>2023-09-13T18:18:28.000Z</updated>
+        <summary type="html"><![CDATA[This is a simple-minded follow-up to "New models of speech timing?" (9/11/2023). Before getting into fancy stochastic-point-process models, neural or otherwise, I though I'd start with something really basic: just the distribution of inter-syllable intervals, and its relationship to overall speech-segment and silence-segment durations. For data, I took one-minute samples from 2006 TED talks by […]]]></summary>
+        <author>
+            <name>Mark Liberman</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[MLIR — Verifiers]]></title>
         <id>https://jeremykun.com/?p=119898</id>
