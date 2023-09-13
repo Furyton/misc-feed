@@ -6,6 +6,56 @@
       "siteUrl": "https://www.arxivist.com",
       "articles": [
         {
+          "id": "http://arxiv.org/abs/2309.06240",
+          "author": null,
+          "description": "Pascal Pernot",
+          "link": "http://arxiv.org/abs/2309.06240",
+          "publishedOn": "2023-09-13T04:17:39.712Z",
+          "wordCount": 689,
+          "title": "Consistency and adaptivity are complementary targets for the validation\n  of variance-based uncertainty quantification metrics in machine learning\n  regression tasks",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2010.12995",
+          "author": null,
+          "description": "Yann Pequignot, Mathieu Alain, Patrick Dallaire, Alireza\n  Yeganehparast, Pascal Germain, Jos\\'ee Desharnais, Fran\\c{c}ois Laviolette",
+          "link": "http://arxiv.org/abs/2010.12995",
+          "publishedOn": "2023-09-13T04:17:39.704Z",
+          "wordCount": 772,
+          "title": "Out-of-distribution detection for regression tasks: parameter versus\n  predictor entropy",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2306.04640",
+          "author": null,
+          "description": "Yikang Shen, Zheyu Zhang, Tianyou Cao, Shawn Tan, Zhenfang Chen,\n  Chuang Gan",
+          "link": "http://arxiv.org/abs/2306.04640",
+          "publishedOn": "2023-09-13T04:17:39.578Z",
+          "wordCount": 749,
+          "title": "ModuleFormer: Modularity Emerges from Mixture-of-Experts",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2108.03090",
+          "author": null,
+          "description": "Wiebke Bartolomaeus, Youness Boutaib, Sandra Nestler, Holger Rauhut",
+          "link": "http://arxiv.org/abs/2108.03090",
+          "publishedOn": "2023-09-13T04:17:39.571Z",
+          "wordCount": 664,
+          "title": "Path classification by stochastic linear recurrent neural networks",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2302.03358",
+          "author": null,
+          "description": "Junfeng Chen, Kailiang Wu",
+          "link": "http://arxiv.org/abs/2302.03358",
+          "publishedOn": "2023-09-13T04:17:39.539Z",
+          "wordCount": 802,
+          "title": "Deep-OSG: Deep Learning of Operators in Semigroup",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
           "id": "http://arxiv.org/abs/2207.11159",
           "author": null,
           "description": "Xi Chen, Jiameng Lyu, Yining Wang, Yuan Zhou",

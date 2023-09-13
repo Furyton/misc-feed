@@ -2,10 +2,65 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-09-13T03:15:15.946Z</updated>
+    <updated>2023-09-13T04:17:39.765Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Consistency and adaptivity are complementary targets for the validation
+  of variance-based uncertainty quantification metrics in machine learning
+  regression tasks]]></title>
+        <id>http://arxiv.org/abs/2309.06240</id>
+        <link href="http://arxiv.org/abs/2309.06240"/>
+        <updated>2023-09-13T04:17:39.712Z</updated>
+        <summary type="html"><![CDATA[Pascal Pernot]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Out-of-distribution detection for regression tasks: parameter versus
+  predictor entropy]]></title>
+        <id>http://arxiv.org/abs/2010.12995</id>
+        <link href="http://arxiv.org/abs/2010.12995"/>
+        <updated>2023-09-13T04:17:39.704Z</updated>
+        <summary type="html"><![CDATA[Yann Pequignot, Mathieu Alain, Patrick Dallaire, Alireza
+  Yeganehparast, Pascal Germain, Jos\'ee Desharnais, Fran\c{c}ois Laviolette]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ModuleFormer: Modularity Emerges from Mixture-of-Experts]]></title>
+        <id>http://arxiv.org/abs/2306.04640</id>
+        <link href="http://arxiv.org/abs/2306.04640"/>
+        <updated>2023-09-13T04:17:39.578Z</updated>
+        <summary type="html"><![CDATA[Yikang Shen, Zheyu Zhang, Tianyou Cao, Shawn Tan, Zhenfang Chen,
+  Chuang Gan]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Path classification by stochastic linear recurrent neural networks]]></title>
+        <id>http://arxiv.org/abs/2108.03090</id>
+        <link href="http://arxiv.org/abs/2108.03090"/>
+        <updated>2023-09-13T04:17:39.571Z</updated>
+        <summary type="html"><![CDATA[Wiebke Bartolomaeus, Youness Boutaib, Sandra Nestler, Holger Rauhut]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Deep-OSG: Deep Learning of Operators in Semigroup]]></title>
+        <id>http://arxiv.org/abs/2302.03358</id>
+        <link href="http://arxiv.org/abs/2302.03358"/>
+        <updated>2023-09-13T04:17:39.539Z</updated>
+        <summary type="html"><![CDATA[Junfeng Chen, Kailiang Wu]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[snowballs in summer]]></title>
         <id>http://xianblog.wordpress.com/?p=53885</id>
