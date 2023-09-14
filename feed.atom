@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-09-14T07:13:57.335Z</updated>
+    <updated>2023-09-14T08:18:57.120Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -2469,36 +2469,6 @@ Modern neural networks have achieved impressive performance across a variety of 
         <summary type="html"><![CDATA[Visit the post for more.]]></summary>
         <author>
             <name>xi'an</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[STUDY: Socially aware temporally causal decoder recommender systems]]></title>
-        <id>http://blog.research.google/2023/08/study-socially-aware-temporally-causal.html</id>
-        <link href="http://blog.research.google/2023/08/study-socially-aware-temporally-causal.html"/>
-        <updated>2023-08-15T19:59:00.001Z</updated>
-        <summary type="html"><![CDATA[Posted by Eltayeb Ahmed, Research Engineer, and Subhrajit Roy, Senior Research Scientist, Google Research
-
-
-
-
-Reading has many benefits for young students, such as better linguistic and life skills, and reading for pleasure has been shown to correlate with academic success. Furthermore students have reported improved emotional wellbeing from reading, as well as better general knowledge and better understanding of other cultures. With the vast amount of reading material both online and off, finding age-appropriate, relevant and engaging content can be a challenging task, but helping students do so is a necessary step to engage them in reading. Effective recommendations that present students with relevant reading material helps keep students reading, and this is where machine learning (ML) c…]]></summary>
-        <author>
-            <name>Google AI Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[STUDY: Socially aware temporally causal decoder recommender systems]]></title>
-        <id>http://ai.googleblog.com/2023/08/study-socially-aware-temporally-causal.html</id>
-        <link href="http://ai.googleblog.com/2023/08/study-socially-aware-temporally-causal.html"/>
-        <updated>2023-08-15T19:59:00.001Z</updated>
-        <summary type="html"><![CDATA[Posted by Eltayeb Ahmed, Research Engineer, and Subhrajit Roy, Senior Research Scientist, Google Research
-
-
-
-
-Reading has many benefits for young students, such as better linguistic and life skills, and reading for pleasure has been shown to correlate with academic success. Furthermore students have reported improved emotional wellbeing from reading, as well as better general knowledge and better understanding of other cultures. With the vast amount of reading material both online and off, finding age-appropriate, relevant and engaging content can be a challenging task, but helping students do so is a necessary step to engage them in reading. Effective recommendations that present students with relevant reading material helps keep students reading, and this is where machine learning (ML) c…]]></summary>
-        <author>
-            <name>Google AI Blog</name>
         </author>
     </entry>
 </feed>
