@@ -2,10 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-09-14T20:15:24.064Z</updated>
+    <updated>2023-09-14T21:13:08.693Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[On-device content distillation with graph neural networks]]></title>
+        <id>http://blog.research.google/2023/09/on-device-content-distillation-with.html</id>
+        <link href="http://blog.research.google/2023/09/on-device-content-distillation-with.html"/>
+        <updated>2023-09-14T19:39:00.031Z</updated>
+        <summary type="html"><![CDATA[Posted by Gabriel Barcik and Duc-Hieu Tran, Research Engineers, Google Research
+
+
+
+
+In today's digital age, smartphones and desktop web browsers serve as the primary tools for accessing news and information. However, the proliferation of website clutter — encompassing complex layouts, navigation elements, and extraneous links — significantly impairs both the reading experience and article navigation. This issue is particularly acute for individuals with accessibility requirements.
+
+
+
+To improve the user experience and make reading more accessible, Android and Chrome users may leverage the Reading Mode feature, which enhances accessibility by processing webpages to allow customizable contrast, adjustable text size, more legible fonts, and to enable text-to-speech utilities. Additionally, An…]]></summary>
+        <author>
+            <name>Google AI Blog</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Mongolian language genocide]]></title>
         <id>https://languagelog.ldc.upenn.edu/nll/?p=60560</id>

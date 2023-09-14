@@ -1714,6 +1714,16 @@
       "siteUrl": "http://blog.research.google/",
       "articles": [
         {
+          "id": "http://blog.research.google/2023/09/on-device-content-distillation-with.html",
+          "author": null,
+          "description": "Posted by Gabriel Barcik and Duc-Hieu Tran, Research Engineers, Google Research\n\n\n\n\nIn today's digital age, smartphones and desktop web browsers serve as the primary tools for accessing news and information. However, the proliferation of website clutter — encompassing complex layouts, navigation elements, and extraneous links — significantly impairs both the reading experience and article navigation. This issue is particularly acute for individuals with accessibility requirements.\n\n\n\nTo improve the user experience and make reading more accessible, Android and Chrome users may leverage the Reading Mode feature, which enhances accessibility by processing webpages to allow customizable contrast, adjustable text size, more legible fonts, and to enable text-to-speech utilities. Additionally, An…",
+          "link": "http://blog.research.google/2023/09/on-device-content-distillation-with.html",
+          "publishedOn": "2023-09-14T19:39:00.031Z",
+          "wordCount": 27925,
+          "title": "On-device content distillation with graph neural networks",
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAbKikU6UWOjYuGg9JWDI3s8QKhXHtUEl2STZt_TNmwR4Y_B65GkYs--uMmYUYVVBdbTrtAVLRmlEGc1fTgeMS2E1kaNLmUJk6xWoj0qm0axNj2OcMzzPTZ68ygM0f7ZOo_8qoUXjTGGTO74-LZ9gvt9eK8lZjRDE0HWJNMJWYM_A2ppRGl5v8QVrxBEg7/w1200-h630-p-k-no-nu/ScreenGNN.gif"
+        },
+        {
           "id": "http://blog.research.google/2023/09/world-scale-inverse-reinforcement.html",
           "author": null,
           "description": "Posted by Matt Barnes, Software Engineer, Google Research\n\n\n\n\nRouting in Google Maps remains one of our most helpful and frequently used features. Determining the best route from A to B requires making complex trade-offs between factors including the estimated time of arrival (ETA), tolls, directness, surface conditions (e.g., paved, unpaved roads), and user preferences, which vary across transportation mode and local geography. Often, the most natural visibility we have into travelers' preferences is by analyzing real-world travel patterns.\n\n\n\nLearning preferences from observed sequential decision making behavior is a classic application of inverse reinforcement learning (IRL). Given a Markov decision process (MDP) — a formalization of the road network — and a set of demonstration traject…",
