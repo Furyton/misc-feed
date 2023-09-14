@@ -1937,6 +1937,16 @@
       "siteUrl": "https://languagelog.ldc.upenn.edu/nll",
       "articles": [
         {
+          "id": "https://languagelog.ldc.upenn.edu/nll/?p=60581",
+          "author": "Mark Liberman",
+          "description": "I've previously written more than once about the problem of compound words whose meaning is partly but not entirely related to the meanings of their parts, often referring back to a passage in my 1992 chapter with Richard Sproat, \"The Stress and Structure of Modified Noun Phrases in English\": We now turn to N0 compounds where […]",
+          "link": "https://languagelog.ldc.upenn.edu/nll/?p=60581&utm_source=rss&utm_medium=rss&utm_campaign=semi-compositional-compounds-of-the-week",
+          "publishedOn": "2023-09-13T23:57:40.000Z",
+          "wordCount": 2222,
+          "title": "Semi-compositional compounds of the week",
+          "imageUrl": null
+        },
+        {
           "id": "https://languagelog.ldc.upenn.edu/nll/?p=60563",
           "author": "Mark Liberman",
           "description": "This is a simple-minded follow-up to \"New models of speech timing?\" (9/11/2023). Before getting into fancy stochastic-point-process models, neural or otherwise, I though I'd start with something really basic: just the distribution of inter-syllable intervals, and its relationship to overall speech-segment and silence-segment durations. For data, I took one-minute samples from 2006 TED talks by […]",
@@ -2414,16 +2424,6 @@
           "publishedOn": "2023-08-16T12:17:49.000Z",
           "wordCount": 2002,
           "title": "Stan Carey on \"greenlit\"",
-          "imageUrl": null
-        },
-        {
-          "id": "https://languagelog.ldc.upenn.edu/nll/?p=60178",
-          "author": "Victor Mair",
-          "description": "From Tom Mazanac: I came across this sign on the subway recently: Tom explains: It's an ad for the waterpark (which my children love), but what struck me most was the bilingual wordplay in the middle: 夏天Want to 水, above which is written \"1 2 3\", which I think is supposed to sound like \"want to […]",
-          "link": "https://languagelog.ldc.upenn.edu/nll/?p=60178&utm_source=rss&utm_medium=rss&utm_campaign=bilingual-wordplay-on-a-taipei-sign",
-          "publishedOn": "2023-08-15T12:56:42.000Z",
-          "wordCount": 2088,
-          "title": "Bilingual wordplay on a Taipei sign",
           "imageUrl": null
         }
       ]

@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-09-13T23:14:46.694Z</updated>
+    <updated>2023-09-14T01:03:07.747Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Semi-compositional compounds of the week]]></title>
+        <id>https://languagelog.ldc.upenn.edu/nll/?p=60581</id>
+        <link href="https://languagelog.ldc.upenn.edu/nll/?p=60581&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=semi-compositional-compounds-of-the-week"/>
+        <updated>2023-09-13T23:57:40.000Z</updated>
+        <summary type="html"><![CDATA[I've previously written more than once about the problem of compound words whose meaning is partly but not entirely related to the meanings of their parts, often referring back to a passage in my 1992 chapter with Richard Sproat, "The Stress and Structure of Modified Noun Phrases in English": We now turn to N0 compounds where […]]]></summary>
+        <author>
+            <name>Mark Liberman</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[no [Google] play]]></title>
         <id>http://xianblog.wordpress.com/?p=53774</id>
@@ -2433,16 +2443,6 @@ Reading has many benefits for young students, such as better linguistic and life
 Reading has many benefits for young students, such as better linguistic and life skills, and reading for pleasure has been shown to correlate with academic success. Furthermore students have reported improved emotional wellbeing from reading, as well as better general knowledge and better understanding of other cultures. With the vast amount of reading material both online and off, finding age-appropriate, relevant and engaging content can be a challenging task, but helping students do so is a necessary step to engage them in reading. Effective recommendations that present students with relevant reading material helps keep students reading, and this is where machine learning (ML) c…]]></summary>
         <author>
             <name>Google AI Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bilingual wordplay on a Taipei sign]]></title>
-        <id>https://languagelog.ldc.upenn.edu/nll/?p=60178</id>
-        <link href="https://languagelog.ldc.upenn.edu/nll/?p=60178&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=bilingual-wordplay-on-a-taipei-sign"/>
-        <updated>2023-08-15T12:56:42.000Z</updated>
-        <summary type="html"><![CDATA[From Tom Mazanac: I came across this sign on the subway recently: Tom explains: It's an ad for the waterpark (which my children love), but what struck me most was the bilingual wordplay in the middle: 夏天Want to 水, above which is written "1 2 3", which I think is supposed to sound like "want to […]]]></summary>
-        <author>
-            <name>Victor Mair</name>
         </author>
     </entry>
 </feed>
