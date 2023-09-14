@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-09-14T09:14:37.112Z</updated>
+    <updated>2023-09-14T10:16:21.131Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Mongolian language genocide]]></title>
+        <id>https://languagelog.ldc.upenn.edu/nll/?p=60560</id>
+        <link href="https://languagelog.ldc.upenn.edu/nll/?p=60560&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=mongolian-language-genocide"/>
+        <updated>2023-09-14T09:55:52.000Z</updated>
+        <summary type="html"><![CDATA[During the past few weeks, we've looked at the throttling of Cantonese in Hong Kong.  Now, far to the north of the Chinese empire, the CCP is ramping up the war against Mongolian: Inner Mongolia: China accused of 'cultural genocide' for school language shift Debi Edward, ITV News (9/1/23) —- Inner Mongolia is the latest province in China where […]]]></summary>
+        <author>
+            <name>Victor Mair</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Comparative Analysis of Contextual Relation Extraction based on Deep
   Learning Models]]></title>
