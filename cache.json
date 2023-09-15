@@ -6,6 +6,56 @@
       "siteUrl": "https://www.arxivist.com",
       "articles": [
         {
+          "id": "http://arxiv.org/abs/2112.07611",
+          "author": null,
+          "description": "Han Zheng, Zimu Li, Junyu Liu, Sergii Strelchuk, Risi Kondor",
+          "link": "http://arxiv.org/abs/2112.07611",
+          "publishedOn": "2023-09-15T03:15:04.999Z",
+          "wordCount": 792,
+          "title": "Speeding up Learning Quantum States through Group Equivariant\n  Convolutional Quantum Ans\\\"atze",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2309.07666",
+          "author": null,
+          "description": "Eduardo Fernandes Montesuma, Fred Ngol\\`e Mboula, Antoine Souloumiac",
+          "link": "http://arxiv.org/abs/2309.07666",
+          "publishedOn": "2023-09-15T03:15:04.843Z",
+          "wordCount": 662,
+          "title": "Multi-Source Domain Adaptation meets Dataset Distillation through\n  Dataset Dictionary Learning",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2202.05928",
+          "author": null,
+          "description": "Spencer Frei, Niladri S. Chatterji, Peter L. Bartlett",
+          "link": "http://arxiv.org/abs/2202.05928",
+          "publishedOn": "2023-09-15T03:15:04.814Z",
+          "wordCount": 725,
+          "title": "Benign Overfitting without Linearity: Neural Network Classifiers Trained\n  by Gradient Descent for Noisy Linear Data",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2302.01952",
+          "author": null,
+          "description": "Mihaela Rosca, Yan Wu, Chongli Qin, Benoit Dherin",
+          "link": "http://arxiv.org/abs/2302.01952",
+          "publishedOn": "2023-09-15T03:15:04.668Z",
+          "wordCount": 705,
+          "title": "On a continuous time model of gradient descent dynamics and instability\n  in deep learning",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2202.07626",
+          "author": null,
+          "description": "Spencer Frei, Niladri S. Chatterji, Peter L. Bartlett",
+          "link": "http://arxiv.org/abs/2202.07626",
+          "publishedOn": "2023-09-15T03:15:04.656Z",
+          "wordCount": 697,
+          "title": "Random Feature Amplification: Feature Learning and Generalization in\n  Neural Networks",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
           "id": "http://arxiv.org/abs/2309.06814",
           "author": null,
           "description": "R.Priyadharshini, G.Jeyakodi, P.Shanthi Bala",

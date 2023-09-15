@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-09-15T02:21:53.566Z</updated>
+    <updated>2023-09-15T03:15:05.038Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -14,6 +14,61 @@
         <summary type="html"><![CDATA[Over the past decades, the machine learning community has developed tons of data-driven techniques aimed at enhancing learning efficiency, like semi-supervised learning, meta learning, active learning, transfer learning, and more. However, none of these techniques have proven to be highly effective for real-world natural language processing tasks. This shortcoming uncovers a fundamental flaw in machine learning - the absence of reasoning. Humans often learn from just a few examples because of their capacity to reason, as opposed to relying on data statistics. In this talk, I will talk about the large language models (LLM) reasoning work that we pioneered, and show that the techniques we developed can greatly narrow the gap between human intelligence and machine learning - crushed SoTA in the literature while demanding only a few annotated examples and no training. Our work was presented by Google CEO Sundar Pichai at Google I/O 2022 as a showcase of Google AI.]]></summary>
         <author>
             <name>Harvard ML Foundations</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Speeding up Learning Quantum States through Group Equivariant
+  Convolutional Quantum Ans\"atze]]></title>
+        <id>http://arxiv.org/abs/2112.07611</id>
+        <link href="http://arxiv.org/abs/2112.07611"/>
+        <updated>2023-09-15T03:15:04.999Z</updated>
+        <summary type="html"><![CDATA[Han Zheng, Zimu Li, Junyu Liu, Sergii Strelchuk, Risi Kondor]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Multi-Source Domain Adaptation meets Dataset Distillation through
+  Dataset Dictionary Learning]]></title>
+        <id>http://arxiv.org/abs/2309.07666</id>
+        <link href="http://arxiv.org/abs/2309.07666"/>
+        <updated>2023-09-15T03:15:04.843Z</updated>
+        <summary type="html"><![CDATA[Eduardo Fernandes Montesuma, Fred Ngol\`e Mboula, Antoine Souloumiac]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Benign Overfitting without Linearity: Neural Network Classifiers Trained
+  by Gradient Descent for Noisy Linear Data]]></title>
+        <id>http://arxiv.org/abs/2202.05928</id>
+        <link href="http://arxiv.org/abs/2202.05928"/>
+        <updated>2023-09-15T03:15:04.814Z</updated>
+        <summary type="html"><![CDATA[Spencer Frei, Niladri S. Chatterji, Peter L. Bartlett]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[On a continuous time model of gradient descent dynamics and instability
+  in deep learning]]></title>
+        <id>http://arxiv.org/abs/2302.01952</id>
+        <link href="http://arxiv.org/abs/2302.01952"/>
+        <updated>2023-09-15T03:15:04.668Z</updated>
+        <summary type="html"><![CDATA[Mihaela Rosca, Yan Wu, Chongli Qin, Benoit Dherin]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Random Feature Amplification: Feature Learning and Generalization in
+  Neural Networks]]></title>
+        <id>http://arxiv.org/abs/2202.07626</id>
+        <link href="http://arxiv.org/abs/2202.07626"/>
+        <updated>2023-09-15T03:15:04.656Z</updated>
+        <summary type="html"><![CDATA[Spencer Frei, Niladri S. Chatterji, Peter L. Bartlett]]></summary>
+        <author>
+            <name>arxivist feed</name>
         </author>
     </entry>
     <entry>
