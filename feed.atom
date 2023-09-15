@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-09-15T10:16:00.268Z</updated>
+    <updated>2023-09-15T11:12:31.477Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -14,6 +14,16 @@
         <summary type="html"><![CDATA[Over the past decades, the machine learning community has developed tons of data-driven techniques aimed at enhancing learning efficiency, like semi-supervised learning, meta learning, active learning, transfer learning, and more. However, none of these techniques have proven to be highly effective for real-world natural language processing tasks. This shortcoming uncovers a fundamental flaw in machine learning - the absence of reasoning. Humans often learn from just a few examples because of their capacity to reason, as opposed to relying on data statistics. In this talk, I will talk about the large language models (LLM) reasoning work that we pioneered, and show that the techniques we developed can greatly narrow the gap between human intelligence and machine learning - crushed SoTA in the literature while demanding only a few annotated examples and no training. Our work was presented by Google CEO Sundar Pichai at Google I/O 2022 as a showcase of Google AI.]]></summary>
         <author>
             <name>Harvard ML Foundations</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How do you say "polo", "logo", and "erase with Photoshop" in Chinese?]]></title>
+        <id>https://languagelog.ldc.upenn.edu/nll/?p=60597</id>
+        <link href="https://languagelog.ldc.upenn.edu/nll/?p=60597&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=how-do-you-say-polo-logo-and-erase-with-photoshop-in-chinese"/>
+        <updated>2023-09-15T10:45:46.000Z</updated>
+        <summary type="html"><![CDATA["Hebei official’s shirt logo removed for ‘aesthetic reasons,’ triggering speculation among netizens" By Global Times (Sep 05, 2023) Official photos of a city Party chief in North China's Hebei Province, with his shirt's logo removed by editing, have sparked a wide-ranging discussion among Chinese netizens, with some speculating that it was a move to obscure […]]]></summary>
+        <author>
+            <name>Victor Mair</name>
         </author>
     </entry>
     <entry>
@@ -2563,16 +2573,6 @@ Modern neural networks have achieved impressive performance across a variety of 
         <summary type="html"><![CDATA[[Cross posted on lesswrong; see here for my prior writings]  [it appears almost certain that in the immediate future, it would be] possible to set up a nuclear chain reaction in a large mass of uranium by which vast amounts of power and large quantities of new radium-like elements would be generated. Letter from Albert Einstein (prepared by … Continue reading Reflections on “Making the Atomic Bomb”]]></summary>
         <author>
             <name>Boaz Barak</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mike’s obituary in the IMS Bulletin]]></title>
-        <id>http://xianblog.wordpress.com/?p=53703</id>
-        <link href="https://xianblog.wordpress.com/2023/08/17/mikes-obituary-in-the-ims-bulletin/"/>
-        <updated>2023-08-16T22:23:17.000Z</updated>
-        <summary type="html"><![CDATA[Visit the post for more.]]></summary>
-        <author>
-            <name>xi'an</name>
         </author>
     </entry>
 </feed>
