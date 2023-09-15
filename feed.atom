@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-09-15T01:04:36.334Z</updated>
+    <updated>2023-09-15T02:21:53.566Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Denny Zhou - Teach language models to reason]]></title>
+        <id>https://mlfoundations.org/talk/denny/</id>
+        <link href="https://mlfoundations.org/talk/denny/"/>
+        <updated>2023-09-15T14:15:00.000Z</updated>
+        <summary type="html"><![CDATA[Over the past decades, the machine learning community has developed tons of data-driven techniques aimed at enhancing learning efficiency, like semi-supervised learning, meta learning, active learning, transfer learning, and more. However, none of these techniques have proven to be highly effective for real-world natural language processing tasks. This shortcoming uncovers a fundamental flaw in machine learning - the absence of reasoning. Humans often learn from just a few examples because of their capacity to reason, as opposed to relying on data statistics. In this talk, I will talk about the large language models (LLM) reasoning work that we pioneered, and show that the techniques we developed can greatly narrow the gap between human intelligence and machine learning - crushed SoTA in the literature while demanding only a few annotated examples and no training. Our work was presented by Google CEO Sundar Pichai at Google I/O 2022 as a showcase of Google AI.]]></summary>
+        <author>
+            <name>Harvard ML Foundations</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[junior position in statistics and econometrics at ESSEC, Cergy-Pontoise]]></title>
         <id>http://xianblog.wordpress.com/?p=54028</id>
