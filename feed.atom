@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-09-15T17:13:04.343Z</updated>
+    <updated>2023-09-15T18:18:29.863Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[MediaPipe FaceStylizer: On-device real-time few-shot face stylization]]></title>
+        <id>http://blog.research.google/2023/09/mediapipe-facestylizer-on-device-real.html</id>
+        <link href="http://blog.research.google/2023/09/mediapipe-facestylizer-on-device-real.html"/>
+        <updated>2023-09-15T17:39:00.002Z</updated>
+        <summary type="html"><![CDATA[Posted by Haolin Jia, Software Engineer, and Qifei Wang, Senior Software Engineer, Core ML
+
+
+
+In recent years, we have witnessed rising interest across consumers and researchers in integrated augmented reality (AR) experiences using real-time face feature generation and editing functions in mobile applications, including short videos, virtual reality, and gaming. As a result, there is a growing demand for lightweight, yet high-quality face generation and editing models, which are often based on generative adversarial network (GAN) techniques. However, the majority of GAN models suffer from high computational complexity and the need for a large training dataset. In addition, it is also important to employ GAN models responsibly. 
+
+
+
+In this post, we introduce MediaPipe FaceStylizer, an effi…]]></summary>
+        <author>
+            <name>Google AI Blog</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Benchmark Analysis of Representative Deep Neural Network Architectures]]></title>
         <id>http://arxiv.org/abs/1810.00736</id>

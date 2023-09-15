@@ -1824,6 +1824,16 @@
       "siteUrl": "http://blog.research.google/",
       "articles": [
         {
+          "id": "http://blog.research.google/2023/09/mediapipe-facestylizer-on-device-real.html",
+          "author": null,
+          "description": "Posted by Haolin Jia, Software Engineer, and Qifei Wang, Senior Software Engineer, Core ML\n\n\n\nIn recent years, we have witnessed rising interest across consumers and researchers in integrated augmented reality (AR) experiences using real-time face feature generation and editing functions in mobile applications, including short videos, virtual reality, and gaming. As a result, there is a growing demand for lightweight, yet high-quality face generation and editing models, which are often based on generative adversarial network (GAN) techniques. However, the majority of GAN models suffer from high computational complexity and the need for a large training dataset. In addition, it is also important to employ GAN models responsibly. \n\n\n\nIn this post, we introduce MediaPipe FaceStylizer, an effi…",
+          "link": "http://blog.research.google/2023/09/mediapipe-facestylizer-on-device-real.html",
+          "publishedOn": "2023-09-15T17:39:00.002Z",
+          "wordCount": 27681,
+          "title": "MediaPipe FaceStylizer: On-device real-time few-shot face stylization",
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihspgvRDlnUmToZlZzCcRWCFIt9TRnLH9lepBq6ojBLxZ0nFEPBS7bQgOHY0klCfkewtZy5KSGnKYialzlh4xNSFP5Th4mvWJWcJ8XvNkCAJK9T7f_xHSK-H0uPW0paxcTG3nhQtP7eY7iKSVjX-Oaca182KHKiuGzj2C4yWT_kenY-Ys7LtS7i93RCtcP/w1200-h630-p-k-no-nu/FaceStylizer-Hero.png"
+        },
+        {
           "id": "http://blog.research.google/2023/09/on-device-content-distillation-with.html",
           "author": null,
           "description": "Posted by Gabriel Barcik and Duc-Hieu Tran, Research Engineers, Google Research\n\n\n\n\nIn today's digital age, smartphones and desktop web browsers serve as the primary tools for accessing news and information. However, the proliferation of website clutter — encompassing complex layouts, navigation elements, and extraneous links — significantly impairs both the reading experience and article navigation. This issue is particularly acute for individuals with accessibility requirements.\n\n\n\nTo improve the user experience and make reading more accessible, Android and Chrome users may leverage the Reading Mode feature, which enhances accessibility by processing webpages to allow customizable contrast, adjustable text size, more legible fonts, and to enable text-to-speech utilities. Additionally, An…",
