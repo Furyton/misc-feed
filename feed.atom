@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-09-15T06:19:17.594Z</updated>
+    <updated>2023-09-15T07:13:34.892Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -14,6 +14,26 @@
         <summary type="html"><![CDATA[Over the past decades, the machine learning community has developed tons of data-driven techniques aimed at enhancing learning efficiency, like semi-supervised learning, meta learning, active learning, transfer learning, and more. However, none of these techniques have proven to be highly effective for real-world natural language processing tasks. This shortcoming uncovers a fundamental flaw in machine learning - the absence of reasoning. Humans often learn from just a few examples because of their capacity to reason, as opposed to relying on data statistics. In this talk, I will talk about the large language models (LLM) reasoning work that we pioneered, and show that the techniques we developed can greatly narrow the gap between human intelligence and machine learning - crushed SoTA in the literature while demanding only a few annotated examples and no training. Our work was presented by Google CEO Sundar Pichai at Google I/O 2022 as a showcase of Google AI.]]></summary>
         <author>
             <name>Harvard ML Foundations</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Test Your Intuition 53 by Ehud Friedgut: Which Way to Ride Your Bike]]></title>
+        <id>http://gilkalai.wordpress.com/?p=24686</id>
+        <link href="https://gilkalai.wordpress.com/2023/09/15/test-your-intuition-53-by-ehud-friedgut-which-way-to-ride-your-bike/"/>
+        <updated>2023-09-15T06:26:18.000Z</updated>
+        <summary type="html"><![CDATA[This post was kindly written by Ehud Friedgut. Shana Tova (= Happy New Jewish Year) to all our readers. The following is a real-life question. I recently rode my bike around a closed track. The track consists of a flat … Continue reading →]]></summary>
+        <author>
+            <name>Gil Kalai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Test Your Intuition 53 by Ehud Friedgut: Which Way to Ride Your Bike]]></title>
+        <id>http://gilkalai.wordpress.com/?p=24686</id>
+        <link href="https://gilkalai.wordpress.com/2023/09/15/test-your-intuition-53-by-ehud-friedgut-which-way-to-ride-your-bike/"/>
+        <updated>2023-09-15T06:26:18.000Z</updated>
+        <summary type="html"><![CDATA[This post was kindly written by Ehud Friedgut. Shana Tova (= Happy New Jewish Year) to all our readers. The following is a real-life question. I recently rode my bike around a closed track. The track consists of a flat … Continue reading →]]></summary>
+        <author>
+            <name>Gil Kalai</name>
         </author>
     </entry>
     <entry>
