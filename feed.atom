@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-09-15T22:13:35.547Z</updated>
+    <updated>2023-09-15T23:14:14.297Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[a day for social good in London]]></title>
+        <id>http://xianblog.wordpress.com/?p=53906</id>
+        <link href="https://xianblog.wordpress.com/2023/09/16/a-day-for-social-good-in-london/"/>
+        <updated>2023-09-15T22:23:33.000Z</updated>
+        <summary type="html"><![CDATA[On Thursday, I went (from Paris) to London for the final day of Warwick DSSGx UK 2023 (Data Science for Social Good), which took place in The Shard, the tallest building in London (and certainly not the prettiest!), where the Warwick Business School has offices, and on the way, stopped by the nearby Tate Modern […]]]></summary>
+        <author>
+            <name>xi'an</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[MediaPipe FaceStylizer: On-device real-time few-shot face stylization]]></title>
         <id>http://blog.research.google/2023/09/mediapipe-facestylizer-on-device-real.html</id>
