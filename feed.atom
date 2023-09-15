@@ -2,10 +2,61 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-09-15T16:19:14.859Z</updated>
+    <updated>2023-09-15T17:13:04.343Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Benchmark Analysis of Representative Deep Neural Network Architectures]]></title>
+        <id>http://arxiv.org/abs/1810.00736</id>
+        <link href="http://arxiv.org/abs/1810.00736"/>
+        <updated>2023-09-15T17:12:59.614Z</updated>
+        <summary type="html"><![CDATA[Simone Bianco, Remi Cadene, Luigi Celona, Paolo Napoletano]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pseudo-finite sets, pseudo-o-minimality]]></title>
+        <id>http://arxiv.org/abs/1908.01660</id>
+        <link href="http://arxiv.org/abs/1908.01660"/>
+        <updated>2023-09-15T17:12:58.902Z</updated>
+        <summary type="html"><![CDATA[Nadav Meir]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Euler systems for GSp(4)]]></title>
+        <id>http://arxiv.org/abs/1706.00201</id>
+        <link href="http://arxiv.org/abs/1706.00201"/>
+        <updated>2023-09-15T17:12:58.883Z</updated>
+        <summary type="html"><![CDATA[David Loeffler, Chris Skinner, Sarah Livia Zerbes]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Complete type amalgamation for non-standard finite groups]]></title>
+        <id>http://arxiv.org/abs/2009.08967</id>
+        <link href="http://arxiv.org/abs/2009.08967"/>
+        <updated>2023-09-15T17:12:58.070Z</updated>
+        <summary type="html"><![CDATA[Amador Martin-Pizarro, Daniel Palac\'in]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Using Scratch to Teach Undergraduate Students' Skills on Artificial
+  Intelligence]]></title>
+        <id>http://arxiv.org/abs/1904.00296</id>
+        <link href="http://arxiv.org/abs/1904.00296"/>
+        <updated>2023-09-15T17:12:58.065Z</updated>
+        <summary type="html"><![CDATA[Julian Estevez, Gorka Garate, JM Lopez Guede, Manuel Gra\~na]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Denny Zhou - Teach language models to reason]]></title>
         <id>https://mlfoundations.org/talk/denny/</id>
