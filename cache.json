@@ -1100,6 +1100,16 @@
       "siteUrl": "https://kexue.fm/",
       "articles": [
         {
+          "id": "https://kexue.fm/archives/9768",
+          "author": "苏剑林",
+          "description": "上一篇文章《大词表语言模型在续写任务上的一个问题及对策》发布后，很快就有读者指出可以在训练阶段引入带有随机性的分词结果来解决同样的问题，并且已经有论文和实现。经过进一步查阅学习，笔者发现这是一个...",
+          "link": "https://kexue.fm/archives/9768",
+          "publishedOn": "2023-09-16T01:01:00.000Z",
+          "wordCount": 1634,
+          "title": "Unigram随机分词：从Viterbi解码到随机采样",
+          "imageUrl": null
+        },
+        {
           "id": "https://kexue.fm/archives/9762",
           "author": "苏剑林",
           "description": "对于LLM来说，通过增大Tokenizer的词表来提高压缩率，从而缩短序列长度、降低解码成本，是大家都喜闻乐见的事情。毕竟增大词表只需要增大Embedding层和输出的Dense层，这部分增加的...",
