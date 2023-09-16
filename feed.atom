@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-09-16T02:18:07.653Z</updated>
+    <updated>2023-09-16T03:14:23.086Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -2632,16 +2632,6 @@ Modern neural networks have achieved impressive performance across a variety of 
 Modern neural networks have achieved impressive performance across a variety of applications, such as language, mathematical reasoning, and vision. However, these networks often use large architectures that require lots of computational resources. This can make it impractical to serve such models to users, especially in resource-constrained environments like wearables and smartphones. A widely used approach to mitigate the inference costs of pre-trained networks is to prune them by removing some of their weights, in a way that doesn’t significantly affect utility. In standard neural networks, each weight defines a connection between two neurons. So after weights are pruned, the input…]]></summary>
         <author>
             <name>Google AI Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pork Lion Bone]]></title>
-        <id>https://languagelog.ldc.upenn.edu/nll/?p=60183</id>
-        <link href="https://languagelog.ldc.upenn.edu/nll/?p=60183&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=pork-lion-bone"/>
-        <updated>2023-08-17T15:12:12.000Z</updated>
-        <summary type="html"><![CDATA[Seen by François Lang at the meat counter at The Great Wall in Rockville, MD: François remarks:  "It took me a minute to realize that the sign meant 'Loin Bone'!" The Chinese characters say: lónggǔ 龍骨 "dragon bone" In different contexts, that can also mean "keel (beam along the underside of a ship’s hull); fossil bones […]]]></summary>
-        <author>
-            <name>Victor Mair</name>
         </author>
     </entry>
 </feed>
