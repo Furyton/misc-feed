@@ -2082,26 +2082,6 @@
           "wordCount": 27660,
           "title": "Autonomous visual information seeking with large language models",
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEje4SF07XPWF1tjYompjrnyrqMXDjqkeotbgVq0mMaGL6fuTPtw45P0TewFTemIVW8KBVCDdWtMS89gLqNpbDNjwWRg8WlvzzkhBGBOWmM1SUFzF5vkoFiiaIylBb2jZELcM4HDYqYoAmK4eYzrvfCHgAASKIZY1kVGcL9ORQXF4Qdfo32mA8Z4bh8smHNA/w1200-h630-p-k-no-nu/AVIS.png"
-        },
-        {
-          "id": "http://blog.research.google/2023/08/neural-network-pruning-with.html",
-          "author": null,
-          "description": "Posted by Hussein Hazimeh, Research Scientist, Athena Team, and Riade Benbaki, Graduate Student at MIT\n\n\n\n\n\nModern neural networks have achieved impressive performance across a variety of applications, such as language, mathematical reasoning, and vision. However, these networks often use large architectures that require lots of computational resources. This can make it impractical to serve such models to users, especially in resource-constrained environments like wearables and smartphones. A widely used approach to mitigate the inference costs of pre-trained networks is to prune them by removing some of their weights, in a way that doesn’t significantly affect utility. In standard neural networks, each weight defines a connection between two neurons. So after weights are pruned, the input…",
-          "link": "http://blog.research.google/2023/08/neural-network-pruning-with.html",
-          "publishedOn": "2023-08-17T18:08:00.000Z",
-          "wordCount": 27758,
-          "title": "Neural network pruning with combinatorial optimization",
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgyU4esZL0DIoU6gbv90zR7Fw-r8Jm9DhLix7eBHMwp50c_3l1pP0myByQ4fSPidsrfhMrOxS2hQxLJuQ4d5DVJP3n5hAocfJeAWQDNjcvrU679bnFYcww0qcNWNzr3SEEcOQqG8owJmNxIWIrqJq_6ReXBJ9PUK-tW1ou0j73P3grgASIrfudrTyjyHu5K/w1200-h630-p-k-no-nu/CHITA%20hero.gif"
-        },
-        {
-          "id": "http://ai.googleblog.com/2023/08/neural-network-pruning-with.html",
-          "author": null,
-          "description": "Posted by Hussein Hazimeh, Research Scientist, Athena Team, and Riade Benbaki, Graduate Student at MIT\n\n\n\n\n\nModern neural networks have achieved impressive performance across a variety of applications, such as language, mathematical reasoning, and vision. However, these networks often use large architectures that require lots of computational resources. This can make it impractical to serve such models to users, especially in resource-constrained environments like wearables and smartphones. A widely used approach to mitigate the inference costs of pre-trained networks is to prune them by removing some of their weights, in a way that doesn’t significantly affect utility. In standard neural networks, each weight defines a connection between two neurons. So after weights are pruned, the input…",
-          "link": "http://ai.googleblog.com/2023/08/neural-network-pruning-with.html",
-          "publishedOn": "2023-08-17T18:08:00.000Z",
-          "wordCount": 27758,
-          "title": "Neural network pruning with combinatorial optimization",
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgyU4esZL0DIoU6gbv90zR7Fw-r8Jm9DhLix7eBHMwp50c_3l1pP0myByQ4fSPidsrfhMrOxS2hQxLJuQ4d5DVJP3n5hAocfJeAWQDNjcvrU679bnFYcww0qcNWNzr3SEEcOQqG8owJmNxIWIrqJq_6ReXBJ9PUK-tW1ou0j73P3grgASIrfudrTyjyHu5K/w1200-h630-p-k-no-nu/CHITA%20hero.gif"
         }
       ]
     },

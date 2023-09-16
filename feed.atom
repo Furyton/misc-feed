@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-09-16T05:12:54.416Z</updated>
+    <updated>2023-09-16T06:17:49.061Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -2600,38 +2600,6 @@ AVIS: Autonomous Visual Information Seeking with Large Language Models”, we i�
         <summary type="html"><![CDATA[Tian-Yi Zhou, Xiaoming Huo]]></summary>
         <author>
             <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Neural network pruning with combinatorial optimization]]></title>
-        <id>http://blog.research.google/2023/08/neural-network-pruning-with.html</id>
-        <link href="http://blog.research.google/2023/08/neural-network-pruning-with.html"/>
-        <updated>2023-08-17T18:08:00.000Z</updated>
-        <summary type="html"><![CDATA[Posted by Hussein Hazimeh, Research Scientist, Athena Team, and Riade Benbaki, Graduate Student at MIT
-
-
-
-
-
-Modern neural networks have achieved impressive performance across a variety of applications, such as language, mathematical reasoning, and vision. However, these networks often use large architectures that require lots of computational resources. This can make it impractical to serve such models to users, especially in resource-constrained environments like wearables and smartphones. A widely used approach to mitigate the inference costs of pre-trained networks is to prune them by removing some of their weights, in a way that doesn’t significantly affect utility. In standard neural networks, each weight defines a connection between two neurons. So after weights are pruned, the input…]]></summary>
-        <author>
-            <name>Google AI Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Neural network pruning with combinatorial optimization]]></title>
-        <id>http://ai.googleblog.com/2023/08/neural-network-pruning-with.html</id>
-        <link href="http://ai.googleblog.com/2023/08/neural-network-pruning-with.html"/>
-        <updated>2023-08-17T18:08:00.000Z</updated>
-        <summary type="html"><![CDATA[Posted by Hussein Hazimeh, Research Scientist, Athena Team, and Riade Benbaki, Graduate Student at MIT
-
-
-
-
-
-Modern neural networks have achieved impressive performance across a variety of applications, such as language, mathematical reasoning, and vision. However, these networks often use large architectures that require lots of computational resources. This can make it impractical to serve such models to users, especially in resource-constrained environments like wearables and smartphones. A widely used approach to mitigate the inference costs of pre-trained networks is to prune them by removing some of their weights, in a way that doesn’t significantly affect utility. In standard neural networks, each weight defines a connection between two neurons. So after weights are pruned, the input…]]></summary>
-        <author>
-            <name>Google AI Blog</name>
         </author>
     </entry>
 </feed>
