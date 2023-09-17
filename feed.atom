@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-09-17T06:17:53.196Z</updated>
+    <updated>2023-09-17T07:12:32.299Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -2519,56 +2519,6 @@ We are excited to be a Platinum Sponsor of INTERSPEECH 2023, where we will be sh
         <summary type="html"><![CDATA[In social and even mass media, you may have seen coverage of a recent paper by Joshua Harrison et al., "A Practical Deep Learning-Based Acoustic Side Channel Attack on Keyboards". Some samples of the clickbait: "A.I. can identify keystrokes by just the sound of your typing and steal information with 95% accuracy, new research shows", […]]]></summary>
         <author>
             <name>Mark Liberman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Autonomous visual information seeking with large language models]]></title>
-        <id>http://blog.research.google/2023/08/autonomous-visual-information-seeking.html</id>
-        <link href="http://blog.research.google/2023/08/autonomous-visual-information-seeking.html"/>
-        <updated>2023-08-18T18:28:00.004Z</updated>
-        <summary type="html"><![CDATA[Posted by Ziniu Hu, Student Researcher, and Alireza Fathi, Research Scientist, Google Research, Perception Team
-
-
-
-
-There has been great progress towards adapting large language models (LLMs) to accommodate multimodal inputs for tasks including image captioning, visual question answering (VQA), and open vocabulary recognition. Despite such achievements, current state-of-the-art visual language models (VLMs) perform inadequately on visual information seeking datasets, such as Infoseek and OK-VQA, where external knowledge is required to answer the questions. 
- 
-
-
-
-
-
-
-Examples of visual information seeking queries where external knowledge is required to answer the question. Images are taken from the OK-VQA dataset.
-
-AVIS: Autonomous Visual Information Seeking with Large Language Models”, we i…]]></summary>
-        <author>
-            <name>Google AI Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Autonomous visual information seeking with large language models]]></title>
-        <id>http://ai.googleblog.com/2023/08/autonomous-visual-information-seeking.html</id>
-        <link href="http://ai.googleblog.com/2023/08/autonomous-visual-information-seeking.html"/>
-        <updated>2023-08-18T18:28:00.004Z</updated>
-        <summary type="html"><![CDATA[Posted by Ziniu Hu, Student Researcher, and Alireza Fathi, Research Scientist, Google Research, Perception Team
-
-
-
-
-There has been great progress towards adapting large language models (LLMs) to accommodate multimodal inputs for tasks including image captioning, visual question answering (VQA), and open vocabulary recognition. Despite such achievements, current state-of-the-art visual language models (VLMs) perform inadequately on visual information seeking datasets, such as Infoseek and OK-VQA, where external knowledge is required to answer the questions. 
- 
-
-
-
-
-
-
-Examples of visual information seeking queries where external knowledge is required to answer the question. Images are taken from the OK-VQA dataset.
-
-AVIS: Autonomous Visual Information Seeking with Large Language Models”, we i…]]></summary>
-        <author>
-            <name>Google AI Blog</name>
         </author>
     </entry>
 </feed>
