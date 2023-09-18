@@ -6,6 +6,56 @@
       "siteUrl": "https://www.arxivist.com",
       "articles": [
         {
+          "id": "http://arxiv.org/abs/2108.11000",
+          "author": null,
+          "description": "Sanket Jantre, Shrijita Bhattacharya, Tapabrata Maiti",
+          "link": "http://arxiv.org/abs/2108.11000",
+          "publishedOn": "2023-09-18T03:15:08.261Z",
+          "wordCount": 779,
+          "title": "Layer Adaptive Node Selection in Bayesian Neural Networks: Statistical\n  Guarantees and Implementation Details",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2309.08406",
+          "author": null,
+          "description": "Riccardo Massidda, Francesco Landolfi, Martina Cinquini, Davide Bacciu",
+          "link": "http://arxiv.org/abs/2309.08406",
+          "publishedOn": "2023-09-18T03:15:08.219Z",
+          "wordCount": 657,
+          "title": "Constraint-Free Structure Learning with Smooth Acyclic Orientations",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2305.16044",
+          "author": null,
+          "description": "Gehua Ma, Rui Yan, Huajin Tang",
+          "link": "http://arxiv.org/abs/2305.16044",
+          "publishedOn": "2023-09-18T03:15:08.214Z",
+          "wordCount": 743,
+          "title": "Exploiting Noise as a Resource for Computation and Learning in Spiking\n  Neural Networks",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2309.08044",
+          "author": null,
+          "description": "Mike Nguyen, Nicole M\\\"ucke",
+          "link": "http://arxiv.org/abs/2309.08044",
+          "publishedOn": "2023-09-18T03:15:08.021Z",
+          "wordCount": 635,
+          "title": "How many Neurons do we need? A refined Analysis for Shallow Networks\n  trained with Gradient Descent",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2309.07945",
+          "author": null,
+          "description": "Daesoo Lee, Erlend Aune, Sara Malacarne",
+          "link": "http://arxiv.org/abs/2309.07945",
+          "publishedOn": "2023-09-18T03:15:08.005Z",
+          "wordCount": 674,
+          "title": "Masked Generative Modeling with Enhanced Sampling Scheme",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
           "id": "http://arxiv.org/abs/2202.07718",
           "author": null,
           "description": "Patti Hamerski, Daryl McPadden, Marcos D. Caballero, Paul W. Irving",
