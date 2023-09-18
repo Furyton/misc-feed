@@ -1447,6 +1447,16 @@
       "siteUrl": "https://jeremykun.com",
       "articles": [
         {
+          "id": "https://jeremykun.com/?p=119941",
+          "author": "Jeremy Kun",
+          "description": "In cryptography, we need a distinction between a cleartext and a plaintext. A cleartext is a message in its natural form. A plaintext is a cleartext that is represented in a specific way to prepare it for encryption in a specific scheme. The process of taking a cleartext and turning it into a plaintext is […]",
+          "link": "https://jeremykun.com/2023/09/18/encoding-schemes-in-fhe/",
+          "publishedOn": "2023-09-18T18:08:39.000Z",
+          "wordCount": 4328,
+          "title": "Encoding Schemes in FHE",
+          "imageUrl": "https://s0.wp.com/i/blank.jpg"
+        },
+        {
           "id": "https://jeremykun.com/?p=119898",
           "author": "Jeremy Kun",
           "description": "Table of Contents Last time we defined folders and used them to enable some canonicalization and the sccp constant propagation pass for the poly dialect. This time we’ll add some additional safety checks to the dialect in the form of verifiers. The code for this article is in this pull request, and as usual the […]",
@@ -2086,6 +2096,16 @@
       "feedUrl": "https://languagelog.ldc.upenn.edu/nll/?feed=rss2",
       "siteUrl": "https://languagelog.ldc.upenn.edu/nll",
       "articles": [
+        {
+          "id": "https://languagelog.ldc.upenn.edu/nll/?p=60634",
+          "author": "Victor Mair",
+          "description": "In recent weeks, the odd expression \"kǒudài zuì 口袋罪\" (lit., \"pocket / bag crime\"} has become a hot topic).  It's a vague, catch-all term without any juridical / official standing, yet it has left many people troubled over its implications.  To understand why people are unsettled over such a seemingly zany, innocuous term, we will […]",
+          "link": "https://languagelog.ldc.upenn.edu/nll/?p=60634&utm_source=rss&utm_medium=rss&utm_campaign=grab-mixed-bag-of-crimes-that-hurt-the-feelings-of-the-chinese-people-part-2",
+          "publishedOn": "2023-09-18T18:09:39.000Z",
+          "wordCount": 3775,
+          "title": "Grab / Mixed bag of crimes that \"hurt the feelings of the Chinese people\", part 2",
+          "imageUrl": null
+        },
         {
           "id": "https://languagelog.ldc.upenn.edu/nll/?p=60651",
           "author": "Mark Liberman",

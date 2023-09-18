@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-09-18T17:13:44.667Z</updated>
+    <updated>2023-09-18T18:19:19.948Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Grab / Mixed bag of crimes that "hurt the feelings of the Chinese people", part 2]]></title>
+        <id>https://languagelog.ldc.upenn.edu/nll/?p=60634</id>
+        <link href="https://languagelog.ldc.upenn.edu/nll/?p=60634&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=grab-mixed-bag-of-crimes-that-hurt-the-feelings-of-the-chinese-people-part-2"/>
+        <updated>2023-09-18T18:09:39.000Z</updated>
+        <summary type="html"><![CDATA[In recent weeks, the odd expression "kǒudài zuì 口袋罪" (lit., "pocket / bag crime"} has become a hot topic).  It's a vague, catch-all term without any juridical / official standing, yet it has left many people troubled over its implications.  To understand why people are unsettled over such a seemingly zany, innocuous term, we will […]]]></summary>
+        <author>
+            <name>Victor Mair</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Encoding Schemes in FHE]]></title>
+        <id>https://jeremykun.com/?p=119941</id>
+        <link href="https://jeremykun.com/2023/09/18/encoding-schemes-in-fhe/"/>
+        <updated>2023-09-18T18:08:39.000Z</updated>
+        <summary type="html"><![CDATA[In cryptography, we need a distinction between a cleartext and a plaintext. A cleartext is a message in its natural form. A plaintext is a cleartext that is represented in a specific way to prepare it for encryption in a specific scheme. The process of taking a cleartext and turning it into a plaintext is […]]]></summary>
+        <author>
+            <name>Jeremy Kun</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[A new draft…]]></title>
         <id>https://languagelog.ldc.upenn.edu/nll/?p=60651</id>
