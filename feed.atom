@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-09-18T13:17:10.486Z</updated>
+    <updated>2023-09-18T14:14:45.032Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[A new draft…]]></title>
+        <id>https://languagelog.ldc.upenn.edu/nll/?p=60651</id>
+        <link href="https://languagelog.ldc.upenn.edu/nll/?p=60651&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=60651"/>
+        <updated>2023-09-18T13:33:08.000Z</updated>
+        <summary type="html"><![CDATA[This is not at all the experience that I've had with multiple-authored papers — but it's funny: “Thanks everyone for comments on the draft, here it is revised with all your edits.” pic.twitter.com/pSV16wQqca — Ben Phillips (@benphillips76) September 17, 2023 And I've sometimes had analogous issues with "copy editing" — see e.g. "Spectrums", 5/24/2022…]]></summary>
+        <author>
+            <name>Mark Liberman</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Layer Adaptive Node Selection in Bayesian Neural Networks: Statistical
   Guarantees and Implementation Details]]></title>
