@@ -6,6 +6,56 @@
       "siteUrl": "https://www.arxivist.com",
       "articles": [
         {
+          "id": "http://arxiv.org/abs/2207.01848",
+          "author": null,
+          "description": "Noah Hollmann, Samuel M\\\"uller, Katharina Eggensperger, Frank Hutter",
+          "link": "http://arxiv.org/abs/2207.01848",
+          "publishedOn": "2023-09-19T03:15:27.394Z",
+          "wordCount": 811,
+          "title": "TabPFN: A Transformer That Solves Small Tabular Classification Problems\n  in a Second",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2203.00176",
+          "author": null,
+          "description": "Dixian Zhu, Gang Li, Bokun Wang, Xiaodong Wu, Tianbao Yang",
+          "link": "http://arxiv.org/abs/2203.00176",
+          "publishedOn": "2023-09-19T03:15:27.389Z",
+          "wordCount": 729,
+          "title": "When AUC meets DRO: Optimizing Partial AUC for Deep Learning with\n  Non-Convex Convergence Guarantee",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2202.05250",
+          "author": null,
+          "description": "Yaqi Duan, Kaizheng Wang",
+          "link": "http://arxiv.org/abs/2202.05250",
+          "publishedOn": "2023-09-19T03:15:27.383Z",
+          "wordCount": 610,
+          "title": "Adaptive and Robust Multi-Task Learning",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2309.09195",
+          "author": null,
+          "description": "Divya J. Bajpai, Vivek K. Trivedi, Sohan L. Yadav, Manjesh K.\n  Hanawal",
+          "link": "http://arxiv.org/abs/2309.09195",
+          "publishedOn": "2023-09-19T03:15:27.378Z",
+          "wordCount": 758,
+          "title": "SplitEE: Early Exit in Deep Neural Networks with Split Computing",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2309.09457",
+          "author": null,
+          "description": "Noah Golowich, Dhruv Rohatgi, Ankur Moitra",
+          "link": "http://arxiv.org/abs/2309.09457",
+          "publishedOn": "2023-09-19T03:15:27.358Z",
+          "wordCount": 830,
+          "title": "Exploring and Learning in Sparse Linear MDPs without Computationally\n  Intractable Oracles",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
           "id": "http://arxiv.org/abs/2108.11000",
           "author": null,
           "description": "Sanket Jantre, Shrijita Bhattacharya, Tapabrata Maiti",
@@ -2584,21 +2634,6 @@
           "publishedOn": "2023-08-21T14:29:48.000Z",
           "wordCount": 3141,
           "title": "The Tocharian Trek:  PIE and migration across Eurasia",
-          "imageUrl": null
-        },
-        {
-          "id": "https://languagelog.ldc.upenn.edu/nll/?p=60245",
-          "author": "Mark Liberman",
-          "description": "In an interview on Friday (\"DeSantis plans to do what Trump couldn't | Full Interview with Will Witt\", The Florida Standard 8/18/2023), Ron DeSantis referred to (some of?) Donald Trump's followers as \"listless vessels\": Your browser does not support the audio element. The movement has got to be about what are you trying to achieve […]",
-          "link": "https://languagelog.ldc.upenn.edu/nll/?p=60245&utm_source=rss&utm_medium=rss&utm_campaign=listless-vessels",
-          "publishedOn": "2023-08-20T15:11:05.000Z",
-          "wordCount": 2593,
-          "title": "Listless vessels",
-          "enclosure": {
-            "url": "https://languagelog.ldc.upenn.edu/myl/DeSantisStandard082023X1.wav",
-            "length": "640544",
-            "type": "audio/wav"
-          },
           "imageUrl": null
         }
       ]

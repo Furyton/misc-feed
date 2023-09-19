@@ -2,10 +2,64 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-09-19T02:22:18.582Z</updated>
+    <updated>2023-09-19T03:15:28.560Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[TabPFN: A Transformer That Solves Small Tabular Classification Problems
+  in a Second]]></title>
+        <id>http://arxiv.org/abs/2207.01848</id>
+        <link href="http://arxiv.org/abs/2207.01848"/>
+        <updated>2023-09-19T03:15:27.394Z</updated>
+        <summary type="html"><![CDATA[Noah Hollmann, Samuel M\"uller, Katharina Eggensperger, Frank Hutter]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[When AUC meets DRO: Optimizing Partial AUC for Deep Learning with
+  Non-Convex Convergence Guarantee]]></title>
+        <id>http://arxiv.org/abs/2203.00176</id>
+        <link href="http://arxiv.org/abs/2203.00176"/>
+        <updated>2023-09-19T03:15:27.389Z</updated>
+        <summary type="html"><![CDATA[Dixian Zhu, Gang Li, Bokun Wang, Xiaodong Wu, Tianbao Yang]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Adaptive and Robust Multi-Task Learning]]></title>
+        <id>http://arxiv.org/abs/2202.05250</id>
+        <link href="http://arxiv.org/abs/2202.05250"/>
+        <updated>2023-09-19T03:15:27.383Z</updated>
+        <summary type="html"><![CDATA[Yaqi Duan, Kaizheng Wang]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SplitEE: Early Exit in Deep Neural Networks with Split Computing]]></title>
+        <id>http://arxiv.org/abs/2309.09195</id>
+        <link href="http://arxiv.org/abs/2309.09195"/>
+        <updated>2023-09-19T03:15:27.378Z</updated>
+        <summary type="html"><![CDATA[Divya J. Bajpai, Vivek K. Trivedi, Sohan L. Yadav, Manjesh K.
+  Hanawal]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Exploring and Learning in Sparse Linear MDPs without Computationally
+  Intractable Oracles]]></title>
+        <id>http://arxiv.org/abs/2309.09457</id>
+        <link href="http://arxiv.org/abs/2309.09457"/>
+        <updated>2023-09-19T03:15:27.358Z</updated>
+        <summary type="html"><![CDATA[Noah Golowich, Dhruv Rohatgi, Ankur Moitra]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[postdocs sought for NEMESIS]]></title>
         <id>http://xianblog.wordpress.com/?p=54032</id>
@@ -2582,16 +2636,6 @@ We are excited to be a Platinum Sponsor of INTERSPEECH 2023, where we will be sh
         <summary type="html"><![CDATA[Visit the post for more.]]></summary>
         <author>
             <name>xi'an</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Listless vessels]]></title>
-        <id>https://languagelog.ldc.upenn.edu/nll/?p=60245</id>
-        <link href="https://languagelog.ldc.upenn.edu/nll/?p=60245&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=listless-vessels"/>
-        <updated>2023-08-20T15:11:05.000Z</updated>
-        <summary type="html"><![CDATA[In an interview on Friday ("DeSantis plans to do what Trump couldn't | Full Interview with Will Witt", The Florida Standard 8/18/2023), Ron DeSantis referred to (some of?) Donald Trump's followers as "listless vessels": Your browser does not support the audio element. The movement has got to be about what are you trying to achieve […]]]></summary>
-        <author>
-            <name>Mark Liberman</name>
         </author>
     </entry>
 </feed>
