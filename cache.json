@@ -1064,56 +1064,6 @@
           "wordCount": 695,
           "title": "Lie, associative and commutative quasi-isomorphism",
           "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
-        },
-        {
-          "id": "http://arxiv.org/abs/2210.14396",
-          "author": null,
-          "description": "Zhishuai Guo, Rong Jin, Jiebo Luo, Tianbao Yang",
-          "link": "http://arxiv.org/abs/2210.14396",
-          "publishedOn": "2023-08-21T03:14:40.027Z",
-          "wordCount": 847,
-          "title": "FeDXL: Provable Federated Learning for Deep X-Risk Optimization",
-          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
-        },
-        {
-          "id": "http://arxiv.org/abs/2308.09444",
-          "author": null,
-          "description": "Weiguo Lu, Xuan Wu, Deng Ding, Gangnan Yuan",
-          "link": "http://arxiv.org/abs/2308.09444",
-          "publishedOn": "2023-08-21T03:14:40.020Z",
-          "wordCount": 656,
-          "title": "An Efficient 1 Iteration Learning Algorithm for Gaussian Mixture Model\n  And Gaussian Mixture Embedding For Neural Network",
-          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
-        },
-        {
-          "id": "http://arxiv.org/abs/2308.09605",
-          "author": null,
-          "description": "Guanhang Lei, Zhen Lei, Lei Shi, Chenyu Zeng, Ding-Xuan Zhou",
-          "link": "http://arxiv.org/abs/2308.09605",
-          "publishedOn": "2023-08-21T03:14:38.699Z",
-          "wordCount": 668,
-          "title": "Solving PDEs on Spheres with Physics-Informed Convolutional Neural\n  Networks",
-          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
-        },
-        {
-          "id": "http://arxiv.org/abs/2308.08977",
-          "author": null,
-          "description": "Elizabeth Collins-Woodfin, Courtney Paquette, Elliot Paquette, Inbar\n  Seroussi",
-          "link": "http://arxiv.org/abs/2308.08977",
-          "publishedOn": "2023-08-21T03:14:38.692Z",
-          "wordCount": 697,
-          "title": "Hitting the High-Dimensional Notes: An ODE for SGD learning dynamics on\n  GLMs and multi-index models",
-          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
-        },
-        {
-          "id": "http://arxiv.org/abs/2308.09374",
-          "author": null,
-          "description": "Johan Jonasson, Jeffrey E. Steif, Olof Zetterqvist",
-          "link": "http://arxiv.org/abs/2308.09374",
-          "publishedOn": "2023-08-21T03:14:38.671Z",
-          "wordCount": 611,
-          "title": "Noise Sensitivity and Stability of Deep Neural Networks for Binary\n  Classification",
-          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
         }
       ]
     },
@@ -1342,6 +1292,16 @@
       "feedUrl": "https://deepmind.com/blog/feed/basic/",
       "siteUrl": "https://www.deepmind.com",
       "articles": [
+        {
+          "id": "https://www.deepmind.com/blog/alphamissense-catalogue-of-genetic-mutations-to-help-pinpoint-the-cause-of-diseases",
+          "author": null,
+          "description": "We've released a catalogue of ‘missense’ mutations where researchers can learn more about what effect they may have. Missense variants are genetic mutations that can affect the function of human proteins. In some cases, they can lead to diseases such as cystic fibrosis, sickle-cell anaemia, or cancer. The AlphaMissense catalogue was developed using AlphaMissense, our new AI model which classifies missense variants.",
+          "link": "https://www.deepmind.com/blog/alphamissense-catalogue-of-genetic-mutations-to-help-pinpoint-the-cause-of-diseases",
+          "publishedOn": "2023-09-19T00:00:00.000Z",
+          "wordCount": 1929,
+          "title": "A catalogue of genetic mutations to help pinpoint the cause of diseases",
+          "imageUrl": "https://assets-global.website-files.com/621e749a546b7592125f38ed/650341ad2c13d51e6e95ec69_Header%20(1).webp"
+        },
         {
           "id": "https://www.deepmind.com/blog/identifying-ai-generated-images-with-synthid",
           "author": null,

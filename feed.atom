@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-09-19T14:14:23.528Z</updated>
+    <updated>2023-09-19T15:15:53.931Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -58,6 +58,16 @@
         <summary type="html"><![CDATA[Noah Golowich, Dhruv Rohatgi, Ankur Moitra]]></summary>
         <author>
             <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A catalogue of genetic mutations to help pinpoint the cause of diseases]]></title>
+        <id>https://www.deepmind.com/blog/alphamissense-catalogue-of-genetic-mutations-to-help-pinpoint-the-cause-of-diseases</id>
+        <link href="https://www.deepmind.com/blog/alphamissense-catalogue-of-genetic-mutations-to-help-pinpoint-the-cause-of-diseases"/>
+        <updated>2023-09-19T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[We've released a catalogue of ‘missense’ mutations where researchers can learn more about what effect they may have. Missense variants are genetic mutations that can affect the function of human proteins. In some cases, they can lead to diseases such as cystic fibrosis, sickle-cell anaemia, or cancer. The AlphaMissense catalogue was developed using AlphaMissense, our new AI model which classifies missense variants.]]></summary>
+        <author>
+            <name>DeepMind Blog</name>
         </author>
     </entry>
     <entry>
@@ -2559,61 +2569,6 @@ We are excited to be a Platinum Sponsor of INTERSPEECH 2023, where we will be sh
         <link href="http://arxiv.org/abs/1904.03585"/>
         <updated>2023-08-21T05:13:37.458Z</updated>
         <summary type="html"><![CDATA[Ricardo Campos, Dan Petersen, Daniel Robert-Nicoud, Felix Wierstra]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FeDXL: Provable Federated Learning for Deep X-Risk Optimization]]></title>
-        <id>http://arxiv.org/abs/2210.14396</id>
-        <link href="http://arxiv.org/abs/2210.14396"/>
-        <updated>2023-08-21T03:14:40.027Z</updated>
-        <summary type="html"><![CDATA[Zhishuai Guo, Rong Jin, Jiebo Luo, Tianbao Yang]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[An Efficient 1 Iteration Learning Algorithm for Gaussian Mixture Model
-  And Gaussian Mixture Embedding For Neural Network]]></title>
-        <id>http://arxiv.org/abs/2308.09444</id>
-        <link href="http://arxiv.org/abs/2308.09444"/>
-        <updated>2023-08-21T03:14:40.020Z</updated>
-        <summary type="html"><![CDATA[Weiguo Lu, Xuan Wu, Deng Ding, Gangnan Yuan]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Solving PDEs on Spheres with Physics-Informed Convolutional Neural
-  Networks]]></title>
-        <id>http://arxiv.org/abs/2308.09605</id>
-        <link href="http://arxiv.org/abs/2308.09605"/>
-        <updated>2023-08-21T03:14:38.699Z</updated>
-        <summary type="html"><![CDATA[Guanhang Lei, Zhen Lei, Lei Shi, Chenyu Zeng, Ding-Xuan Zhou]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hitting the High-Dimensional Notes: An ODE for SGD learning dynamics on
-  GLMs and multi-index models]]></title>
-        <id>http://arxiv.org/abs/2308.08977</id>
-        <link href="http://arxiv.org/abs/2308.08977"/>
-        <updated>2023-08-21T03:14:38.692Z</updated>
-        <summary type="html"><![CDATA[Elizabeth Collins-Woodfin, Courtney Paquette, Elliot Paquette, Inbar
-  Seroussi]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Noise Sensitivity and Stability of Deep Neural Networks for Binary
-  Classification]]></title>
-        <id>http://arxiv.org/abs/2308.09374</id>
-        <link href="http://arxiv.org/abs/2308.09374"/>
-        <updated>2023-08-21T03:14:38.671Z</updated>
-        <summary type="html"><![CDATA[Johan Jonasson, Jeffrey E. Steif, Olof Zetterqvist]]></summary>
         <author>
             <name>arxivist feed</name>
         </author>
