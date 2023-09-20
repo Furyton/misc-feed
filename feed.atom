@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-09-20T02:20:26.720Z</updated>
+    <updated>2023-09-20T03:15:15.594Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -2504,26 +2504,6 @@ While these methods impart new modes of compositional generalization, they focus
         <summary type="html"><![CDATA[Visit the post for more.]]></summary>
         <author>
             <name>xi'an</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MLIR — Defining a New Dialect]]></title>
-        <id>https://jeremykun.com/?p=119602</id>
-        <link href="https://jeremykun.com/2023/08/21/mlir-defining-a-new-dialect/"/>
-        <updated>2023-08-21T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Table of Contents In the last article in the series, we migrated the passes we had written to use the tablegen code generation framework. That was a preface to using tablegen to define dialects. In this article we’ll define a dialect that represents arithmetic on single-variable polynomials, with coefficients in $\mathbb{Z} / 2^{32} \mathbb{Z}$ (32-bit […]]]></summary>
-        <author>
-            <name>Jeremy Kun</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Tocharian Trek:  PIE and migration across Eurasia]]></title>
-        <id>https://languagelog.ldc.upenn.edu/nll/?p=60244</id>
-        <link href="https://languagelog.ldc.upenn.edu/nll/?p=60244&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=the-tocharian-trek-pie-and-migration-across-eurasia"/>
-        <updated>2023-08-21T14:29:48.000Z</updated>
-        <summary type="html"><![CDATA[In recent weeks and months, Language Log has been quite active in discussions on Tocharian and its relationship to other members of Indo-European.  Today's post takes a different approach from this post made just yesterday and many earlier posts. "Europe's ancient languages shed light on a great migration and weather vocabulary" by Ali Jones, Horizon: […]]]></summary>
-        <author>
-            <name>Victor Mair</name>
         </author>
     </entry>
 </feed>
