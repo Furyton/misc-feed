@@ -1100,6 +1100,16 @@
       "siteUrl": "https://kexue.fm/",
       "articles": [
         {
+          "id": "https://kexue.fm/archives/9775",
+          "author": "苏剑林",
+          "description": "前天晚上微信群里有群友提出了一个问题：对于一个任意整数$N > 100$，求一个近似算法，使得$N=a\\times b+c$（其中$a,b,c$都是非负整数），并且令$a+b+c$尽量地小。初看...",
+          "link": "https://kexue.fm/archives/9775",
+          "publishedOn": "2023-09-20T06:16:00.000Z",
+          "wordCount": 1815,
+          "title": "自然数域中 N = ab + c 时 a + b + c 的最小值",
+          "imageUrl": null
+        },
+        {
           "id": "https://kexue.fm/archives/9768",
           "author": "苏剑林",
           "description": "上一篇文章《大词表语言模型在续写任务上的一个问题及对策》发布后，很快就有读者指出可以在训练阶段引入带有随机性的分词结果来解决同样的问题，并且已经有论文和实现。经过进一步查阅学习，笔者发现这是一个...",
