@@ -2,10 +2,52 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-09-20T16:19:32.850Z</updated>
+    <updated>2023-09-20T17:13:19.575Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Buoyancy-driven exchange flows in inclined ducts]]></title>
+        <id>http://arxiv.org/abs/1907.03502</id>
+        <link href="http://arxiv.org/abs/1907.03502"/>
+        <updated>2023-09-20T17:13:14.259Z</updated>
+        <summary type="html"><![CDATA[Adrien Lefauve, P. F. Linden]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Distinguished elements in semiring extensions]]></title>
+        <id>http://arxiv.org/abs/1811.02142</id>
+        <link href="http://arxiv.org/abs/1811.02142"/>
+        <updated>2023-09-20T17:13:14.217Z</updated>
+        <summary type="html"><![CDATA[Peyman Nasehpour]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Approaches to analysis with infinitesimals following Robinson, Nelson,
+  and others]]></title>
+        <id>http://arxiv.org/abs/1703.00425</id>
+        <link href="http://arxiv.org/abs/1703.00425"/>
+        <updated>2023-09-20T17:13:14.204Z</updated>
+        <summary type="html"><![CDATA[Peter Fletcher, Karel Hrbacek, Vladimir Kanovei, Mikhail G. Katz,
+  Claude Lobry, Sam Sanders]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[An extension of Calderon Transfer Principle]]></title>
+        <id>http://arxiv.org/abs/2004.00462</id>
+        <link href="http://arxiv.org/abs/2004.00462"/>
+        <updated>2023-09-20T17:13:14.169Z</updated>
+        <summary type="html"><![CDATA[Sakin Demir]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[MLIR — Canonicalizers and Declarative Rewrite Patterns]]></title>
         <id>https://jeremykun.com/?p=120004</id>
