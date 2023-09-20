@@ -6,6 +6,36 @@
       "siteUrl": "https://www.arxivist.com",
       "articles": [
         {
+          "id": "http://arxiv.org/abs/2309.10370",
+          "author": null,
+          "description": "Thomas Chen, Patricia Mu\\~noz Ewald",
+          "link": "http://arxiv.org/abs/2309.10370",
+          "publishedOn": "2023-09-20T02:20:25.020Z",
+          "wordCount": 724,
+          "title": "Geometric structure of shallow neural networks and constructive\n  ${\\mathcal L}^2$ cost minimization",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2309.10639",
+          "author": null,
+          "description": "Thomas Chen, Patricia Mu\\~noz Ewald",
+          "link": "http://arxiv.org/abs/2309.10639",
+          "publishedOn": "2023-09-20T02:20:24.959Z",
+          "wordCount": 688,
+          "title": "Geometric structure of Deep Learning networks and construction of global\n  ${\\mathcal L}^2$ minimizers",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/1910.10683",
+          "author": null,
+          "description": "Colin Raffel, Noam Shazeer, Adam Roberts, Katherine Lee, Sharan\n  Narang, Michael Matena, Yanqi Zhou, Wei Li, Peter J. Liu",
+          "link": "http://arxiv.org/abs/1910.10683",
+          "publishedOn": "2023-09-20T02:20:17.929Z",
+          "wordCount": 735,
+          "title": "Exploring the Limits of Transfer Learning with a Unified Text-to-Text\n  Transformer",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
           "id": "http://arxiv.org/abs/2207.01848",
           "author": null,
           "description": "Noah Hollmann, Samuel M\\\"uller, Katharina Eggensperger, Frank Hutter",
