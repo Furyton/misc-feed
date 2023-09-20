@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-09-20T22:13:58.752Z</updated>
+    <updated>2023-09-20T23:14:20.417Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[All About that Bayes restart]]></title>
+        <id>http://xianblog.wordpress.com/?p=54070</id>
+        <link href="https://xianblog.wordpress.com/2023/09/21/all-about-that-bayes-restart/"/>
+        <updated>2023-09-20T22:23:44.000Z</updated>
+        <summary type="html"><![CDATA[For all Bayesians and sympathisers in the Paris area, All about that Bayes seminars are restarting this semester with a talk by Kaniav Kamari (Centrale Supélec) on 10 October, 16h00, on Campus Pierre & Marie Curie, SCAI: Bayesian principal component analysis The technique of principal component analysis (PCA) has recently been expressed as the maximum […]]]></summary>
+        <author>
+            <name>xi'an</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Arrowleaf pinot noir]]></title>
         <id>http://xianblog.wordpress.com/?p=53723</id>
