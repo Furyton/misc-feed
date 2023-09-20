@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-09-20T19:12:28.769Z</updated>
+    <updated>2023-09-20T20:15:21.487Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -110,6 +110,29 @@
   Narang, Michael Matena, Yanqi Zhou, Wei Li, Peter J. Liu]]></summary>
         <author>
             <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Speeding up Floyd-Steinberg dithering: an optimization exercise]]></title>
+        <id>https://pythonspeed.com/articles/optimizing-dithering/</id>
+        <link href="https://pythonspeed.com/articles/optimizing-dithering/"/>
+        <updated>2023-09-20T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[pre {
+    white-space: pre;
+    overflow-x: auto;
+    font-size: 80%;
+}
+
+
+The common advice when Python is too slow is to switch to a low-level compiled language.
+But what do you do if that code is too slow?
+Almost always there’s still plenty of performance improvements you can get just by tweaking your code.
+As a real-world example, in this article we’ll go about optimizing Floyd-Steinberg error diffusion dithering.
+The specific variant of the  algorithm that we will implement converts a grayscale image with values of 0 to 255 into an image with just two colors, black and white.
+This article is an excerpt from a book I’m working on that will help teach you how to optimize low-level code, the kind of code you’d write with C, Cython, or Rust.
+The goal is to help data scientists and scientis…]]></summary>
+        <author>
+            <name>Python⇒Speed</name>
         </author>
     </entry>
     <entry>

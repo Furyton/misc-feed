@@ -1200,7 +1200,18 @@
       "title": "Python⇒Speed",
       "feedUrl": "https://pythonspeed.com/atom.xml",
       "siteUrl": "https://pythonspeed.com/atom.xml",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://pythonspeed.com/articles/optimizing-dithering/",
+          "author": null,
+          "description": "pre {\n    white-space: pre;\n    overflow-x: auto;\n    font-size: 80%;\n}\n\n\nThe common advice when Python is too slow is to switch to a low-level compiled language.\nBut what do you do if that code is too slow?\nAlmost always there’s still plenty of performance improvements you can get just by tweaking your code.\nAs a real-world example, in this article we’ll go about optimizing Floyd-Steinberg error diffusion dithering.\nThe specific variant of the  algorithm that we will implement converts a grayscale image with values of 0 to 255 into an image with just two colors, black and white.\nThis article is an excerpt from a book I’m working on that will help teach you how to optimize low-level code, the kind of code you’d write with C, Cython, or Rust.\nThe goal is to help data scientists and scientis…",
+          "link": "https://pythonspeed.com/articles/optimizing-dithering/",
+          "publishedOn": "2023-09-20T00:00:00.000Z",
+          "wordCount": 3612,
+          "title": "Speeding up Floyd-Steinberg dithering: an optimization exercise",
+          "imageUrl": "https://pythonspeed.com/assets/titles/optimizing-dithering.png"
+        }
+      ]
     },
     {
       "title": "统计之都",
