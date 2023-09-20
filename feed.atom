@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-09-20T14:15:06.078Z</updated>
+    <updated>2023-09-20T15:14:58.198Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[MLIR — Canonicalizers and Declarative Rewrite Patterns]]></title>
+        <id>https://jeremykun.com/?p=120004</id>
+        <link href="https://jeremykun.com/2023/09/20/mlir-canonicalizers-and-declarative-rewrite-patterns/"/>
+        <updated>2023-09-20T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Table of Contents In a previous article we defined folding functions, and used them to enable some canonicalization and the sccp constant propagation pass for the poly dialect. This time we’ll see how to add more general canonicalization patterns. The code for this article is in this pull request, and as usual the commits are organized to be […]]]></summary>
+        <author>
+            <name>Jeremy Kun</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[自然数域中 N = ab + c 时 a + b + c 的最小值]]></title>
         <id>https://kexue.fm/archives/9775</id>
@@ -2450,60 +2460,6 @@ While these methods impart new modes of compositional generalization, they focus
         <summary type="html"><![CDATA[Sunday's post on "Listless vessels" opened with this clip: Your browser does not support the audio element. The movement has got to be about what are you trying to achieve on behalf of the American people and that's got to be based in principle uh because if you're not rooted in principle uh if all […]]]></summary>
         <author>
             <name>Mark Liberman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Parameter-Efficient Learning Approach to Arabic Dialect Identification
-  with Pre-Trained General-Purpose Speech Model]]></title>
-        <id>http://arxiv.org/abs/2305.11244</id>
-        <link href="http://arxiv.org/abs/2305.11244"/>
-        <updated>2023-08-22T02:19:22.867Z</updated>
-        <summary type="html"><![CDATA[Srijith Radhakrishnan, Chao-Han Huck Yang, Sumeer Ahmad Khan, Narsis
-  A. Kiani, David Gomez-Cabrero, Jesper N. Tegner]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learning Rate Schedules in the Presence of Distribution Shift]]></title>
-        <id>http://arxiv.org/abs/2303.15634</id>
-        <link href="http://arxiv.org/abs/2303.15634"/>
-        <updated>2023-08-22T02:19:22.850Z</updated>
-        <summary type="html"><![CDATA[Matthew Fahrbach, Adel Javanmard, Vahab Mirrokni, Pratik Worah]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Toward Transparent AI: A Survey on Interpreting the Inner Structures of
-  Deep Neural Networks]]></title>
-        <id>http://arxiv.org/abs/2207.13243</id>
-        <link href="http://arxiv.org/abs/2207.13243"/>
-        <updated>2023-08-22T02:19:22.682Z</updated>
-        <summary type="html"><![CDATA[Tilman R\"auker, Anson Ho, Stephen Casper, Dylan Hadfield-Menell]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Non-separable Covariance Kernels for Spatiotemporal Gaussian Processes
-  based on a Hybrid Spectral Method and the Harmonic Oscillator]]></title>
-        <id>http://arxiv.org/abs/2302.09580</id>
-        <link href="http://arxiv.org/abs/2302.09580"/>
-        <updated>2023-08-22T02:19:22.670Z</updated>
-        <summary type="html"><![CDATA[Dionissios T.Hristopulos]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GradientCoin: A Peer-to-Peer Decentralized Large Language Models]]></title>
-        <id>http://arxiv.org/abs/2308.10502</id>
-        <link href="http://arxiv.org/abs/2308.10502"/>
-        <updated>2023-08-22T02:19:22.473Z</updated>
-        <summary type="html"><![CDATA[Yeqi Gao, Zhao Song, Junze Yin]]></summary>
-        <author>
-            <name>arxivist feed</name>
         </author>
     </entry>
 </feed>

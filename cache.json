@@ -994,56 +994,6 @@
           "wordCount": 756,
           "title": "FRAug: Tackling Federated Learning with Non-IID Features via\n  Representation Augmentation",
           "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
-        },
-        {
-          "id": "http://arxiv.org/abs/2305.11244",
-          "author": null,
-          "description": "Srijith Radhakrishnan, Chao-Han Huck Yang, Sumeer Ahmad Khan, Narsis\n  A. Kiani, David Gomez-Cabrero, Jesper N. Tegner",
-          "link": "http://arxiv.org/abs/2305.11244",
-          "publishedOn": "2023-08-22T02:19:22.867Z",
-          "wordCount": 708,
-          "title": "A Parameter-Efficient Learning Approach to Arabic Dialect Identification\n  with Pre-Trained General-Purpose Speech Model",
-          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
-        },
-        {
-          "id": "http://arxiv.org/abs/2303.15634",
-          "author": null,
-          "description": "Matthew Fahrbach, Adel Javanmard, Vahab Mirrokni, Pratik Worah",
-          "link": "http://arxiv.org/abs/2303.15634",
-          "publishedOn": "2023-08-22T02:19:22.850Z",
-          "wordCount": 706,
-          "title": "Learning Rate Schedules in the Presence of Distribution Shift",
-          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
-        },
-        {
-          "id": "http://arxiv.org/abs/2207.13243",
-          "author": null,
-          "description": "Tilman R\\\"auker, Anson Ho, Stephen Casper, Dylan Hadfield-Menell",
-          "link": "http://arxiv.org/abs/2207.13243",
-          "publishedOn": "2023-08-22T02:19:22.682Z",
-          "wordCount": 840,
-          "title": "Toward Transparent AI: A Survey on Interpreting the Inner Structures of\n  Deep Neural Networks",
-          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
-        },
-        {
-          "id": "http://arxiv.org/abs/2302.09580",
-          "author": null,
-          "description": "Dionissios T.Hristopulos",
-          "link": "http://arxiv.org/abs/2302.09580",
-          "publishedOn": "2023-08-22T02:19:22.670Z",
-          "wordCount": 748,
-          "title": "Non-separable Covariance Kernels for Spatiotemporal Gaussian Processes\n  based on a Hybrid Spectral Method and the Harmonic Oscillator",
-          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
-        },
-        {
-          "id": "http://arxiv.org/abs/2308.10502",
-          "author": null,
-          "description": "Yeqi Gao, Zhao Song, Junze Yin",
-          "link": "http://arxiv.org/abs/2308.10502",
-          "publishedOn": "2023-08-22T02:19:22.473Z",
-          "wordCount": 752,
-          "title": "GradientCoin: A Peer-to-Peer Decentralized Large Language Models",
-          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
         }
       ]
     },
@@ -1446,6 +1396,16 @@
       "feedUrl": "https://jeremykun.com/feed/",
       "siteUrl": "https://jeremykun.com",
       "articles": [
+        {
+          "id": "https://jeremykun.com/?p=120004",
+          "author": "Jeremy Kun",
+          "description": "Table of Contents In a previous article we defined folding functions, and used them to enable some canonicalization and the sccp constant propagation pass for the poly dialect. This time we’ll see how to add more general canonicalization patterns. The code for this article is in this pull request, and as usual the commits are organized to be […]",
+          "link": "https://jeremykun.com/2023/09/20/mlir-canonicalizers-and-declarative-rewrite-patterns/",
+          "publishedOn": "2023-09-20T15:00:00.000Z",
+          "wordCount": 3666,
+          "title": "MLIR — Canonicalizers and Declarative Rewrite Patterns",
+          "imageUrl": "https://s0.wp.com/i/blank.jpg"
+        },
         {
           "id": "https://jeremykun.com/?p=119941",
           "author": "Jeremy Kun",
