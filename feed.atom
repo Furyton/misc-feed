@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-09-21T18:19:31.604Z</updated>
+    <updated>2023-09-21T19:12:00.400Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Earwormitis]]></title>
+        <id>https://languagelog.ldc.upenn.edu/nll/?p=60666</id>
+        <link href="https://languagelog.ldc.upenn.edu/nll/?p=60666&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=earwormitis"/>
+        <updated>2023-09-21T18:56:32.000Z</updated>
+        <summary type="html"><![CDATA[I'm not the first person to use that word, but I probably mean it in a distinctive way.  What I'm talking about is not the usual sort of earworm / öhrwurm that gets stuck in your brain and you just can't make it go away.  That's the usual kind, and I get it fairly often, […]]]></summary>
+        <author>
+            <name>Victor Mair</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Deep Networks as Denoising Algorithms: Sample-Efficient Learning of
   Diffusion Models in High-Dimensional Graphical Models]]></title>
