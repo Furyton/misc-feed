@@ -2,10 +2,74 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-09-21T01:03:52.374Z</updated>
+    <updated>2023-09-21T02:19:57.157Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Deep Networks as Denoising Algorithms: Sample-Efficient Learning of
+  Diffusion Models in High-Dimensional Graphical Models]]></title>
+        <id>http://arxiv.org/abs/2309.11420</id>
+        <link href="http://arxiv.org/abs/2309.11420"/>
+        <updated>2023-09-21T02:19:57.126Z</updated>
+        <summary type="html"><![CDATA[Song Mei, Yuchen Wu]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Conformal Prediction is Robust to Dispersive Label Noise]]></title>
+        <id>http://arxiv.org/abs/2209.14295</id>
+        <link href="http://arxiv.org/abs/2209.14295"/>
+        <updated>2023-09-21T02:19:47.000Z</updated>
+        <summary type="html"><![CDATA[Shai Feldman, Bat-Sheva Einbinder, Stephen Bates, Anastasios N.
+  Angelopoulos, Asaf Gendler, Yaniv Romano]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Classification Under Misspecification: Halfspaces, Generalized Linear
+  Models, and Connections to Evolvability]]></title>
+        <id>http://arxiv.org/abs/2006.04787</id>
+        <link href="http://arxiv.org/abs/2006.04787"/>
+        <updated>2023-09-21T02:19:46.993Z</updated>
+        <summary type="html"><![CDATA[Sitan Chen, Frederic Koehler, Ankur Moitra, Morris Yau]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stochastic Batch Acquisition: A Simple Baseline for Deep Active Learning]]></title>
+        <id>http://arxiv.org/abs/2106.12059</id>
+        <link href="http://arxiv.org/abs/2106.12059"/>
+        <updated>2023-09-21T02:19:46.987Z</updated>
+        <summary type="html"><![CDATA[Andreas Kirsch, Sebastian Farquhar, Parmida Atighehchian, Andrew
+  Jesson, Frederic Branchaud-Charron, Yarin Gal]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Pragmatic Look at Deep Imitation Learning]]></title>
+        <id>http://arxiv.org/abs/2108.01867</id>
+        <link href="http://arxiv.org/abs/2108.01867"/>
+        <updated>2023-09-21T02:19:46.982Z</updated>
+        <summary type="html"><![CDATA[Kai Arulkumaran, Dan Ogawa Lillrank]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Voice-activated lights]]></title>
+        <id>https://languagelog.ldc.upenn.edu/nll/?p=60593</id>
+        <link href="https://languagelog.ldc.upenn.edu/nll/?p=60593&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=voice-activated-lights"/>
+        <updated>2023-09-21T01:59:11.000Z</updated>
+        <summary type="html"><![CDATA[I showed this mp4 video to a dozen native speakers of Sinitic languages (mostly Mandarin), but no one could identify, much less understand, what it was: https://i.imgur.com/MesyF9r.mp4   (from imgur) Chau Wu ruled out Taiwanese, Hakka, and Cantonese, but he said that he heard words that sounded like chú sī 廚司 ("chef") and chǎocài 炒菜 […]]]></summary>
+        <author>
+            <name>Victor Mair</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[All About that Bayes restart]]></title>
         <id>http://xianblog.wordpress.com/?p=54070</id>

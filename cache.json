@@ -6,6 +6,56 @@
       "siteUrl": "https://www.arxivist.com",
       "articles": [
         {
+          "id": "http://arxiv.org/abs/2309.11420",
+          "author": null,
+          "description": "Song Mei, Yuchen Wu",
+          "link": "http://arxiv.org/abs/2309.11420",
+          "publishedOn": "2023-09-21T02:19:57.126Z",
+          "wordCount": 676,
+          "title": "Deep Networks as Denoising Algorithms: Sample-Efficient Learning of\n  Diffusion Models in High-Dimensional Graphical Models",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2209.14295",
+          "author": null,
+          "description": "Shai Feldman, Bat-Sheva Einbinder, Stephen Bates, Anastasios N.\n  Angelopoulos, Asaf Gendler, Yaniv Romano",
+          "link": "http://arxiv.org/abs/2209.14295",
+          "publishedOn": "2023-09-21T02:19:47.000Z",
+          "wordCount": 674,
+          "title": "Conformal Prediction is Robust to Dispersive Label Noise",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2006.04787",
+          "author": null,
+          "description": "Sitan Chen, Frederic Koehler, Ankur Moitra, Morris Yau",
+          "link": "http://arxiv.org/abs/2006.04787",
+          "publishedOn": "2023-09-21T02:19:46.993Z",
+          "wordCount": 837,
+          "title": "Classification Under Misspecification: Halfspaces, Generalized Linear\n  Models, and Connections to Evolvability",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2106.12059",
+          "author": null,
+          "description": "Andreas Kirsch, Sebastian Farquhar, Parmida Atighehchian, Andrew\n  Jesson, Frederic Branchaud-Charron, Yarin Gal",
+          "link": "http://arxiv.org/abs/2106.12059",
+          "publishedOn": "2023-09-21T02:19:46.987Z",
+          "wordCount": 679,
+          "title": "Stochastic Batch Acquisition: A Simple Baseline for Deep Active Learning",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2108.01867",
+          "author": null,
+          "description": "Kai Arulkumaran, Dan Ogawa Lillrank",
+          "link": "http://arxiv.org/abs/2108.01867",
+          "publishedOn": "2023-09-21T02:19:46.982Z",
+          "wordCount": 724,
+          "title": "A Pragmatic Look at Deep Imitation Learning",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
           "id": "http://arxiv.org/abs/1907.03502",
           "author": null,
           "description": "Adrien Lefauve, P. F. Linden",
@@ -2077,6 +2127,21 @@
       "feedUrl": "https://languagelog.ldc.upenn.edu/nll/?feed=rss2",
       "siteUrl": "https://languagelog.ldc.upenn.edu/nll",
       "articles": [
+        {
+          "id": "https://languagelog.ldc.upenn.edu/nll/?p=60593",
+          "author": "Victor Mair",
+          "description": "I showed this mp4 video to a dozen native speakers of Sinitic languages (mostly Mandarin), but no one could identify, much less understand, what it was: https://i.imgur.com/MesyF9r.mp4   (from imgur) Chau Wu ruled out Taiwanese, Hakka, and Cantonese, but he said that he heard words that sounded like chú sī 廚司 (\"chef\") and chǎocài 炒菜 […]",
+          "link": "https://languagelog.ldc.upenn.edu/nll/?p=60593&utm_source=rss&utm_medium=rss&utm_campaign=voice-activated-lights",
+          "publishedOn": "2023-09-21T01:59:11.000Z",
+          "wordCount": 2640,
+          "title": "Voice-activated lights",
+          "enclosure": {
+            "url": "https://i.imgur.com/MesyF9r.mp4",
+            "length": "4035389",
+            "type": "video/mp4"
+          },
+          "imageUrl": null
+        },
         {
           "id": "https://languagelog.ldc.upenn.edu/nll/?p=60662",
           "author": "Victor Mair",
