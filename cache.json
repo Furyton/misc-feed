@@ -1865,6 +1865,16 @@
       "siteUrl": "http://blog.research.google/",
       "articles": [
         {
+          "id": "http://blog.research.google/2023/09/distilling-step-by-step-outperforming.html",
+          "author": null,
+          "description": "Posted by Cheng-Yu Hsieh, Student Researcher, and Chen-Yu Lee, Research Scientist, Cloud AI Team\n\n\n\n\n\nLarge language models (LLMs) have enabled a new data-efficient learning paradigm wherein they can be used to solve unseen new tasks via zero-shot or few-shot prompting. However, LLMs are challenging to deploy for real-world applications due to their sheer size. For instance, serving a single 175 billion LLM requires at least 350GB of GPU memory using specialized infrastructure, not to mention that today's state-of-the-art LLMs are composed of over 500 billion parameters. Such computational requirements are inaccessible for many research teams, especially for applications that require low latency performance.\n\n\n\n\nTo circumvent these deployment challenges, practitioners often choose to deplo…",
+          "link": "http://blog.research.google/2023/09/distilling-step-by-step-outperforming.html",
+          "publishedOn": "2023-09-21T21:25:00.000Z",
+          "wordCount": 27937,
+          "title": "Distilling step-by-step: Outperforming larger language models with less training data and smaller model sizes",
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj7i39GKWT7_noICLVOMuf2x7v7wM21MXu9deGmnVlsieFv9m_rJOb5ytwiI_A9T3N4N1vZCVprlgbs7dePmQ1qjkcz-mT0nkeyLq-LmkF4oJB-ofCmrv81jqXMHPHe8Tl1dQSbDAPS9gADUUByZHBygkr-jlwbfIx3FM14n5cAbE7ZFVm84K6UDQLfeArm/w1200-h630-p-k-no-nu/hero.jpg"
+        },
+        {
           "id": "http://blog.research.google/2023/09/mediapipe-facestylizer-on-device-real.html",
           "author": null,
           "description": "Posted by Haolin Jia, Software Engineer, and Qifei Wang, Senior Software Engineer, Core ML\n\n\n\nIn recent years, we have witnessed rising interest across consumers and researchers in integrated augmented reality (AR) experiences using real-time face feature generation and editing functions in mobile applications, including short videos, virtual reality, and gaming. As a result, there is a growing demand for lightweight, yet high-quality face generation and editing models, which are often based on generative adversarial network (GAN) techniques. However, the majority of GAN models suffer from high computational complexity and the need for a large training dataset. In addition, it is also important to employ GAN models responsibly. \n\n\n\nIn this post, we introduce MediaPipe FaceStylizer, an effi…",
