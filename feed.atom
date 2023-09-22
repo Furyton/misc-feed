@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-09-22T18:19:00.203Z</updated>
+    <updated>2023-09-22T19:11:38.032Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -2498,16 +2498,6 @@ While neural networks have powerful pattern matching capabilities, they are pron
         <summary type="html"><![CDATA[在上一篇文章《Transformer升级之路：13、逆用Leaky ReRoPE》中，笔者尝试通过在训练阶段逆用Leaky ReRoPE的思路，使得推理阶段的位置编码变为正常的RoPE，从而在达...]]></summary>
         <author>
             <name>苏剑林</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Large Scale Training of Hugging Face Transformers on TPUs With PyTorch/XLA FSDP]]></title>
-        <id>https://pytorch.org/blog/large-scale-training-hugging-face/</id>
-        <link href="https://pytorch.org/blog/large-scale-training-hugging-face/"/>
-        <updated>2023-08-24T07:00:00.000Z</updated>
-        <summary type="html"><![CDATA[AI is transforming many industries through advanced capabilities such as understanding and generating language, answering questions, and delivering accurate recommendations. These capabilities are fueled by ever-increasing size and complexity of AI models, which require vast amounts of computing power to train.]]></summary>
-        <author>
-            <name>PyTorch Website</name>
         </author>
     </entry>
 </feed>

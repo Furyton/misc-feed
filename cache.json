@@ -1423,16 +1423,6 @@
           "wordCount": 1964,
           "title": "PyTorch/XLA SPMD: Scale Up Model Training and Serving with Automatic Parallelization",
           "imageUrl": "https://pytorch.org/assets/images/pytorch-logo.png"
-        },
-        {
-          "id": "https://pytorch.org/blog/large-scale-training-hugging-face/",
-          "author": null,
-          "description": "AI is transforming many industries through advanced capabilities such as understanding and generating language, answering questions, and delivering accurate recommendations. These capabilities are fueled by ever-increasing size and complexity of AI models, which require vast amounts of computing power to train.",
-          "link": "https://pytorch.org/blog/large-scale-training-hugging-face/",
-          "publishedOn": "2023-08-24T07:00:00.000Z",
-          "wordCount": 2609,
-          "title": "Large Scale Training of Hugging Face Transformers on TPUs With PyTorch/XLA FSDP",
-          "imageUrl": "https://pytorch.org/assets/images/pytorch-logo.png"
         }
       ]
     },
