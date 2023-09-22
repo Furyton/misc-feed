@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-09-22T22:13:43.712Z</updated>
+    <updated>2023-09-22T23:14:28.916Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[genius forgers]]></title>
+        <id>http://xianblog.wordpress.com/?p=53932</id>
+        <link href="https://xianblog.wordpress.com/2023/09/23/genius-forgers/"/>
+        <updated>2023-09-22T22:23:24.000Z</updated>
+        <summary type="html"><![CDATA[The other evening, I was listening to the French public radio (France Inter) while trying to micro-wave chutney out of green tomatoes and green crab apples found in my garden (I failed). The program was about a French art dealer, Giuliano Ruffini, who had sold several grand master paintings that later got resold at insane […]]]></summary>
+        <author>
+            <name>xi'an</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Heavily accented Mandarin]]></title>
         <id>https://languagelog.ldc.upenn.edu/nll/?p=60680</id>
@@ -2488,16 +2498,6 @@ Large language models (LLMs), such as GPT-3 and PaLM, have shown impressive prog
 While neural networks have powerful pattern matching capabilities, they are prone to overfitting to spurious statistical patterns in the data. This does…]]></summary>
         <author>
             <name>Google AI Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Transformer升级之路：14、当HWFA遇见ReRoPE]]></title>
-        <id>https://kexue.fm/archives/9731</id>
-        <link href="https://kexue.fm/archives/9731"/>
-        <updated>2023-08-24T10:24:00.000Z</updated>
-        <summary type="html"><![CDATA[在上一篇文章《Transformer升级之路：13、逆用Leaky ReRoPE》中，笔者尝试通过在训练阶段逆用Leaky ReRoPE的思路，使得推理阶段的位置编码变为正常的RoPE，从而在达...]]></summary>
-        <author>
-            <name>苏剑林</name>
         </author>
     </entry>
 </feed>
