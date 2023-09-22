@@ -6,6 +6,56 @@
       "siteUrl": "https://www.arxivist.com",
       "articles": [
         {
+          "id": "http://arxiv.org/abs/2210.00997",
+          "author": null,
+          "description": "Chung-En Tsai, Hao-Chung Cheng, Yen-Huan Li",
+          "link": "http://arxiv.org/abs/2210.00997",
+          "publishedOn": "2023-09-22T03:15:09.516Z",
+          "wordCount": 778,
+          "title": "Online Self-Concordant and Relatively Smooth Minimization, With\n  Applications to Online Portfolio Selection and Learning Quantum States",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2309.11527",
+          "author": null,
+          "description": "Yuxiang Qiu, Karim Djemili, Denis Elezi, Aaneel Shalman, Mar\\'ia\n  P\\'erez-Ortiz, Sahan Bulathwela",
+          "link": "http://arxiv.org/abs/2309.11527",
+          "publishedOn": "2023-09-22T03:15:09.427Z",
+          "wordCount": 681,
+          "title": "TrueLearn: A Python Library for Personalised Informational\n  Recommendations with (Implicit) Feedback",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2309.12307",
+          "author": null,
+          "description": "Yukang Chen, Shengju Qian, Haotian Tang, Xin Lai, Zhijian Liu, Song\n  Han, Jiaya Jia",
+          "link": "http://arxiv.org/abs/2309.12307",
+          "publishedOn": "2023-09-22T03:15:09.347Z",
+          "wordCount": 767,
+          "title": "LongLoRA: Efficient Fine-tuning of Long-Context Large Language Models",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2309.11856",
+          "author": null,
+          "description": "Sebastian Eliassen, Raghavendra Selvan",
+          "link": "http://arxiv.org/abs/2309.11856",
+          "publishedOn": "2023-09-22T03:15:09.314Z",
+          "wordCount": 675,
+          "title": "Activation Compression of Graph Neural Networks using Block-wise\n  Quantization with Improved Variance Minimization",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2309.12095",
+          "author": null,
+          "description": "Dimitrije Markovi\\'c, Karl J. Friston, Stefan J. Kiebel",
+          "link": "http://arxiv.org/abs/2309.12095",
+          "publishedOn": "2023-09-22T03:15:09.309Z",
+          "wordCount": 729,
+          "title": "Bayesian sparsification for deep neural networks with Bayesian model\n  reduction",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
           "id": "http://arxiv.org/abs/2309.11420",
           "author": null,
           "description": "Song Mei, Yuchen Wu",
