@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-09-23T18:17:10.939Z</updated>
+    <updated>2023-09-23T19:10:44.664Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA["Hurting the feelings of the Chinese people", part 3]]></title>
+        <id>https://languagelog.ldc.upenn.edu/nll/?p=60657</id>
+        <link href="https://languagelog.ldc.upenn.edu/nll/?p=60657&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=hurting-the-feelings-of-the-chinese-people-part-3"/>
+        <updated>2023-09-23T19:08:09.000Z</updated>
+        <summary type="html"><![CDATA[Shared by John Rohsenow and David Cahill / Isham Cook: From Arthur Meursault (@emptymeursault) This is a trope with which we're intimately familiar. According to the Chinese government, of all peoples on earth, the Chinese people are unique in this regard, except that now, more and more, they are starting to hurt their own feelings, […]]]></summary>
+        <author>
+            <name>Victor Mair</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Annals of AI bias]]></title>
+        <id>https://languagelog.ldc.upenn.edu/nll/?p=60695</id>
+        <link href="https://languagelog.ldc.upenn.edu/nll/?p=60695&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=annals-of-ai-bias"/>
+        <updated>2023-09-23T18:23:18.000Z</updated>
+        <summary type="html"><![CDATA[The Large Language Model DistilBert is "a distilled version of BERT: smaller, faster, cheaper and lighter". A trained DistilBert model is available from Hugging Face, and recommended applications include "text classification", with the featured application being "sentiment analysis": And as with many similar applications, it's been noted that this version of "sentiment analysis" has picked […]]]></summary>
+        <author>
+            <name>Mark Liberman</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Can We Reliably Improve the Robustness to Image Acquisition of Remote
   Sensing of PV Systems?]]></title>
