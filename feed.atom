@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-09-23T07:12:26.868Z</updated>
+    <updated>2023-09-23T08:16:57.357Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -2470,44 +2470,6 @@ A full-scale error-corrected quantum computer will be able to solve some problem
 
 
 In contrast to an error-corrected quantum computer, experiments in noisy quantum processors are currently limited to a few thousand quantum operations or gates, before noise degrades the quantum state. In 2019 we implemented a specific computational t…]]></summary>
-        <author>
-            <name>Google AI Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Teaching language models to reason algorithmically]]></title>
-        <id>http://blog.research.google/2023/08/teaching-language-models-to-reason.html</id>
-        <link href="http://blog.research.google/2023/08/teaching-language-models-to-reason.html"/>
-        <updated>2023-08-24T19:33:00.002Z</updated>
-        <summary type="html"><![CDATA[Posted by Hattie Zhou, Graduate Student at MILA, Hanie Sedghi, Research Scientist, Google
-
-
-
-
-Large language models (LLMs), such as GPT-3 and PaLM, have shown impressive progress in recent years, which have been driven by scaling up models and training data sizes. Nonetheless, a long standing debate has been whether LLMs can reason symbolically (i.e., manipulating symbols based on logical rules). For example, LLMs are able to perform simple arithmetic operations when numbers are small, but struggle to perform with large numbers. This suggests that LLMs have not learned the underlying rules needed to perform these arithmetic operations. 
-
-
-
-While neural networks have powerful pattern matching capabilities, they are prone to overfitting to spurious statistical patterns in the data. This does…]]></summary>
-        <author>
-            <name>Google AI Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Teaching language models to reason algorithmically]]></title>
-        <id>http://ai.googleblog.com/2023/08/teaching-language-models-to-reason.html</id>
-        <link href="http://ai.googleblog.com/2023/08/teaching-language-models-to-reason.html"/>
-        <updated>2023-08-24T19:33:00.002Z</updated>
-        <summary type="html"><![CDATA[Posted by Hattie Zhou, Graduate Student at MILA, Hanie Sedghi, Research Scientist, Google
-
-
-
-
-Large language models (LLMs), such as GPT-3 and PaLM, have shown impressive progress in recent years, which have been driven by scaling up models and training data sizes. Nonetheless, a long standing debate has been whether LLMs can reason symbolically (i.e., manipulating symbols based on logical rules). For example, LLMs are able to perform simple arithmetic operations when numbers are small, but struggle to perform with large numbers. This suggests that LLMs have not learned the underlying rules needed to perform these arithmetic operations. 
-
-
-
-While neural networks have powerful pattern matching capabilities, they are prone to overfitting to spurious statistical patterns in the data. This does…]]></summary>
         <author>
             <name>Google AI Blog</name>
         </author>
