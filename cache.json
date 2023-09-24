@@ -1794,16 +1794,6 @@
           "wordCount": 1825,
           "title": "23w5106 [group picture]",
           "imageUrl": "https://www.birs.ca/files//workshops/UBCO/2023/23w5106/23w5106_groupphoto.jpg"
-        },
-        {
-          "id": "http://xianblog.wordpress.com/?p=53899",
-          "author": "xi'an",
-          "description": "Just heard that C.R. Rao had passed away on Wednesday. Above is a 1941 picture I photographed while attending the jubilee of the Department of Statistics of the University of Calcuta. Showing R.A. Fisher and P.C. Mahalanobis surrounded by faculty and students from the Department. Including a very young Rao who would a few years […]",
-          "link": "https://xianblog.wordpress.com/2023/08/26/calyampudi-radhakrishna-rao-1920-2023/",
-          "publishedOn": "2023-08-25T22:23:46.000Z",
-          "wordCount": 2099,
-          "title": "Calyampudi Radhakrishna Rao (1920-2023)",
-          "imageUrl": "https://xianblog.files.wordpress.com/2016/12/fisher-e1482752982599.jpg"
         }
       ]
     },
@@ -1957,6 +1947,21 @@
       "feedUrl": "https://languagelog.ldc.upenn.edu/nll/?feed=rss2",
       "siteUrl": "https://languagelog.ldc.upenn.edu/nll",
       "articles": [
+        {
+          "id": "https://languagelog.ldc.upenn.edu/nll/?p=60690",
+          "author": "Mark Liberman",
+          "description": "It's clear that text-to-speech programs have gotten better and better over the past 60 years, technical details aside. The best current systems rarely make phrasing or letter-to-sound mistakes, and generally produce speech that sounds pretty natural on a phrase-by-phrase basis. (Though there's a lot of variation in quality, with some shockingly bad systems in common use.) […]",
+          "link": "https://languagelog.ldc.upenn.edu/nll/?p=60690&utm_source=rss&utm_medium=rss&utm_campaign=bad-ai-performance",
+          "publishedOn": "2023-09-24T11:09:34.000Z",
+          "wordCount": 2563,
+          "title": "Bad AI performance",
+          "enclosure": {
+            "url": "https://languagelog.ldc.upenn.edu/myl/AppleSamanthaWikipediaRainbowX1.wav",
+            "length": "706290",
+            "type": "audio/wav"
+          },
+          "imageUrl": null
+        },
         {
           "id": "https://languagelog.ldc.upenn.edu/nll/?p=60657",
           "author": "Victor Mair",
