@@ -1517,6 +1517,16 @@
       "siteUrl": "https://xianblog.wordpress.com",
       "articles": [
         {
+          "id": "http://xianblog.wordpress.com/?p=53975",
+          "author": "xi'an",
+          "description": "“The algorithm can be made differentially private while remaining exact in the sense that its target distribution is the true posterior distribution conditioned on the private data (…) The main contribution of this paper arises from the simple  observation that the penalty algorithm has a built-in noise in its calculations which is not desirable in […]",
+          "link": "https://xianblog.wordpress.com/2023/09/25/exact-mcmc-with-differentially-private-moves/",
+          "publishedOn": "2023-09-24T22:23:27.000Z",
+          "wordCount": 2102,
+          "title": "Exact MCMC with differentially private moves",
+          "imageUrl": "https://xianblog.files.wordpress.com/2009/10/p1030313.jpg?w=200&h=299&zoom=2"
+        },
+        {
           "id": "http://xianblog.wordpress.com/?p=53957",
           "author": "xi'an",
           "description": "“We are interested in the question of how we can build diﬀerentially-private algorithms within the Bayesian framework. More precisely, we examine when the choice of prior is suﬃcient to guarantee diﬀerential privacy for decisions that are derived from the posterior distribution (…) we show that the Bayesian statistician’s choice of prior distribution ensures a base […]",
