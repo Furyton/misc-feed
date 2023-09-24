@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-09-24T05:13:25.894Z</updated>
+    <updated>2023-09-24T06:17:39.454Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -2345,52 +2345,6 @@ The ability to detect objects in the visual world is crucial for computer vision
         <summary type="html"><![CDATA[Just heard that C.R. Rao had passed away on Wednesday. Above is a 1941 picture I photographed while attending the jubilee of the Department of Statistics of the University of Calcuta. Showing R.A. Fisher and P.C. Mahalanobis surrounded by faculty and students from the Department. Including a very young Rao who would a few years […]]]></summary>
         <author>
             <name>xi'an</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Responsible AI at Google Research: Perception Fairness]]></title>
-        <id>http://blog.research.google/2023/08/responsible-ai-at-google-research.html</id>
-        <link href="http://blog.research.google/2023/08/responsible-ai-at-google-research.html"/>
-        <updated>2023-08-25T17:38:00.003Z</updated>
-        <summary type="html"><![CDATA[Posted by Susanna Ricco and Utsav Prabhu, co-leads, Perception Fairness Team, Google Research
-
-
-
-
-
-Google’s Responsible AI research is built on a foundation of collaboration — between teams with diverse backgrounds and expertise, between researchers and product developers, and ultimately with the community at large. The Perception Fairness team drives progress by combining deep subject-matter expertise in both computer vision and machine learning (ML) fairness with direct connections to the researchers building the perception systems that power products across Google and beyond. Together, we are working to intentionally design our systems to be inclusive from the ground up, guided by Google’s AI Principles.
-
-
-
-
-
-
-Perception Fairness research spans the design, development, and deployment of…]]></summary>
-        <author>
-            <name>Google AI Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Responsible AI at Google Research: Perception Fairness]]></title>
-        <id>http://ai.googleblog.com/2023/08/responsible-ai-at-google-research.html</id>
-        <link href="http://ai.googleblog.com/2023/08/responsible-ai-at-google-research.html"/>
-        <updated>2023-08-25T17:38:00.003Z</updated>
-        <summary type="html"><![CDATA[Posted by Susanna Ricco and Utsav Prabhu, co-leads, Perception Fairness Team, Google Research
-
-
-
-
-
-Google’s Responsible AI research is built on a foundation of collaboration — between teams with diverse backgrounds and expertise, between researchers and product developers, and ultimately with the community at large. The Perception Fairness team drives progress by combining deep subject-matter expertise in both computer vision and machine learning (ML) fairness with direct connections to the researchers building the perception systems that power products across Google and beyond. Together, we are working to intentionally design our systems to be inclusive from the ground up, guided by Google’s AI Principles.
-
-
-
-
-
-
-Perception Fairness research spans the design, development, and deployment of…]]></summary>
-        <author>
-            <name>Google AI Blog</name>
         </author>
     </entry>
 </feed>
