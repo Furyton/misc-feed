@@ -1040,7 +1040,18 @@
       "title": "Parsiad Azimzadeh",
       "feedUrl": "http://parsiad.ca/feed.xml",
       "siteUrl": "https://parsiad.ca/",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://parsiad.ca/blog/2023/motivating_the_cross_entropy_loss/",
+          "author": null,
+          "description": "Introduction",
+          "link": "https://parsiad.ca/blog/2023/motivating_the_cross_entropy_loss/",
+          "publishedOn": "2023-09-23T20:00:00.000Z",
+          "wordCount": 716,
+          "title": "Motivating the cross-entropy loss",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "Windows On Theory",

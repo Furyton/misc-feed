@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-09-24T16:17:02.808Z</updated>
+    <updated>2023-09-24T17:11:54.459Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -34,6 +34,16 @@
         <summary type="html"><![CDATA[“We are interested in the question of how we can build diﬀerentially-private algorithms within the Bayesian framework. More precisely, we examine when the choice of prior is suﬃcient to guarantee diﬀerential privacy for decisions that are derived from the posterior distribution (…) we show that the Bayesian statistician’s choice of prior distribution ensures a base […]]]></summary>
         <author>
             <name>xi'an</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Motivating the cross-entropy loss]]></title>
+        <id>https://parsiad.ca/blog/2023/motivating_the_cross_entropy_loss/</id>
+        <link href="https://parsiad.ca/blog/2023/motivating_the_cross_entropy_loss/"/>
+        <updated>2023-09-23T20:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Introduction]]></summary>
+        <author>
+            <name>Parsiad Azimzadeh</name>
         </author>
     </entry>
     <entry>
