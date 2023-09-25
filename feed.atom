@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-09-25T11:12:22.492Z</updated>
+    <updated>2023-09-25T12:29:47.012Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[A bad thing about social media is also good]]></title>
+        <id>https://languagelog.ldc.upenn.edu/nll/?p=60735</id>
+        <link href="https://languagelog.ldc.upenn.edu/nll/?p=60735&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=a-bad-thing-about-social-media-is-also-good"/>
+        <updated>2023-09-25T12:06:12.000Z</updated>
+        <summary type="html"><![CDATA[Jill Lepore recently presented an illustrative example of how social media amplifies bad stuff ("The World According to Elon Musk's Grandfather", 9/19/2023): Walter Isaacson’s new biography of Musk […] only glancingly discusses Musk’s grandfather J. N. Haldeman, whom he presents as a risk-taking adventurer and whose politics he dismisses as “quirky.” In fact, Haldeman was […]]]></summary>
+        <author>
+            <name>Mark Liberman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Inside the Matrix: Visualizing Matrix Multiplication, Attention and Beyond]]></title>
+        <id>https://pytorch.org/blog/inside-the-matrix/</id>
+        <link href="https://pytorch.org/blog/inside-the-matrix/"/>
+        <updated>2023-09-25T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Use 3D to visualize matrix multiplication expressions, attention heads with real weights, and more.]]></summary>
+        <author>
+            <name>PyTorch Website</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[A Hybrid Deep Learning-based Approach for Optimal Genotype by
   Environment Selection]]></title>
