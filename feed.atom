@@ -2,10 +2,64 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-09-26T01:04:50.517Z</updated>
+    <updated>2023-09-26T02:22:00.883Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Utilizing Expert Features for Contrastive Learning of Time-Series
+  Representations]]></title>
+        <id>http://arxiv.org/abs/2206.11517</id>
+        <link href="http://arxiv.org/abs/2206.11517"/>
+        <updated>2023-09-26T02:21:19.953Z</updated>
+        <summary type="html"><![CDATA[Manuel Nonnenmacher, Lukas Oldenburg, Ingo Steinwart, David Reeb]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Exploring and Interacting with the Set of Good Sparse Generalized
+  Additive Models]]></title>
+        <id>http://arxiv.org/abs/2303.16047</id>
+        <link href="http://arxiv.org/abs/2303.16047"/>
+        <updated>2023-09-26T02:21:19.947Z</updated>
+        <summary type="html"><![CDATA[Chudi Zhong, Zhi Chen, Margo Seltzer, Cynthia Rudin]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Benefits of Being Distributional: Small-Loss Bounds for
+  Reinforcement Learning]]></title>
+        <id>http://arxiv.org/abs/2305.15703</id>
+        <link href="http://arxiv.org/abs/2305.15703"/>
+        <updated>2023-09-26T02:21:18.545Z</updated>
+        <summary type="html"><![CDATA[Kaiwen Wang, Kevin Zhou, Runzhe Wu, Nathan Kallus, Wen Sun]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mode-Aware Continual Learning for Conditional Generative Adversarial
+  Networks]]></title>
+        <id>http://arxiv.org/abs/2305.11400</id>
+        <link href="http://arxiv.org/abs/2305.11400"/>
+        <updated>2023-09-26T02:21:18.537Z</updated>
+        <summary type="html"><![CDATA[Cat P. Le, Juncheng Dong, Ahmed Aloui, Vahid Tarokh]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[脑洞大开：非线性RNN居然也可以并行计算？]]></title>
+        <id>https://kexue.fm/archives/9783</id>
+        <link href="https://kexue.fm/archives/9783"/>
+        <updated>2023-09-26T02:03:00.000Z</updated>
+        <summary type="html"><![CDATA[近年来，线性RNN由于其可并行训练以及常数推理成本等特性，吸引了一定研究人员的关注（例如笔者之前写的《Google新作试图“复活”RNN：RNN能否再次辉煌？》），这让RNN在Transform...]]></summary>
+        <author>
+            <name>苏剑林</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[course du souffle au Parc de Sceaux [42:06, 10k, 128m⁺, 43/663, 1/19M5M]]]></title>
         <id>http://xianblog.wordpress.com/?p=54100</id>
@@ -2409,16 +2463,6 @@ The ability to detect objects in the visual world is crucial for computer vision
         <summary type="html"><![CDATA["Chinese slogans on London wall hold mirror to society: artist" Zhejiang-born Yique tries to find his place in UK after Brick Lane work TAY HAN NEE, Nikkei Asia Here are the 24 Chinese characters that constitute the twelve disyllabic words that make up the official "Core Socialist Values" of the PRC government: National values Prosperity […]]]></summary>
         <author>
             <name>Victor Mair</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["Calimony"]]></title>
-        <id>https://languagelog.ldc.upenn.edu/nll/?p=60400</id>
-        <link href="https://languagelog.ldc.upenn.edu/nll/?p=60400&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=calimony"/>
-        <updated>2023-08-27T13:28:59.000Z</updated>
-        <summary type="html"><![CDATA[I recently learned about the lexical blend calimony, which refers to a planned multi-million-dollar annual payment from UCLA (the University of California, Los Angeles) to Berkeley (the University of California, Berkeley, known in athletic contexts as "California" or "Cal"). Why will this payment exist? And why is it a metaphorical form of alimony? Short form: […]]]></summary>
-        <author>
-            <name>Mark Liberman</name>
         </author>
     </entry>
 </feed>
