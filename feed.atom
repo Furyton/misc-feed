@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-09-26T08:19:21.863Z</updated>
+    <updated>2023-09-26T09:15:03.462Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[A new Indo-European language]]></title>
+        <id>https://languagelog.ldc.upenn.edu/nll/?p=60750</id>
+        <link href="https://languagelog.ldc.upenn.edu/nll/?p=60750&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=a-new-indo-european-language"/>
+        <updated>2023-09-26T08:47:29.000Z</updated>
+        <summary type="html"><![CDATA[Many LL readers are familiar with the archeological site of Boğazköy-Hattusha in north-central Turkey, which was the capital of the Hittite Empire and the place where the Hittite Royal Archives (17th-13th c. BC) were discovered, making it the oldest historically attested Indo-European language (scattered Hittite words in Akkadian documents stretch back to the 20th c. […]]]></summary>
+        <author>
+            <name>Victor Mair</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Utilizing Expert Features for Contrastive Learning of Time-Series
   Representations]]></title>
