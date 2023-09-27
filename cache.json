@@ -6,6 +6,46 @@
       "siteUrl": "https://www.arxivist.com",
       "articles": [
         {
+          "id": "http://arxiv.org/abs/2004.14049",
+          "author": null,
+          "description": "Edita M\\'a\\v{c}ajov\\'a, Giuseppe Mazzuoccolo, Vahan Mkrtchyan, Jean\n  Paul Zerafa",
+          "link": "http://arxiv.org/abs/2004.14049",
+          "publishedOn": "2023-09-27T11:12:35.149Z",
+          "wordCount": 752,
+          "title": "Some snarks are worse than others",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/1911.03764",
+          "author": null,
+          "description": "Ruoxuan Xiong, Susan Athey, Mohsen Bayati, Guido Imbens",
+          "link": "http://arxiv.org/abs/1911.03764",
+          "publishedOn": "2023-09-27T11:12:35.109Z",
+          "wordCount": 761,
+          "title": "Optimal Experimental Design for Staggered Rollouts",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/1901.09019",
+          "author": null,
+          "description": "Timo Kluck, Ana Ros Camacho",
+          "link": "http://arxiv.org/abs/1901.09019",
+          "publishedOn": "2023-09-27T11:12:35.099Z",
+          "wordCount": 581,
+          "title": "Computational aspects of orbifold equivalence",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/1808.06750",
+          "author": null,
+          "description": "Mehmet S. Ismail",
+          "link": "http://arxiv.org/abs/1808.06750",
+          "publishedOn": "2023-09-27T11:12:35.035Z",
+          "wordCount": 702,
+          "title": "The strategy of conflict and cooperation",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
           "id": "http://arxiv.org/abs/2112.11397",
           "author": null,
           "description": "Pablo Morala (1, 2), Jenny Alexandra Cifuentes (3), Rosa E. Lillo\n  (1, 2), I\\~naki Ucar (1, 2) ((1) uc3m-Santander Big Data Institute,\n  Universidad Carlos III de Madrid. Spain., (2) Department of Statistics,\n  Universidad Carlos III de Madrid. Spain., (3) ICADE, Department of\n  Quantitative Methods, Faculty of Economics, Business Administration,\n  Universidad Pontificia Comillas. Spain.)",
@@ -1884,16 +1924,6 @@
           "wordCount": 2262,
           "title": "differentially private distributed Bayesian linear regression with MCMC",
           "imageUrl": "https://xianblog.files.wordpress.com/2023/07/screenshot-2023-07-26-at-19-20-54-differentially-private-distributed-bayesian-linear-regression-with-mcmc-alparslan23a.pdf.png"
-        },
-        {
-          "id": "http://xianblog.wordpress.com/?p=53928",
-          "author": "xi'an",
-          "description": "Visit the post for more.",
-          "link": "https://xianblog.wordpress.com/2023/08/29/bayes-on-the-beach%c2%b2%e2%81%b4/",
-          "publishedOn": "2023-08-28T22:23:18.000Z",
-          "wordCount": 1833,
-          "title": "Bayes on the Beach²⁴",
-          "imageUrl": "https://research.qut.edu.au/qutcds/wp-content/uploads/sites/257/2023/08/Save-the-Date-1.png"
         }
       ]
     },
