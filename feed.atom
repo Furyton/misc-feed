@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-09-26T23:14:11.229Z</updated>
+    <updated>2023-09-27T01:04:47.522Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -2412,16 +2412,6 @@ The ability to detect objects in the visual world is crucial for computer vision
 The ability to detect objects in the visual world is crucial for computer vision and machine intelligence, enabling applications like adaptive autonomous agents and versatile shopping systems. However, modern object detectors are limited by the manual annotations of their training data, resulting in a vocabulary size significantly smaller than the vast array of objects encountered in reality. To overcome this, the open-vocabulary detection task (OVD) has emerged, utilizing image-text pairs for training and incorporating new category names at test time by associating them with the image content. By treating categories as text embeddings, open-vocabulary detectors can predict a wide range of unseen objects. Various techniqu…]]></summary>
         <author>
             <name>Google AI Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mugshot, racketeering, listless …]]></title>
-        <id>https://languagelog.ldc.upenn.edu/nll/?p=60427</id>
-        <link href="https://languagelog.ldc.upenn.edu/nll/?p=60427&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=mugshot-racketeering-listless"/>
-        <updated>2023-08-28T11:57:06.000Z</updated>
-        <summary type="html"><![CDATA[Over the past few months, U.S. political events have given Ben Zimmer opportunity for some fun etymologies in his WSJ column: mug shot, racketeering, listless. There are plenty more targets Out There — like candidate, from Latin candidus (“dazzling white, shining, clear”); or debate, originally from Latin dis- (“apart, in different directions”) + battuere (“to […]]]></summary>
-        <author>
-            <name>Mark Liberman</name>
         </author>
     </entry>
 </feed>
