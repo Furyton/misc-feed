@@ -6,6 +6,46 @@
       "siteUrl": "https://www.arxivist.com",
       "articles": [
         {
+          "id": "http://arxiv.org/abs/2112.11397",
+          "author": null,
+          "description": "Pablo Morala (1, 2), Jenny Alexandra Cifuentes (3), Rosa E. Lillo\n  (1, 2), I\\~naki Ucar (1, 2) ((1) uc3m-Santander Big Data Institute,\n  Universidad Carlos III de Madrid. Spain., (2) Department of Statistics,\n  Universidad Carlos III de Madrid. Spain., (3) ICADE, Department of\n  Quantitative Methods, Faculty of Economics, Business Administration,\n  Universidad Pontificia Comillas. Spain.)",
+          "link": "http://arxiv.org/abs/2112.11397",
+          "publishedOn": "2023-09-27T02:21:28.251Z",
+          "wordCount": null,
+          "title": "NN2Poly: A polynomial representation for deep feed-forward artificial\n  neural networks",
+          "imageUrl": null
+        },
+        {
+          "id": "http://arxiv.org/abs/2309.14779",
+          "author": null,
+          "description": "Hengyu Luo, Peng Liu, Stefan Esping",
+          "link": "http://arxiv.org/abs/2309.14779",
+          "publishedOn": "2023-09-27T02:21:26.121Z",
+          "wordCount": 780,
+          "title": "Exploring Small Language Models with Prompt-Learning Paradigm for\n  Efficient Domain-Specific Text Classification",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2309.15075",
+          "author": null,
+          "description": "Hyunouk Ko, Namjoon Suh, Xiaoming Huo",
+          "link": "http://arxiv.org/abs/2309.15075",
+          "publishedOn": "2023-09-27T02:21:25.967Z",
+          "wordCount": 720,
+          "title": "On Excess Risk Convergence Rates of Neural Network Classifiers",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2309.15111",
+          "author": null,
+          "description": "Margalit Glasgow",
+          "link": "http://arxiv.org/abs/2309.15111",
+          "publishedOn": "2023-09-27T02:21:25.932Z",
+          "wordCount": 736,
+          "title": "SGD Finds then Tunes Features in Two-Layer Neural Networks with\n  near-Optimal Sample Complexity: A Case Study in the XOR problem",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
           "id": "http://arxiv.org/abs/2206.11517",
           "author": null,
           "description": "Manuel Nonnenmacher, Lukas Oldenburg, Ingo Steinwart, David Reeb",
