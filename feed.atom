@@ -2,10 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-09-28T18:18:53.744Z</updated>
+    <updated>2023-09-28T19:12:27.057Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Re-weighted gradient descent via distributionally robust optimization]]></title>
+        <id>http://blog.research.google/2023/09/re-weighted-gradient-descent-via.html</id>
+        <link href="http://blog.research.google/2023/09/re-weighted-gradient-descent-via.html"/>
+        <updated>2023-09-28T18:16:00.002Z</updated>
+        <summary type="html"><![CDATA[Ramnath Kumar, Pre-Doctoral Researcher, and Arun Sai Suggala, Research Scientist, Google Research
+
+
+
+
+
+Deep neural networks (DNNs) have become essential for solving a wide range of tasks, from standard supervised learning (image classification using ViT) to meta-learning. The most commonly-used paradigm for learning DNNs is empirical risk minimization (ERM), which aims to identify a network that minimizes the average loss on training data points. Several algorithms, including stochastic gradient descent (SGD), Adam, and Adagrad, have been proposed for solving ERM. However, a drawback of ERM is that it weights all the samples equally, often ignoring the rare and more difficult samples, and focusing on the easier and abundant samples. This leads to suboptimal performance on unseen data, espe…]]></summary>
+        <author>
+            <name>Google AI Blog</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[international safe abortion day]]></title>
         <id>http://xianblog.wordpress.com/?p=54140</id>
