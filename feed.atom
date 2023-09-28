@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-09-28T04:17:27.924Z</updated>
+    <updated>2023-09-28T05:14:10.702Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -2504,16 +2504,6 @@ In “Modeling and Improving Text Stability in Live Captions”, presented at AC
 Simple and effective interaction between human and quadrupedal robots paves the way towards creating intelligent and capable helper robots, forging a future where technology enhances our lives in ways beyond our imagination. Key to such human-robot interaction systems is enabling quadrupedal robots to respond to natural language instructions. Recent developments in large language models (LLMs) have demonstrated the potential to perform high-level planning. Yet, it remains a challenge for LLMs to comprehend low-level commands, such as joint angle targets or motor torques, especially for inherently unstable legged robots, necessitating high-frequency control signals. Consequently, most existing work presumes the provision of…]]></summary>
         <author>
             <name>Google AI Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["Re-Grand Opening"]]></title>
-        <id>https://languagelog.ldc.upenn.edu/nll/?p=60440</id>
-        <link href="https://languagelog.ldc.upenn.edu/nll/?p=60440&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=re-grand-opening"/>
-        <updated>2023-08-29T16:22:55.000Z</updated>
-        <summary type="html"><![CDATA[From John Bell: I thought of you and your interest in the oddities of linguistic expression a few days ago when I noticed that the local Safeway supermarket had large signs up saying "RE-GRAND OPENING".   They had recently done some renovation in a corner of the store — enlarging the self-checkout and the Starbucks […]]]></summary>
-        <author>
-            <name>Mark Liberman</name>
         </author>
     </entry>
 </feed>
