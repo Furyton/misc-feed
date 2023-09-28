@@ -1676,6 +1676,16 @@
       "siteUrl": "https://xianblog.wordpress.com",
       "articles": [
         {
+          "id": "http://xianblog.wordpress.com/?p=54140",
+          "author": "xi'an",
+          "description": "Visit the post for more.",
+          "link": "https://xianblog.wordpress.com/2023/09/28/international-safe-abortion-day-2/",
+          "publishedOn": "2023-09-28T10:23:12.000Z",
+          "wordCount": 1769,
+          "title": "international safe abortion day",
+          "imageUrl": "https://www.laicite.be/app/uploads/2023/06/28sept-FacebookCover.png"
+        },
+        {
           "id": "http://xianblog.wordpress.com/?p=54121",
           "author": "xi'an",
           "description": "Now that the invited sessions have been selected by the scientific committee of ISBA²⁴ (with both sessions in which I am involved, Bayesian data privacy and The future of ISBA conferences, accepted), the call is open for contributed talks, with deadline 17 November. (If  this helps in making a proposal, childcare will be available during […]",
@@ -1964,16 +1974,6 @@
           "wordCount": 1911,
           "title": "ISBA²⁴ [website]",
           "imageUrl": "https://xianblog.files.wordpress.com/2023/08/temp-3.png"
-        },
-        {
-          "id": "http://xianblog.wordpress.com/?p=53623",
-          "author": "xi'an",
-          "description": "An ICML 2023 paper by Barıs¸ Alparslan, Sinan Yıldırım¸ and Ilker Birbil that (re)addresses the issue of privacy when running a Bayesian regression analysis. Resorting to the common notion of differential privacy, imposing a limited variability if a single observation is modified, and a Gaussian randomisation of the observations. “A differentially private algorithm constrains the […]",
-          "link": "https://xianblog.wordpress.com/2023/08/30/differentially-private-distributed-bayesian-linear-regression-with-mcmc/",
-          "publishedOn": "2023-08-29T22:23:23.000Z",
-          "wordCount": 2262,
-          "title": "differentially private distributed Bayesian linear regression with MCMC",
-          "imageUrl": "https://xianblog.files.wordpress.com/2023/07/screenshot-2023-07-26-at-19-20-54-differentially-private-distributed-bayesian-linear-regression-with-mcmc-alparslan23a.pdf.png"
         }
       ]
     },
@@ -2107,6 +2107,16 @@
       "feedUrl": "https://languagelog.ldc.upenn.edu/nll/?feed=rss2",
       "siteUrl": "https://languagelog.ldc.upenn.edu/nll",
       "articles": [
+        {
+          "id": "https://languagelog.ldc.upenn.edu/nll/?p=60759",
+          "author": "Victor Mair",
+          "description": "Not Chinese.  Do you understand? This has long been a cabbage of contention, but make no mistake about it:  fermented kimchee / kimchi  (gimchi 김치 (IPA [kim.tɕʰi]) (lit., \"soaked [in their own juices of fermentation] vegetables\") is not the same thing as pickled paocai / pao tsai 泡菜 (lit., \"soaked [in brine] vegetables\"). Kimchee and […]",
+          "link": "https://languagelog.ldc.upenn.edu/nll/?p=60759&utm_source=rss&utm_medium=rss&utm_campaign=kimchee-is-korean",
+          "publishedOn": "2023-09-28T10:17:26.000Z",
+          "wordCount": 3892,
+          "title": "Kimchee is Korean",
+          "imageUrl": null
+        },
         {
           "id": "https://languagelog.ldc.upenn.edu/nll/?p=60766",
           "author": "Mark Liberman",
@@ -2550,16 +2560,6 @@
           "publishedOn": "2023-08-30T14:17:17.000Z",
           "wordCount": 2345,
           "title": "Once in a blue moon",
-          "imageUrl": null
-        },
-        {
-          "id": "https://languagelog.ldc.upenn.edu/nll/?p=60435",
-          "author": "Victor Mair",
-          "description": "This morning in the first class of my course on \"Language, Script, and Society in China\", I had just spoken about the most frequent morphemes in Mandarin, Taiwanese, and Japanese (the possessive particles de 的, e, and no の) and other common terms that had no fixed characters to write them or had to borrow […]",
-          "link": "https://languagelog.ldc.upenn.edu/nll/?p=60435&utm_source=rss&utm_medium=rss&utm_campaign=de-japanification-of-japanese",
-          "publishedOn": "2023-08-29T22:22:30.000Z",
-          "wordCount": 2370,
-          "title": "De-Japanification of Japanese",
           "imageUrl": null
         }
       ]
