@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-09-28T22:14:22.794Z</updated>
+    <updated>2023-09-28T23:14:42.795Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Bertrand’s paradox [re]solved?]]></title>
+        <id>http://xianblog.wordpress.com/?p=53824</id>
+        <link href="https://xianblog.wordpress.com/2023/09/29/bertrands-paradox-resolved/"/>
+        <updated>2023-09-28T22:23:44.000Z</updated>
+        <summary type="html"><![CDATA[On the plane back from Vancouver, I read Bertrand’s Paradox Resolution and Its Implications for the Bing–Fisher Problem by Richard A. Chechile [who had pointed out his paper to me] In this paper, Chechile considers the Bayesian connections/sequences of Betrand’s paradox, as he sees it Bertrand’s different solutions/paradox to be “designed to illustrate his dissatisfaction […]]]></summary>
+        <author>
+            <name>xi'an</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[DynIBaR: Space-time view synthesis from videos of dynamic scenes]]></title>
         <id>http://blog.research.google/2023/09/dynibar-space-time-view-synthesis-from.html</id>
