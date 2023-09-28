@@ -1955,6 +1955,16 @@
       "siteUrl": "http://blog.research.google/",
       "articles": [
         {
+          "id": "http://blog.research.google/2023/09/dynibar-space-time-view-synthesis-from.html",
+          "author": null,
+          "description": "Posted by Zhengqi Li and Noah Snavely, Research Scientists, Google Research\n\n\n\n\n\n\n\nA mobile phone’s camera is a powerful tool for capturing everyday moments. However, capturing a dynamic scene using a single camera is fundamentally limited. For instance, if we wanted to adjust the camera motion or timing of a recorded video (e.g., to freeze time while sweeping the camera around to highlight a dramatic moment), we would typically need an expensive Hollywood setup with a synchronized camera rig. Would it be possible to achieve similar effects solely from a video captured using a mobile phone’s camera, without a Hollywood budget?\n\n\n\nIn “DynIBaR: Neural Dynamic Image-Based Rendering”, a best paper honorable mention at CVPR 2023, we describe a new method that generates photorealistic free-viewp…",
+          "link": "http://blog.research.google/2023/09/dynibar-space-time-view-synthesis-from.html",
+          "publishedOn": "2023-09-28T20:01:00.000Z",
+          "wordCount": 27708,
+          "title": "DynIBaR: Space-time view synthesis from videos of dynamic scenes",
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhGX53UfU9eWiSTRWdkrUWNln3KGyagkwfUi_38zEihOJ2qLkmQ-3yNsuJJ7SkJ-BTLlVrxJlyoEYl7-tAer6v4MnIAw49TWLGWa8cFgl_c_2WUJqw1O3J8nVhU-VtVwO5Z-bq7rH6pZj7APe5yDZCUSZyeDO39shlGFkVsSQDd1ZWYUT0eDmeJ9JLoWlA3/w1200-h630-p-k-no-nu/hero.gif"
+        },
+        {
           "id": "http://blog.research.google/2023/09/re-weighted-gradient-descent-via.html",
           "author": null,
           "description": "Ramnath Kumar, Pre-Doctoral Researcher, and Arun Sai Suggala, Research Scientist, Google Research\n\n\n\n\n\nDeep neural networks (DNNs) have become essential for solving a wide range of tasks, from standard supervised learning (image classification using ViT) to meta-learning. The most commonly-used paradigm for learning DNNs is empirical risk minimization (ERM), which aims to identify a network that minimizes the average loss on training data points. Several algorithms, including stochastic gradient descent (SGD), Adam, and Adagrad, have been proposed for solving ERM. However, a drawback of ERM is that it weights all the samples equally, often ignoring the rare and more difficult samples, and focusing on the easier and abundant samples. This leads to suboptimal performance on unseen data, espe…",
