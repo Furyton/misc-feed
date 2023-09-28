@@ -2093,16 +2093,6 @@
           "wordCount": 27954,
           "title": "Modeling and improving text stability in live captions",
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhmZKQpatrRUfrTX1UjaVW9wrHoVajjHupeWwkV45-muvTV7F1It2G37lV7OzA8aS_AKcxxNaX9AsJGfWAH5Hf5vedsp0L51VLZE-kxgUevXur_npeMsJT1GXIX_ArfCvcupT4Y8U5-8Gbzb0oiIptaxr8zd4fkk4ICy-mNmOTWXQPX7GU3cpnXoMfH9tnz/w1200-h630-p-k-no-nu/stabilizedcaptions.png"
-        },
-        {
-          "id": "http://blog.research.google/2023/08/saytap-language-to-quadrupedal.html",
-          "author": null,
-          "description": "Posted by Yujin Tang and Wenhao Yu, Research Scientists, Google\n\n\n\n\nSimple and effective interaction between human and quadrupedal robots paves the way towards creating intelligent and capable helper robots, forging a future where technology enhances our lives in ways beyond our imagination. Key to such human-robot interaction systems is enabling quadrupedal robots to respond to natural language instructions. Recent developments in large language models (LLMs) have demonstrated the potential to perform high-level planning. Yet, it remains a challenge for LLMs to comprehend low-level commands, such as joint angle targets or motor torques, especially for inherently unstable legged robots, necessitating high-frequency control signals. Consequently, most existing work presumes the provision of…",
-          "link": "http://blog.research.google/2023/08/saytap-language-to-quadrupedal.html",
-          "publishedOn": "2023-08-29T19:57:00.000Z",
-          "wordCount": 27861,
-          "title": "SayTap: Language to quadrupedal locomotion",
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgWzjJBM7DUieoZyN9KN5N5ta17-mXVFjbz-eOS4dJPZM9W0yC9OHL4f-ng2BMjF3v62w-X5cMFN1bzv5PTEJTG5KdOrmhySUpQqM01aevHn1JyP9VJxYSvio46dX78aBg3tDn_rXKs7I1e_nXntWcEeGePLGRRbvGz8TK-FZnvm-tRfXtxOHWHaGqcHaMI/w1200-h630-p-k-no-nu/SayTap%20hero.jpg"
         }
       ]
     },
