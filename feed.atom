@@ -2,10 +2,63 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-09-28T02:20:50.782Z</updated>
+    <updated>2023-09-28T03:15:19.692Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Quantum-Noise-driven Generative Diffusion Models]]></title>
+        <id>http://arxiv.org/abs/2308.12013</id>
+        <link href="http://arxiv.org/abs/2308.12013"/>
+        <updated>2023-09-28T03:15:19.646Z</updated>
+        <summary type="html"><![CDATA[Marco Parigi, Stefano Martina, Filippo Caruso]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Neural network with optimal neuron activation functions based on
+  additive Gaussian process regression]]></title>
+        <id>http://arxiv.org/abs/2301.05567</id>
+        <link href="http://arxiv.org/abs/2301.05567"/>
+        <updated>2023-09-28T03:15:16.432Z</updated>
+        <summary type="html"><![CDATA[Sergei Manzhos, Manabu Ihara]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Graph Neural Prompting with Large Language Models]]></title>
+        <id>http://arxiv.org/abs/2309.15427</id>
+        <link href="http://arxiv.org/abs/2309.15427"/>
+        <updated>2023-09-28T03:15:16.311Z</updated>
+        <summary type="html"><![CDATA[Yijun Tian, Huan Song, Zichen Wang, Haozhu Wang, Ziqing Hu, Fang Wang,
+  Nitesh V. Chawla, Panpan Xu]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Optimal Approximation of Zonoids and Uniform Approximation by Shallow
+  Neural Networks]]></title>
+        <id>http://arxiv.org/abs/2307.15285</id>
+        <link href="http://arxiv.org/abs/2307.15285"/>
+        <updated>2023-09-28T03:15:15.778Z</updated>
+        <summary type="html"><![CDATA[Jonathan W. Siegel]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GeONet: a neural operator for learning the Wasserstein geodesic]]></title>
+        <id>http://arxiv.org/abs/2209.14440</id>
+        <link href="http://arxiv.org/abs/2209.14440"/>
+        <updated>2023-09-28T03:15:15.455Z</updated>
+        <summary type="html"><![CDATA[Andrew Gracyk, Xiaohui Chen]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Representations having vectors fixed by a Levi subgroup]]></title>
         <id>http://arxiv.org/abs/2002.10928</id>
