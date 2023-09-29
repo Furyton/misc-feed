@@ -6,6 +6,56 @@
       "siteUrl": "https://www.arxivist.com",
       "articles": [
         {
+          "id": "http://arxiv.org/abs/2108.12547",
+          "author": null,
+          "description": "Jin Li, Ye Luo, Xiaowei Zhang",
+          "link": "http://arxiv.org/abs/2108.12547",
+          "publishedOn": "2023-09-29T01:04:29.683Z",
+          "wordCount": 632,
+          "title": "Dynamic Selection in Algorithmic Decision-making",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2205.05625",
+          "author": null,
+          "description": "Guangxi Li, Xuanqiang Zhao, Xin Wang",
+          "link": "http://arxiv.org/abs/2205.05625",
+          "publishedOn": "2023-09-29T01:04:29.678Z",
+          "wordCount": 705,
+          "title": "Quantum Self-Attention Neural Networks for Text Classification",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2209.07403",
+          "author": null,
+          "description": "Andrew Lowy, Meisam Razaviyayn",
+          "link": "http://arxiv.org/abs/2209.07403",
+          "publishedOn": "2023-09-29T01:04:29.450Z",
+          "wordCount": 900,
+          "title": "Private Stochastic Optimization With Large Worst-Case Lipschitz\n  Parameter: Optimal Rates for (Non-Smooth) Convex Losses and Extension to\n  Non-Convex Losses",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2212.10538",
+          "author": null,
+          "description": "Zhou Fan, Xinran Han, Zi Wang",
+          "link": "http://arxiv.org/abs/2212.10538",
+          "publishedOn": "2023-09-29T01:04:29.439Z",
+          "wordCount": 735,
+          "title": "HyperBO+: Pre-training a universal prior for Bayesian optimization with\n  hierarchical Gaussian processes",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2202.09134",
+          "author": null,
+          "description": "Kevin Han Huang, Peter Orbanz, Morgane Austern",
+          "link": "http://arxiv.org/abs/2202.09134",
+          "publishedOn": "2023-09-29T01:04:29.434Z",
+          "wordCount": 724,
+          "title": "Data Augmentation in the Underparameterized and Overparameterized\n  Regimes",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
           "id": "http://arxiv.org/abs/2308.12013",
           "author": null,
           "description": "Marco Parigi, Stefano Martina, Filippo Caruso",
