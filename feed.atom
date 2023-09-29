@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-09-29T18:19:17.601Z</updated>
+    <updated>2023-09-29T19:11:50.171Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -2608,16 +2608,6 @@ In 1950, weather forecasting started its digital revolution when researchers use
         <summary type="html"><![CDATA["Chinese Song Streamed Billions of Times for ‘Satirical’ Vibe" By Miho Tamura / Yomiuri Shimbun Correspondent Yomiuri Shimbun (August 29, 2023) Here's the song, with the lyrics in characters, pinyin romanization, and a poor English translation: There are several other inferior English translations on the internet.  I have yet to find one that is serviceable, […]]]></summary>
         <author>
             <name>Victor Mair</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PyTorch/XLA SPMD: Scale Up Model Training and Serving with Automatic Parallelization]]></title>
-        <id>https://pytorch.org/blog/pytorch-xla-spmd/</id>
-        <link href="https://pytorch.org/blog/pytorch-xla-spmd/"/>
-        <updated>2023-08-31T07:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Today, we are delighted to announce PyTorch/XLA SPMD: the integration of GSPMD into PyTorch with an easy to use API. PyTorch developers seeking superior performance and scale can train and serve the largest neural networks while maximizing utilization of AI accelerators, such as Google Cloud TPUs.]]></summary>
-        <author>
-            <name>PyTorch Website</name>
         </author>
     </entry>
 </feed>

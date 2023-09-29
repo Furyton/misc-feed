@@ -1604,16 +1604,6 @@
           "wordCount": 1669,
           "title": "Automated trace collection and analysis",
           "imageUrl": "https://pytorch.org/assets/images/pytorch-logo.png"
-        },
-        {
-          "id": "https://pytorch.org/blog/pytorch-xla-spmd/",
-          "author": null,
-          "description": "Today, we are delighted to announce PyTorch/XLA SPMD: the integration of GSPMD into PyTorch with an easy to use API. PyTorch developers seeking superior performance and scale can train and serve the largest neural networks while maximizing utilization of AI accelerators, such as Google Cloud TPUs.",
-          "link": "https://pytorch.org/blog/pytorch-xla-spmd/",
-          "publishedOn": "2023-08-31T07:00:00.000Z",
-          "wordCount": 1964,
-          "title": "PyTorch/XLA SPMD: Scale Up Model Training and Serving with Automatic Parallelization",
-          "imageUrl": "https://pytorch.org/assets/images/pytorch-logo.png"
         }
       ]
     },
