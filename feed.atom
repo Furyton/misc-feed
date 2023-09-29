@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-09-29T22:13:21.882Z</updated>
+    <updated>2023-09-29T23:14:29.564Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[optimal formation for marathon records]]></title>
+        <id>http://xianblog.wordpress.com/?p=53860</id>
+        <link href="https://xianblog.wordpress.com/2023/09/30/optimal-formation-for-marathon-records/"/>
+        <updated>2023-09-29T22:23:58.000Z</updated>
+        <summary type="html"><![CDATA[A fascinating experiment run (!) by researchers from Lyon and Torino, testing the impact of different pacer formations on the air drag of a specific runner, and leading to a predicted 4¼mn gain on a marathon for the optimal configuration. Inspired by (and in agreement with) the Nike Breaking2 and INEOS1:59 Challenge attempts. Of course, […]]]></summary>
+        <author>
+            <name>xi'an</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Juridical tautology:  "illegal crime"]]></title>
         <id>https://languagelog.ldc.upenn.edu/nll/?p=60774</id>
@@ -2608,16 +2618,6 @@ In 1950, weather forecasting started its digital revolution when researchers use
         <summary type="html"><![CDATA[Email from John B.: Writing to you about a never-expected-to-see sentence, in a novel I’m reading. “And get some linguists out here as fast as you can.” (Well, but why not?) It’s a newly released off the wall novel, The Road to Roswell by Connie Willis. The heroine, Francie, has agreed to be maid of […]]]></summary>
         <author>
             <name>Mark Liberman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Viral vibe]]></title>
-        <id>https://languagelog.ldc.upenn.edu/nll/?p=60461</id>
-        <link href="https://languagelog.ldc.upenn.edu/nll/?p=60461&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=viral-vibe"/>
-        <updated>2023-08-31T10:23:58.000Z</updated>
-        <summary type="html"><![CDATA["Chinese Song Streamed Billions of Times for ‘Satirical’ Vibe" By Miho Tamura / Yomiuri Shimbun Correspondent Yomiuri Shimbun (August 29, 2023) Here's the song, with the lyrics in characters, pinyin romanization, and a poor English translation: There are several other inferior English translations on the internet.  I have yet to find one that is serviceable, […]]]></summary>
-        <author>
-            <name>Victor Mair</name>
         </author>
     </entry>
 </feed>
