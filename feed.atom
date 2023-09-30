@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-09-30T19:10:39.680Z</updated>
+    <updated>2023-09-30T20:13:59.535Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Share your language]]></title>
+        <id>https://languagelog.ldc.upenn.edu/nll/?p=60800</id>
+        <link href="https://languagelog.ldc.upenn.edu/nll/?p=60800&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=share-your-language"/>
+        <updated>2023-09-30T19:55:43.000Z</updated>
+        <summary type="html"><![CDATA[If you can't make up your mind what to do about something, then in French you would say "je suis partagé":  I'm torn or divided over it.  You can't decide what to do about it.  You can't make up your mind whether to be pleased or angry with something.  But the verb "partager" means "to […]]]></summary>
+        <author>
+            <name>Victor Mair</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Synge's dynamic problem for two isolated point charges. A new method to
   find global solutions for Functional Differential Equations System]]></title>
