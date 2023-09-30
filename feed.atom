@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-09-30T05:13:04.425Z</updated>
+    <updated>2023-09-30T06:18:23.036Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -2603,22 +2603,6 @@ MHA、MQA、GQA效果
         <summary type="html"><![CDATA[From the Twitter / X account of the famous popular science writer and muckraker, Fang Zhouzi / Fang Shimin: 光禁止“日本人”“美国狗”入内哪够啊，还有欧盟、英国、澳大利亚、加拿大……呢？不如干脆搞一个白名单，只欢迎朝鲜人、俄国狗入内。 pic.twitter.com/fhVu6oMyZx — 方舟子 (@fangshimin) August 31, 2023 The sign says: Rìběn rénMěiguó gǒujìnzhǐ rùnèi 日本人美国狗禁止入内 "Japanese peopleAmerican dogsAre forbidden from entering" It seems that Americans are of a lower order than Japanese.  What did we […]]]></summary>
         <author>
             <name>Victor Mair</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WeatherBench 2: A benchmark for the next generation of data-driven weather models]]></title>
-        <id>http://blog.research.google/2023/08/weatherbench-2-benchmark-for-next.html</id>
-        <link href="http://blog.research.google/2023/08/weatherbench-2-benchmark-for-next.html"/>
-        <updated>2023-08-31T17:14:00.000Z</updated>
-        <summary type="html"><![CDATA[Posted by Stephan Rasp, Research Scientist, and Carla Bromberg, Program Lead, Google Research
-
-
-
-
-
-In 1950, weather forecasting started its digital revolution when researchers used the first programmable, general-purpose computer ENIAC to solve mathematical equations describing how weather evolves. In the more than 70 years since, continuous advancements in computing power and improvements to the model formulations have led to steady gains in weather forecast skill: a 7-day forecast today is about as accurate as a 5-day forecast in 2000 and a 3-day forecast in 1980. While improving forecast accuracy at the pace of approximately one day per decade may not seem like a big deal, every day improved is important in far reaching use cases, such as for logistics planning, disaster management, agr…]]></summary>
-        <author>
-            <name>Google AI Blog</name>
         </author>
     </entry>
 </feed>
