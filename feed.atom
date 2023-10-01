@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-01T10:14:42.461Z</updated>
+    <updated>2023-10-01T11:11:11.451Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -2492,16 +2492,6 @@ Time series forecasting is critical to various real-world applications, from dem
         <summary type="html"><![CDATA[The Differences between Old English, Middle English and Modern English By Danièle Cybulskie When people study Shakespeare in high school, I often hear them refer to his language as “Old English.” As far as the language goes, Shakespeare’s English actually falls under the category of “Modern English.” This may be a little hard to believe, […]]]></summary>
         <author>
             <name>Victor Mair</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Quantum-enhanced Markov chain Monte Carlo]]></title>
-        <id>http://xianblog.wordpress.com/?p=53575</id>
-        <link href="https://xianblog.wordpress.com/2023/09/02/quantum-enhanced-markov-chain-monte-carlo/"/>
-        <updated>2023-09-01T22:23:51.000Z</updated>
-        <summary type="html"><![CDATA[A rare occurrence of an MCMC paper in Nature!!! David Layden and co-authors published this paper on 12 July, about using a quantum proposal in a Metropolis-Rosenbluth-Hastings simulation of an Ising model. More specifically, based on “quenched dynamics of a transverse-field quantum Ising model20, which can be efficiently simulated on a quantum computer21“, which amounts […]]]></summary>
-        <author>
-            <name>xi'an</name>
         </author>
     </entry>
 </feed>
