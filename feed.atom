@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-09-30T23:13:36.846Z</updated>
+    <updated>2023-10-01T01:13:00.119Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -2530,16 +2530,6 @@ MHA、MQA、GQA效果
 在LLAMA2中，在不同的数据数据集上对比的效果（注意：为了维持参数量一致，对于MQA、GQA的FFN layer的维度，会有一定的拓宽）：]]></summary>
         <author>
             <name>YongYuan's homepage</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Central Asian Turkish languages]]></title>
-        <id>https://languagelog.ldc.upenn.edu/nll/?p=60479</id>
-        <link href="https://languagelog.ldc.upenn.edu/nll/?p=60479&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=central-asian-turkish-languages"/>
-        <updated>2023-09-01T12:33:21.000Z</updated>
-        <summary type="html"><![CDATA[I write to announce an exceptional opportunity to learn the Turkish languages of Central Asia. There is a new Turkic course at Penn: TURK 1050.   This is a survey course that introduces students to the main languages spoken in Central Asia: Kazakh, Uzbek, Kyrgyz, Azeri. The language study will facilitate student research in topics like […]]]></summary>
-        <author>
-            <name>Victor Mair</name>
         </author>
     </entry>
 </feed>
