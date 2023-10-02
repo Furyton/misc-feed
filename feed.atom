@@ -2,10 +2,61 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-02T10:16:09.330Z</updated>
+    <updated>2023-10-02T11:12:19.054Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Pressure metrics for cusped Hitchin components]]></title>
+        <id>http://arxiv.org/abs/2111.07493</id>
+        <link href="http://arxiv.org/abs/2111.07493"/>
+        <updated>2023-10-02T11:12:19.017Z</updated>
+        <summary type="html"><![CDATA[Harrison Bray, Richard Canary, Lien-Yung Kao, Giuseppe Martone]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Universality for Lozenge Tiling Local Statistics]]></title>
+        <id>http://arxiv.org/abs/1907.09991</id>
+        <link href="http://arxiv.org/abs/1907.09991"/>
+        <updated>2023-10-02T11:12:19.012Z</updated>
+        <summary type="html"><![CDATA[Amol Aggarwal]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gromov's Oka principle for equivariant maps]]></title>
+        <id>http://arxiv.org/abs/1912.07129</id>
+        <link href="http://arxiv.org/abs/1912.07129"/>
+        <updated>2023-10-02T11:12:18.987Z</updated>
+        <summary type="html"><![CDATA[Frank Kutzschebauch, Finnur Larusson, Gerald W. Schwarz]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tensor products of Bands and Ideals]]></title>
+        <id>http://arxiv.org/abs/2207.13796</id>
+        <link href="http://arxiv.org/abs/2207.13796"/>
+        <updated>2023-10-02T11:12:18.792Z</updated>
+        <summary type="html"><![CDATA[Mohamed Amine Ben Amor, Omer Gok, Damla Yaman]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lessons Learned: How (Not) to Defend Against Property Inference Attacks]]></title>
+        <id>http://arxiv.org/abs/2205.08821</id>
+        <link href="http://arxiv.org/abs/2205.08821"/>
+        <updated>2023-10-02T11:12:18.780Z</updated>
+        <summary type="html"><![CDATA[Joshua Stock (1), Jens Wettlaufer, Daniel Demmler (1), Hannes
+  Federrath (1) ((1) Universit\"at Hamburg)]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Google at ICCV 2023]]></title>
         <id>http://blog.research.google/2023/10/google-at-iccv-2023.html</id>
@@ -2564,16 +2615,6 @@ Time series forecasting is critical to various real-world applications, from dem
         <summary type="html"><![CDATA[奥本海默中国大陆版本剪辑情况 pic.twitter.com/Nbjxy5PJ4J — 小径残雪 (@xiaojingcanxue) September 1, 2023 [link to full tweet here] Notice the title of each group of five panels: yuánbǎn 原版 ("original edition") for the uncut version, and jiǎnbǎn ✂️版 [=剪版] (meaning jiǎnjí bǎn 剪輯版) for the censored version — all the more notable for its being written in pen, not typed […]]]></summary>
         <author>
             <name>Victor Mair</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sài Gòn food scene [jatp]]]></title>
-        <id>http://xianblog.wordpress.com/?p=53679</id>
-        <link href="https://xianblog.wordpress.com/2023/09/03/sai-gon-food-scene-jatp/"/>
-        <updated>2023-09-02T22:23:04.000Z</updated>
-        <summary type="html"><![CDATA[An additional perk of visiting Sài Gòn last week was in enjoying the rich and diverse food scene there, even though, obviously, I only scratched the surface of the offer there. Among dishes, a morning rice pancake called bunh cuon,   several phos,  sweet sea snails, another broth called bun thang (with blood sausage), a […]]]></summary>
-        <author>
-            <name>xi'an</name>
         </author>
     </entry>
 </feed>
