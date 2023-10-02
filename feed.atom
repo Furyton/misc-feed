@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-02T12:29:41.907Z</updated>
+    <updated>2023-10-02T13:19:05.674Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Mental anguish from having too many English words in Japanese]]></title>
+        <id>https://languagelog.ldc.upenn.edu/nll/?p=60805</id>
+        <link href="https://languagelog.ldc.upenn.edu/nll/?p=60805&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=mental-anguish-from-having-too-many-english-words-in-japanese"/>
+        <updated>2023-10-02T12:47:25.000Z</updated>
+        <summary type="html"><![CDATA[One thing I revel in about the English language is the huge number of loanwords it has:  French, Latin, Greek, Native American, Arabic, Persian, Turkish, Kurdish, Sanskrit, Hindi, Urdu, Bengali, Tamil, Russian, German, Spanish, Italian, Irish, Swedish, Dutch, Danish, Norwegian, Finnish, Japanese, Cantonese, Mandarin, Maori, Hebrew, Yiddish, Afrikaans, Zulu, Swahili, and so on and on […]]]></summary>
+        <author>
+            <name>Victor Mair</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Pressure metrics for cusped Hitchin components]]></title>
         <id>http://arxiv.org/abs/2111.07493</id>
