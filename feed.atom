@@ -2,10 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-02T09:15:26.686Z</updated>
+    <updated>2023-10-02T10:16:09.330Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Google at ICCV 2023]]></title>
+        <id>http://blog.research.google/2023/10/google-at-iccv-2023.html</id>
+        <link href="http://blog.research.google/2023/10/google-at-iccv-2023.html"/>
+        <updated>2023-10-02T07:51:00.000Z</updated>
+        <summary type="html"><![CDATA[Posted by Shaina Mehta, Program Manager, Google
+
+
+
+
+Google is proud to be a Platinum Sponsor of the International Conference on Computer Vision (ICCV 2023), a premier annual conference, which is being held this week in Paris, France. As a leader in computer vision research, Google has a strong presence at this year’s conference with 60 accepted papers and active involvement in 27 workshops and tutorials. Google is also proud to be a Platinum Sponsor for the LatinX in CV workshop. We look forward to sharing some of our extensive computer vision research and expanding our partnership with the broader research community. 
+
+
+
+Attending ICCV 2023? We hope you’ll visit the Google booth to chat with researchers who are actively pursuing the latest innovations in computer vision, and check out som…]]></summary>
+        <author>
+            <name>Google AI Blog</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Generalized Balancing Weights via Deep Neural Networks]]></title>
         <id>http://arxiv.org/abs/2211.07533</id>
