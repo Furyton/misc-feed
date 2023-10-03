@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-03T22:13:31.149Z</updated>
+    <updated>2023-10-03T23:14:25.649Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Nobels away]]></title>
+        <id>http://xianblog.wordpress.com/?p=54157</id>
+        <link href="https://xianblog.wordpress.com/2023/10/04/nobels-away/"/>
+        <updated>2023-10-03T22:23:55.000Z</updated>
+        <summary type="html"><![CDATA[A self-administred poll in Nature about the respondents’ feeling about the prizes, with only 15% thinking it would be preferable to have none. As an absurd concept of singling out one scientist out the flock of top scientists, of comparing chalk and cheese, of idealising “great men” (since winners are predominantly men) with the ensuing […]]]></summary>
+        <author>
+            <name>xi'an</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Higher Criticism for Discriminating Word-Frequency Tables and Testing
   Authorship]]></title>
