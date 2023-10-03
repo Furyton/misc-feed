@@ -2,10 +2,65 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-03T02:21:53.317Z</updated>
+    <updated>2023-10-03T03:15:24.446Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Zero-Shot Recommendations with Pre-Trained Large Language Models for
+  Multimodal Nudging]]></title>
+        <id>http://arxiv.org/abs/2309.01026</id>
+        <link href="http://arxiv.org/abs/2309.01026"/>
+        <updated>2023-10-03T03:15:24.414Z</updated>
+        <summary type="html"><![CDATA[Rachel M. Harrison, Anton Dereventsov, Anton Bibin]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Deep Learning Meets Sparse Regularization: A Signal Processing
+  Perspective]]></title>
+        <id>http://arxiv.org/abs/2301.09554</id>
+        <link href="http://arxiv.org/abs/2301.09554"/>
+        <updated>2023-10-03T03:15:24.376Z</updated>
+        <summary type="html"><![CDATA[Rahul Parhi, Robert D. Nowak]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WASA: WAtermark-based Source Attribution for Large Language
+  Model-Generated Data]]></title>
+        <id>http://arxiv.org/abs/2310.00646</id>
+        <link href="http://arxiv.org/abs/2310.00646"/>
+        <updated>2023-10-03T03:15:24.362Z</updated>
+        <summary type="html"><![CDATA[Jingtan Wang, Xinyang Lu, Zitong Zhao, Zhongxiang Dai, Chuan-Sheng
+  Foo, See-Kiong Ng, Bryan Kian Hsiang Low]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Provable Reward-Agnostic Preference-Based Reinforcement Learning]]></title>
+        <id>http://arxiv.org/abs/2305.18505</id>
+        <link href="http://arxiv.org/abs/2305.18505"/>
+        <updated>2023-10-03T03:15:24.308Z</updated>
+        <summary type="html"><![CDATA[Wenhao Zhan, Masatoshi Uehara, Wen Sun, Jason D. Lee]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A review of ensemble learning and data augmentation models for class
+  imbalanced problems: combination, implementation and evaluation]]></title>
+        <id>http://arxiv.org/abs/2304.02858</id>
+        <link href="http://arxiv.org/abs/2304.02858"/>
+        <updated>2023-10-03T03:15:24.303Z</updated>
+        <summary type="html"><![CDATA[Azal Ahmad Khan, Omkar Chaudhari, Rohitash Chandra]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Familial inference]]></title>
         <id>http://xianblog.wordpress.com/?p=54136</id>
