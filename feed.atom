@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-04T10:16:06.120Z</updated>
+    <updated>2023-10-04T11:12:57.701Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Hyper-inclusive we]]></title>
+        <id>https://languagelog.ldc.upenn.edu/nll/?p=60828</id>
+        <link href="https://languagelog.ldc.upenn.edu/nll/?p=60828&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=hyper-inclusive-we"/>
+        <updated>2023-10-04T11:08:16.000Z</updated>
+        <summary type="html"><![CDATA[Yesterday evening in a restaurant, our attentive server frequently asked us things like "Are we ready to order" and "How are we doing?". This use of we is common enough that I didn't notice it. But when they brought us a complimentary bit of sushi with the explanation "Here's some unagi for us", that caught […]]]></summary>
+        <author>
+            <name>Mark Liberman</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[High performance Llama 2 deployments with AWS Inferentia2 using TorchServe]]></title>
         <id>https://pytorch.org/blog/high-performance-llama/</id>
@@ -2764,16 +2774,6 @@ Time series forecasting is critical to various real-world applications, from dem
         <summary type="html"><![CDATA[In this blog, we share how we enabled the collection and analysis of PyTorch Profiler traces for training workloads without any user side code instrumentation. We leveraged Dynolog - an open source daemon for CPU and GPU telemetry to collect PyTorch Profiler traces, and analyzed the collected traces using Holistic Trace Analysis - an open source library for analyzing PyTorch Profiler traces. This toolchain has allowed engineers at Meta to accelerate their performance optimization workflows. The keystone to our solution was implementing pre and post hooks for the base Optimizer class in PyTorch. We demo PyTorch trace collection using Dynolog in a short video.]]></summary>
         <author>
             <name>PyTorch Website</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[capture & maybe recapture]]></title>
-        <id>http://xianblog.wordpress.com/?p=53568</id>
-        <link href="https://xianblog.wordpress.com/2023/09/05/capture-maybe-recapture-estimation/"/>
-        <updated>2023-09-04T22:23:42.000Z</updated>
-        <summary type="html"><![CDATA[I read population size estimation with capture-recapture in presence of individual misidentification and low recapture arXived by Rémy Fraysse and coauthors on my flight back from Saigon. The setup is one of a capture-recapture experience where potential misidentification (of a recapture individual labelled as new) may occur due to visual identification errors as, e.g., in […]]]></summary>
-        <author>
-            <name>xi'an</name>
         </author>
     </entry>
 </feed>
