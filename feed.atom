@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-04T08:19:51.220Z</updated>
+    <updated>2023-10-04T09:15:24.607Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[High performance Llama 2 deployments with AWS Inferentia2 using TorchServe]]></title>
+        <id>https://pytorch.org/blog/high-performance-llama/</id>
+        <link href="https://pytorch.org/blog/high-performance-llama/"/>
+        <updated>2023-10-04T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Recently, Llama 2 was released and has attracted a lot of interest from the machine learning community. Amazon EC2 Inf2 instances, powered by AWS Inferentia2, now support training and inference of Llama 2 models. In this post, we show low-latency and cost-effective inference of Llama-2 models on Amazon EC2 Inf2 instances using the latest AWS Neuron SDK release.  We first introduce how to create, compile and deploy the Llama-2 model and explain the optimization techniques introduced by AWS Neuron SDK to achieve high performance at low cost. We then present our benchmarking results. Lastly, we show how the Llama-2 model can be deployed through Amazon SageMaker using TorchServe on an Inf2 instance.]]></summary>
+        <author>
+            <name>PyTorch Website</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[In-Context Learning Learns Label Relationships but Is Not Conventional
   Learning]]></title>
