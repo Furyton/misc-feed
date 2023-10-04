@@ -1715,6 +1715,26 @@
       "siteUrl": "https://pytorch.org/",
       "articles": [
         {
+          "id": "https://pytorch.org/blog/new-library-updates/",
+          "author": null,
+          "description": "Summary",
+          "link": "https://pytorch.org/blog/new-library-updates/",
+          "publishedOn": "2023-10-04T07:00:00.000Z",
+          "wordCount": 1939,
+          "title": "New Library Updates in PyTorch 2.1",
+          "imageUrl": "https://pytorch.org/assets/images/pytorch-logo.png"
+        },
+        {
+          "id": "https://pytorch.org/blog/pytorch-2-1/",
+          "author": null,
+          "description": "We are excited to announce the release of PyTorch® 2.1 (release note)! PyTorch 2.1 offers automatic dynamic shape support in torch.compile, torch.distributed.checkpoint for saving/loading distributed training jobs on multiple ranks in parallel, and torch.compile support for the NumPy API.",
+          "link": "https://pytorch.org/blog/pytorch-2-1/",
+          "publishedOn": "2023-10-04T07:00:00.000Z",
+          "wordCount": 1688,
+          "title": "PyTorch 2.1: automatic dynamic shape compilation, distributed checkpointing",
+          "imageUrl": "https://pytorch.org/assets/images/pytorch-logo.png"
+        },
+        {
           "id": "https://pytorch.org/blog/high-performance-llama/",
           "author": null,
           "description": "Recently, Llama 2 was released and has attracted a lot of interest from the machine learning community. Amazon EC2 Inf2 instances, powered by AWS Inferentia2, now support training and inference of Llama 2 models. In this post, we show low-latency and cost-effective inference of Llama-2 models on Amazon EC2 Inf2 instances using the latest AWS Neuron SDK release.  We first introduce how to create, compile and deploy the Llama-2 model and explain the optimization techniques introduced by AWS Neuron SDK to achieve high performance at low cost. We then present our benchmarking results. Lastly, we show how the Llama-2 model can be deployed through Amazon SageMaker using TorchServe on an Inf2 instance.",
