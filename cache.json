@@ -2235,6 +2235,16 @@
       "siteUrl": "http://blog.research.google/",
       "articles": [
         {
+          "id": "http://blog.research.google/2023/10/scalable-spherical-cnns-for-scientific.html",
+          "author": null,
+          "description": "Posted by Carlos Esteves and Ameesh Makadia, Research Scientists, Google Research, Athena Team\n\n\n\n\nTypical deep learning models for computer vision, like convolutional neural networks (CNNs) and vision transformers (ViT), process signals assuming planar (flat) spaces. For example, digital images are represented as a grid of pixels on a plane. However, this type of data makes up only a fraction of the data we encounter in scientific applications. Variables sampled from the Earth's atmosphere, like temperature and humidity, are naturally represented on the sphere. Some kinds of cosmological data and panoramic photos are also spherical signals, and are better treated as such. \n\n\n\nUsing methods designed for planar images to process spherical signals is problematic for a couple of reasons. Firs…",
+          "link": "http://blog.research.google/2023/10/scalable-spherical-cnns-for-scientific.html",
+          "publishedOn": "2023-10-04T17:26:00.003Z",
+          "wordCount": 27683,
+          "title": "Scalable spherical CNNs for scientific applications",
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiISXk_mf90TkNUcODcg-c9wYJ70zgm713RvUoRkPkkjnia1fO4P97T1icROacexZlBUsovSg8KCNNHzq2tPacdxHLuwUeW1Q2BIFi6bVw6c1au-9_umDgedCgx2RPogqqhPqDZaP-Xwj1ShADnPFRKBQVS0r1M3oOSQw8WA8nUE-Wa8sAnhTYNuWlwXN57/w1200-h630-p-k-no-nu/image2.gif"
+        },
+        {
           "id": "http://blog.research.google/2023/10/google-at-iccv-2023.html",
           "author": null,
           "description": "Posted by Shaina Mehta, Program Manager, Google\n\n\n\n\nGoogle is proud to be a Platinum Sponsor of the International Conference on Computer Vision (ICCV 2023), a premier annual conference, which is being held this week in Paris, France. As a leader in computer vision research, Google has a strong presence at this year’s conference with 60 accepted papers and active involvement in 27 workshops and tutorials. Google is also proud to be a Platinum Sponsor for the LatinX in CV workshop. We look forward to sharing some of our extensive computer vision research and expanding our partnership with the broader research community. \n\n\n\nAttending ICCV 2023? We hope you’ll visit the Google booth to chat with researchers who are actively pursuing the latest innovations in computer vision, and check out som…",
