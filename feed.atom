@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-04T18:20:02.807Z</updated>
+    <updated>2023-10-04T19:12:11.771Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -2783,16 +2783,6 @@ Time series forecasting is critical to various real-world applications, from dem
         <summary type="html"><![CDATA[That's one of the extreme nicknames for Xi Jinping that are being used to avoid censorship.  It consists of the three tones for his name, Xí Jìnpíng 习近平. Likewise, netizens are referring to him as "2-4-2".  He is also called "N" because that reminds people of ↗↘↗.  Another emerging Xi nickname is “n-butane,” whose chemical […]]]></summary>
         <author>
             <name>Victor Mair</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Automated trace collection and analysis]]></title>
-        <id>https://pytorch.org/blog/automated-trace-collection/</id>
-        <link href="https://pytorch.org/blog/automated-trace-collection/"/>
-        <updated>2023-09-05T07:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In this blog, we share how we enabled the collection and analysis of PyTorch Profiler traces for training workloads without any user side code instrumentation. We leveraged Dynolog - an open source daemon for CPU and GPU telemetry to collect PyTorch Profiler traces, and analyzed the collected traces using Holistic Trace Analysis - an open source library for analyzing PyTorch Profiler traces. This toolchain has allowed engineers at Meta to accelerate their performance optimization workflows. The keystone to our solution was implementing pre and post hooks for the base Optimizer class in PyTorch. We demo PyTorch trace collection using Dynolog in a short video.]]></summary>
-        <author>
-            <name>PyTorch Website</name>
         </author>
     </entry>
 </feed>
