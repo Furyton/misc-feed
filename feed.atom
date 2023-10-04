@@ -2,10 +2,65 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-04T01:06:47.211Z</updated>
+    <updated>2023-10-04T02:22:29.585Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[In-Context Learning Learns Label Relationships but Is Not Conventional
+  Learning]]></title>
+        <id>http://arxiv.org/abs/2307.12375</id>
+        <link href="http://arxiv.org/abs/2307.12375"/>
+        <updated>2023-10-04T02:22:27.694Z</updated>
+        <summary type="html"><![CDATA[Jannik Kossen, Yarin Gal, Tom Rainforth]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learning k-Level Sparse Neural Networks Using a New Generalized Weighted
+  Group Sparse Envelope Regularization]]></title>
+        <id>http://arxiv.org/abs/2212.12921</id>
+        <link href="http://arxiv.org/abs/2212.12921"/>
+        <updated>2023-10-04T02:22:27.683Z</updated>
+        <summary type="html"><![CDATA[Yehonathan Refael, Iftach Arbel, Wasim Huleihel]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Transferring Learning Trajectories of Neural Networks]]></title>
+        <id>http://arxiv.org/abs/2305.14122</id>
+        <link href="http://arxiv.org/abs/2305.14122"/>
+        <updated>2023-10-04T02:22:27.565Z</updated>
+        <summary type="html"><![CDATA[Daiki Chijiwa]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learning to Relax: Setting Solver Parameters Across a Sequence of Linear
+  System Instances]]></title>
+        <id>http://arxiv.org/abs/2310.02246</id>
+        <link href="http://arxiv.org/abs/2310.02246"/>
+        <updated>2023-10-04T02:22:27.560Z</updated>
+        <summary type="html"><![CDATA[Mikhail Khodak, Edmond Chow, Maria-Florina Balcan, Ameet Talwalkar]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Unifying supervised learning and VAEs -- coverage, systematics and
+  goodness-of-fit in normalizing-flow based neural network models for
+  astro-particle reconstructions]]></title>
+        <id>http://arxiv.org/abs/2008.05825</id>
+        <link href="http://arxiv.org/abs/2008.05825"/>
+        <updated>2023-10-04T02:22:27.476Z</updated>
+        <summary type="html"><![CDATA[Thorsten Gl\"usenkamp]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Nobels away]]></title>
         <id>http://xianblog.wordpress.com/?p=54157</id>

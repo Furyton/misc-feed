@@ -6,6 +6,56 @@
       "siteUrl": "https://www.arxivist.com",
       "articles": [
         {
+          "id": "http://arxiv.org/abs/2307.12375",
+          "author": null,
+          "description": "Jannik Kossen, Yarin Gal, Tom Rainforth",
+          "link": "http://arxiv.org/abs/2307.12375",
+          "publishedOn": "2023-10-04T02:22:27.694Z",
+          "wordCount": 700,
+          "title": "In-Context Learning Learns Label Relationships but Is Not Conventional\n  Learning",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2212.12921",
+          "author": null,
+          "description": "Yehonathan Refael, Iftach Arbel, Wasim Huleihel",
+          "link": "http://arxiv.org/abs/2212.12921",
+          "publishedOn": "2023-10-04T02:22:27.683Z",
+          "wordCount": 776,
+          "title": "Learning k-Level Sparse Neural Networks Using a New Generalized Weighted\n  Group Sparse Envelope Regularization",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2305.14122",
+          "author": null,
+          "description": "Daiki Chijiwa",
+          "link": "http://arxiv.org/abs/2305.14122",
+          "publishedOn": "2023-10-04T02:22:27.565Z",
+          "wordCount": 660,
+          "title": "Transferring Learning Trajectories of Neural Networks",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2310.02246",
+          "author": null,
+          "description": "Mikhail Khodak, Edmond Chow, Maria-Florina Balcan, Ameet Talwalkar",
+          "link": "http://arxiv.org/abs/2310.02246",
+          "publishedOn": "2023-10-04T02:22:27.560Z",
+          "wordCount": 758,
+          "title": "Learning to Relax: Setting Solver Parameters Across a Sequence of Linear\n  System Instances",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2008.05825",
+          "author": null,
+          "description": "Thorsten Gl\\\"usenkamp",
+          "link": "http://arxiv.org/abs/2008.05825",
+          "publishedOn": "2023-10-04T02:22:27.476Z",
+          "wordCount": 852,
+          "title": "Unifying supervised learning and VAEs -- coverage, systematics and\n  goodness-of-fit in normalizing-flow based neural network models for\n  astro-particle reconstructions",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
           "id": "http://arxiv.org/abs/1911.01208",
           "author": null,
           "description": "Alon Kipnis",
