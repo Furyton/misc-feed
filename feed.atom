@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-05T16:20:23.227Z</updated>
+    <updated>2023-10-05T17:13:33.460Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -2835,16 +2835,6 @@ Time series forecasting is critical to various real-world applications, from dem
         <summary type="html"><![CDATA[<div type="html"/>]]></summary>
         <author>
             <name>PyTorch Website</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Computing Percentages Easier]]></title>
-        <id>https://jeremykun.com/?p=119800</id>
-        <link href="https://jeremykun.com/2023/09/05/computing-percentages-easier/"/>
-        <updated>2023-09-06T04:47:37.000Z</updated>
-        <summary type="html"><![CDATA[Problem: Compute 16% of 25 in your head. Solution: 16% of 25 is equivalent to 25% of 16, which is clearly 4. This is true for all numbers: $x\%$ of $y$ is always equal to $y\%$ of $x$. The first one is $\frac{x}{100} y$ and the second is $\frac{y}{100}x$, and because multiplication is commutative and […]]]></summary>
-        <author>
-            <name>Jeremy Kun</name>
         </author>
     </entry>
 </feed>
