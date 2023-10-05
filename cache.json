@@ -6,6 +6,56 @@
       "siteUrl": "https://www.arxivist.com",
       "articles": [
         {
+          "id": "http://arxiv.org/abs/2201.13259",
+          "author": null,
+          "description": "Nikolay Malkin, Moksh Jain, Emmanuel Bengio, Chen Sun, Yoshua Bengio",
+          "link": "http://arxiv.org/abs/2201.13259",
+          "publishedOn": "2023-10-05T01:04:49.684Z",
+          "wordCount": 699,
+          "title": "Trajectory balance: Improved credit assignment in GFlowNets",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2110.14053",
+          "author": null,
+          "description": "Wenxi Wang, Yang Hu, Mohit Tiwari, Sarfraz Khurshid, Kenneth McMillan,\n  Risto Miikkulainen",
+          "link": "http://arxiv.org/abs/2110.14053",
+          "publishedOn": "2023-10-05T01:04:48.366Z",
+          "wordCount": 770,
+          "title": "NeuroBack: Improving CDCL SAT Solving using Graph Neural Networks",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2205.09121",
+          "author": null,
+          "description": "Mahsa Yousefi, Angeles Martinez",
+          "link": "http://arxiv.org/abs/2205.09121",
+          "publishedOn": "2023-10-05T01:04:45.186Z",
+          "wordCount": 747,
+          "title": "On the efficiency of Stochastic Quasi-Newton Methods for Deep Learning",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2001.09576",
+          "author": null,
+          "description": "Max Simchowitz, Dylan J. Foster",
+          "link": "http://arxiv.org/abs/2001.09576",
+          "publishedOn": "2023-10-05T01:04:45.181Z",
+          "wordCount": 768,
+          "title": "Naive Exploration is Optimal for Online LQR",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/1911.02903",
+          "author": null,
+          "description": "Jakob Heiss, Josef Teichmann, Hanna Wutte",
+          "link": "http://arxiv.org/abs/1911.02903",
+          "publishedOn": "2023-10-05T01:04:45.174Z",
+          "wordCount": 749,
+          "title": "How Implicit Regularization of ReLU Neural Networks Characterizes the\n  Learned Function -- Part I: the 1-D Case of Two Layers with Random First\n  Layer",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
           "id": "http://arxiv.org/abs/2307.12375",
           "author": null,
           "description": "Jannik Kossen, Yarin Gal, Tom Rainforth",

@@ -2,10 +2,63 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-04T23:14:37.729Z</updated>
+    <updated>2023-10-05T01:04:49.846Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Trajectory balance: Improved credit assignment in GFlowNets]]></title>
+        <id>http://arxiv.org/abs/2201.13259</id>
+        <link href="http://arxiv.org/abs/2201.13259"/>
+        <updated>2023-10-05T01:04:49.684Z</updated>
+        <summary type="html"><![CDATA[Nikolay Malkin, Moksh Jain, Emmanuel Bengio, Chen Sun, Yoshua Bengio]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NeuroBack: Improving CDCL SAT Solving using Graph Neural Networks]]></title>
+        <id>http://arxiv.org/abs/2110.14053</id>
+        <link href="http://arxiv.org/abs/2110.14053"/>
+        <updated>2023-10-05T01:04:48.366Z</updated>
+        <summary type="html"><![CDATA[Wenxi Wang, Yang Hu, Mohit Tiwari, Sarfraz Khurshid, Kenneth McMillan,
+  Risto Miikkulainen]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[On the efficiency of Stochastic Quasi-Newton Methods for Deep Learning]]></title>
+        <id>http://arxiv.org/abs/2205.09121</id>
+        <link href="http://arxiv.org/abs/2205.09121"/>
+        <updated>2023-10-05T01:04:45.186Z</updated>
+        <summary type="html"><![CDATA[Mahsa Yousefi, Angeles Martinez]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Naive Exploration is Optimal for Online LQR]]></title>
+        <id>http://arxiv.org/abs/2001.09576</id>
+        <link href="http://arxiv.org/abs/2001.09576"/>
+        <updated>2023-10-05T01:04:45.181Z</updated>
+        <summary type="html"><![CDATA[Max Simchowitz, Dylan J. Foster]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Implicit Regularization of ReLU Neural Networks Characterizes the
+  Learned Function -- Part I: the 1-D Case of Two Layers with Random First
+  Layer]]></title>
+        <id>http://arxiv.org/abs/1911.02903</id>
+        <link href="http://arxiv.org/abs/1911.02903"/>
+        <updated>2023-10-05T01:04:45.174Z</updated>
+        <summary type="html"><![CDATA[Jakob Heiss, Josef Teichmann, Hanna Wutte]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Argentan half-marathon [1:30:55, 25/165, 2/9M5M, 23⁰]]]></title>
         <id>http://xianblog.wordpress.com/?p=54173</id>
