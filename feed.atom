@@ -2,10 +2,61 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-05T01:04:49.846Z</updated>
+    <updated>2023-10-05T02:23:40.703Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Computational Complexity of Learning Neural Networks: Smoothness and
+  Degeneracy]]></title>
+        <id>http://arxiv.org/abs/2302.07426</id>
+        <link href="http://arxiv.org/abs/2302.07426"/>
+        <updated>2023-10-05T02:23:40.316Z</updated>
+        <summary type="html"><![CDATA[Amit Daniely, Nathan Srebro, Gal Vardi]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Computing high-dimensional optimal transport by flow neural networks]]></title>
+        <id>http://arxiv.org/abs/2305.11857</id>
+        <link href="http://arxiv.org/abs/2305.11857"/>
+        <updated>2023-10-05T02:23:39.939Z</updated>
+        <summary type="html"><![CDATA[Chen Xu, Xiuyuan Cheng, Yao Xie]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PersA-FL: Personalized Asynchronous Federated Learning]]></title>
+        <id>http://arxiv.org/abs/2210.01176</id>
+        <link href="http://arxiv.org/abs/2210.01176"/>
+        <updated>2023-10-05T02:23:39.824Z</updated>
+        <summary type="html"><![CDATA[Mohammad Taha Toghani, Soomin Lee, C\'esar A. Uribe]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Unified Transfer Learning Models for High-Dimensional Linear Regression]]></title>
+        <id>http://arxiv.org/abs/2307.00238</id>
+        <link href="http://arxiv.org/abs/2307.00238"/>
+        <updated>2023-10-05T02:23:39.572Z</updated>
+        <summary type="html"><![CDATA[Shuo Shuo Liu]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[No(t/n)]]></title>
+        <id>https://languagelog.ldc.upenn.edu/nll/?p=60825</id>
+        <link href="https://languagelog.ldc.upenn.edu/nll/?p=60825&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=not-n"/>
+        <updated>2023-10-05T01:12:47.000Z</updated>
+        <summary type="html"><![CDATA[That's bù 不, plus = a-, il-, im-, in-, ir-, un-, non- prefixes in English. It can enter into Mandarin contractions, such as bù 不 ("not") + yòng 用 ("use") = béng ("needn't), and the two Sinoglyphs used to write the constituent morphosyllables can fuse to become béng 甭 ("needn't). Here's a whole slew of such […]]]></summary>
+        <author>
+            <name>Victor Mair</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Trajectory balance: Improved credit assignment in GFlowNets]]></title>
         <id>http://arxiv.org/abs/2201.13259</id>

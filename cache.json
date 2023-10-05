@@ -6,6 +6,46 @@
       "siteUrl": "https://www.arxivist.com",
       "articles": [
         {
+          "id": "http://arxiv.org/abs/2302.07426",
+          "author": null,
+          "description": "Amit Daniely, Nathan Srebro, Gal Vardi",
+          "link": "http://arxiv.org/abs/2302.07426",
+          "publishedOn": "2023-10-05T02:23:40.316Z",
+          "wordCount": 714,
+          "title": "Computational Complexity of Learning Neural Networks: Smoothness and\n  Degeneracy",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2305.11857",
+          "author": null,
+          "description": "Chen Xu, Xiuyuan Cheng, Yao Xie",
+          "link": "http://arxiv.org/abs/2305.11857",
+          "publishedOn": "2023-10-05T02:23:39.939Z",
+          "wordCount": 658,
+          "title": "Computing high-dimensional optimal transport by flow neural networks",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2210.01176",
+          "author": null,
+          "description": "Mohammad Taha Toghani, Soomin Lee, C\\'esar A. Uribe",
+          "link": "http://arxiv.org/abs/2210.01176",
+          "publishedOn": "2023-10-05T02:23:39.824Z",
+          "wordCount": 697,
+          "title": "PersA-FL: Personalized Asynchronous Federated Learning",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2307.00238",
+          "author": null,
+          "description": "Shuo Shuo Liu",
+          "link": "http://arxiv.org/abs/2307.00238",
+          "publishedOn": "2023-10-05T02:23:39.572Z",
+          "wordCount": 648,
+          "title": "Unified Transfer Learning Models for High-Dimensional Linear Regression",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
           "id": "http://arxiv.org/abs/2201.13259",
           "author": null,
           "description": "Nikolay Malkin, Moksh Jain, Emmanuel Bengio, Chen Sun, Yoshua Bengio",
@@ -2437,6 +2477,16 @@
       "feedUrl": "https://languagelog.ldc.upenn.edu/nll/?feed=rss2",
       "siteUrl": "https://languagelog.ldc.upenn.edu/nll",
       "articles": [
+        {
+          "id": "https://languagelog.ldc.upenn.edu/nll/?p=60825",
+          "author": "Victor Mair",
+          "description": "That's bù 不, plus = a-, il-, im-, in-, ir-, un-, non- prefixes in English. It can enter into Mandarin contractions, such as bù 不 (\"not\") + yòng 用 (\"use\") = béng (\"needn't), and the two Sinoglyphs used to write the constituent morphosyllables can fuse to become béng 甭 (\"needn't). Here's a whole slew of such […]",
+          "link": "https://languagelog.ldc.upenn.edu/nll/?p=60825&utm_source=rss&utm_medium=rss&utm_campaign=not-n",
+          "publishedOn": "2023-10-05T01:12:47.000Z",
+          "wordCount": 2178,
+          "title": "No(t/n)",
+          "imageUrl": null
+        },
         {
           "id": "https://languagelog.ldc.upenn.edu/nll/?p=60828",
           "author": "Mark Liberman",
