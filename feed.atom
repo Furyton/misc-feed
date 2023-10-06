@@ -2,10 +2,62 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-06T01:04:41.808Z</updated>
+    <updated>2023-10-06T02:21:53.167Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Towards Inferential Reproducibility of Machine Learning Research]]></title>
+        <id>http://arxiv.org/abs/2302.04054</id>
+        <link href="http://arxiv.org/abs/2302.04054"/>
+        <updated>2023-10-06T02:21:46.667Z</updated>
+        <summary type="html"><![CDATA[Michael Hagmann, Philipp Meier, Stefan Riezler]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Quantitative CLTs in Deep Neural Networks]]></title>
+        <id>http://arxiv.org/abs/2307.06092</id>
+        <link href="http://arxiv.org/abs/2307.06092"/>
+        <updated>2023-10-06T02:21:46.631Z</updated>
+        <summary type="html"><![CDATA[Stefano Favaro, Boris Hanin, Domenico Marinucci, Ivan Nourdin,
+  Giovanni Peccati]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Explaining Emergent In-Context Learning as Kernel Regression]]></title>
+        <id>http://arxiv.org/abs/2305.12766</id>
+        <link href="http://arxiv.org/abs/2305.12766"/>
+        <updated>2023-10-06T02:21:43.656Z</updated>
+        <summary type="html"><![CDATA[Chi Han, Ziqi Wang, Han Zhao, Heng Ji]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sparse Deep Learning for Time Series Data: Theory and Applications]]></title>
+        <id>http://arxiv.org/abs/2310.03243</id>
+        <link href="http://arxiv.org/abs/2310.03243"/>
+        <updated>2023-10-06T02:21:43.478Z</updated>
+        <summary type="html"><![CDATA[Mingxuan Zhang, Yan Sun, Faming Liang]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learning Energy-Based Prior Model with Diffusion-Amortized MCMC]]></title>
+        <id>http://arxiv.org/abs/2310.03218</id>
+        <link href="http://arxiv.org/abs/2310.03218"/>
+        <updated>2023-10-06T02:21:43.472Z</updated>
+        <summary type="html"><![CDATA[Peiyu Yu, Yaxuan Zhu, Sirui Xie, Xiaojian Ma, Ruiqi Gao, Song-Chun
+  Zhu, Ying Nian Wu]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Mostly Monte Carlo Se[a]minar]]></title>
         <id>http://xianblog.wordpress.com/?p=54204</id>
