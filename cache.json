@@ -2433,16 +2433,6 @@
           "wordCount": 27976,
           "title": "A novel computational fluid dynamics framework for turbulent flow research",
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi64RuCU05-EPPWn16XFfdaYYsN4F3WexwvCG-tto-hzDxR2kEsRpngok6epC9bApbGhaYWLsT4r1oj5zaGDi3JygwZWAsOpeJy6WgBiBJ5tBjp-nEP9LDoiF56tqNq0wtkKjiIAzaCwinN8TXddkODNGBlf8PDZmOhZwC92mCfPwFwXFm5P7rRQCfuzZ8E/w1200-h630-p-k-no-nu/image1.png"
-        },
-        {
-          "id": "http://blog.research.google/2023/09/tsmixer-all-mlp-architecture-for-time.html",
-          "author": null,
-          "description": "Posted by Si-An Chen, Student Researcher, Cloud AI Team, and Chun-Liang Li, Research Scientist, Cloud AI Team\n\n\n\n\nTime series forecasting is critical to various real-world applications, from demand forecasting to pandemic spread prediction. In multivariate time series forecasting (forecasting multiple variants at the same time), one can split existing methods into two categories: univariate models and multivariate models. Univariate models focus on inter-series interactions or temporal patterns that encompass trends and seasonal patterns on a time series with a single variable. Examples of such trends and seasonal patterns might be the way mortgage rates increase due to inflation, and how traffic peaks during rush hour. In addition to inter-series patterns, multivariate models process intr…",
-          "link": "http://blog.research.google/2023/09/tsmixer-all-mlp-architecture-for-time.html",
-          "publishedOn": "2023-09-06T19:47:00.000Z",
-          "wordCount": 27688,
-          "title": "TSMixer: An all-MLP architecture for time series forecasting",
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEii5BTCsKal44jn1oYu-ILYHeAog8SPGZZ-i8g6Q2C0di7Wl-RcKI7jblQEd7sAtFINsCL8gPMBJQ449s1cTbxIzQizRmdjesDg2g4BgCqd24e3Iozp8nC1C9KNmJ7M9iUS8EnuM0uPs5Z6mNzVFOrlq1HcmurtARWu-T7KzL97qpjGqJhAHUzy46yjR2lH/w1200-h630-p-k-no-nu/hero.jpg"
         }
       ]
     },
