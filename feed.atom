@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-06T22:13:31.379Z</updated>
+    <updated>2023-10-06T23:14:18.363Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[un/a post/e à/at U de/of Montréal]]></title>
+        <id>http://xianblog.wordpress.com/?p=54180</id>
+        <link href="https://xianblog.wordpress.com/2023/10/07/un-a-post-e-a-at-u-de-of-montreal/"/>
+        <updated>2023-10-06T22:23:48.000Z</updated>
+        <summary type="html"><![CDATA[A new assistant professor position in Statistics/Machine learning is opening at UdeM, the University of Montréal, with deadline 11 November 2023: The Department of Mathematics and Statistics invites applications for a full-time, tenure-track position of Assistant Professor in Statistics and Machine Learning. The successful candidate, depending on his or her expertise and interest, could be […]]]></summary>
+        <author>
+            <name>xi'an</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Noncommutative Poisson vertex algebras and Courant-Dorfman algebras]]></title>
         <id>http://arxiv.org/abs/2106.00270</id>
