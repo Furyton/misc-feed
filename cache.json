@@ -1439,16 +1439,6 @@
           "wordCount": 1441,
           "title": "大词表语言模型在续写任务上的一个问题及对策",
           "imageUrl": null
-        },
-        {
-          "id": "https://kexue.fm/archives/9752",
-          "author": "苏剑林",
-          "description": "目前在LLM中最流行的Tokenizer（分词器）应该是Google的SentencePiece了，因为它符合Tokenizer的一些理想特性，比如语言无关、数据驱动等，并且由于它是C++写的，...",
-          "link": "https://kexue.fm/archives/9752",
-          "publishedOn": "2023-09-07T07:05:00.000Z",
-          "wordCount": 1533,
-          "title": "BytePiece：更纯粹、更高压缩率的Tokenizer",
-          "imageUrl": null
         }
       ]
     },

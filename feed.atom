@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-06T18:19:32.745Z</updated>
+    <updated>2023-10-06T19:11:43.461Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -2799,16 +2799,6 @@ Turbulence is ubiquitous in environmental and engineering fluid flows, and is en
         <summary type="html"><![CDATA[There seem to be a lot of people complaining about it these days, so maybe there's something to worry about here.  Francois Lang, who called this current wave of criticism to my attention asks whether academia is isolated from such horrors. FWIW, here's what it's like in business: "A look at the most annoying workplace […]]]></summary>
         <author>
             <name>Victor Mair</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BytePiece：更纯粹、更高压缩率的Tokenizer]]></title>
-        <id>https://kexue.fm/archives/9752</id>
-        <link href="https://kexue.fm/archives/9752"/>
-        <updated>2023-09-07T07:05:00.000Z</updated>
-        <summary type="html"><![CDATA[目前在LLM中最流行的Tokenizer（分词器）应该是Google的SentencePiece了，因为它符合Tokenizer的一些理想特性，比如语言无关、数据驱动等，并且由于它是C++写的，...]]></summary>
-        <author>
-            <name>苏剑林</name>
         </author>
     </entry>
 </feed>
