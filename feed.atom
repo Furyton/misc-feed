@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-07T09:12:43.171Z</updated>
+    <updated>2023-10-07T10:13:53.894Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -2825,21 +2825,6 @@ ML and data analytics algorithms can often be described as performing multiple b
         <summary type="html"><![CDATA[“[the UK rejoining Horizon Europe programme is] fantastic news not just for the UK but for scientists across the EU and for all the people of Europe”. Sir Adrian Smith, president of the Royal Society The EU and the UK Government have come to an agreement on the UK rejoining the Horizon Europe funding programme […]]]></summary>
         <author>
             <name>xi'an</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A novel computational fluid dynamics framework for turbulent flow research]]></title>
-        <id>http://blog.research.google/2023/09/a-novel-computational-fluid-dynamics.html</id>
-        <link href="http://blog.research.google/2023/09/a-novel-computational-fluid-dynamics.html"/>
-        <updated>2023-09-07T22:03:00.000Z</updated>
-        <summary type="html"><![CDATA[Posted by Shantanu Shahane, Software Engineer, and Matthias Ihme, Research Scientist, Athena Team
-
-
-
-
-Turbulence is ubiquitous in environmental and engineering fluid flows, and is encountered routinely in everyday life. A better understanding of these turbulent processes could provide valuable insights across a variety of research areas — improving the prediction of cloud formation by atmospheric transport and the spreading of wildfires by turbulent energy exchange, understanding sedimentation of deposits in rivers, and improving the efficiency of combustion in aircraft engines to reduce emissions, to name a few. However, despite its importance, our current understanding and our ability to reliably predict such flows remains limited. This is mainly attributed to the highly chaotic nature a…]]></summary>
-        <author>
-            <name>Google AI Blog</name>
         </author>
     </entry>
 </feed>
