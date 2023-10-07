@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-07T02:19:45.891Z</updated>
+    <updated>2023-10-07T03:14:43.021Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -2840,16 +2840,6 @@ ML and data analytics algorithms can often be described as performing multiple b
 Turbulence is ubiquitous in environmental and engineering fluid flows, and is encountered routinely in everyday life. A better understanding of these turbulent processes could provide valuable insights across a variety of research areas — improving the prediction of cloud formation by atmospheric transport and the spreading of wildfires by turbulent energy exchange, understanding sedimentation of deposits in rivers, and improving the efficiency of combustion in aircraft engines to reduce emissions, to name a few. However, despite its importance, our current understanding and our ability to reliably predict such flows remains limited. This is mainly attributed to the highly chaotic nature a…]]></summary>
         <author>
             <name>Google AI Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MLIR — Using Traits]]></title>
-        <id>https://jeremykun.com/?p=119774</id>
-        <link href="https://jeremykun.com/2023/09/07/mlir-using-traits/"/>
-        <updated>2023-09-07T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Table of Contents Last time we defined a new dialect poly for polynomial arithmetic. This time we’ll spruce up the dialect by adding some pre-defined MLIR traits, and see how the application of traits enables some general purpose passes to optimize poly programs. The code for this article is in this pull request, and as […]]]></summary>
-        <author>
-            <name>Jeremy Kun</name>
         </author>
     </entry>
 </feed>
