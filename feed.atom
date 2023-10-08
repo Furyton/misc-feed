@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-08T01:08:55.436Z</updated>
+    <updated>2023-10-08T02:23:22.626Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -2760,16 +2760,6 @@ ML and data analytics algorithms can often be described as performing multiple b
         <summary type="html"><![CDATA[Visit the post for more.]]></summary>
         <author>
             <name>xi'an</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tom Goldstein - Dataset security issues in generative AI]]></title>
-        <id>https://mlfoundations.org/talk/tom/</id>
-        <link href="https://mlfoundations.org/talk/tom/"/>
-        <updated>2023-09-08T14:15:00.000Z</updated>
-        <summary type="html"><![CDATA[Machine learning systems are built using large troves of training data that may contain private or copyrighted content. In this talk, I'll survey a number of security issues that arise when sensitive data is used. I'll begin by talking about attack methods that extract private training data from federated learning protocols. Then, I'll discuss data privacy issues that arise when using generative models. These models are often created using a training objective that explicitly promotes their ability to regenerate their training data, causing a host of issues.]]></summary>
-        <author>
-            <name>Harvard ML Foundations</name>
         </author>
     </entry>
 </feed>
