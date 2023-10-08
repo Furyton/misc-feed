@@ -1813,16 +1813,6 @@
           "wordCount": 743,
           "title": "One Year of PyTorch Foundation",
           "imageUrl": "https://pytorch.org/assets/images/pytorch-logo.png"
-        },
-        {
-          "id": "https://pytorch.org/blog/accelerated-cpu-inference/",
-          "author": null,
-          "description": "Story at a Glance",
-          "link": "https://pytorch.org/blog/accelerated-cpu-inference/",
-          "publishedOn": "2023-09-09T07:00:00.000Z",
-          "wordCount": 2533,
-          "title": "Accelerated CPU Inference with PyTorch Inductor using torch.compile",
-          "imageUrl": "https://pytorch.org/assets/images/pytorch-logo.png"
         }
       ]
     },

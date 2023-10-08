@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-08T18:17:50.706Z</updated>
+    <updated>2023-10-08T19:11:10.936Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -2721,16 +2721,6 @@ Learning preferences from observed sequential decision making behavior is a clas
         <summary type="html"><![CDATA["The Oldest (Known) Song of All Time" Includes spectrograms of different reconstructions. Although this YouTube was made three years ago, I am calling it to the attention of Language Log readers now that I know about it because it draws together many themes we have discussed in previous posts. Note by the author, hochelaga: The […]]]></summary>
         <author>
             <name>Victor Mair</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Accelerated CPU Inference with PyTorch Inductor using torch.compile]]></title>
-        <id>https://pytorch.org/blog/accelerated-cpu-inference/</id>
-        <link href="https://pytorch.org/blog/accelerated-cpu-inference/"/>
-        <updated>2023-09-09T07:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Story at a Glance]]></summary>
-        <author>
-            <name>PyTorch Website</name>
         </author>
     </entry>
 </feed>
