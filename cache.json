@@ -1401,6 +1401,16 @@
       "siteUrl": "https://kexue.fm/",
       "articles": [
         {
+          "id": "https://kexue.fm/archives/9787",
+          "author": "苏剑林",
+          "description": "作为LLM的主流模型架构，Transformer在各类任务上的总体表现都出色，大多数情况下，Transformer的槽点只是它的平方复杂度，而不是效果——除了一个名为Long Range Are...",
+          "link": "https://kexue.fm/archives/9787",
+          "publishedOn": "2023-10-08T07:09:00.000Z",
+          "wordCount": 1452,
+          "title": "预训练一下，Transformer的长序列成绩还能涨不少！",
+          "imageUrl": null
+        },
+        {
           "id": "https://kexue.fm/archives/9783",
           "author": "苏剑林",
           "description": "近年来，线性RNN由于其可并行训练以及常数推理成本等特性，吸引了一定研究人员的关注（例如笔者之前写的《Google新作试图“复活”RNN：RNN能否再次辉煌？》），这让RNN在Transform...",

@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-08T06:18:45.514Z</updated>
+    <updated>2023-10-08T07:12:22.044Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[预训练一下，Transformer的长序列成绩还能涨不少！]]></title>
+        <id>https://kexue.fm/archives/9787</id>
+        <link href="https://kexue.fm/archives/9787"/>
+        <updated>2023-10-08T07:09:00.000Z</updated>
+        <summary type="html"><![CDATA[作为LLM的主流模型架构，Transformer在各类任务上的总体表现都出色，大多数情况下，Transformer的槽点只是它的平方复杂度，而不是效果——除了一个名为Long Range Are...]]></summary>
+        <author>
+            <name>苏剑林</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[computational statistics position at U of Toronto]]></title>
         <id>http://xianblog.wordpress.com/?p=54184</id>
