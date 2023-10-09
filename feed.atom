@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-09T10:17:25.557Z</updated>
+    <updated>2023-10-09T11:12:59.602Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -2731,16 +2731,6 @@ Learning preferences from observed sequential decision making behavior is a clas
         <summary type="html"><![CDATA[Author: Reshama Shaikh , François Goupil]]></summary>
         <author>
             <name>scikit-learn Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[approximate computation for exact statistical inference from differentially private data]]></title>
-        <id>http://xianblog.wordpress.com/?p=53876</id>
-        <link href="https://xianblog.wordpress.com/2023/09/10/approximate-computation-for-exact-statistical-inference-from-differentially-private-data/"/>
-        <updated>2023-09-09T22:23:35.000Z</updated>
-        <summary type="html"><![CDATA[“the employment of ABC for differentially private data serendipitously eradicates the “approximate” nature of the resulting posterior  samples, which otherwise would be the case if the data were noise-free.” In parallel or conjunction with the 23w5601 workshop, I was reading some privacy literature and came across this Exact inference with approximate computation for differentially private […]]]></summary>
-        <author>
-            <name>xi'an</name>
         </author>
     </entry>
 </feed>
