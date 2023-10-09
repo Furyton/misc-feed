@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-09T11:12:59.602Z</updated>
+    <updated>2023-10-09T12:31:19.862Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How cats purr]]></title>
+        <id>https://languagelog.ldc.upenn.edu/nll/?p=60886</id>
+        <link href="https://languagelog.ldc.upenn.edu/nll/?p=60886&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=how-cats-purr"/>
+        <updated>2023-10-09T10:22:17.000Z</updated>
+        <summary type="html"><![CDATA[The sound of a cat's purr is a familiar one: Your browser does not support the audio element. But this familiar sound raises at least two interesting biophysical questions. In the first place, cats purr both while breathing out and breathing in, while most people can only produce voiced sounds (= laryngeal oscillations) while breathing […]]]></summary>
+        <author>
+            <name>Mark Liberman</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Occitan and Oenology]]></title>
         <id>https://languagelog.ldc.upenn.edu/nll/?p=60878</id>
@@ -2721,16 +2731,6 @@ Learning preferences from observed sequential decision making behavior is a clas
   Eiji Saitoh]]></summary>
         <author>
             <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[scikit-learn 2023 In-person Developer Sprint in Paris, France]]></title>
-        <id>https://blog.scikit-learn.org/events/paris-dev-sprint/</id>
-        <link href="https://blog.scikit-learn.org/events/paris-dev-sprint/"/>
-        <updated>2023-09-10T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author: Reshama Shaikh , François Goupil]]></summary>
-        <author>
-            <name>scikit-learn Blog</name>
         </author>
     </entry>
 </feed>

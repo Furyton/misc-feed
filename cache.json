@@ -1696,18 +1696,7 @@
       "title": "scikit-learn Blog",
       "feedUrl": "https://blog.scikit-learn.org/feed",
       "siteUrl": "https://blog.scikit-learn.org/",
-      "articles": [
-        {
-          "id": "https://blog.scikit-learn.org/events/paris-dev-sprint/",
-          "author": null,
-          "description": "Author: Reshama Shaikh , François Goupil",
-          "link": "https://blog.scikit-learn.org/events/paris-dev-sprint/",
-          "publishedOn": "2023-09-10T00:00:00.000Z",
-          "wordCount": 659,
-          "title": "scikit-learn 2023 In-person Developer Sprint in Paris, France",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Machine Learning (Theory)",
@@ -2347,6 +2336,21 @@
       "feedUrl": "https://languagelog.ldc.upenn.edu/nll/?feed=rss2",
       "siteUrl": "https://languagelog.ldc.upenn.edu/nll",
       "articles": [
+        {
+          "id": "https://languagelog.ldc.upenn.edu/nll/?p=60886",
+          "author": "Mark Liberman",
+          "description": "The sound of a cat's purr is a familiar one: Your browser does not support the audio element. But this familiar sound raises at least two interesting biophysical questions. In the first place, cats purr both while breathing out and breathing in, while most people can only produce voiced sounds (= laryngeal oscillations) while breathing […]",
+          "link": "https://languagelog.ldc.upenn.edu/nll/?p=60886&utm_source=rss&utm_medium=rss&utm_campaign=how-cats-purr",
+          "publishedOn": "2023-10-09T10:22:17.000Z",
+          "wordCount": 3433,
+          "title": "How cats purr",
+          "enclosure": {
+            "url": "https://languagelog.ldc.upenn.edu/myl/CatPurr.wav",
+            "length": "232142",
+            "type": "audio/wav"
+          },
+          "imageUrl": null
+        },
         {
           "id": "https://languagelog.ldc.upenn.edu/nll/?p=60878",
           "author": "Victor Mair",
