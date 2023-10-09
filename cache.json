@@ -2224,6 +2224,16 @@
       "siteUrl": "http://blog.research.google/",
       "articles": [
         {
+          "id": "http://blog.research.google/2023/10/sanpo-scene-understanding-accessibility.html",
+          "author": null,
+          "description": "Posted by Sagar M. Waghmare, Senior Software Engineer, and Kimberly Wilber, Software Engineer, Google Research, Perception Team\n\n\n\n\nAs most people navigate their everyday world, they process visual input from the environment using an eye-level perspective. Unlike robots and self-driving cars, people don't have any \"out-of-body\" sensors to help guide them. Instead, a person’s sensory input is completely \"egocentric\", or \"from the self.\" This also applies to new technologies that understand the world around us from a human-like perspective, e.g., robots navigating through unknown buildings, AR glasses that highlight objects, or assistive technology to help people run independently.\n\n\n\n\n\nIn computer vision, scene understanding is the subfield that studies how visible objects relate to the sce…",
+          "link": "http://blog.research.google/2023/10/sanpo-scene-understanding-accessibility.html",
+          "publishedOn": "2023-10-09T19:17:00.000Z",
+          "wordCount": 27977,
+          "title": "SANPO: A Scene understanding, Accessibility, Navigation, Pathfinding, & Obstacle avoidance dataset",
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh10zxbymBGZgjXFHDrw-CdxlVL7nRi6yjaI3w3X_x5pjxn8UWA7NnymAqMXomfjSBXWVDQ4czo8nqINhxzIPLVx2Uv1l8RDQAbikuWWjIt9IwxSIuSlEtJ5AJwOJkdaKPwzUdu9BwkJJP1gDj2UJQpkJ15ELGjSKHMl9ce0_470SwRz5snz32lV-vSlMd2/w1200-h630-p-k-no-nu/SANPOHero.gif"
+        },
+        {
           "id": "http://blog.research.google/2023/10/scalable-spherical-cnns-for-scientific.html",
           "author": null,
           "description": "Posted by Carlos Esteves and Ameesh Makadia, Research Scientists, Google Research, Athena Team\n\n\n\n\nTypical deep learning models for computer vision, like convolutional neural networks (CNNs) and vision transformers (ViT), process signals assuming planar (flat) spaces. For example, digital images are represented as a grid of pixels on a plane. However, this type of data makes up only a fraction of the data we encounter in scientific applications. Variables sampled from the Earth's atmosphere, like temperature and humidity, are naturally represented on the sphere. Some kinds of cosmological data and panoramic photos are also spherical signals, and are better treated as such. \n\n\n\nUsing methods designed for planar images to process spherical signals is problematic for a couple of reasons. Firs…",

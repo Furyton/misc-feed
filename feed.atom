@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-09T19:11:48.215Z</updated>
+    <updated>2023-10-09T20:14:41.527Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[SANPO: A Scene understanding, Accessibility, Navigation, Pathfinding, & Obstacle avoidance dataset]]></title>
+        <id>http://blog.research.google/2023/10/sanpo-scene-understanding-accessibility.html</id>
+        <link href="http://blog.research.google/2023/10/sanpo-scene-understanding-accessibility.html"/>
+        <updated>2023-10-09T19:17:00.000Z</updated>
+        <summary type="html"><![CDATA[Posted by Sagar M. Waghmare, Senior Software Engineer, and Kimberly Wilber, Software Engineer, Google Research, Perception Team
+
+
+
+
+As most people navigate their everyday world, they process visual input from the environment using an eye-level perspective. Unlike robots and self-driving cars, people don't have any "out-of-body" sensors to help guide them. Instead, a person’s sensory input is completely "egocentric", or "from the self." This also applies to new technologies that understand the world around us from a human-like perspective, e.g., robots navigating through unknown buildings, AR glasses that highlight objects, or assistive technology to help people run independently.
+
+
+
+
+
+In computer vision, scene understanding is the subfield that studies how visible objects relate to the sce…]]></summary>
+        <author>
+            <name>Google AI Blog</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How cats purr]]></title>
         <id>https://languagelog.ldc.upenn.edu/nll/?p=60886</id>
