@@ -1264,16 +1264,6 @@
           "wordCount": 802,
           "title": "Deep-OSG: Deep Learning of Operators in Semigroup",
           "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
-        },
-        {
-          "id": "http://arxiv.org/abs/2207.11159",
-          "author": null,
-          "description": "Xi Chen, Jiameng Lyu, Yining Wang, Yuan Zhou",
-          "link": "http://arxiv.org/abs/2207.11159",
-          "publishedOn": "2023-09-11T04:17:31.064Z",
-          "wordCount": 755,
-          "title": "Network Revenue Management with Demand Learning and Fair\n  Resource-Consumption Balancing",
-          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
         }
       ]
     },
@@ -1684,6 +1674,16 @@
       "feedUrl": "https://pytorch.org/feed",
       "siteUrl": "https://pytorch.org/",
       "articles": [
+        {
+          "id": "https://pytorch.org/blog/real-time-speech-rec/",
+          "author": null,
+          "description": "Audio-Visual Speech Recognition (AV-ASR, or AVSR) is the task of transcribing text from audio and visual streams, which has recently attracted a lot of research attention due to its robustness to noise. The vast majority of work to date has focused on developing AV-ASR models for non-streaming recognition; studies on streaming AV-ASR are very limited.",
+          "link": "https://pytorch.org/blog/real-time-speech-rec/",
+          "publishedOn": "2023-10-10T07:00:00.000Z",
+          "wordCount": 1740,
+          "title": "Real-time Audio-visual Speech Recognition",
+          "imageUrl": "https://pytorch.org/assets/images/pytorch-logo.png"
+        },
         {
           "id": "https://pytorch.org/blog/new-library-updates/",
           "author": null,

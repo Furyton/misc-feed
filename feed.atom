@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-10T15:16:01.617Z</updated>
+    <updated>2023-10-10T16:19:43.986Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Real-time Audio-visual Speech Recognition]]></title>
+        <id>https://pytorch.org/blog/real-time-speech-rec/</id>
+        <link href="https://pytorch.org/blog/real-time-speech-rec/"/>
+        <updated>2023-10-10T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Audio-Visual Speech Recognition (AV-ASR, or AVSR) is the task of transcribing text from audio and visual streams, which has recently attracted a lot of research attention due to its robustness to noise. The vast majority of work to date has focused on developing AV-ASR models for non-streaming recognition; studies on streaming AV-ASR are very limited.]]></summary>
+        <author>
+            <name>PyTorch Website</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Happy Hangul Day!]]></title>
         <id>https://languagelog.ldc.upenn.edu/nll/?p=60891</id>
@@ -2695,17 +2705,6 @@ Learning preferences from observed sequential decision making behavior is a clas
         <summary type="html"><![CDATA[There are many statistics used to characterize timing patterns in speech, at various scales, with applications in many areas. Among them: Intervals  between phonetic events, by category and/or position and/or context; Overall measures of speaking rate (words per minute, syllables per minute), relative to total time or total speaking time (leaving out silences); Mean and […]]]></summary>
         <author>
             <name>Mark Liberman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Network Revenue Management with Demand Learning and Fair
-  Resource-Consumption Balancing]]></title>
-        <id>http://arxiv.org/abs/2207.11159</id>
-        <link href="http://arxiv.org/abs/2207.11159"/>
-        <updated>2023-09-11T04:17:31.064Z</updated>
-        <summary type="html"><![CDATA[Xi Chen, Jiameng Lyu, Yining Wang, Yuan Zhou]]></summary>
-        <author>
-            <name>arxivist feed</name>
         </author>
     </entry>
 </feed>
