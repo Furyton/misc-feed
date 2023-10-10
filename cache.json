@@ -1302,6 +1302,16 @@
       "siteUrl": "https://parsiad.ca/",
       "articles": [
         {
+          "id": "https://parsiad.ca/blog/2023/uncorrelating_correlated_random_normal_variables/",
+          "author": null,
+          "description": "Motivation",
+          "link": "https://parsiad.ca/blog/2023/uncorrelating_correlated_random_normal_variables/",
+          "publishedOn": "2023-10-10T20:00:00.000Z",
+          "wordCount": 646,
+          "title": "Standardizing a random vector and applications to sampling a multivariate random normal distribution",
+          "imageUrl": null
+        },
+        {
           "id": "https://parsiad.ca/blog/2023/motivating_the_cross_entropy_loss/",
           "author": null,
           "description": "Introduction",
@@ -1865,6 +1875,16 @@
       "feedUrl": "https://xianblog.wordpress.com/feed/",
       "siteUrl": "https://xianblog.wordpress.com",
       "articles": [
+        {
+          "id": "http://xianblog.wordpress.com/?p=54075",
+          "author": "xi'an",
+          "description": "Visit the post for more.",
+          "link": "https://xianblog.wordpress.com/2023/10/11/european-particles-matter/",
+          "publishedOn": "2023-10-10T22:23:29.000Z",
+          "wordCount": 1882,
+          "title": "European particles matter",
+          "imageUrl": "https://xianblog.files.wordpress.com/2023/09/temp-3.png"
+        },
         {
           "id": "http://xianblog.wordpress.com/?p=54191",
           "author": "xi'an",
