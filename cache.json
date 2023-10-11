@@ -1695,6 +1695,16 @@
       "siteUrl": "https://pytorch.org/",
       "articles": [
         {
+          "id": "https://pytorch.org/blog/ml-model-server-resource-saving/",
+          "author": null,
+          "description": "Reviewers: Yunsang Ju(Naver GplaceAI Leader), Min Jean Cho(Intel), Jing Xu(Intel), Mark Saroufim(Meta)",
+          "link": "https://pytorch.org/blog/ml-model-server-resource-saving/",
+          "publishedOn": "2023-10-11T07:00:00.000Z",
+          "wordCount": 3216,
+          "title": "ML Model Server Resource Saving - Transition From High-Cost GPUs to Intel CPUs and oneAPI powered Software with performance",
+          "imageUrl": "https://pytorch.org/assets/images/pytorch-logo.png"
+        },
+        {
           "id": "https://pytorch.org/blog/real-time-speech-rec/",
           "author": null,
           "description": "Audio-Visual Speech Recognition (AV-ASR, or AVSR) is the task of transcribing text from audio and visual streams, which has recently attracted a lot of research attention due to its robustness to noise. The vast majority of work to date has focused on developing AV-ASR models for non-streaming recognition; studies on streaming AV-ASR are very limited.",
@@ -2174,16 +2184,6 @@
           "wordCount": 2051,
           "title": "snowballs in summer",
           "imageUrl": "https://xianblog.files.wordpress.com/2012/02/pict0496.jpg"
-        },
-        {
-          "id": "http://xianblog.wordpress.com/?p=54015",
-          "author": "xi'an",
-          "description": "Visit the post for more.",
-          "link": "https://xianblog.wordpress.com/2023/09/12/remember-allende/",
-          "publishedOn": "2023-09-11T22:23:21.000Z",
-          "wordCount": 1833,
-          "title": "remember Allende",
-          "imageUrl": "https://www.suteba.org.ar/files/101052_4293.png"
         }
       ]
     },
