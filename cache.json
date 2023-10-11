@@ -1302,6 +1302,16 @@
       "siteUrl": "https://parsiad.ca/",
       "articles": [
         {
+          "id": "https://parsiad.ca/blog/2023/standardizing_a_random_vector_and_applications/",
+          "author": null,
+          "description": "Motivation",
+          "link": "https://parsiad.ca/blog/2023/standardizing_a_random_vector_and_applications/",
+          "publishedOn": "2023-10-10T20:00:00.000Z",
+          "wordCount": 636,
+          "title": "Standardizing a random vector and applications",
+          "imageUrl": null
+        },
+        {
           "id": "https://parsiad.ca/blog/2023/uncorrelating_correlated_random_normal_variables/",
           "author": null,
           "description": "Motivation",
@@ -2736,16 +2746,6 @@
           "publishedOn": "2023-09-12T19:44:32.000Z",
           "wordCount": 2336,
           "title": "Chatbot censorship in China",
-          "imageUrl": null
-        },
-        {
-          "id": "https://languagelog.ldc.upenn.edu/nll/?p=60543",
-          "author": "Mark Liberman",
-          "description": "There are many statistics used to characterize timing patterns in speech, at various scales, with applications in many areas. Among them: Intervals  between phonetic events, by category and/or position and/or context; Overall measures of speaking rate (words per minute, syllables per minute), relative to total time or total speaking time (leaving out silences); Mean and […]",
-          "link": "https://languagelog.ldc.upenn.edu/nll/?p=60543&utm_source=rss&utm_medium=rss&utm_campaign=new-models-of-speech-timing",
-          "publishedOn": "2023-09-11T13:57:01.000Z",
-          "wordCount": 2595,
-          "title": "New models of speech timing?",
           "imageUrl": null
         }
       ]

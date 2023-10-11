@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-11T01:04:22.705Z</updated>
+    <updated>2023-10-11T02:21:26.758Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -14,6 +14,16 @@
         <summary type="html"><![CDATA[Visit the post for more.]]></summary>
         <author>
             <name>xi'an</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Standardizing a random vector and applications]]></title>
+        <id>https://parsiad.ca/blog/2023/standardizing_a_random_vector_and_applications/</id>
+        <link href="https://parsiad.ca/blog/2023/standardizing_a_random_vector_and_applications/"/>
+        <updated>2023-10-10T20:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Motivation]]></summary>
+        <author>
+            <name>Parsiad Azimzadeh</name>
         </author>
     </entry>
     <entry>
@@ -2715,16 +2725,6 @@ Learning preferences from observed sequential decision making behavior is a clas
         <summary type="html"><![CDATA[Table of Contents Last time we saw how to use pre-defined MLIR traits to enable upstream MLIR passes like loop-invariant-code-motion to apply to poly programs. We left out -sccp (sparse conditional constant propagation), and so this time we’ll add what is needed to make that pass work. It requires the concept of folding. The code […]]]></summary>
         <author>
             <name>Jeremy Kun</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New models of speech timing?]]></title>
-        <id>https://languagelog.ldc.upenn.edu/nll/?p=60543</id>
-        <link href="https://languagelog.ldc.upenn.edu/nll/?p=60543&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=new-models-of-speech-timing"/>
-        <updated>2023-09-11T13:57:01.000Z</updated>
-        <summary type="html"><![CDATA[There are many statistics used to characterize timing patterns in speech, at various scales, with applications in many areas. Among them: Intervals  between phonetic events, by category and/or position and/or context; Overall measures of speaking rate (words per minute, syllables per minute), relative to total time or total speaking time (leaving out silences); Mean and […]]]></summary>
-        <author>
-            <name>Mark Liberman</name>
         </author>
     </entry>
 </feed>
