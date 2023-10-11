@@ -2,10 +2,65 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-11T13:20:10.219Z</updated>
+    <updated>2023-10-11T14:15:13.233Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[What and How does In-Context Learning Learn? Bayesian Model Averaging,
+  Parameterization, and Generalization]]></title>
+        <id>http://arxiv.org/abs/2305.19420</id>
+        <link href="http://arxiv.org/abs/2305.19420"/>
+        <updated>2023-10-11T14:14:40.172Z</updated>
+        <summary type="html"><![CDATA[Yufeng Zhang, Fengzhuo Zhang, Zhuoran Yang, Zhaoran Wang]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Large Language Models Streamline Automated Machine Learning for Clinical
+  Studies]]></title>
+        <id>http://arxiv.org/abs/2308.14120</id>
+        <link href="http://arxiv.org/abs/2308.14120"/>
+        <updated>2023-10-11T14:14:40.156Z</updated>
+        <summary type="html"><![CDATA[Soroosh Tayebi Arasteh, Tianyu Han, Mahshad Lotfinia, Christiane Kuhl,
+  Jakob Nikolas Kather, Daniel Truhn, Sven Nebelung]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Understanding Transfer Learning and Gradient-Based Meta-Learning
+  Techniques]]></title>
+        <id>http://arxiv.org/abs/2310.06148</id>
+        <link href="http://arxiv.org/abs/2310.06148"/>
+        <updated>2023-10-11T14:14:40.149Z</updated>
+        <summary type="html"><![CDATA[Mike Huisman, Aske Plaat, Jan N. van Rijn]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learning Layer-wise Equivariances Automatically using Gradients]]></title>
+        <id>http://arxiv.org/abs/2310.06131</id>
+        <link href="http://arxiv.org/abs/2310.06131"/>
+        <updated>2023-10-11T14:14:40.144Z</updated>
+        <summary type="html"><![CDATA[Tycho F.A. van der Ouderaa, Alexander Immer, Mark van der Wilk]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mitigating Simplicity Bias in Deep Learning for Improved OOD
+  Generalization and Robustness]]></title>
+        <id>http://arxiv.org/abs/2310.06161</id>
+        <link href="http://arxiv.org/abs/2310.06161"/>
+        <updated>2023-10-11T14:14:40.074Z</updated>
+        <summary type="html"><![CDATA[Bhavya Vasudeva, Kameron Shahabi, Vatsal Sharan]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Open letter to the Harvard community]]></title>
         <id>http://windowsontheory.org/?p=8694</id>

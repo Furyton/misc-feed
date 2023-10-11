@@ -6,6 +6,56 @@
       "siteUrl": "https://www.arxivist.com",
       "articles": [
         {
+          "id": "http://arxiv.org/abs/2305.19420",
+          "author": null,
+          "description": "Yufeng Zhang, Fengzhuo Zhang, Zhuoran Yang, Zhaoran Wang",
+          "link": "http://arxiv.org/abs/2305.19420",
+          "publishedOn": "2023-10-11T14:14:40.172Z",
+          "wordCount": 798,
+          "title": "What and How does In-Context Learning Learn? Bayesian Model Averaging,\n  Parameterization, and Generalization",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2308.14120",
+          "author": null,
+          "description": "Soroosh Tayebi Arasteh, Tianyu Han, Mahshad Lotfinia, Christiane Kuhl,\n  Jakob Nikolas Kather, Daniel Truhn, Sven Nebelung",
+          "link": "http://arxiv.org/abs/2308.14120",
+          "publishedOn": "2023-10-11T14:14:40.156Z",
+          "wordCount": 737,
+          "title": "Large Language Models Streamline Automated Machine Learning for Clinical\n  Studies",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2310.06148",
+          "author": null,
+          "description": "Mike Huisman, Aske Plaat, Jan N. van Rijn",
+          "link": "http://arxiv.org/abs/2310.06148",
+          "publishedOn": "2023-10-11T14:14:40.149Z",
+          "wordCount": 761,
+          "title": "Understanding Transfer Learning and Gradient-Based Meta-Learning\n  Techniques",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2310.06131",
+          "author": null,
+          "description": "Tycho F.A. van der Ouderaa, Alexander Immer, Mark van der Wilk",
+          "link": "http://arxiv.org/abs/2310.06131",
+          "publishedOn": "2023-10-11T14:14:40.144Z",
+          "wordCount": 673,
+          "title": "Learning Layer-wise Equivariances Automatically using Gradients",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2310.06161",
+          "author": null,
+          "description": "Bhavya Vasudeva, Kameron Shahabi, Vatsal Sharan",
+          "link": "http://arxiv.org/abs/2310.06161",
+          "publishedOn": "2023-10-11T14:14:40.074Z",
+          "wordCount": 670,
+          "title": "Mitigating Simplicity Bias in Deep Learning for Improved OOD\n  Generalization and Robustness",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
           "id": "http://arxiv.org/abs/2106.00270",
           "author": null,
           "description": "Luis \\'Alvarez-C\\'onsul, David Fern\\'andez, Reimundo Heluani",
