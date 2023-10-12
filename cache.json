@@ -2424,16 +2424,6 @@
           "wordCount": 27925,
           "title": "On-device content distillation with graph neural networks",
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAbKikU6UWOjYuGg9JWDI3s8QKhXHtUEl2STZt_TNmwR4Y_B65GkYs--uMmYUYVVBdbTrtAVLRmlEGc1fTgeMS2E1kaNLmUJk6xWoj0qm0axNj2OcMzzPTZ68ygM0f7ZOo_8qoUXjTGGTO74-LZ9gvt9eK8lZjRDE0HWJNMJWYM_A2ppRGl5v8QVrxBEg7/w1200-h630-p-k-no-nu/ScreenGNN.gif"
-        },
-        {
-          "id": "http://blog.research.google/2023/09/world-scale-inverse-reinforcement.html",
-          "author": null,
-          "description": "Posted by Matt Barnes, Software Engineer, Google Research\n\n\n\n\nRouting in Google Maps remains one of our most helpful and frequently used features. Determining the best route from A to B requires making complex trade-offs between factors including the estimated time of arrival (ETA), tolls, directness, surface conditions (e.g., paved, unpaved roads), and user preferences, which vary across transportation mode and local geography. Often, the most natural visibility we have into travelers' preferences is by analyzing real-world travel patterns.\n\n\n\nLearning preferences from observed sequential decision making behavior is a classic application of inverse reinforcement learning (IRL). Given a Markov decision process (MDP) — a formalization of the road network — and a set of demonstration traject…",
-          "link": "http://blog.research.google/2023/09/world-scale-inverse-reinforcement.html",
-          "publishedOn": "2023-09-12T21:22:00.000Z",
-          "wordCount": 27551,
-          "title": "World scale inverse reinforcement learning in Google Maps",
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhgA5ZpGidOzCqTYTLV8bj62lAG7yfVa0cson-09oo7hqGA9ayl7h6koU96mxkBOqP_NyqiKamaoFrSAHtBlY7UH7XMnoq5Hn1H0hoiC5Uk0mMOkunNi6-j08iSEmUXTYEmp1YuFEgWLRJtieseqhQseMpy6e8KY5wElwNKDcy99GjCO-j04G0TVaJb0Pcr/w1200-h630-p-k-no-nu/hero.jpg"
         }
       ]
     },

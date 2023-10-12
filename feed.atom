@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-12T09:15:24.016Z</updated>
+    <updated>2023-10-12T10:16:10.559Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -2825,25 +2825,6 @@ To improve the user experience and make reading more accessible, Android and Chr
         <summary type="html"><![CDATA[A new arXival on nested sampling, Snowballing Nested Sampling by Johannes Buchner, just appeared. The idea behind this short note is to increase the number of “live” points at each iteration. (How?! Depending on how the different additions are dependent, the effective sample size will vary.) This exacerbates the tendency of the algorithm to concentrate […]]]></summary>
         <author>
             <name>xi'an</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[World scale inverse reinforcement learning in Google Maps]]></title>
-        <id>http://blog.research.google/2023/09/world-scale-inverse-reinforcement.html</id>
-        <link href="http://blog.research.google/2023/09/world-scale-inverse-reinforcement.html"/>
-        <updated>2023-09-12T21:22:00.000Z</updated>
-        <summary type="html"><![CDATA[Posted by Matt Barnes, Software Engineer, Google Research
-
-
-
-
-Routing in Google Maps remains one of our most helpful and frequently used features. Determining the best route from A to B requires making complex trade-offs between factors including the estimated time of arrival (ETA), tolls, directness, surface conditions (e.g., paved, unpaved roads), and user preferences, which vary across transportation mode and local geography. Often, the most natural visibility we have into travelers' preferences is by analyzing real-world travel patterns.
-
-
-
-Learning preferences from observed sequential decision making behavior is a classic application of inverse reinforcement learning (IRL). Given a Markov decision process (MDP) — a formalization of the road network — and a set of demonstration traject…]]></summary>
-        <author>
-            <name>Google AI Blog</name>
         </author>
     </entry>
 </feed>
