@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-12T22:14:01.219Z</updated>
+    <updated>2023-10-12T23:15:13.952Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[preserving civilian lives is essential [reposted Guardian editorial]]]></title>
+        <id>http://xianblog.wordpress.com/?p=54238</id>
+        <link href="https://xianblog.wordpress.com/2023/10/13/preserving-civilian-lives-is-essential-reposted-guardian-editorial/"/>
+        <updated>2023-10-12T22:23:18.000Z</updated>
+        <summary type="html"><![CDATA[Visit the post for more.]]></summary>
+        <author>
+            <name>xi'an</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Developing industrial use cases for physical simulation on future error-corrected quantum computers]]></title>
         <id>http://blog.research.google/2023/10/developing-industrial-use-cases-for.html</id>
@@ -2770,16 +2780,6 @@ To improve the user experience and make reading more accessible, Android and Chr
         <summary type="html"><![CDATA[对于LLM来说，通过增大Tokenizer的词表来提高压缩率，从而缩短序列长度、降低解码成本，是大家都喜闻乐见的事情。毕竟增大词表只需要增大Embedding层和输出的Dense层，这部分增加的...]]></summary>
         <author>
             <name>苏剑林</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Overall, why do Mandarin enrollments continue to decline?]]></title>
-        <id>https://languagelog.ldc.upenn.edu/nll/?p=60540</id>
-        <link href="https://languagelog.ldc.upenn.edu/nll/?p=60540&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=overall-why-do-mandarin-enrollments-continue-to-decline"/>
-        <updated>2023-09-13T10:41:57.000Z</updated>
-        <summary type="html"><![CDATA[This is a problem that has been troubling colleagues across the country. "Why fewer university students are studying Mandarin" Learning the difficult language does not seem as worthwhile as it once did Economist (Aug 24th 2023) China | How do you say “not interested”? Ten years ago Mandarin, the mother tongue of most Chinese, was […]]]></summary>
-        <author>
-            <name>Victor Mair</name>
         </author>
     </entry>
 </feed>
