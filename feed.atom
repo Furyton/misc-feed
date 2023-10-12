@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-12T21:12:24.914Z</updated>
+    <updated>2023-10-12T22:14:01.219Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Developing industrial use cases for physical simulation on future error-corrected quantum computers]]></title>
+        <id>http://blog.research.google/2023/10/developing-industrial-use-cases-for.html</id>
+        <link href="http://blog.research.google/2023/10/developing-industrial-use-cases-for.html"/>
+        <updated>2023-10-12T20:56:00.002Z</updated>
+        <summary type="html"><![CDATA[Posted by Nicholas Rubin, Senior Research Scientist, and Ryan Babbush, Head of Quantum Algorithms, Quantum AI Team
+
+
+
+
+
+If you’ve paid attention to the quantum computing space, you’ve heard the claim that in the future, quantum computers will solve certain problems exponentially more efficiently than classical computers can. They have the potential to transform many industries, from pharmaceuticals to energy.
+
+
+
+For the most part, these claims have rested on arguments about the asymptotic scaling of algorithms as the problem size approaches infinity, but this tells us very little about the practical performance of quantum computers for finite-sized problems. We want to be more concrete: Exactly which problems are quantum computers more suited to tackle than their classical counterparts, an…]]></summary>
+        <author>
+            <name>Google AI Blog</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ox Demolition]]></title>
         <id>https://languagelog.ldc.upenn.edu/nll/?p=60911</id>
