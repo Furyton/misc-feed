@@ -2284,16 +2284,6 @@
           "wordCount": 1830,
           "title": "no [Google] play",
           "imageUrl": "https://xianblog.files.wordpress.com/2023/08/temp-1.png"
-        },
-        {
-          "id": "http://xianblog.wordpress.com/?p=53885",
-          "author": "xi'an",
-          "description": "A new arXival on nested sampling, Snowballing Nested Sampling by Johannes Buchner, just appeared. The idea behind this short note is to increase the number of “live” points at each iteration. (How?! Depending on how the different additions are dependent, the effective sample size will vary.) This exacerbates the tendency of the algorithm to concentrate […]",
-          "link": "https://xianblog.wordpress.com/2023/09/13/snowballs-in-summer/",
-          "publishedOn": "2023-09-12T22:23:59.000Z",
-          "wordCount": 2051,
-          "title": "snowballs in summer",
-          "imageUrl": "https://xianblog.files.wordpress.com/2012/02/pict0496.jpg"
         }
       ]
     },
