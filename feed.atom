@@ -2,10 +2,64 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-12T01:02:41.736Z</updated>
+    <updated>2023-10-12T02:19:50.105Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[A Machine Learning Approach for Modelling Parking Duration in Urban
+  Land-use]]></title>
+        <id>http://arxiv.org/abs/2008.01674</id>
+        <link href="http://arxiv.org/abs/2008.01674"/>
+        <updated>2023-10-12T02:19:40.575Z</updated>
+        <summary type="html"><![CDATA[Janak Parmar, Pritikana Das, Sanjaykumar Dave]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Automatic Change-Point Detection in Time Series via Deep Learning]]></title>
+        <id>http://arxiv.org/abs/2211.03860</id>
+        <link href="http://arxiv.org/abs/2211.03860"/>
+        <updated>2023-10-12T02:19:40.545Z</updated>
+        <summary type="html"><![CDATA[Jie Li, Paul Fearnhead, Piotr Fryzlewicz, Tengyao Wang]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Efficient Equivariant Transfer Learning from Pretrained Models]]></title>
+        <id>http://arxiv.org/abs/2305.09900</id>
+        <link href="http://arxiv.org/abs/2305.09900"/>
+        <updated>2023-10-12T02:19:40.521Z</updated>
+        <summary type="html"><![CDATA[Sourya Basu, Pulkit Katdare, Prasanna Sattigeri, Vijil
+  Chenthamarakshan, Katherine Driggs-Campbell, Payel Das, Lav R. Varshney]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Knowledge Rumination for Pre-trained Language Models]]></title>
+        <id>http://arxiv.org/abs/2305.08732</id>
+        <link href="http://arxiv.org/abs/2305.08732"/>
+        <updated>2023-10-12T02:19:40.468Z</updated>
+        <summary type="html"><![CDATA[Yunzhi Yao, Peng Wang, Shengyu Mao, Chuanqi Tan, Fei Huang, Huajun
+  Chen, Ningyu Zhang]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[On Double-Descent in Reinforcement Learning with LSTD and Random
+  Features]]></title>
+        <id>http://arxiv.org/abs/2310.05518</id>
+        <link href="http://arxiv.org/abs/2310.05518"/>
+        <updated>2023-10-12T02:19:40.400Z</updated>
+        <summary type="html"><![CDATA[David Brellmann, Elo\"ise Berthier, David Filliat, Goran Frehse]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[learning ABC summaries with autoencoders [webinar]]]></title>
         <id>http://xianblog.wordpress.com/?p=54081</id>
