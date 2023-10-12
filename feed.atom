@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-12T12:29:39.184Z</updated>
+    <updated>2023-10-12T13:19:22.322Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Ox Demolition]]></title>
+        <id>https://languagelog.ldc.upenn.edu/nll/?p=60911</id>
+        <link href="https://languagelog.ldc.upenn.edu/nll/?p=60911&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=ox-demolition"/>
+        <updated>2023-10-12T12:47:04.000Z</updated>
+        <summary type="html"><![CDATA[From AntC: The black Chinese writing on a yellow background says: tuòhuāng niú jiànzhù qīngchāi gōnsī 拓荒牛建筑清拆公司 "bull / ox /bovine for opening up / reclaiming (waste)land for agriculture construction and demolition company" AntC, who sent this photograph to me, also included the following remarks: In my neighbourhood there’s a straggling cluster of Chinese/Asian businesses […]]]></summary>
+        <author>
+            <name>Victor Mair</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[A Machine Learning Approach for Modelling Parking Duration in Urban
   Land-use]]></title>
