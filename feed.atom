@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-12T18:19:36.796Z</updated>
+    <updated>2023-10-12T19:12:09.250Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -2760,16 +2760,6 @@ To improve the user experience and make reading more accessible, Android and Chr
         <summary type="html"><![CDATA[This is a problem that has been troubling colleagues across the country. "Why fewer university students are studying Mandarin" Learning the difficult language does not seem as worthwhile as it once did Economist (Aug 24th 2023) China | How do you say “not interested”? Ten years ago Mandarin, the mother tongue of most Chinese, was […]]]></summary>
         <author>
             <name>Victor Mair</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Accelerated CPU Inference with PyTorch Inductor using torch.compile]]></title>
-        <id>https://pytorch.org/blog/accelerated-cpu-inference/</id>
-        <link href="https://pytorch.org/blog/accelerated-cpu-inference/"/>
-        <updated>2023-09-13T07:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Story at a Glance]]></summary>
-        <author>
-            <name>PyTorch Website</name>
         </author>
     </entry>
 </feed>
