@@ -1472,6 +1472,16 @@
       "siteUrl": "https://kexue.fm/",
       "articles": [
         {
+          "id": "https://kexue.fm/archives/9797",
+          "author": "苏剑林",
+          "description": "众所周知，分类任务的标准损失是交叉熵（Cross Entropy，等价于最大似然MLE，即Maximum Likelihood Estimation），它有着简单高效的特点，但在某些场景下也暴露...",
+          "link": "https://kexue.fm/archives/9797",
+          "publishedOn": "2023-10-13T09:06:00.000Z",
+          "wordCount": 1581,
+          "title": "EMO：基于最优传输思想设计的分类损失函数",
+          "imageUrl": null
+        },
+        {
           "id": "https://kexue.fm/archives/9787",
           "author": "苏剑林",
           "description": "作为LLM的主流模型架构，Transformer在各类任务上的总体表现都出色，大多数情况下，Transformer的槽点只是它的平方复杂度，而不是效果——除了一个名为Long Range Are...",
