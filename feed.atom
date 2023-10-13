@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-13T11:13:12.369Z</updated>
+    <updated>2023-10-13T12:29:35.785Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -14,6 +14,16 @@
         <summary type="html"><![CDATA[Transformers have become the dominant neural network architecture in deep learning. While they are state of the art in language and vision tasks, their performance is less convincing in so-called “reasoning” tasks. In this talk, we consider the “generalization on the unseen (GOTU)" objective to test the reasoning capabilities of neural networks, primarily Transformers on Boolean/logic tasks. We first give experimental results showing that such networks have a strong “minimal degree bias" - they tend to find specific interpolators having low degree, in agreement with the “leap complexity” picture derived for classic generalization. Using basic concepts from Boolean Fourier analysis and algebraic geometry, we then characterize such minimal degree profile interpolators and prove two theorems about the convergence of (S)GD to such interpolators on basic architectures. Since the minimal degree profile is not desirable in many reasoning tasks, we discuss various methods to correct this bias and improve consequently the reasoning capabilities. Based primarily on joint works with S. Bengio, A. Lotfi, K. Rizk and E. Adsera-Boix, T. Misiakiewicz.]]></summary>
         <author>
             <name>Harvard ML Foundations</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Autoarticulation]]></title>
+        <id>https://languagelog.ldc.upenn.edu/nll/?p=60917</id>
+        <link href="https://languagelog.ldc.upenn.edu/nll/?p=60917&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=autoarticulation"/>
+        <updated>2023-10-13T11:43:35.000Z</updated>
+        <summary type="html"><![CDATA[As Language Log readers are undoubtedly aware, I am prey to mondegreens, earworms, and other imaginary auditory oddities.  Lately, the last half year or so, I've been occasionally subject to what, faute de mieux, I've taken to calling "autoarticulation", modeled after "autosuggestion". It doesn't last very long, doesn't repeat on an endless loop, and is […]]]></summary>
+        <author>
+            <name>Victor Mair</name>
         </author>
     </entry>
     <entry>
@@ -2806,16 +2816,6 @@ To improve the user experience and make reading more accessible, Android and Chr
   Rajarshi Bhowmik]]></summary>
         <author>
             <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Semi-compositional compounds of the week]]></title>
-        <id>https://languagelog.ldc.upenn.edu/nll/?p=60581</id>
-        <link href="https://languagelog.ldc.upenn.edu/nll/?p=60581&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=semi-compositional-compounds-of-the-week"/>
-        <updated>2023-09-13T23:57:40.000Z</updated>
-        <summary type="html"><![CDATA[I've previously written more than once about the problem of compound words whose meaning is partly but not entirely related to the meanings of their parts, often referring back to a passage in my 1992 chapter with Richard Sproat, "The Stress and Structure of Modified Noun Phrases in English": We now turn to N0 compounds where […]]]></summary>
-        <author>
-            <name>Mark Liberman</name>
         </author>
     </entry>
 </feed>
