@@ -1765,6 +1765,16 @@
       "siteUrl": "https://pytorch.org/",
       "articles": [
         {
+          "id": "https://pytorch.org/blog/flash-decoding/",
+          "author": null,
+          "description": "Motivation",
+          "link": "https://pytorch.org/blog/flash-decoding/",
+          "publishedOn": "2023-10-13T07:00:00.000Z",
+          "wordCount": 1839,
+          "title": "Flash-Decoding for long-context inference",
+          "imageUrl": "https://pytorch.org/assets/images/pytorch-logo.png"
+        },
+        {
           "id": "https://pytorch.org/blog/ml-model-server-resource-saving/",
           "author": null,
           "description": "Reviewers: Yunsang Ju(Naver GplaceAI Leader), Min Jean Cho(Intel), Jing Xu(Intel), Mark Saroufim(Meta)",
