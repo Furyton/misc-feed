@@ -6,6 +6,56 @@
       "siteUrl": "https://www.arxivist.com",
       "articles": [
         {
+          "id": "http://arxiv.org/abs/2310.08425",
+          "author": null,
+          "description": "Hanpu Shen, Cheng-Long Wang, Zihang Xiang, Yiming Ying, Di\n  Wang",
+          "link": "http://arxiv.org/abs/2310.08425",
+          "publishedOn": "2023-10-13T02:24:56.147Z",
+          "wordCount": 746,
+          "title": "Differentially Private Non-convex Learning for Multi-layer Neural\n  Networks",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2310.07831",
+          "author": null,
+          "description": "Aaron Defazio, Ashok Cutkosky, Harsh Mehta, Konstantin\n  Mishchenko",
+          "link": "http://arxiv.org/abs/2310.07831",
+          "publishedOn": "2023-10-13T02:24:56.142Z",
+          "wordCount": 765,
+          "title": "When, Why and How Much? Adaptive Learning Rate Scheduling by Refinement",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2310.07891",
+          "author": null,
+          "description": "Behrad Moniri, Donghwan Lee, Hamed Hassani, Edgar Dobriban",
+          "link": "http://arxiv.org/abs/2310.07891",
+          "publishedOn": "2023-10-13T02:24:56.138Z",
+          "wordCount": 690,
+          "title": "A Theory of Non-Linear Feature Learning with One Gradient Step in\n  Two-Layer Neural Networks",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2310.07765",
+          "author": null,
+          "description": "Hannah Day, Yonatan Kahn, Daniel A. Roberts",
+          "link": "http://arxiv.org/abs/2310.07765",
+          "publishedOn": "2023-10-13T02:24:56.133Z",
+          "wordCount": 734,
+          "title": "Feature Learning and Generalization in Deep Networks with Orthogonal\n  Weights",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2310.08566",
+          "author": null,
+          "description": "Licong Lin, Yu Bai, Song Mei",
+          "link": "http://arxiv.org/abs/2310.08566",
+          "publishedOn": "2023-10-13T02:24:53.412Z",
+          "wordCount": 717,
+          "title": "Transformers as Decision Makers: Provable In-Context Reinforcement\n  Learning via Supervised Pretraining",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
           "id": "http://arxiv.org/abs/2008.01674",
           "author": null,
           "description": "Janak Parmar, Pritikana Das, Sanjaykumar Dave",
@@ -1460,16 +1510,6 @@
           "wordCount": 1634,
           "title": "Unigram随机分词：从Viterbi解码到随机采样",
           "imageUrl": null
-        },
-        {
-          "id": "https://kexue.fm/archives/9762",
-          "author": "苏剑林",
-          "description": "对于LLM来说，通过增大Tokenizer的词表来提高压缩率，从而缩短序列长度、降低解码成本，是大家都喜闻乐见的事情。毕竟增大词表只需要增大Embedding层和输出的Dense层，这部分增加的...",
-          "link": "https://kexue.fm/archives/9762",
-          "publishedOn": "2023-09-13T13:22:00.000Z",
-          "wordCount": 1441,
-          "title": "大词表语言模型在续写任务上的一个问题及对策",
-          "imageUrl": null
         }
       ]
     },
@@ -1484,6 +1524,16 @@
       "feedUrl": "https://mlfoundations.org/index.xml",
       "siteUrl": "https://mlfoundations.org/",
       "articles": [
+        {
+          "id": "https://mlfoundations.org/talk/abbe/",
+          "author": null,
+          "description": "Transformers have become the dominant neural network architecture in deep learning. While they are state of the art in language and vision tasks, their performance is less convincing in so-called “reasoning” tasks. In this talk, we consider the “generalization on the unseen (GOTU)\" objective to test the reasoning capabilities of neural networks, primarily Transformers on Boolean/logic tasks. We first give experimental results showing that such networks have a strong “minimal degree bias\" - they tend to find specific interpolators having low degree, in agreement with the “leap complexity” picture derived for classic generalization. Using basic concepts from Boolean Fourier analysis and algebraic geometry, we then characterize such minimal degree profile interpolators and prove two theorems about the convergence of (S)GD to such interpolators on basic architectures. Since the minimal degree profile is not desirable in many reasoning tasks, we discuss various methods to correct this bias and improve consequently the reasoning capabilities. Based primarily on joint works with S. Bengio, A. Lotfi, K. Rizk and E. Adsera-Boix, T. Misiakiewicz.",
+          "link": "https://mlfoundations.org/talk/abbe/",
+          "publishedOn": "2023-10-13T14:00:00.000Z",
+          "wordCount": 235,
+          "title": "Emmanuel Abbe - Logic Reasoning and Generalization on the Unseen",
+          "imageUrl": "https://mlfoundations.org/img/icon-192.png"
+        },
         {
           "id": "https://mlfoundations.org/talk/denny/",
           "author": null,

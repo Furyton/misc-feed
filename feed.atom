@@ -2,10 +2,76 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-13T01:06:18.879Z</updated>
+    <updated>2023-10-13T02:25:00.240Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Emmanuel Abbe - Logic Reasoning and Generalization on the Unseen]]></title>
+        <id>https://mlfoundations.org/talk/abbe/</id>
+        <link href="https://mlfoundations.org/talk/abbe/"/>
+        <updated>2023-10-13T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Transformers have become the dominant neural network architecture in deep learning. While they are state of the art in language and vision tasks, their performance is less convincing in so-called “reasoning” tasks. In this talk, we consider the “generalization on the unseen (GOTU)" objective to test the reasoning capabilities of neural networks, primarily Transformers on Boolean/logic tasks. We first give experimental results showing that such networks have a strong “minimal degree bias" - they tend to find specific interpolators having low degree, in agreement with the “leap complexity” picture derived for classic generalization. Using basic concepts from Boolean Fourier analysis and algebraic geometry, we then characterize such minimal degree profile interpolators and prove two theorems about the convergence of (S)GD to such interpolators on basic architectures. Since the minimal degree profile is not desirable in many reasoning tasks, we discuss various methods to correct this bias and improve consequently the reasoning capabilities. Based primarily on joint works with S. Bengio, A. Lotfi, K. Rizk and E. Adsera-Boix, T. Misiakiewicz.]]></summary>
+        <author>
+            <name>Harvard ML Foundations</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Differentially Private Non-convex Learning for Multi-layer Neural
+  Networks]]></title>
+        <id>http://arxiv.org/abs/2310.08425</id>
+        <link href="http://arxiv.org/abs/2310.08425"/>
+        <updated>2023-10-13T02:24:56.147Z</updated>
+        <summary type="html"><![CDATA[Hanpu Shen, Cheng-Long Wang, Zihang Xiang, Yiming Ying, Di
+  Wang]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[When, Why and How Much? Adaptive Learning Rate Scheduling by Refinement]]></title>
+        <id>http://arxiv.org/abs/2310.07831</id>
+        <link href="http://arxiv.org/abs/2310.07831"/>
+        <updated>2023-10-13T02:24:56.142Z</updated>
+        <summary type="html"><![CDATA[Aaron Defazio, Ashok Cutkosky, Harsh Mehta, Konstantin
+  Mishchenko]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Theory of Non-Linear Feature Learning with One Gradient Step in
+  Two-Layer Neural Networks]]></title>
+        <id>http://arxiv.org/abs/2310.07891</id>
+        <link href="http://arxiv.org/abs/2310.07891"/>
+        <updated>2023-10-13T02:24:56.138Z</updated>
+        <summary type="html"><![CDATA[Behrad Moniri, Donghwan Lee, Hamed Hassani, Edgar Dobriban]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Feature Learning and Generalization in Deep Networks with Orthogonal
+  Weights]]></title>
+        <id>http://arxiv.org/abs/2310.07765</id>
+        <link href="http://arxiv.org/abs/2310.07765"/>
+        <updated>2023-10-13T02:24:56.133Z</updated>
+        <summary type="html"><![CDATA[Hannah Day, Yonatan Kahn, Daniel A. Roberts]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Transformers as Decision Makers: Provable In-Context Reinforcement
+  Learning via Supervised Pretraining]]></title>
+        <id>http://arxiv.org/abs/2310.08566</id>
+        <link href="http://arxiv.org/abs/2310.08566"/>
+        <updated>2023-10-13T02:24:53.412Z</updated>
+        <summary type="html"><![CDATA[Licong Lin, Yu Bai, Song Mei]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[preserving civilian lives is essential [reposted Guardian editorial]]]></title>
         <id>http://xianblog.wordpress.com/?p=54238</id>
@@ -2770,16 +2836,6 @@ To improve the user experience and make reading more accessible, Android and Chr
         <summary type="html"><![CDATA[Table of Contents Last time we defined folders and used them to enable some canonicalization and the sccp constant propagation pass for the poly dialect. This time we’ll add some additional safety checks to the dialect in the form of verifiers. The code for this article is in this pull request, and as usual the […]]]></summary>
         <author>
             <name>Jeremy Kun</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[大词表语言模型在续写任务上的一个问题及对策]]></title>
-        <id>https://kexue.fm/archives/9762</id>
-        <link href="https://kexue.fm/archives/9762"/>
-        <updated>2023-09-13T13:22:00.000Z</updated>
-        <summary type="html"><![CDATA[对于LLM来说，通过增大Tokenizer的词表来提高压缩率，从而缩短序列长度、降低解码成本，是大家都喜闻乐见的事情。毕竟增大词表只需要增大Embedding层和输出的Dense层，这部分增加的...]]></summary>
-        <author>
-            <name>苏剑林</name>
         </author>
     </entry>
 </feed>
