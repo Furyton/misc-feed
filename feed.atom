@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-14T12:26:29.807Z</updated>
+    <updated>2023-10-14T13:15:31.648Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Socks, a matching game based on an additive combinatorics problem]]></title>
+        <id>https://jeremykun.com/?p=120042</id>
+        <link href="https://jeremykun.com/2023/10/14/socks-a-matching-game-based-on-an-additive-combinatorics-problem/"/>
+        <updated>2023-10-14T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Can you find a set of cards among these six, such that the socks on the chosen cards can be grouped into matching pairs? (Duplicate pairs of the same sock are OK) This is the objective of the game Socks, a card game originally designed by Anna Varvak, a math professor at Soka University of […]]]></summary>
+        <author>
+            <name>Jeremy Kun</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SwinCross: Cross-modal Swin Transformer for Head-and-Neck Tumor
   Segmentation in PET/CT Images]]></title>
