@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-14T22:13:07.762Z</updated>
+    <updated>2023-10-14T23:14:03.025Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Arnak Dalalyan at the RSS Journal Webinar]]></title>
+        <id>http://xianblog.wordpress.com/?p=54209</id>
+        <link href="https://xianblog.wordpress.com/2023/10/15/arnak-dalalyan-at-the-rss-journal-webinar/"/>
+        <updated>2023-10-14T22:23:37.000Z</updated>
+        <summary type="html"><![CDATA[My friend and CREST colleague Arnak Dalalyan will (re)present [online] a Read Paper at the RSS on 31 October with my friends Hani Doss and Alain Durmus as discussants: ‘Theoretical Guarantees for Approximate Sampling and Log-Concave Densities’ Arnak Dalalyan ENSAE Paris, France Sampling from various kinds of distributions is an issue of paramount importance in […]]]></summary>
+        <author>
+            <name>xi'an</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Socks, a matching game based on an additive combinatorics problem]]></title>
         <id>https://jeremykun.com/?p=120042</id>
@@ -2693,16 +2703,6 @@ In this post, we introduce MediaPipe FaceStylizer, an effi…]]></summary>
         <summary type="html"><![CDATA[Over the past decades, the machine learning community has developed tons of data-driven techniques aimed at enhancing learning efficiency, like semi-supervised learning, meta learning, active learning, transfer learning, and more. However, none of these techniques have proven to be highly effective for real-world natural language processing tasks. This shortcoming uncovers a fundamental flaw in machine learning - the absence of reasoning. Humans often learn from just a few examples because of their capacity to reason, as opposed to relying on data statistics. In this talk, I will talk about the large language models (LLM) reasoning work that we pioneered, and show that the techniques we developed can greatly narrow the gap between human intelligence and machine learning - crushed SoTA in the literature while demanding only a few annotated examples and no training. Our work was presented by Google CEO Sundar Pichai at Google I/O 2022 as a showcase of Google AI.]]></summary>
         <author>
             <name>Harvard ML Foundations</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How do you say "polo", "logo", and "erase with Photoshop" in Chinese?]]></title>
-        <id>https://languagelog.ldc.upenn.edu/nll/?p=60597</id>
-        <link href="https://languagelog.ldc.upenn.edu/nll/?p=60597&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=how-do-you-say-polo-logo-and-erase-with-photoshop-in-chinese"/>
-        <updated>2023-09-15T10:45:46.000Z</updated>
-        <summary type="html"><![CDATA["Hebei official’s shirt logo removed for ‘aesthetic reasons,’ triggering speculation among netizens" By Global Times (Sep 05, 2023) Official photos of a city Party chief in North China's Hebei Province, with his shirt's logo removed by editing, have sparked a wide-ranging discussion among Chinese netizens, with some speculating that it was a move to obscure […]]]></summary>
-        <author>
-            <name>Victor Mair</name>
         </author>
     </entry>
 </feed>
