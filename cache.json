@@ -1359,16 +1359,6 @@
           "wordCount": 1815,
           "title": "自然数域中 N = ab + c 时 a + b + c 的最小值",
           "imageUrl": null
-        },
-        {
-          "id": "https://kexue.fm/archives/9768",
-          "author": "苏剑林",
-          "description": "上一篇文章《大词表语言模型在续写任务上的一个问题及对策》发布后，很快就有读者指出可以在训练阶段引入带有随机性的分词结果来解决同样的问题，并且已经有论文和实现。经过进一步查阅学习，笔者发现这是一个...",
-          "link": "https://kexue.fm/archives/9768",
-          "publishedOn": "2023-09-16T01:01:00.000Z",
-          "wordCount": 1634,
-          "title": "Unigram随机分词：从Viterbi解码到随机采样",
-          "imageUrl": null
         }
       ]
     },
@@ -2266,6 +2256,16 @@
       "feedUrl": "https://languagelog.ldc.upenn.edu/nll/?feed=rss2",
       "siteUrl": "https://languagelog.ldc.upenn.edu/nll",
       "articles": [
+        {
+          "id": "https://languagelog.ldc.upenn.edu/nll/?p=60925",
+          "author": "Victor Mair",
+          "description": "Article in LAist (10/12/230; This Prolific LA Eviction Law Firm Was Caught Faking Cases In Court. Did They Misuse AI? Dennis Block runs what he says is California’s “leading eviction law firm.” A judge said legal citations submitted in Block's name for a recent case were fake. Six legal experts told LAist the errors likely […]",
+          "link": "https://languagelog.ldc.upenn.edu/nll/?p=60925&utm_source=rss&utm_medium=rss&utm_campaign=ai-and-the-law",
+          "publishedOn": "2023-10-15T13:10:59.000Z",
+          "wordCount": 3051,
+          "title": "AI and the law",
+          "imageUrl": null
+        },
         {
           "id": "https://languagelog.ldc.upenn.edu/nll/?p=60917",
           "author": "Victor Mair",

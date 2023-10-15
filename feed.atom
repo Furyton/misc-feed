@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-15T12:26:46.445Z</updated>
+    <updated>2023-10-15T13:15:50.178Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[AI and the law]]></title>
+        <id>https://languagelog.ldc.upenn.edu/nll/?p=60925</id>
+        <link href="https://languagelog.ldc.upenn.edu/nll/?p=60925&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=ai-and-the-law"/>
+        <updated>2023-10-15T13:10:59.000Z</updated>
+        <summary type="html"><![CDATA[Article in LAist (10/12/230; This Prolific LA Eviction Law Firm Was Caught Faking Cases In Court. Did They Misuse AI? Dennis Block runs what he says is California’s “leading eviction law firm.” A judge said legal citations submitted in Block's name for a recent case were fake. Six legal experts told LAist the errors likely […]]]></summary>
+        <author>
+            <name>Victor Mair</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Arnak Dalalyan at the RSS Journal Webinar]]></title>
         <id>http://xianblog.wordpress.com/?p=54209</id>
@@ -2604,16 +2614,6 @@ The goal is to help data scientists and scientis…]]></summary>
         <summary type="html"><![CDATA[Patti Hamerski, Daryl McPadden, Marcos D. Caballero, Paul W. Irving]]></summary>
         <author>
             <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Unigram随机分词：从Viterbi解码到随机采样]]></title>
-        <id>https://kexue.fm/archives/9768</id>
-        <link href="https://kexue.fm/archives/9768"/>
-        <updated>2023-09-16T01:01:00.000Z</updated>
-        <summary type="html"><![CDATA[上一篇文章《大词表语言模型在续写任务上的一个问题及对策》发布后，很快就有读者指出可以在训练阶段引入带有随机性的分词结果来解决同样的问题，并且已经有论文和实现。经过进一步查阅学习，笔者发现这是一个...]]></summary>
-        <author>
-            <name>苏剑林</name>
         </author>
     </entry>
 </feed>
