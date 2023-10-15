@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-15T14:12:22.281Z</updated>
+    <updated>2023-10-15T15:13:25.103Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Hypercorrect Mandarin tones]]></title>
+        <id>https://languagelog.ldc.upenn.edu/nll/?p=60937</id>
+        <link href="https://languagelog.ldc.upenn.edu/nll/?p=60937&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=hypercorrect-mandarin-tones"/>
+        <updated>2023-10-15T14:55:13.000Z</updated>
+        <summary type="html"><![CDATA[Here are two examples.  The first is the (in)famous one about the "Lion-Eating Poet in the Stone Den": This is supposed to show that tones and characters are sine quibus non for intelligibility in Sinitic, except that nobody — but nobody — talks like this.  Without a character script, it's gibberish, and most Chinese throughout […]]]></summary>
+        <author>
+            <name>Victor Mair</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA["Eat their young"]]></title>
         <id>https://languagelog.ldc.upenn.edu/nll/?p=60932</id>
@@ -2614,16 +2624,6 @@ The goal is to help data scientists and scientis…]]></summary>
         <summary type="html"><![CDATA[Fiendishly clever conlang (constructed language) invented by Eleanor Olson. Some Language Log readers will love it, some will hate it.  Most will probably not understand what the devil she is up to with her Hànzìyǔ 汉字语 ("Sinoglyphish"). Natural writing systems are created with the intention of mapping to and recording the sounds of spoken languages.  […]]]></summary>
         <author>
             <name>Victor Mair</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Students' perspectives on computational challenges in physics class]]></title>
-        <id>http://arxiv.org/abs/2202.07718</id>
-        <link href="http://arxiv.org/abs/2202.07718"/>
-        <updated>2023-09-16T02:18:04.010Z</updated>
-        <summary type="html"><![CDATA[Patti Hamerski, Daryl McPadden, Marcos D. Caballero, Paul W. Irving]]></summary>
-        <author>
-            <name>arxivist feed</name>
         </author>
     </entry>
 </feed>

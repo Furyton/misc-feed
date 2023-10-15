@@ -1214,16 +1214,6 @@
           "wordCount": 674,
           "title": "Masked Generative Modeling with Enhanced Sampling Scheme",
           "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
-        },
-        {
-          "id": "http://arxiv.org/abs/2202.07718",
-          "author": null,
-          "description": "Patti Hamerski, Daryl McPadden, Marcos D. Caballero, Paul W. Irving",
-          "link": "http://arxiv.org/abs/2202.07718",
-          "publishedOn": "2023-09-16T02:18:04.010Z",
-          "wordCount": 665,
-          "title": "Students' perspectives on computational challenges in physics class",
-          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
         }
       ]
     },
@@ -2256,6 +2246,16 @@
       "feedUrl": "https://languagelog.ldc.upenn.edu/nll/?feed=rss2",
       "siteUrl": "https://languagelog.ldc.upenn.edu/nll",
       "articles": [
+        {
+          "id": "https://languagelog.ldc.upenn.edu/nll/?p=60937",
+          "author": "Victor Mair",
+          "description": "Here are two examples.  The first is the (in)famous one about the \"Lion-Eating Poet in the Stone Den\": This is supposed to show that tones and characters are sine quibus non for intelligibility in Sinitic, except that nobody — but nobody — talks like this.  Without a character script, it's gibberish, and most Chinese throughout […]",
+          "link": "https://languagelog.ldc.upenn.edu/nll/?p=60937&utm_source=rss&utm_medium=rss&utm_campaign=hypercorrect-mandarin-tones",
+          "publishedOn": "2023-10-15T14:55:13.000Z",
+          "wordCount": 2293,
+          "title": "Hypercorrect Mandarin tones",
+          "imageUrl": null
+        },
         {
           "id": "https://languagelog.ldc.upenn.edu/nll/?p=60932",
           "author": "Mark Liberman",
