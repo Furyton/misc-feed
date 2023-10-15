@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-15T10:14:27.635Z</updated>
+    <updated>2023-10-15T11:11:14.314Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -2614,16 +2614,6 @@ The goal is to help data scientists and scientis…]]></summary>
         <summary type="html"><![CDATA[上一篇文章《大词表语言模型在续写任务上的一个问题及对策》发布后，很快就有读者指出可以在训练阶段引入带有随机性的分词结果来解决同样的问题，并且已经有论文和实现。经过进一步查阅学习，笔者发现这是一个...]]></summary>
         <author>
             <name>苏剑林</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[a day for social good in London]]></title>
-        <id>http://xianblog.wordpress.com/?p=53906</id>
-        <link href="https://xianblog.wordpress.com/2023/09/16/a-day-for-social-good-in-london/"/>
-        <updated>2023-09-15T22:23:33.000Z</updated>
-        <summary type="html"><![CDATA[On Thursday, I went (from Paris) to London for the final day of Warwick DSSGx UK 2023 (Data Science for Social Good), which took place in The Shard, the tallest building in London (and certainly not the prettiest!), where the Warwick Business School has offices, and on the way, stopped by the nearby Tate Modern […]]]></summary>
-        <author>
-            <name>xi'an</name>
         </author>
     </entry>
 </feed>
