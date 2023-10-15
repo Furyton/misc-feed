@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-15T05:13:07.282Z</updated>
+    <updated>2023-10-15T06:18:43.134Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -2624,75 +2624,6 @@ The goal is to help data scientists and scientis…]]></summary>
         <summary type="html"><![CDATA[On Thursday, I went (from Paris) to London for the final day of Warwick DSSGx UK 2023 (Data Science for Social Good), which took place in The Shard, the tallest building in London (and certainly not the prettiest!), where the Warwick Business School has offices, and on the way, stopped by the nearby Tate Modern […]]]></summary>
         <author>
             <name>xi'an</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MediaPipe FaceStylizer: On-device real-time few-shot face stylization]]></title>
-        <id>http://blog.research.google/2023/09/mediapipe-facestylizer-on-device-real.html</id>
-        <link href="http://blog.research.google/2023/09/mediapipe-facestylizer-on-device-real.html"/>
-        <updated>2023-09-15T17:39:00.002Z</updated>
-        <summary type="html"><![CDATA[Posted by Haolin Jia, Software Engineer, and Qifei Wang, Senior Software Engineer, Core ML
-
-
-
-In recent years, we have witnessed rising interest across consumers and researchers in integrated augmented reality (AR) experiences using real-time face feature generation and editing functions in mobile applications, including short videos, virtual reality, and gaming. As a result, there is a growing demand for lightweight, yet high-quality face generation and editing models, which are often based on generative adversarial network (GAN) techniques. However, the majority of GAN models suffer from high computational complexity and the need for a large training dataset. In addition, it is also important to employ GAN models responsibly. 
-
-
-
-In this post, we introduce MediaPipe FaceStylizer, an effi…]]></summary>
-        <author>
-            <name>Google AI Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Benchmark Analysis of Representative Deep Neural Network Architectures]]></title>
-        <id>http://arxiv.org/abs/1810.00736</id>
-        <link href="http://arxiv.org/abs/1810.00736"/>
-        <updated>2023-09-15T17:12:59.614Z</updated>
-        <summary type="html"><![CDATA[Simone Bianco, Remi Cadene, Luigi Celona, Paolo Napoletano]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pseudo-finite sets, pseudo-o-minimality]]></title>
-        <id>http://arxiv.org/abs/1908.01660</id>
-        <link href="http://arxiv.org/abs/1908.01660"/>
-        <updated>2023-09-15T17:12:58.902Z</updated>
-        <summary type="html"><![CDATA[Nadav Meir]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Euler systems for GSp(4)]]></title>
-        <id>http://arxiv.org/abs/1706.00201</id>
-        <link href="http://arxiv.org/abs/1706.00201"/>
-        <updated>2023-09-15T17:12:58.883Z</updated>
-        <summary type="html"><![CDATA[David Loeffler, Chris Skinner, Sarah Livia Zerbes]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Complete type amalgamation for non-standard finite groups]]></title>
-        <id>http://arxiv.org/abs/2009.08967</id>
-        <link href="http://arxiv.org/abs/2009.08967"/>
-        <updated>2023-09-15T17:12:58.070Z</updated>
-        <summary type="html"><![CDATA[Amador Martin-Pizarro, Daniel Palac\'in]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Using Scratch to Teach Undergraduate Students' Skills on Artificial
-  Intelligence]]></title>
-        <id>http://arxiv.org/abs/1904.00296</id>
-        <link href="http://arxiv.org/abs/1904.00296"/>
-        <updated>2023-09-15T17:12:58.065Z</updated>
-        <summary type="html"><![CDATA[Julian Estevez, Gorka Garate, JM Lopez Guede, Manuel Gra\~na]]></summary>
-        <author>
-            <name>arxivist feed</name>
         </author>
     </entry>
 </feed>

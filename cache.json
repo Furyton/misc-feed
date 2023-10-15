@@ -1224,56 +1224,6 @@
           "wordCount": 665,
           "title": "Students' perspectives on computational challenges in physics class",
           "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
-        },
-        {
-          "id": "http://arxiv.org/abs/1810.00736",
-          "author": null,
-          "description": "Simone Bianco, Remi Cadene, Luigi Celona, Paolo Napoletano",
-          "link": "http://arxiv.org/abs/1810.00736",
-          "publishedOn": "2023-09-15T17:12:59.614Z",
-          "wordCount": 741,
-          "title": "Benchmark Analysis of Representative Deep Neural Network Architectures",
-          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
-        },
-        {
-          "id": "http://arxiv.org/abs/1908.01660",
-          "author": null,
-          "description": "Nadav Meir",
-          "link": "http://arxiv.org/abs/1908.01660",
-          "publishedOn": "2023-09-15T17:12:58.902Z",
-          "wordCount": 636,
-          "title": "Pseudo-finite sets, pseudo-o-minimality",
-          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
-        },
-        {
-          "id": "http://arxiv.org/abs/1706.00201",
-          "author": null,
-          "description": "David Loeffler, Chris Skinner, Sarah Livia Zerbes",
-          "link": "http://arxiv.org/abs/1706.00201",
-          "publishedOn": "2023-09-15T17:12:58.883Z",
-          "wordCount": 586,
-          "title": "Euler systems for GSp(4)",
-          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
-        },
-        {
-          "id": "http://arxiv.org/abs/2009.08967",
-          "author": null,
-          "description": "Amador Martin-Pizarro, Daniel Palac\\'in",
-          "link": "http://arxiv.org/abs/2009.08967",
-          "publishedOn": "2023-09-15T17:12:58.070Z",
-          "wordCount": 611,
-          "title": "Complete type amalgamation for non-standard finite groups",
-          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
-        },
-        {
-          "id": "http://arxiv.org/abs/1904.00296",
-          "author": null,
-          "description": "Julian Estevez, Gorka Garate, JM Lopez Guede, Manuel Gra\\~na",
-          "link": "http://arxiv.org/abs/1904.00296",
-          "publishedOn": "2023-09-15T17:12:58.065Z",
-          "wordCount": 606,
-          "title": "Using Scratch to Teach Undergraduate Students' Skills on Artificial\n  Intelligence",
-          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
         }
       ]
     },
@@ -2312,16 +2262,6 @@
           "wordCount": 27937,
           "title": "Distilling step-by-step: Outperforming larger language models with less training data and smaller model sizes",
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj7i39GKWT7_noICLVOMuf2x7v7wM21MXu9deGmnVlsieFv9m_rJOb5ytwiI_A9T3N4N1vZCVprlgbs7dePmQ1qjkcz-mT0nkeyLq-LmkF4oJB-ofCmrv81jqXMHPHe8Tl1dQSbDAPS9gADUUByZHBygkr-jlwbfIx3FM14n5cAbE7ZFVm84K6UDQLfeArm/w1200-h630-p-k-no-nu/hero.jpg"
-        },
-        {
-          "id": "http://blog.research.google/2023/09/mediapipe-facestylizer-on-device-real.html",
-          "author": null,
-          "description": "Posted by Haolin Jia, Software Engineer, and Qifei Wang, Senior Software Engineer, Core ML\n\n\n\nIn recent years, we have witnessed rising interest across consumers and researchers in integrated augmented reality (AR) experiences using real-time face feature generation and editing functions in mobile applications, including short videos, virtual reality, and gaming. As a result, there is a growing demand for lightweight, yet high-quality face generation and editing models, which are often based on generative adversarial network (GAN) techniques. However, the majority of GAN models suffer from high computational complexity and the need for a large training dataset. In addition, it is also important to employ GAN models responsibly. \n\n\n\nIn this post, we introduce MediaPipe FaceStylizer, an effi…",
-          "link": "http://blog.research.google/2023/09/mediapipe-facestylizer-on-device-real.html",
-          "publishedOn": "2023-09-15T17:39:00.002Z",
-          "wordCount": 27681,
-          "title": "MediaPipe FaceStylizer: On-device real-time few-shot face stylization",
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihspgvRDlnUmToZlZzCcRWCFIt9TRnLH9lepBq6ojBLxZ0nFEPBS7bQgOHY0klCfkewtZy5KSGnKYialzlh4xNSFP5Th4mvWJWcJ8XvNkCAJK9T7f_xHSK-H0uPW0paxcTG3nhQtP7eY7iKSVjX-Oaca182KHKiuGzj2C4yWT_kenY-Ys7LtS7i93RCtcP/w1200-h630-p-k-no-nu/FaceStylizer-Hero.png"
         }
       ]
     },
