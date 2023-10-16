@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-16T08:20:03.293Z</updated>
+    <updated>2023-10-16T09:15:56.376Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[随机分词再探：从Viterbi Sampling到完美采样算法]]></title>
+        <id>https://kexue.fm/archives/9811</id>
+        <link href="https://kexue.fm/archives/9811"/>
+        <updated>2023-10-16T08:16:00.000Z</updated>
+        <summary type="html"><![CDATA[在文章《随机分词浅探：从Viterbi Decoding到Viterbi Sampling》中，笔者提出了一种名为“Viterbi Sampling”的随机分词算法，它只是在求最优解的Viter...]]></summary>
+        <author>
+            <name>苏剑林</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Adam-family Methods with Decoupled Weight Decay in Deep Learning]]></title>
         <id>http://arxiv.org/abs/2310.08858</id>

@@ -1361,6 +1361,16 @@
       "siteUrl": "https://kexue.fm/",
       "articles": [
         {
+          "id": "https://kexue.fm/archives/9811",
+          "author": "苏剑林",
+          "description": "在文章《随机分词浅探：从Viterbi Decoding到Viterbi Sampling》中，笔者提出了一种名为“Viterbi Sampling”的随机分词算法，它只是在求最优解的Viter...",
+          "link": "https://kexue.fm/archives/9811",
+          "publishedOn": "2023-10-16T08:16:00.000Z",
+          "wordCount": 1680,
+          "title": "随机分词再探：从Viterbi Sampling到完美采样算法",
+          "imageUrl": null
+        },
+        {
           "id": "https://kexue.fm/archives/9797",
           "author": "苏剑林",
           "description": "众所周知，分类任务的标准损失是交叉熵（Cross Entropy，等价于最大似然MLE，即Maximum Likelihood Estimation），它有着简单高效的特点，但在某些场景下也暴露...",
