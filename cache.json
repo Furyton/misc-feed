@@ -6,6 +6,56 @@
       "siteUrl": "https://www.arxivist.com",
       "articles": [
         {
+          "id": "http://arxiv.org/abs/2310.08858",
+          "author": null,
+          "description": "Kuangyu Ding, Nachuan Xiao, Kim-Chuan Toh",
+          "link": "http://arxiv.org/abs/2310.08858",
+          "publishedOn": "2023-10-16T02:23:54.304Z",
+          "wordCount": 721,
+          "title": "Adam-family Methods with Decoupled Weight Decay in Deep Learning",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2310.03684",
+          "author": null,
+          "description": "Alexander Robey, Eric Wong, Hamed Hassani, George J. Pappas",
+          "link": "http://arxiv.org/abs/2310.03684",
+          "publishedOn": "2023-10-16T02:23:54.219Z",
+          "wordCount": 670,
+          "title": "SmoothLLM: Defending Large Language Models Against Jailbreaking Attacks",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2310.09028",
+          "author": null,
+          "description": "Mike Huisman, Aske Plaat, Jan N. van Rijn",
+          "link": "http://arxiv.org/abs/2310.09028",
+          "publishedOn": "2023-10-16T02:23:54.214Z",
+          "wordCount": 729,
+          "title": "Subspace Adaptation Prior for Few-Shot Learning",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2310.09250",
+          "author": null,
+          "description": "Lin Chen, Michal Lukasik, Wittawat Jitkrittum, Chong You, Sanjiv Kumar",
+          "link": "http://arxiv.org/abs/2310.09250",
+          "publishedOn": "2023-10-16T02:23:54.099Z",
+          "wordCount": 664,
+          "title": "It's an Alignment, Not a Trade-off: Revisiting Bias and Variance in Deep\n  Models",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2303.15833",
+          "author": null,
+          "description": "Wonguk Cho, Jinha Park, Taesup Kim",
+          "link": "http://arxiv.org/abs/2303.15833",
+          "publishedOn": "2023-10-16T02:23:54.093Z",
+          "wordCount": 724,
+          "title": "Complementary Domain Adaptation and Generalization for Unsupervised\n  Continual Domain Shift Learning",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
           "id": "http://arxiv.org/abs/2302.03861",
           "author": null,
           "description": "Gary Y. Li, Junyu Chen, Se-In Jang, Kuang Gong, Quanzheng Li",
