@@ -2,10 +2,67 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-17T02:22:11.021Z</updated>
+    <updated>2023-10-17T03:15:25.061Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The Deep learning model of upstream and downstream brain regions Based
+  on Memory Generation-Consolidation-Loss, Synaptic Strength Rebalance and
+  mnemonic spiral]]></title>
+        <id>http://arxiv.org/abs/2203.11740</id>
+        <link href="http://arxiv.org/abs/2203.11740"/>
+        <updated>2023-10-17T03:15:25.030Z</updated>
+        <summary type="html"><![CDATA[Jun-Bo Tao, Bai-Qing Sun, Wei-Dong Zhu, Shi-You Qu, Ling-Kun Chen,
+  Jia-Qiang Li, Guo-Qi Li, Chong Wu, Yu Xiong, Jiaxuan Zhou]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ZeroSCROLLS: A Zero-Shot Benchmark for Long Text Understanding]]></title>
+        <id>http://arxiv.org/abs/2305.14196</id>
+        <link href="http://arxiv.org/abs/2305.14196"/>
+        <updated>2023-10-17T03:15:25.011Z</updated>
+        <summary type="html"><![CDATA[Uri Shaham, Maor Ivgi, Avia Efrat, Jonathan Berant, Omer
+  Levy]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The CoT Collection: Improving Zero-shot and Few-shot Learning of
+  Language Models via Chain-of-Thought Fine-Tuning]]></title>
+        <id>http://arxiv.org/abs/2305.14045</id>
+        <link href="http://arxiv.org/abs/2305.14045"/>
+        <updated>2023-10-17T03:15:24.986Z</updated>
+        <summary type="html"><![CDATA[Seungone Kim, Se June Joo, Doyoung Kim, Joel Jang, Seonghyeon Ye,
+  Jamin Shin, Minjoon Seo]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Med-HALT: Medical Domain Hallucination Test for Large Language Models]]></title>
+        <id>http://arxiv.org/abs/2307.15343</id>
+        <link href="http://arxiv.org/abs/2307.15343"/>
+        <updated>2023-10-17T03:15:24.913Z</updated>
+        <summary type="html"><![CDATA[Ankit Pal, Logesh Kumar Umapathi, Malaikannan Sankarasubbu]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Exploring the Power of Graph Neural Networks in Solving Linear
+  Optimization Problems]]></title>
+        <id>http://arxiv.org/abs/2310.10603</id>
+        <link href="http://arxiv.org/abs/2310.10603"/>
+        <updated>2023-10-17T03:15:24.903Z</updated>
+        <summary type="html"><![CDATA[Chendi Qian, Didier Ch\'etelat, Christopher Morris]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[In the paper there is y instead of x]]></title>
         <id>http://xianblog.wordpress.com/?p=54199</id>
@@ -2684,16 +2741,6 @@ The goal is to help data scientists and scientis…]]></summary>
         <summary type="html"><![CDATA[Visit the post for more.]]></summary>
         <author>
             <name>xi'an</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rhetoric as music]]></title>
-        <id>https://languagelog.ldc.upenn.edu/nll/?p=60637</id>
-        <link href="https://languagelog.ldc.upenn.edu/nll/?p=60637&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rhetoric-as-music"/>
-        <updated>2023-09-17T14:25:47.000Z</updated>
-        <summary type="html"><![CDATA[From Jon Stewart's 1997 interview with George Carlin (starting at about 1:17.6): Your browser does not support the audio element. well- well uh to- to go backward with the question, don't forget, what we do is oratory. It's rhetoric. It's not just comedy, it's a form of rhetoric and- and with rhetoric, you- you look […]]]></summary>
-        <author>
-            <name>Mark Liberman</name>
         </author>
     </entry>
 </feed>

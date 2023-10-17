@@ -6,6 +6,56 @@
       "siteUrl": "https://www.arxivist.com",
       "articles": [
         {
+          "id": "http://arxiv.org/abs/2203.11740",
+          "author": null,
+          "description": "Jun-Bo Tao, Bai-Qing Sun, Wei-Dong Zhu, Shi-You Qu, Ling-Kun Chen,\n  Jia-Qiang Li, Guo-Qi Li, Chong Wu, Yu Xiong, Jiaxuan Zhou",
+          "link": "http://arxiv.org/abs/2203.11740",
+          "publishedOn": "2023-10-17T03:15:25.030Z",
+          "wordCount": 963,
+          "title": "The Deep learning model of upstream and downstream brain regions Based\n  on Memory Generation-Consolidation-Loss, Synaptic Strength Rebalance and\n  mnemonic spiral",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2305.14196",
+          "author": null,
+          "description": "Uri Shaham, Maor Ivgi, Avia Efrat, Jonathan Berant, Omer\n  Levy",
+          "link": "http://arxiv.org/abs/2305.14196",
+          "publishedOn": "2023-10-17T03:15:25.011Z",
+          "wordCount": 674,
+          "title": "ZeroSCROLLS: A Zero-Shot Benchmark for Long Text Understanding",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2305.14045",
+          "author": null,
+          "description": "Seungone Kim, Se June Joo, Doyoung Kim, Joel Jang, Seonghyeon Ye,\n  Jamin Shin, Minjoon Seo",
+          "link": "http://arxiv.org/abs/2305.14045",
+          "publishedOn": "2023-10-17T03:15:24.986Z",
+          "wordCount": 743,
+          "title": "The CoT Collection: Improving Zero-shot and Few-shot Learning of\n  Language Models via Chain-of-Thought Fine-Tuning",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2307.15343",
+          "author": null,
+          "description": "Ankit Pal, Logesh Kumar Umapathi, Malaikannan Sankarasubbu",
+          "link": "http://arxiv.org/abs/2307.15343",
+          "publishedOn": "2023-10-17T03:15:24.913Z",
+          "wordCount": 698,
+          "title": "Med-HALT: Medical Domain Hallucination Test for Large Language Models",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2310.10603",
+          "author": null,
+          "description": "Chendi Qian, Didier Ch\\'etelat, Christopher Morris",
+          "link": "http://arxiv.org/abs/2310.10603",
+          "publishedOn": "2023-10-17T03:15:24.903Z",
+          "wordCount": 658,
+          "title": "Exploring the Power of Graph Neural Networks in Solving Linear\n  Optimization Problems",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
           "id": "http://arxiv.org/abs/2310.08858",
           "author": null,
           "description": "Kuangyu Ding, Nachuan Xiao, Kim-Chuan Toh",
@@ -2705,21 +2755,6 @@
           "publishedOn": "2023-09-18T13:33:08.000Z",
           "wordCount": 1989,
           "title": "A new draft…",
-          "imageUrl": null
-        },
-        {
-          "id": "https://languagelog.ldc.upenn.edu/nll/?p=60637",
-          "author": "Mark Liberman",
-          "description": "From Jon Stewart's 1997 interview with George Carlin (starting at about 1:17.6): Your browser does not support the audio element. well- well uh to- to go backward with the question, don't forget, what we do is oratory. It's rhetoric. It's not just comedy, it's a form of rhetoric and- and with rhetoric, you- you look […]",
-          "link": "https://languagelog.ldc.upenn.edu/nll/?p=60637&utm_source=rss&utm_medium=rss&utm_campaign=rhetoric-as-music",
-          "publishedOn": "2023-09-17T14:25:47.000Z",
-          "wordCount": 2374,
-          "title": "Rhetoric as music",
-          "enclosure": {
-            "url": "https://languagelog.ldc.upenn.edu/myl/StewartCarlinInterviewX1.wav",
-            "length": "739456",
-            "type": "audio/wav"
-          },
           "imageUrl": null
         }
       ]
