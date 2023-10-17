@@ -1607,6 +1607,16 @@
       "siteUrl": "http://bair.berkeley.edu/blog/",
       "articles": [
         {
+          "id": "http://bair.berkeley.edu/blog/2023/10/17/grif/",
+          "author": null,
+          "description": "Goal Representations for Instruction Following\n\n\n\nFigure title. Figure caption. This image is centered and set to 50%\npage width. -->\n\n\nA longstanding goal of the field of robot learning has been to create generalist agents that can perform tasks for humans. Natural language has the potential to be an easy-to-use interface for humans to specify arbitrary tasks, but it is difficult to train robots to follow language instructions. Approaches like language-conditioned behavioral cloning (LCBC) train policies to directly imitate expert actions conditioned on language, but require humans to annotate all training trajectories and generalize poorly across scenes and behaviors. Meanwhile, recent goal-conditioned approaches perform much better at general manipulation tasks, but do not enable easy t…",
+          "link": "http://bair.berkeley.edu/blog/2023/10/17/grif/",
+          "publishedOn": "2023-10-17T14:35:00.000Z",
+          "wordCount": 2025,
+          "title": "Goal Representations for Instruction Following",
+          "imageUrl": "http://bair.berkeley.edu/blog/assets/grif/thumbnail.png"
+        },
+        {
           "id": "http://bair.berkeley.edu/blog/2023/10/16/p3o/",
           "author": null,
           "description": "Rethinking the Role of PPO in RLHF\n\nTL;DR: In RLHF, there’s tension between the reward learning phase, which uses human preference in the form of comparisons, and the RL fine-tuning phase, which optimizes a single, non-comparative reward. What if we performed RL in a comparative way?\nFigure 1:\n This diagram illustrates the difference between reinforcement learning from absolute feedback and relative feedback. By incorporating a new component - pairwise policy gradient, we can unify the reward modeling stage and RL stage, enabling direct updates based on pairwise responses.\n\n\n\nLarge Language Models (LLMs) have powered increasingly capable virtual assistants, such as GPT-4, Claude-2, Bard and Bing Chat. These systems can respond to complex user queries, write code, and even produce poetry. T…",
