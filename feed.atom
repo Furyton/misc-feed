@@ -2,10 +2,66 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-18T01:05:11.137Z</updated>
+    <updated>2023-10-18T02:22:11.969Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Towards the Fundamental Limits of Knowledge Transfer over Finite Domains]]></title>
+        <id>http://arxiv.org/abs/2310.07838</id>
+        <link href="http://arxiv.org/abs/2310.07838"/>
+        <updated>2023-10-18T02:22:11.932Z</updated>
+        <summary type="html"><![CDATA[Qingyue Zhao, Banghua Zhu]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Understanding deep neural networks through the lens of their
+  non-linearity]]></title>
+        <id>http://arxiv.org/abs/2310.11439</id>
+        <link href="http://arxiv.org/abs/2310.11439"/>
+        <updated>2023-10-18T02:22:11.738Z</updated>
+        <summary type="html"><![CDATA[Quentin Bouniot, Ievgen Redko, Anton Mallasto, Charlotte Laclau, Karol
+  Arndt, Oliver Struckmeier, Markus Heinonen, Ville Kyrki, Samuel Kaski]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wide Neural Networks as Gaussian Processes: Lessons from Deep
+  Equilibrium Models]]></title>
+        <id>http://arxiv.org/abs/2310.10767</id>
+        <link href="http://arxiv.org/abs/2310.10767"/>
+        <updated>2023-10-18T02:22:11.720Z</updated>
+        <summary type="html"><![CDATA[Tianxiang Gao, Xiaokai Huo, Hailiang Liu, Hongyang Gao]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Densely Connected $G$-invariant Deep Neural Networks with Signed
+  Permutation Representations]]></title>
+        <id>http://arxiv.org/abs/2303.04614</id>
+        <link href="http://arxiv.org/abs/2303.04614"/>
+        <updated>2023-10-18T02:21:54.835Z</updated>
+        <summary type="html"><![CDATA[Devanshu Agrawal, James Ostrowski]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Large Language Models Are Latent Variable Models: Explaining and Finding
+  Good Demonstrations for In-Context Learning]]></title>
+        <id>http://arxiv.org/abs/2301.11916</id>
+        <link href="http://arxiv.org/abs/2301.11916"/>
+        <updated>2023-10-18T02:21:54.828Z</updated>
+        <summary type="html"><![CDATA[Xinyi Wang, Wanrong Zhu, Michael Saxon, Mark Steyvers, William Yang
+  Wang]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Wok talk: enlarging the scope]]></title>
         <id>https://languagelog.ldc.upenn.edu/nll/?p=60996</id>
@@ -2766,16 +2822,6 @@ The goal is to help data scientists and scientis…]]></summary>
         <summary type="html"><![CDATA[In cryptography, we need a distinction between a cleartext and a plaintext. A cleartext is a message in its natural form. A plaintext is a cleartext that is represented in a specific way to prepare it for encryption in a specific scheme. The process of taking a cleartext and turning it into a plaintext is […]]]></summary>
         <author>
             <name>Jeremy Kun</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A new draft…]]></title>
-        <id>https://languagelog.ldc.upenn.edu/nll/?p=60651</id>
-        <link href="https://languagelog.ldc.upenn.edu/nll/?p=60651&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=60651"/>
-        <updated>2023-09-18T13:33:08.000Z</updated>
-        <summary type="html"><![CDATA[This is not at all the experience that I've had with multiple-authored papers — but it's funny: “Thanks everyone for comments on the draft, here it is revised with all your edits.” pic.twitter.com/pSV16wQqca — Ben Phillips (@benphillips76) September 17, 2023 And I've sometimes had analogous issues with "copy editing" — see e.g. "Spectrums", 5/24/2022…]]></summary>
-        <author>
-            <name>Mark Liberman</name>
         </author>
     </entry>
 </feed>

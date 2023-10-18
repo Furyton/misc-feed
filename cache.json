@@ -6,6 +6,56 @@
       "siteUrl": "https://www.arxivist.com",
       "articles": [
         {
+          "id": "http://arxiv.org/abs/2310.07838",
+          "author": null,
+          "description": "Qingyue Zhao, Banghua Zhu",
+          "link": "http://arxiv.org/abs/2310.07838",
+          "publishedOn": "2023-10-18T02:22:11.932Z",
+          "wordCount": 744,
+          "title": "Towards the Fundamental Limits of Knowledge Transfer over Finite Domains",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2310.11439",
+          "author": null,
+          "description": "Quentin Bouniot, Ievgen Redko, Anton Mallasto, Charlotte Laclau, Karol\n  Arndt, Oliver Struckmeier, Markus Heinonen, Ville Kyrki, Samuel Kaski",
+          "link": "http://arxiv.org/abs/2310.11439",
+          "publishedOn": "2023-10-18T02:22:11.738Z",
+          "wordCount": 674,
+          "title": "Understanding deep neural networks through the lens of their\n  non-linearity",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2310.10767",
+          "author": null,
+          "description": "Tianxiang Gao, Xiaokai Huo, Hailiang Liu, Hongyang Gao",
+          "link": "http://arxiv.org/abs/2310.10767",
+          "publishedOn": "2023-10-18T02:22:11.720Z",
+          "wordCount": 719,
+          "title": "Wide Neural Networks as Gaussian Processes: Lessons from Deep\n  Equilibrium Models",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2303.04614",
+          "author": null,
+          "description": "Devanshu Agrawal, James Ostrowski",
+          "link": "http://arxiv.org/abs/2303.04614",
+          "publishedOn": "2023-10-18T02:21:54.835Z",
+          "wordCount": 763,
+          "title": "Densely Connected $G$-invariant Deep Neural Networks with Signed\n  Permutation Representations",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2301.11916",
+          "author": null,
+          "description": "Xinyi Wang, Wanrong Zhu, Michael Saxon, Mark Steyvers, William Yang\n  Wang",
+          "link": "http://arxiv.org/abs/2301.11916",
+          "publishedOn": "2023-10-18T02:21:54.828Z",
+          "wordCount": 737,
+          "title": "Large Language Models Are Latent Variable Models: Explaining and Finding\n  Good Demonstrations for In-Context Learning",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
           "id": "http://arxiv.org/abs/2203.11740",
           "author": null,
           "description": "Jun-Bo Tao, Bai-Qing Sun, Wei-Dong Zhu, Shi-You Qu, Ling-Kun Chen,\n  Jia-Qiang Li, Guo-Qi Li, Chong Wu, Yu Xiong, Jiaxuan Zhou",
@@ -2775,16 +2825,6 @@
           "publishedOn": "2023-09-18T18:09:39.000Z",
           "wordCount": 3775,
           "title": "Grab / Mixed bag of crimes that \"hurt the feelings of the Chinese people\", part 2",
-          "imageUrl": null
-        },
-        {
-          "id": "https://languagelog.ldc.upenn.edu/nll/?p=60651",
-          "author": "Mark Liberman",
-          "description": "This is not at all the experience that I've had with multiple-authored papers — but it's funny: “Thanks everyone for comments on the draft, here it is revised with all your edits.” pic.twitter.com/pSV16wQqca — Ben Phillips (@benphillips76) September 17, 2023 And I've sometimes had analogous issues with \"copy editing\" — see e.g. \"Spectrums\", 5/24/2022…",
-          "link": "https://languagelog.ldc.upenn.edu/nll/?p=60651&utm_source=rss&utm_medium=rss&utm_campaign=60651",
-          "publishedOn": "2023-09-18T13:33:08.000Z",
-          "wordCount": 1989,
-          "title": "A new draft…",
           "imageUrl": null
         }
       ]
