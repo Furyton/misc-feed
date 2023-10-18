@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-18T11:13:01.992Z</updated>
+    <updated>2023-10-18T12:29:55.501Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -2782,16 +2782,6 @@ The goal is to help data scientists and scientis…]]></summary>
         <summary type="html"><![CDATA[Noah Golowich, Dhruv Rohatgi, Ankur Moitra]]></summary>
         <author>
             <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A catalogue of genetic mutations to help pinpoint the cause of diseases]]></title>
-        <id>https://www.deepmind.com/blog/alphamissense-catalogue-of-genetic-mutations-to-help-pinpoint-the-cause-of-diseases</id>
-        <link href="https://www.deepmind.com/blog/alphamissense-catalogue-of-genetic-mutations-to-help-pinpoint-the-cause-of-diseases"/>
-        <updated>2023-09-19T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[We've released a catalogue of ‘missense’ mutations where researchers can learn more about what effect they may have. Missense variants are genetic mutations that can affect the function of human proteins. In some cases, they can lead to diseases such as cystic fibrosis, sickle-cell anaemia, or cancer. The AlphaMissense catalogue was developed using AlphaMissense, our new AI model which classifies missense variants.]]></summary>
-        <author>
-            <name>DeepMind Blog</name>
         </author>
     </entry>
 </feed>
