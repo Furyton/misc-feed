@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-19T14:14:14.392Z</updated>
+    <updated>2023-10-19T15:15:41.418Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -2765,40 +2765,6 @@ To circumvent these deployment challenges, practitioners often choose to deplo�
         <summary type="html"><![CDATA[前天晚上微信群里有群友提出了一个问题：对于一个任意整数$N > 100$，求一个近似算法，使得$N=a\times b+c$（其中$a,b,c$都是非负整数），并且令$a+b+c$尽量地小。初看...]]></summary>
         <author>
             <name>苏剑林</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Geometric structure of shallow neural networks and constructive
-  ${\mathcal L}^2$ cost minimization]]></title>
-        <id>http://arxiv.org/abs/2309.10370</id>
-        <link href="http://arxiv.org/abs/2309.10370"/>
-        <updated>2023-09-20T02:20:25.020Z</updated>
-        <summary type="html"><![CDATA[Thomas Chen, Patricia Mu\~noz Ewald]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Geometric structure of Deep Learning networks and construction of global
-  ${\mathcal L}^2$ minimizers]]></title>
-        <id>http://arxiv.org/abs/2309.10639</id>
-        <link href="http://arxiv.org/abs/2309.10639"/>
-        <updated>2023-09-20T02:20:24.959Z</updated>
-        <summary type="html"><![CDATA[Thomas Chen, Patricia Mu\~noz Ewald]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Exploring the Limits of Transfer Learning with a Unified Text-to-Text
-  Transformer]]></title>
-        <id>http://arxiv.org/abs/1910.10683</id>
-        <link href="http://arxiv.org/abs/1910.10683"/>
-        <updated>2023-09-20T02:20:17.929Z</updated>
-        <summary type="html"><![CDATA[Colin Raffel, Noam Shazeer, Adam Roberts, Katherine Lee, Sharan
-  Narang, Michael Matena, Yanqi Zhou, Wei Li, Peter J. Liu]]></summary>
-        <author>
-            <name>arxivist feed</name>
         </author>
     </entry>
 </feed>
