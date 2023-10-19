@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-19T17:13:58.108Z</updated>
+    <updated>2023-10-19T18:19:46.745Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -2755,16 +2755,6 @@ To circumvent these deployment challenges, practitioners often choose to deplo�
         <summary type="html"><![CDATA[Table of Contents In a previous article we defined folding functions, and used them to enable some canonicalization and the sccp constant propagation pass for the poly dialect. This time we’ll see how to add more general canonicalization patterns. The code for this article is in this pull request, and as usual the commits are organized to be […]]]></summary>
         <author>
             <name>Jeremy Kun</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[自然数域中 N = ab + c 时 a + b + c 的最小值]]></title>
-        <id>https://kexue.fm/archives/9775</id>
-        <link href="https://kexue.fm/archives/9775"/>
-        <updated>2023-09-20T06:16:00.000Z</updated>
-        <summary type="html"><![CDATA[前天晚上微信群里有群友提出了一个问题：对于一个任意整数$N > 100$，求一个近似算法，使得$N=a\times b+c$（其中$a,b,c$都是非负整数），并且令$a+b+c$尽量地小。初看...]]></summary>
-        <author>
-            <name>苏剑林</name>
         </author>
     </entry>
 </feed>
