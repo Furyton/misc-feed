@@ -1244,56 +1244,6 @@
           "wordCount": 729,
           "title": "Bayesian sparsification for deep neural networks with Bayesian model\n  reduction",
           "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
-        },
-        {
-          "id": "http://arxiv.org/abs/2309.11420",
-          "author": null,
-          "description": "Song Mei, Yuchen Wu",
-          "link": "http://arxiv.org/abs/2309.11420",
-          "publishedOn": "2023-09-21T02:19:57.126Z",
-          "wordCount": 676,
-          "title": "Deep Networks as Denoising Algorithms: Sample-Efficient Learning of\n  Diffusion Models in High-Dimensional Graphical Models",
-          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
-        },
-        {
-          "id": "http://arxiv.org/abs/2209.14295",
-          "author": null,
-          "description": "Shai Feldman, Bat-Sheva Einbinder, Stephen Bates, Anastasios N.\n  Angelopoulos, Asaf Gendler, Yaniv Romano",
-          "link": "http://arxiv.org/abs/2209.14295",
-          "publishedOn": "2023-09-21T02:19:47.000Z",
-          "wordCount": 674,
-          "title": "Conformal Prediction is Robust to Dispersive Label Noise",
-          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
-        },
-        {
-          "id": "http://arxiv.org/abs/2006.04787",
-          "author": null,
-          "description": "Sitan Chen, Frederic Koehler, Ankur Moitra, Morris Yau",
-          "link": "http://arxiv.org/abs/2006.04787",
-          "publishedOn": "2023-09-21T02:19:46.993Z",
-          "wordCount": 837,
-          "title": "Classification Under Misspecification: Halfspaces, Generalized Linear\n  Models, and Connections to Evolvability",
-          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
-        },
-        {
-          "id": "http://arxiv.org/abs/2106.12059",
-          "author": null,
-          "description": "Andreas Kirsch, Sebastian Farquhar, Parmida Atighehchian, Andrew\n  Jesson, Frederic Branchaud-Charron, Yarin Gal",
-          "link": "http://arxiv.org/abs/2106.12059",
-          "publishedOn": "2023-09-21T02:19:46.987Z",
-          "wordCount": 679,
-          "title": "Stochastic Batch Acquisition: A Simple Baseline for Deep Active Learning",
-          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
-        },
-        {
-          "id": "http://arxiv.org/abs/2108.01867",
-          "author": null,
-          "description": "Kai Arulkumaran, Dan Ogawa Lillrank",
-          "link": "http://arxiv.org/abs/2108.01867",
-          "publishedOn": "2023-09-21T02:19:46.982Z",
-          "wordCount": 724,
-          "title": "A Pragmatic Look at Deep Imitation Learning",
-          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
         }
       ]
     },
@@ -1583,7 +1533,28 @@
       "title": "Python⇒Speed",
       "feedUrl": "https://pythonspeed.com/atom.xml",
       "siteUrl": "https://pythonspeed.com/atom.xml",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://pythonspeed.com/articles/upgrade-python-3.12/",
+          "author": null,
+          "description": "Python 3.12 is out now–but should you switch to it immediately?\nAnd if you shouldn’t upgrade just yet, when should you?\nImmediately after the release, you may not want to upgrade just yet.\nBut from December 2023 and onwards, upgrading is definitely worth trying.\nTo understand why, we need to consider Python packaging, the software development process, and take a look at the history of past releases.\nRead more...",
+          "link": "https://pythonspeed.com/articles/upgrade-python-3.12/",
+          "publishedOn": "2023-10-18T00:00:00.000Z",
+          "wordCount": 1296,
+          "title": "When should you upgrade to Python 3.12?",
+          "imageUrl": "https://pythonspeed.com/assets/titles/upgrade-python-3.12.png"
+        },
+        {
+          "id": "https://pythonspeed.com/articles/faster-cython-simd/",
+          "author": null,
+          "description": "Cython allows you to write compiled extensions for Python, by translating Python-y code to C or C++.\nOften you’ll use it to speed up your software, and it’s especially useful for implementing small data science or scientific computing algorithms.\nBut what happens when Cython is too slow?\nOften there’s still speed improvements you can do.\nIn a previous article we focused on examples of optimizing your code to take advantage of things like instruction-level parallelism.\nIn this article, we’ll focus on another CPU feature, Single Instruction Multiple Data or SIMD, specifically in the context of Cython.\nAs well see, in some situations using SIMD can happen with only minimal changes to your code.\nParts of this article are excerpted from a book I’m working on that will help teach you how to optimize low-level code, the kind of code you’d write with Cython, C, or Rust.\nThe goal is to help data scientists and scientists who normally write Python to understand how to make their compiled code faster.\nRead more...",
+          "link": "https://pythonspeed.com/articles/faster-cython-simd/",
+          "publishedOn": "2023-10-18T00:00:00.000Z",
+          "wordCount": 2819,
+          "title": "Speeding up Cython with SIMD",
+          "imageUrl": "https://pythonspeed.com/assets/titles/faster-cython-simd.png"
+        }
+      ]
     },
     {
       "title": "统计之都",

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-20T14:13:49.562Z</updated>
+    <updated>2023-10-20T15:14:04.832Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -249,6 +249,40 @@
   Wang]]></summary>
         <author>
             <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[When should you upgrade to Python 3.12?]]></title>
+        <id>https://pythonspeed.com/articles/upgrade-python-3.12/</id>
+        <link href="https://pythonspeed.com/articles/upgrade-python-3.12/"/>
+        <updated>2023-10-18T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Python 3.12 is out now–but should you switch to it immediately?
+And if you shouldn’t upgrade just yet, when should you?
+Immediately after the release, you may not want to upgrade just yet.
+But from December 2023 and onwards, upgrading is definitely worth trying.
+To understand why, we need to consider Python packaging, the software development process, and take a look at the history of past releases.
+Read more...]]></summary>
+        <author>
+            <name>Python⇒Speed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Speeding up Cython with SIMD]]></title>
+        <id>https://pythonspeed.com/articles/faster-cython-simd/</id>
+        <link href="https://pythonspeed.com/articles/faster-cython-simd/"/>
+        <updated>2023-10-18T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Cython allows you to write compiled extensions for Python, by translating Python-y code to C or C++.
+Often you’ll use it to speed up your software, and it’s especially useful for implementing small data science or scientific computing algorithms.
+But what happens when Cython is too slow?
+Often there’s still speed improvements you can do.
+In a previous article we focused on examples of optimizing your code to take advantage of things like instruction-level parallelism.
+In this article, we’ll focus on another CPU feature, Single Instruction Multiple Data or SIMD, specifically in the context of Cython.
+As well see, in some situations using SIMD can happen with only minimal changes to your code.
+Parts of this article are excerpted from a book I’m working on that will help teach you how to optimize low-level code, the kind of code you’d write with Cython, C, or Rust.
+The goal is to help data scientists and scientists who normally write Python to understand how to make their compiled code faster.
+Read more...]]></summary>
+        <author>
+            <name>Python⇒Speed</name>
         </author>
     </entry>
     <entry>
@@ -2704,60 +2738,6 @@ To circumvent these deployment challenges, practitioners often choose to deplo�
         <summary type="html"><![CDATA[I'm not the first person to use that word, but I probably mean it in a distinctive way.  What I'm talking about is not the usual sort of earworm / öhrwurm that gets stuck in your brain and you just can't make it go away.  That's the usual kind, and I get it fairly often, […]]]></summary>
         <author>
             <name>Victor Mair</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Deep Networks as Denoising Algorithms: Sample-Efficient Learning of
-  Diffusion Models in High-Dimensional Graphical Models]]></title>
-        <id>http://arxiv.org/abs/2309.11420</id>
-        <link href="http://arxiv.org/abs/2309.11420"/>
-        <updated>2023-09-21T02:19:57.126Z</updated>
-        <summary type="html"><![CDATA[Song Mei, Yuchen Wu]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Conformal Prediction is Robust to Dispersive Label Noise]]></title>
-        <id>http://arxiv.org/abs/2209.14295</id>
-        <link href="http://arxiv.org/abs/2209.14295"/>
-        <updated>2023-09-21T02:19:47.000Z</updated>
-        <summary type="html"><![CDATA[Shai Feldman, Bat-Sheva Einbinder, Stephen Bates, Anastasios N.
-  Angelopoulos, Asaf Gendler, Yaniv Romano]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Classification Under Misspecification: Halfspaces, Generalized Linear
-  Models, and Connections to Evolvability]]></title>
-        <id>http://arxiv.org/abs/2006.04787</id>
-        <link href="http://arxiv.org/abs/2006.04787"/>
-        <updated>2023-09-21T02:19:46.993Z</updated>
-        <summary type="html"><![CDATA[Sitan Chen, Frederic Koehler, Ankur Moitra, Morris Yau]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stochastic Batch Acquisition: A Simple Baseline for Deep Active Learning]]></title>
-        <id>http://arxiv.org/abs/2106.12059</id>
-        <link href="http://arxiv.org/abs/2106.12059"/>
-        <updated>2023-09-21T02:19:46.987Z</updated>
-        <summary type="html"><![CDATA[Andreas Kirsch, Sebastian Farquhar, Parmida Atighehchian, Andrew
-  Jesson, Frederic Branchaud-Charron, Yarin Gal]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Pragmatic Look at Deep Imitation Learning]]></title>
-        <id>http://arxiv.org/abs/2108.01867</id>
-        <link href="http://arxiv.org/abs/2108.01867"/>
-        <updated>2023-09-21T02:19:46.982Z</updated>
-        <summary type="html"><![CDATA[Kai Arulkumaran, Dan Ogawa Lillrank]]></summary>
-        <author>
-            <name>arxivist feed</name>
         </author>
     </entry>
 </feed>
