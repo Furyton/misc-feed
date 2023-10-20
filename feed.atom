@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-20T02:21:12.153Z</updated>
+    <updated>2023-10-20T03:14:56.302Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -2820,16 +2820,6 @@ To circumvent these deployment challenges, practitioners often choose to deplo�
         <summary type="html"><![CDATA[Sakin Demir]]></summary>
         <author>
             <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MLIR — Canonicalizers and Declarative Rewrite Patterns]]></title>
-        <id>https://jeremykun.com/?p=120004</id>
-        <link href="https://jeremykun.com/2023/09/20/mlir-canonicalizers-and-declarative-rewrite-patterns/"/>
-        <updated>2023-09-20T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Table of Contents In a previous article we defined folding functions, and used them to enable some canonicalization and the sccp constant propagation pass for the poly dialect. This time we’ll see how to add more general canonicalization patterns. The code for this article is in this pull request, and as usual the commits are organized to be […]]]></summary>
-        <author>
-            <name>Jeremy Kun</name>
         </author>
     </entry>
 </feed>

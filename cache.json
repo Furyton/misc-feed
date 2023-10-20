@@ -1926,16 +1926,6 @@
           "wordCount": 4101,
           "title": "Socks, a matching game based on an additive combinatorics problem",
           "imageUrl": "https://jeremykun.com/wp-content/uploads/2023/09/PXL_20230921_033734407.jpg"
-        },
-        {
-          "id": "https://jeremykun.com/?p=120004",
-          "author": "Jeremy Kun",
-          "description": "Table of Contents In a previous article we defined folding functions, and used them to enable some canonicalization and the sccp constant propagation pass for the poly dialect. This time we’ll see how to add more general canonicalization patterns. The code for this article is in this pull request, and as usual the commits are organized to be […]",
-          "link": "https://jeremykun.com/2023/09/20/mlir-canonicalizers-and-declarative-rewrite-patterns/",
-          "publishedOn": "2023-09-20T15:00:00.000Z",
-          "wordCount": 3666,
-          "title": "MLIR — Canonicalizers and Declarative Rewrite Patterns",
-          "imageUrl": "https://s0.wp.com/i/blank.jpg"
         }
       ]
     },
