@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-21T09:12:56.278Z</updated>
+    <updated>2023-10-21T10:14:56.656Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -2729,27 +2729,6 @@ Today, we're excited to announce that the Connectomics team at Google Research a
         <summary type="html"><![CDATA[Read [on the way back home (and during the following jet-lagged nights)] the Ninth Rain and its sequel the Bitter Twins, by Jen Williams, for which she won twice a British Fantasy Award. I am twice as surprised given that it is quite a poor series, with a simplistic approach to its world building, a […]]]></summary>
         <author>
             <name>xi'an</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Distilling step-by-step: Outperforming larger language models with less training data and smaller model sizes]]></title>
-        <id>http://blog.research.google/2023/09/distilling-step-by-step-outperforming.html</id>
-        <link href="http://blog.research.google/2023/09/distilling-step-by-step-outperforming.html"/>
-        <updated>2023-09-21T21:25:00.000Z</updated>
-        <summary type="html"><![CDATA[Posted by Cheng-Yu Hsieh, Student Researcher, and Chen-Yu Lee, Research Scientist, Cloud AI Team
-
-
-
-
-
-Large language models (LLMs) have enabled a new data-efficient learning paradigm wherein they can be used to solve unseen new tasks via zero-shot or few-shot prompting. However, LLMs are challenging to deploy for real-world applications due to their sheer size. For instance, serving a single 175 billion LLM requires at least 350GB of GPU memory using specialized infrastructure, not to mention that today's state-of-the-art LLMs are composed of over 500 billion parameters. Such computational requirements are inaccessible for many research teams, especially for applications that require low latency performance.
-
-
-
-
-To circumvent these deployment challenges, practitioners often choose to deplo…]]></summary>
-        <author>
-            <name>Google AI Blog</name>
         </author>
     </entry>
 </feed>
