@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-21T10:14:56.656Z</updated>
+    <updated>2023-10-21T11:11:56.789Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[More AI shenanigans]]></title>
+        <id>https://languagelog.ldc.upenn.edu/nll/?p=61032</id>
+        <link href="https://languagelog.ldc.upenn.edu/nll/?p=61032&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=more-ai-shenanigans"/>
+        <updated>2023-10-21T10:55:45.000Z</updated>
+        <summary type="html"><![CDATA[Since When Does Eric Adams Speak Spanish, Yiddish and Mandarin? He doesn’t. But New York City is using artificial intelligence to send robocalls featuring the mayor’s voice in many languages. By Emma G. Fitzsimmons and Jeffery C. Mays, NYT (Oct. 20, 2023) The calls to New Yorkers have a familiar ring to them. They all […]]]></summary>
+        <author>
+            <name>Victor Mair</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bidirectional Temporal Diffusion Model for Temporally Consistent Human
   Animation]]></title>
@@ -2719,16 +2729,6 @@ Today, we're excited to announce that the Connectomics team at Google Research a
         <summary type="html"><![CDATA[Dimitrije Markovi\'c, Karl J. Friston, Stefan J. Kiebel]]></summary>
         <author>
             <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[a journal of the conquest, war, famine, and death year]]></title>
-        <id>http://xianblog.wordpress.com/?p=53873</id>
-        <link href="https://xianblog.wordpress.com/2023/09/22/a-journal-of-the-conquest-war-famine-and-death-year-4/"/>
-        <updated>2023-09-21T22:23:44.000Z</updated>
-        <summary type="html"><![CDATA[Read [on the way back home (and during the following jet-lagged nights)] the Ninth Rain and its sequel the Bitter Twins, by Jen Williams, for which she won twice a British Fantasy Award. I am twice as surprised given that it is quite a poor series, with a simplistic approach to its world building, a […]]]></summary>
-        <author>
-            <name>xi'an</name>
         </author>
     </entry>
 </feed>
