@@ -1322,6 +1322,16 @@
       "siteUrl": "https://kexue.fm/",
       "articles": [
         {
+          "id": "https://kexue.fm/archives/9812",
+          "author": "苏剑林",
+          "description": "我们知道，Scaled-Dot Product Attention的Scale因子是$\\frac{1}{\\sqrt{d}}$，其中$d$是$\\boldsymbol{q},\\boldsymbol{...",
+          "link": "https://kexue.fm/archives/9812",
+          "publishedOn": "2023-10-22T09:35:00.000Z",
+          "wordCount": 1648,
+          "title": "从梯度最大化看Attention的Scale操作",
+          "imageUrl": null
+        },
+        {
           "id": "https://kexue.fm/archives/9811",
           "author": "苏剑林",
           "description": "在文章《随机分词浅探：从Viterbi Decoding到Viterbi Sampling》中，笔者提出了一种名为“Viterbi Sampling”的随机分词算法，它只是在求最优解的Viter...",

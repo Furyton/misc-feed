@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-22T09:12:58.814Z</updated>
+    <updated>2023-10-22T10:14:08.744Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[从梯度最大化看Attention的Scale操作]]></title>
+        <id>https://kexue.fm/archives/9812</id>
+        <link href="https://kexue.fm/archives/9812"/>
+        <updated>2023-10-22T09:35:00.000Z</updated>
+        <summary type="html"><![CDATA[我们知道，Scaled-Dot Product Attention的Scale因子是$\frac{1}{\sqrt{d}}$，其中$d$是$\boldsymbol{q},\boldsymbol{...]]></summary>
+        <author>
+            <name>苏剑林</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[帧同步游戏中使用 Run-Ahead 隐藏输入延迟]]></title>
         <id>https://www.skywind.me/blog/?p=2746</id>
