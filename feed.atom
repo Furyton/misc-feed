@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-22T20:14:05.935Z</updated>
+    <updated>2023-10-22T21:12:05.576Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Frater studiorum: Tsu-Lin Mei (1933-2023)]]></title>
+        <id>https://languagelog.ldc.upenn.edu/nll/?p=61041</id>
+        <link href="https://languagelog.ldc.upenn.edu/nll/?p=61041&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=frater-studiorum-tsu-lin-mei-1933-2023"/>
+        <updated>2023-10-22T20:19:13.000Z</updated>
+        <summary type="html"><![CDATA[It is with deep sadness that I report the passing on October 14, 2023 of Tsu-Lin Mei, professor of Chinese historical linguistics at Cornell University.  Tsu-Lin was born on February 14, 1933 at the Peking Union Medical College Hospital in Beijing. He received his B.A. from Oberlin College in 1954, his M.A. (in Mathematics) from Harvard […]]]></summary>
+        <author>
+            <name>Victor Mair</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[从梯度最大化看Attention的Scale操作]]></title>
         <id>https://kexue.fm/archives/9812</id>
