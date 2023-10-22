@@ -22,6 +22,55 @@
             data-action="toggle-accordions"
             title="Click to toggle the day, Ctrl + click to toggle all."
           >
+            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2023-10-22 datetime="2023-10-22T03:05:00.000Z">2023-10-22</time>
+            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2023-10-22 datetime="2023-10-22T03:05:00.000Z"></time>
+          </button>
+        </h2>
+        <ul class="sources card">
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >Skywind Inside</button>
+                  <a class="source-heading__link" href="https://www.skywind.me/blog">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://www.skywind.me/blog/?p&#x3D;2746"
+                        open
+                      >
+                        <summary class="article-expander__title">帧同步游戏中使用 Run-Ahead 隐藏输入延迟</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://www.skywind.me/blog/archives/2746">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://skywind3000.github.io/images/blog/2023/runahead1.png" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>帧同步可以轻松解决高互动的联网游戏（如格斗，RTS 等）的同步问题，但该方案对延迟很敏感，现在一般省内服务器延迟差不多 10-15ms （1帧），跨省一般 40ms （2-3 帧），在此情况下，使用 Run-Ahead 机制可以有效的掩盖延迟的体感，让用玩家立马看到自己的操作反馈。 该机制有很多其他名字比如：预测回滚（prediction and rollback），或者时间曲力（time warp），名字取的天花乱坠的，很多文章也只是云里雾里说一半天，结果还没说清楚，所以本文打算最简短的句子说清楚这个概念，并给出可以实际操作的实现步骤。 我觉得用 Run-Ahead 这个质朴的名字更容易说明这个算法背后的思想：提前运行，这个概念不光用在游戏同步里，也早已用在游戏模拟器中，为了便于理解，先说一下模拟器中的情况（更简单）。 RetroArch 使用 Run-Ahead 隐藏输入延迟，一般需要设置一下 Run-Ahead 的帧数，比如 0 是关闭，1 是提前运行一帧，2 是提前运行两帧，一般设置用 1，一般不会超过 2 ，设置太高游戏表现会很奇怪： 运行时 RetroArch 为每帧保存快照，假定的是用户输入有持续性，那么运行时当前帧使用上一帧用户的输入作为本帧输入（假设 runahead 设置为 1），然后接着往下运行，如果用户新输入来了，一律把它算作当前帧-1 的输入，然后再去对比历史如果和上一帧所尝试假定的输入一致就继续，否则快照回退到上一帧，重新用新的输入去运行，然后再快进到当前帧。 通常手柄或键盘都有 5ms 左右的输入延迟（部分设备如 switch 的 pro 手柄延迟高达 15ms），再加上操作系统处理的延迟，投递到模拟器进程里，从按下到真正开始处理也许也差不多 1 帧的时间了，RetroArch 用这个功能，也只有用户真实输入和预测输入不一致时才会触发，由于间隔很短，所以即使纠正也难看出来，最终在模拟器上达到了物理设备一样的超低延迟体验。 理解了模拟器的 Run-Ahead 实现，其实在帧同步里的原理也就差不多了，无外乎是用远程的旧输入，搭配本地刚采集到的新输入，作为预测帧的输入值，产生新帧，不匹配了再回滚。 帧同步里引入类似 Run-Ahead 的机制，要求游戏最近所有状态都可以被快速保存、复制和恢复，实现有很多种，你可以用状态的反复前进、后退来实现，但是 BUG 率太高了，这里给出一个更简易的实现方式： […]
+The post 帧同步游戏中使用 Run-Ahead 隐藏输入延迟 appeared first on Skywind Inside.</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;6
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+        </ul>
+      </section>
+      <section class="daily-content js-toggle-accordions-scope">
+        <h2 class="daily-heading">
+          <button
+            class="daily-heading-toggle"
+            data-action="toggle-accordions"
+            title="Click to toggle the day, Ctrl + click to toggle all."
+          >
             <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2023-10-21 datetime="2023-10-21T22:23:30.000Z">2023-10-21</time>
             <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2023-10-21 datetime="2023-10-21T22:23:30.000Z"></time>
           </button>
@@ -7097,8 +7146,8 @@ Today, we&#x27;re excited to announce that the Connectomics team at Google Resea
       </section>
 
     <footer>
-      <a class="footer-link" href="https://github.com/Furyton/misc-feed/actions/runs/6601627838">
-        <time id="build-timestamp" datetime="2023-10-22T04:17:08.785Z">2023-10-22T04:17:08.785Z</time>
+      <a class="footer-link" href="https://github.com/Furyton/misc-feed/actions/runs/6601856332">
+        <time id="build-timestamp" datetime="2023-10-22T05:13:36.291Z">2023-10-22T05:13:36.291Z</time>
       </a>
       <a class="footer-link" href="https://github.com/osmoscraft/osmosfeed">osmosfeed 1.15.1</a>
     </footer>
