@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-22T14:12:28.174Z</updated>
+    <updated>2023-10-22T15:14:00.213Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -2692,18 +2692,6 @@ Today, we're excited to announce that the Connectomics team at Google Research a
         <summary type="html"><![CDATA[The Large Language Model DistilBert is "a distilled version of BERT: smaller, faster, cheaper and lighter". A trained DistilBert model is available from Hugging Face, and recommended applications include "text classification", with the featured application being "sentiment analysis": And as with many similar applications, it's been noted that this version of "sentiment analysis" has picked […]]]></summary>
         <author>
             <name>Mark Liberman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Can We Reliably Improve the Robustness to Image Acquisition of Remote
-  Sensing of PV Systems?]]></title>
-        <id>http://arxiv.org/abs/2309.12214</id>
-        <link href="http://arxiv.org/abs/2309.12214"/>
-        <updated>2023-09-23T02:17:57.942Z</updated>
-        <summary type="html"><![CDATA[Gabriel Kasmi, Laurent Dubus, Yves-Marie Saint-Drenan and
-  Philippe Blanc]]></summary>
-        <author>
-            <name>arxivist feed</name>
         </author>
     </entry>
 </feed>
