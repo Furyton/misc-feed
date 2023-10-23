@@ -1948,6 +1948,16 @@
       "siteUrl": "https://xianblog.wordpress.com",
       "articles": [
         {
+          "id": "http://xianblog.wordpress.com/?p=54265",
+          "author": "xi'an",
+          "description": "There will be not one but two consecutive events in Edinburgh next May²⁴ on sequential Monte Carlo methods! Both hosted by the fantastic International Centre for Mathematical Sciences (ICMS) in Edinburgh Olde Town. Within the Bayes Centre. And running distance to Arthur’s Seat. (Reminding me of my first ICMS workshop in 2001 run with Mike […]",
+          "link": "https://xianblog.wordpress.com/2023/10/24/sequential-meetings-in-edinburgh/",
+          "publishedOn": "2023-10-23T22:23:53.000Z",
+          "wordCount": 2078,
+          "title": "sequential meetings in Edinburgh",
+          "imageUrl": "https://xianblog.files.wordpress.com/2014/06/edinburgh1.jpg"
+        },
+        {
           "id": "http://xianblog.wordpress.com/?p=54126",
           "author": "xi'an",
           "description": "A news entry in Nature of 25 Sept 23 is reporting on the grim period of Earth, 250 millions year away! By that time, continents will have drifted back, reunited into a new Pangaea supercontinent, Pangaea Ultima, which is likely to form around the equator, producing a deadly place where most life will go extinct. […]",
@@ -2743,21 +2753,6 @@
           "publishedOn": "2023-09-24T11:41:05.000Z",
           "wordCount": 3286,
           "title": "Sweden's renewed emphasis on books and handwriting",
-          "imageUrl": null
-        },
-        {
-          "id": "https://languagelog.ldc.upenn.edu/nll/?p=60690",
-          "author": "Mark Liberman",
-          "description": "It's clear that text-to-speech programs have gotten better and better over the past 60 years, technical details aside. The best current systems rarely make phrasing or letter-to-sound mistakes, and generally produce speech that sounds pretty natural on a phrase-by-phrase basis. (Though there's a lot of variation in quality, with some shockingly bad systems in common use.) […]",
-          "link": "https://languagelog.ldc.upenn.edu/nll/?p=60690&utm_source=rss&utm_medium=rss&utm_campaign=bad-ai-performance",
-          "publishedOn": "2023-09-24T11:09:34.000Z",
-          "wordCount": 2563,
-          "title": "Bad AI performance",
-          "enclosure": {
-            "url": "https://languagelog.ldc.upenn.edu/myl/AppleSamanthaWikipediaRainbowX1.wav",
-            "length": "706290",
-            "type": "audio/wav"
-          },
           "imageUrl": null
         }
       ]

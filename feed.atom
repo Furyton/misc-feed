@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-23T22:14:17.932Z</updated>
+    <updated>2023-10-23T23:15:10.692Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[sequential meetings in Edinburgh]]></title>
+        <id>http://xianblog.wordpress.com/?p=54265</id>
+        <link href="https://xianblog.wordpress.com/2023/10/24/sequential-meetings-in-edinburgh/"/>
+        <updated>2023-10-23T22:23:53.000Z</updated>
+        <summary type="html"><![CDATA[There will be not one but two consecutive events in Edinburgh next May²⁴ on sequential Monte Carlo methods! Both hosted by the fantastic International Centre for Mathematical Sciences (ICMS) in Edinburgh Olde Town. Within the Bayes Centre. And running distance to Arthur’s Seat. (Reminding me of my first ICMS workshop in 2001 run with Mike […]]]></summary>
+        <author>
+            <name>xi'an</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[MLIR — Dialect Conversion]]></title>
         <id>https://jeremykun.com/?p=120066</id>
@@ -2728,16 +2738,6 @@ Today, we're excited to announce that the Connectomics team at Google Research a
         <summary type="html"><![CDATA[Sweden brings more books and handwriting practice back to its tech-heavy schools Charlene Pele, AP (9/10/23) Accompanied by 10 photographs showing young children (3rd grade?) practicing handwriting. As young children went back to school across Sweden last month, many of their teachers were putting a new emphasis on printed books, quiet reading time and handwriting […]]]></summary>
         <author>
             <name>Victor Mair</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bad AI performance]]></title>
-        <id>https://languagelog.ldc.upenn.edu/nll/?p=60690</id>
-        <link href="https://languagelog.ldc.upenn.edu/nll/?p=60690&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=bad-ai-performance"/>
-        <updated>2023-09-24T11:09:34.000Z</updated>
-        <summary type="html"><![CDATA[It's clear that text-to-speech programs have gotten better and better over the past 60 years, technical details aside. The best current systems rarely make phrasing or letter-to-sound mistakes, and generally produce speech that sounds pretty natural on a phrase-by-phrase basis. (Though there's a lot of variation in quality, with some shockingly bad systems in common use.) […]]]></summary>
-        <author>
-            <name>Mark Liberman</name>
         </author>
     </entry>
 </feed>
