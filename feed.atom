@@ -2,10 +2,66 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-23T02:22:55.118Z</updated>
+    <updated>2023-10-23T03:15:48.542Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[DeepFDR: A Deep Learning-based False Discovery Rate Control Method for
+  Neuroimaging Data]]></title>
+        <id>http://arxiv.org/abs/2310.13349</id>
+        <link href="http://arxiv.org/abs/2310.13349"/>
+        <updated>2023-10-23T03:15:48.494Z</updated>
+        <summary type="html"><![CDATA[Taehyo Kim, Hai Shu, Qiran Jia, Mony de Leon]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Trained Transformers Learn Linear Models In-Context]]></title>
+        <id>http://arxiv.org/abs/2306.09927</id>
+        <link href="http://arxiv.org/abs/2306.09927"/>
+        <updated>2023-10-23T03:15:48.488Z</updated>
+        <summary type="html"><![CDATA[Ruiqi Zhang, Spencer Frei, Peter L. Bartlett]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Random Matrix Analysis to Balance between Supervised and Unsupervised
+  Learning under the Low Density Separation Assumption]]></title>
+        <id>http://arxiv.org/abs/2310.13434</id>
+        <link href="http://arxiv.org/abs/2310.13434"/>
+        <updated>2023-10-23T03:15:48.434Z</updated>
+        <summary type="html"><![CDATA[Vasilii Feofanov, Malik Tiomoko, Aladin Virmaux]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Towards Understanding Sycophancy in Language Models]]></title>
+        <id>http://arxiv.org/abs/2310.13548</id>
+        <link href="http://arxiv.org/abs/2310.13548"/>
+        <updated>2023-10-23T03:15:48.302Z</updated>
+        <summary type="html"><![CDATA[Mrinank Sharma, Meg Tong, Tomasz Korbak, David Duvenaud, Amanda
+  Askell, Samuel R. Bowman, Newton Cheng, Esin Durmus, Zac Hatfield-Dodds,
+  Scott R. Johnston, Shauna Kravec, Timothy Maxwell, Sam McCandlish, Kamal
+  Ndousse, Oliver Rausch, Nicholas Schiefer, Da Yan, Miranda Zhang, Ethan Perez]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Meta-learning of Physics-informed Neural Networks for Efficiently
+  Solving Newly Given PDEs]]></title>
+        <id>http://arxiv.org/abs/2310.13270</id>
+        <link href="http://arxiv.org/abs/2310.13270"/>
+        <updated>2023-10-23T03:15:48.283Z</updated>
+        <summary type="html"><![CDATA[Tomoharu Iwata, Yusuke Tanaka, Naonori Ueda]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[back to the future [no need!]]]></title>
         <id>http://xianblog.wordpress.com/?p=54126</id>
