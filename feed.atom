@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-23T10:16:40.649Z</updated>
+    <updated>2023-10-23T11:13:05.318Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -2728,16 +2728,6 @@ Today, we're excited to announce that the Connectomics team at Google Research a
         <summary type="html"><![CDATA[It's clear that text-to-speech programs have gotten better and better over the past 60 years, technical details aside. The best current systems rarely make phrasing or letter-to-sound mistakes, and generally produce speech that sounds pretty natural on a phrase-by-phrase basis. (Though there's a lot of variation in quality, with some shockingly bad systems in common use.) […]]]></summary>
         <author>
             <name>Mark Liberman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bayesian diﬀerential privacy for free?]]></title>
-        <id>http://xianblog.wordpress.com/?p=53957</id>
-        <link href="https://xianblog.wordpress.com/2023/09/24/bayesian-di%ef%ac%80erential-privacy-for-free/"/>
-        <updated>2023-09-23T22:23:06.000Z</updated>
-        <summary type="html"><![CDATA[“We are interested in the question of how we can build diﬀerentially-private algorithms within the Bayesian framework. More precisely, we examine when the choice of prior is suﬃcient to guarantee diﬀerential privacy for decisions that are derived from the posterior distribution (…) we show that the Bayesian statistician’s choice of prior distribution ensures a base […]]]></summary>
-        <author>
-            <name>xi'an</name>
         </author>
     </entry>
 </feed>
