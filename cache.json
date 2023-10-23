@@ -1859,6 +1859,16 @@
       "siteUrl": "https://jeremykun.com",
       "articles": [
         {
+          "id": "https://jeremykun.com/?p=120066",
+          "author": "Jeremy Kun",
+          "description": "Table of Contents In previous articles we defined a dialect, and wrote various passes to optimize and canonicalize a program using that dialect. However, one of the main tenets of MLIR is “incremental lowering,” the idea that there are lots of levels of IR granularity, and you incrementally lower different parts of the IR, only discarding information […]",
+          "link": "https://jeremykun.com/2023/10/23/mlir-dialect-conversion/",
+          "publishedOn": "2023-10-23T13:00:00.000Z",
+          "wordCount": 5621,
+          "title": "MLIR — Dialect Conversion",
+          "imageUrl": "https://s0.wp.com/i/blank.jpg"
+        },
+        {
           "id": "https://jeremykun.com/?p=120042",
           "author": "Jeremy Kun",
           "description": "Can you find a set of cards among these six, such that the socks on the chosen cards can be grouped into matching pairs? (Duplicate pairs of the same sock are OK) This is the objective of the game Socks, a card game originally designed by Anna Varvak, a math professor at Soka University of […]",

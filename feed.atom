@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-23T12:29:36.254Z</updated>
+    <updated>2023-10-23T13:19:14.642Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[MLIR — Dialect Conversion]]></title>
+        <id>https://jeremykun.com/?p=120066</id>
+        <link href="https://jeremykun.com/2023/10/23/mlir-dialect-conversion/"/>
+        <updated>2023-10-23T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Table of Contents In previous articles we defined a dialect, and wrote various passes to optimize and canonicalize a program using that dialect. However, one of the main tenets of MLIR is “incremental lowering,” the idea that there are lots of levels of IR granularity, and you incrementally lower different parts of the IR, only discarding information […]]]></summary>
+        <author>
+            <name>Jeremy Kun</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[DeepFDR: A Deep Learning-based False Discovery Rate Control Method for
   Neuroimaging Data]]></title>
