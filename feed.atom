@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-24T14:12:52.054Z</updated>
+    <updated>2023-10-24T15:16:49.878Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -2742,60 +2742,6 @@ Today, we're excited to announce that the Connectomics team at Google Research a
         <summary type="html"><![CDATA[Use 3D to visualize matrix multiplication expressions, attention heads with real weights, and more.]]></summary>
         <author>
             <name>PyTorch Website</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Hybrid Deep Learning-based Approach for Optimal Genotype by
-  Environment Selection]]></title>
-        <id>http://arxiv.org/abs/2309.13021</id>
-        <link href="http://arxiv.org/abs/2309.13021"/>
-        <updated>2023-09-25T03:15:26.640Z</updated>
-        <summary type="html"><![CDATA[Zahra Khalilzadeh, Motahareh Kashanian, Saeed Khaki, Lizhi Wang]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Multimodal Deep Learning for Scientific Imaging Interpretation]]></title>
-        <id>http://arxiv.org/abs/2309.12460</id>
-        <link href="http://arxiv.org/abs/2309.12460"/>
-        <updated>2023-09-25T03:15:25.861Z</updated>
-        <summary type="html"><![CDATA[Abdulelah S. Alshehri, Franklin L. Lee, Shihu Wang]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Exploring Transfer Learning in Medical Image Segmentation using
-  Vision-Language Models]]></title>
-        <id>http://arxiv.org/abs/2308.07706</id>
-        <link href="http://arxiv.org/abs/2308.07706"/>
-        <updated>2023-09-25T03:15:25.530Z</updated>
-        <summary type="html"><![CDATA[Kanchan Poudel, Manish Dhakal, Prasiddha Bhandari, Rabin Adhikari,
-  Safal Thapaliya, Bishesh Khanal]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Quantitative Gaussian Approximation of Randomly Initialized Deep Neural
-  Networks]]></title>
-        <id>http://arxiv.org/abs/2203.07379</id>
-        <link href="http://arxiv.org/abs/2203.07379"/>
-        <updated>2023-09-25T03:15:25.483Z</updated>
-        <summary type="html"><![CDATA[Andrea Basteri, Dario Trevisan]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BayesDLL: Bayesian Deep Learning Library]]></title>
-        <id>http://arxiv.org/abs/2309.12928</id>
-        <link href="http://arxiv.org/abs/2309.12928"/>
-        <updated>2023-09-25T03:15:25.385Z</updated>
-        <summary type="html"><![CDATA[Minyoung Kim, Timothy Hospedales]]></summary>
-        <author>
-            <name>arxivist feed</name>
         </author>
     </entry>
 </feed>
