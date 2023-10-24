@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-23T23:15:10.692Z</updated>
+    <updated>2023-10-24T01:04:43.011Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -2728,16 +2728,6 @@ Today, we're excited to announce that the Connectomics team at Google Research a
         <summary type="html"><![CDATA[“The algorithm can be made differentially private while remaining exact in the sense that its target distribution is the true posterior distribution conditioned on the private data (…) The main contribution of this paper arises from the simple  observation that the penalty algorithm has a built-in noise in its calculations which is not desirable in […]]]></summary>
         <author>
             <name>xi'an</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sweden's renewed emphasis on books and handwriting]]></title>
-        <id>https://languagelog.ldc.upenn.edu/nll/?p=60683</id>
-        <link href="https://languagelog.ldc.upenn.edu/nll/?p=60683&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=swedens-renewed-emphasis-on-books-and-handwriting"/>
-        <updated>2023-09-24T11:41:05.000Z</updated>
-        <summary type="html"><![CDATA[Sweden brings more books and handwriting practice back to its tech-heavy schools Charlene Pele, AP (9/10/23) Accompanied by 10 photographs showing young children (3rd grade?) practicing handwriting. As young children went back to school across Sweden last month, many of their teachers were putting a new emphasis on printed books, quiet reading time and handwriting […]]]></summary>
-        <author>
-            <name>Victor Mair</name>
         </author>
     </entry>
 </feed>
