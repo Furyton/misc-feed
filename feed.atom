@@ -2,10 +2,68 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-24T02:22:21.206Z</updated>
+    <updated>2023-10-24T03:16:46.036Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Fundamental Limits of Membership Inference Attacks on Machine Learning
+  Models]]></title>
+        <id>http://arxiv.org/abs/2310.13786</id>
+        <link href="http://arxiv.org/abs/2310.13786"/>
+        <updated>2023-10-24T03:16:45.979Z</updated>
+        <summary type="html"><![CDATA[Eric Aubinais, Elisabeth Gassiat, Pablo Piantanida]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Extended Deep Adaptive Input Normalization for Preprocessing Time Series
+  Data for Neural Networks]]></title>
+        <id>http://arxiv.org/abs/2310.14720</id>
+        <link href="http://arxiv.org/abs/2310.14720"/>
+        <updated>2023-10-24T03:16:45.750Z</updated>
+        <summary type="html"><![CDATA[Marcus A. K. September, Francesco Sanna Passino, Leonie Goldmann,
+  Anton Hinel]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Unifying O(3) Equivariant Neural Networks Design with Tensor-Network
+  Formalism]]></title>
+        <id>http://arxiv.org/abs/2211.07482</id>
+        <link href="http://arxiv.org/abs/2211.07482"/>
+        <updated>2023-10-24T03:16:21.336Z</updated>
+        <summary type="html"><![CDATA[Zimu Li, Zihan Pengmei, Han Zheng, Erik Thiede, Junyu Liu, Risi
+  Kondor]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Rigorous Link between Deep Ensembles and (Variational) Bayesian
+  Methods]]></title>
+        <id>http://arxiv.org/abs/2305.15027</id>
+        <link href="http://arxiv.org/abs/2305.15027"/>
+        <updated>2023-10-24T03:16:21.329Z</updated>
+        <summary type="html"><![CDATA[Veit David Wild, Sahra Ghalebikesabi, Dino Sejdinovic, Jeremias
+  Knoblauch]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learning the Visualness of Text Using Large Vision-Language Models]]></title>
+        <id>http://arxiv.org/abs/2305.10434</id>
+        <link href="http://arxiv.org/abs/2305.10434"/>
+        <updated>2023-10-24T03:16:21.310Z</updated>
+        <summary type="html"><![CDATA[Gaurav Verma, Ryan A. Rossi, Christopher Tensmeyer, Jiuxiang Gu, Ani
+  Nenkova]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[sequential meetings in Edinburgh]]></title>
         <id>http://xianblog.wordpress.com/?p=54265</id>
