@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-24T10:16:38.503Z</updated>
+    <updated>2023-10-24T11:12:30.313Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -2796,16 +2796,6 @@ Today, we're excited to announce that the Connectomics team at Google Research a
         <summary type="html"><![CDATA[Minyoung Kim, Timothy Hospedales]]></summary>
         <author>
             <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Exact MCMC with differentially private moves]]></title>
-        <id>http://xianblog.wordpress.com/?p=53975</id>
-        <link href="https://xianblog.wordpress.com/2023/09/25/exact-mcmc-with-differentially-private-moves/"/>
-        <updated>2023-09-24T22:23:27.000Z</updated>
-        <summary type="html"><![CDATA[“The algorithm can be made differentially private while remaining exact in the sense that its target distribution is the true posterior distribution conditioned on the private data (…) The main contribution of this paper arises from the simple  observation that the penalty algorithm has a built-in noise in its calculations which is not desirable in […]]]></summary>
-        <author>
-            <name>xi'an</name>
         </author>
     </entry>
 </feed>
