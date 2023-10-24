@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-24T07:13:45.296Z</updated>
+    <updated>2023-10-24T08:19:43.329Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[What is the maximum number of Tverberg’s partitions?]]></title>
+        <id>http://gilkalai.wordpress.com/?p=24764</id>
+        <link href="https://gilkalai.wordpress.com/2023/10/24/what-is-the-maximum-number-of-tverbergs-partitions/"/>
+        <updated>2023-10-24T07:44:49.000Z</updated>
+        <summary type="html"><![CDATA[The problem presented in this post was discussed in my recent lecture “New types of order types” in the workshop on discrete convexity and geometry in Budapest, a few weeks ago. The lecture described various results and questions including the … Continue reading →]]></summary>
+        <author>
+            <name>Gil Kalai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is the maximum number of Tverberg’s partitions?]]></title>
+        <id>http://gilkalai.wordpress.com/?p=24764</id>
+        <link href="https://gilkalai.wordpress.com/2023/10/24/what-is-the-maximum-number-of-tverbergs-partitions/"/>
+        <updated>2023-10-24T07:44:49.000Z</updated>
+        <summary type="html"><![CDATA[The problem presented in this post was discussed in my recent lecture “New types of order types” in the workshop on discrete convexity and geometry in Budapest, a few weeks ago. The lecture described various results and questions including the … Continue reading →]]></summary>
+        <author>
+            <name>Gil Kalai</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Fundamental Limits of Membership Inference Attacks on Machine Learning
   Models]]></title>
