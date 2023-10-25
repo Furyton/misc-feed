@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-25T14:14:10.120Z</updated>
+    <updated>2023-10-25T15:15:41.233Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -2721,50 +2721,6 @@ Today, we're excited to announce that the Connectomics team at Google Research a
         <summary type="html"><![CDATA[Many LL readers are familiar with the archeological site of Boğazköy-Hattusha in north-central Turkey, which was the capital of the Hittite Empire and the place where the Hittite Royal Archives (17th-13th c. BC) were discovered, making it the oldest historically attested Indo-European language (scattered Hittite words in Akkadian documents stretch back to the 20th c. […]]]></summary>
         <author>
             <name>Victor Mair</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Utilizing Expert Features for Contrastive Learning of Time-Series
-  Representations]]></title>
-        <id>http://arxiv.org/abs/2206.11517</id>
-        <link href="http://arxiv.org/abs/2206.11517"/>
-        <updated>2023-09-26T02:21:19.953Z</updated>
-        <summary type="html"><![CDATA[Manuel Nonnenmacher, Lukas Oldenburg, Ingo Steinwart, David Reeb]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Exploring and Interacting with the Set of Good Sparse Generalized
-  Additive Models]]></title>
-        <id>http://arxiv.org/abs/2303.16047</id>
-        <link href="http://arxiv.org/abs/2303.16047"/>
-        <updated>2023-09-26T02:21:19.947Z</updated>
-        <summary type="html"><![CDATA[Chudi Zhong, Zhi Chen, Margo Seltzer, Cynthia Rudin]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Benefits of Being Distributional: Small-Loss Bounds for
-  Reinforcement Learning]]></title>
-        <id>http://arxiv.org/abs/2305.15703</id>
-        <link href="http://arxiv.org/abs/2305.15703"/>
-        <updated>2023-09-26T02:21:18.545Z</updated>
-        <summary type="html"><![CDATA[Kaiwen Wang, Kevin Zhou, Runzhe Wu, Nathan Kallus, Wen Sun]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mode-Aware Continual Learning for Conditional Generative Adversarial
-  Networks]]></title>
-        <id>http://arxiv.org/abs/2305.11400</id>
-        <link href="http://arxiv.org/abs/2305.11400"/>
-        <updated>2023-09-26T02:21:18.537Z</updated>
-        <summary type="html"><![CDATA[Cat P. Le, Juncheng Dong, Ahmed Aloui, Vahid Tarokh]]></summary>
-        <author>
-            <name>arxivist feed</name>
         </author>
     </entry>
 </feed>
