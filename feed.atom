@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-25T13:17:58.466Z</updated>
+    <updated>2023-10-25T14:14:10.120Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -2765,16 +2765,6 @@ Today, we're excited to announce that the Connectomics team at Google Research a
         <summary type="html"><![CDATA[Cat P. Le, Juncheng Dong, Ahmed Aloui, Vahid Tarokh]]></summary>
         <author>
             <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[脑洞大开：非线性RNN居然也可以并行计算？]]></title>
-        <id>https://kexue.fm/archives/9783</id>
-        <link href="https://kexue.fm/archives/9783"/>
-        <updated>2023-09-26T02:03:00.000Z</updated>
-        <summary type="html"><![CDATA[近年来，线性RNN由于其可并行训练以及常数推理成本等特性，吸引了一定研究人员的关注（例如笔者之前写的《Google新作试图“复活”RNN：RNN能否再次辉煌？》），这让RNN在Transform...]]></summary>
-        <author>
-            <name>苏剑林</name>
         </author>
     </entry>
 </feed>
