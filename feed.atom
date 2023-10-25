@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-25T20:15:33.498Z</updated>
+    <updated>2023-10-25T21:12:39.882Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Swedish dictionary:  140 years in the making]]></title>
+        <id>https://languagelog.ldc.upenn.edu/nll/?p=61073</id>
+        <link href="https://languagelog.ldc.upenn.edu/nll/?p=61073&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=swedish-dictionary-140-years-in-the-making"/>
+        <updated>2023-10-25T20:40:14.000Z</updated>
+        <summary type="html"><![CDATA[Patience pays off: Official Swedish dictionary completed after 140 years One hundred and thirty-seven full-time employees have worked on Swedish Academy Dictionary over the years since 1883 Agence France-Presse in StockholmWed 25 Oct 2023 ———- The definitive record of the Swedish language has been completed after 140 years, with the dictionary’s final volume sent to […]]]></summary>
+        <author>
+            <name>Victor Mair</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What Algorithms can Transformers Learn? A Study in Length Generalization]]></title>
         <id>http://arxiv.org/abs/2310.16028</id>
@@ -2711,16 +2721,6 @@ The human brain is perhaps the most computationally complex machine in existence
 Today, we're excited to announce that the Connectomics team at Google Research and …]]></summary>
         <author>
             <name>Google AI Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A new Indo-European language]]></title>
-        <id>https://languagelog.ldc.upenn.edu/nll/?p=60750</id>
-        <link href="https://languagelog.ldc.upenn.edu/nll/?p=60750&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=a-new-indo-european-language"/>
-        <updated>2023-09-26T08:47:29.000Z</updated>
-        <summary type="html"><![CDATA[Many LL readers are familiar with the archeological site of Boğazköy-Hattusha in north-central Turkey, which was the capital of the Hittite Empire and the place where the Hittite Royal Archives (17th-13th c. BC) were discovered, making it the oldest historically attested Indo-European language (scattered Hittite words in Akkadian documents stretch back to the 20th c. […]]]></summary>
-        <author>
-            <name>Victor Mair</name>
         </author>
     </entry>
 </feed>
