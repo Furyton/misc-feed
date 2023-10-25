@@ -6,6 +6,46 @@
       "siteUrl": "https://www.arxivist.com",
       "articles": [
         {
+          "id": "http://arxiv.org/abs/2310.16028",
+          "author": null,
+          "description": "Hattie Zhou, Arwen Bradley, Etai Littwin, Noam Razin, Omid Saremi,\n  Josh Susskind, Samy Bengio, Preetum Nakkiran",
+          "link": "http://arxiv.org/abs/2310.16028",
+          "publishedOn": "2023-10-25T03:15:49.117Z",
+          "wordCount": 772,
+          "title": "What Algorithms can Transformers Learn? A Study in Length Generalization",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2305.17297",
+          "author": null,
+          "description": "Chinmaya Kausik, Kashvi Srivastava, Rishi Sonthalia",
+          "link": "http://arxiv.org/abs/2305.17297",
+          "publishedOn": "2023-10-25T03:15:49.093Z",
+          "wordCount": 832,
+          "title": "Denoising Low-Rank Data Under Distribution Shift: Double Descent and\n  Data Augmentation",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2310.15786",
+          "author": null,
+          "description": "Matthew Ashman, Tommy Rochussen, Adrian Weller",
+          "link": "http://arxiv.org/abs/2310.15786",
+          "publishedOn": "2023-10-25T03:15:49.014Z",
+          "wordCount": 633,
+          "title": "Amortised Inference in Neural Networks for Small-Scale Probabilistic\n  Meta-Learning",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2310.16035",
+          "author": null,
+          "description": "Joy Hsu, Jiayuan Mao, Joshua B. Tenenbaum, Jiajun Wu",
+          "link": "http://arxiv.org/abs/2310.16035",
+          "publishedOn": "2023-10-25T03:15:48.991Z",
+          "wordCount": 755,
+          "title": "What's Left? Concept Grounding with Logic-Enhanced Foundation Models",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
           "id": "http://arxiv.org/abs/2310.13786",
           "author": null,
           "description": "Eric Aubinais, Elisabeth Gassiat, Pablo Piantanida",
