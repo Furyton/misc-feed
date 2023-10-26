@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-26T09:14:37.444Z</updated>
+    <updated>2023-10-26T10:15:58.902Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -493,6 +493,16 @@ The post 帧同步游戏中使用 Run-Ahead 隐藏输入延迟 appeared first on
         <summary type="html"><![CDATA[Here we go again, but this time on a grander and more dramatic scale: Pras Michel of Fugees seeks new trial, contends former attorney used AI for closing argument The hip-hop artist convicted on campaign finance and foreign influence charges seeks to set aside the jury’s guilty verdicts. By Josh Bernstein, Politico (1016/23) Notice the […]]]></summary>
         <author>
             <name>Victor Mair</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Evaluating social and ethical risks from generative AI]]></title>
+        <id>https://deepmind.google/discover/blog/evaluating-social-and-ethical-risks-from-generative-ai/</id>
+        <link href="https://deepmind.google/discover/blog/evaluating-social-and-ethical-risks-from-generative-ai/"/>
+        <updated>2023-10-19T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Introducing a context-based framework for comprehensively evaluating the social and ethical risks of AI systems]]></summary>
+        <author>
+            <name>DeepMind Blog</name>
         </author>
     </entry>
     <entry>
@@ -1929,6 +1939,16 @@ Using methods designed for planar images to process spherical signals is problem
         <summary type="html"><![CDATA[An educated person will have all four levels of speech. The more highly educated they are, the higher up the scale their language capacity will go, though they may not be familiar with some of the argot of the lower levels. Of course, all four levels are language, but that is possible because "language" has […]]]></summary>
         <author>
             <name>Victor Mair</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Scaling up learning across many different robot types]]></title>
+        <id>https://deepmind.google/discover/blog/scaling-up-learning-across-many-different-robot-types/</id>
+        <link href="https://deepmind.google/discover/blog/scaling-up-learning-across-many-different-robot-types/"/>
+        <updated>2023-10-03T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Robots are great specialists, but poor generalists. Typically, you have to train a model for each task, robot, and environment. Changing a single variable often requires starting from scratch. But what if we could combine the knowledge across robotics and create a way to train a general-purpose robot?]]></summary>
+        <author>
+            <name>DeepMind Blog</name>
         </author>
     </entry>
     <entry>
