@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-26T15:15:09.736Z</updated>
+    <updated>2023-10-26T16:19:00.143Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The sound of ancient Iranian languages]]></title>
+        <id>https://languagelog.ldc.upenn.edu/nll/?p=61079</id>
+        <link href="https://languagelog.ldc.upenn.edu/nll/?p=61079&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=the-sound-of-ancient-iranian-languages"/>
+        <updated>2023-10-26T15:40:19.000Z</updated>
+        <summary type="html"><![CDATA[From Hiroshi Kumamoto: Old Iranian Languages Proto-Iranian Old Persian Avestan Middle Persian Parthian Sogdian Alanian Khotanese Bactrian Khwarezmian The Sound of the Sogdian language (Numbers, Words & Sample Text) The Sound of the Khwarezmian language (Numbers, Words & Sample Text) Sound of ANCIENT east iranic (Tajik) languages (Sogdian, Saka Khotanese, Bactrian & Khwārezmian) EASTERN IRANIC […]]]></summary>
+        <author>
+            <name>Victor Mair</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Learning Bayesian Networks with Heterogeneous Agronomic Data Sets via
   Mixed-Effect Models and Hierarchical Clustering]]></title>
