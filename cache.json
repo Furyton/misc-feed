@@ -6,6 +6,56 @@
       "siteUrl": "https://www.arxivist.com",
       "articles": [
         {
+          "id": "http://arxiv.org/abs/2308.06399",
+          "author": null,
+          "description": "Lorenzo Valleggi, Marco Scutari, Federico Mattia Stefanini",
+          "link": "http://arxiv.org/abs/2308.06399",
+          "publishedOn": "2023-10-26T02:20:16.183Z",
+          "wordCount": 804,
+          "title": "Learning Bayesian Networks with Heterogeneous Agronomic Data Sets via\n  Mixed-Effect Models and Hierarchical Clustering",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2305.15141",
+          "author": null,
+          "description": "Guy Kornowski, Gilad Yehudai, Ohad Shamir",
+          "link": "http://arxiv.org/abs/2305.15141",
+          "publishedOn": "2023-10-26T02:20:04.097Z",
+          "wordCount": 758,
+          "title": "From Tempered to Benign Overfitting in ReLU Neural Networks",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2310.16834",
+          "author": null,
+          "description": "Aaron Lou, Chenlin Meng, Stefano Ermon",
+          "link": "http://arxiv.org/abs/2310.16834",
+          "publishedOn": "2023-10-26T02:20:03.787Z",
+          "wordCount": 732,
+          "title": "Discrete Diffusion Language Modeling by Estimating the Ratios of the\n  Data Distribution",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2310.16597",
+          "author": null,
+          "description": "Thiziri Nait-Saada, Alireza Naderi, Jared Tanner",
+          "link": "http://arxiv.org/abs/2310.16597",
+          "publishedOn": "2023-10-26T02:20:03.740Z",
+          "wordCount": 695,
+          "title": "Beyond IID weights: sparse and low-rank deep Neural Networks are also\n  Gaussian Processes",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2306.09338",
+          "author": null,
+          "description": "Xianbiao Qi, Jianan Wang, Lei Zhang",
+          "link": "http://arxiv.org/abs/2306.09338",
+          "publishedOn": "2023-10-26T02:20:03.039Z",
+          "wordCount": 810,
+          "title": "Understanding Optimization of Deep Learning via Jacobian Matrix and\n  Lipschitz Constant",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
           "id": "http://arxiv.org/abs/2310.16028",
           "author": null,
           "description": "Hattie Zhou, Arwen Bradley, Etai Littwin, Noam Razin, Omid Saremi,\n  Josh Susskind, Samy Bengio, Preetum Nakkiran",
@@ -2366,16 +2416,6 @@
           "wordCount": 27704,
           "title": "Re-weighted gradient descent via distributionally robust optimization",
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhONjsYNtXi5AX4ZZ6qPfdY2Gwt2W5xZy1PF1m9ZaxucZtRZ5ZzmsNzHNNWkCKcpX1_n15DkZCR59ivF_uDCUUmbdijaAuiK3tlC9HahtKc1s1r6pQWwbwMhnuNK3Guu5G5QigWU6p4yaJXCBLvIosDHXwtyhxMVfplzK4wTXiwCwOGo1B2aFidcgtaZfN_/w1200-h630-p-k-no-nu/hero%20RGD.jpg"
-        },
-        {
-          "id": "http://blog.research.google/2023/09/google-research-embarks-on-effort-to.html",
-          "author": null,
-          "description": "Posted by Michał Januszewski, Research Scientist, Google Research\n\n\n\n\n\n\nThe human brain is perhaps the most computationally complex machine in existence, consisting of networks of billions of cells. Researchers currently don’t understand the full picture of how glitches in its network machinery contribute to mental illnesses and other diseases, such as dementia. However, the emerging connectomics field, which aims to precisely map the connections between every cell in the brain, could help solve that problem. While maps have only been created for simpler organisms, technological advances for mapping even larger brains can enable us to understand how the human brain works, and how to treat brain diseases.\n\n\n\nToday, we're excited to announce that the Connectomics team at Google Research and …",
-          "link": "http://blog.research.google/2023/09/google-research-embarks-on-effort-to.html",
-          "publishedOn": "2023-09-26T14:10:00.000Z",
-          "wordCount": 27682,
-          "title": "Google Research embarks on effort to map a mouse brain",
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgFf6_wflZxOT_rmYJu0VCRvigHGMvE2QXwYJeh6F7GHmxnEtg7_bEraidqQ8uii_-N5EtBr2LfOGV_ccWS2g1Qcjssq2HmmGCqbaL_ij-UroaO6JtJVhyNbxK5PN57OfVlmkfXGSg3DMFawUlj1btghs5Nb9tmvQVSZH3pDoLK0SoKlhMh028164YArWcc/w1200-h630-p-k-no-nu/connectome%20600x580.gif"
         }
       ]
     },

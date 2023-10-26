@@ -2,10 +2,64 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-26T01:03:24.971Z</updated>
+    <updated>2023-10-26T02:20:16.222Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Learning Bayesian Networks with Heterogeneous Agronomic Data Sets via
+  Mixed-Effect Models and Hierarchical Clustering]]></title>
+        <id>http://arxiv.org/abs/2308.06399</id>
+        <link href="http://arxiv.org/abs/2308.06399"/>
+        <updated>2023-10-26T02:20:16.183Z</updated>
+        <summary type="html"><![CDATA[Lorenzo Valleggi, Marco Scutari, Federico Mattia Stefanini]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[From Tempered to Benign Overfitting in ReLU Neural Networks]]></title>
+        <id>http://arxiv.org/abs/2305.15141</id>
+        <link href="http://arxiv.org/abs/2305.15141"/>
+        <updated>2023-10-26T02:20:04.097Z</updated>
+        <summary type="html"><![CDATA[Guy Kornowski, Gilad Yehudai, Ohad Shamir]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Discrete Diffusion Language Modeling by Estimating the Ratios of the
+  Data Distribution]]></title>
+        <id>http://arxiv.org/abs/2310.16834</id>
+        <link href="http://arxiv.org/abs/2310.16834"/>
+        <updated>2023-10-26T02:20:03.787Z</updated>
+        <summary type="html"><![CDATA[Aaron Lou, Chenlin Meng, Stefano Ermon]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Beyond IID weights: sparse and low-rank deep Neural Networks are also
+  Gaussian Processes]]></title>
+        <id>http://arxiv.org/abs/2310.16597</id>
+        <link href="http://arxiv.org/abs/2310.16597"/>
+        <updated>2023-10-26T02:20:03.740Z</updated>
+        <summary type="html"><![CDATA[Thiziri Nait-Saada, Alireza Naderi, Jared Tanner]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Understanding Optimization of Deep Learning via Jacobian Matrix and
+  Lipschitz Constant]]></title>
+        <id>http://arxiv.org/abs/2306.09338</id>
+        <link href="http://arxiv.org/abs/2306.09338"/>
+        <updated>2023-10-26T02:20:03.039Z</updated>
+        <summary type="html"><![CDATA[Xianbiao Qi, Jianan Wang, Lei Zhang]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[bibliothèque Schœlcher [jatp]]]></title>
         <id>http://xianblog.wordpress.com/?p=54282</id>
@@ -2710,27 +2764,6 @@ Deep neural networks (DNNs) have become essential for solving a wide range of ta
         <summary type="html"><![CDATA[Recent article in Scientific American: This Ancient Language Has the Only Grammar Based Entirely on the Human Body An endangered language family suggests that early humans used their bodies as a model for reality By Anvita Abbi on June 1, 2023 From just a small handful of Andaman Islanders, the last speakers of their languages, […]]]></summary>
         <author>
             <name>Victor Mair</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google Research embarks on effort to map a mouse brain]]></title>
-        <id>http://blog.research.google/2023/09/google-research-embarks-on-effort-to.html</id>
-        <link href="http://blog.research.google/2023/09/google-research-embarks-on-effort-to.html"/>
-        <updated>2023-09-26T14:10:00.000Z</updated>
-        <summary type="html"><![CDATA[Posted by Michał Januszewski, Research Scientist, Google Research
-
-
-
-
-
-
-The human brain is perhaps the most computationally complex machine in existence, consisting of networks of billions of cells. Researchers currently don’t understand the full picture of how glitches in its network machinery contribute to mental illnesses and other diseases, such as dementia. However, the emerging connectomics field, which aims to precisely map the connections between every cell in the brain, could help solve that problem. While maps have only been created for simpler organisms, technological advances for mapping even larger brains can enable us to understand how the human brain works, and how to treat brain diseases.
-
-
-
-Today, we're excited to announce that the Connectomics team at Google Research and …]]></summary>
-        <author>
-            <name>Google AI Blog</name>
         </author>
     </entry>
 </feed>
