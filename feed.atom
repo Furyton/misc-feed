@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-27T12:28:13.529Z</updated>
+    <updated>2023-10-27T13:17:15.095Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Midori]]></title>
+        <id>https://languagelog.ldc.upenn.edu/nll/?p=61085</id>
+        <link href="https://languagelog.ldc.upenn.edu/nll/?p=61085&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=midori"/>
+        <updated>2023-10-27T12:51:03.000Z</updated>
+        <summary type="html"><![CDATA[Michael Watts just wrote this comment on another post, and I thought it was interesting enough to deserve a post of its own: I've been wondering about a claim that appears on wiktionary. The entry for the Japanese word "midori", spelled 緑 or in older form 綠, states that the word is from Old Japanese, […]]]></summary>
+        <author>
+            <name>Victor Mair</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Petition by CS & Math Laureates: Freedom for kidnapped children]]></title>
         <id>http://windowsontheory.org/?p=8704</id>
@@ -2695,58 +2705,6 @@ Deep neural networks (DNNs) have become essential for solving a wide range of ta
         <link href="http://arxiv.org/abs/2209.14440"/>
         <updated>2023-09-28T03:15:15.455Z</updated>
         <summary type="html"><![CDATA[Andrew Gracyk, Xiaohui Chen]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Representations having vectors fixed by a Levi subgroup]]></title>
-        <id>http://arxiv.org/abs/2002.10928</id>
-        <link href="http://arxiv.org/abs/2002.10928"/>
-        <updated>2023-09-28T01:04:22.233Z</updated>
-        <summary type="html"><![CDATA[Ilia Smilga]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Optimal Sparse Decision Trees]]></title>
-        <id>http://arxiv.org/abs/1904.12847</id>
-        <link href="http://arxiv.org/abs/1904.12847"/>
-        <updated>2023-09-28T01:04:22.189Z</updated>
-        <summary type="html"><![CDATA[Xiyang Hu, Cynthia Rudin, Margo Seltzer]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Understanding North Atlantic Climate Instabilities and Complex
-  Interactions using Data Science]]></title>
-        <id>http://arxiv.org/abs/2001.10171</id>
-        <link href="http://arxiv.org/abs/2001.10171"/>
-        <updated>2023-09-28T01:04:22.153Z</updated>
-        <summary type="html"><![CDATA[Alka Yadav, Sourish Das, Anirban Chakraborti]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Improving the convergence of SGD through adaptive batch sizes]]></title>
-        <id>http://arxiv.org/abs/1910.08222</id>
-        <link href="http://arxiv.org/abs/1910.08222"/>
-        <updated>2023-09-28T01:04:22.146Z</updated>
-        <summary type="html"><![CDATA[Scott Sievert, Shrey Shah]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A differential model for B-type Landau-Ginzburg theories]]></title>
-        <id>http://arxiv.org/abs/1709.00684</id>
-        <link href="http://arxiv.org/abs/1709.00684"/>
-        <updated>2023-09-28T01:04:21.912Z</updated>
-        <summary type="html"><![CDATA[Elena Mirela Babalic, Dmitry Doryn, Calin Iuliu Lazaroiu, Mehdi
-  Tavakol]]></summary>
         <author>
             <name>arxivist feed</name>
         </author>
