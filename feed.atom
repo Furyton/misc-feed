@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-27T22:13:36.466Z</updated>
+    <updated>2023-10-27T23:14:25.392Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[off to Luminy [Autumn school in Bayesian statistics]]]></title>
+        <id>http://xianblog.wordpress.com/?p=54309</id>
+        <link href="https://xianblog.wordpress.com/2023/10/28/off-to-luminy-autumn-school-in-bayesian-statistics-2/"/>
+        <updated>2023-10-27T22:23:04.000Z</updated>
+        <summary type="html"><![CDATA[Visit the post for more.]]></summary>
+        <author>
+            <name>xi'an</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Harvard, we have a problem]]></title>
         <id>http://windowsontheory.org/?p=8717</id>
@@ -2654,26 +2664,6 @@ In “DynIBaR: Neural Dynamic Image-Based Rendering”, a best paper honorable m
 Deep neural networks (DNNs) have become essential for solving a wide range of tasks, from standard supervised learning (image classification using ViT) to meta-learning. The most commonly-used paradigm for learning DNNs is empirical risk minimization (ERM), which aims to identify a network that minimizes the average loss on training data points. Several algorithms, including stochastic gradient descent (SGD), Adam, and Adagrad, have been proposed for solving ERM. However, a drawback of ERM is that it weights all the samples equally, often ignoring the rare and more difficult samples, and focusing on the easier and abundant samples. This leads to suboptimal performance on unseen data, espe…]]></summary>
         <author>
             <name>Google AI Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[international safe abortion day]]></title>
-        <id>http://xianblog.wordpress.com/?p=54140</id>
-        <link href="https://xianblog.wordpress.com/2023/09/28/international-safe-abortion-day-2/"/>
-        <updated>2023-09-28T10:23:12.000Z</updated>
-        <summary type="html"><![CDATA[Visit the post for more.]]></summary>
-        <author>
-            <name>xi'an</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kimchee is Korean]]></title>
-        <id>https://languagelog.ldc.upenn.edu/nll/?p=60759</id>
-        <link href="https://languagelog.ldc.upenn.edu/nll/?p=60759&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=kimchee-is-korean"/>
-        <updated>2023-09-28T10:17:26.000Z</updated>
-        <summary type="html"><![CDATA[Not Chinese.  Do you understand? This has long been a cabbage of contention, but make no mistake about it:  fermented kimchee / kimchi  (gimchi 김치 (IPA [kim.tɕʰi]) (lit., "soaked [in their own juices of fermentation] vegetables") is not the same thing as pickled paocai / pao tsai 泡菜 (lit., "soaked [in brine] vegetables"). Kimchee and […]]]></summary>
-        <author>
-            <name>Victor Mair</name>
         </author>
     </entry>
 </feed>
