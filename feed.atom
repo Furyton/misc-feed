@@ -2,10 +2,64 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-27T01:03:40.234Z</updated>
+    <updated>2023-10-27T02:20:24.856Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Characterizing the Implicit Bias of Regularized SGD in Rank Minimization]]></title>
+        <id>http://arxiv.org/abs/2206.05794</id>
+        <link href="http://arxiv.org/abs/2206.05794"/>
+        <updated>2023-10-27T02:20:24.824Z</updated>
+        <summary type="html"><![CDATA[Tomer Galanti, Zachary S. Siegel, Aparna Gupte, Tomaso Poggio]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Improving Few-Shot Learning through Multi-task Representation Learning
+  Theory]]></title>
+        <id>http://arxiv.org/abs/2010.01992</id>
+        <link href="http://arxiv.org/abs/2010.01992"/>
+        <updated>2023-10-27T02:20:24.802Z</updated>
+        <summary type="html"><![CDATA[Quentin Bouniot, Ievgen Redko, Romaric Audigier, Ang\'elique Loesch,
+  Amaury Habrard]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Squared Neural Families: A New Class of Tractable Density Models]]></title>
+        <id>http://arxiv.org/abs/2305.13552</id>
+        <link href="http://arxiv.org/abs/2305.13552"/>
+        <updated>2023-10-27T02:20:21.689Z</updated>
+        <summary type="html"><![CDATA[Russell Tsuchida, Cheng Soon Ong, Dino Sejdinovic]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mind the spikes: Benign overfitting of kernels and neural networks in
+  fixed dimension]]></title>
+        <id>http://arxiv.org/abs/2305.14077</id>
+        <link href="http://arxiv.org/abs/2305.14077"/>
+        <updated>2023-10-27T02:20:20.792Z</updated>
+        <summary type="html"><![CDATA[Moritz Haas, David Holzm\"uller, Ulrike von Luxburg, Ingo Steinwart]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Neural Collapse Perspective on Feature Evolution in Graph Neural
+  Networks]]></title>
+        <id>http://arxiv.org/abs/2307.01951</id>
+        <link href="http://arxiv.org/abs/2307.01951"/>
+        <updated>2023-10-27T02:20:16.040Z</updated>
+        <summary type="html"><![CDATA[Vignesh Kothapalli, Tom Tirer, Joan Bruna]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[downtown Fort-de-France [jatp]]]></title>
         <id>http://xianblog.wordpress.com/?p=54292</id>
@@ -2685,16 +2739,6 @@ Deep neural networks (DNNs) have become essential for solving a wide range of ta
         <summary type="html"><![CDATA[Now that the invited sessions have been selected by the scientific committee of ISBA²⁴ (with both sessions in which I am involved, Bayesian data privacy and The future of ISBA conferences, accepted), the call is open for contributed talks, with deadline 17 November. (If  this helps in making a proposal, childcare will be available during […]]]></summary>
         <author>
             <name>xi'an</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Reversal Curse]]></title>
-        <id>https://languagelog.ldc.upenn.edu/nll/?p=60766</id>
-        <link href="https://languagelog.ldc.upenn.edu/nll/?p=60766&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=the-reversal-curse"/>
-        <updated>2023-09-27T13:57:15.000Z</updated>
-        <summary type="html"><![CDATA[An interesting recent paper — Lukas Berglund, Meg Tong, Max Kaufmann, Mikita Balesni, Asa Cooper Stickland, Tomasz Korbak, and Owain Evans,"The Reversal Curse: LLMs trained on 'A is B' fail to learn 'B is A'", arXiv.org 9/21/2023. The abstract: We expose a surprising failure of generalization in auto-regressive large language models (LLMs). If a model […]]]></summary>
-        <author>
-            <name>Mark Liberman</name>
         </author>
     </entry>
 </feed>
