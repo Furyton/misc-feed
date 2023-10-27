@@ -1164,56 +1164,6 @@
           "wordCount": 724,
           "title": "Data Augmentation in the Underparameterized and Overparameterized\n  Regimes",
           "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
-        },
-        {
-          "id": "http://arxiv.org/abs/2308.12013",
-          "author": null,
-          "description": "Marco Parigi, Stefano Martina, Filippo Caruso",
-          "link": "http://arxiv.org/abs/2308.12013",
-          "publishedOn": "2023-09-28T03:15:19.646Z",
-          "wordCount": 754,
-          "title": "Quantum-Noise-driven Generative Diffusion Models",
-          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
-        },
-        {
-          "id": "http://arxiv.org/abs/2301.05567",
-          "author": null,
-          "description": "Sergei Manzhos, Manabu Ihara",
-          "link": "http://arxiv.org/abs/2301.05567",
-          "publishedOn": "2023-09-28T03:15:16.432Z",
-          "wordCount": 730,
-          "title": "Neural network with optimal neuron activation functions based on\n  additive Gaussian process regression",
-          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
-        },
-        {
-          "id": "http://arxiv.org/abs/2309.15427",
-          "author": null,
-          "description": "Yijun Tian, Huan Song, Zichen Wang, Haozhu Wang, Ziqing Hu, Fang Wang,\n  Nitesh V. Chawla, Panpan Xu",
-          "link": "http://arxiv.org/abs/2309.15427",
-          "publishedOn": "2023-09-28T03:15:16.311Z",
-          "wordCount": 656,
-          "title": "Graph Neural Prompting with Large Language Models",
-          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
-        },
-        {
-          "id": "http://arxiv.org/abs/2307.15285",
-          "author": null,
-          "description": "Jonathan W. Siegel",
-          "link": "http://arxiv.org/abs/2307.15285",
-          "publishedOn": "2023-09-28T03:15:15.778Z",
-          "wordCount": 647,
-          "title": "Optimal Approximation of Zonoids and Uniform Approximation by Shallow\n  Neural Networks",
-          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
-        },
-        {
-          "id": "http://arxiv.org/abs/2209.14440",
-          "author": null,
-          "description": "Andrew Gracyk, Xiaohui Chen",
-          "link": "http://arxiv.org/abs/2209.14440",
-          "publishedOn": "2023-09-28T03:15:15.455Z",
-          "wordCount": 695,
-          "title": "GeONet: a neural operator for learning the Wasserstein geodesic",
-          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
         }
       ]
     },
@@ -1298,6 +1248,16 @@
       "feedUrl": "https://windowsontheory.org/feed/",
       "siteUrl": "https://windowsontheory.org",
       "articles": [
+        {
+          "id": "http://windowsontheory.org/?p=8717",
+          "author": "Boaz Barak",
+          "description": "[I was hoping for this piece to be posted as an op-ed in the Crimson, since I really want to reach students that are well-intentioned but may not realize they are harmful. However, it was rejected and so I am posting this here] The events of October 7th, 2023, hit many Israeli-Americans personally. My immediate … Continue reading Harvard, we have a problem",
+          "link": "https://windowsontheory.org/2023/10/27/harvard-we-have-a-problem/",
+          "publishedOn": "2023-10-27T16:10:53.000Z",
+          "wordCount": 4002,
+          "title": "Harvard, we have a problem",
+          "imageUrl": "https://s0.wp.com/i/blank.jpg"
+        },
         {
           "id": "http://windowsontheory.org/?p=8704",
           "author": "Boaz Barak",
@@ -2254,6 +2214,16 @@
       "feedUrl": "https://windowsontheory.org/feed/",
       "siteUrl": "https://windowsontheory.org",
       "articles": [
+        {
+          "id": "http://windowsontheory.org/?p=8717",
+          "author": "Boaz Barak",
+          "description": "[I was hoping for this piece to be posted as an op-ed in the Crimson, since I really want to reach students that are well-intentioned but may not realize they are harmful. However, it was rejected and so I am posting this here] The events of October 7th, 2023, hit many Israeli-Americans personally. My immediate … Continue reading Harvard, we have a problem",
+          "link": "https://windowsontheory.org/2023/10/27/harvard-we-have-a-problem/",
+          "publishedOn": "2023-10-27T16:10:53.000Z",
+          "wordCount": 4002,
+          "title": "Harvard, we have a problem",
+          "imageUrl": "https://s0.wp.com/i/blank.jpg"
+        },
         {
           "id": "http://windowsontheory.org/?p=8704",
           "author": "Boaz Barak",
