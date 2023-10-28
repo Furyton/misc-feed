@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-28T07:12:47.886Z</updated>
+    <updated>2023-10-28T08:16:40.654Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -2638,28 +2638,6 @@ Where: Stats Common Room]]></summary>
         <summary type="html"><![CDATA[On the plane back from Vancouver, I read Bertrand’s Paradox Resolution and Its Implications for the Bing–Fisher Problem by Richard A. Chechile [who had pointed out his paper to me] In this paper, Chechile considers the Bayesian connections/sequences of Betrand’s paradox, as he sees it Bertrand’s different solutions/paradox to be “designed to illustrate his dissatisfaction […]]]></summary>
         <author>
             <name>xi'an</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DynIBaR: Space-time view synthesis from videos of dynamic scenes]]></title>
-        <id>http://blog.research.google/2023/09/dynibar-space-time-view-synthesis-from.html</id>
-        <link href="http://blog.research.google/2023/09/dynibar-space-time-view-synthesis-from.html"/>
-        <updated>2023-09-28T20:01:00.000Z</updated>
-        <summary type="html"><![CDATA[Posted by Zhengqi Li and Noah Snavely, Research Scientists, Google Research
-
-
-
-
-
-
-
-A mobile phone’s camera is a powerful tool for capturing everyday moments. However, capturing a dynamic scene using a single camera is fundamentally limited. For instance, if we wanted to adjust the camera motion or timing of a recorded video (e.g., to freeze time while sweeping the camera around to highlight a dramatic moment), we would typically need an expensive Hollywood setup with a synchronized camera rig. Would it be possible to achieve similar effects solely from a video captured using a mobile phone’s camera, without a Hollywood budget?
-
-
-
-In “DynIBaR: Neural Dynamic Image-Based Rendering”, a best paper honorable mention at CVPR 2023, we describe a new method that generates photorealistic free-viewp…]]></summary>
-        <author>
-            <name>Google AI Blog</name>
         </author>
     </entry>
 </feed>

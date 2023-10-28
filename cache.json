@@ -2326,16 +2326,6 @@
           "wordCount": 28287,
           "title": "Google at ICCV 2023",
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVnC8dDc8c44GFT7cAZh8PfC8_Mpt4h1rhl-uNMNGoGlNCAZVsT51z89pMqEcVgwa7UPUuvXlr07PpOJlxomCAyRRTOEssXQxDwm4SX8J4JC_63fKWKywHLuqPHBLRZLl4yYIC311eAXC4r47i1zeZoPg2OXhjxuBmzVXCFn5MrJtH7QhZtMLKzzFvXyvx/w1200-h630-p-k-no-nu/ICCV%20hero.jpg"
-        },
-        {
-          "id": "http://blog.research.google/2023/09/dynibar-space-time-view-synthesis-from.html",
-          "author": null,
-          "description": "Posted by Zhengqi Li and Noah Snavely, Research Scientists, Google Research\n\n\n\n\n\n\n\nA mobile phone’s camera is a powerful tool for capturing everyday moments. However, capturing a dynamic scene using a single camera is fundamentally limited. For instance, if we wanted to adjust the camera motion or timing of a recorded video (e.g., to freeze time while sweeping the camera around to highlight a dramatic moment), we would typically need an expensive Hollywood setup with a synchronized camera rig. Would it be possible to achieve similar effects solely from a video captured using a mobile phone’s camera, without a Hollywood budget?\n\n\n\nIn “DynIBaR: Neural Dynamic Image-Based Rendering”, a best paper honorable mention at CVPR 2023, we describe a new method that generates photorealistic free-viewp…",
-          "link": "http://blog.research.google/2023/09/dynibar-space-time-view-synthesis-from.html",
-          "publishedOn": "2023-09-28T20:01:00.000Z",
-          "wordCount": 27708,
-          "title": "DynIBaR: Space-time view synthesis from videos of dynamic scenes",
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhGX53UfU9eWiSTRWdkrUWNln3KGyagkwfUi_38zEihOJ2qLkmQ-3yNsuJJ7SkJ-BTLlVrxJlyoEYl7-tAer6v4MnIAw49TWLGWa8cFgl_c_2WUJqw1O3J8nVhU-VtVwO5Z-bq7rH6pZj7APe5yDZCUSZyeDO39shlGFkVsSQDd1ZWYUT0eDmeJ9JLoWlA3/w1200-h630-p-k-no-nu/hero.gif"
         }
       ]
     },
