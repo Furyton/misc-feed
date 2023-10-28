@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-28T12:25:45.872Z</updated>
+    <updated>2023-10-28T13:15:13.007Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Sanaaq, the first novel written in Inuktitut syllabics in Canada]]></title>
+        <id>https://languagelog.ldc.upenn.edu/nll/?p=61088</id>
+        <link href="https://languagelog.ldc.upenn.edu/nll/?p=61088&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=sanaaq-the-first-novel-written-in-inuktitut-syllabics-in-canada"/>
+        <updated>2023-10-28T13:08:41.000Z</updated>
+        <summary type="html"><![CDATA[Long, richly illustrated, highly biographical article in CBC (10/8/23): Writing the story of a changing North In the 1950s, Mitiarjuk Nappaaluk began Sanaaq, which would end up becoming the first novel written in Inuktitut. Her words continue to inform our understanding of Inuit life. By Pauline Holdsworth   Shortly after receiving notice that the Norwegian […]]]></summary>
+        <author>
+            <name>Victor Mair</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CB-HVTNet: A channel-boosted hybrid vision transformer network for
   lymphocyte assessment in histopathological images]]></title>
@@ -2574,60 +2584,6 @@ Where: Stats Common Room]]></summary>
 Where: Stats Common Room]]></summary>
         <author>
             <name>Statistics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dynamic Selection in Algorithmic Decision-making]]></title>
-        <id>http://arxiv.org/abs/2108.12547</id>
-        <link href="http://arxiv.org/abs/2108.12547"/>
-        <updated>2023-09-29T01:04:29.683Z</updated>
-        <summary type="html"><![CDATA[Jin Li, Ye Luo, Xiaowei Zhang]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Quantum Self-Attention Neural Networks for Text Classification]]></title>
-        <id>http://arxiv.org/abs/2205.05625</id>
-        <link href="http://arxiv.org/abs/2205.05625"/>
-        <updated>2023-09-29T01:04:29.678Z</updated>
-        <summary type="html"><![CDATA[Guangxi Li, Xuanqiang Zhao, Xin Wang]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Private Stochastic Optimization With Large Worst-Case Lipschitz
-  Parameter: Optimal Rates for (Non-Smooth) Convex Losses and Extension to
-  Non-Convex Losses]]></title>
-        <id>http://arxiv.org/abs/2209.07403</id>
-        <link href="http://arxiv.org/abs/2209.07403"/>
-        <updated>2023-09-29T01:04:29.450Z</updated>
-        <summary type="html"><![CDATA[Andrew Lowy, Meisam Razaviyayn]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HyperBO+: Pre-training a universal prior for Bayesian optimization with
-  hierarchical Gaussian processes]]></title>
-        <id>http://arxiv.org/abs/2212.10538</id>
-        <link href="http://arxiv.org/abs/2212.10538"/>
-        <updated>2023-09-29T01:04:29.439Z</updated>
-        <summary type="html"><![CDATA[Zhou Fan, Xinran Han, Zi Wang]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Data Augmentation in the Underparameterized and Overparameterized
-  Regimes]]></title>
-        <id>http://arxiv.org/abs/2202.09134</id>
-        <link href="http://arxiv.org/abs/2202.09134"/>
-        <updated>2023-09-29T01:04:29.434Z</updated>
-        <summary type="html"><![CDATA[Kevin Han Huang, Peter Orbanz, Morgane Austern]]></summary>
-        <author>
-            <name>arxivist feed</name>
         </author>
     </entry>
 </feed>
