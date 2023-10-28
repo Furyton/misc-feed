@@ -1330,38 +1330,7 @@
       "title": "Statistics » Event Diary",
       "feedUrl": "https://warwick.ac.uk/sitebuilder2/api/rss/news.rss?page=/fac/sci/statistics/event_diary/&tag=CRiSM%20seminars&rss=true&view=upcoming",
       "siteUrl": "https://warwick.ac.uk/fac/sci/statistics/event_diary/",
-      "articles": [
-        {
-          "id": "8a17841a8adb7b43018ae00188cd1221",
-          "author": "Statistics",
-          "description": "When:\r\n\t\r\n  \t\t13:00\r\n\t\t-\r\n\t\t14:00, Mon, 11 Mar '24\r\n\r\n\t\nWhere: Stats Common Room",
-          "link": "https://warwick.ac.uk/fac/sci/statistics/news/upcoming-seminars/statisticsseminars-copy/",
-          "publishedOn": "2023-09-29T08:15:11.000Z",
-          "wordCount": 411,
-          "title": "11/03 1pm-2pm: Stats Seminar",
-          "imageUrl": null
-        },
-        {
-          "id": "8a1785d88adb7b44018ae000e6e84f4b",
-          "author": "Statistics",
-          "description": "When:\r\n\t\r\n  \t\t13:00\r\n\t\t-\r\n\t\t14:00, Mon, 26 Feb '24\r\n\r\n\t\nWhere: Stats Common Room",
-          "link": "https://warwick.ac.uk/fac/sci/statistics/news/upcoming-seminars/statisticsseminars-copy/",
-          "publishedOn": "2023-09-29T08:14:30.000Z",
-          "wordCount": 411,
-          "title": "26/02 1pm-2pm: Stats Seminar",
-          "imageUrl": null
-        },
-        {
-          "id": "8a1785d78adb7884018ae000414f1360",
-          "author": "Statistics",
-          "description": "When:\r\n\t\r\n  \t\t13:00\r\n\t\t-\r\n\t\t14:00, Mon, 12 Feb '24\r\n\r\n\t\nWhere: Stats Common Room",
-          "link": "https://warwick.ac.uk/fac/sci/statistics/news/upcoming-seminars/statisticsseminars-copy/",
-          "publishedOn": "2023-09-29T08:13:47.000Z",
-          "wordCount": 411,
-          "title": "12/02 1pm-2pm: Stats Seminar",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "arg min blog",
@@ -2147,6 +2116,96 @@
       "feedUrl": "http://feeds.feedburner.com/blogspot/gJZg",
       "siteUrl": "http://blog.research.google/",
       "articles": [
+        {
+          "id": "http://blog.research.google/2023/10/audioplethysmography-for-cardiac.html",
+          "author": null,
+          "description": "Posted by Xiaoran \"Van\" Fan, Experimental Scientist, and Trausti Thormundsson, Director, Google\n\n\n\n\n\nThe market for true wireless stereo (TWS) active noise canceling (ANC) hearables (headphones and earbuds) has been soaring in recent years, and the global shipment volume will nearly double that of smart wristbands and watches in 2023. The on-head time for hearables has extended significantly due to the recent advances in ANC, transparency mode, and artificial intelligence. Users frequently wear hearables not just for music listening, but also for exercising, focusing, or simply mood adjustment. However, hearable health is still mostly uncharted territory for the consumer market. \n\n\n\nIn “APG: Audioplethysmography for Cardiac Monitoring in Hearables,” presented at MobiCom 2023, we introduce …",
+          "link": "http://blog.research.google/2023/10/audioplethysmography-for-cardiac.html",
+          "publishedOn": "2023-10-27T20:22:00.000Z",
+          "wordCount": 27880,
+          "title": "Audioplethysmography for cardiac monitoring with hearable devices",
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhnCItsRGs939CGCBBAi5fA-xwk9JQi7b2CQ3voKK583p4uTkQkLIXUd1lU71SLynom0Yt78bRxDflolUzzfol5UbfkPmCaNn8bIUxwAbLDatqZTPxP7SYOT45g9qJODdM1kvT6NQUsixtFTiBYr_h_Hx-pFRsmbcBKdnW3WkbcD4Bcr_cZE590VL-cSu-a/w1200-h630-p-k-no-nu/hero.jpeg"
+        },
+        {
+          "id": "http://blog.research.google/2023/10/supporting-benchmarks-for-ai-safety.html",
+          "author": null,
+          "description": "Posted by Anoop Sinha, Technology and Society, and Marian Croak, Google Research, Responsible AI and Human Centered Technology team\n\n\n\n\n\nStandard benchmarks are agreed upon ways of measuring important product qualities, and they exist in many fields. Some standard benchmarks measure safety: for example, when a car manufacturer touts a “five-star overall safety rating,” they’re citing a benchmark. Standard benchmarks already exist in machine learning (ML) and AI technologies: for instance, the MLCommons Association operates the MLPerf benchmarks that measure the speed of cutting edge AI hardware such as Google’s TPUs. However, though there has been significant work done on AI safety, there are as yet no similar standard benchmarks for AI safety.\n \n\nWe are excited to support a new effort by …",
+          "link": "http://blog.research.google/2023/10/supporting-benchmarks-for-ai-safety.html",
+          "publishedOn": "2023-10-26T18:01:00.000Z",
+          "wordCount": 27387,
+          "title": "Supporting benchmarks for AI safety with MLCommons",
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg5URA9ivhxcgmfXwa0668O0HslgYQ_p_x9JJbg6nDgryyNc2QImQernPyzkLPcj1esCMOQTUnEsldIlb21E0DWPDIiE2m76qSruF0jA6jfl1sNl6mBW8JUPSWzOfE7IahHRtviFpxUTPcEZoADXHNMy3gZ2hg369y5QxhY01QRVj5kwJx4uwRKzdcBFp9v/w1200-h630-p-k-no-nu/GoogleResearch.png"
+        },
+        {
+          "id": "http://blog.research.google/2023/10/spoken-question-answering-and-speech.html",
+          "author": null,
+          "description": "Posted by Eliya Nachmani, Research Scientist, and Alon Levkovitch, Student Researcher, Google Research\n\n\n\n\nThe goal of natural language processing (NLP) is to develop computational models that can understand and generate natural language. By capturing the statistical patterns and structures of text-based natural language, language models can predict and generate coherent and meaningful sequences of words. Enabled by the increasing use of the highly successful Transformer model architecture and with training on large amounts of text (with proportionate compute and model size), large language models (LLMs) have demonstrated remarkable success in NLP tasks. \n\n \n\n\nHowever, modeling spoken human language remains a challenging frontier. Spoken dialog systems have conventionally been built as a c…",
+          "link": "http://blog.research.google/2023/10/spoken-question-answering-and-speech.html",
+          "publishedOn": "2023-10-26T15:57:00.001Z",
+          "wordCount": 27839,
+          "title": "Spoken question answering and speech continuation using a spectrogram-powered LLM",
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQEWecXit-a9UwHz781_B9s9ZqxsJIGt7ZXx2Lk0bcSQxXBkmLfjhNQxSiq3gqVjiUZ81_178hArCQ8nNL0OaVyAi8mKixeWN2PvXTLL4I08ht-eCVqtrTRo36dxGBSDNMdlathtEd4g_qdU3T4ZmPMdGNSXHwlDP689sxzbI4Wwosyu9wp-mjadKqL3MN/w1200-h630-p-k-no-nu/Spectron-hero.jpg"
+        },
+        {
+          "id": "http://blog.research.google/2023/10/looking-back-at-wildfire-research-in.html",
+          "author": null,
+          "description": "Posted by Yi-Fan Chen, Software Engineer, and Carla Bromberg, Program Lead, Google Research\n\nWildfires are becoming larger and affecting more and more communities around the world, often resulting in large-scale devastation. Just this year, communities have experienced catastrophic wildfires in Greece, Maui, and Canada to name a few. While the underlying causes leading to such an increase are complex — including changing climate patterns, forest management practices, land use development policies and many more — it is clear that the advancement of technologies can help to address the new challenges.\n \nAt Google Research, we’ve been investing in a number of climate adaptation efforts, including the application of machine learning (ML) to aid in wildfire prevention and provide information to…",
+          "link": "http://blog.research.google/2023/10/looking-back-at-wildfire-research-in.html",
+          "publishedOn": "2023-10-25T22:10:00.002Z",
+          "wordCount": 27627,
+          "title": "Looking back at wildfire research in 2023",
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgCepSXB1QxIgipeUbH1YGd8N3TkVoT1tAgxG0fC0PPREhbsygTQ4i58OVw6-Dt_lagwgswT0jtxUorsVmtyO9UgPEDezJHz_QiKvbJlgYF8Db8W-68KFdyZsq_uvM7YuZo9BRo__NC4BNxD6nHZpzsimeNOaV3X8dh9aliqbAbk8ycXb25s5NfLTfNe42_/w1200-h630-p-k-no-nu/WildfireModeling.gif"
+        },
+        {
+          "id": "http://blog.research.google/2023/10/grammar-checking-at-google-search-scale.html",
+          "author": null,
+          "description": "Posted by Eric Malmi, Senior Research Scientist, and Jakub Adamek, Senior Software Engineer, Google, Bard Team\n\n\n\n\n\nMany people with questions about grammar turn to Google Search for guidance. While existing features, such as “Did you mean”, already handle simple typo corrections, more complex grammatical error correction (GEC) is beyond their scope. What makes the development of new Google Search features challenging is that they must have high precision and recall while outputting results quickly.\n\n\n\nThe conventional approach to GEC is to treat it as a translation problem and use autoregressive Transformer models to decode the response token-by-token, conditioning on the previously generated tokens. However, although Transformer models have proven to be effective at GEC, they aren’t part…",
+          "link": "http://blog.research.google/2023/10/grammar-checking-at-google-search-scale.html",
+          "publishedOn": "2023-10-25T17:45:00.000Z",
+          "wordCount": 27399,
+          "title": "Grammar checking at Google Search scale",
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhW7pWsW1-E7U1LH1bxmjBL_2W5fS6uN2iRb2cNPBks57ubvFNJj-SjE2Zk1lFqndKWBVAeO3g3MLeJ96QUIUNJDyLTcWjeO835NT6HfJMYQBEdGqL-X_sxQ1yxMy16a0OcOLb6gSz2lqM6VofToVtN_s_F_wGB41AZwlj146y7ZXQ4PFsdywX10QO54MJ4/w1200-h630-p-k-no-nu/HeroGC.jpg"
+        },
+        {
+          "id": "http://blog.research.google/2023/10/answering-billions-of-reporting-queries.html",
+          "author": null,
+          "description": "Posted by Jagan Sankaranarayanan, Senior Staff Software Engineer, and Indrajit Roy, Head of Napa Product, Google\n\n\n\n\nGoogle Ads infrastructure runs on an internal data warehouse called Napa. Billions of reporting queries, which power critical dashboards used by advertising clients to measure campaign performance, run on tables stored in Napa. These tables contain records of ads performance that are keyed using particular customers and the campaign identifiers with which they are associated. Keys are tokens that are used both to associate an ads record with a particular client and campaign (e.g., customer_id, campaign_id) and for efficient retrieval. A record contains dozens of keys, so clients use reporting queries to specify keys needed to filter the data to understand ads performance (e.…",
+          "link": "http://blog.research.google/2023/10/answering-billions-of-reporting-queries.html",
+          "publishedOn": "2023-10-20T17:07:00.000Z",
+          "wordCount": 27806,
+          "title": "Answering billions of reporting queries each day with low latency",
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIZSvPVFwZPeTv8ivB-lHMGfoLkP-fDBuAy9GEklUVNBPPoqOXRfme5Psui7DbKssImVjFHtxoygKhFBvgpAG_C5852ocu9i7AOfWPeC1mSlaim8jfqsV55wZIULDUPk7WhxW1OISfL_CjZswN3CcZN7GJgVLBdepic8lfYAUCT0rAlXGGbnf-WuA6mRc6/w1200-h630-p-k-no-nu/hero.jpg"
+        },
+        {
+          "id": "http://blog.research.google/2023/10/google-search-can-now-help-with-english-speaking-practice.html",
+          "author": null,
+          "description": "Posted by Christian Plagemann, Director, and Katya Cox, Product Manager, Google Research\n\n\n\n\nLearning a language can open up new opportunities in a person’s life. It can help people connect with those from different cultures, travel the world, and advance their career. English alone is estimated to have 1.5 billion learners worldwide. Yet proficiency in a new language is difficult to achieve, and many learners cite a lack of opportunity to practice speaking actively and receiving actionable feedback as a barrier to learning.\n\n\n\n\nWe are excited to announce a new feature of Google Search that helps people practice speaking and improve their language skills. Within the next few days, Android users in Argentina, Colombia, India (Hindi), Indonesia, Mexico, and Venezuela can get even more langua…",
+          "link": "http://blog.research.google/2023/10/google-search-can-now-help-with-english-speaking-practice.html",
+          "publishedOn": "2023-10-19T16:24:00.002Z",
+          "wordCount": 28075,
+          "title": "English learners can now practice speaking on Search",
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgfHhrdHOFN2-ZoUw8hxN1Gdmd5WBtL5kVUe27TeajsI3nrES8Ah13W7MIKpZ2avrsxFTdkzk-sD1noswtk20cMyPS8GjDnVMPquyxc6EhR9r53bMzncRYlj5ZBM3jMF15ndusFp2fe9ipy4bksiTLfWJ1umdcUrQUxg78SOtXfjqMbSxW_OQsSTAVZ9HV6/w1200-h630-p-k-no-nu/Tivoli.gif"
+        },
+        {
+          "id": "http://blog.research.google/2023/10/measurement-induced-entanglement-phase.html",
+          "author": null,
+          "description": "Posted by Jesse Hoke, Student Researcher, and Pedram Roushan, Senior Research Scientist, Quantum AI Team\n\n\n\n\nQuantum mechanics allows many phenomena that are classically impossible: a quantum particle can exist in a superposition of two states simultaneously or be entangled with another particle, such that anything you do to one seems to instantaneously also affect the other, regardless of the space between them. But perhaps no aspect of quantum theory is as striking as the act of measurement. In classical mechanics, a measurement need not affect the system being studied. But a measurement on a quantum system can profoundly influence its behavior. For example, when a quantum bit of information, called a qubit, that is in a superposition of both “0” and “1” is measured, its state will sudde…",
+          "link": "http://blog.research.google/2023/10/measurement-induced-entanglement-phase.html",
+          "publishedOn": "2023-10-18T21:05:00.000Z",
+          "wordCount": 28081,
+          "title": "Measurement-induced entanglement phase transitions in a quantum circuit",
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjD0d2Z3JPDRdCIvFvlT3VvnLnv7sx7HndEKEnek1t_g84zs__aAh3c2TAG5hPEPYjtjJM8hikDRiSHREYGrW_TrSbHeWVC6eCq6lN2nv4ZVqmtAEg2lTyK1G26q1T-Vo9TUL9YCxVD1tG_Q8hiWBU_cbvIUo_NWrs12hPFTvbJvML4x-OU_RBzidMcwAc_/w1200-h630-p-k-no-nu/order_param_blog_1200.jpg"
+        },
+        {
+          "id": "http://blog.research.google/2023/10/improving-traffic-evacuations-case-study.html",
+          "author": null,
+          "description": "Posted by Damien Pierce, Software Engineer, and John Anderson, Senior Research Director, Google Research\n\n\n\n\nSome cities or communities develop an evacuation plan to be used in case of an emergency. There are a number of reasons why city officials might enact their plan, a primary one being a natural disaster, such as a tornado, flood, or wildfire. An evacuation plan can help the community more effectively respond to an emergency, and so could help save lives. However, it can be difficult for a city to evaluate such a plan because it is not practical to have an entire town or city rehearse a full blown evacuation. For example, Mill Valley, a city in northern California, created a wildfire evacuation plan but lacked an estimate for how long the evacuation would take.\n\n\nToday we describe a c…",
+          "link": "http://blog.research.google/2023/10/improving-traffic-evacuations-case-study.html",
+          "publishedOn": "2023-10-16T17:12:00.000Z",
+          "wordCount": 28215,
+          "title": "Improving traffic evacuations: A case study",
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiq0gQYBrF4sBptEnwyqdXMyAuYpCBTZJf7JBevRgt8ZuEtflAdzaNbenGSfItI98BCpXDMpUkO3nEJyDs4XTVaCmpGrqBsLGL1E11V6-QbB629_OL_IrMhX1AfJRZIbL_O9AufL5o-kbESrDz6y_zJbP7Kj6MTn_RLQ8B7hOSlbKguvdd6jjthWNRTPZYl/w1200-h630-p-k-no-nu/trafficevac.png"
+        },
         {
           "id": "http://blog.research.google/2023/10/batch-calibration-rethinking.html",
           "author": null,

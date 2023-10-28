@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-28T20:14:00.917Z</updated>
+    <updated>2023-10-28T21:12:07.725Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -36,6 +36,26 @@
         <summary type="html"><![CDATA[Visit the post for more.]]></summary>
         <author>
             <name>xi'an</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Audioplethysmography for cardiac monitoring with hearable devices]]></title>
+        <id>http://blog.research.google/2023/10/audioplethysmography-for-cardiac.html</id>
+        <link href="http://blog.research.google/2023/10/audioplethysmography-for-cardiac.html"/>
+        <updated>2023-10-27T20:22:00.000Z</updated>
+        <summary type="html"><![CDATA[Posted by Xiaoran "Van" Fan, Experimental Scientist, and Trausti Thormundsson, Director, Google
+
+
+
+
+
+The market for true wireless stereo (TWS) active noise canceling (ANC) hearables (headphones and earbuds) has been soaring in recent years, and the global shipment volume will nearly double that of smart wristbands and watches in 2023. The on-head time for hearables has extended significantly due to the recent advances in ANC, transparency mode, and artificial intelligence. Users frequently wear hearables not just for music listening, but also for exercising, focusing, or simply mood adjustment. However, hearable health is still mostly uncharted territory for the consumer market. 
+
+
+
+In “APG: Audioplethysmography for Cardiac Monitoring in Hearables,” presented at MobiCom 2023, we introduce …]]></summary>
+        <author>
+            <name>Google AI Blog</name>
         </author>
     </entry>
     <entry>
@@ -153,6 +173,45 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Supporting benchmarks for AI safety with MLCommons]]></title>
+        <id>http://blog.research.google/2023/10/supporting-benchmarks-for-ai-safety.html</id>
+        <link href="http://blog.research.google/2023/10/supporting-benchmarks-for-ai-safety.html"/>
+        <updated>2023-10-26T18:01:00.000Z</updated>
+        <summary type="html"><![CDATA[Posted by Anoop Sinha, Technology and Society, and Marian Croak, Google Research, Responsible AI and Human Centered Technology team
+
+
+
+
+
+Standard benchmarks are agreed upon ways of measuring important product qualities, and they exist in many fields. Some standard benchmarks measure safety: for example, when a car manufacturer touts a “five-star overall safety rating,” they’re citing a benchmark. Standard benchmarks already exist in machine learning (ML) and AI technologies: for instance, the MLCommons Association operates the MLPerf benchmarks that measure the speed of cutting edge AI hardware such as Google’s TPUs. However, though there has been significant work done on AI safety, there are as yet no similar standard benchmarks for AI safety.
+ 
+
+We are excited to support a new effort by …]]></summary>
+        <author>
+            <name>Google AI Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Spoken question answering and speech continuation using a spectrogram-powered LLM]]></title>
+        <id>http://blog.research.google/2023/10/spoken-question-answering-and-speech.html</id>
+        <link href="http://blog.research.google/2023/10/spoken-question-answering-and-speech.html"/>
+        <updated>2023-10-26T15:57:00.001Z</updated>
+        <summary type="html"><![CDATA[Posted by Eliya Nachmani, Research Scientist, and Alon Levkovitch, Student Researcher, Google Research
+
+
+
+
+The goal of natural language processing (NLP) is to develop computational models that can understand and generate natural language. By capturing the statistical patterns and structures of text-based natural language, language models can predict and generate coherent and meaningful sequences of words. Enabled by the increasing use of the highly successful Transformer model architecture and with training on large amounts of text (with proportionate compute and model size), large language models (LLMs) have demonstrated remarkable success in NLP tasks. 
+
+ 
+
+
+However, modeling spoken human language remains a challenging frontier. Spoken dialog systems have conventionally been built as a c…]]></summary>
+        <author>
+            <name>Google AI Blog</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[The sound of ancient Iranian languages]]></title>
         <id>https://languagelog.ldc.upenn.edu/nll/?p=61079</id>
         <link href="https://languagelog.ldc.upenn.edu/nll/?p=61079&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=the-sound-of-ancient-iranian-languages"/>
@@ -227,6 +286,20 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Looking back at wildfire research in 2023]]></title>
+        <id>http://blog.research.google/2023/10/looking-back-at-wildfire-research-in.html</id>
+        <link href="http://blog.research.google/2023/10/looking-back-at-wildfire-research-in.html"/>
+        <updated>2023-10-25T22:10:00.002Z</updated>
+        <summary type="html"><![CDATA[Posted by Yi-Fan Chen, Software Engineer, and Carla Bromberg, Program Lead, Google Research
+
+Wildfires are becoming larger and affecting more and more communities around the world, often resulting in large-scale devastation. Just this year, communities have experienced catastrophic wildfires in Greece, Maui, and Canada to name a few. While the underlying causes leading to such an increase are complex — including changing climate patterns, forest management practices, land use development policies and many more — it is clear that the advancement of technologies can help to address the new challenges.
+ 
+At Google Research, we’ve been investing in a number of climate adaptation efforts, including the application of machine learning (ML) to aid in wildfire prevention and provide information to…]]></summary>
+        <author>
+            <name>Google AI Blog</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Swedish dictionary:  140 years in the making]]></title>
         <id>https://languagelog.ldc.upenn.edu/nll/?p=61073</id>
         <link href="https://languagelog.ldc.upenn.edu/nll/?p=61073&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=swedish-dictionary-140-years-in-the-making"/>
@@ -234,6 +307,26 @@
         <summary type="html"><![CDATA[Patience pays off: Official Swedish dictionary completed after 140 years One hundred and thirty-seven full-time employees have worked on Swedish Academy Dictionary over the years since 1883 Agence France-Presse in StockholmWed 25 Oct 2023 ———- The definitive record of the Swedish language has been completed after 140 years, with the dictionary’s final volume sent to […]]]></summary>
         <author>
             <name>Victor Mair</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Grammar checking at Google Search scale]]></title>
+        <id>http://blog.research.google/2023/10/grammar-checking-at-google-search-scale.html</id>
+        <link href="http://blog.research.google/2023/10/grammar-checking-at-google-search-scale.html"/>
+        <updated>2023-10-25T17:45:00.000Z</updated>
+        <summary type="html"><![CDATA[Posted by Eric Malmi, Senior Research Scientist, and Jakub Adamek, Senior Software Engineer, Google, Bard Team
+
+
+
+
+
+Many people with questions about grammar turn to Google Search for guidance. While existing features, such as “Did you mean”, already handle simple typo corrections, more complex grammatical error correction (GEC) is beyond their scope. What makes the development of new Google Search features challenging is that they must have high precision and recall while outputting results quickly.
+
+
+
+The conventional approach to GEC is to treat it as a translation problem and use autoregressive Transformer models to decode the response token-by-token, conditioning on the previously generated tokens. However, although Transformer models have proven to be effective at GEC, they aren’t part…]]></summary>
+        <author>
+            <name>Google AI Blog</name>
         </author>
     </entry>
     <entry>
@@ -567,6 +660,21 @@ The post 帧同步游戏中使用 Run-Ahead 隐藏输入延迟 appeared first on
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Answering billions of reporting queries each day with low latency]]></title>
+        <id>http://blog.research.google/2023/10/answering-billions-of-reporting-queries.html</id>
+        <link href="http://blog.research.google/2023/10/answering-billions-of-reporting-queries.html"/>
+        <updated>2023-10-20T17:07:00.000Z</updated>
+        <summary type="html"><![CDATA[Posted by Jagan Sankaranarayanan, Senior Staff Software Engineer, and Indrajit Roy, Head of Napa Product, Google
+
+
+
+
+Google Ads infrastructure runs on an internal data warehouse called Napa. Billions of reporting queries, which power critical dashboards used by advertising clients to measure campaign performance, run on tables stored in Napa. These tables contain records of ads performance that are keyed using particular customers and the campaign identifiers with which they are associated. Keys are tokens that are used both to associate an ads record with a particular client and campaign (e.g., customer_id, campaign_id) and for efficient retrieval. A record contains dozens of keys, so clients use reporting queries to specify keys needed to filter the data to understand ads performance (e.…]]></summary>
+        <author>
+            <name>Google AI Blog</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Pinyin vs. English]]></title>
         <id>https://languagelog.ldc.upenn.edu/nll/?p=61028</id>
         <link href="https://languagelog.ldc.upenn.edu/nll/?p=61028&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=pinyin-vs-english"/>
@@ -649,6 +757,26 @@ The post 帧同步游戏中使用 Run-Ahead 隐藏输入延迟 appeared first on
         <summary type="html"><![CDATA[Here we go again, but this time on a grander and more dramatic scale: Pras Michel of Fugees seeks new trial, contends former attorney used AI for closing argument The hip-hop artist convicted on campaign finance and foreign influence charges seeks to set aside the jury’s guilty verdicts. By Josh Bernstein, Politico (1016/23) Notice the […]]]></summary>
         <author>
             <name>Victor Mair</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[English learners can now practice speaking on Search]]></title>
+        <id>http://blog.research.google/2023/10/google-search-can-now-help-with-english-speaking-practice.html</id>
+        <link href="http://blog.research.google/2023/10/google-search-can-now-help-with-english-speaking-practice.html"/>
+        <updated>2023-10-19T16:24:00.002Z</updated>
+        <summary type="html"><![CDATA[Posted by Christian Plagemann, Director, and Katya Cox, Product Manager, Google Research
+
+
+
+
+Learning a language can open up new opportunities in a person’s life. It can help people connect with those from different cultures, travel the world, and advance their career. English alone is estimated to have 1.5 billion learners worldwide. Yet proficiency in a new language is difficult to achieve, and many learners cite a lack of opportunity to practice speaking actively and receiving actionable feedback as a barrier to learning.
+
+
+
+
+We are excited to announce a new feature of Google Search that helps people practice speaking and improve their language skills. Within the next few days, Android users in Argentina, Colombia, India (Hindi), Indonesia, Mexico, and Venezuela can get even more langua…]]></summary>
+        <author>
+            <name>Google AI Blog</name>
         </author>
     </entry>
     <entry>
@@ -753,6 +881,21 @@ The post 帧同步游戏中使用 Run-Ahead 隐藏输入延迟 appeared first on
         <summary type="html"><![CDATA[Dear all, as you probably know, Israel was gravely attacked on Saturday, October, 7 2023 by Hamas terrorists coming from the Gaza streak. More than a thousand civilians including many children and babies were murdered and more than a hundred … Continue reading →]]></summary>
         <author>
             <name>Gil Kalai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Measurement-induced entanglement phase transitions in a quantum circuit]]></title>
+        <id>http://blog.research.google/2023/10/measurement-induced-entanglement-phase.html</id>
+        <link href="http://blog.research.google/2023/10/measurement-induced-entanglement-phase.html"/>
+        <updated>2023-10-18T21:05:00.000Z</updated>
+        <summary type="html"><![CDATA[Posted by Jesse Hoke, Student Researcher, and Pedram Roushan, Senior Research Scientist, Quantum AI Team
+
+
+
+
+Quantum mechanics allows many phenomena that are classically impossible: a quantum particle can exist in a superposition of two states simultaneously or be entangled with another particle, such that anything you do to one seems to instantaneously also affect the other, regardless of the space between them. But perhaps no aspect of quantum theory is as striking as the act of measurement. In classical mechanics, a measurement need not affect the system being studied. But a measurement on a quantum system can profoundly influence its behavior. For example, when a quantum bit of information, called a qubit, that is in a superposition of both “0” and “1” is measured, its state will sudde…]]></summary>
+        <author>
+            <name>Google AI Blog</name>
         </author>
     </entry>
     <entry>
@@ -1018,6 +1161,24 @@ A longstanding goal of the field of robot learning has been to create generalist
         <summary type="html"><![CDATA[Visit the post for more.]]></summary>
         <author>
             <name>xi'an</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Improving traffic evacuations: A case study]]></title>
+        <id>http://blog.research.google/2023/10/improving-traffic-evacuations-case-study.html</id>
+        <link href="http://blog.research.google/2023/10/improving-traffic-evacuations-case-study.html"/>
+        <updated>2023-10-16T17:12:00.000Z</updated>
+        <summary type="html"><![CDATA[Posted by Damien Pierce, Software Engineer, and John Anderson, Senior Research Director, Google Research
+
+
+
+
+Some cities or communities develop an evacuation plan to be used in case of an emergency. There are a number of reasons why city officials might enact their plan, a primary one being a natural disaster, such as a tornado, flood, or wildfire. An evacuation plan can help the community more effectively respond to an emergency, and so could help save lives. However, it can be difficult for a city to evaluate such a plan because it is not practical to have an entire town or city rehearse a full blown evacuation. For example, Mill Valley, a city in northern California, created a wildfire evacuation plan but lacked an estimate for how long the evacuation would take.
+
+
+Today we describe a c…]]></summary>
+        <author>
+            <name>Google AI Blog</name>
         </author>
     </entry>
     <entry>
@@ -2414,57 +2575,6 @@ Attending ICCV 2023? We hope you’ll visit the Google booth to chat with resear
         <summary type="html"><![CDATA[Several people have sent me pointers to the linguistically-themed 9/27/2023 NYT crossword puzzle. For some discussion by Sam Corbin, see "Talk, Talk, Talk", NYT 9/26/2023 ("Scott Koenig puts silly thoughts to bed with a clever crossword"), which includes a quotation from the puzzle's author: I first learned about Professor Chomsky as an undergraduate linguistics minor. […]]]></summary>
         <author>
             <name>Mark Liberman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[11/03 1pm-2pm: Stats Seminar]]></title>
-        <id>8a17841a8adb7b43018ae00188cd1221</id>
-        <link href="https://warwick.ac.uk/fac/sci/statistics/news/upcoming-seminars/statisticsseminars-copy/"/>
-        <updated>2023-09-29T08:15:11.000Z</updated>
-        <summary type="html"><![CDATA[When:
-	
-  		13:00
-		-
-		14:00, Mon, 11 Mar '24
-
-	
-Where: Stats Common Room]]></summary>
-        <author>
-            <name>Statistics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[26/02 1pm-2pm: Stats Seminar]]></title>
-        <id>8a1785d88adb7b44018ae000e6e84f4b</id>
-        <link href="https://warwick.ac.uk/fac/sci/statistics/news/upcoming-seminars/statisticsseminars-copy/"/>
-        <updated>2023-09-29T08:14:30.000Z</updated>
-        <summary type="html"><![CDATA[When:
-	
-  		13:00
-		-
-		14:00, Mon, 26 Feb '24
-
-	
-Where: Stats Common Room]]></summary>
-        <author>
-            <name>Statistics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[12/02 1pm-2pm: Stats Seminar]]></title>
-        <id>8a1785d78adb7884018ae000414f1360</id>
-        <link href="https://warwick.ac.uk/fac/sci/statistics/news/upcoming-seminars/statisticsseminars-copy/"/>
-        <updated>2023-09-29T08:13:47.000Z</updated>
-        <summary type="html"><![CDATA[When:
-	
-  		13:00
-		-
-		14:00, Mon, 12 Feb '24
-
-	
-Where: Stats Common Room]]></summary>
-        <author>
-            <name>Statistics</name>
         </author>
     </entry>
 </feed>
