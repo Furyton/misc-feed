@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-29T20:14:44.164Z</updated>
+    <updated>2023-10-29T21:11:53.833Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Flash mob / drive]]></title>
+        <id>https://languagelog.ldc.upenn.edu/nll/?p=61112</id>
+        <link href="https://languagelog.ldc.upenn.edu/nll/?p=61112&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=flash-mob-drive"/>
+        <updated>2023-10-29T20:35:40.000Z</updated>
+        <summary type="html"><![CDATA[Placed on the countertop of the coffee corner in the dining hall at Lingnan University in Hong Kong: The English is an adequate translation of the Chinese, so I won't transcribe and romanize the latter.  I only wish to point out a striking neologism and ask two pertinent questions. The neologism is kuàishǎn 快閃 ("flash mob"), […]]]></summary>
+        <author>
+            <name>Victor Mair</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Complementary water]]></title>
+        <id>https://languagelog.ldc.upenn.edu/nll/?p=61105</id>
+        <link href="https://languagelog.ldc.upenn.edu/nll/?p=61105&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=complementary-water"/>
+        <updated>2023-10-29T20:30:33.000Z</updated>
+        <summary type="html"><![CDATA[François Lang saw this sign at the local farmers market: François asked the men at the booth what their water complements, but they did'nt get it. Meanwhile, François introduced me to the Dihydrogen Monoxide Research Division (DHMO), whose roots go back to the early 80s. Selected readings "Complimentary Internet in the lobby" (10/26/09) "Dihydrogen Monoxide" (3/15/04)]]></summary>
+        <author>
+            <name>Victor Mair</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[56 行代码用 Python 实现一个 Flex/Lex]]></title>
         <id>https://www.skywind.me/blog/?p=2761</id>
