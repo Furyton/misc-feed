@@ -6,6 +6,36 @@
       "siteUrl": "https://www.arxivist.com",
       "articles": [
         {
+          "id": "http://arxiv.org/abs/2310.18304",
+          "author": null,
+          "description": "Chengpiao Huang, Kaizheng Wang",
+          "link": "http://arxiv.org/abs/2310.18304",
+          "publishedOn": "2023-10-30T03:15:38.214Z",
+          "wordCount": 651,
+          "title": "A Stability Principle for Learning under Non-Stationarity",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2306.09312",
+          "author": null,
+          "description": "Fabian Paischer, Thomas Adler, Markus Hofmarcher, Sepp Hochreiter",
+          "link": "http://arxiv.org/abs/2306.09312",
+          "publishedOn": "2023-10-30T03:15:36.517Z",
+          "wordCount": 804,
+          "title": "Semantic HELM: A Human-Readable Memory for Reinforcement Learning",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2309.12095",
+          "author": null,
+          "description": "Dimitrije Markovi\\'c, Karl J. Friston, Stefan J. Kiebel",
+          "link": "http://arxiv.org/abs/2309.12095",
+          "publishedOn": "2023-10-30T03:15:36.396Z",
+          "wordCount": 758,
+          "title": "Bayesian sparsification for deep neural networks with Bayesian model\n  reduction",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
           "id": "http://arxiv.org/abs/2305.09211",
           "author": null,
           "description": "Momina Liaqat Ali, Zunaira Rauf, Asifullah Khan, Anabia Sohail, Rafi\n  Ullah, Jeonghwan Gwak",
