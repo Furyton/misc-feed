@@ -1605,6 +1605,16 @@
       "siteUrl": "https://pytorch.org/",
       "articles": [
         {
+          "id": "https://pytorch.org/blog/amd-extends-support-for-pt-ml/",
+          "author": null,
+          "description": "Researchers and developers working with Machine Learning (ML) models and algorithms using PyTorch can now use AMD ROCm 5.7 on Ubuntu® Linux® to tap into the parallel computing power of the Radeon™ RX 7900 XTX and the Radeon™ PRO W7900 graphics cards which are based on the AMD RDNA™ 3 GPU architecture.",
+          "link": "https://pytorch.org/blog/amd-extends-support-for-pt-ml/",
+          "publishedOn": "2023-10-31T07:00:00.000Z",
+          "wordCount": 1129,
+          "title": "AMD Extends Support for Pytorch Machine Learning Development nn Select RDNA™ 3 GPUs with ROCm™ 5.7",
+          "imageUrl": "https://pytorch.org/assets/images/pytorch-logo.png"
+        },
+        {
           "id": "https://pytorch.org/blog/compiling-numpy-code/",
           "author": null,
           "description": "Quansight engineers have implemented support for tracing through NumPy code via torch.compile in PyTorch 2.1. This feature leverages PyTorch’s compiler to generate efficient fused vectorized code without having to modify your original NumPy code. Even more, it also allows for executing NumPy code on CUDA just by running it through torch.compile under torch.device(\"cuda\")!",
