@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-31T12:28:37.419Z</updated>
+    <updated>2023-10-31T13:17:43.767Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[A glimpse of the next generation of AlphaFold]]></title>
+        <id>https://deepmind.google/discover/blog/a-glimpse-of-the-next-generation-of-alphafold/</id>
+        <link href="https://deepmind.google/discover/blog/a-glimpse-of-the-next-generation-of-alphafold/"/>
+        <updated>2023-10-31T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Progress update: Our latest AlphaFold model shows significantly improved accuracy and expands coverage beyond proteins to other biological molecules, including ligands.]]></summary>
+        <author>
+            <name>DeepMind Blog</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[20/11 1pm-2pm: Statistics Seminar]]></title>
         <id>8a17841b8adb7895018adfd6ce0c4ad1</id>

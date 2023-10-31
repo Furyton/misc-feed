@@ -1537,6 +1537,16 @@
       "siteUrl": "https://deepmind.google/discover/blog/",
       "articles": [
         {
+          "id": "https://deepmind.google/discover/blog/a-glimpse-of-the-next-generation-of-alphafold/",
+          "author": null,
+          "description": "Progress update: Our latest AlphaFold model shows significantly improved accuracy and expands coverage beyond proteins to other biological molecules, including ligands.",
+          "link": "https://deepmind.google/discover/blog/a-glimpse-of-the-next-generation-of-alphafold/",
+          "publishedOn": "2023-10-31T13:00:00.000Z",
+          "wordCount": 1005,
+          "title": "A glimpse of the next generation of AlphaFold",
+          "imageUrl": "https://lh3.googleusercontent.com/E2UU4A-zCZ9b_oZyE_xQIeAZpDbjpcmw99-QVYVXs81UpJKnBzTo4O81rWapIqIfOAr39WSFMo336ekSH4_Z25BHiDamvwtQEKlSteg260fZhCwJ=w1200-h630-n-nu"
+        },
+        {
           "id": "https://deepmind.google/discover/blog/evaluating-social-and-ethical-risks-from-generative-ai/",
           "author": null,
           "description": "Introducing a context-based framework for comprehensively evaluating the social and ethical risks of AI systems",
