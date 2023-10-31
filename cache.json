@@ -1332,6 +1332,16 @@
       "siteUrl": "https://kexue.fm/",
       "articles": [
         {
+          "id": "https://kexue.fm/archives/9826",
+          "author": "苏剑林",
+          "description": "正如“XXX is all you need”一样，有不少论文都以“简单得令人尴尬”命名（An Embarrassingly Simple XXX），但在笔者看来，这些论文大多数都是噱头多于实力...",
+          "link": "https://kexue.fm/archives/9826",
+          "publishedOn": "2023-10-31T08:33:00.000Z",
+          "wordCount": 1561,
+          "title": "“四舍五入”之FSQ：简单得令人尴尬的VQ-VAE替代品",
+          "imageUrl": null
+        },
+        {
           "id": "https://kexue.fm/archives/9812",
           "author": "苏剑林",
           "description": "我们知道，Scaled-Dot Product Attention的Scale因子是$\\frac{1}{\\sqrt{d}}$，其中$d$是$\\boldsymbol{q},\\boldsymbol{...",

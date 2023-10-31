@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-31T08:18:47.465Z</updated>
+    <updated>2023-10-31T09:14:43.875Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[“四舍五入”之FSQ：简单得令人尴尬的VQ-VAE替代品]]></title>
+        <id>https://kexue.fm/archives/9826</id>
+        <link href="https://kexue.fm/archives/9826"/>
+        <updated>2023-10-31T08:33:00.000Z</updated>
+        <summary type="html"><![CDATA[正如“XXX is all you need”一样，有不少论文都以“简单得令人尴尬”命名（An Embarrassingly Simple XXX），但在笔者看来，这些论文大多数都是噱头多于实力...]]></summary>
+        <author>
+            <name>苏剑林</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AMD Extends Support for Pytorch Machine Learning Development nn Select RDNA™ 3 GPUs with ROCm™ 5.7]]></title>
         <id>https://pytorch.org/blog/amd-extends-support-for-pt-ml/</id>
