@@ -6,6 +6,56 @@
       "siteUrl": "https://www.arxivist.com",
       "articles": [
         {
+          "id": "http://arxiv.org/abs/2307.05194",
+          "author": null,
+          "description": "Jack Jewson, Sahra Ghalebikesabi, Chris Holmes",
+          "link": "http://arxiv.org/abs/2307.05194",
+          "publishedOn": "2023-10-31T02:22:20.140Z",
+          "wordCount": null,
+          "title": "Differentially Private Statistical Inference through $\\beta$-Divergence\n  One Posterior Sampling",
+          "imageUrl": null
+        },
+        {
+          "id": "http://arxiv.org/abs/2307.12975",
+          "author": null,
+          "description": "Xiang Ji, Huazheng Wang, Minshuo Chen, Tuo Zhao, Mengdi Wang",
+          "link": "http://arxiv.org/abs/2307.12975",
+          "publishedOn": "2023-10-31T02:22:20.139Z",
+          "wordCount": null,
+          "title": "Provable Benefits of Policy Learning from Human Preferences in\n  Contextual Bandit Problems",
+          "imageUrl": null
+        },
+        {
+          "id": "http://arxiv.org/abs/2301.09028",
+          "author": null,
+          "description": "Murat Kocaoglu",
+          "link": "http://arxiv.org/abs/2301.09028",
+          "publishedOn": "2023-10-31T02:22:20.138Z",
+          "wordCount": null,
+          "title": "Characterization and Learning of Causal Graphs with Small Conditioning\n  Sets",
+          "imageUrl": null
+        },
+        {
+          "id": "http://arxiv.org/abs/2306.08777",
+          "author": null,
+          "description": "Felix Biggs, Antonin Schrab, Arthur Gretton",
+          "link": "http://arxiv.org/abs/2306.08777",
+          "publishedOn": "2023-10-31T02:22:20.138Z",
+          "wordCount": null,
+          "title": "MMD-FUSE: Learning and Combining Kernels for Two-Sample Testing Without\n  Data Splitting",
+          "imageUrl": null
+        },
+        {
+          "id": "http://arxiv.org/abs/2310.18910",
+          "author": null,
+          "description": "Muyang Li, Runze Wu, Haoyu Liu, Jun Yu, Xun Yang, Bo Han, Tongliang\n  Liu",
+          "link": "http://arxiv.org/abs/2310.18910",
+          "publishedOn": "2023-10-31T02:22:20.137Z",
+          "wordCount": null,
+          "title": "InstanT: Semi-supervised Learning with Instance-dependent Thresholds",
+          "imageUrl": null
+        },
+        {
           "id": "http://arxiv.org/abs/2310.18304",
           "author": null,
           "description": "Chengpiao Huang, Kaizheng Wang",
