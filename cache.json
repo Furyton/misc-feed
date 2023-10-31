@@ -1410,7 +1410,18 @@
       "title": "Statistics » Event Diary",
       "feedUrl": "https://warwick.ac.uk/sitebuilder2/api/rss/news.rss?page=/fac/sci/statistics/event_diary/&tag=CRiSM%20seminars&rss=true&view=upcoming",
       "siteUrl": "https://warwick.ac.uk/fac/sci/statistics/event_diary/",
-      "articles": []
+      "articles": [
+        {
+          "id": "8a17841b8adb7895018adfd6ce0c4ad1",
+          "author": "Statistics",
+          "description": "When:\r\n\t\r\n  \t\t13:00\r\n\t\t-\r\n\t\t14:00, Mon, 20 Nov '23\r\n\r\n\t\nWhere: Stats Common Room",
+          "link": "https://warwick.ac.uk/fac/sci/statistics/news/upcoming-seminars/statisticsseminars-copy/",
+          "publishedOn": "2023-10-31T09:55:48.000Z",
+          "wordCount": 742,
+          "title": "20/11 1pm-2pm: Statistics Seminar",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "arg min blog",
@@ -1866,6 +1877,16 @@
       "feedUrl": "https://xianblog.wordpress.com/feed/",
       "siteUrl": "https://xianblog.wordpress.com",
       "articles": [
+        {
+          "id": "http://xianblog.wordpress.com/?p=54356",
+          "author": "xi'an",
+          "description": "Visit the post for more.",
+          "link": "https://xianblog.wordpress.com/2023/10/31/congrats-dr-robert/",
+          "publishedOn": "2023-10-31T09:31:50.000Z",
+          "wordCount": 1888,
+          "title": "Congrats, Dr. Robert!",
+          "imageUrl": "https://xianblog.files.wordpress.com/2023/10/1698743420726.jpg"
+        },
         {
           "id": "http://xianblog.wordpress.com/?p=54312",
           "author": "xi'an",
