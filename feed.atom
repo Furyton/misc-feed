@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-11-01T10:16:05.259Z</updated>
+    <updated>2023-11-01T11:12:18.826Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -2723,16 +2723,6 @@ Using methods designed for planar images to process spherical signals is problem
         <summary type="html"><![CDATA[We are launching a new set of resources for general-purpose robotics learning across different robot types, or embodiments. Together with partners from 34 academic labs we have pooled data from 22 different robot types to create the Open X-Embodiment dataset. We also release RT-1-X, a robotics transformer (RT) model derived from RT-1 and trained on our dataset, that shows skills transfer across many robot embodiments.]]></summary>
         <author>
             <name>DeepMind Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Familial inference]]></title>
-        <id>http://xianblog.wordpress.com/?p=54136</id>
-        <link href="https://xianblog.wordpress.com/2023/10/03/familial-inference/"/>
-        <updated>2023-10-02T22:23:44.000Z</updated>
-        <summary type="html"><![CDATA[An ISBA-BNP webinar on Wednesday, 4 October, at 17:00 UTC by my friend Steve McEachern: Familial inference: Tests for hypotheses on a family of centers Many scientific disciplines face a replicability crisis. While these crises have many drivers, we focus on one. Statistical hypotheses are translations of scientific hypotheses into statements about one or more […]]]></summary>
-        <author>
-            <name>xi'an</name>
         </author>
     </entry>
 </feed>
