@@ -1144,56 +1144,6 @@
           "wordCount": 719,
           "title": "Formal Embeddings Between $\\mathcal{BSD}$-Models",
           "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
-        },
-        {
-          "id": "http://arxiv.org/abs/2309.01026",
-          "author": null,
-          "description": "Rachel M. Harrison, Anton Dereventsov, Anton Bibin",
-          "link": "http://arxiv.org/abs/2309.01026",
-          "publishedOn": "2023-10-03T03:15:24.414Z",
-          "wordCount": 628,
-          "title": "Zero-Shot Recommendations with Pre-Trained Large Language Models for\n  Multimodal Nudging",
-          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
-        },
-        {
-          "id": "http://arxiv.org/abs/2301.09554",
-          "author": null,
-          "description": "Rahul Parhi, Robert D. Nowak",
-          "link": "http://arxiv.org/abs/2301.09554",
-          "publishedOn": "2023-10-03T03:15:24.376Z",
-          "wordCount": 704,
-          "title": "Deep Learning Meets Sparse Regularization: A Signal Processing\n  Perspective",
-          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
-        },
-        {
-          "id": "http://arxiv.org/abs/2310.00646",
-          "author": null,
-          "description": "Jingtan Wang, Xinyang Lu, Zitong Zhao, Zhongxiang Dai, Chuan-Sheng\n  Foo, See-Kiong Ng, Bryan Kian Hsiang Low",
-          "link": "http://arxiv.org/abs/2310.00646",
-          "publishedOn": "2023-10-03T03:15:24.362Z",
-          "wordCount": 738,
-          "title": "WASA: WAtermark-based Source Attribution for Large Language\n  Model-Generated Data",
-          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
-        },
-        {
-          "id": "http://arxiv.org/abs/2305.18505",
-          "author": null,
-          "description": "Wenhao Zhan, Masatoshi Uehara, Wen Sun, Jason D. Lee",
-          "link": "http://arxiv.org/abs/2305.18505",
-          "publishedOn": "2023-10-03T03:15:24.308Z",
-          "wordCount": 678,
-          "title": "Provable Reward-Agnostic Preference-Based Reinforcement Learning",
-          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
-        },
-        {
-          "id": "http://arxiv.org/abs/2304.02858",
-          "author": null,
-          "description": "Azal Ahmad Khan, Omkar Chaudhari, Rohitash Chandra",
-          "link": "http://arxiv.org/abs/2304.02858",
-          "publishedOn": "2023-10-03T03:15:24.303Z",
-          "wordCount": 751,
-          "title": "A review of ensemble learning and data augmentation models for class\n  imbalanced problems: combination, implementation and evaluation",
-          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
         }
       ]
     },
@@ -1542,7 +1492,7 @@
       "articles": []
     },
     {
-      "title": "DeepMind Blog",
+      "title": "Google DeepMind Blog",
       "feedUrl": "https://deepmind.com/blog/feed/basic/",
       "siteUrl": "https://deepmind.google/discover/blog/",
       "articles": [
