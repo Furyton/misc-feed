@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-11-02T18:19:03.701Z</updated>
+    <updated>2023-11-02T19:11:52.303Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -2613,36 +2613,6 @@ Using methods designed for planar images to process spherical signals is problem
         <summary type="html"><![CDATA[Yesterday evening in a restaurant, our attentive server frequently asked us things like "Are we ready to order" and "How are we doing?". This use of we is common enough that I didn't notice it. But when they brought us a complimentary bit of sushi with the explanation "Here's some unagi for us", that caught […]]]></summary>
         <author>
             <name>Mark Liberman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Library Updates in PyTorch 2.1]]></title>
-        <id>https://pytorch.org/blog/new-library-updates/</id>
-        <link href="https://pytorch.org/blog/new-library-updates/"/>
-        <updated>2023-10-04T07:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Summary]]></summary>
-        <author>
-            <name>PyTorch Website</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PyTorch 2.1: automatic dynamic shape compilation, distributed checkpointing]]></title>
-        <id>https://pytorch.org/blog/pytorch-2-1/</id>
-        <link href="https://pytorch.org/blog/pytorch-2-1/"/>
-        <updated>2023-10-04T07:00:00.000Z</updated>
-        <summary type="html"><![CDATA[We are excited to announce the release of PyTorch® 2.1 (release note)! PyTorch 2.1 offers automatic dynamic shape support in torch.compile, torch.distributed.checkpoint for saving/loading distributed training jobs on multiple ranks in parallel, and torch.compile support for the NumPy API.]]></summary>
-        <author>
-            <name>PyTorch Website</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[High performance Llama 2 deployments with AWS Inferentia2 using TorchServe]]></title>
-        <id>https://pytorch.org/blog/high-performance-llama/</id>
-        <link href="https://pytorch.org/blog/high-performance-llama/"/>
-        <updated>2023-10-04T07:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Recently, Llama 2 was released and has attracted a lot of interest from the machine learning community. Amazon EC2 Inf2 instances, powered by AWS Inferentia2, now support training and inference of Llama 2 models. In this post, we show low-latency and cost-effective inference of Llama-2 models on Amazon EC2 Inf2 instances using the latest AWS Neuron SDK release.  We first introduce how to create, compile and deploy the Llama-2 model and explain the optimization techniques introduced by AWS Neuron SDK to achieve high performance at low cost. We then present our benchmarking results. Lastly, we show how the Llama-2 model can be deployed through Amazon SageMaker using TorchServe on an Inf2 instance.]]></summary>
-        <author>
-            <name>PyTorch Website</name>
         </author>
     </entry>
 </feed>
