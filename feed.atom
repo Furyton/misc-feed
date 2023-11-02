@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-11-02T04:17:43.095Z</updated>
+    <updated>2023-11-02T05:14:13.293Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Online learning in bandits with predicted context]]></title>
+        <id>http://arxiv.org/abs/2307.13916</id>
+        <link href="http://arxiv.org/abs/2307.13916"/>
+        <updated>2023-11-02T05:14:05.276Z</updated>
+        <summary type="html"><![CDATA[Yongyi Guo, Ziping Xu, Susan Murphy]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Meta-Learning Adversarial Bandit Algorithms]]></title>
         <id>http://arxiv.org/abs/2307.02295</id>
