@@ -2,10 +2,63 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-11-02T01:04:56.521Z</updated>
+    <updated>2023-11-02T02:21:24.800Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Meta-Learning Adversarial Bandit Algorithms]]></title>
+        <id>http://arxiv.org/abs/2307.02295</id>
+        <link href="http://arxiv.org/abs/2307.02295"/>
+        <updated>2023-11-02T02:21:18.815Z</updated>
+        <summary type="html"><![CDATA[Mikhail Khodak, Ilya Osadchiy, Keegan Harris, Maria-Florina Balcan,
+  Kfir Y. Levy, Ron Meir, Zhiwei Steven Wu]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Concept Algebra for (Score-Based) Text-Controlled Generative Models]]></title>
+        <id>http://arxiv.org/abs/2302.03693</id>
+        <link href="http://arxiv.org/abs/2302.03693"/>
+        <updated>2023-11-02T02:21:18.711Z</updated>
+        <summary type="html"><![CDATA[Zihao Wang, Lin Gui, Jeffrey Negrea, Victor Veitch]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[On Learning Necessary and Sufficient Causal Graphs]]></title>
+        <id>http://arxiv.org/abs/2301.12389</id>
+        <link href="http://arxiv.org/abs/2301.12389"/>
+        <updated>2023-11-02T02:21:18.708Z</updated>
+        <summary type="html"><![CDATA[Hengrui Cai, Yixin Wang, Michael Jordan, Rui Song]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Likelihood-Free Frequentist Inference: Bridging Classical Statistics and
+  Machine Learning in Simulator-Based Inference]]></title>
+        <id>http://arxiv.org/abs/2107.03920</id>
+        <link href="http://arxiv.org/abs/2107.03920"/>
+        <updated>2023-11-02T02:21:18.478Z</updated>
+        <summary type="html"><![CDATA[Niccol\`o Dalmasso, Luca Masserano, David Zhao, Rafael Izbicki, Ann B.
+  Lee]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Corruption-robust exploration in episodic reinforcement learning]]></title>
+        <id>http://arxiv.org/abs/1911.08689</id>
+        <link href="http://arxiv.org/abs/1911.08689"/>
+        <updated>2023-11-02T02:21:18.473Z</updated>
+        <summary type="html"><![CDATA[Thodoris Lykouris, Max Simchowitz, Aleksandrs Slivkins, Wen Sun]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Warwick Stats recruits]]></title>
         <id>http://xianblog.wordpress.com/?p=54323</id>

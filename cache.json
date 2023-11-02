@@ -6,6 +6,56 @@
       "siteUrl": "https://www.arxivist.com",
       "articles": [
         {
+          "id": "http://arxiv.org/abs/2307.02295",
+          "author": null,
+          "description": "Mikhail Khodak, Ilya Osadchiy, Keegan Harris, Maria-Florina Balcan,\n  Kfir Y. Levy, Ron Meir, Zhiwei Steven Wu",
+          "link": "http://arxiv.org/abs/2307.02295",
+          "publishedOn": "2023-11-02T02:21:18.815Z",
+          "wordCount": 696,
+          "title": "Meta-Learning Adversarial Bandit Algorithms",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2302.03693",
+          "author": null,
+          "description": "Zihao Wang, Lin Gui, Jeffrey Negrea, Victor Veitch",
+          "link": "http://arxiv.org/abs/2302.03693",
+          "publishedOn": "2023-11-02T02:21:18.711Z",
+          "wordCount": 658,
+          "title": "Concept Algebra for (Score-Based) Text-Controlled Generative Models",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2301.12389",
+          "author": null,
+          "description": "Hengrui Cai, Yixin Wang, Michael Jordan, Rui Song",
+          "link": "http://arxiv.org/abs/2301.12389",
+          "publishedOn": "2023-11-02T02:21:18.708Z",
+          "wordCount": 748,
+          "title": "On Learning Necessary and Sufficient Causal Graphs",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2107.03920",
+          "author": null,
+          "description": "Niccol\\`o Dalmasso, Luca Masserano, David Zhao, Rafael Izbicki, Ann B.\n  Lee",
+          "link": "http://arxiv.org/abs/2107.03920",
+          "publishedOn": "2023-11-02T02:21:18.478Z",
+          "wordCount": 813,
+          "title": "Likelihood-Free Frequentist Inference: Bridging Classical Statistics and\n  Machine Learning in Simulator-Based Inference",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/1911.08689",
+          "author": null,
+          "description": "Thodoris Lykouris, Max Simchowitz, Aleksandrs Slivkins, Wen Sun",
+          "link": "http://arxiv.org/abs/1911.08689",
+          "publishedOn": "2023-11-02T02:21:18.473Z",
+          "wordCount": 755,
+          "title": "Corruption-robust exploration in episodic reinforcement learning",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
           "id": "http://arxiv.org/abs/2208.04591",
           "author": null,
           "description": "Vitaly Feldman, Audra McMillan, Kunal Talwar",
