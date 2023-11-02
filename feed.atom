@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-11-02T14:14:18.613Z</updated>
+    <updated>2023-11-02T15:15:17.606Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -2633,61 +2633,6 @@ Using methods designed for planar images to process spherical signals is problem
         <summary type="html"><![CDATA[Recently, Llama 2 was released and has attracted a lot of interest from the machine learning community. Amazon EC2 Inf2 instances, powered by AWS Inferentia2, now support training and inference of Llama 2 models. In this post, we show low-latency and cost-effective inference of Llama-2 models on Amazon EC2 Inf2 instances using the latest AWS Neuron SDK release.  We first introduce how to create, compile and deploy the Llama-2 model and explain the optimization techniques introduced by AWS Neuron SDK to achieve high performance at low cost. We then present our benchmarking results. Lastly, we show how the Llama-2 model can be deployed through Amazon SageMaker using TorchServe on an Inf2 instance.]]></summary>
         <author>
             <name>PyTorch Website</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[In-Context Learning Learns Label Relationships but Is Not Conventional
-  Learning]]></title>
-        <id>http://arxiv.org/abs/2307.12375</id>
-        <link href="http://arxiv.org/abs/2307.12375"/>
-        <updated>2023-10-04T02:22:27.694Z</updated>
-        <summary type="html"><![CDATA[Jannik Kossen, Yarin Gal, Tom Rainforth]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learning k-Level Sparse Neural Networks Using a New Generalized Weighted
-  Group Sparse Envelope Regularization]]></title>
-        <id>http://arxiv.org/abs/2212.12921</id>
-        <link href="http://arxiv.org/abs/2212.12921"/>
-        <updated>2023-10-04T02:22:27.683Z</updated>
-        <summary type="html"><![CDATA[Yehonathan Refael, Iftach Arbel, Wasim Huleihel]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Transferring Learning Trajectories of Neural Networks]]></title>
-        <id>http://arxiv.org/abs/2305.14122</id>
-        <link href="http://arxiv.org/abs/2305.14122"/>
-        <updated>2023-10-04T02:22:27.565Z</updated>
-        <summary type="html"><![CDATA[Daiki Chijiwa]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learning to Relax: Setting Solver Parameters Across a Sequence of Linear
-  System Instances]]></title>
-        <id>http://arxiv.org/abs/2310.02246</id>
-        <link href="http://arxiv.org/abs/2310.02246"/>
-        <updated>2023-10-04T02:22:27.560Z</updated>
-        <summary type="html"><![CDATA[Mikhail Khodak, Edmond Chow, Maria-Florina Balcan, Ameet Talwalkar]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Unifying supervised learning and VAEs -- coverage, systematics and
-  goodness-of-fit in normalizing-flow based neural network models for
-  astro-particle reconstructions]]></title>
-        <id>http://arxiv.org/abs/2008.05825</id>
-        <link href="http://arxiv.org/abs/2008.05825"/>
-        <updated>2023-10-04T02:22:27.476Z</updated>
-        <summary type="html"><![CDATA[Thorsten Gl\"usenkamp]]></summary>
-        <author>
-            <name>arxivist feed</name>
         </author>
     </entry>
 </feed>
