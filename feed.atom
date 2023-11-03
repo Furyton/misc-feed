@@ -2,10 +2,73 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-11-03T01:05:52.613Z</updated>
+    <updated>2023-11-03T02:22:46.557Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Carsen Stringer - Unsupervised pretraining in biological neural networks]]></title>
+        <id>https://mlfoundations.org/talk/carsen/</id>
+        <link href="https://mlfoundations.org/talk/carsen/"/>
+        <updated>2023-11-03T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Representation learning in neural networks may be implemented with supervised or unsupervised algorithms, distinguished by the presence or absence of reward feedback. Both types of learning are highly effective in artificial neural networks. In biological systems, task learning has been shown to modify sensory neural representations, but it is not known if these changes are due to supervised or unsupervised learning. Here we recorded populations of up to 70,000 neurons simultaneously from primary visual cortex (V1) and higher visual areas (HVA), while animals learned multiple tasks as well as during unrewarded exposure to the same stimuli. We found that most neural changes in task mice were replicated in the mice with unrewarded exposure. These changes were concentrated in the medial HVAs after mice learned to discriminate visual textures from two different classes. In contrast, the changes were widespread across visual areas after mice learned to discriminate between two exemplars of the same visual class. In both tasks, neural representations of the most recently learned exemplar generalized to new exemplars of the same visual category and the behavior of the mice generalized according to the same rule. These specific neural changes were replicated in mice with unrewarded exposure, suggesting that unsupervised learning plays a major role in visual learning. In task mice only, we found a neural population in anterior HVAs encoding a ramping reward prediction signal, potentially involved in the supervised learning. Our neural results predict that unsupervised pretraining may accelerate subsequent task learning, a prediction which we validated with behavioral training experiments.]]></summary>
+        <author>
+            <name>Harvard ML Foundations</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Anonymous Learning via Look-Alike Clustering: A Precise Analysis of
+  Model Generalization]]></title>
+        <id>http://arxiv.org/abs/2310.04015</id>
+        <link href="http://arxiv.org/abs/2310.04015"/>
+        <updated>2023-11-03T02:22:45.380Z</updated>
+        <summary type="html"><![CDATA[Adel Javanmard, Vahab Mirrokni]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Inversion of Bayesian Networks]]></title>
+        <id>http://arxiv.org/abs/2212.10649</id>
+        <link href="http://arxiv.org/abs/2212.10649"/>
+        <updated>2023-11-03T02:22:45.373Z</updated>
+        <summary type="html"><![CDATA[Jesse van Oostrum, Peter van Hintum, Nihat Ay]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Long Story Short: Omitted Variable Bias in Causal Machine Learning]]></title>
+        <id>http://arxiv.org/abs/2112.13398</id>
+        <link href="http://arxiv.org/abs/2112.13398"/>
+        <updated>2023-11-03T02:22:45.366Z</updated>
+        <summary type="html"><![CDATA[Victor Chernozhukov, Carlos Cinelli, Whitney Newey, Amit Sharma,
+  Vasilis Syrgkanis]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[On Learning Gaussian Multi-index Models with Gradient Flow]]></title>
+        <id>http://arxiv.org/abs/2310.19793</id>
+        <link href="http://arxiv.org/abs/2310.19793"/>
+        <updated>2023-11-03T02:22:45.342Z</updated>
+        <summary type="html"><![CDATA[Alberto Bietti, Joan Bruna, Loucas Pillaud-Vivien]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Detection of Interacting Variables for Generalized Linear Models via
+  Neural Networks]]></title>
+        <id>http://arxiv.org/abs/2209.08030</id>
+        <link href="http://arxiv.org/abs/2209.08030"/>
+        <updated>2023-11-03T02:22:41.601Z</updated>
+        <summary type="html"><![CDATA[Yevhen Havrylenko, Julia Heger]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Eeeech… [X validated]]]></title>
         <id>http://xianblog.wordpress.com/?p=53666</id>
