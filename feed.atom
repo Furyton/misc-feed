@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-11-03T05:14:04.040Z</updated>
+    <updated>2023-11-03T06:19:16.323Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -2667,25 +2667,6 @@ In computer vision, scene understanding is the subfield that studies how visible
         <summary type="html"><![CDATA[Visit the post for more.]]></summary>
         <author>
             <name>xi'an</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Scalable spherical CNNs for scientific applications]]></title>
-        <id>http://blog.research.google/2023/10/scalable-spherical-cnns-for-scientific.html</id>
-        <link href="http://blog.research.google/2023/10/scalable-spherical-cnns-for-scientific.html"/>
-        <updated>2023-10-04T17:26:00.003Z</updated>
-        <summary type="html"><![CDATA[Posted by Carlos Esteves and Ameesh Makadia, Research Scientists, Google Research, Athena Team
-
-
-
-
-Typical deep learning models for computer vision, like convolutional neural networks (CNNs) and vision transformers (ViT), process signals assuming planar (flat) spaces. For example, digital images are represented as a grid of pixels on a plane. However, this type of data makes up only a fraction of the data we encounter in scientific applications. Variables sampled from the Earth's atmosphere, like temperature and humidity, are naturally represented on the sphere. Some kinds of cosmological data and panoramic photos are also spherical signals, and are better treated as such. 
-
-
-
-Using methods designed for planar images to process spherical signals is problematic for a couple of reasons. Firs…]]></summary>
-        <author>
-            <name>Google AI Blog</name>
         </author>
     </entry>
 </feed>
