@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-11-03T11:12:55.037Z</updated>
+    <updated>2023-11-03T12:29:06.290Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -14,6 +14,16 @@
         <summary type="html"><![CDATA[Representation learning in neural networks may be implemented with supervised or unsupervised algorithms, distinguished by the presence or absence of reward feedback. Both types of learning are highly effective in artificial neural networks. In biological systems, task learning has been shown to modify sensory neural representations, but it is not known if these changes are due to supervised or unsupervised learning. Here we recorded populations of up to 70,000 neurons simultaneously from primary visual cortex (V1) and higher visual areas (HVA), while animals learned multiple tasks as well as during unrewarded exposure to the same stimuli. We found that most neural changes in task mice were replicated in the mice with unrewarded exposure. These changes were concentrated in the medial HVAs after mice learned to discriminate visual textures from two different classes. In contrast, the changes were widespread across visual areas after mice learned to discriminate between two exemplars of the same visual class. In both tasks, neural representations of the most recently learned exemplar generalized to new exemplars of the same visual category and the behavior of the mice generalized according to the same rule. These specific neural changes were replicated in mice with unrewarded exposure, suggesting that unsupervised learning plays a major role in visual learning. In task mice only, we found a neural population in anterior HVAs encoding a ramping reward prediction signal, potentially involved in the supervised learning. Our neural results predict that unsupervised pretraining may accelerate subsequent task learning, a prediction which we validated with behavioral training experiments.]]></summary>
         <author>
             <name>Harvard ML Foundations</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI insults]]></title>
+        <id>https://languagelog.ldc.upenn.edu/nll/?p=61148</id>
+        <link href="https://languagelog.ldc.upenn.edu/nll/?p=61148&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=ai-insults"/>
+        <updated>2023-11-03T11:26:59.000Z</updated>
+        <summary type="html"><![CDATA[No, not what you get by asking GPT-4 for insults — for that, see below… This is the SMBC comic from a few days ago: Mouseover title: "You catastrophic forgetter! You opaque box! You absolute Chinese room!" The aftercomic: GPT-4's response to the prompt "Give me some really good insults": While I understand the desire […]]]></summary>
+        <author>
+            <name>Mark Liberman</name>
         </author>
     </entry>
     <entry>
