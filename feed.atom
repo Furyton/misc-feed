@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-11-03T16:20:10.041Z</updated>
+    <updated>2023-11-03T17:13:36.793Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Prince of pronunciation]]></title>
+        <id>https://languagelog.ldc.upenn.edu/nll/?p=61141</id>
+        <link href="https://languagelog.ldc.upenn.edu/nll/?p=61141&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=prince-of-pronunciation"/>
+        <updated>2023-11-03T16:57:44.000Z</updated>
+        <summary type="html"><![CDATA[Many people have the (mis)perception that the French (mis)pronounce all languages with a heavy accent.  It turns out that the gold standard for correct pronunciation of borrowed words is a French gentilhomme /ʒɑ̃.ti.jɔm/. How to Pronounce the Trickiest English Words: Ask This Frenchman Millions of Americans, the curious and the insecure, consult Julien Miquel for […]]]></summary>
+        <author>
+            <name>Victor Mair</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Carsen Stringer - Unsupervised pretraining in biological neural networks]]></title>
         <id>https://mlfoundations.org/talk/carsen/</id>
