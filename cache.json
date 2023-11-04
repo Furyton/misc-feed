@@ -2048,6 +2048,26 @@
       "siteUrl": "http://blog.research.google/",
       "articles": [
         {
+          "id": "http://blog.research.google/2023/11/best-of-both-worlds-achieving.html",
+          "author": null,
+          "description": "Posted by Sara Ahmadian and Mehran Kazemi, Research Scientists, Google Research\n\n\n\n\nClustering is a fundamental, ubiquitous problem in data mining and unsupervised machine learning, where the goal is to group together similar items. The standard forms of clustering are metric clustering and graph clustering. In metric clustering, a given metric space defines distances between data points, which are grouped together based on their separation. In graph clustering, a given graph connects similar data points through edges, and the clustering process groups data points together based on the connections between them. Both clustering forms are particularly useful for large corpora where class labels can’t be defined. Examples of such corpora are the ever-growing digital text collections of variou…",
+          "link": "http://blog.research.google/2023/11/best-of-both-worlds-achieving.html",
+          "publishedOn": "2023-11-03T18:23:00.001Z",
+          "wordCount": 27622,
+          "title": "Best of both worlds: Achieving scalability and quality in text clustering",
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjR2mD5afdT_Qg9Ex4Lj94FaxB9KHiq20iLoDlOY8S8Rk5XsV6n_4dU9CFbCvSeBSONGQYqy-yMGY6-KU_y_RGICOpz76GNdzv7ecxor_rVnF31lZOd3STQF4MIE4F_EadrSI1DXY67MXnsCswY3w3X8vX8KgU_rRPs6eTZndYAbVcEezgwaUsdZEAHD59Z/w1200-h630-p-k-no-nu/hero.jpg"
+        },
+        {
+          "id": "http://blog.research.google/2023/11/zero-shot-adaptive-prompting-of-large.html",
+          "author": null,
+          "description": "Posted by Xingchen Wan, Student Researcher, and Ruoxi Sun, Research Scientist, Cloud AI Team\n\n\n\n\nRecent advances in large language models (LLMs) are very promising as reflected in their capability for general problem-solving in few-shot and zero-shot setups, even without explicit training on these tasks. This is impressive because in the few-shot setup, LLMs are presented with only a few question-answer demonstrations prior to being given a test question. Even more challenging is the zero-shot setup, where the LLM is directly prompted with the test question only. \n\n\n\n\nEven though the few-shot setup has dramatically reduced the amount of data required to adapt a model for a specific use-case, there are still cases where generating sample prompts can be challenging. For example, handcrafting…",
+          "link": "http://blog.research.google/2023/11/zero-shot-adaptive-prompting-of-large.html",
+          "publishedOn": "2023-11-02T22:01:00.001Z",
+          "wordCount": 27945,
+          "title": "Zero-shot adaptive prompting of large language models",
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiqTosaeIs4AMYukkmgUBEii6iQcrr9_dNKM0cHnW6m9Wi8yX0V-QCduQfkqLyQPNpVbze3OFO-nPG5Wm9DLMM8pEAfhQGq-TEJroLJGQyqNr-hlJNkToBCmgJbphrCRvlv95gkDQH0ScT7VrXu2VCTKyiWy8yYM4G8voF0kD0K2oxwg2M2xBcz1yQnU0Zb/w1200-h630-p-k-no-nu/USP.gif"
+        },
+        {
           "id": "http://blog.research.google/2023/11/metnet-3-state-of-art-neural-weather.html",
           "author": null,
           "description": "Posted by Samier Merchant, Google Research, and Nal Kalchbrenner, Google DeepMind\n\n\n\n\n\n\nForecasting weather variables such as precipitation, temperature, and wind is key to numerous aspects of society, from daily planning and transportation to energy production. As we continue to see more extreme weather events such as floods, droughts, and heat waves, accurate forecasts can be essential to preparing for and mitigating their effects. The first 24 hours into the future are especially important as they are both highly predictable and actionable, which can help people make informed decisions in a timely manner and stay safe. \n \n\nToday we present a new weather model called MetNet-3, developed by Google Research and Google DeepMind. Building on the earlier MetNet and MetNet-2 models, MetNet-3 p…",
@@ -2190,6 +2210,16 @@
       "feedUrl": "https://languagelog.ldc.upenn.edu/nll/?feed=rss2",
       "siteUrl": "https://languagelog.ldc.upenn.edu/nll",
       "articles": [
+        {
+          "id": "https://languagelog.ldc.upenn.edu/nll/?p=61154",
+          "author": "Victor Mair",
+          "description": "Sign on a truck in Hong Kong: It says: Lún lún lún輪倫侖lit. \"wheel — Lon(don) / kinship / relationship / logic / order / match / peer — (Kun)lun / [alternate form of the previous character, hence having its sound and all of its meanings]\" lún 輪 is the Chinese glyph / word for \"wheel\". […]",
+          "link": "https://languagelog.ldc.upenn.edu/nll/?p=61154&utm_source=rss&utm_medium=rss&utm_campaign=got-wheels",
+          "publishedOn": "2023-11-04T16:17:44.000Z",
+          "wordCount": 2094,
+          "title": "Got wheels",
+          "imageUrl": null
+        },
         {
           "id": "https://languagelog.ldc.upenn.edu/nll/?p=61128",
           "author": "Victor Mair",

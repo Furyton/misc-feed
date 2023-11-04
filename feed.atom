@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-11-04T16:17:53.022Z</updated>
+    <updated>2023-11-04T17:12:15.325Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Got wheels]]></title>
+        <id>https://languagelog.ldc.upenn.edu/nll/?p=61154</id>
+        <link href="https://languagelog.ldc.upenn.edu/nll/?p=61154&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=got-wheels"/>
+        <updated>2023-11-04T16:17:44.000Z</updated>
+        <summary type="html"><![CDATA[Sign on a truck in Hong Kong: It says: Lún lún lún輪倫侖lit. "wheel — Lon(don) / kinship / relationship / logic / order / match / peer — (Kun)lun / [alternate form of the previous character, hence having its sound and all of its meanings]" lún 輪 is the Chinese glyph / word for "wheel". […]]]></summary>
+        <author>
+            <name>Victor Mair</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Marsset]]></title>
         <id>http://xianblog.wordpress.com/?p=54040</id>
@@ -24,6 +34,21 @@
         <summary type="html"><![CDATA[King’s English and Cockney replaced by three new accents, study finds Britons depart from overtly class-based post-war speech epitomised by either clipped vowels or working-class dialects By Charles Hymas, The Telegraph, Home Affairs Editor 30 October 2023 • 6:33pm I vaguely recall an earlier study from about ten years ago that came to similar conclusions (including the emergence of […]]]></summary>
         <author>
             <name>Victor Mair</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Best of both worlds: Achieving scalability and quality in text clustering]]></title>
+        <id>http://blog.research.google/2023/11/best-of-both-worlds-achieving.html</id>
+        <link href="http://blog.research.google/2023/11/best-of-both-worlds-achieving.html"/>
+        <updated>2023-11-03T18:23:00.001Z</updated>
+        <summary type="html"><![CDATA[Posted by Sara Ahmadian and Mehran Kazemi, Research Scientists, Google Research
+
+
+
+
+Clustering is a fundamental, ubiquitous problem in data mining and unsupervised machine learning, where the goal is to group together similar items. The standard forms of clustering are metric clustering and graph clustering. In metric clustering, a given metric space defines distances between data points, which are grouped together based on their separation. In graph clustering, a given graph connects similar data points through edges, and the clustering process groups data points together based on the connections between them. Both clustering forms are particularly useful for large corpora where class labels can’t be defined. Examples of such corpora are the ever-growing digital text collections of variou…]]></summary>
+        <author>
+            <name>Google AI Blog</name>
         </author>
     </entry>
     <entry>
@@ -127,6 +152,26 @@
         <summary type="html"><![CDATA[Dan Nosowitz, "The ‘Crispy R’ and Why R Is the Weirdest Letter", Atlas Obscura 11/2/2023: The crispy R is a phenomenon that some linguists had noticed, but which had gone largely unstudied—until the phrase “crispy R” was bestowed on it by Brian Michael Firkus, better known as Trixie Mattel, the winner of the third season […]]]></summary>
         <author>
             <name>Mark Liberman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Zero-shot adaptive prompting of large language models]]></title>
+        <id>http://blog.research.google/2023/11/zero-shot-adaptive-prompting-of-large.html</id>
+        <link href="http://blog.research.google/2023/11/zero-shot-adaptive-prompting-of-large.html"/>
+        <updated>2023-11-02T22:01:00.001Z</updated>
+        <summary type="html"><![CDATA[Posted by Xingchen Wan, Student Researcher, and Ruoxi Sun, Research Scientist, Cloud AI Team
+
+
+
+
+Recent advances in large language models (LLMs) are very promising as reflected in their capability for general problem-solving in few-shot and zero-shot setups, even without explicit training on these tasks. This is impressive because in the few-shot setup, LLMs are presented with only a few question-answer demonstrations prior to being given a test question. Even more challenging is the zero-shot setup, where the LLM is directly prompted with the test question only. 
+
+
+
+
+Even though the few-shot setup has dramatically reduced the amount of data required to adapt a model for a specific use-case, there are still cases where generating sample prompts can be challenging. For example, handcrafting…]]></summary>
+        <author>
+            <name>Google AI Blog</name>
         </author>
     </entry>
     <entry>
