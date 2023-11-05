@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-11-04T23:13:47.130Z</updated>
+    <updated>2023-11-05T01:09:54.888Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Covent’ska [jatp]]]></title>
+        <id>http://xianblog.wordpress.com/?p=53444</id>
+        <link href="https://xianblog.wordpress.com/2023/11/05/coventska-jatp/"/>
+        <updated>2023-11-04T23:23:19.000Z</updated>
+        <summary type="html"><![CDATA[Visit the post for more.]]></summary>
+        <author>
+            <name>xi'an</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Got wheels]]></title>
         <id>https://languagelog.ldc.upenn.edu/nll/?p=61154</id>
@@ -2566,16 +2576,6 @@ In computer vision, scene understanding is the subfield that studies how visible
         <summary type="html"><![CDATA[Craig Philpot]]></summary>
         <author>
             <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["Keereezmy"; "Kill his mind"]]></title>
-        <id>https://languagelog.ldc.upenn.edu/nll/?p=60856</id>
-        <link href="https://languagelog.ldc.upenn.edu/nll/?p=60856&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=keereezmy-kill-his-mind"/>
-        <updated>2023-10-06T11:32:28.000Z</updated>
-        <summary type="html"><![CDATA[As I explained here in February of this year: One time on an expedition around the western part of the Taklamakan Desert in the center of Asia more than a decade ago, the Chinese driver played Lady Gaga's "Poker Face" scores of times.  He had other discs, but he only played that song, and he […]]]></summary>
-        <author>
-            <name>Victor Mair</name>
         </author>
     </entry>
 </feed>
