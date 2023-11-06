@@ -1334,7 +1334,18 @@
       "title": "Lil'Log",
       "feedUrl": "https://lilianweng.github.io/index.xml",
       "siteUrl": "https://lilianweng.github.io/",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://lilianweng.github.io/posts/2023-10-25-adv-attack-llm/",
+          "author": null,
+          "description": "The use of large language models in the real world has strongly accelerated by the launch of ChatGPT. We (including my team at OpenAI, shoutout to them) have invested a lot of effort to build default safe behavior into the model during the alignment process (e.g. via RLHF). However, adversarial attacks or jailbreak prompts could potentially trigger the model to output something undesired.\nA large body of ground work on adversarial attacks is on images, and differently it operates in the continuous, high-dimensional space.",
+          "link": "https://lilianweng.github.io/posts/2023-10-25-adv-attack-llm/",
+          "publishedOn": "2023-10-25T00:00:00.000Z",
+          "wordCount": 14420,
+          "title": "Adversarial Attacks on LLMs",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "Amit Chaudhary",
@@ -1697,6 +1708,16 @@
       "feedUrl": "https://xianblog.wordpress.com/feed/",
       "siteUrl": "https://xianblog.wordpress.com",
       "articles": [
+        {
+          "id": "http://xianblog.wordpress.com/?p=54409",
+          "author": "xi'an",
+          "description": "Visit the post for more.",
+          "link": "https://xianblog.wordpress.com/2023/11/06/we-need-an-immediate-humanitarian-ceasefire-in-gaza/",
+          "publishedOn": "2023-11-06T10:00:49.000Z",
+          "wordCount": 1892,
+          "title": "We need an immediate humanitarian ceasefire in Gaza",
+          "imageUrl": "https://xianblog.files.wordpress.com/2023/11/temp.png"
+        },
         {
           "id": "http://xianblog.wordpress.com/?p=54087",
           "author": "xi'an",

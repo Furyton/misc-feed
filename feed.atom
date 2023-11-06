@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-11-06T09:16:54.851Z</updated>
+    <updated>2023-11-06T10:17:25.922Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[We need an immediate humanitarian ceasefire in Gaza]]></title>
+        <id>http://xianblog.wordpress.com/?p=54409</id>
+        <link href="https://xianblog.wordpress.com/2023/11/06/we-need-an-immediate-humanitarian-ceasefire-in-gaza/"/>
+        <updated>2023-11-06T10:00:49.000Z</updated>
+        <summary type="html"><![CDATA[Visit the post for more.]]></summary>
+        <author>
+            <name>xi'an</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bayesian learning of feature spaces for multitasks problems]]></title>
         <id>http://arxiv.org/abs/2209.03028</id>
@@ -1156,6 +1166,17 @@ The conventional approach to GEC is to treat it as a translation problem and use
         <summary type="html"><![CDATA[0:00 Etruscan  0:39 Sumerian  1:25 Ancient Greek  2:24 Urartian 3:24 Avestan  3:50 Egyptian  4:41 Akkadian  5:34 Sanskrit 6:33 Hittite  7:31 Latin  8:28 Phoenician  9:14 End 0:00 Proto Indo European 0:30 Sabaic  1:00 Sanskrit  1:30 Aramaic 2:00 Sumerian 2:30 Old Chinese 3:00 Ge`ez 3:30 Gothic language And here are two shorts Old Norse Old English I […]]]></summary>
         <author>
             <name>Victor Mair</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Adversarial Attacks on LLMs]]></title>
+        <id>https://lilianweng.github.io/posts/2023-10-25-adv-attack-llm/</id>
+        <link href="https://lilianweng.github.io/posts/2023-10-25-adv-attack-llm/"/>
+        <updated>2023-10-25T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The use of large language models in the real world has strongly accelerated by the launch of ChatGPT. We (including my team at OpenAI, shoutout to them) have invested a lot of effort to build default safe behavior into the model during the alignment process (e.g. via RLHF). However, adversarial attacks or jailbreak prompts could potentially trigger the model to output something undesired.
+A large body of ground work on adversarial attacks is on images, and differently it operates in the continuous, high-dimensional space.]]></summary>
+        <author>
+            <name>Lil'Log</name>
         </author>
     </entry>
     <entry>
