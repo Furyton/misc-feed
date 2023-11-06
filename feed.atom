@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-11-06T10:17:25.922Z</updated>
+    <updated>2023-11-06T11:13:05.656Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -2599,16 +2599,6 @@ In computer vision, scene understanding is the subfield that studies how visible
         <summary type="html"><![CDATA[作为LLM的主流模型架构，Transformer在各类任务上的总体表现都出色，大多数情况下，Transformer的槽点只是它的平方复杂度，而不是效果——除了一个名为Long Range Are...]]></summary>
         <author>
             <name>苏剑林</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[computational statistics position at U of Toronto]]></title>
-        <id>http://xianblog.wordpress.com/?p=54184</id>
-        <link href="https://xianblog.wordpress.com/2023/10/08/computational-statistics-position-at-u-of-toronto/"/>
-        <updated>2023-10-07T22:23:38.000Z</updated>
-        <summary type="html"><![CDATA[Another Canadian assistant professor opening in computational statistics, with a call for candidates from the University of Toronto, with deadline 20 November 2023: Candidates must have earned a PhD degree in Statistics or a related area by the time of appointment, or shortly thereafter, with a demonstrated record of excellence in research and teaching. Experience […]]]></summary>
-        <author>
-            <name>xi'an</name>
         </author>
     </entry>
 </feed>
