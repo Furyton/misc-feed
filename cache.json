@@ -1210,16 +1210,6 @@
           "wordCount": 1581,
           "title": "EMO：基于最优传输思想设计的分类损失函数",
           "imageUrl": null
-        },
-        {
-          "id": "https://kexue.fm/archives/9787",
-          "author": "苏剑林",
-          "description": "作为LLM的主流模型架构，Transformer在各类任务上的总体表现都出色，大多数情况下，Transformer的槽点只是它的平方复杂度，而不是效果——除了一个名为Long Range Are...",
-          "link": "https://kexue.fm/archives/9787",
-          "publishedOn": "2023-10-08T07:09:00.000Z",
-          "wordCount": 1452,
-          "title": "预训练一下，Transformer的长序列成绩还能涨不少！",
-          "imageUrl": null
         }
       ]
     },
@@ -1476,6 +1466,16 @@
       "feedUrl": "https://pytorch.org/feed",
       "siteUrl": "https://pytorch.org/",
       "articles": [
+        {
+          "id": "https://pytorch.org/blog/high-performance-llama-2/",
+          "author": null,
+          "description": "In a landscape where AI innovation is accelerating at an unprecedented pace, Meta’s Llama family of open sourced large language models (LLMs) stands out as a notable breakthrough. Llama marked a significant step forward for LLMs, demonstrating the power of pre-trained architectures for a wide range of applications. Llama 2 further pushed the boundaries of scale and capabilities, inspiring advancements in language understanding, generation, and beyond.",
+          "link": "https://pytorch.org/blog/high-performance-llama-2/",
+          "publishedOn": "2023-11-06T08:00:00.000Z",
+          "wordCount": 3978,
+          "title": "High-Performance Llama 2 Training and Inference with PyTorch/XLA on Cloud TPUs",
+          "imageUrl": "https://pytorch.org/assets/images/pytorch-logo.png"
+        },
         {
           "id": "https://pytorch.org/blog/accelerating-inference/",
           "author": null,

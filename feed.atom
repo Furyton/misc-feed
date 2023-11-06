@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-11-06T18:19:14.490Z</updated>
+    <updated>2023-11-06T19:11:43.867Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -24,6 +24,16 @@
         <summary type="html"><![CDATA[Visit the post for more.]]></summary>
         <author>
             <name>xi'an</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[High-Performance Llama 2 Training and Inference with PyTorch/XLA on Cloud TPUs]]></title>
+        <id>https://pytorch.org/blog/high-performance-llama-2/</id>
+        <link href="https://pytorch.org/blog/high-performance-llama-2/"/>
+        <updated>2023-11-06T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In a landscape where AI innovation is accelerating at an unprecedented pace, Meta’s Llama family of open sourced large language models (LLMs) stands out as a notable breakthrough. Llama marked a significant step forward for LLMs, demonstrating the power of pre-trained architectures for a wide range of applications. Llama 2 further pushed the boundaries of scale and capabilities, inspiring advancements in language understanding, generation, and beyond.]]></summary>
+        <author>
+            <name>PyTorch Website</name>
         </author>
     </entry>
     <entry>
@@ -2599,16 +2609,6 @@ In computer vision, scene understanding is the subfield that studies how visible
         <summary type="html"><![CDATA[The traditional group picture at the end of Eric Moulines’ 60th anniversary celebration, at IHP, Paris. Some of the participants had already left (and I am carefully hidding in the background). Among the celebrating talks reflecting the huge thematic diversity of EM’s carreer, Patrick Flandrin gave a great historical account of a certain Édouard-Léon Scott […]]]></summary>
         <author>
             <name>xi'an</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[预训练一下，Transformer的长序列成绩还能涨不少！]]></title>
-        <id>https://kexue.fm/archives/9787</id>
-        <link href="https://kexue.fm/archives/9787"/>
-        <updated>2023-10-08T07:09:00.000Z</updated>
-        <summary type="html"><![CDATA[作为LLM的主流模型架构，Transformer在各类任务上的总体表现都出色，大多数情况下，Transformer的槽点只是它的平方复杂度，而不是效果——除了一个名为Long Range Are...]]></summary>
-        <author>
-            <name>苏剑林</name>
         </author>
     </entry>
 </feed>
