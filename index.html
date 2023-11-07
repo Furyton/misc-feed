@@ -22,11 +22,45 @@
             data-action="toggle-accordions"
             title="Click to toggle the day, Ctrl + click to toggle all."
           >
-            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2023-11-07 datetime="2023-11-07T03:15:36.190Z">2023-11-07</time>
-            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2023-11-07 datetime="2023-11-07T03:15:36.190Z"></time>
+            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2023-11-07 datetime="2023-11-07T08:00:00.000Z">2023-11-07</time>
+            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2023-11-07 datetime="2023-11-07T08:00:00.000Z"></time>
           </button>
         </h2>
         <ul class="sources card">
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >PyTorch Website</button>
+                  <a class="source-heading__link" href="https://pytorch.org/">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://pytorch.org/blog/pytorch-compile-to-speed-up-inference/"
+                        open
+                      >
+                        <summary class="article-expander__title">PyTorch compile to speed up inference on Llama 2</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://pytorch.org/blog/pytorch-compile-to-speed-up-inference/">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://pytorch.org/assets/images/pytorch-logo.png" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>In this blog, we discuss how to improve the inference latencies of the Llama 2 family of models using PyTorch native optimizations such as native fast kernels, compile transformations from torch compile, and tensor parallel for distributed inference. Our approach results in 29ms/token latency for single user requests on the 70B LLaMa model (as measured on 8 A100 GPUs). We are excited to share our findings with the community and make our code available here.</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;7
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
             <li class="card__section">
               <section class="js-toggle-accordions-scope">
                 <h3 class="source-heading">
@@ -7221,8 +7255,8 @@ In computer vision, scene understanding is the subfield that studies how visible
       </section>
 
     <footer>
-      <a class="footer-link" href="https://github.com/Furyton/misc-feed/actions/runs/6787312610">
-        <time id="build-timestamp" datetime="2023-11-07T16:19:41.200Z">2023-11-07T16:19:41.200Z</time>
+      <a class="footer-link" href="https://github.com/Furyton/misc-feed/actions/runs/6787959696">
+        <time id="build-timestamp" datetime="2023-11-07T17:13:57.509Z">2023-11-07T17:13:57.509Z</time>
       </a>
       <a class="footer-link" href="https://github.com/osmoscraft/osmosfeed">osmosfeed 1.15.1</a>
     </footer>
