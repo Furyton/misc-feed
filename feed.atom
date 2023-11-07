@@ -2,10 +2,63 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-11-07T02:25:01.491Z</updated>
+    <updated>2023-11-07T03:15:36.218Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Low Tensor Rank Learning of Neural Dynamics]]></title>
+        <id>http://arxiv.org/abs/2308.11567</id>
+        <link href="http://arxiv.org/abs/2308.11567"/>
+        <updated>2023-11-07T03:15:36.190Z</updated>
+        <summary type="html"><![CDATA[Arthur Pellegrino, N Alex Cayco-Gajic, Angus Chadwick]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Estimation and inference for transfer learning with high-dimensional
+  quantile regression]]></title>
+        <id>http://arxiv.org/abs/2211.14578</id>
+        <link href="http://arxiv.org/abs/2211.14578"/>
+        <updated>2023-11-07T03:15:36.180Z</updated>
+        <summary type="html"><![CDATA[Jiayu Huang, Mingqiu Wang, Yuanshan Wu]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Towards Revealing the Mystery behind Chain of Thought: A Theoretical
+  Perspective]]></title>
+        <id>http://arxiv.org/abs/2305.15408</id>
+        <link href="http://arxiv.org/abs/2305.15408"/>
+        <updated>2023-11-07T03:15:36.157Z</updated>
+        <summary type="html"><![CDATA[Guhao Feng, Bohang Zhang, Yuntian Gu, Haotian Ye, Di He, Liwei Wang]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Theory for Emergence of Complex Skills in Language Models]]></title>
+        <id>http://arxiv.org/abs/2307.15936</id>
+        <link href="http://arxiv.org/abs/2307.15936"/>
+        <updated>2023-11-07T03:15:36.137Z</updated>
+        <summary type="html"><![CDATA[Sanjeev Arora, Anirudh Goyal]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Architecture Matters: Uncovering Implicit Mechanisms in Graph
+  Contrastive Learning]]></title>
+        <id>http://arxiv.org/abs/2311.02687</id>
+        <link href="http://arxiv.org/abs/2311.02687"/>
+        <updated>2023-11-07T03:15:36.106Z</updated>
+        <summary type="html"><![CDATA[Xiaojun Guo, Yifei Wang, Zeming Wei, Yisen Wang]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bayesian inference from the ground up [no book review]]]></title>
         <id>http://xianblog.wordpress.com/?p=54094</id>
