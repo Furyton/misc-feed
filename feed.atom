@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-11-07T19:12:23.418Z</updated>
+    <updated>2023-11-07T20:15:50.568Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Mao and Chinese Character Reform: Revisionist History on CCTV]]></title>
+        <id>https://languagelog.ldc.upenn.edu/nll/?p=61179</id>
+        <link href="https://languagelog.ldc.upenn.edu/nll/?p=61179&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=mao-and-chinese-character-reform-revisionist-history-on-cctv"/>
+        <updated>2023-11-07T20:05:34.000Z</updated>
+        <summary type="html"><![CDATA[[This is a guest post by David Moser] Just when you thought CCP propaganda couldn’t get more absurd, China Central Television (CCTV) has aired a short TV series in which Confucius and Karl Marx actually meet up for comradely chat about ideology. In typical fantasy time-travel style, Marx simply appears miraculously at the Yuelu Academy […]]]></summary>
+        <author>
+            <name>Victor Mair</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[PyTorch compile to speed up inference on Llama 2]]></title>
         <id>https://pytorch.org/blog/pytorch-compile-to-speed-up-inference/</id>
