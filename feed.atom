@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-11-07T20:15:50.568Z</updated>
+    <updated>2023-11-07T21:13:24.614Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Alternating updates for efficient transformers]]></title>
+        <id>http://blog.research.google/2023/11/alternating-updates-for-efficient.html</id>
+        <link href="http://blog.research.google/2023/11/alternating-updates-for-efficient.html"/>
+        <updated>2023-11-07T20:34:00.003Z</updated>
+        <summary type="html"><![CDATA[Posted by Xin Wang, Software Engineer, and Nishanth Dikkala, Research Scientist, Google Research
+
+
+
+
+Contemporary deep learning models have been remarkably successful in many domains, ranging from natural language to computer vision. Transformer neural networks (transformers) are a popular deep learning architecture that today comprise the foundation for most tasks in natural language processing and also are starting to extend to applications in other domains, such as computer vision, robotics, and autonomous driving. Moreover, they form the backbone of all the current state-of-the-art language models.
+ 
+
+Increasing scale in Transformer networks has led to improved performance and the emergence of behavior not present in smaller networks. However, this increase in scale often comes with pr…]]></summary>
+        <author>
+            <name>Google AI Blog</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Mao and Chinese Character Reform: Revisionist History on CCTV]]></title>
         <id>https://languagelog.ldc.upenn.edu/nll/?p=61179</id>

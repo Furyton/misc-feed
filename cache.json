@@ -2139,6 +2139,16 @@
       "siteUrl": "http://blog.research.google/",
       "articles": [
         {
+          "id": "http://blog.research.google/2023/11/alternating-updates-for-efficient.html",
+          "author": null,
+          "description": "Posted by Xin Wang, Software Engineer, and Nishanth Dikkala, Research Scientist, Google Research\n\n\n\n\nContemporary deep learning models have been remarkably successful in many domains, ranging from natural language to computer vision. Transformer neural networks (transformers) are a popular deep learning architecture that today comprise the foundation for most tasks in natural language processing and also are starting to extend to applications in other domains, such as computer vision, robotics, and autonomous driving. Moreover, they form the backbone of all the current state-of-the-art language models.\n \n\nIncreasing scale in Transformer networks has led to improved performance and the emergence of behavior not present in smaller networks. However, this increase in scale often comes with pr…",
+          "link": "http://blog.research.google/2023/11/alternating-updates-for-efficient.html",
+          "publishedOn": "2023-11-07T20:34:00.003Z",
+          "wordCount": 27982,
+          "title": "Alternating updates for efficient transformers",
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg68VOGvAuGk6w6db-De6SNc2OstzYrfUaCY4c03VVn_hAVb-wVsqk5zy07izav41UP3ZpurAn5kUs5QAJSzMU7Y_4en5TInN_0DA6iC8rUqAO0qmnwZXWll7yZyWvL_1HndCAtk7USVEyNxrXezwlmWDfrtQsEsQhnfjNkYvkoK5QiSIXESnXcxGvTOeKk/w1200-h630-p-k-no-nu/altup.png"
+        },
+        {
           "id": "http://blog.research.google/2023/11/best-of-both-worlds-achieving.html",
           "author": null,
           "description": "Posted by Sara Ahmadian and Mehran Kazemi, Research Scientists, Google Research\n\n\n\n\nClustering is a fundamental, ubiquitous problem in data mining and unsupervised machine learning, where the goal is to group together similar items. The standard forms of clustering are metric clustering and graph clustering. In metric clustering, a given metric space defines distances between data points, which are grouped together based on their separation. In graph clustering, a given graph connects similar data points through edges, and the clustering process groups data points together based on the connections between them. Both clustering forms are particularly useful for large corpora where class labels can’t be defined. Examples of such corpora are the ever-growing digital text collections of variou…",
