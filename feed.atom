@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-11-08T10:16:10.751Z</updated>
+    <updated>2023-11-08T11:12:54.446Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ChatGPT Meets Elchanan Mossel’s Dice Problem]]></title>
+        <id>http://gilkalai.wordpress.com/?p=24878</id>
+        <link href="https://gilkalai.wordpress.com/2023/11/08/chatgpt-meets-elchanan-mossels-dice-problem/"/>
+        <updated>2023-11-08T10:42:44.000Z</updated>
+        <summary type="html"><![CDATA[One of the greatest hits of this blog was Elchanan Mossel’s dice problem, asked here and answered here. Here is how chatGPT (the free version) handles the problem. You throw a die until you get 6. What is the expected … Continue reading →]]></summary>
+        <author>
+            <name>Gil Kalai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ChatGPT Meets Elchanan Mossel’s Dice Problem]]></title>
+        <id>http://gilkalai.wordpress.com/?p=24878</id>
+        <link href="https://gilkalai.wordpress.com/2023/11/08/chatgpt-meets-elchanan-mossels-dice-problem/"/>
+        <updated>2023-11-08T10:42:44.000Z</updated>
+        <summary type="html"><![CDATA[One of the greatest hits of this blog was Elchanan Mossel’s dice problem, asked here and answered here. Here is how chatGPT (the free version) handles the problem. You throw a die until you get 6. What is the expected … Continue reading →]]></summary>
+        <author>
+            <name>Gil Kalai</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Comparing Causal Frameworks: Potential Outcomes, Structural Models,
   Graphs, and Abstractions]]></title>
@@ -2685,26 +2705,6 @@ For the most part, these claims have rested on arguments about the asymptotic sc
         <summary type="html"><![CDATA[Audio-Visual Speech Recognition (AV-ASR, or AVSR) is the task of transcribing text from audio and visual streams, which has recently attracted a lot of research attention due to its robustness to noise. The vast majority of work to date has focused on developing AV-ASR models for non-streaming recognition; studies on streaming AV-ASR are very limited.]]></summary>
         <author>
             <name>PyTorch Website</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Happy Hangul Day!]]></title>
-        <id>https://languagelog.ldc.upenn.edu/nll/?p=60891</id>
-        <link href="https://languagelog.ldc.upenn.edu/nll/?p=60891&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=happy-hangul-day"/>
-        <updated>2023-10-09T22:42:43.000Z</updated>
-        <summary type="html"><![CDATA[Language wars, the Korean edition "Foreign words dominate signboards, restaurant menus in Korea", omonatheydidn't, LiveJournal (10/8/23; page loaded 10/9/23); source: The Korea Times Trendy use of foreign languages apparently sparks outrage in Korea as well. A Seoul-based office worker surnamed Kim, 35, was perplexed at being unable to locate the Japanese restaurant he had reserved […]]]></summary>
-        <author>
-            <name>Victor Mair</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bayesian inference and conformal prediction]]></title>
-        <id>http://xianblog.wordpress.com/?p=54191</id>
-        <link href="https://xianblog.wordpress.com/2023/10/10/bayesian-inference-and-conformal-prediction/"/>
-        <updated>2023-10-09T22:23:13.000Z</updated>
-        <summary type="html"><![CDATA[Visit the post for more.]]></summary>
-        <author>
-            <name>xi'an</name>
         </author>
     </entry>
 </feed>
