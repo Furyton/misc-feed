@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-11-08T07:13:44.070Z</updated>
+    <updated>2023-11-08T08:19:14.408Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -2725,27 +2725,6 @@ For the most part, these claims have rested on arguments about the asymptotic sc
         <summary type="html"><![CDATA[Dear President Gay, Recent days have been harrowing for both me and every other Israeli or Jewish person on the Harvard campus. On October 7th, Hamas launched a premeditated attack on the Israeli population. Hundreds of terrorists infiltrated Israeli towns and houses. Children were killed in front of their parents; entire families were executed. Grandmothers, … Continue reading Letter to Harvard President Claudine Gay]]></summary>
         <author>
             <name>Boaz Barak</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SANPO: A Scene understanding, Accessibility, Navigation, Pathfinding, & Obstacle avoidance dataset]]></title>
-        <id>http://blog.research.google/2023/10/sanpo-scene-understanding-accessibility.html</id>
-        <link href="http://blog.research.google/2023/10/sanpo-scene-understanding-accessibility.html"/>
-        <updated>2023-10-09T19:17:00.000Z</updated>
-        <summary type="html"><![CDATA[Posted by Sagar M. Waghmare, Senior Software Engineer, and Kimberly Wilber, Software Engineer, Google Research, Perception Team
-
-
-
-
-As most people navigate their everyday world, they process visual input from the environment using an eye-level perspective. Unlike robots and self-driving cars, people don't have any "out-of-body" sensors to help guide them. Instead, a person’s sensory input is completely "egocentric", or "from the self." This also applies to new technologies that understand the world around us from a human-like perspective, e.g., robots navigating through unknown buildings, AR glasses that highlight objects, or assistive technology to help people run independently.
-
-
-
-
-
-In computer vision, scene understanding is the subfield that studies how visible objects relate to the sce…]]></summary>
-        <author>
-            <name>Google AI Blog</name>
         </author>
     </entry>
 </feed>
