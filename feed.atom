@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-11-08T18:19:14.611Z</updated>
+    <updated>2023-11-08T19:12:00.559Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -2695,16 +2695,6 @@ For the most part, these claims have rested on arguments about the asymptotic sc
         <summary type="html"><![CDATA[Motivation]]></summary>
         <author>
             <name>Parsiad Azimzadeh</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Real-time Audio-visual Speech Recognition]]></title>
-        <id>https://pytorch.org/blog/real-time-speech-rec/</id>
-        <link href="https://pytorch.org/blog/real-time-speech-rec/"/>
-        <updated>2023-10-10T07:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Audio-Visual Speech Recognition (AV-ASR, or AVSR) is the task of transcribing text from audio and visual streams, which has recently attracted a lot of research attention due to its robustness to noise. The vast majority of work to date has focused on developing AV-ASR models for non-streaming recognition; studies on streaming AV-ASR are very limited.]]></summary>
-        <author>
-            <name>PyTorch Website</name>
         </author>
     </entry>
 </feed>
