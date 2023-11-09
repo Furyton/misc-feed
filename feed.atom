@@ -2,10 +2,62 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-11-09T02:23:21.666Z</updated>
+    <updated>2023-11-09T03:15:35.945Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Spectral Evolution and Invariance in Linear-width Neural Networks]]></title>
+        <id>http://arxiv.org/abs/2211.06506</id>
+        <link href="http://arxiv.org/abs/2211.06506"/>
+        <updated>2023-11-09T03:15:35.908Z</updated>
+        <summary type="html"><![CDATA[Zhichao Wang, Andrew Engel, Anand Sarwate, Ioana Dumitriu, Tony Chiang]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learning Linear Gaussian Polytree Models with Interventions]]></title>
+        <id>http://arxiv.org/abs/2311.04636</id>
+        <link href="http://arxiv.org/abs/2311.04636"/>
+        <updated>2023-11-09T03:15:35.846Z</updated>
+        <summary type="html"><![CDATA[D. Tramontano, L. Waldmann, M. Drton, E. Duarte]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Multi-Source Domain Adaptation through Dataset Dictionary Learning in
+  Wasserstein Space]]></title>
+        <id>http://arxiv.org/abs/2307.14953</id>
+        <link href="http://arxiv.org/abs/2307.14953"/>
+        <updated>2023-11-09T03:15:35.829Z</updated>
+        <summary type="html"><![CDATA[Eduardo Fernandes Montesuma, Fred Ngol\`e Mboula, Antoine Souloumiac]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Certified Data Removal from Machine Learning Models]]></title>
+        <id>http://arxiv.org/abs/1911.03030</id>
+        <link href="http://arxiv.org/abs/1911.03030"/>
+        <updated>2023-11-09T03:15:35.795Z</updated>
+        <summary type="html"><![CDATA[Chuan Guo, Tom Goldstein, Awni Hannun, Laurens van der Maaten]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Towards Few-Annotation Learning in Computer Vision: Application to Image
+  Classification and Object Detection tasks]]></title>
+        <id>http://arxiv.org/abs/2311.04888</id>
+        <link href="http://arxiv.org/abs/2311.04888"/>
+        <updated>2023-11-09T03:15:35.755Z</updated>
+        <summary type="html"><![CDATA[Quentin Bouniot]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[20/11 1pm-2pm: Statistics Seminar - Graphical Models of Intelligent Cause]]></title>
         <id>8a17841b8adb7895018adfd6ce0c4ad1</id>
