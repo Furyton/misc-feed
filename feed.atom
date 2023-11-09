@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-11-09T13:17:51.569Z</updated>
+    <updated>2023-11-09T14:13:40.793Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[VQ一下Key，Transformer的复杂度就变成线性了]]></title>
+        <id>https://kexue.fm/archives/9844</id>
+        <link href="https://kexue.fm/archives/9844"/>
+        <updated>2023-11-09T13:10:00.000Z</updated>
+        <summary type="html"><![CDATA[Efficient Transformer，泛指一切致力于降低Transformer的二次复杂度的工作，开始特指针对Attention的改进，后来更一般的思路，如傅立叶变换、线性RNN等，也被归...]]></summary>
+        <author>
+            <name>苏剑林</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Spectral Evolution and Invariance in Linear-width Neural Networks]]></title>
         <id>http://arxiv.org/abs/2211.06506</id>

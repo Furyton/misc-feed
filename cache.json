@@ -1302,6 +1302,16 @@
       "siteUrl": "https://kexue.fm/",
       "articles": [
         {
+          "id": "https://kexue.fm/archives/9844",
+          "author": "苏剑林",
+          "description": "Efficient Transformer，泛指一切致力于降低Transformer的二次复杂度的工作，开始特指针对Attention的改进，后来更一般的思路，如傅立叶变换、线性RNN等，也被归...",
+          "link": "https://kexue.fm/archives/9844",
+          "publishedOn": "2023-11-09T13:10:00.000Z",
+          "wordCount": 1653,
+          "title": "VQ一下Key，Transformer的复杂度就变成线性了",
+          "imageUrl": null
+        },
+        {
           "id": "https://kexue.fm/archives/9826",
           "author": "苏剑林",
           "description": "正如“XXX is all you need”一样，有不少论文都以“简单得令人尴尬”命名（An Embarrassingly Simple XXX），但在笔者看来，这些论文大多数都是噱头多于实力...",
