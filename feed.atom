@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-11-09T22:14:18.837Z</updated>
+    <updated>2023-11-09T23:15:35.588Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Hype over AI and Classical Chinese / Literary Sinitic]]></title>
+        <id>https://languagelog.ldc.upenn.edu/nll/?p=61190</id>
+        <link href="https://languagelog.ldc.upenn.edu/nll/?p=61190&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=hype-over-ai-and-classical-chinese-literary-sinitic"/>
+        <updated>2023-11-09T23:09:40.000Z</updated>
+        <summary type="html"><![CDATA[From the get-go, I'm dubious about any claims that current AI can fully and accurately translate Classical Chinese / Literary Sinitic (CC/LS) into Modern Standard Mandarin (MSM), much less English or other language, on a practical, functional basis.  Since the following article is from one of China's official propaganda "news" outlets (China Daily [CD]), the […]]]></summary>
+        <author>
+            <name>Victor Mair</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Overcoming leakage on error-corrected quantum processors]]></title>
         <id>http://blog.research.google/2023/11/overcoming-leakage-on-error-corrected.html</id>
