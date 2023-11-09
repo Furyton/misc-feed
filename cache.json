@@ -1745,16 +1745,6 @@
           "wordCount": 1839,
           "title": "Flash-Decoding for long-context inference",
           "imageUrl": "https://pytorch.org/assets/images/pytorch-logo.png"
-        },
-        {
-          "id": "https://pytorch.org/blog/ml-model-server-resource-saving/",
-          "author": null,
-          "description": "Reviewers: Yunsang Ju(Naver GplaceAI Leader), Min Jean Cho(Intel), Jing Xu(Intel), Mark Saroufim(Meta)",
-          "link": "https://pytorch.org/blog/ml-model-server-resource-saving/",
-          "publishedOn": "2023-10-11T07:00:00.000Z",
-          "wordCount": 3216,
-          "title": "ML Model Server Resource Saving - Transition From High-Cost GPUs to Intel CPUs and oneAPI powered Software with performance",
-          "imageUrl": "https://pytorch.org/assets/images/pytorch-logo.png"
         }
       ]
     },

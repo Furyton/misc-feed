@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-11-09T18:18:54.575Z</updated>
+    <updated>2023-11-09T19:12:13.524Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -2829,16 +2829,6 @@ For the most part, these claims have rested on arguments about the asymptotic sc
         <summary type="html"><![CDATA[This is a copy of the open letter that has been signed by well over 100 faculty at the time I am posting this. The full letter and list of signatories can be found on https://bit.ly/harvard-against-terrorism We are faculty at Harvard who are deeply concerned about the events in the Middle East, as well as … Continue reading Open letter to the Harvard community]]></summary>
         <author>
             <name>Boaz Barak</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ML Model Server Resource Saving - Transition From High-Cost GPUs to Intel CPUs and oneAPI powered Software with performance]]></title>
-        <id>https://pytorch.org/blog/ml-model-server-resource-saving/</id>
-        <link href="https://pytorch.org/blog/ml-model-server-resource-saving/"/>
-        <updated>2023-10-11T07:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Reviewers: Yunsang Ju(Naver GplaceAI Leader), Min Jean Cho(Intel), Jing Xu(Intel), Mark Saroufim(Meta)]]></summary>
-        <author>
-            <name>PyTorch Website</name>
         </author>
     </entry>
 </feed>
