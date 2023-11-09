@@ -2,10 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-11-09T19:12:13.524Z</updated>
+    <updated>2023-11-09T20:16:07.879Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Overcoming leakage on error-corrected quantum processors]]></title>
+        <id>http://blog.research.google/2023/11/overcoming-leakage-on-error-corrected.html</id>
+        <link href="http://blog.research.google/2023/11/overcoming-leakage-on-error-corrected.html"/>
+        <updated>2023-11-09T19:20:00.001Z</updated>
+        <summary type="html"><![CDATA[Posted by Kevin Miao and Matt McEwen, Research Scientists, Quantum AI Team
+
+
+
+
+The qubits that make up Google quantum devices are delicate and noisy, so it’s necessary to incorporate error correction procedures that identify and account for qubit errors on the way to building a useful quantum computer. Two of the most prevalent error mechanisms are bit-flip errors (where the energy state of the qubit changes) and phase-flip errors (where the phase of the encoded quantum information changes). Quantum error correction (QEC) promises to address and mitigate these two prominent errors. However, there is an assortment of other error mechanisms that challenges the effectiveness of QEC.
+
+
+
+While we want qubits to behave as ideal two-level systems with no loss mechanisms, this is not the case in r…]]></summary>
+        <author>
+            <name>Google AI Blog</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[VQ一下Key，Transformer的复杂度就变成线性了]]></title>
         <id>https://kexue.fm/archives/9844</id>
