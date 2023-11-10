@@ -6,6 +6,56 @@
       "siteUrl": "https://www.arxivist.com",
       "articles": [
         {
+          "id": "http://arxiv.org/abs/2104.10093",
+          "author": null,
+          "description": "Gido M. van de Ven, Zhe Li, Andreas S. Tolias",
+          "link": "http://arxiv.org/abs/2104.10093",
+          "publishedOn": "2023-11-10T03:15:28.293Z",
+          "wordCount": 729,
+          "title": "Class-Incremental Learning with Generative Classifiers",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2209.07436",
+          "author": null,
+          "description": "Anna Malinovskaya, Pavlo Mozharovskyi, Philipp Otto",
+          "link": "http://arxiv.org/abs/2209.07436",
+          "publishedOn": "2023-11-10T03:15:28.275Z",
+          "wordCount": 679,
+          "title": "Statistical process monitoring of artificial neural networks",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2311.05245",
+          "author": null,
+          "description": "Lisa J\\\"ockel, Michael Kl\\\"as, Georg Popp, Nadja Hilger, Stephan\n  Fricke",
+          "link": "http://arxiv.org/abs/2311.05245",
+          "publishedOn": "2023-11-10T03:15:28.270Z",
+          "wordCount": 677,
+          "title": "Uncertainty Wrapper in the medical domain: Establishing transparent\n  uncertainty quantification for opaque machine learning models in practice",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2311.05061",
+          "author": null,
+          "description": "Soo Min Kwon, Zekai Zhang, Dogyoon Song, Laura Balzano, Qing Qu",
+          "link": "http://arxiv.org/abs/2311.05061",
+          "publishedOn": "2023-11-10T03:15:28.209Z",
+          "wordCount": 751,
+          "title": "Efficient Compression of Overparameterized Deep Models through\n  Low-Dimensional Learning Dynamics",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2311.05088",
+          "author": null,
+          "description": "Tomoharu Iwata, Atsutoshi Kumagai",
+          "link": "http://arxiv.org/abs/2311.05088",
+          "publishedOn": "2023-11-10T03:15:28.173Z",
+          "wordCount": 686,
+          "title": "Meta-learning of semi-supervised learning from tasks with heterogeneous\n  attribute spaces",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
           "id": "http://arxiv.org/abs/2211.06506",
           "author": null,
           "description": "Zhichao Wang, Andrew Engel, Anand Sarwate, Ioana Dumitriu, Tony Chiang",

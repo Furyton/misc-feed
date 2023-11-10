@@ -2,10 +2,64 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-11-10T02:23:33.554Z</updated>
+    <updated>2023-11-10T03:15:33.675Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Class-Incremental Learning with Generative Classifiers]]></title>
+        <id>http://arxiv.org/abs/2104.10093</id>
+        <link href="http://arxiv.org/abs/2104.10093"/>
+        <updated>2023-11-10T03:15:28.293Z</updated>
+        <summary type="html"><![CDATA[Gido M. van de Ven, Zhe Li, Andreas S. Tolias]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Statistical process monitoring of artificial neural networks]]></title>
+        <id>http://arxiv.org/abs/2209.07436</id>
+        <link href="http://arxiv.org/abs/2209.07436"/>
+        <updated>2023-11-10T03:15:28.275Z</updated>
+        <summary type="html"><![CDATA[Anna Malinovskaya, Pavlo Mozharovskyi, Philipp Otto]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Uncertainty Wrapper in the medical domain: Establishing transparent
+  uncertainty quantification for opaque machine learning models in practice]]></title>
+        <id>http://arxiv.org/abs/2311.05245</id>
+        <link href="http://arxiv.org/abs/2311.05245"/>
+        <updated>2023-11-10T03:15:28.270Z</updated>
+        <summary type="html"><![CDATA[Lisa J\"ockel, Michael Kl\"as, Georg Popp, Nadja Hilger, Stephan
+  Fricke]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Efficient Compression of Overparameterized Deep Models through
+  Low-Dimensional Learning Dynamics]]></title>
+        <id>http://arxiv.org/abs/2311.05061</id>
+        <link href="http://arxiv.org/abs/2311.05061"/>
+        <updated>2023-11-10T03:15:28.209Z</updated>
+        <summary type="html"><![CDATA[Soo Min Kwon, Zekai Zhang, Dogyoon Song, Laura Balzano, Qing Qu]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Meta-learning of semi-supervised learning from tasks with heterogeneous
+  attribute spaces]]></title>
+        <id>http://arxiv.org/abs/2311.05088</id>
+        <link href="http://arxiv.org/abs/2311.05088"/>
+        <updated>2023-11-10T03:15:28.173Z</updated>
+        <summary type="html"><![CDATA[Tomoharu Iwata, Atsutoshi Kumagai]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Novemberly MCMC]]></title>
         <id>http://xianblog.wordpress.com/?p=54414</id>
