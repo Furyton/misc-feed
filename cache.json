@@ -1899,6 +1899,16 @@
       "siteUrl": "https://xianblog.wordpress.com",
       "articles": [
         {
+          "id": "http://xianblog.wordpress.com/?p=54414",
+          "author": "xi'an",
+          "description": "Visit the post for more.",
+          "link": "https://xianblog.wordpress.com/2023/11/10/novemberly-mcmc/",
+          "publishedOn": "2023-11-09T23:23:05.000Z",
+          "wordCount": 1948,
+          "title": "Novemberly MCMC",
+          "imageUrl": "https://xianblog.files.wordpress.com/2023/11/temp-1.png"
+        },
+        {
           "id": "http://xianblog.wordpress.com/?p=54107",
           "author": "xi'an",
           "description": "Visit the post for more.",
@@ -2258,6 +2268,16 @@
       "feedUrl": "http://feeds.feedburner.com/blogspot/gJZg",
       "siteUrl": "http://blog.research.google/",
       "articles": [
+        {
+          "id": "http://blog.research.google/2023/11/responsible-ai-at-google-research.html",
+          "author": null,
+          "description": "Posted by Katherine Heller, Research Scientist, Google Research, on behalf of the CAIR Team\n\n\n\n\nArtificial intelligence (AI) and related machine learning (ML) technologies are increasingly influential in the world around us, making it imperative that we consider the potential impacts on society and individuals in all aspects of the technology that we create. To these ends, the Context in AI Research (CAIR) team develops novel AI methods in the context of the entire AI pipeline: from data to end-user feedback. The pipeline for building an AI system typically starts with data collection, followed by designing a model to run on that data, deployment of the model in the real world, and lastly, compiling and incorporation of human feedback. Originating in the health space, and now expanded to a…",
+          "link": "http://blog.research.google/2023/11/responsible-ai-at-google-research.html",
+          "publishedOn": "2023-11-09T22:23:00.000Z",
+          "wordCount": 27962,
+          "title": "Responsible AI at Google Research: Context in AI Research (CAIR)",
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjN3mIK7184k0E4B4Pddafelrcf4yEqd1wTOxyK5LZlxKL8dFWwbEyATjS0Zbj8HBdAnIXQ40fVedg4O5oUi5_fVvOvKRQWhgIX05olZkb9YakVdRLXus3b9Pzze5oHu32X0VUpoykEvGwbZk9W2lEIJ8jUMlgzyML0yFFsyBbpbAUZgBk6TSli7bRaNQRs/w1200-h630-p-k-no-nu/CAIR-hero.jpg"
+        },
         {
           "id": "http://blog.research.google/2023/11/overcoming-leakage-on-error-corrected.html",
           "author": null,
