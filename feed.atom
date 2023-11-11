@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-11-11T14:12:24.345Z</updated>
+    <updated>2023-11-11T15:13:45.181Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -2773,62 +2773,6 @@ Prompting large language models (LLMs) has become an efficient learning paradigm
         <summary type="html"><![CDATA[Motivation]]></summary>
         <author>
             <name>PyTorch Website</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Differentially Private Non-convex Learning for Multi-layer Neural
-  Networks]]></title>
-        <id>http://arxiv.org/abs/2310.08425</id>
-        <link href="http://arxiv.org/abs/2310.08425"/>
-        <updated>2023-10-13T02:24:56.147Z</updated>
-        <summary type="html"><![CDATA[Hanpu Shen, Cheng-Long Wang, Zihang Xiang, Yiming Ying, Di
-  Wang]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[When, Why and How Much? Adaptive Learning Rate Scheduling by Refinement]]></title>
-        <id>http://arxiv.org/abs/2310.07831</id>
-        <link href="http://arxiv.org/abs/2310.07831"/>
-        <updated>2023-10-13T02:24:56.142Z</updated>
-        <summary type="html"><![CDATA[Aaron Defazio, Ashok Cutkosky, Harsh Mehta, Konstantin
-  Mishchenko]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Theory of Non-Linear Feature Learning with One Gradient Step in
-  Two-Layer Neural Networks]]></title>
-        <id>http://arxiv.org/abs/2310.07891</id>
-        <link href="http://arxiv.org/abs/2310.07891"/>
-        <updated>2023-10-13T02:24:56.138Z</updated>
-        <summary type="html"><![CDATA[Behrad Moniri, Donghwan Lee, Hamed Hassani, Edgar Dobriban]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Feature Learning and Generalization in Deep Networks with Orthogonal
-  Weights]]></title>
-        <id>http://arxiv.org/abs/2310.07765</id>
-        <link href="http://arxiv.org/abs/2310.07765"/>
-        <updated>2023-10-13T02:24:56.133Z</updated>
-        <summary type="html"><![CDATA[Hannah Day, Yonatan Kahn, Daniel A. Roberts]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Transformers as Decision Makers: Provable In-Context Reinforcement
-  Learning via Supervised Pretraining]]></title>
-        <id>http://arxiv.org/abs/2310.08566</id>
-        <link href="http://arxiv.org/abs/2310.08566"/>
-        <updated>2023-10-13T02:24:53.412Z</updated>
-        <summary type="html"><![CDATA[Licong Lin, Yu Bai, Song Mei]]></summary>
-        <author>
-            <name>arxivist feed</name>
         </author>
     </entry>
 </feed>
