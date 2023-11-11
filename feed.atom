@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-11-10T23:14:40.058Z</updated>
+    <updated>2023-11-11T02:30:19.226Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[a journal of the conquest, war, famine, and death year]]></title>
+        <id>http://xianblog.wordpress.com/?p=54271</id>
+        <link href="https://xianblog.wordpress.com/2023/11/11/a-journal-of-the-conquest-war-famine-and-death-year-6/"/>
+        <updated>2023-11-10T23:23:39.000Z</updated>
+        <summary type="html"><![CDATA[Read the (paper version of) L’art du naufrage by Pascale Quiviger. Very light and rather YA, but still with enough creativity and originality to be enjoyable. Which made me read the second volume as well, Les filles de Mai, which proved an improvement in the scenario and its tension, even though the island-universe is most […]]]></summary>
+        <author>
+            <name>xi'an</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ask Language Log:  The Dry / Solitary Tree]]></title>
         <id>https://languagelog.ldc.upenn.edu/nll/?p=61200</id>
@@ -2849,16 +2859,6 @@ If you’ve paid attention to the quantum computing space, you’ve heard the cl
 For the most part, these claims have rested on arguments about the asymptotic scaling of algorithms as the problem size approaches infinity, but this tells us very little about the practical performance of quantum computers for finite-sized problems. We want to be more concrete: Exactly which problems are quantum computers more suited to tackle than their classical counterparts, an…]]></summary>
         <author>
             <name>Google AI Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ox Demolition]]></title>
-        <id>https://languagelog.ldc.upenn.edu/nll/?p=60911</id>
-        <link href="https://languagelog.ldc.upenn.edu/nll/?p=60911&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=ox-demolition"/>
-        <updated>2023-10-12T12:47:04.000Z</updated>
-        <summary type="html"><![CDATA[From AntC: The black Chinese writing on a yellow background says: tuòhuāng niú jiànzhù qīngchāi gōnsī 拓荒牛建筑清拆公司 "bull / ox /bovine for opening up / reclaiming (waste)land for agriculture construction and demolition company" AntC, who sent this photograph to me, also included the following remarks: In my neighbourhood there’s a straggling cluster of Chinese/Asian businesses […]]]></summary>
-        <author>
-            <name>Victor Mair</name>
         </author>
     </entry>
 </feed>
