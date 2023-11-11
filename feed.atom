@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-11-11T18:17:24.707Z</updated>
+    <updated>2023-11-11T19:11:03.871Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -2763,16 +2763,6 @@ Prompting large language models (LLMs) has become an efficient learning paradigm
         <summary type="html"><![CDATA[众所周知，分类任务的标准损失是交叉熵（Cross Entropy，等价于最大似然MLE，即Maximum Likelihood Estimation），它有着简单高效的特点，但在某些场景下也暴露...]]></summary>
         <author>
             <name>苏剑林</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Flash-Decoding for long-context inference]]></title>
-        <id>https://pytorch.org/blog/flash-decoding/</id>
-        <link href="https://pytorch.org/blog/flash-decoding/"/>
-        <updated>2023-10-13T07:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Motivation]]></summary>
-        <author>
-            <name>PyTorch Website</name>
         </author>
     </entry>
 </feed>
