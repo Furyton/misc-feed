@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-11-12T13:16:29.554Z</updated>
+    <updated>2023-11-12T14:23:08.347Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -2716,17 +2716,6 @@ Large Language Models (LLMs) have powered increasingly capable virtual assistant
         <summary type="html"><![CDATA[Can you find a set of cards among these six, such that the socks on the chosen cards can be grouped into matching pairs? (Duplicate pairs of the same sock are OK) This is the objective of the game Socks, a card game originally designed by Anna Varvak, a math professor at Soka University of […]]]></summary>
         <author>
             <name>Jeremy Kun</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SwinCross: Cross-modal Swin Transformer for Head-and-Neck Tumor
-  Segmentation in PET/CT Images]]></title>
-        <id>http://arxiv.org/abs/2302.03861</id>
-        <link href="http://arxiv.org/abs/2302.03861"/>
-        <updated>2023-10-14T02:18:49.684Z</updated>
-        <summary type="html"><![CDATA[Gary Y. Li, Junyu Chen, Se-In Jang, Kuang Gong, Quanzheng Li]]></summary>
-        <author>
-            <name>arxivist feed</name>
         </author>
     </entry>
 </feed>
