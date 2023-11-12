@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-11-12T01:10:22.355Z</updated>
+    <updated>2023-11-12T02:26:09.299Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -2743,16 +2743,6 @@ Large Language Models (LLMs) have powered increasingly capable virtual assistant
 Prompting large language models (LLMs) has become an efficient learning paradigm for adapting LLMs to a new task by conditioning on human-designed instructions. The remarkable in-context learning (ICL) ability of LLMs also leads to efficient few-shot learners that can generalize from few-shot input-label pairs. However, the predictions of LLMs are highly sensitive and even biased to the choice of templates, label spaces (such as yes/no, true/false, correct/incorrect), and demonstration examples, resulting in unexpected performance degradation and barriers for pursuing robust LLM applications. To address this problem, calibration methods have been developed to mitigate the effects of t…]]></summary>
         <author>
             <name>Google AI Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Emmanuel Abbe - Logic Reasoning and Generalization on the Unseen]]></title>
-        <id>https://mlfoundations.org/talk/abbe/</id>
-        <link href="https://mlfoundations.org/talk/abbe/"/>
-        <updated>2023-10-13T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Transformers have become the dominant neural network architecture in deep learning. While they are state of the art in language and vision tasks, their performance is less convincing in so-called “reasoning” tasks. In this talk, we consider the “generalization on the unseen (GOTU)" objective to test the reasoning capabilities of neural networks, primarily Transformers on Boolean/logic tasks. We first give experimental results showing that such networks have a strong “minimal degree bias" - they tend to find specific interpolators having low degree, in agreement with the “leap complexity” picture derived for classic generalization. Using basic concepts from Boolean Fourier analysis and algebraic geometry, we then characterize such minimal degree profile interpolators and prove two theorems about the convergence of (S)GD to such interpolators on basic architectures. Since the minimal degree profile is not desirable in many reasoning tasks, we discuss various methods to correct this bias and improve consequently the reasoning capabilities. Based primarily on joint works with S. Bengio, A. Lotfi, K. Rizk and E. Adsera-Boix, T. Misiakiewicz.]]></summary>
-        <author>
-            <name>Harvard ML Foundations</name>
         </author>
     </entry>
 </feed>

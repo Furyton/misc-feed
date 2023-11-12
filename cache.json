@@ -1253,16 +1253,6 @@
           "wordCount": 317,
           "title": "Carsen Stringer - Unsupervised pretraining in biological neural networks",
           "imageUrl": "https://mlfoundations.org/img/icon-192.png"
-        },
-        {
-          "id": "https://mlfoundations.org/talk/abbe/",
-          "author": null,
-          "description": "Transformers have become the dominant neural network architecture in deep learning. While they are state of the art in language and vision tasks, their performance is less convincing in so-called “reasoning” tasks. In this talk, we consider the “generalization on the unseen (GOTU)\" objective to test the reasoning capabilities of neural networks, primarily Transformers on Boolean/logic tasks. We first give experimental results showing that such networks have a strong “minimal degree bias\" - they tend to find specific interpolators having low degree, in agreement with the “leap complexity” picture derived for classic generalization. Using basic concepts from Boolean Fourier analysis and algebraic geometry, we then characterize such minimal degree profile interpolators and prove two theorems about the convergence of (S)GD to such interpolators on basic architectures. Since the minimal degree profile is not desirable in many reasoning tasks, we discuss various methods to correct this bias and improve consequently the reasoning capabilities. Based primarily on joint works with S. Bengio, A. Lotfi, K. Rizk and E. Adsera-Boix, T. Misiakiewicz.",
-          "link": "https://mlfoundations.org/talk/abbe/",
-          "publishedOn": "2023-10-13T14:00:00.000Z",
-          "wordCount": 235,
-          "title": "Emmanuel Abbe - Logic Reasoning and Generalization on the Unseen",
-          "imageUrl": "https://mlfoundations.org/img/icon-192.png"
         }
       ]
     },
