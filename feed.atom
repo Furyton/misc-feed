@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-11-12T23:14:17.646Z</updated>
+    <updated>2023-11-13T01:07:36.298Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[the long way off a small, angry planet]]></title>
+        <id>http://xianblog.wordpress.com/?p=54287</id>
+        <link href="https://xianblog.wordpress.com/2023/11/13/the-long-way-off-a-small-angry-planet/"/>
+        <updated>2023-11-12T23:21:53.000Z</updated>
+        <summary type="html"><![CDATA[Visit the post for more.]]></summary>
+        <author>
+            <name>xi'an</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[276 cat facial expressions?]]></title>
         <id>https://languagelog.ldc.upenn.edu/nll/?p=61229</id>
@@ -2716,16 +2726,6 @@ Large Language Models (LLMs) have powered increasingly capable virtual assistant
         <summary type="html"><![CDATA[My friend and CREST colleague Arnak Dalalyan will (re)present [online] a Read Paper at the RSS on 31 October with my friends Hani Doss and Alain Durmus as discussants: ‘Theoretical Guarantees for Approximate Sampling and Log-Concave Densities’ Arnak Dalalyan ENSAE Paris, France Sampling from various kinds of distributions is an issue of paramount importance in […]]]></summary>
         <author>
             <name>xi'an</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Socks, a matching game based on an additive combinatorics problem]]></title>
-        <id>https://jeremykun.com/?p=120042</id>
-        <link href="https://jeremykun.com/2023/10/14/socks-a-matching-game-based-on-an-additive-combinatorics-problem/"/>
-        <updated>2023-10-14T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Can you find a set of cards among these six, such that the socks on the chosen cards can be grouped into matching pairs? (Duplicate pairs of the same sock are OK) This is the objective of the game Socks, a card game originally designed by Anna Varvak, a math professor at Soka University of […]]]></summary>
-        <author>
-            <name>Jeremy Kun</name>
         </author>
     </entry>
 </feed>
