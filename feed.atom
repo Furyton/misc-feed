@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-11-13T10:16:57.911Z</updated>
+    <updated>2023-11-13T11:12:46.549Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Marton’s “Polynomial Freiman-Rusza” Conjecture was Settled by the A-Team.]]></title>
+        <id>http://gilkalai.wordpress.com/?p=24905</id>
+        <link href="https://gilkalai.wordpress.com/2023/11/13/martons-polynomial-freiman-rusza-conjecture-was-settled-by-the-a-team/"/>
+        <updated>2023-11-13T11:04:28.000Z</updated>
+        <summary type="html"><![CDATA[“If you have a problem, if no one else can help, and if you can find them, maybe you can hire… the A-Team.” (The A-teams of the 1980s television series on the left. Gowers, Green, Manner and Tao on the … Continue reading →]]></summary>
+        <author>
+            <name>Gil Kalai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Marton’s “Polynomial Freiman-Rusza” Conjecture was Settled by the A-Team.]]></title>
+        <id>http://gilkalai.wordpress.com/?p=24905</id>
+        <link href="https://gilkalai.wordpress.com/2023/11/13/martons-polynomial-freiman-rusza-conjecture-was-settled-by-the-a-team/"/>
+        <updated>2023-11-13T11:04:28.000Z</updated>
+        <summary type="html"><![CDATA[“If you have a problem, if no one else can help, and if you can find them, maybe you can hire… the A-Team.” (The A-teams of the 1980s television series on the left. Gowers, Green, Manner and Tao on the … Continue reading →]]></summary>
+        <author>
+            <name>Gil Kalai</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Understanding Reconstruction Attacks with the Neural Tangent Kernel and
   Dataset Distillation]]></title>
@@ -2769,16 +2789,6 @@ Large Language Models (LLMs) have powered increasingly capable virtual assistant
         <summary type="html"><![CDATA[Article in LAist (10/12/230; This Prolific LA Eviction Law Firm Was Caught Faking Cases In Court. Did They Misuse AI? Dennis Block runs what he says is California’s “leading eviction law firm.” A judge said legal citations submitted in Block's name for a recent case were fake. Six legal experts told LAist the errors likely […]]]></summary>
         <author>
             <name>Victor Mair</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Arnak Dalalyan at the RSS Journal Webinar]]></title>
-        <id>http://xianblog.wordpress.com/?p=54209</id>
-        <link href="https://xianblog.wordpress.com/2023/10/15/arnak-dalalyan-at-the-rss-journal-webinar/"/>
-        <updated>2023-10-14T22:23:37.000Z</updated>
-        <summary type="html"><![CDATA[My friend and CREST colleague Arnak Dalalyan will (re)present [online] a Read Paper at the RSS on 31 October with my friends Hani Doss and Alain Durmus as discussants: ‘Theoretical Guarantees for Approximate Sampling and Log-Concave Densities’ Arnak Dalalyan ENSAE Paris, France Sampling from various kinds of distributions is an issue of paramount importance in […]]]></summary>
-        <author>
-            <name>xi'an</name>
         </author>
     </entry>
 </feed>
