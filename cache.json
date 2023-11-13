@@ -6,6 +6,56 @@
       "siteUrl": "https://www.arxivist.com",
       "articles": [
         {
+          "id": "http://arxiv.org/abs/2302.01428",
+          "author": null,
+          "description": "Noel Loo, Ramin Hasani, Mathias Lechner, Alexander Amini, Daniela Rus",
+          "link": "http://arxiv.org/abs/2302.01428",
+          "publishedOn": "2023-11-13T04:18:37.759Z",
+          "wordCount": 721,
+          "title": "Understanding Reconstruction Attacks with the Neural Tangent Kernel and\n  Dataset Distillation",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2301.11732",
+          "author": null,
+          "description": "Mohammad Ghasempour, Niloofar Moosavi, Xavier de Luna",
+          "link": "http://arxiv.org/abs/2301.11732",
+          "publishedOn": "2023-11-13T04:18:27.069Z",
+          "wordCount": 733,
+          "title": "Convolutional neural networks for valid and efficient causal inference",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2305.09957",
+          "author": null,
+          "description": "Diego Garc\\'ia-Mart\\'in, Martin Larocca, M. Cerezo",
+          "link": "http://arxiv.org/abs/2305.09957",
+          "publishedOn": "2023-11-13T04:18:26.915Z",
+          "wordCount": 703,
+          "title": "Deep quantum neural networks form Gaussian processes",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2311.06117",
+          "author": null,
+          "description": "Yeshu Li, Brian D. Ziebart",
+          "link": "http://arxiv.org/abs/2311.06117",
+          "publishedOn": "2023-11-13T04:18:26.902Z",
+          "wordCount": 648,
+          "title": "Distributionally Robust Skeleton Learning of Discrete Bayesian Networks",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2311.05931",
+          "author": null,
+          "description": "Metod Jazbec, Patrick Forr\\'e, Stephan Mandt, Dan Zhang and\n  Eric Nalisnick",
+          "link": "http://arxiv.org/abs/2311.05931",
+          "publishedOn": "2023-11-13T04:18:26.887Z",
+          "wordCount": 670,
+          "title": "Anytime-Valid Confidence Sequences for Consistent Uncertainty Estimation\n  in Early-Exit Neural Networks",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
           "id": "http://arxiv.org/abs/2104.10093",
           "author": null,
           "description": "Gido M. van de Ven, Zhe Li, Andreas S. Tolias",
