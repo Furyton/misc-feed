@@ -6,6 +6,36 @@
       "siteUrl": "https://www.arxivist.com",
       "articles": [
         {
+          "id": "http://arxiv.org/abs/2302.09526",
+          "author": null,
+          "description": "Oren Yuval, Saharon Rosset",
+          "link": "http://arxiv.org/abs/2302.09526",
+          "publishedOn": "2023-11-14T03:15:37.971Z",
+          "wordCount": 721,
+          "title": "Mixed Semi-Supervised Generalized-Linear-Regression with applications to\n  Deep-Learning and Interpolators",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2307.12306",
+          "author": null,
+          "description": "Zheyuan Hu, Khemraj Shukla, George Em Karniadakis, Kenji Kawaguchi",
+          "link": "http://arxiv.org/abs/2307.12306",
+          "publishedOn": "2023-11-14T03:15:37.795Z",
+          "wordCount": 804,
+          "title": "Tackling the Curse of Dimensionality with Physics-Informed Neural\n  Networks",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2311.07065",
+          "author": null,
+          "description": "Thomas Chen, Patricia Mu\\~noz Ewald",
+          "link": "http://arxiv.org/abs/2311.07065",
+          "publishedOn": "2023-11-14T03:15:37.760Z",
+          "wordCount": 603,
+          "title": "Non-approximability of constructive global $\\mathcal{L}^2$ minimizers by\n  gradient descent in Deep Learning",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
           "id": "http://arxiv.org/abs/2302.01428",
           "author": null,
           "description": "Noel Loo, Ramin Hasani, Mathias Lechner, Alexander Amini, Daniela Rus",
@@ -2779,16 +2809,6 @@
           "publishedOn": "2023-10-16T12:07:52.000Z",
           "wordCount": 2821,
           "title": "Read vs. spontaneous speech",
-          "imageUrl": null
-        },
-        {
-          "id": "https://languagelog.ldc.upenn.edu/nll/?p=60937",
-          "author": "Victor Mair",
-          "description": "Here are two examples.  The first is the (in)famous one about the \"Lion-Eating Poet in the Stone Den\": This is supposed to show that tones and characters are sine quibus non for intelligibility in Sinitic, except that nobody — but nobody — talks like this.  Without a character script, it's gibberish, and most Chinese throughout […]",
-          "link": "https://languagelog.ldc.upenn.edu/nll/?p=60937&utm_source=rss&utm_medium=rss&utm_campaign=hypercorrect-mandarin-tones",
-          "publishedOn": "2023-10-15T14:55:13.000Z",
-          "wordCount": 2293,
-          "title": "Hypercorrect Mandarin tones",
           "imageUrl": null
         }
       ]

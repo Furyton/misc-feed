@@ -2,10 +2,43 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-11-14T02:24:37.007Z</updated>
+    <updated>2023-11-14T03:15:37.996Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Mixed Semi-Supervised Generalized-Linear-Regression with applications to
+  Deep-Learning and Interpolators]]></title>
+        <id>http://arxiv.org/abs/2302.09526</id>
+        <link href="http://arxiv.org/abs/2302.09526"/>
+        <updated>2023-11-14T03:15:37.971Z</updated>
+        <summary type="html"><![CDATA[Oren Yuval, Saharon Rosset]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tackling the Curse of Dimensionality with Physics-Informed Neural
+  Networks]]></title>
+        <id>http://arxiv.org/abs/2307.12306</id>
+        <link href="http://arxiv.org/abs/2307.12306"/>
+        <updated>2023-11-14T03:15:37.795Z</updated>
+        <summary type="html"><![CDATA[Zheyuan Hu, Khemraj Shukla, George Em Karniadakis, Kenji Kawaguchi]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Non-approximability of constructive global $\mathcal{L}^2$ minimizers by
+  gradient descent in Deep Learning]]></title>
+        <id>http://arxiv.org/abs/2311.07065</id>
+        <link href="http://arxiv.org/abs/2311.07065"/>
+        <updated>2023-11-14T03:15:37.760Z</updated>
+        <summary type="html"><![CDATA[Thomas Chen, Patricia Mu\~noz Ewald]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[call for immediate action to halt attacks on health care in Gaza [reposted]]]></title>
         <id>http://xianblog.wordpress.com/?p=54454</id>
@@ -2809,16 +2842,6 @@ Large Language Models (LLMs) have powered increasingly capable virtual assistant
         <summary type="html"><![CDATA[The last week of our BCations was spent in Prince Rupert, 54⁰18’W, on Kaien Island, almost the northernest coastal spot before Alaska. (Although Stewart, 55⁰56’W, may qualify.) With a much more oceanic [and cooler] weather than in farther south, still warm enough to swim in the ocean. And an interesting airport since it sits on […]]]></summary>
         <author>
             <name>xi'an</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hypercorrect Mandarin tones]]></title>
-        <id>https://languagelog.ldc.upenn.edu/nll/?p=60937</id>
-        <link href="https://languagelog.ldc.upenn.edu/nll/?p=60937&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=hypercorrect-mandarin-tones"/>
-        <updated>2023-10-15T14:55:13.000Z</updated>
-        <summary type="html"><![CDATA[Here are two examples.  The first is the (in)famous one about the "Lion-Eating Poet in the Stone Den": This is supposed to show that tones and characters are sine quibus non for intelligibility in Sinitic, except that nobody — but nobody — talks like this.  Without a character script, it's gibberish, and most Chinese throughout […]]]></summary>
-        <author>
-            <name>Victor Mair</name>
         </author>
     </entry>
 </feed>
