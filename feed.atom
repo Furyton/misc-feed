@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-11-14T14:14:15.022Z</updated>
+    <updated>2023-11-14T15:16:20.964Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[GraphCast: AI model for faster and more accurate global weather forecasting]]></title>
+        <id>https://deepmind.google/discover/blog/graphcast-ai-model-for-faster-and-more-accurate-global-weather-forecasting/</id>
+        <link href="https://deepmind.google/discover/blog/graphcast-ai-model-for-faster-and-more-accurate-global-weather-forecasting/"/>
+        <updated>2023-11-14T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[We introduce GraphCast, a state-of-the-art AI model able to make medium-range weather forecasts with unprecedented accuracy]]></summary>
+        <author>
+            <name>Google DeepMind Blog</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Asymmetric Certified Robustness via Feature-Convex Neural Networks]]></title>
         <id>http://bair.berkeley.edu/blog/2023/11/14/fcnn/</id>

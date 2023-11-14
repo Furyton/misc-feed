@@ -1548,6 +1548,16 @@
       "siteUrl": "https://deepmind.google/discover/blog/",
       "articles": [
         {
+          "id": "https://deepmind.google/discover/blog/graphcast-ai-model-for-faster-and-more-accurate-global-weather-forecasting/",
+          "author": null,
+          "description": "We introduce GraphCast, a state-of-the-art AI model able to make medium-range weather forecasts with unprecedented accuracy",
+          "link": "https://deepmind.google/discover/blog/graphcast-ai-model-for-faster-and-more-accurate-global-weather-forecasting/",
+          "publishedOn": "2023-11-14T15:00:00.000Z",
+          "wordCount": 1524,
+          "title": "GraphCast: AI model for faster and more accurate global weather forecasting",
+          "imageUrl": "https://lh3.googleusercontent.com/T5elYXH1pC3daUaoPDWa11CgAe1oZSOL-gNbV8Png9k--BmotINNsEbo_SYEVQUeW_DJx-yzGLiSwZiyH4_YlTpYVW6g7n-_ip3rJkYw5cHr7TTcMw=w1200-h630-n-nu"
+        },
+        {
           "id": "https://deepmind.google/discover/blog/a-glimpse-of-the-next-generation-of-alphafold/",
           "author": null,
           "description": "Progress update: Our latest AlphaFold model shows significantly improved accuracy and expands coverage beyond proteins to other biological molecules, including ligands.",
