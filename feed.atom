@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-11-14T15:16:20.964Z</updated>
+    <updated>2023-11-14T16:16:40.748Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -2813,58 +2813,6 @@ Large Language Models (LLMs) have powered increasingly capable virtual assistant
         <summary type="html"><![CDATA[在文章《随机分词浅探：从Viterbi Decoding到Viterbi Sampling》中，笔者提出了一种名为“Viterbi Sampling”的随机分词算法，它只是在求最优解的Viter...]]></summary>
         <author>
             <name>苏剑林</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Adam-family Methods with Decoupled Weight Decay in Deep Learning]]></title>
-        <id>http://arxiv.org/abs/2310.08858</id>
-        <link href="http://arxiv.org/abs/2310.08858"/>
-        <updated>2023-10-16T02:23:54.304Z</updated>
-        <summary type="html"><![CDATA[Kuangyu Ding, Nachuan Xiao, Kim-Chuan Toh]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SmoothLLM: Defending Large Language Models Against Jailbreaking Attacks]]></title>
-        <id>http://arxiv.org/abs/2310.03684</id>
-        <link href="http://arxiv.org/abs/2310.03684"/>
-        <updated>2023-10-16T02:23:54.219Z</updated>
-        <summary type="html"><![CDATA[Alexander Robey, Eric Wong, Hamed Hassani, George J. Pappas]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Subspace Adaptation Prior for Few-Shot Learning]]></title>
-        <id>http://arxiv.org/abs/2310.09028</id>
-        <link href="http://arxiv.org/abs/2310.09028"/>
-        <updated>2023-10-16T02:23:54.214Z</updated>
-        <summary type="html"><![CDATA[Mike Huisman, Aske Plaat, Jan N. van Rijn]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[It's an Alignment, Not a Trade-off: Revisiting Bias and Variance in Deep
-  Models]]></title>
-        <id>http://arxiv.org/abs/2310.09250</id>
-        <link href="http://arxiv.org/abs/2310.09250"/>
-        <updated>2023-10-16T02:23:54.099Z</updated>
-        <summary type="html"><![CDATA[Lin Chen, Michal Lukasik, Wittawat Jitkrittum, Chong You, Sanjiv Kumar]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Complementary Domain Adaptation and Generalization for Unsupervised
-  Continual Domain Shift Learning]]></title>
-        <id>http://arxiv.org/abs/2303.15833</id>
-        <link href="http://arxiv.org/abs/2303.15833"/>
-        <updated>2023-10-16T02:23:54.093Z</updated>
-        <summary type="html"><![CDATA[Wonguk Cho, Jinha Park, Taesup Kim]]></summary>
-        <author>
-            <name>arxivist feed</name>
         </author>
     </entry>
 </feed>
