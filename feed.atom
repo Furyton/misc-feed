@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-11-14T13:19:00.048Z</updated>
+    <updated>2023-11-14T14:14:15.022Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -50,6 +50,16 @@ Despite their widespread usage, deep learning classifiers are acutely vulnerable
         <summary type="html"><![CDATA[Thomas Chen, Patricia Mu\~noz Ewald]]></summary>
         <author>
             <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NVIDIA Is A New Sponsor Of The Scikit-Learn consortium at the Inria Foundation]]></title>
+        <id>https://blog.scikit-learn.org/funding/nvidia-is-a-new-sponsor/</id>
+        <link href="https://blog.scikit-learn.org/funding/nvidia-is-a-new-sponsor/"/>
+        <updated>2023-11-14T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author: NVIDIA , François Goupil]]></summary>
+        <author>
+            <name>scikit-learn Blog</name>
         </author>
     </entry>
     <entry>

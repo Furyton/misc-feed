@@ -1589,7 +1589,18 @@
       "title": "scikit-learn Blog",
       "feedUrl": "https://blog.scikit-learn.org/feed",
       "siteUrl": "https://blog.scikit-learn.org/",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://blog.scikit-learn.org/funding/nvidia-is-a-new-sponsor/",
+          "author": null,
+          "description": "Author: NVIDIA , François Goupil",
+          "link": "https://blog.scikit-learn.org/funding/nvidia-is-a-new-sponsor/",
+          "publishedOn": "2023-11-14T00:00:00.000Z",
+          "wordCount": 691,
+          "title": "NVIDIA Is A New Sponsor Of The Scikit-Learn consortium at the Inria Foundation",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "Machine Learning (Theory)",
