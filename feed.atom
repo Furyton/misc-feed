@@ -2,10 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-11-14T22:14:43.750Z</updated>
+    <updated>2023-11-14T23:15:37.153Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Scaling multimodal understanding to long videos]]></title>
+        <id>http://blog.research.google/2023/11/scaling-multimodal-understanding-to.html</id>
+        <link href="http://blog.research.google/2023/11/scaling-multimodal-understanding-to.html"/>
+        <updated>2023-11-14T20:28:00.000Z</updated>
+        <summary type="html"><![CDATA[Posted by Isaac Noble, Software Engineer, Google Research, and Anelia Angelova, Research Scientist, Google DeepMind 
+
+
+
+
+
+When building machine learning models for real-life applications, we need to consider inputs from multiple modalities in order to capture various aspects of the world around us. For example, audio, video, and text all provide varied and complementary information about a visual input. However, building multimodal models is challenging due to the heterogeneity of the modalities. Some of the modalities might be well synchronized in time (e.g., audio, video) but not aligned with text. Furthermore, the large volume of data in video and audio signals is much larger than that in text, so when combining them in multimodal models, video and audio often cannot be fully consumed a…]]></summary>
+        <author>
+            <name>Google AI Blog</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Beer Battle Bowls]]></title>
         <id>https://languagelog.ldc.upenn.edu/nll/?p=61267</id>
