@@ -1671,6 +1671,16 @@
       "siteUrl": "https://jeremykun.com",
       "articles": [
         {
+          "id": "https://jeremykun.com/?p=120314",
+          "author": "Jeremy Kun",
+          "description": "Table of Contents In this article we’ll implement a global optimization pass, and show how to use the dataflow analysis framework to verify the results of our optimization. The code for this article is in this pull request, and as usual the commits are organized to be read in order. The noisy arithmetic problem This […]",
+          "link": "https://jeremykun.com/2023/11/15/mlir-a-global-optimization-and-dataflow-analysis/",
+          "publishedOn": "2023-11-15T19:20:52.000Z",
+          "wordCount": 7248,
+          "title": "MLIR — A Global Optimization and Dataflow Analysis",
+          "imageUrl": "https://s0.wp.com/i/blank.jpg"
+        },
+        {
           "id": "https://jeremykun.com/?p=120196",
           "author": "Jeremy Kun",
           "description": "Table of Contents In the last article we lowered our custom poly dialect to standard MLIR dialects. In this article we’ll continue lowering it to LLVM IR, exporting it out of MLIR to LLVM, and then compiling to x86 machine code. The code for this article is in this pull request, and as usual the commits are organized to […]",
