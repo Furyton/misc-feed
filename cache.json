@@ -1656,46 +1656,6 @@
           "wordCount": 1129,
           "title": "AMD Extends Support for Pytorch Machine Learning Development nn Select RDNA™ 3 GPUs with ROCm™ 5.7",
           "imageUrl": "https://pytorch.org/assets/images/pytorch-logo.png"
-        },
-        {
-          "id": "https://pytorch.org/blog/compiling-numpy-code/",
-          "author": null,
-          "description": "Quansight engineers have implemented support for tracing through NumPy code via torch.compile in PyTorch 2.1. This feature leverages PyTorch’s compiler to generate efficient fused vectorized code without having to modify your original NumPy code. Even more, it also allows for executing NumPy code on CUDA just by running it through torch.compile under torch.device(\"cuda\")!",
-          "link": "https://pytorch.org/blog/compiling-numpy-code/",
-          "publishedOn": "2023-10-17T07:00:00.000Z",
-          "wordCount": 2398,
-          "title": "Compiling NumPy code into C++ or CUDA via torch.compile",
-          "imageUrl": "https://pytorch.org/assets/images/pytorch-logo.png"
-        },
-        {
-          "id": "https://pytorch.org/blog/huawei-joins-pytorch/",
-          "author": null,
-          "description": "Today, the PyTorch Foundation, a neutral home for the deep learning community to collaborate on the open source PyTorch framework and ecosystem, announced that Huawei has joined as a premier member.",
-          "link": "https://pytorch.org/blog/huawei-joins-pytorch/",
-          "publishedOn": "2023-10-17T07:00:00.000Z",
-          "wordCount": 1211,
-          "title": "Huawei Joins the PyTorch Foundation as a Premier Member",
-          "imageUrl": "https://pytorch.org/assets/images/pytorch-logo.png"
-        },
-        {
-          "id": "https://pytorch.org/blog/lightning-ai-joins-pytorch/",
-          "author": null,
-          "description": "The PyTorch Foundation, a neutral home for the deep learning community to collaborate on the open source PyTorch framework and ecosystem, is announcing today that Lightning AI has joined as a premier member.",
-          "link": "https://pytorch.org/blog/lightning-ai-joins-pytorch/",
-          "publishedOn": "2023-10-17T07:00:00.000Z",
-          "wordCount": 1063,
-          "title": "Lightning AI Joins the PyTorch Foundation as a Premier Member",
-          "imageUrl": "https://pytorch.org/assets/images/pytorch-logo.png"
-        },
-        {
-          "id": "https://pytorch.org/blog/pytorch-edge/",
-          "author": null,
-          "description": "Other contributors: Dave Bort, Kimish Patel, Mergen Nachin, Orion Reblitz-Richardson, Andrew Caples",
-          "link": "https://pytorch.org/blog/pytorch-edge/",
-          "publishedOn": "2023-10-17T07:00:00.000Z",
-          "wordCount": 1203,
-          "title": "PyTorch Edge: Enabling On-Device Inference Across Mobile and Edge Devices with ExecuTorch",
-          "imageUrl": "https://pytorch.org/assets/images/pytorch-logo.png"
         }
       ]
     },

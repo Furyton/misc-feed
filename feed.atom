@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-11-15T18:18:35.628Z</updated>
+    <updated>2023-11-15T19:12:25.897Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -2795,46 +2795,6 @@ A longstanding goal of the field of robot learning has been to create generalist
         <summary type="html"><![CDATA[[This has been drifting down my too-long to-blog list for almost 16 months — but better late than never, I guess, and the world could use some pejorative-flavored humor…]  Colin Morris, "Compound pejoratives on Reddit – from buttface to wankpuffin", 6/28/2022: I collected lists of around 70 prefixes and 70 suffixes (collectively, “affixes”) that can […]]]></summary>
         <author>
             <name>Mark Liberman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Compiling NumPy code into C++ or CUDA via torch.compile]]></title>
-        <id>https://pytorch.org/blog/compiling-numpy-code/</id>
-        <link href="https://pytorch.org/blog/compiling-numpy-code/"/>
-        <updated>2023-10-17T07:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Quansight engineers have implemented support for tracing through NumPy code via torch.compile in PyTorch 2.1. This feature leverages PyTorch’s compiler to generate efficient fused vectorized code without having to modify your original NumPy code. Even more, it also allows for executing NumPy code on CUDA just by running it through torch.compile under torch.device("cuda")!]]></summary>
-        <author>
-            <name>PyTorch Website</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Huawei Joins the PyTorch Foundation as a Premier Member]]></title>
-        <id>https://pytorch.org/blog/huawei-joins-pytorch/</id>
-        <link href="https://pytorch.org/blog/huawei-joins-pytorch/"/>
-        <updated>2023-10-17T07:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Today, the PyTorch Foundation, a neutral home for the deep learning community to collaborate on the open source PyTorch framework and ecosystem, announced that Huawei has joined as a premier member.]]></summary>
-        <author>
-            <name>PyTorch Website</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lightning AI Joins the PyTorch Foundation as a Premier Member]]></title>
-        <id>https://pytorch.org/blog/lightning-ai-joins-pytorch/</id>
-        <link href="https://pytorch.org/blog/lightning-ai-joins-pytorch/"/>
-        <updated>2023-10-17T07:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The PyTorch Foundation, a neutral home for the deep learning community to collaborate on the open source PyTorch framework and ecosystem, is announcing today that Lightning AI has joined as a premier member.]]></summary>
-        <author>
-            <name>PyTorch Website</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PyTorch Edge: Enabling On-Device Inference Across Mobile and Edge Devices with ExecuTorch]]></title>
-        <id>https://pytorch.org/blog/pytorch-edge/</id>
-        <link href="https://pytorch.org/blog/pytorch-edge/"/>
-        <updated>2023-10-17T07:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Other contributors: Dave Bort, Kimish Patel, Mergen Nachin, Orion Reblitz-Richardson, Andrew Caples]]></summary>
-        <author>
-            <name>PyTorch Website</name>
         </author>
     </entry>
 </feed>
