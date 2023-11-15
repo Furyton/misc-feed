@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-11-14T23:15:37.153Z</updated>
+    <updated>2023-11-15T01:07:27.698Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Anse à voile [jatp]]]></title>
+        <id>http://xianblog.wordpress.com/?p=54305</id>
+        <link href="https://xianblog.wordpress.com/2023/11/15/anse-a-voile-jatp/"/>
+        <updated>2023-11-14T23:23:07.000Z</updated>
+        <summary type="html"><![CDATA[Visit the post for more.]]></summary>
+        <author>
+            <name>xi'an</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Scaling multimodal understanding to long videos]]></title>
         <id>http://blog.research.google/2023/11/scaling-multimodal-understanding-to.html</id>
@@ -2825,16 +2835,6 @@ Some cities or communities develop an evacuation plan to be used in case of an e
 Today we describe a c…]]></summary>
         <author>
             <name>Google AI Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Read vs. spontaneous speech]]></title>
-        <id>https://languagelog.ldc.upenn.edu/nll/?p=60956</id>
-        <link href="https://languagelog.ldc.upenn.edu/nll/?p=60956&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=read-vs-spontaneous-speech"/>
-        <updated>2023-10-16T12:07:52.000Z</updated>
-        <summary type="html"><![CDATA[Across the many disciplines that analyze language, there's surprisingly little focus on the properties of natural, spontaneous speech, as opposed to read (or memorized and performed) speech. But of course that dichotomy is an oversimplification — there are many linguistic registers, many ways to read each of the many styles of text, and even more […]]]></summary>
-        <author>
-            <name>Mark Liberman</name>
         </author>
     </entry>
 </feed>
