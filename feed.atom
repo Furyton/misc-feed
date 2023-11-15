@@ -2,10 +2,63 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-11-15T02:27:07.785Z</updated>
+    <updated>2023-11-15T03:15:49.703Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[A Deep Reinforcement Learning Approach to Marginalized Importance
+  Sampling with the Successor Representation]]></title>
+        <id>http://arxiv.org/abs/2106.06854</id>
+        <link href="http://arxiv.org/abs/2106.06854"/>
+        <updated>2023-11-15T03:15:43.820Z</updated>
+        <summary type="html"><![CDATA[Scott Fujimoto, David Meger, Doina Precup]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PAC-Bayesian Generalization Bounds for Adversarial Generative Models]]></title>
+        <id>http://arxiv.org/abs/2302.08942</id>
+        <link href="http://arxiv.org/abs/2302.08942"/>
+        <updated>2023-11-15T03:15:43.803Z</updated>
+        <summary type="html"><![CDATA[Sokhna Diarra Mbacke, Florence Clerc, Pascal Germain]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Large Scale Prediction with Decision Trees]]></title>
+        <id>http://arxiv.org/abs/2104.13881</id>
+        <link href="http://arxiv.org/abs/2104.13881"/>
+        <updated>2023-11-15T03:15:41.060Z</updated>
+        <summary type="html"><![CDATA[Jason M. Klusowski, Peter M. Tian]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Theoretical Understanding of Shallow Vision Transformers: Learning,
+  Generalization, and Sample Complexity]]></title>
+        <id>http://arxiv.org/abs/2302.06015</id>
+        <link href="http://arxiv.org/abs/2302.06015"/>
+        <updated>2023-11-15T03:15:41.048Z</updated>
+        <summary type="html"><![CDATA[Hongkang Li, Meng Wang, Sijia Liu, Pin-yu Chen]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Visualizing the Diversity of Representations Learned by Bayesian Neural
+  Networks]]></title>
+        <id>http://arxiv.org/abs/2201.10859</id>
+        <link href="http://arxiv.org/abs/2201.10859"/>
+        <updated>2023-11-15T03:15:41.044Z</updated>
+        <summary type="html"><![CDATA[Dennis Grinwald, Kirill Bykov, Shinichi Nakajima, Marina M.-C. H\"ohne]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Anse à voile [jatp]]]></title>
         <id>http://xianblog.wordpress.com/?p=54305</id>

@@ -6,6 +6,56 @@
       "siteUrl": "https://www.arxivist.com",
       "articles": [
         {
+          "id": "http://arxiv.org/abs/2106.06854",
+          "author": null,
+          "description": "Scott Fujimoto, David Meger, Doina Precup",
+          "link": "http://arxiv.org/abs/2106.06854",
+          "publishedOn": "2023-11-15T03:15:43.820Z",
+          "wordCount": 682,
+          "title": "A Deep Reinforcement Learning Approach to Marginalized Importance\n  Sampling with the Successor Representation",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2302.08942",
+          "author": null,
+          "description": "Sokhna Diarra Mbacke, Florence Clerc, Pascal Germain",
+          "link": "http://arxiv.org/abs/2302.08942",
+          "publishedOn": "2023-11-15T03:15:43.803Z",
+          "wordCount": 633,
+          "title": "PAC-Bayesian Generalization Bounds for Adversarial Generative Models",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2104.13881",
+          "author": null,
+          "description": "Jason M. Klusowski, Peter M. Tian",
+          "link": "http://arxiv.org/abs/2104.13881",
+          "publishedOn": "2023-11-15T03:15:41.060Z",
+          "wordCount": 675,
+          "title": "Large Scale Prediction with Decision Trees",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2302.06015",
+          "author": null,
+          "description": "Hongkang Li, Meng Wang, Sijia Liu, Pin-yu Chen",
+          "link": "http://arxiv.org/abs/2302.06015",
+          "publishedOn": "2023-11-15T03:15:41.048Z",
+          "wordCount": 736,
+          "title": "A Theoretical Understanding of Shallow Vision Transformers: Learning,\n  Generalization, and Sample Complexity",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2201.10859",
+          "author": null,
+          "description": "Dennis Grinwald, Kirill Bykov, Shinichi Nakajima, Marina M.-C. H\\\"ohne",
+          "link": "http://arxiv.org/abs/2201.10859",
+          "publishedOn": "2023-11-15T03:15:41.044Z",
+          "wordCount": 789,
+          "title": "Visualizing the Diversity of Representations Learned by Bayesian Neural\n  Networks",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
           "id": "http://arxiv.org/abs/2302.09526",
           "author": null,
           "description": "Oren Yuval, Saharon Rosset",
