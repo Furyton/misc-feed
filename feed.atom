@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-11-15T04:18:14.683Z</updated>
+    <updated>2023-11-15T05:14:46.700Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -2892,24 +2892,6 @@ A longstanding goal of the field of robot learning has been to create generalist
         <summary type="html"><![CDATA[Visit the post for more.]]></summary>
         <author>
             <name>xi'an</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Improving traffic evacuations: A case study]]></title>
-        <id>http://blog.research.google/2023/10/improving-traffic-evacuations-case-study.html</id>
-        <link href="http://blog.research.google/2023/10/improving-traffic-evacuations-case-study.html"/>
-        <updated>2023-10-16T17:12:00.000Z</updated>
-        <summary type="html"><![CDATA[Posted by Damien Pierce, Software Engineer, and John Anderson, Senior Research Director, Google Research
-
-
-
-
-Some cities or communities develop an evacuation plan to be used in case of an emergency. There are a number of reasons why city officials might enact their plan, a primary one being a natural disaster, such as a tornado, flood, or wildfire. An evacuation plan can help the community more effectively respond to an emergency, and so could help save lives. However, it can be difficult for a city to evaluate such a plan because it is not practical to have an entire town or city rehearse a full blown evacuation. For example, Mill Valley, a city in northern California, created a wildfire evacuation plan but lacked an estimate for how long the evacuation would take.
-
-
-Today we describe a c…]]></summary>
-        <author>
-            <name>Google AI Blog</name>
         </author>
     </entry>
 </feed>
