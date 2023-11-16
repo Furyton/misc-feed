@@ -1477,16 +1477,6 @@
           "wordCount": 1056,
           "title": "Asymmetric Certified Robustness via Feature-Convex Neural Networks",
           "imageUrl": "http://bair.berkeley.edu/blog/assets/fcnn/figure1.png"
-        },
-        {
-          "id": "http://bair.berkeley.edu/blog/2023/10/17/grif/",
-          "author": null,
-          "description": "Goal Representations for Instruction Following\n\n\n\nFigure title. Figure caption. This image is centered and set to 50%\npage width. -->\n\n\nA longstanding goal of the field of robot learning has been to create generalist agents that can perform tasks for humans. Natural language has the potential to be an easy-to-use interface for humans to specify arbitrary tasks, but it is difficult to train robots to follow language instructions. Approaches like language-conditioned behavioral cloning (LCBC) train policies to directly imitate expert actions conditioned on language, but require humans to annotate all training trajectories and generalize poorly across scenes and behaviors. Meanwhile, recent goal-conditioned approaches perform much better at general manipulation tasks, but do not enable easy t…",
-          "link": "http://bair.berkeley.edu/blog/2023/10/17/grif/",
-          "publishedOn": "2023-10-17T14:35:00.000Z",
-          "wordCount": 2025,
-          "title": "Goal Representations for Instruction Following",
-          "imageUrl": "http://bair.berkeley.edu/blog/assets/grif/thumbnail.png"
         }
       ]
     },
