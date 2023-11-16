@@ -1820,6 +1820,16 @@
       "siteUrl": "https://xianblog.wordpress.com",
       "articles": [
         {
+          "id": "http://xianblog.wordpress.com/?p=54050",
+          "author": "xi'an",
+          "description": "Every few weeks, I get a warning from Firefox (my default browser) that an update is not implemented. This is due to Ubuntu 22.0 adopting the snap technology for handling its packages and their updates. Supposedly helping with handling versions and dependences. This update can be done with the line command sudo snap refresh firefox […]",
+          "link": "https://xianblog.wordpress.com/2023/11/16/snap-snap-snap/",
+          "publishedOn": "2023-11-15T23:23:36.000Z",
+          "wordCount": 2069,
+          "title": "snap snap snap…",
+          "imageUrl": "https://xianblog.files.wordpress.com/2023/09/temp-2.png"
+        },
+        {
           "id": "http://xianblog.wordpress.com/?p=54305",
           "author": "xi'an",
           "description": "Visit the post for more.",
@@ -2770,16 +2780,6 @@
           "publishedOn": "2023-10-17T23:07:17.000Z",
           "wordCount": 2569,
           "title": "Wok talk: enlarging the scope",
-          "imageUrl": null
-        },
-        {
-          "id": "https://languagelog.ldc.upenn.edu/nll/?p=60998",
-          "author": "Mark Liberman",
-          "description": "[This has been drifting down my too-long to-blog list for almost 16 months — but better late than never, I guess, and the world could use some pejorative-flavored humor…]  Colin Morris, \"Compound pejoratives on Reddit – from buttface to wankpuffin\", 6/28/2022: I collected lists of around 70 prefixes and 70 suffixes (collectively, “affixes”) that can […]",
-          "link": "https://languagelog.ldc.upenn.edu/nll/?p=60998&utm_source=rss&utm_medium=rss&utm_campaign=compound-pejoratives",
-          "publishedOn": "2023-10-17T12:45:28.000Z",
-          "wordCount": 2367,
-          "title": "Compound pejoratives",
           "imageUrl": null
         }
       ]

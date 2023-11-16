@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-11-15T23:15:44.064Z</updated>
+    <updated>2023-11-16T01:08:25.033Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[snap snap snap…]]></title>
+        <id>http://xianblog.wordpress.com/?p=54050</id>
+        <link href="https://xianblog.wordpress.com/2023/11/16/snap-snap-snap/"/>
+        <updated>2023-11-15T23:23:36.000Z</updated>
+        <summary type="html"><![CDATA[Every few weeks, I get a warning from Firefox (my default browser) that an update is not implemented. This is due to Ubuntu 22.0 adopting the snap technology for handling its packages and their updates. Supposedly helping with handling versions and dependences. This update can be done with the line command sudo snap refresh firefox […]]]></summary>
+        <author>
+            <name>xi'an</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[MLIR — A Global Optimization and Dataflow Analysis]]></title>
         <id>https://jeremykun.com/?p=120314</id>
@@ -2795,16 +2805,6 @@ page width. -->
 A longstanding goal of the field of robot learning has been to create generalist agents that can perform tasks for humans. Natural language has the potential to be an easy-to-use interface for humans to specify arbitrary tasks, but it is difficult to train robots to follow language instructions. Approaches like language-conditioned behavioral cloning (LCBC) train policies to directly imitate expert actions conditioned on language, but require humans to annotate all training trajectories and generalize poorly across scenes and behaviors. Meanwhile, recent goal-conditioned approaches perform much better at general manipulation tasks, but do not enable easy t…]]></summary>
         <author>
             <name>The Berkeley Artificial Intelligence Research Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Compound pejoratives]]></title>
-        <id>https://languagelog.ldc.upenn.edu/nll/?p=60998</id>
-        <link href="https://languagelog.ldc.upenn.edu/nll/?p=60998&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=compound-pejoratives"/>
-        <updated>2023-10-17T12:45:28.000Z</updated>
-        <summary type="html"><![CDATA[[This has been drifting down my too-long to-blog list for almost 16 months — but better late than never, I guess, and the world could use some pejorative-flavored humor…]  Colin Morris, "Compound pejoratives on Reddit – from buttface to wankpuffin", 6/28/2022: I collected lists of around 70 prefixes and 70 suffixes (collectively, “affixes”) that can […]]]></summary>
-        <author>
-            <name>Mark Liberman</name>
         </author>
     </entry>
 </feed>
