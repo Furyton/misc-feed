@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-11-16T11:12:50.774Z</updated>
+    <updated>2023-11-16T12:29:51.670Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -2810,40 +2810,6 @@ Quantum mechanics allows many phenomena that are classically impossible: a quant
   Wang]]></summary>
         <author>
             <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[When should you upgrade to Python 3.12?]]></title>
-        <id>https://pythonspeed.com/articles/upgrade-python-3.12/</id>
-        <link href="https://pythonspeed.com/articles/upgrade-python-3.12/"/>
-        <updated>2023-10-18T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Python 3.12 is out now–but should you switch to it immediately?
-And if you shouldn’t upgrade just yet, when should you?
-Immediately after the release, you may not want to upgrade just yet.
-But from December 2023 and onwards, upgrading is definitely worth trying.
-To understand why, we need to consider Python packaging, the software development process, and take a look at the history of past releases.
-Read more...]]></summary>
-        <author>
-            <name>Python⇒Speed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Speeding up Cython with SIMD]]></title>
-        <id>https://pythonspeed.com/articles/faster-cython-simd/</id>
-        <link href="https://pythonspeed.com/articles/faster-cython-simd/"/>
-        <updated>2023-10-18T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Cython allows you to write compiled extensions for Python, by translating Python-y code to C or C++.
-Often you’ll use it to speed up your software, and it’s especially useful for implementing small data science or scientific computing algorithms.
-But what happens when Cython is too slow?
-Often there’s still speed improvements you can do.
-In a previous article we focused on examples of optimizing your code to take advantage of things like instruction-level parallelism.
-In this article, we’ll focus on another CPU feature, Single Instruction Multiple Data or SIMD, specifically in the context of Cython.
-As well see, in some situations using SIMD can happen with only minimal changes to your code.
-Parts of this article are excerpted from a book I’m working on that will help teach you how to optimize low-level code, the kind of code you’d write with Cython, C, or Rust.
-The goal is to help data scientists and scientists who normally write Python to understand how to make their compiled code faster.
-Read more...]]></summary>
-        <author>
-            <name>Python⇒Speed</name>
         </author>
     </entry>
 </feed>
