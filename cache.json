@@ -1597,6 +1597,26 @@
       "siteUrl": "https://pytorch.org/",
       "articles": [
         {
+          "id": "https://pytorch.org/blog/accelerating-generative-ai/",
+          "author": null,
+          "description": "This post is the first part of a multi-series blog focused on how to accelerate generative AI models with pure, native PyTorch. We are excited to share a breadth of newly released PyTorch performance features alongside practical examples of how these features can be combined to see how far we can push PyTorch native performance.",
+          "link": "https://pytorch.org/blog/accelerating-generative-ai/",
+          "publishedOn": "2023-11-16T08:00:00.000Z",
+          "wordCount": 3137,
+          "title": "Accelerating Generative AI with PyTorch: Segment Anything, Fast",
+          "imageUrl": "https://pytorch.org/assets/images/social-share.jpg"
+        },
+        {
+          "id": "https://pytorch.org/blog/pytorch-docathon-h2-2023-wrap/",
+          "author": null,
+          "description": "We are thrilled to announce the successful completion of the Fall 2023 PyTorch Docathon! The event was a resounding success, and we want to extend our heartfelt gratitude to all the participants who made it possible. Dedication, expertise, and tireless efforts of our open-source contributors have once again helped us to improve PyTorch documentation.",
+          "link": "https://pytorch.org/blog/pytorch-docathon-h2-2023-wrap/",
+          "publishedOn": "2023-11-16T08:00:00.000Z",
+          "wordCount": 823,
+          "title": "🎉 PyTorch Docathon H2 2023 Wrap-up 🎉",
+          "imageUrl": "https://pytorch.org/assets/images/social-share.jpg"
+        },
+        {
           "id": "https://pytorch.org/blog/pytorch-compile-to-speed-up-inference/",
           "author": null,
           "description": "In this blog, we discuss how to improve the inference latencies of the Llama 2 family of models using PyTorch native optimizations such as native fast kernels, compile transformations from torch compile, and tensor parallel for distributed inference. Our approach results in 29ms/token latency for single user requests on the 70B LLaMa model (as measured on 8 A100 GPUs). We are excited to share our findings with the community and make our code available here.",

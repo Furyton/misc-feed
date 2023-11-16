@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-11-16T17:13:08.023Z</updated>
+    <updated>2023-11-16T18:19:35.670Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -14,6 +14,26 @@
         <summary type="html"><![CDATA[Today's xkcd: Mouseover title: "The problems started with my resolution next year to reject temporal causality." Two earlier empiricism jokes can be found in "Learning empiricism", 4/29/2020. For a larger dose of epistemology, without jokes, see "Rationalism vs. Empiricism", The Stanford Encyclopedia of Philosophy.]]></summary>
         <author>
             <name>Mark Liberman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Accelerating Generative AI with PyTorch: Segment Anything, Fast]]></title>
+        <id>https://pytorch.org/blog/accelerating-generative-ai/</id>
+        <link href="https://pytorch.org/blog/accelerating-generative-ai/"/>
+        <updated>2023-11-16T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[This post is the first part of a multi-series blog focused on how to accelerate generative AI models with pure, native PyTorch. We are excited to share a breadth of newly released PyTorch performance features alongside practical examples of how these features can be combined to see how far we can push PyTorch native performance.]]></summary>
+        <author>
+            <name>PyTorch Website</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[🎉 PyTorch Docathon H2 2023 Wrap-up 🎉]]></title>
+        <id>https://pytorch.org/blog/pytorch-docathon-h2-2023-wrap/</id>
+        <link href="https://pytorch.org/blog/pytorch-docathon-h2-2023-wrap/"/>
+        <updated>2023-11-16T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[We are thrilled to announce the successful completion of the Fall 2023 PyTorch Docathon! The event was a resounding success, and we want to extend our heartfelt gratitude to all the participants who made it possible. Dedication, expertise, and tireless efforts of our open-source contributors have once again helped us to improve PyTorch documentation.]]></summary>
+        <author>
+            <name>PyTorch Website</name>
         </author>
     </entry>
     <entry>
