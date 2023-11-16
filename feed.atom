@@ -2,10 +2,84 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-11-16T21:13:51.398Z</updated>
+    <updated>2023-11-16T22:14:32.067Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[On the Measure of Maximal Entropy for Finite Horizon Sinai Billiard Maps]]></title>
+        <id>http://arxiv.org/abs/1807.02330</id>
+        <link href="http://arxiv.org/abs/1807.02330"/>
+        <updated>2023-11-16T22:14:32.043Z</updated>
+        <summary type="html"><![CDATA[Viviane Baladi, Mark Demers]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dihedral Sieving Phenomena]]></title>
+        <id>http://arxiv.org/abs/1710.06517</id>
+        <link href="http://arxiv.org/abs/1710.06517"/>
+        <updated>2023-11-16T22:14:32.021Z</updated>
+        <summary type="html"><![CDATA[Sujit Rao, Joe Suk]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Difference-in-Differences Estimators of Intertemporal Treatment Effects]]></title>
+        <id>http://arxiv.org/abs/2007.04267</id>
+        <link href="http://arxiv.org/abs/2007.04267"/>
+        <updated>2023-11-16T22:14:32.017Z</updated>
+        <summary type="html"><![CDATA[Cl\'ement de Chaisemartin, Xavier D'Haultfoeuille]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Asymptotic properties of generalized closed-form maximum likelihood
+  estimators]]></title>
+        <id>http://arxiv.org/abs/2102.07356</id>
+        <link href="http://arxiv.org/abs/2102.07356"/>
+        <updated>2023-11-16T22:14:32.006Z</updated>
+        <summary type="html"><![CDATA[Pedro L. Ramos, Eduardo Ramos, Francisco A. Rodrigues, Francisco
+  Louzada]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Shifted symplectic structures on derived analytic moduli of $\ell$-adic
+  local systems and Galois representations]]></title>
+        <id>http://arxiv.org/abs/2205.02292</id>
+        <link href="http://arxiv.org/abs/2205.02292"/>
+        <updated>2023-11-16T22:14:32.002Z</updated>
+        <summary type="html"><![CDATA[J.P. Pridham]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Responsible AI at Google Research: Adversarial testing for generative AI safety]]></title>
+        <id>http://blog.research.google/2023/11/responsible-ai-at-google-research_16.html</id>
+        <link href="http://blog.research.google/2023/11/responsible-ai-at-google-research_16.html"/>
+        <updated>2023-11-16T21:11:00.000Z</updated>
+        <summary type="html"><![CDATA[Posted by Kathy Meier-Hellstern, Building Responsible AI & Data Systems, Director, Google Research
+
+
+
+
+The Responsible AI and Human-Centered Technology (RAI-HCT) team within Google Research is committed to advancing the theory and practice of responsible human-centered AI through a lens of culturally-aware research, to meet the needs of billions of users today, and blaze the path forward for a better AI future. The BRAIDS (Building Responsible AI Data and Solutions) team within RAI-HCT aims to simplify the adoption of RAI practices through the utilization of scalable tools, high-quality data, streamlined processes, and novel research with a current emphasis on addressing the unique challenges posed by generative AI (GenAI).
+
+
+
+
+
+GenAI models have enabled unprecedented capabilities leading …]]></summary>
+        <author>
+            <name>Google AI Blog</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Pluperfect]]></title>
         <id>https://languagelog.ldc.upenn.edu/nll/?p=61292</id>

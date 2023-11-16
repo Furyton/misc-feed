@@ -6,6 +6,56 @@
       "siteUrl": "https://www.arxivist.com",
       "articles": [
         {
+          "id": "http://arxiv.org/abs/1807.02330",
+          "author": null,
+          "description": "Viviane Baladi, Mark Demers",
+          "link": "http://arxiv.org/abs/1807.02330",
+          "publishedOn": "2023-11-16T22:14:32.043Z",
+          "wordCount": 806,
+          "title": "On the Measure of Maximal Entropy for Finite Horizon Sinai Billiard Maps",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/1710.06517",
+          "author": null,
+          "description": "Sujit Rao, Joe Suk",
+          "link": "http://arxiv.org/abs/1710.06517",
+          "publishedOn": "2023-11-16T22:14:32.021Z",
+          "wordCount": 608,
+          "title": "Dihedral Sieving Phenomena",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2007.04267",
+          "author": null,
+          "description": "Cl\\'ement de Chaisemartin, Xavier D'Haultfoeuille",
+          "link": "http://arxiv.org/abs/2007.04267",
+          "publishedOn": "2023-11-16T22:14:32.017Z",
+          "wordCount": 707,
+          "title": "Difference-in-Differences Estimators of Intertemporal Treatment Effects",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2102.07356",
+          "author": null,
+          "description": "Pedro L. Ramos, Eduardo Ramos, Francisco A. Rodrigues, Francisco\n  Louzada",
+          "link": "http://arxiv.org/abs/2102.07356",
+          "publishedOn": "2023-11-16T22:14:32.006Z",
+          "wordCount": 660,
+          "title": "Asymptotic properties of generalized closed-form maximum likelihood\n  estimators",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2205.02292",
+          "author": null,
+          "description": "J.P. Pridham",
+          "link": "http://arxiv.org/abs/2205.02292",
+          "publishedOn": "2023-11-16T22:14:32.002Z",
+          "wordCount": 656,
+          "title": "Shifted symplectic structures on derived analytic moduli of $\\ell$-adic\n  local systems and Galois representations",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
           "id": "http://arxiv.org/abs/2211.14400",
           "author": null,
           "description": "Jonathan W. Siegel",
@@ -2178,6 +2228,16 @@
       "feedUrl": "http://feeds.feedburner.com/blogspot/gJZg",
       "siteUrl": "http://blog.research.google/",
       "articles": [
+        {
+          "id": "http://blog.research.google/2023/11/responsible-ai-at-google-research_16.html",
+          "author": null,
+          "description": "Posted by Kathy Meier-Hellstern, Building Responsible AI & Data Systems, Director, Google Research\n\n\n\n\nThe Responsible AI and Human-Centered Technology (RAI-HCT) team within Google Research is committed to advancing the theory and practice of responsible human-centered AI through a lens of culturally-aware research, to meet the needs of billions of users today, and blaze the path forward for a better AI future. The BRAIDS (Building Responsible AI Data and Solutions) team within RAI-HCT aims to simplify the adoption of RAI practices through the utilization of scalable tools, high-quality data, streamlined processes, and novel research with a current emphasis on addressing the unique challenges posed by generative AI (GenAI).\n\n\n\n\n\nGenAI models have enabled unprecedented capabilities leading …",
+          "link": "http://blog.research.google/2023/11/responsible-ai-at-google-research_16.html",
+          "publishedOn": "2023-11-16T21:11:00.000Z",
+          "wordCount": 27589,
+          "title": "Responsible AI at Google Research: Adversarial testing for generative AI safety",
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEghkgEei5l04Gs6hz4cLk9IqdDbXcx-41xZsRsJ-b2WHLDng1eZzJqo9eAwBZjZHc5P2akAKxT6vQLbn0-5nxy_OuPA5QIyWAV9Yy_4iIGch-zM2W-88Y-6e8HxkbG39hemnzheAx5GUvkMspUCaQiqE5RtxYvFKj-bI0pKzOhFVrWmSOgHJisYHBDfGdCl/w1200-h630-p-k-no-nu/lockup_GoogleResearch_FullColor_Hero.jpg"
+        },
         {
           "id": "http://blog.research.google/2023/11/scaling-multimodal-understanding-to.html",
           "author": null,
