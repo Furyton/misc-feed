@@ -1869,6 +1869,16 @@
       "siteUrl": "https://xianblog.wordpress.com",
       "articles": [
         {
+          "id": "http://xianblog.wordpress.com/?p=53963",
+          "author": "xi'an",
+          "description": "A surprise invitation to Ze Kitchen Galerie, an original restaurant in the Latin Quarter serving a fancy fusion cuisine with strong South-East Asia influences. Including a stuffed zucchini flower. If anything, the opposition between the dish and its broth was sometimes too much, as in the white chocolate – wasabi ice cream where the wasabi […]",
+          "link": "https://xianblog.wordpress.com/2023/11/17/ze-kitchen-gallery/",
+          "publishedOn": "2023-11-16T23:23:12.000Z",
+          "wordCount": 2071,
+          "title": "ze kitchen galerie",
+          "imageUrl": "https://xianblog.files.wordpress.com/2023/08/1693389605680-e1693395259284.jpg"
+        },
+        {
           "id": "http://xianblog.wordpress.com/?p=54050",
           "author": "xi'an",
           "description": "Every few weeks, I get a warning from Firefox (my default browser) that an update is not implemented. This is due to Ubuntu 22.0 adopting the snap technology for handling its packages and their updates. Supposedly helping with handling versions and dependences. This update can be done with the line command sudo snap refresh firefox […]",
@@ -2411,6 +2421,16 @@
       "feedUrl": "https://languagelog.ldc.upenn.edu/nll/?feed=rss2",
       "siteUrl": "https://languagelog.ldc.upenn.edu/nll",
       "articles": [
+        {
+          "id": "https://languagelog.ldc.upenn.edu/nll/?p=61304",
+          "author": "Victor Mair",
+          "description": "From Nathan Hopson: I have been reading some handwritten documents from the 1960s and 1970s, and have been reminded that even beyond abbreviations, there were still \"nonstandard\" kanji in use. I guess this took me off guard mostly because these are school publications. On the abbreviated side, the most obvious example is: 第 → 㐧 […]",
+          "link": "https://languagelog.ldc.upenn.edu/nll/?p=61304&utm_source=rss&utm_medium=rss&utm_campaign=abbreviated-and-nonstandard-kanji",
+          "publishedOn": "2023-11-17T01:04:28.000Z",
+          "wordCount": 2276,
+          "title": "Abbreviated and nonstandard kanji",
+          "imageUrl": null
+        },
         {
           "id": "https://languagelog.ldc.upenn.edu/nll/?p=61292",
           "author": "Victor Mair",

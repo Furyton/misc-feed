@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-11-16T23:15:14.833Z</updated>
+    <updated>2023-11-17T01:08:17.633Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Abbreviated and nonstandard kanji]]></title>
+        <id>https://languagelog.ldc.upenn.edu/nll/?p=61304</id>
+        <link href="https://languagelog.ldc.upenn.edu/nll/?p=61304&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=abbreviated-and-nonstandard-kanji"/>
+        <updated>2023-11-17T01:04:28.000Z</updated>
+        <summary type="html"><![CDATA[From Nathan Hopson: I have been reading some handwritten documents from the 1960s and 1970s, and have been reminded that even beyond abbreviations, there were still "nonstandard" kanji in use. I guess this took me off guard mostly because these are school publications. On the abbreviated side, the most obvious example is: 第 → 㐧 […]]]></summary>
+        <author>
+            <name>Victor Mair</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ze kitchen galerie]]></title>
+        <id>http://xianblog.wordpress.com/?p=53963</id>
+        <link href="https://xianblog.wordpress.com/2023/11/17/ze-kitchen-gallery/"/>
+        <updated>2023-11-16T23:23:12.000Z</updated>
+        <summary type="html"><![CDATA[A surprise invitation to Ze Kitchen Galerie, an original restaurant in the Latin Quarter serving a fancy fusion cuisine with strong South-East Asia influences. Including a stuffed zucchini flower. If anything, the opposition between the dish and its broth was sometimes too much, as in the white chocolate – wasabi ice cream where the wasabi […]]]></summary>
+        <author>
+            <name>xi'an</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[On the Measure of Maximal Entropy for Finite Horizon Sinai Billiard Maps]]></title>
         <id>http://arxiv.org/abs/1807.02330</id>
