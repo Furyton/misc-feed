@@ -6,6 +6,56 @@
       "siteUrl": "https://www.arxivist.com",
       "articles": [
         {
+          "id": "http://arxiv.org/abs/2311.09491",
+          "author": null,
+          "description": "Andrew Zammit-Mangion, Michael D. Kaminski, Ba-Hien Tran, Maurizio\n  Filippone, Noel Cressie",
+          "link": "http://arxiv.org/abs/2311.09491",
+          "publishedOn": "2023-11-17T04:18:43.574Z",
+          "wordCount": 719,
+          "title": "Spatial Bayesian Neural Networks",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2306.11928",
+          "author": null,
+          "description": "Vivien Cabannes, Carles Domingo-Enrich",
+          "link": "http://arxiv.org/abs/2306.11928",
+          "publishedOn": "2023-11-17T04:18:43.550Z",
+          "wordCount": 592,
+          "title": "Open Problem: Learning with Variational Objectives on Measures",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2302.14838",
+          "author": null,
+          "description": "Angelica Chen, David M. Dohan, David R. So",
+          "link": "http://arxiv.org/abs/2302.14838",
+          "publishedOn": "2023-11-17T04:18:43.379Z",
+          "wordCount": 725,
+          "title": "EvoPrompting: Language Models for Code-Level Neural Architecture Search",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2205.12683",
+          "author": null,
+          "description": "Terufumi Morishita, Gaku Morio, Shota Horiguchi, Hiroaki Ozaki, Nobuo\n  Nukaga",
+          "link": "http://arxiv.org/abs/2205.12683",
+          "publishedOn": "2023-11-17T04:18:43.287Z",
+          "wordCount": 669,
+          "title": "Rethinking Fano's Inequality in Ensemble Learning",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2311.09245",
+          "author": null,
+          "description": "Ali Mohaddes, Johannes Lederer",
+          "link": "http://arxiv.org/abs/2311.09245",
+          "publishedOn": "2023-11-17T04:18:43.224Z",
+          "wordCount": 641,
+          "title": "Affine Invariance in Continuous-Domain Convolutional Neural Networks",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
           "id": "http://arxiv.org/abs/1807.02330",
           "author": null,
           "description": "Viviane Baladi, Mark Demers",
