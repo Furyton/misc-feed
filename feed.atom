@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-11-17T10:16:32.416Z</updated>
+    <updated>2023-11-17T11:12:54.439Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -2927,16 +2927,6 @@ We are excited to announce a new feature of Google Search that helps people prac
         <summary type="html"><![CDATA[Generative AI systems are already being used to write books, create graphic designs, assist medical practitioners, and are becoming increasingly capable. To ensure these systems are developed and deployed responsibly requires carefully evaluating the potential ethical and social risks they may pose.In our paper, we propose a three-layered framework for evaluating the social and ethical risks of AI systems. This framework includes evaluations of AI system capability, human interaction, and systemic impacts.We also map the current state of safety evaluations and find three main gaps: context, specific risks, and multimodality. To help close these gaps, we call for repurposing existing evaluation methods for generative AI and for implementing a comprehensive approach to evaluation, as in our case study on misinformation. This approach integrates findings like how likely the AI system is to provide factually incorrect information, with insights on how people use that system, and in what context. Multi-layered evaluations can draw conclusions beyond model capability and indicate whether harm — in this case, misinformation — actually occurs and spreads. To make any technology work as intended, both social and technical challenges must be solved. So to better assess AI system safety, these different layers of context must be taken into account. Here, we build upon earlier research identifying the potential risks of large-scale language models, such as privacy leaks, job automation, misinformation, and more — and introduce a way of comprehensively evaluating these risks going forward.]]></summary>
         <author>
             <name>Google DeepMind Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[minimize harm to civilians and civilian objects and refrain from unlawful attacks or the collective punishment of civilians [reposted from Amnesty International]]]></title>
-        <id>http://xianblog.wordpress.com/?p=54260</id>
-        <link href="https://xianblog.wordpress.com/2023/10/19/minimize-harm-to-civilians-and-civilian-objects-and-refrain-from-unlawful-attacks-or-the-collective-punishment-of-civilians-reposted-from-amnesty-international/"/>
-        <updated>2023-10-18T22:23:30.000Z</updated>
-        <summary type="html"><![CDATA[Visit the post for more.]]></summary>
-        <author>
-            <name>xi'an</name>
         </author>
     </entry>
 </feed>
