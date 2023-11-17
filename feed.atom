@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-11-17T15:15:53.651Z</updated>
+    <updated>2023-11-17T16:22:43.369Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -2863,60 +2863,6 @@ We are excited to announce a new feature of Google Search that helps people prac
         <summary type="html"><![CDATA[Introducing a context-based framework for comprehensively evaluating the social and ethical risks of AI systems]]></summary>
         <author>
             <name>Google DeepMind Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Subject-specific Deep Neural Networks for Count Data with
-  High-cardinality Categorical Features]]></title>
-        <id>http://arxiv.org/abs/2310.11654</id>
-        <link href="http://arxiv.org/abs/2310.11654"/>
-        <updated>2023-10-19T03:15:18.882Z</updated>
-        <summary type="html"><![CDATA[Hangbin Lee, Il Do Ha, Changha Hwang, Youngjo Lee]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bayesian Flow Networks in Continual Learning]]></title>
-        <id>http://arxiv.org/abs/2310.12001</id>
-        <link href="http://arxiv.org/abs/2310.12001"/>
-        <updated>2023-10-19T03:15:18.839Z</updated>
-        <summary type="html"><![CDATA[Mateusz Pyla, Kamil Deja, Bart{\l}omiej Twardowski, Tomasz Trzci\'nski]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Efficient Online Learning with Offline Datasets for Infinite Horizon
-  MDPs: A Bayesian Approach]]></title>
-        <id>http://arxiv.org/abs/2310.11531</id>
-        <link href="http://arxiv.org/abs/2310.11531"/>
-        <updated>2023-10-19T03:15:18.821Z</updated>
-        <summary type="html"><![CDATA[Dengwang Tang, Rahul Jain, Botao Hao, Zheng Wen]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A General Theoretical Paradigm to Understand Learning from Human
-  Preferences]]></title>
-        <id>http://arxiv.org/abs/2310.12036</id>
-        <link href="http://arxiv.org/abs/2310.12036"/>
-        <updated>2023-10-19T03:15:18.809Z</updated>
-        <summary type="html"><![CDATA[Mohammad Gheshlaghi Azar, Mark Rowland, Bilal Piot, Daniel
-  Guo, Daniele Calandriello, Michal Valko, R\'emi Munos]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SQ Lower Bounds for Learning Mixtures of Linear Classifiers]]></title>
-        <id>http://arxiv.org/abs/2310.11876</id>
-        <link href="http://arxiv.org/abs/2310.11876"/>
-        <updated>2023-10-19T03:15:18.794Z</updated>
-        <summary type="html"><![CDATA[Ilias Diakonikolas, Daniel M. Kane, Yuxin Sun]]></summary>
-        <author>
-            <name>arxivist feed</name>
         </author>
     </entry>
 </feed>
