@@ -2347,16 +2347,6 @@
           "wordCount": 27399,
           "title": "Grammar checking at Google Search scale",
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhW7pWsW1-E7U1LH1bxmjBL_2W5fS6uN2iRb2cNPBks57ubvFNJj-SjE2Zk1lFqndKWBVAeO3g3MLeJ96QUIUNJDyLTcWjeO835NT6HfJMYQBEdGqL-X_sxQ1yxMy16a0OcOLb6gSz2lqM6VofToVtN_s_F_wGB41AZwlj146y7ZXQ4PFsdywX10QO54MJ4/w1200-h630-p-k-no-nu/HeroGC.jpg"
-        },
-        {
-          "id": "http://blog.research.google/2023/10/answering-billions-of-reporting-queries.html",
-          "author": null,
-          "description": "Posted by Jagan Sankaranarayanan, Senior Staff Software Engineer, and Indrajit Roy, Head of Napa Product, Google\n\n\n\n\nGoogle Ads infrastructure runs on an internal data warehouse called Napa. Billions of reporting queries, which power critical dashboards used by advertising clients to measure campaign performance, run on tables stored in Napa. These tables contain records of ads performance that are keyed using particular customers and the campaign identifiers with which they are associated. Keys are tokens that are used both to associate an ads record with a particular client and campaign (e.g., customer_id, campaign_id) and for efficient retrieval. A record contains dozens of keys, so clients use reporting queries to specify keys needed to filter the data to understand ads performance (e.…",
-          "link": "http://blog.research.google/2023/10/answering-billions-of-reporting-queries.html",
-          "publishedOn": "2023-10-20T17:07:00.000Z",
-          "wordCount": 27806,
-          "title": "Answering billions of reporting queries each day with low latency",
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIZSvPVFwZPeTv8ivB-lHMGfoLkP-fDBuAy9GEklUVNBPPoqOXRfme5Psui7DbKssImVjFHtxoygKhFBvgpAG_C5852ocu9i7AOfWPeC1mSlaim8jfqsV55wZIULDUPk7WhxW1OISfL_CjZswN3CcZN7GJgVLBdepic8lfYAUCT0rAlXGGbnf-WuA6mRc6/w1200-h630-p-k-no-nu/hero.jpg"
         }
       ]
     },

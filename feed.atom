@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-11-19T04:17:58.391Z</updated>
+    <updated>2023-11-19T05:13:50.248Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -2782,21 +2782,6 @@ The post 帧同步游戏中使用 Run-Ahead 隐藏输入延迟 appeared first on
         <summary type="html"><![CDATA[Read Jen Williams’ The Winnowing Flame trilogy, induced by two British Fantasy Awards associated with the first two volumes. This is quite a disappointing series, the more one goes through the story. At the start, while I found the story rather simplistic in its world building and in repeating the all-too-common pattern of a very […]]]></summary>
         <author>
             <name>xi'an</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Answering billions of reporting queries each day with low latency]]></title>
-        <id>http://blog.research.google/2023/10/answering-billions-of-reporting-queries.html</id>
-        <link href="http://blog.research.google/2023/10/answering-billions-of-reporting-queries.html"/>
-        <updated>2023-10-20T17:07:00.000Z</updated>
-        <summary type="html"><![CDATA[Posted by Jagan Sankaranarayanan, Senior Staff Software Engineer, and Indrajit Roy, Head of Napa Product, Google
-
-
-
-
-Google Ads infrastructure runs on an internal data warehouse called Napa. Billions of reporting queries, which power critical dashboards used by advertising clients to measure campaign performance, run on tables stored in Napa. These tables contain records of ads performance that are keyed using particular customers and the campaign identifiers with which they are associated. Keys are tokens that are used both to associate an ads record with a particular client and campaign (e.g., customer_id, campaign_id) and for efficient retrieval. A record contains dozens of keys, so clients use reporting queries to specify keys needed to filter the data to understand ads performance (e.…]]></summary>
-        <author>
-            <name>Google AI Blog</name>
         </author>
     </entry>
 </feed>
