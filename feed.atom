@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-11-18T23:14:12.697Z</updated>
+    <updated>2023-11-19T01:12:42.704Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[is it necessary to learn summary statistics? [One World ABC seminar]]]></title>
+        <id>http://xianblog.wordpress.com/?p=54463</id>
+        <link href="https://xianblog.wordpress.com/2023/11/19/is-it-necessary-to-learn-summary-statistics-one-world-abc-seminar/"/>
+        <updated>2023-11-18T23:23:18.000Z</updated>
+        <summary type="html"><![CDATA[Next week, on 30 November, at 9am (UK time), Yanzhi Chen (Cambridge) will give a One World ABC webinar on Is “It Necessary to Learn Summary Statistics for Likelihood-free Inference?”, a PMLR paper join with Michael Guttman and Adrian Weller: Likelihood-free inference (LFI) is a set of techniques for inference in implicit statistical models. A […]]]></summary>
+        <author>
+            <name>xi'an</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Sam Altman and King Blozo]]></title>
         <id>https://languagelog.ldc.upenn.edu/nll/?p=61319</id>
@@ -2787,16 +2797,6 @@ The post 帧同步游戏中使用 Run-Ahead 隐藏输入延迟 appeared first on
 Google Ads infrastructure runs on an internal data warehouse called Napa. Billions of reporting queries, which power critical dashboards used by advertising clients to measure campaign performance, run on tables stored in Napa. These tables contain records of ads performance that are keyed using particular customers and the campaign identifiers with which they are associated. Keys are tokens that are used both to associate an ads record with a particular client and campaign (e.g., customer_id, campaign_id) and for efficient retrieval. A record contains dozens of keys, so clients use reporting queries to specify keys needed to filter the data to understand ads performance (e.…]]></summary>
         <author>
             <name>Google AI Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pinyin vs. English]]></title>
-        <id>https://languagelog.ldc.upenn.edu/nll/?p=61028</id>
-        <link href="https://languagelog.ldc.upenn.edu/nll/?p=61028&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=pinyin-vs-english"/>
-        <updated>2023-10-20T11:37:44.000Z</updated>
-        <summary type="html"><![CDATA[I knew that in the future it would come to this.  More than forty years ago, I predicted that one day China would have to make a choice between Hanyu Pinyin and English when it comes to phonetic writing.  As we say in Mandarin, "guǒrán 果然" ("as expected / it turns out")…. It seems that […]]]></summary>
-        <author>
-            <name>Victor Mair</name>
         </author>
     </entry>
 </feed>
