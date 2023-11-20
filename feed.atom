@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-11-20T07:14:36.274Z</updated>
+    <updated>2023-11-20T08:20:36.612Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Transformer升级之路：15、Key归一化助力长度外推]]></title>
+        <id>https://kexue.fm/archives/9859</id>
+        <link href="https://kexue.fm/archives/9859"/>
+        <updated>2023-11-20T07:51:00.000Z</updated>
+        <summary type="html"><![CDATA[大体上，我们可以将目前Transformer的长度外推技术分为两类：一类是事后修改，比如NTK-RoPE、YaRN、ReRoPE等，这类方法的特点是直接修改推理模型，无需微调就能达到一定的长度外...]]></summary>
+        <author>
+            <name>苏剑林</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AutoDiff: combining Auto-encoder and Diffusion model for tabular data
   synthesizing]]></title>
@@ -2829,16 +2839,6 @@ The post 帧同步游戏中使用 Run-Ahead 隐藏输入延迟 appeared first on
         <summary type="html"><![CDATA[Visit the post for more.]]></summary>
         <author>
             <name>xi'an</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["Calling all linguists"]]></title>
-        <id>https://languagelog.ldc.upenn.edu/nll/?p=61043</id>
-        <link href="https://languagelog.ldc.upenn.edu/nll/?p=61043&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=calling-all-linguists"/>
-        <updated>2023-10-21T20:15:43.000Z</updated>
-        <summary type="html"><![CDATA[Kevin Drum, "Calling all linguists", 10/20/2023: You know what I'd like? I'd like a qualified linguist with a good ear to listen to a Joe Biden speech and report back. A couple of weeks ago I spent some time doing this, and Biden's problem is that his speech really does sound a little slurred at […]]]></summary>
-        <author>
-            <name>Mark Liberman</name>
         </author>
     </entry>
 </feed>

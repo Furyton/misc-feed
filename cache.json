@@ -1322,6 +1322,16 @@
       "siteUrl": "https://kexue.fm/",
       "articles": [
         {
+          "id": "https://kexue.fm/archives/9859",
+          "author": "苏剑林",
+          "description": "大体上，我们可以将目前Transformer的长度外推技术分为两类：一类是事后修改，比如NTK-RoPE、YaRN、ReRoPE等，这类方法的特点是直接修改推理模型，无需微调就能达到一定的长度外...",
+          "link": "https://kexue.fm/archives/9859",
+          "publishedOn": "2023-11-20T07:51:00.000Z",
+          "wordCount": 1868,
+          "title": "Transformer升级之路：15、Key归一化助力长度外推",
+          "imageUrl": null
+        },
+        {
           "id": "https://kexue.fm/archives/9855",
           "author": "苏剑林",
           "description": "很多会下厨的同学估计都纠结过一件事情，那就是炒锅的选择。对于炒锅的纠结，归根结底是不粘与方便的权衡。最简单的不粘锅自然是带涂层的不粘锅，如果家里的热源只有电磁炉，并且炒菜习惯比较温和，那么涂层不...",
@@ -2814,21 +2824,6 @@
           "publishedOn": "2023-10-22T20:19:13.000Z",
           "wordCount": 3002,
           "title": "Frater studiorum: Tsu-Lin Mei (1933-2023)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://languagelog.ldc.upenn.edu/nll/?p=61043",
-          "author": "Mark Liberman",
-          "description": "Kevin Drum, \"Calling all linguists\", 10/20/2023: You know what I'd like? I'd like a qualified linguist with a good ear to listen to a Joe Biden speech and report back. A couple of weeks ago I spent some time doing this, and Biden's problem is that his speech really does sound a little slurred at […]",
-          "link": "https://languagelog.ldc.upenn.edu/nll/?p=61043&utm_source=rss&utm_medium=rss&utm_campaign=calling-all-linguists",
-          "publishedOn": "2023-10-21T20:15:43.000Z",
-          "wordCount": 2575,
-          "title": "\"Calling all linguists\"",
-          "enclosure": {
-            "url": "https://languagelog.ldc.upenn.edu/myl/Biden10202023.flac",
-            "length": "12450008",
-            "type": "audio/flac"
-          },
           "imageUrl": null
         }
       ]
