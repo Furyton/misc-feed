@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-11-20T11:13:52.332Z</updated>
+    <updated>2023-11-20T12:30:41.348Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Trends in Foreign Language enrollments]]></title>
+        <id>https://languagelog.ldc.upenn.edu/nll/?p=61354</id>
+        <link href="https://languagelog.ldc.upenn.edu/nll/?p=61354&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=trends-foreign-language-enrollments"/>
+        <updated>2023-11-20T11:41:04.000Z</updated>
+        <summary type="html"><![CDATA[Karin Fisher, "It’s a Bleak Climate for Foreign Languages as Enrollments Tumble", Chronicle of Higher Education 11/15/2023" Enrollments in foreign-language courses tumbled nearly 17 percent between the fall of 2016 and the fall of 2021, the largest decline in the six decades the Modern Language Association has been conducting its census of American colleges. […] […]]]></summary>
+        <author>
+            <name>Mark Liberman</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Transformer升级之路：15、Key归一化助力长度外推]]></title>
         <id>https://kexue.fm/archives/9859</id>
