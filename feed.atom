@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-11-20T21:14:14.038Z</updated>
+    <updated>2023-11-20T22:15:25.862Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -2828,16 +2828,6 @@ A large body of ground work on adversarial attacks is on images, and differently
         <summary type="html"><![CDATA[It is with deep sadness that I report the passing on October 14, 2023 of Tsu-Lin Mei, professor of Chinese historical linguistics at Cornell University.  Tsu-Lin was born on February 14, 1933 at the Peking Union Medical College Hospital in Beijing. He received his B.A. from Oberlin College in 1954, his M.A. (in Mathematics) from Harvard […]]]></summary>
         <author>
             <name>Victor Mair</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[从梯度最大化看Attention的Scale操作]]></title>
-        <id>https://kexue.fm/archives/9812</id>
-        <link href="https://kexue.fm/archives/9812"/>
-        <updated>2023-10-22T09:35:00.000Z</updated>
-        <summary type="html"><![CDATA[我们知道，Scaled-Dot Product Attention的Scale因子是$\frac{1}{\sqrt{d}}$，其中$d$是$\boldsymbol{q},\boldsymbol{...]]></summary>
-        <author>
-            <name>苏剑林</name>
         </author>
     </entry>
 </feed>

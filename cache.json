@@ -1360,16 +1360,6 @@
           "wordCount": 1561,
           "title": "“四舍五入”之FSQ：简单得令人尴尬的VQ-VAE替代品",
           "imageUrl": null
-        },
-        {
-          "id": "https://kexue.fm/archives/9812",
-          "author": "苏剑林",
-          "description": "我们知道，Scaled-Dot Product Attention的Scale因子是$\\frac{1}{\\sqrt{d}}$，其中$d$是$\\boldsymbol{q},\\boldsymbol{...",
-          "link": "https://kexue.fm/archives/9812",
-          "publishedOn": "2023-10-22T09:35:00.000Z",
-          "wordCount": 1648,
-          "title": "从梯度最大化看Attention的Scale操作",
-          "imageUrl": null
         }
       ]
     },
