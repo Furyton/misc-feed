@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-11-20T23:16:01.310Z</updated>
+    <updated>2023-11-21T01:10:27.138Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Asymptotics of ABC when summaries converge at heterogeneous rates]]></title>
+        <id>http://xianblog.wordpress.com/?p=54475</id>
+        <link href="https://xianblog.wordpress.com/2023/11/21/asymptotics-of-abc-when-summaries-converge-at-heterogeneous-rates/"/>
+        <updated>2023-11-20T23:23:47.000Z</updated>
+        <summary type="html"><![CDATA[We just posted a new arXival, jointly with Caroline Lawless, Judith Rousseau, and Robin Ryder. This is a significant component of Caroline’s PhD thesis in Oxford, on which we started working during the first COVID lockdown.  In this paper, we extend our results with David Frazier, Gael Martin, both with whom I’ll soon be reunited!, […]]]></summary>
+        <author>
+            <name>xi'an</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Xi's peculiar vocabulary]]></title>
         <id>https://languagelog.ldc.upenn.edu/nll/?p=61371</id>
