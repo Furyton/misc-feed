@@ -2,10 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-11-21T18:20:39.938Z</updated>
+    <updated>2023-11-21T19:12:55.750Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Open sourcing Project Guideline: A platform for computer vision accessibility technology]]></title>
+        <id>http://blog.research.google/2023/11/open-sourcing-project-guideline.html</id>
+        <link href="http://blog.research.google/2023/11/open-sourcing-project-guideline.html"/>
+        <updated>2023-11-21T18:09:00.000Z</updated>
+        <summary type="html"><![CDATA[Posted by Dave Hawkey, Software Engineer, Google Research
+
+
+
+
+Two years ago we announced Project Guideline, a collaboration between Google Research and Guiding Eyes for the Blind that enabled people with visual impairments (e.g., blindness and low-vision) to walk, jog, and run independently. Using only a Google Pixel phone and headphones, Project Guideline leverages on-device machine learning (ML) to navigate users along outdoor paths marked with a painted line. The technology has been tested all over the world and even demonstrated during the opening ceremony at the Tokyo 2020 Paralympic Games.
+
+
+
+Since the original announcement, we set out to improve Project Guideline by embedding new features, such as obstacle detection and advanced path planning, to safely and reliably navigate users t…]]></summary>
+        <author>
+            <name>Google AI Blog</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Japanese words that are dying out:  focus on diabetes]]></title>
         <id>https://languagelog.ldc.upenn.edu/nll/?p=61374</id>
