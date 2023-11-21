@@ -1453,7 +1453,18 @@
       "title": "Python⇒Speed",
       "feedUrl": "https://pythonspeed.com/atom.xml",
       "siteUrl": "https://pythonspeed.com/atom.xml",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://pythonspeed.com/articles/two-thread-pools/",
+          "author": null,
+          "description": "When you’re doing large scale data processing with Python, threads are a good way to achieve parallelism.\nThis is especially true if you’re doing numeric processing, where the global interpreter lock (GIL) is typically not an issue.\nAnd if you’re using threading, thread pools are a good way to make sure you don’t use too many resources.\nBut how many threads should your thread pool have?\nAnd do you need just one thread pool, or more than one?\nIn this article we’ll see that for data processing batch jobs:\nThere are two kinds of thread pools, each for different use cases.\nEach kind requires a different configuration.\nYou might need both.\nRead more...",
+          "link": "https://pythonspeed.com/articles/two-thread-pools/",
+          "publishedOn": "2023-11-21T00:00:00.000Z",
+          "wordCount": 1587,
+          "title": "Two kinds of threads pools, and why you need both",
+          "imageUrl": "https://pythonspeed.com/assets/titles/two-thread-pools.png"
+        }
+      ]
     },
     {
       "title": "统计之都",

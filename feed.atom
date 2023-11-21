@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-11-21T15:16:23.331Z</updated>
+    <updated>2023-11-21T16:21:36.235Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -59,6 +59,25 @@
   Plachouras]]></summary>
         <author>
             <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Two kinds of threads pools, and why you need both]]></title>
+        <id>https://pythonspeed.com/articles/two-thread-pools/</id>
+        <link href="https://pythonspeed.com/articles/two-thread-pools/"/>
+        <updated>2023-11-21T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[When you’re doing large scale data processing with Python, threads are a good way to achieve parallelism.
+This is especially true if you’re doing numeric processing, where the global interpreter lock (GIL) is typically not an issue.
+And if you’re using threading, thread pools are a good way to make sure you don’t use too many resources.
+But how many threads should your thread pool have?
+And do you need just one thread pool, or more than one?
+In this article we’ll see that for data processing batch jobs:
+There are two kinds of thread pools, each for different use cases.
+Each kind requires a different configuration.
+You might need both.
+Read more...]]></summary>
+        <author>
+            <name>Python⇒Speed</name>
         </author>
     </entry>
     <entry>
