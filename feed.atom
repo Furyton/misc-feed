@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-11-21T20:15:20.826Z</updated>
+    <updated>2023-11-21T21:14:27.160Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[BoJo bamboozled]]></title>
+        <id>https://languagelog.ldc.upenn.edu/nll/?p=61382</id>
+        <link href="https://languagelog.ldc.upenn.edu/nll/?p=61382&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=bojo-bamboozled"/>
+        <updated>2023-11-21T21:13:08.000Z</updated>
+        <summary type="html"><![CDATA[From Philip Taylor: The British media were flooded yesterday with reports that former Prime Minister Boris Johnson had been “bamboozled” by scientific evidence presented during the Covid-19 pandemic.  My understanding of "bamboozle" has always been that deception must be involved, and this is borne out by the OED, but there was clearly no deception in […]]]></summary>
+        <author>
+            <name>Victor Mair</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Open sourcing Project Guideline: A platform for computer vision accessibility technology]]></title>
         <id>http://blog.research.google/2023/11/open-sourcing-project-guideline.html</id>
