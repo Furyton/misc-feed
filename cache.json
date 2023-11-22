@@ -1194,56 +1194,6 @@
           "wordCount": 755,
           "title": "What's Left? Concept Grounding with Logic-Enhanced Foundation Models",
           "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
-        },
-        {
-          "id": "http://arxiv.org/abs/2310.13786",
-          "author": null,
-          "description": "Eric Aubinais, Elisabeth Gassiat, Pablo Piantanida",
-          "link": "http://arxiv.org/abs/2310.13786",
-          "publishedOn": "2023-10-24T03:16:45.979Z",
-          "wordCount": 637,
-          "title": "Fundamental Limits of Membership Inference Attacks on Machine Learning\n  Models",
-          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
-        },
-        {
-          "id": "http://arxiv.org/abs/2310.14720",
-          "author": null,
-          "description": "Marcus A. K. September, Francesco Sanna Passino, Leonie Goldmann,\n  Anton Hinel",
-          "link": "http://arxiv.org/abs/2310.14720",
-          "publishedOn": "2023-10-24T03:16:45.750Z",
-          "wordCount": 715,
-          "title": "Extended Deep Adaptive Input Normalization for Preprocessing Time Series\n  Data for Neural Networks",
-          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
-        },
-        {
-          "id": "http://arxiv.org/abs/2211.07482",
-          "author": null,
-          "description": "Zimu Li, Zihan Pengmei, Han Zheng, Erik Thiede, Junyu Liu, Risi\n  Kondor",
-          "link": "http://arxiv.org/abs/2211.07482",
-          "publishedOn": "2023-10-24T03:16:21.336Z",
-          "wordCount": 786,
-          "title": "Unifying O(3) Equivariant Neural Networks Design with Tensor-Network\n  Formalism",
-          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
-        },
-        {
-          "id": "http://arxiv.org/abs/2305.15027",
-          "author": null,
-          "description": "Veit David Wild, Sahra Ghalebikesabi, Dino Sejdinovic, Jeremias\n  Knoblauch",
-          "link": "http://arxiv.org/abs/2305.15027",
-          "publishedOn": "2023-10-24T03:16:21.329Z",
-          "wordCount": 731,
-          "title": "A Rigorous Link between Deep Ensembles and (Variational) Bayesian\n  Methods",
-          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
-        },
-        {
-          "id": "http://arxiv.org/abs/2305.10434",
-          "author": null,
-          "description": "Gaurav Verma, Ryan A. Rossi, Christopher Tensmeyer, Jiuxiang Gu, Ani\n  Nenkova",
-          "link": "http://arxiv.org/abs/2305.10434",
-          "publishedOn": "2023-10-24T03:16:21.310Z",
-          "wordCount": 773,
-          "title": "Learning the Visualness of Text Using Large Vision-Language Models",
-          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
         }
       ]
     },
@@ -2422,6 +2372,26 @@
       "feedUrl": "https://languagelog.ldc.upenn.edu/nll/?feed=rss2",
       "siteUrl": "https://languagelog.ldc.upenn.edu/nll",
       "articles": [
+        {
+          "id": "https://languagelog.ldc.upenn.edu/nll/?p=61389",
+          "author": "Victor Mair",
+          "description": "In the first comment to this post on a Northeastern topolectal word for kohlrabi, \"piě-le 丿了\" (cf. MSM piělán 苤蓝), Jenny Chu astutely asked whether the second syllable is related to the Chinese word for the color blue, lán 藍 (also \"indigo\", for which see below). That sent me scurrying, since — although I was vaguely […]",
+          "link": "https://languagelog.ldc.upenn.edu/nll/?p=61389&utm_source=rss&utm_medium=rss&utm_campaign=indigo-and-cabbage",
+          "publishedOn": "2023-11-22T15:31:41.000Z",
+          "wordCount": 2790,
+          "title": "Indigo and cabbage",
+          "imageUrl": null
+        },
+        {
+          "id": "https://languagelog.ldc.upenn.edu/nll/?p=61398",
+          "author": "Mark Liberman",
+          "description": "As is so often true, xkcd points to an important topic so far ignored by linguists: Mouseover title: \"The mainstream dogma sparked a wave of dogmatic revisionism, and this revisionist mainstream dogmatism has now given way to a more rematic mainvisionist dogstream.\" As is generally true for discourse analysis, rebuttal depth is a concept that […]",
+          "link": "https://languagelog.ldc.upenn.edu/nll/?p=61398&utm_source=rss&utm_medium=rss&utm_campaign=rebuttal-depth-and-the-mainvisionist-dogstream",
+          "publishedOn": "2023-11-22T15:26:30.000Z",
+          "wordCount": 2081,
+          "title": "Rebuttal depth and the mainvisionist dogstream",
+          "imageUrl": null
+        },
         {
           "id": "https://languagelog.ldc.upenn.edu/nll/?p=61386",
           "author": "Victor Mair",

@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-11-22T15:16:09.891Z</updated>
+    <updated>2023-11-22T16:20:19.433Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Indigo and cabbage]]></title>
+        <id>https://languagelog.ldc.upenn.edu/nll/?p=61389</id>
+        <link href="https://languagelog.ldc.upenn.edu/nll/?p=61389&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=indigo-and-cabbage"/>
+        <updated>2023-11-22T15:31:41.000Z</updated>
+        <summary type="html"><![CDATA[In the first comment to this post on a Northeastern topolectal word for kohlrabi, "piě-le 丿了" (cf. MSM piělán 苤蓝), Jenny Chu astutely asked whether the second syllable is related to the Chinese word for the color blue, lán 藍 (also "indigo", for which see below). That sent me scurrying, since — although I was vaguely […]]]></summary>
+        <author>
+            <name>Victor Mair</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rebuttal depth and the mainvisionist dogstream]]></title>
+        <id>https://languagelog.ldc.upenn.edu/nll/?p=61398</id>
+        <link href="https://languagelog.ldc.upenn.edu/nll/?p=61398&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rebuttal-depth-and-the-mainvisionist-dogstream"/>
+        <updated>2023-11-22T15:26:30.000Z</updated>
+        <summary type="html"><![CDATA[As is so often true, xkcd points to an important topic so far ignored by linguists: Mouseover title: "The mainstream dogma sparked a wave of dogmatic revisionism, and this revisionist mainstream dogmatism has now given way to a more rematic mainvisionist dogstream." As is generally true for discourse analysis, rebuttal depth is a concept that […]]]></summary>
+        <author>
+            <name>Mark Liberman</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bridging Algorithmic Information Theory and Machine Learning: A New
   Approach to Kernel Learning]]></title>
@@ -2873,64 +2893,6 @@ A large body of ground work on adversarial attacks is on images, and differently
         <summary type="html"><![CDATA[The problem presented in this post was discussed in my recent lecture “New types of order types” in the workshop on discrete convexity and geometry in Budapest, a few weeks ago. The lecture described various results and questions including the … Continue reading →]]></summary>
         <author>
             <name>Gil Kalai</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fundamental Limits of Membership Inference Attacks on Machine Learning
-  Models]]></title>
-        <id>http://arxiv.org/abs/2310.13786</id>
-        <link href="http://arxiv.org/abs/2310.13786"/>
-        <updated>2023-10-24T03:16:45.979Z</updated>
-        <summary type="html"><![CDATA[Eric Aubinais, Elisabeth Gassiat, Pablo Piantanida]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Extended Deep Adaptive Input Normalization for Preprocessing Time Series
-  Data for Neural Networks]]></title>
-        <id>http://arxiv.org/abs/2310.14720</id>
-        <link href="http://arxiv.org/abs/2310.14720"/>
-        <updated>2023-10-24T03:16:45.750Z</updated>
-        <summary type="html"><![CDATA[Marcus A. K. September, Francesco Sanna Passino, Leonie Goldmann,
-  Anton Hinel]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Unifying O(3) Equivariant Neural Networks Design with Tensor-Network
-  Formalism]]></title>
-        <id>http://arxiv.org/abs/2211.07482</id>
-        <link href="http://arxiv.org/abs/2211.07482"/>
-        <updated>2023-10-24T03:16:21.336Z</updated>
-        <summary type="html"><![CDATA[Zimu Li, Zihan Pengmei, Han Zheng, Erik Thiede, Junyu Liu, Risi
-  Kondor]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Rigorous Link between Deep Ensembles and (Variational) Bayesian
-  Methods]]></title>
-        <id>http://arxiv.org/abs/2305.15027</id>
-        <link href="http://arxiv.org/abs/2305.15027"/>
-        <updated>2023-10-24T03:16:21.329Z</updated>
-        <summary type="html"><![CDATA[Veit David Wild, Sahra Ghalebikesabi, Dino Sejdinovic, Jeremias
-  Knoblauch]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learning the Visualness of Text Using Large Vision-Language Models]]></title>
-        <id>http://arxiv.org/abs/2305.10434</id>
-        <link href="http://arxiv.org/abs/2305.10434"/>
-        <updated>2023-10-24T03:16:21.310Z</updated>
-        <summary type="html"><![CDATA[Gaurav Verma, Ryan A. Rossi, Christopher Tensmeyer, Jiuxiang Gu, Ani
-  Nenkova]]></summary>
-        <author>
-            <name>arxivist feed</name>
         </author>
     </entry>
 </feed>
