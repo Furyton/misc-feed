@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-11-21T23:16:26.226Z</updated>
+    <updated>2023-11-22T01:10:29.100Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Advanced lexicography for diabetes in Japan and China]]></title>
+        <id>https://languagelog.ldc.upenn.edu/nll/?p=61386</id>
+        <link href="https://languagelog.ldc.upenn.edu/nll/?p=61386&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=advanced-lexicography-for-diabetes-in-japan-and-china"/>
+        <updated>2023-11-22T00:33:21.000Z</updated>
+        <summary type="html"><![CDATA[This is a followup to "Japanese words that are dying out: focus on diabetes" (11/21/23).  Because it's history of science / medicine for specialists and too technical for the majority of readers, I will not provide transcriptions for all but a few of the most common terms. [The following is a guest post from Nathan Hopson] […]]]></summary>
+        <author>
+            <name>Victor Mair</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Natural statistical science [#1]]]></title>
+        <id>http://xianblog.wordpress.com/?p=54393</id>
+        <link href="https://xianblog.wordpress.com/2023/11/22/natural-statistical-science-1/"/>
+        <updated>2023-11-21T23:23:03.000Z</updated>
+        <summary type="html"><![CDATA[Visit the post for more.]]></summary>
+        <author>
+            <name>xi'an</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[BoJo bamboozled]]></title>
         <id>https://languagelog.ldc.upenn.edu/nll/?p=61382</id>
@@ -2865,16 +2885,6 @@ A large body of ground work on adversarial attacks is on images, and differently
         <summary type="html"><![CDATA[There will be not one but two consecutive events in Edinburgh next May²⁴ on sequential Monte Carlo methods! Both hosted by the fantastic International Centre for Mathematical Sciences (ICMS) in Edinburgh Olde Town. Within the Bayes Centre. And running distance to Arthur’s Seat. (Reminding me of my first ICMS workshop in 2001 run with Mike […]]]></summary>
         <author>
             <name>xi'an</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MLIR — Dialect Conversion]]></title>
-        <id>https://jeremykun.com/?p=120066</id>
-        <link href="https://jeremykun.com/2023/10/23/mlir-dialect-conversion/"/>
-        <updated>2023-10-23T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Table of Contents In previous articles we defined a dialect, and wrote various passes to optimize and canonicalize a program using that dialect. However, one of the main tenets of MLIR is “incremental lowering,” the idea that there are lots of levels of IR granularity, and you incrementally lower different parts of the IR, only discarding information […]]]></summary>
-        <author>
-            <name>Jeremy Kun</name>
         </author>
     </entry>
 </feed>
