@@ -6,6 +6,56 @@
       "siteUrl": "https://www.arxivist.com",
       "articles": [
         {
+          "id": "http://arxiv.org/abs/2311.12624",
+          "author": null,
+          "description": "Boumediene Hamzi, Marcus Hutter, Houman Owhadi",
+          "link": "http://arxiv.org/abs/2311.12624",
+          "publishedOn": "2023-11-22T04:18:42.778Z",
+          "wordCount": 691,
+          "title": "Bridging Algorithmic Information Theory and Machine Learning: A New\n  Approach to Kernel Learning",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2011.04923",
+          "author": null,
+          "description": "Hans-Peter Beise, Steve Dias Da Cruz",
+          "link": "http://arxiv.org/abs/2011.04923",
+          "publishedOn": "2023-11-22T04:18:42.411Z",
+          "wordCount": 729,
+          "title": "Topological properties of basins of attraction and expressiveness of\n  width bounded neural networks",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2311.12267",
+          "author": null,
+          "description": "Jikai Jin, Vasilis Syrgkanis",
+          "link": "http://arxiv.org/abs/2311.12267",
+          "publishedOn": "2023-11-22T04:18:42.392Z",
+          "wordCount": 714,
+          "title": "Learning Causal Representations from General Environments:\n  Identifiability and Intrinsic Ambiguity",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2202.10793",
+          "author": null,
+          "description": "Yixuan He, Xitong Zhang, Junjie Huang, Benedek Rozemberczki, Mihai\n  Cucuringu, Gesine Reinert",
+          "link": "http://arxiv.org/abs/2202.10793",
+          "publishedOn": "2023-11-22T04:18:42.179Z",
+          "wordCount": 757,
+          "title": "PyTorch Geometric Signed Directed: A Software Package on Graph Neural\n  Networks for Signed and Directed Graphs",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2308.16113",
+          "author": null,
+          "description": "Miko{\\l}aj Spytek, Mateusz Krzyzi\\'nski, Sophie Hanna Langbein\n , Hubert Baniecki, Marvin N. Wright, Przemys{\\l}aw Biecek",
+          "link": "http://arxiv.org/abs/2308.16113",
+          "publishedOn": "2023-11-22T04:18:42.176Z",
+          "wordCount": 693,
+          "title": "survex: an R package for explaining machine learning survival models",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
           "id": "http://arxiv.org/abs/2311.11913",
           "author": null,
           "description": "Namid R. Stillman, Rory Baggott, Justin Lyon, Jianfei Zhang, Dingqiu\n  Zhu, Tao Chen, Perukrishnen Vytelingum",
