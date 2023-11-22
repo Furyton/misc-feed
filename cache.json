@@ -2200,6 +2200,16 @@
       "siteUrl": "http://blog.research.google/",
       "articles": [
         {
+          "id": "http://blog.research.google/2023/11/improving-simulations-of-clouds-and.html",
+          "author": null,
+          "description": "Posted by Tapio Schneider, Visiting Researcher, and Yi-fan Chen, Engineering Lead, Google Research\n\n\n\n\nToday’s climate models successfully capture broad global warming trends. However, because of uncertainties about processes that are small in scale yet globally important, such as clouds and ocean turbulence, these models’ predictions of upcoming climate changes are not very accurate in detail. For example, predictions of the time by which the global mean surface temperature of Earth will have warmed 2℃, relative to preindustrial times, vary by 40–50 years (a full human generation) among today’s models. As a result, we do not have the accurate and geographically granular predictions we need to plan resilient infrastructure, adapt supply chains to climate disruption, and assess the risks of…",
+          "link": "http://blog.research.google/2023/11/improving-simulations-of-clouds-and.html",
+          "publishedOn": "2023-11-22T16:03:00.000Z",
+          "wordCount": 27449,
+          "title": "Improving simulations of clouds and their effects on climate",
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEipIpAUM7d1E-XNQdqZ3hiRC7VgksSfuI249KFq9yL5ZTZF8-DJ5Sfo-fRf2m7hTKuTeJwSGQzwz6rtfdZs8PxlualXz7U53miz6ahU3oyO9WQWkePA1fgr5mxRa75NYKKPe0KLOYSPLxzfDfoIABePqL1etrqaDuRPjJotAVEIbuBRw6EWrJSxXB-BzCTS/w1200-h630-p-k-no-nu/hero.gif"
+        },
+        {
           "id": "http://blog.research.google/2023/11/open-sourcing-project-guideline.html",
           "author": null,
           "description": "Posted by Dave Hawkey, Software Engineer, Google Research\n\n\n\n\nTwo years ago we announced Project Guideline, a collaboration between Google Research and Guiding Eyes for the Blind that enabled people with visual impairments (e.g., blindness and low-vision) to walk, jog, and run independently. Using only a Google Pixel phone and headphones, Project Guideline leverages on-device machine learning (ML) to navigate users along outdoor paths marked with a painted line. The technology has been tested all over the world and even demonstrated during the opening ceremony at the Tokyo 2020 Paralympic Games.\n\n\n\nSince the original announcement, we set out to improve Project Guideline by embedding new features, such as obstacle detection and advanced path planning, to safely and reliably navigate users t…",

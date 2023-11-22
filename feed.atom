@@ -2,10 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-11-22T17:14:41.627Z</updated>
+    <updated>2023-11-22T18:19:27.827Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Improving simulations of clouds and their effects on climate]]></title>
+        <id>http://blog.research.google/2023/11/improving-simulations-of-clouds-and.html</id>
+        <link href="http://blog.research.google/2023/11/improving-simulations-of-clouds-and.html"/>
+        <updated>2023-11-22T16:03:00.000Z</updated>
+        <summary type="html"><![CDATA[Posted by Tapio Schneider, Visiting Researcher, and Yi-fan Chen, Engineering Lead, Google Research
+
+
+
+
+Today’s climate models successfully capture broad global warming trends. However, because of uncertainties about processes that are small in scale yet globally important, such as clouds and ocean turbulence, these models’ predictions of upcoming climate changes are not very accurate in detail. For example, predictions of the time by which the global mean surface temperature of Earth will have warmed 2℃, relative to preindustrial times, vary by 40–50 years (a full human generation) among today’s models. As a result, we do not have the accurate and geographically granular predictions we need to plan resilient infrastructure, adapt supply chains to climate disruption, and assess the risks of…]]></summary>
+        <author>
+            <name>Google AI Blog</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Indigo and cabbage]]></title>
         <id>https://languagelog.ldc.upenn.edu/nll/?p=61389</id>
