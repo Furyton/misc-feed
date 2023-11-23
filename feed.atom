@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-11-23T15:16:04.781Z</updated>
+    <updated>2023-11-23T16:19:36.363Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -2880,49 +2880,6 @@ Many people with questions about grammar turn to Google Search for guidance. Whi
 The conventional approach to GEC is to treat it as a translation problem and use autoregressive Transformer models to decode the response token-by-token, conditioning on the previously generated tokens. However, although Transformer models have proven to be effective at GEC, they aren’t part…]]></summary>
         <author>
             <name>Google AI Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What Algorithms can Transformers Learn? A Study in Length Generalization]]></title>
-        <id>http://arxiv.org/abs/2310.16028</id>
-        <link href="http://arxiv.org/abs/2310.16028"/>
-        <updated>2023-10-25T03:15:49.117Z</updated>
-        <summary type="html"><![CDATA[Hattie Zhou, Arwen Bradley, Etai Littwin, Noam Razin, Omid Saremi,
-  Josh Susskind, Samy Bengio, Preetum Nakkiran]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Denoising Low-Rank Data Under Distribution Shift: Double Descent and
-  Data Augmentation]]></title>
-        <id>http://arxiv.org/abs/2305.17297</id>
-        <link href="http://arxiv.org/abs/2305.17297"/>
-        <updated>2023-10-25T03:15:49.093Z</updated>
-        <summary type="html"><![CDATA[Chinmaya Kausik, Kashvi Srivastava, Rishi Sonthalia]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amortised Inference in Neural Networks for Small-Scale Probabilistic
-  Meta-Learning]]></title>
-        <id>http://arxiv.org/abs/2310.15786</id>
-        <link href="http://arxiv.org/abs/2310.15786"/>
-        <updated>2023-10-25T03:15:49.014Z</updated>
-        <summary type="html"><![CDATA[Matthew Ashman, Tommy Rochussen, Adrian Weller]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What's Left? Concept Grounding with Logic-Enhanced Foundation Models]]></title>
-        <id>http://arxiv.org/abs/2310.16035</id>
-        <link href="http://arxiv.org/abs/2310.16035"/>
-        <updated>2023-10-25T03:15:48.991Z</updated>
-        <summary type="html"><![CDATA[Joy Hsu, Jiayuan Mao, Joshua B. Tenenbaum, Jiajun Wu]]></summary>
-        <author>
-            <name>arxivist feed</name>
         </author>
     </entry>
 </feed>
