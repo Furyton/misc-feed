@@ -2,10 +2,66 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-11-23T03:15:40.856Z</updated>
+    <updated>2023-11-23T04:18:19.059Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Learning principle and mathematical realization of the learning
+  mechanism in the brain]]></title>
+        <id>http://arxiv.org/abs/2311.13341</id>
+        <link href="http://arxiv.org/abs/2311.13341"/>
+        <updated>2023-11-23T04:18:17.912Z</updated>
+        <summary type="html"><![CDATA[Taisuke Katayose]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A General Theoretical Paradigm to Understand Learning from Human
+  Preferences]]></title>
+        <id>http://arxiv.org/abs/2310.12036</id>
+        <link href="http://arxiv.org/abs/2310.12036"/>
+        <updated>2023-11-23T04:18:17.908Z</updated>
+        <summary type="html"><![CDATA[Mohammad Gheshlaghi Azar, Mark Rowland, Bilal Piot, Daniel
+  Guo, Daniele Calandriello, Michal Valko, R\'emi Munos]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fixing the problems of deep neural networks will require better training
+  data and learning algorithms]]></title>
+        <id>http://arxiv.org/abs/2311.12819</id>
+        <link href="http://arxiv.org/abs/2311.12819"/>
+        <updated>2023-11-23T04:18:17.889Z</updated>
+        <summary type="html"><![CDATA[Drew Linsley, Thomas Serre]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[$\sigma$-PCA: a unified neural model for linear and nonlinear principal
+  component analysis]]></title>
+        <id>http://arxiv.org/abs/2311.13580</id>
+        <link href="http://arxiv.org/abs/2311.13580"/>
+        <updated>2023-11-23T04:18:17.858Z</updated>
+        <summary type="html"><![CDATA[Fahdi Kanavati, Lucy Katsnith, Masayuki Tsuneki]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Improved identification accuracy in equation learning via comprehensive
+  $\boldsymbol{R^2}$-elimination and Bayesian model selection]]></title>
+        <id>http://arxiv.org/abs/2311.13265</id>
+        <link href="http://arxiv.org/abs/2311.13265"/>
+        <updated>2023-11-23T04:18:17.817Z</updated>
+        <summary type="html"><![CDATA[Daniel Nickelsen, Bubacarr Bah]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Natural statistical science [#2]]]></title>
         <id>http://xianblog.wordpress.com/?p=54398</id>
