@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-11-22T23:15:34.973Z</updated>
+    <updated>2023-11-23T01:07:44.919Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Natural statistical science [#2]]]></title>
+        <id>http://xianblog.wordpress.com/?p=54398</id>
+        <link href="https://xianblog.wordpress.com/2023/11/23/natural-statistical-science-2/"/>
+        <updated>2023-11-22T23:23:10.000Z</updated>
+        <summary type="html"><![CDATA[A rare occurrence of a Bayesian statistics paper in Nature with this “State estimation of a physical system with unknown governing equations” by Course and Nair. A variational Bayes modelling of a state system observed with noise, but without a physical model on the state (SDE) evolution itself. Which means a prior is set on […]]]></summary>
+        <author>
+            <name>xi'an</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Improving simulations of clouds and their effects on climate]]></title>
         <id>http://blog.research.google/2023/11/improving-simulations-of-clouds-and.html</id>
