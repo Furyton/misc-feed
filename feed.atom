@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-11-24T09:15:19.002Z</updated>
+    <updated>2023-11-24T10:16:46.481Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -2868,20 +2868,6 @@ However, modeling spoken human language remains a challenging frontier. Spoken d
         <summary type="html"><![CDATA[Visit the post for more.]]></summary>
         <author>
             <name>xi'an</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Looking back at wildfire research in 2023]]></title>
-        <id>http://blog.research.google/2023/10/looking-back-at-wildfire-research-in.html</id>
-        <link href="http://blog.research.google/2023/10/looking-back-at-wildfire-research-in.html"/>
-        <updated>2023-10-25T22:10:00.002Z</updated>
-        <summary type="html"><![CDATA[Posted by Yi-Fan Chen, Software Engineer, and Carla Bromberg, Program Lead, Google Research
-
-Wildfires are becoming larger and affecting more and more communities around the world, often resulting in large-scale devastation. Just this year, communities have experienced catastrophic wildfires in Greece, Maui, and Canada to name a few. While the underlying causes leading to such an increase are complex — including changing climate patterns, forest management practices, land use development policies and many more — it is clear that the advancement of technologies can help to address the new challenges.
- 
-At Google Research, we’ve been investing in a number of climate adaptation efforts, including the application of machine learning (ML) to aid in wildfire prevention and provide information to…]]></summary>
-        <author>
-            <name>Google AI Blog</name>
         </author>
     </entry>
 </feed>
