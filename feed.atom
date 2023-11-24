@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-11-24T05:14:20.187Z</updated>
+    <updated>2023-11-24T06:19:57.598Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -2892,26 +2892,6 @@ At Google Research, we’ve been investing in a number of climate adaptation eff
         <summary type="html"><![CDATA[Patience pays off: Official Swedish dictionary completed after 140 years One hundred and thirty-seven full-time employees have worked on Swedish Academy Dictionary over the years since 1883 Agence France-Presse in StockholmWed 25 Oct 2023 ———- The definitive record of the Swedish language has been completed after 140 years, with the dictionary’s final volume sent to […]]]></summary>
         <author>
             <name>Victor Mair</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Grammar checking at Google Search scale]]></title>
-        <id>http://blog.research.google/2023/10/grammar-checking-at-google-search-scale.html</id>
-        <link href="http://blog.research.google/2023/10/grammar-checking-at-google-search-scale.html"/>
-        <updated>2023-10-25T17:45:00.000Z</updated>
-        <summary type="html"><![CDATA[Posted by Eric Malmi, Senior Research Scientist, and Jakub Adamek, Senior Software Engineer, Google, Bard Team
-
-
-
-
-
-Many people with questions about grammar turn to Google Search for guidance. While existing features, such as “Did you mean”, already handle simple typo corrections, more complex grammatical error correction (GEC) is beyond their scope. What makes the development of new Google Search features challenging is that they must have high precision and recall while outputting results quickly.
-
-
-
-The conventional approach to GEC is to treat it as a translation problem and use autoregressive Transformer models to decode the response token-by-token, conditioning on the previously generated tokens. However, although Transformer models have proven to be effective at GEC, they aren’t part…]]></summary>
-        <author>
-            <name>Google AI Blog</name>
         </author>
     </entry>
 </feed>

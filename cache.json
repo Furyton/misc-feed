@@ -2357,16 +2357,6 @@
           "wordCount": 27627,
           "title": "Looking back at wildfire research in 2023",
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgCepSXB1QxIgipeUbH1YGd8N3TkVoT1tAgxG0fC0PPREhbsygTQ4i58OVw6-Dt_lagwgswT0jtxUorsVmtyO9UgPEDezJHz_QiKvbJlgYF8Db8W-68KFdyZsq_uvM7YuZo9BRo__NC4BNxD6nHZpzsimeNOaV3X8dh9aliqbAbk8ycXb25s5NfLTfNe42_/w1200-h630-p-k-no-nu/WildfireModeling.gif"
-        },
-        {
-          "id": "http://blog.research.google/2023/10/grammar-checking-at-google-search-scale.html",
-          "author": null,
-          "description": "Posted by Eric Malmi, Senior Research Scientist, and Jakub Adamek, Senior Software Engineer, Google, Bard Team\n\n\n\n\n\nMany people with questions about grammar turn to Google Search for guidance. While existing features, such as “Did you mean”, already handle simple typo corrections, more complex grammatical error correction (GEC) is beyond their scope. What makes the development of new Google Search features challenging is that they must have high precision and recall while outputting results quickly.\n\n\n\nThe conventional approach to GEC is to treat it as a translation problem and use autoregressive Transformer models to decode the response token-by-token, conditioning on the previously generated tokens. However, although Transformer models have proven to be effective at GEC, they aren’t part…",
-          "link": "http://blog.research.google/2023/10/grammar-checking-at-google-search-scale.html",
-          "publishedOn": "2023-10-25T17:45:00.000Z",
-          "wordCount": 27399,
-          "title": "Grammar checking at Google Search scale",
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhW7pWsW1-E7U1LH1bxmjBL_2W5fS6uN2iRb2cNPBks57ubvFNJj-SjE2Zk1lFqndKWBVAeO3g3MLeJ96QUIUNJDyLTcWjeO835NT6HfJMYQBEdGqL-X_sxQ1yxMy16a0OcOLb6gSz2lqM6VofToVtN_s_F_wGB41AZwlj146y7ZXQ4PFsdywX10QO54MJ4/w1200-h630-p-k-no-nu/HeroGC.jpg"
         }
       ]
     },
