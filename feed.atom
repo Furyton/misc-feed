@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-11-25T03:15:33.188Z</updated>
+    <updated>2023-11-25T04:18:13.794Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -2814,36 +2814,6 @@ Standard benchmarks are agreed upon ways of measuring important product qualitie
 We are excited to support a new effort by …]]></summary>
         <author>
             <name>Google AI Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Spoken question answering and speech continuation using a spectrogram-powered LLM]]></title>
-        <id>http://blog.research.google/2023/10/spoken-question-answering-and-speech.html</id>
-        <link href="http://blog.research.google/2023/10/spoken-question-answering-and-speech.html"/>
-        <updated>2023-10-26T15:57:00.001Z</updated>
-        <summary type="html"><![CDATA[Posted by Eliya Nachmani, Research Scientist, and Alon Levkovitch, Student Researcher, Google Research
-
-
-
-
-The goal of natural language processing (NLP) is to develop computational models that can understand and generate natural language. By capturing the statistical patterns and structures of text-based natural language, language models can predict and generate coherent and meaningful sequences of words. Enabled by the increasing use of the highly successful Transformer model architecture and with training on large amounts of text (with proportionate compute and model size), large language models (LLMs) have demonstrated remarkable success in NLP tasks. 
-
- 
-
-
-However, modeling spoken human language remains a challenging frontier. Spoken dialog systems have conventionally been built as a c…]]></summary>
-        <author>
-            <name>Google AI Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The sound of ancient Iranian languages]]></title>
-        <id>https://languagelog.ldc.upenn.edu/nll/?p=61079</id>
-        <link href="https://languagelog.ldc.upenn.edu/nll/?p=61079&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=the-sound-of-ancient-iranian-languages"/>
-        <updated>2023-10-26T15:40:19.000Z</updated>
-        <summary type="html"><![CDATA[From Hiroshi Kumamoto: Old Iranian Languages Proto-Iranian Old Persian Avestan Middle Persian Parthian Sogdian Alanian Khotanese Bactrian Khwarezmian The Sound of the Sogdian language (Numbers, Words & Sample Text) The Sound of the Khwarezmian language (Numbers, Words & Sample Text) Sound of ANCIENT east iranic (Tajik) languages (Sogdian, Saka Khotanese, Bactrian & Khwārezmian) EASTERN IRANIC […]]]></summary>
-        <author>
-            <name>Victor Mair</name>
         </author>
     </entry>
 </feed>
