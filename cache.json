@@ -2277,16 +2277,6 @@
           "wordCount": 27880,
           "title": "Audioplethysmography for cardiac monitoring with hearable devices",
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhnCItsRGs939CGCBBAi5fA-xwk9JQi7b2CQ3voKK583p4uTkQkLIXUd1lU71SLynom0Yt78bRxDflolUzzfol5UbfkPmCaNn8bIUxwAbLDatqZTPxP7SYOT45g9qJODdM1kvT6NQUsixtFTiBYr_h_Hx-pFRsmbcBKdnW3WkbcD4Bcr_cZE590VL-cSu-a/w1200-h630-p-k-no-nu/hero.jpeg"
-        },
-        {
-          "id": "http://blog.research.google/2023/10/supporting-benchmarks-for-ai-safety.html",
-          "author": null,
-          "description": "Posted by Anoop Sinha, Technology and Society, and Marian Croak, Google Research, Responsible AI and Human Centered Technology team\n\n\n\n\n\nStandard benchmarks are agreed upon ways of measuring important product qualities, and they exist in many fields. Some standard benchmarks measure safety: for example, when a car manufacturer touts a “five-star overall safety rating,” they’re citing a benchmark. Standard benchmarks already exist in machine learning (ML) and AI technologies: for instance, the MLCommons Association operates the MLPerf benchmarks that measure the speed of cutting edge AI hardware such as Google’s TPUs. However, though there has been significant work done on AI safety, there are as yet no similar standard benchmarks for AI safety.\n \n\nWe are excited to support a new effort by …",
-          "link": "http://blog.research.google/2023/10/supporting-benchmarks-for-ai-safety.html",
-          "publishedOn": "2023-10-26T18:01:00.000Z",
-          "wordCount": 27387,
-          "title": "Supporting benchmarks for AI safety with MLCommons",
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg5URA9ivhxcgmfXwa0668O0HslgYQ_p_x9JJbg6nDgryyNc2QImQernPyzkLPcj1esCMOQTUnEsldIlb21E0DWPDIiE2m76qSruF0jA6jfl1sNl6mBW8JUPSWzOfE7IahHRtviFpxUTPcEZoADXHNMy3gZ2hg369y5QxhY01QRVj5kwJx4uwRKzdcBFp9v/w1200-h630-p-k-no-nu/GoogleResearch.png"
         }
       ]
     },
@@ -2301,6 +2291,26 @@
       "feedUrl": "https://languagelog.ldc.upenn.edu/nll/?feed=rss2",
       "siteUrl": "https://languagelog.ldc.upenn.edu/nll",
       "articles": [
+        {
+          "id": "https://languagelog.ldc.upenn.edu/nll/?p=61424",
+          "author": "Victor Mair",
+          "description": "All right, I know it sounds funny, but it's a thing in Taiwan, as at this Taichung restaurant: To clear up the first problem, the Chinese word that is translated as \"sauerkraut\" is suāncài 酸菜 (lit., \"sour vegetable\"). What is this suāncài 酸菜?  Wiktionary tells us: (Northern, Northeastern China) a variety of Chinese pickle made by fermenting salt-cured napa cabbage […]",
+          "link": "https://languagelog.ldc.upenn.edu/nll/?p=61424&utm_source=rss&utm_medium=rss&utm_campaign=sauerkraut-fish",
+          "publishedOn": "2023-11-25T06:14:09.000Z",
+          "wordCount": 2265,
+          "title": "Sauerkraut fish",
+          "imageUrl": null
+        },
+        {
+          "id": "https://languagelog.ldc.upenn.edu/nll/?p=61421",
+          "author": "Victor Mair",
+          "description": "\"Eddie Bauer changed its logo because Gen Z doesn’t read cursive\" (Fast Company, Oct. 6, 2023) Sigh! Selected readings \"The new logo\" (2/11/09) \"Language Log logo and t-shirts\" (6/2/18) \"How do you say 'polo', 'logo', and 'erase' with Photoshop' in Chinese?\" (9/15/23)",
+          "link": "https://languagelog.ldc.upenn.edu/nll/?p=61421&utm_source=rss&utm_medium=rss&utm_campaign=eddie-bauer",
+          "publishedOn": "2023-11-25T06:11:08.000Z",
+          "wordCount": 2003,
+          "title": "Eddie Bauer",
+          "imageUrl": null
+        },
         {
           "id": "https://languagelog.ldc.upenn.edu/nll/?p=61418",
           "author": "Victor Mair",
