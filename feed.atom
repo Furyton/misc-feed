@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-11-26T08:17:39.000Z</updated>
+    <updated>2023-11-26T09:13:26.890Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -2711,26 +2711,6 @@ The post 56 行代码用 Python 实现一个 Flex/Lex appeared first on Skywind 
         <summary type="html"><![CDATA[Visit the post for more.]]></summary>
         <author>
             <name>xi'an</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Audioplethysmography for cardiac monitoring with hearable devices]]></title>
-        <id>http://blog.research.google/2023/10/audioplethysmography-for-cardiac.html</id>
-        <link href="http://blog.research.google/2023/10/audioplethysmography-for-cardiac.html"/>
-        <updated>2023-10-27T20:22:00.000Z</updated>
-        <summary type="html"><![CDATA[Posted by Xiaoran "Van" Fan, Experimental Scientist, and Trausti Thormundsson, Director, Google
-
-
-
-
-
-The market for true wireless stereo (TWS) active noise canceling (ANC) hearables (headphones and earbuds) has been soaring in recent years, and the global shipment volume will nearly double that of smart wristbands and watches in 2023. The on-head time for hearables has extended significantly due to the recent advances in ANC, transparency mode, and artificial intelligence. Users frequently wear hearables not just for music listening, but also for exercising, focusing, or simply mood adjustment. However, hearable health is still mostly uncharted territory for the consumer market. 
-
-
-
-In “APG: Audioplethysmography for Cardiac Monitoring in Hearables,” presented at MobiCom 2023, we introduce …]]></summary>
-        <author>
-            <name>Google AI Blog</name>
         </author>
     </entry>
 </feed>
