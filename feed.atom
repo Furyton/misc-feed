@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-11-25T23:14:08.598Z</updated>
+    <updated>2023-11-26T01:11:39.338Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[26ème semi-marathon de Boulogne-Billancourt]]></title>
+        <id>http://xianblog.wordpress.com/?p=54247</id>
+        <link href="https://xianblog.wordpress.com/2023/11/26/26eme-semi-marathon-de-boulogne-billancourt/"/>
+        <updated>2023-11-25T23:26:30.000Z</updated>
+        <summary type="html"><![CDATA[Visit the post for more.]]></summary>
+        <author>
+            <name>xi'an</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Theosophical racism]]></title>
         <id>https://languagelog.ldc.upenn.edu/nll/?p=61440</id>
@@ -2741,16 +2751,6 @@ In “APG: Audioplethysmography for Cardiac Monitoring in Hearables,” presente
         <summary type="html"><![CDATA[[I was hoping for this piece to be posted as an op-ed in the Crimson, since I really want to reach students that are well-intentioned but may not realize they are harmful. However, it was rejected and so I am posting this here] The events of October 7th, 2023, hit many Israeli-Americans personally. My immediate … Continue reading Harvard, we have a problem]]></summary>
         <author>
             <name>Boaz Barak</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Midori]]></title>
-        <id>https://languagelog.ldc.upenn.edu/nll/?p=61085</id>
-        <link href="https://languagelog.ldc.upenn.edu/nll/?p=61085&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=midori"/>
-        <updated>2023-10-27T12:51:03.000Z</updated>
-        <summary type="html"><![CDATA[Michael Watts just wrote this comment on another post, and I thought it was interesting enough to deserve a post of its own: I've been wondering about a claim that appears on wiktionary. The entry for the Japanese word "midori", spelled 緑 or in older form 綠, states that the word is from Old Japanese, […]]]></summary>
-        <author>
-            <name>Victor Mair</name>
         </author>
     </entry>
 </feed>
