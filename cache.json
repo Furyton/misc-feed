@@ -6,6 +6,56 @@
       "siteUrl": "https://www.arxivist.com",
       "articles": [
         {
+          "id": "http://arxiv.org/abs/2301.11873",
+          "author": null,
+          "description": "Lasse Elsem\\\"uller, Martin Schnuerch, Paul-Christian B\\\"urkner, Stefan\n  T. Radev",
+          "link": "http://arxiv.org/abs/2301.11873",
+          "publishedOn": "2023-11-27T04:18:56.106Z",
+          "wordCount": 713,
+          "title": "A Deep Learning Method for Comparing Bayesian Hierarchical Models",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2108.11730",
+          "author": null,
+          "description": "Jevgenija Rudzusika, Thomas Koehler, Ozan \\\"Oktem",
+          "link": "http://arxiv.org/abs/2108.11730",
+          "publishedOn": "2023-11-27T04:18:56.072Z",
+          "wordCount": 697,
+          "title": "Deep learning based dictionary learning and tomographic image\n  reconstruction",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2103.13192",
+          "author": null,
+          "description": "Tanya Ignatenko, Kirill Kondrashov, Marco Cox, Bert de Vries",
+          "link": "http://arxiv.org/abs/2103.13192",
+          "publishedOn": "2023-11-27T04:18:55.911Z",
+          "wordCount": 856,
+          "title": "On Preference Learning Based on Sequential Bayesian Optimization with\n  Pairwise Comparison",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2112.08297",
+          "author": null,
+          "description": "Rui Zhang, Shihua Zhang",
+          "link": "http://arxiv.org/abs/2112.08297",
+          "publishedOn": "2023-11-27T04:18:55.489Z",
+          "wordCount": 751,
+          "title": "Rethinking Influence Functions of Neural Networks in the\n  Over-parameterized Regime",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2311.13774",
+          "author": null,
+          "description": "Zihao Wang, Eshaan Nichani, Jason D. Lee",
+          "link": "http://arxiv.org/abs/2311.13774",
+          "publishedOn": "2023-11-27T04:18:55.483Z",
+          "wordCount": 747,
+          "title": "Learning Hierarchical Polynomials with Three-Layer Neural Networks",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
           "id": "http://arxiv.org/abs/2211.14040",
           "author": null,
           "description": "Marcos V. Conde, Florin Vasluianu, Sabari Nathan, Radu\n  Timofte",
