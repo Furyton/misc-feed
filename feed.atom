@@ -2,10 +2,55 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-11-28T03:16:16.536Z</updated>
+    <updated>2023-11-28T04:18:48.594Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Bias-Variance Trade-off in Physics-Informed Neural Networks with
+  Randomized Smoothing for High-Dimensional PDEs]]></title>
+        <id>http://arxiv.org/abs/2311.15283</id>
+        <link href="http://arxiv.org/abs/2311.15283"/>
+        <updated>2023-11-28T04:18:48.569Z</updated>
+        <summary type="html"><![CDATA[Zheyuan Hu, Zhouhao Yang, Yezhen Wang, George Em Karniadakis, Kenji
+  Kawaguchi]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Global $\mathcal{L}^2$ minimization with certainty via geometrically
+  adapted gradient descent in Deep Learning]]></title>
+        <id>http://arxiv.org/abs/2311.15487</id>
+        <link href="http://arxiv.org/abs/2311.15487"/>
+        <updated>2023-11-28T04:18:48.552Z</updated>
+        <summary type="html"><![CDATA[Thomas Chen]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Will More Expressive Graph Neural Networks do Better on Generative
+  Tasks?]]></title>
+        <id>http://arxiv.org/abs/2308.11978</id>
+        <link href="http://arxiv.org/abs/2308.11978"/>
+        <updated>2023-11-28T04:18:48.350Z</updated>
+        <summary type="html"><![CDATA[Xiandong Zou, Xiangyu Zhao, Pietro Li\`o, Yiren Zhao]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A review of ensemble learning and data augmentation models for class
+  imbalanced problems: combination, implementation and evaluation]]></title>
+        <id>http://arxiv.org/abs/2304.02858</id>
+        <link href="http://arxiv.org/abs/2304.02858"/>
+        <updated>2023-11-28T04:18:48.344Z</updated>
+        <summary type="html"><![CDATA[Azal Ahmad Khan, Omkar Chaudhari, Rohitash Chandra]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[consolidator grants 2023]]></title>
         <id>http://xianblog.wordpress.com/?p=54512</id>
@@ -2794,16 +2839,6 @@ Where: Stats Common Room]]></summary>
 The post 56 行代码用 Python 实现一个 Flex/Lex appeared first on Skywind Inside.]]></summary>
         <author>
             <name>skywind</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[apply international humanitarian law, including the principle of proportionality and distinction]]></title>
-        <id>http://xianblog.wordpress.com/?p=54341</id>
-        <link href="https://xianblog.wordpress.com/2023/10/29/apply-international-humanitarian-law-including-the-principle-of-proportionality-and-distinction/"/>
-        <updated>2023-10-29T15:46:26.000Z</updated>
-        <summary type="html"><![CDATA[Visit the post for more.]]></summary>
-        <author>
-            <name>xi'an</name>
         </author>
     </entry>
 </feed>
