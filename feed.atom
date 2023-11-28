@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-11-28T04:18:48.594Z</updated>
+    <updated>2023-11-28T05:15:31.994Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -2828,17 +2828,6 @@ Where: Stats Common Room]]></summary>
         <summary type="html"><![CDATA[François Lang saw this sign at the local farmers market: François asked the men at the booth what their water complements, but they did'nt get it. Meanwhile, François introduced me to the Dihydrogen Monoxide Research Division (DHMO), whose roots go back to the early 80s. Selected readings "Complimentary Internet in the lobby" (10/26/09) "Dihydrogen Monoxide" (3/15/04)]]></summary>
         <author>
             <name>Victor Mair</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[56 行代码用 Python 实现一个 Flex/Lex]]></title>
-        <id>https://www.skywind.me/blog/?p=2761</id>
-        <link href="https://www.skywind.me/blog/archives/2761"/>
-        <updated>2023-10-29T17:03:00.000Z</updated>
-        <summary type="html"><![CDATA[作为 Yacc/Bison 的好搭档 Lex/Flex 是一个很方便的工具，可以通过写几行规则就能生成一个新的词法分析器，大到给你的 parser 提供 token 流，小到解析一个配置文件，都很有帮助；而用 Python 实现一个支持自定义规则的类 Flex/Lex 词法分析器只需要短短 56 行代码，简单拷贝粘贴到你的代码里，让你的代码具备基于可定制规则的词法分析功能。 原理很简单，熟读 Python 文档的同学应该看过 regex module 帮助页面最下面有段程序： def tokenize(code): keywords = {'IF', 'THEN', 'ENDIF', 'FOR', 'NEXT', 'GOSUB', 'RETURN'} token_specification = [ ('NUMBER', r'\d+(\.\d*)?'), # Integer or decimal number ('ASSIGN', r':='), # Assignment operator ('END', r';'), # Statement terminator ('ID', r'[A-Za-z]+'), # […]
-The post 56 行代码用 Python 实现一个 Flex/Lex appeared first on Skywind Inside.]]></summary>
-        <author>
-            <name>skywind</name>
         </author>
     </entry>
 </feed>
