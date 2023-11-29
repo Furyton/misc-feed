@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-11-29T18:19:26.307Z</updated>
+    <updated>2023-11-29T19:12:58.113Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -2829,16 +2829,6 @@ Where: Stats Common Room]]></summary>
         <summary type="html"><![CDATA[正如“XXX is all you need”一样，有不少论文都以“简单得令人尴尬”命名（An Embarrassingly Simple XXX），但在笔者看来，这些论文大多数都是噱头多于实力...]]></summary>
         <author>
             <name>苏剑林</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AMD Extends Support for Pytorch Machine Learning Development nn Select RDNA™ 3 GPUs with ROCm™ 5.7]]></title>
-        <id>https://pytorch.org/blog/amd-extends-support-for-pt-ml/</id>
-        <link href="https://pytorch.org/blog/amd-extends-support-for-pt-ml/"/>
-        <updated>2023-10-31T07:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Researchers and developers working with Machine Learning (ML) models and algorithms using PyTorch can now use AMD ROCm 5.7 on Ubuntu® Linux® to tap into the parallel computing power of the Radeon™ RX 7900 XTX and the Radeon™ PRO W7900 graphics cards which are based on the AMD RDNA™ 3 GPU architecture.]]></summary>
-        <author>
-            <name>PyTorch Website</name>
         </author>
     </entry>
 </feed>

@@ -1724,16 +1724,6 @@
           "wordCount": 1006,
           "title": "Accelerating Inference on x86-64 Machines with oneDNN Graph",
           "imageUrl": "https://pytorch.org/assets/images/pytorch-logo.png"
-        },
-        {
-          "id": "https://pytorch.org/blog/amd-extends-support-for-pt-ml/",
-          "author": null,
-          "description": "Researchers and developers working with Machine Learning (ML) models and algorithms using PyTorch can now use AMD ROCm 5.7 on Ubuntu® Linux® to tap into the parallel computing power of the Radeon™ RX 7900 XTX and the Radeon™ PRO W7900 graphics cards which are based on the AMD RDNA™ 3 GPU architecture.",
-          "link": "https://pytorch.org/blog/amd-extends-support-for-pt-ml/",
-          "publishedOn": "2023-10-31T07:00:00.000Z",
-          "wordCount": 1129,
-          "title": "AMD Extends Support for Pytorch Machine Learning Development nn Select RDNA™ 3 GPUs with ROCm™ 5.7",
-          "imageUrl": "https://pytorch.org/assets/images/pytorch-logo.png"
         }
       ]
     },
