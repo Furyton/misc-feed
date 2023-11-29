@@ -2,10 +2,67 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-11-29T03:15:55.390Z</updated>
+    <updated>2023-11-29T04:19:00.115Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Geometry-Aware Adaptation for Pretrained Models]]></title>
+        <id>http://arxiv.org/abs/2307.12226</id>
+        <link href="http://arxiv.org/abs/2307.12226"/>
+        <updated>2023-11-29T04:19:00.084Z</updated>
+        <summary type="html"><![CDATA[Nicholas Roberts, Xintong Li, Dyah Adila, Sonia Cromp, Tzu-Heng Huang,
+  Jitian Zhao, Frederic Sala]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OccamNet: A Fast Neural Model for Symbolic Regression at Scale]]></title>
+        <id>http://arxiv.org/abs/2007.10784</id>
+        <link href="http://arxiv.org/abs/2007.10784"/>
+        <updated>2023-11-29T04:19:00.047Z</updated>
+        <summary type="html"><![CDATA[Owen Dugan, Rumen Dangovski, Allan Costa, Samuel Kim and
+  Pawan Goyal, Joseph Jacobson, Marin Solja\v{c}i\'c]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Attentional Graph Neural Networks for Robust Massive Network
+  Localization]]></title>
+        <id>http://arxiv.org/abs/2311.16856</id>
+        <link href="http://arxiv.org/abs/2311.16856"/>
+        <updated>2023-11-29T04:18:59.979Z</updated>
+        <summary type="html"><![CDATA[Wenzhong Yan, Juntao Wang, Feng Yin, Abdelhak M. Zoubir]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pre-trained Language Models Do Not Help Auto-regressive Text-to-Image
+  Generation]]></title>
+        <id>http://arxiv.org/abs/2311.16201</id>
+        <link href="http://arxiv.org/abs/2311.16201"/>
+        <updated>2023-11-29T04:18:59.965Z</updated>
+        <summary type="html"><![CDATA[Yuhui Zhang, Brandon McKinzie, Zhe Gan, Vaishaal Shankar, Alexander
+  Toshev]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Co-learning synaptic delays, weights and adaptation in spiking neural
+  networks]]></title>
+        <id>http://arxiv.org/abs/2311.16112</id>
+        <link href="http://arxiv.org/abs/2311.16112"/>
+        <updated>2023-11-29T04:18:59.947Z</updated>
+        <summary type="html"><![CDATA[Lucas Deckers, Laurens Van Damme, Ing Jyh Tsang, Werner Van Leekwijck
+ , Steven Latr\'e]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我在Performer中发现了Transformer-VQ的踪影]]></title>
         <id>https://kexue.fm/archives/9862</id>
