@@ -1214,56 +1214,6 @@
           "wordCount": 844,
           "title": "Selling a Single Item with Negative Externalities",
           "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
-        },
-        {
-          "id": "http://arxiv.org/abs/2307.05194",
-          "author": null,
-          "description": "Jack Jewson, Sahra Ghalebikesabi, Chris Holmes",
-          "link": "http://arxiv.org/abs/2307.05194",
-          "publishedOn": "2023-10-31T02:22:20.140Z",
-          "wordCount": null,
-          "title": "Differentially Private Statistical Inference through $\\beta$-Divergence\n  One Posterior Sampling",
-          "imageUrl": null
-        },
-        {
-          "id": "http://arxiv.org/abs/2307.12975",
-          "author": null,
-          "description": "Xiang Ji, Huazheng Wang, Minshuo Chen, Tuo Zhao, Mengdi Wang",
-          "link": "http://arxiv.org/abs/2307.12975",
-          "publishedOn": "2023-10-31T02:22:20.139Z",
-          "wordCount": null,
-          "title": "Provable Benefits of Policy Learning from Human Preferences in\n  Contextual Bandit Problems",
-          "imageUrl": null
-        },
-        {
-          "id": "http://arxiv.org/abs/2301.09028",
-          "author": null,
-          "description": "Murat Kocaoglu",
-          "link": "http://arxiv.org/abs/2301.09028",
-          "publishedOn": "2023-10-31T02:22:20.138Z",
-          "wordCount": null,
-          "title": "Characterization and Learning of Causal Graphs with Small Conditioning\n  Sets",
-          "imageUrl": null
-        },
-        {
-          "id": "http://arxiv.org/abs/2306.08777",
-          "author": null,
-          "description": "Felix Biggs, Antonin Schrab, Arthur Gretton",
-          "link": "http://arxiv.org/abs/2306.08777",
-          "publishedOn": "2023-10-31T02:22:20.138Z",
-          "wordCount": null,
-          "title": "MMD-FUSE: Learning and Combining Kernels for Two-Sample Testing Without\n  Data Splitting",
-          "imageUrl": null
-        },
-        {
-          "id": "http://arxiv.org/abs/2310.18910",
-          "author": null,
-          "description": "Muyang Li, Runze Wu, Haoyu Liu, Jun Yu, Xun Yang, Bo Han, Tongliang\n  Liu",
-          "link": "http://arxiv.org/abs/2310.18910",
-          "publishedOn": "2023-10-31T02:22:20.137Z",
-          "wordCount": null,
-          "title": "InstanT: Semi-supervised Learning with Instance-dependent Thresholds",
-          "imageUrl": null
         }
       ]
     },
@@ -1715,6 +1665,16 @@
       "feedUrl": "https://pytorch.org/feed",
       "siteUrl": "https://pytorch.org/",
       "articles": [
+        {
+          "id": "https://pytorch.org/blog/new-features-for-ai/",
+          "author": null,
+          "description": "We are excited to see the release of PyTorch 2.1. In this blog, we discuss the five features for which Intel made significant contributions to PyTorch 2.1:",
+          "link": "https://pytorch.org/blog/new-features-for-ai/",
+          "publishedOn": "2023-11-29T08:00:00.000Z",
+          "wordCount": 2095,
+          "title": "PyTorch 2.1 Contains New Performance Features for AI Developers",
+          "imageUrl": "https://pytorch.org/assets/images/social-share.jpg"
+        },
         {
           "id": "https://pytorch.org/blog/accelerating-generative-ai/",
           "author": null,

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-11-29T17:14:18.582Z</updated>
+    <updated>2023-11-29T18:19:26.307Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -24,6 +24,16 @@
         <summary type="html"><![CDATA[[This is the first of two consecutive posts on things Indian.  After reading them, if someone is prompted to send me material for a third, I'll be happy to make it a trifecta.] Our entry point to the linguistically compelling topic of today's post is this Nikkei Asia (11/29/23) article by Barkha Shah in its […]]]></summary>
         <author>
             <name>Victor Mair</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PyTorch 2.1 Contains New Performance Features for AI Developers]]></title>
+        <id>https://pytorch.org/blog/new-features-for-ai/</id>
+        <link href="https://pytorch.org/blog/new-features-for-ai/"/>
+        <updated>2023-11-29T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[We are excited to see the release of PyTorch 2.1. In this blog, we discuss the five features for which Intel made significant contributions to PyTorch 2.1:]]></summary>
+        <author>
+            <name>PyTorch Website</name>
         </author>
     </entry>
     <entry>
@@ -2829,61 +2839,6 @@ Where: Stats Common Room]]></summary>
         <summary type="html"><![CDATA[Researchers and developers working with Machine Learning (ML) models and algorithms using PyTorch can now use AMD ROCm 5.7 on Ubuntu® Linux® to tap into the parallel computing power of the Radeon™ RX 7900 XTX and the Radeon™ PRO W7900 graphics cards which are based on the AMD RDNA™ 3 GPU architecture.]]></summary>
         <author>
             <name>PyTorch Website</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Differentially Private Statistical Inference through $\beta$-Divergence
-  One Posterior Sampling]]></title>
-        <id>http://arxiv.org/abs/2307.05194</id>
-        <link href="http://arxiv.org/abs/2307.05194"/>
-        <updated>2023-10-31T02:22:20.140Z</updated>
-        <summary type="html"><![CDATA[Jack Jewson, Sahra Ghalebikesabi, Chris Holmes]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Provable Benefits of Policy Learning from Human Preferences in
-  Contextual Bandit Problems]]></title>
-        <id>http://arxiv.org/abs/2307.12975</id>
-        <link href="http://arxiv.org/abs/2307.12975"/>
-        <updated>2023-10-31T02:22:20.139Z</updated>
-        <summary type="html"><![CDATA[Xiang Ji, Huazheng Wang, Minshuo Chen, Tuo Zhao, Mengdi Wang]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Characterization and Learning of Causal Graphs with Small Conditioning
-  Sets]]></title>
-        <id>http://arxiv.org/abs/2301.09028</id>
-        <link href="http://arxiv.org/abs/2301.09028"/>
-        <updated>2023-10-31T02:22:20.138Z</updated>
-        <summary type="html"><![CDATA[Murat Kocaoglu]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MMD-FUSE: Learning and Combining Kernels for Two-Sample Testing Without
-  Data Splitting]]></title>
-        <id>http://arxiv.org/abs/2306.08777</id>
-        <link href="http://arxiv.org/abs/2306.08777"/>
-        <updated>2023-10-31T02:22:20.138Z</updated>
-        <summary type="html"><![CDATA[Felix Biggs, Antonin Schrab, Arthur Gretton]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[InstanT: Semi-supervised Learning with Instance-dependent Thresholds]]></title>
-        <id>http://arxiv.org/abs/2310.18910</id>
-        <link href="http://arxiv.org/abs/2310.18910"/>
-        <updated>2023-10-31T02:22:20.137Z</updated>
-        <summary type="html"><![CDATA[Muyang Li, Runze Wu, Haoyu Liu, Jun Yu, Xun Yang, Bo Han, Tongliang
-  Liu]]></summary>
-        <author>
-            <name>arxivist feed</name>
         </author>
     </entry>
 </feed>
