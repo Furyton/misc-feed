@@ -1374,6 +1374,16 @@
       "siteUrl": "https://pythonspeed.com/atom.xml",
       "articles": [
         {
+          "id": "https://pythonspeed.com/articles/polars-pandas-interopability/",
+          "author": null,
+          "description": "Polars is a dataframe-based library that can be faster, more memory efficient, and often simpler to use than Pandas.\nIt’s also much newer, and correspondingly less popular.\nIn November 2023:\nPolars had ~2.6 million downloads from PyPI.\nPandas had ~140 million downloads!\nBecause of Pandas’ popularity and decade and a half of availability, there are many third-party libraries with built-in support for Pandas, and others that specifically extend Pandas.\nMany plotting and visualization libraries will accept Pandas dataframes as an input, for example, and GeoPandas adds geographical data types to Pandas dataframes.\nIf you’re using Polars, can you use these libraries?\nAnd if so, how?\nIn this article we’ll cover the various integration options you have between Polars and third-party libraries originally designed to work with Pandas:\nIt Just Works.\nManual conversion to Pandas dataframes, and how to do it with essentially zero cost.\nManual interoperability via files.\nOther alternatives.\nRead more...",
+          "link": "https://pythonspeed.com/articles/polars-pandas-interopability/",
+          "publishedOn": "2023-11-28T00:00:00.000Z",
+          "wordCount": 1248,
+          "title": "Using Polars in a Pandas world",
+          "imageUrl": "https://pythonspeed.com/assets/titles/polars-pandas-interopability.png"
+        },
+        {
           "id": "https://pythonspeed.com/articles/two-thread-pools/",
           "author": null,
           "description": "When you’re doing large scale data processing with Python, threads are a good way to achieve parallelism.\nThis is especially true if you’re doing numeric processing, where the global interpreter lock (GIL) is typically not an issue.\nAnd if you’re using threading, thread pools are a good way to make sure you don’t use too many resources.\nBut how many threads should your thread pool have?\nAnd do you need just one thread pool, or more than one?\nIn this article we’ll see that for data processing batch jobs:\nThere are two kinds of thread pools, each for different use cases.\nEach kind requires a different configuration.\nYou might need both.\nRead more...",
