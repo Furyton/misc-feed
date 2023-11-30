@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-11-30T17:14:29.252Z</updated>
+    <updated>2023-11-30T18:19:31.352Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -14,6 +14,16 @@
         <summary type="html"><![CDATA[Long have we pondered the overwhelming dominance by individuals of Indian heritage over the spelling bees.  Do they have some sort of mysterious power or secret for memorizing hundreds of thousands of obscure words?  Now we have an answer from one of the masters himself, Dev Shah, a ninth-grader living in Largo, Florida, who won […]]]></summary>
         <author>
             <name>Victor Mair</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Accelerating Generative AI with PyTorch II: GPT, Fast]]></title>
+        <id>https://pytorch.org/blog/accelerating-generative-ai-2/</id>
+        <link href="https://pytorch.org/blog/accelerating-generative-ai-2/"/>
+        <updated>2023-11-30T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[This post is the second part of a multi-series blog focused on how to accelerate generative AI models with pure, native PyTorch. We are excited to share a breadth of newly released PyTorch performance features alongside practical examples to see how far we can push PyTorch native performance. In part one, we showed how to accelerate Segment Anything over 8x using only pure, native PyTorch. In this blog we’ll focus on LLM optimization.]]></summary>
+        <author>
+            <name>PyTorch Website</name>
         </author>
     </entry>
     <entry>

@@ -1586,6 +1586,16 @@
       "siteUrl": "https://pytorch.org/",
       "articles": [
         {
+          "id": "https://pytorch.org/blog/accelerating-generative-ai-2/",
+          "author": null,
+          "description": "This post is the second part of a multi-series blog focused on how to accelerate generative AI models with pure, native PyTorch. We are excited to share a breadth of newly released PyTorch performance features alongside practical examples to see how far we can push PyTorch native performance. In part one, we showed how to accelerate Segment Anything over 8x using only pure, native PyTorch. In this blog we’ll focus on LLM optimization.",
+          "link": "https://pytorch.org/blog/accelerating-generative-ai-2/",
+          "publishedOn": "2023-11-30T08:00:00.000Z",
+          "wordCount": 3670,
+          "title": "Accelerating Generative AI with PyTorch II: GPT, Fast",
+          "imageUrl": "https://pytorch.org/assets/images/accelerating-generative-ai-2/social-share.jpg"
+        },
+        {
           "id": "https://pytorch.org/blog/new-features-for-ai/",
           "author": null,
           "description": "We are excited to see the release of PyTorch 2.1. In this blog, we discuss the five features for which Intel made significant contributions to PyTorch 2.1:",
