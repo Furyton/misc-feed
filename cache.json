@@ -1677,16 +1677,6 @@
           "wordCount": 7248,
           "title": "MLIR — A Global Optimization and Dataflow Analysis",
           "imageUrl": "https://s0.wp.com/i/blank.jpg"
-        },
-        {
-          "id": "https://jeremykun.com/?p=120196",
-          "author": "Jeremy Kun",
-          "description": "Table of Contents In the last article we lowered our custom poly dialect to standard MLIR dialects. In this article we’ll continue lowering it to LLVM IR, exporting it out of MLIR to LLVM, and then compiling to x86 machine code. The code for this article is in this pull request, and as usual the commits are organized to […]",
-          "link": "https://jeremykun.com/2023/11/01/mlir-lowering-through-llvm/",
-          "publishedOn": "2023-11-01T14:00:00.000Z",
-          "wordCount": 9503,
-          "title": "MLIR — Lowering through LLVM",
-          "imageUrl": "https://s0.wp.com/i/blank.jpg"
         }
       ]
     },
@@ -2741,16 +2731,6 @@
           "publishedOn": "2023-11-02T09:23:43.000Z",
           "wordCount": 2954,
           "title": "LOL, ROTFL, IJBOL",
-          "imageUrl": null
-        },
-        {
-          "id": "https://languagelog.ldc.upenn.edu/nll/?p=61134",
-          "author": "Victor Mair",
-          "description": "As things seem to be spinning out of control in the PRC (generals, bankers, politicians being disappeared left and right; foreign ministers evaporating; a former president being levitated out of his seat at the 29th National Congress; a much-admired premier being heart attacked…), people are increasingly desperate to get out.  We saw this already in […]",
-          "link": "https://languagelog.ldc.upenn.edu/nll/?p=61134&utm_source=rss&utm_medium=rss&utm_campaign=emigrate-no-longer-an-option",
-          "publishedOn": "2023-11-01T13:42:45.000Z",
-          "wordCount": 2548,
-          "title": "\"Emigrate\" no longer an option",
           "imageUrl": null
         }
       ]

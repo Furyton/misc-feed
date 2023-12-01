@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-12-01T01:14:11.900Z</updated>
+    <updated>2023-12-01T02:33:07.754Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -2732,26 +2732,6 @@ Forecasting weather variables such as precipitation, temperature, and wind is ke
 Today we present a new weather model called MetNet-3, developed by Google Research and Google DeepMind. Building on the earlier MetNet and MetNet-2 models, MetNet-3 p…]]></summary>
         <author>
             <name>Google AI Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MLIR — Lowering through LLVM]]></title>
-        <id>https://jeremykun.com/?p=120196</id>
-        <link href="https://jeremykun.com/2023/11/01/mlir-lowering-through-llvm/"/>
-        <updated>2023-11-01T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Table of Contents In the last article we lowered our custom poly dialect to standard MLIR dialects. In this article we’ll continue lowering it to LLVM IR, exporting it out of MLIR to LLVM, and then compiling to x86 machine code. The code for this article is in this pull request, and as usual the commits are organized to […]]]></summary>
-        <author>
-            <name>Jeremy Kun</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["Emigrate" no longer an option]]></title>
-        <id>https://languagelog.ldc.upenn.edu/nll/?p=61134</id>
-        <link href="https://languagelog.ldc.upenn.edu/nll/?p=61134&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=emigrate-no-longer-an-option"/>
-        <updated>2023-11-01T13:42:45.000Z</updated>
-        <summary type="html"><![CDATA[As things seem to be spinning out of control in the PRC (generals, bankers, politicians being disappeared left and right; foreign ministers evaporating; a former president being levitated out of his seat at the 29th National Congress; a much-admired premier being heart attacked…), people are increasingly desperate to get out.  We saw this already in […]]]></summary>
-        <author>
-            <name>Victor Mair</name>
         </author>
     </entry>
 </feed>
