@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-12-01T11:13:45.578Z</updated>
+    <updated>2023-12-01T12:29:36.813Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -2773,16 +2773,6 @@ Even though the few-shot setup has dramatically reduced the amount of data requi
         <summary type="html"><![CDATA[Thodoris Lykouris, Max Simchowitz, Aleksandrs Slivkins, Wen Sun]]></summary>
         <author>
             <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Warwick Stats recruits]]></title>
-        <id>http://xianblog.wordpress.com/?p=54323</id>
-        <link href="https://xianblog.wordpress.com/2023/11/02/warwick-stats-recruits/"/>
-        <updated>2023-11-01T23:23:57.000Z</updated>
-        <summary type="html"><![CDATA[The Department of Statistics at the University of Warwick is recruiting: Assistant Professor, Statistics (3 positions in Applied, Methodological or Theoretical Statistics ) Assistant Professor, Computational Statistics or Machine Learning (2 positions) Associate Professor (1 position, any area within the Department) Applicants should have evidence or promise of world-class research excellence and ability to deliver […]]]></summary>
-        <author>
-            <name>xi'an</name>
         </author>
     </entry>
 </feed>
