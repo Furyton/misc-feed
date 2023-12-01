@@ -2244,16 +2244,6 @@
           "wordCount": 27945,
           "title": "Zero-shot adaptive prompting of large language models",
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiqTosaeIs4AMYukkmgUBEii6iQcrr9_dNKM0cHnW6m9Wi8yX0V-QCduQfkqLyQPNpVbze3OFO-nPG5Wm9DLMM8pEAfhQGq-TEJroLJGQyqNr-hlJNkToBCmgJbphrCRvlv95gkDQH0ScT7VrXu2VCTKyiWy8yYM4G8voF0kD0K2oxwg2M2xBcz1yQnU0Zb/w1200-h630-p-k-no-nu/USP.gif"
-        },
-        {
-          "id": "http://blog.research.google/2023/11/metnet-3-state-of-art-neural-weather.html",
-          "author": null,
-          "description": "Posted by Samier Merchant, Google Research, and Nal Kalchbrenner, Google DeepMind\n\n\n\n\n\n\nForecasting weather variables such as precipitation, temperature, and wind is key to numerous aspects of society, from daily planning and transportation to energy production. As we continue to see more extreme weather events such as floods, droughts, and heat waves, accurate forecasts can be essential to preparing for and mitigating their effects. The first 24 hours into the future are especially important as they are both highly predictable and actionable, which can help people make informed decisions in a timely manner and stay safe. \n \n\nToday we present a new weather model called MetNet-3, developed by Google Research and Google DeepMind. Building on the earlier MetNet and MetNet-2 models, MetNet-3 p…",
-          "link": "http://blog.research.google/2023/11/metnet-3-state-of-art-neural-weather.html",
-          "publishedOn": "2023-11-01T17:30:00.000Z",
-          "wordCount": 28196,
-          "title": "MetNet-3: A state-of-the-art neural weather model available in Google products",
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhdgnhML03N9vxEdGH1TkBATtxGpjyO5XYgZwJY5dY0-sPIAvrmCll4J8I9owyJTNOHZdq6MMZskWsYJDZivZA_zvj2atWhUsPoxWnNyifiFAm83GC2EsZ4xgre8bCk32Yzv3vlR4pGn12H7T5Vkbz5BaErZ22JRB-OqveQ7EDHsrCYjKN65Soc1FrZNwvu/w1200-h630-p-k-no-nu/metnethero1.gif"
         }
       ]
     },
@@ -2268,6 +2258,16 @@
       "feedUrl": "https://languagelog.ldc.upenn.edu/nll/?feed=rss2",
       "siteUrl": "https://languagelog.ldc.upenn.edu/nll",
       "articles": [
+        {
+          "id": "https://languagelog.ldc.upenn.edu/nll/?p=61503",
+          "author": "Victor Mair",
+          "description": "The Chinese Football Association used dǎngguó 党国 (\"party state\" — nettlesome term to be explained fully below) in a powerpoint on its plans for '24. Awkward political illiteracy!  Here's a screenshot. Here's the line of text above the photographic image: Zhōngguó zúxié bù huì yòng cí bùyào luànyòng@zhōngguó zúxié 中国足协不会用词不要乱用@中国足协 \"If the Chinese Football Association does not know how to […]",
+          "link": "https://languagelog.ldc.upenn.edu/nll/?p=61503&utm_source=rss&utm_medium=rss&utm_campaign=major-linguistic-faux-pas-in-chinese-football-association-ppt",
+          "publishedOn": "2023-12-01T05:47:54.000Z",
+          "wordCount": 2227,
+          "title": "Major Linguistic Faux Pas in Chinese Football Association PPT",
+          "imageUrl": null
+        },
         {
           "id": "https://languagelog.ldc.upenn.edu/nll/?p=61499",
           "author": "Victor Mair",
