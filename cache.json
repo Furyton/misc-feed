@@ -1154,16 +1154,6 @@
           "wordCount": 661,
           "title": "Detection of Interacting Variables for Generalized Linear Models via\n  Neural Networks",
           "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
-        },
-        {
-          "id": "http://arxiv.org/abs/2307.13916",
-          "author": null,
-          "description": "Yongyi Guo, Ziping Xu, Susan Murphy",
-          "link": "http://arxiv.org/abs/2307.13916",
-          "publishedOn": "2023-11-02T05:14:05.276Z",
-          "wordCount": 657,
-          "title": "Online learning in bandits with predicted context",
-          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
         }
       ]
     },
@@ -2075,6 +2065,16 @@
       "feedUrl": "http://feeds.feedburner.com/blogspot/gJZg",
       "siteUrl": "http://blog.research.google/",
       "articles": [
+        {
+          "id": "http://blog.research.google/2023/12/unsupervised-speech-to-speech.html",
+          "author": null,
+          "description": "Posted by Eliya Nachmani, Research Scientist, and Michelle Tadmor Ramanovich, Software Engineer, Google Research\n\n\n\n\n\n\nSpeech-to-speech translation (S2ST) is a type of machine translation that converts spoken language from one language to another. This technology has the potential to break down language barriers and facilitate communication between people from different cultures and backgrounds. \n\n\n\n\nPreviously, we introduced Translatotron 1 and Translatotron 2, the first ever models that were able to directly translate speech between two languages. However they were trained in supervised settings with parallel speech data. The scarcity of parallel speech data is a major challenge in this field, so much that most public datasets are semi- or fully-synthesized from text. This adds additiona…",
+          "link": "http://blog.research.google/2023/12/unsupervised-speech-to-speech.html",
+          "publishedOn": "2023-12-01T17:19:00.000Z",
+          "wordCount": 27812,
+          "title": "Unsupervised speech-to-speech translation from monolingual data",
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiuXgYf5aJuSobrasrRUpb5IUKH05RFHJ5_vcwW-XyOLQdKOEonciXcyXtcJN2zPkHu5_k4wvIsl6oFZd4UfYsBfjSK27YaIcw7s1-3dekdJVxTBM-4hrBvndT-go6YOsscswtV6FvE_3QHml8zZjWIz7J4quRh8UBL9gzW9guAVYd4czuHYhY6lu9TkK4K/w1200-h630-p-k-no-nu/T3.png"
+        },
         {
           "id": "http://blog.research.google/2023/11/improving-simulations-of-clouds-and.html",
           "author": null,
