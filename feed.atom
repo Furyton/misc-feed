@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-12-01T18:19:28.210Z</updated>
+    <updated>2023-12-01T19:12:12.867Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -2722,16 +2722,6 @@ Even though the few-shot setup has dramatically reduced the amount of data requi
         <summary type="html"><![CDATA[As Laura Morland said to me in a p.c., I am a "Swiftie" (I admit it, even though I'm a Penn prof), but there are plenty of things about pop culture that I do not know, including IJBOL. What Is IJBOL? A Korean word? A new boy band? This new acronym is replacing LOL and […]]]></summary>
         <author>
             <name>Victor Mair</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Accelerating Inference on x86-64 Machines with oneDNN Graph]]></title>
-        <id>https://pytorch.org/blog/accelerating-inference/</id>
-        <link href="https://pytorch.org/blog/accelerating-inference/"/>
-        <updated>2023-11-02T07:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Supported in PyTorch 2.0 as a beta feature, oneDNN Graph leverages aggressive fusion patterns to accelerate inference on x86-64 machines, especially Intel® Xeon® Scalable processors.]]></summary>
-        <author>
-            <name>PyTorch Website</name>
         </author>
     </entry>
 </feed>

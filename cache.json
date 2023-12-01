@@ -1634,16 +1634,6 @@
           "wordCount": 3978,
           "title": "High-Performance Llama 2 Training and Inference with PyTorch/XLA on Cloud TPUs",
           "imageUrl": "https://pytorch.org/assets/images/pytorch-logo.png"
-        },
-        {
-          "id": "https://pytorch.org/blog/accelerating-inference/",
-          "author": null,
-          "description": "Supported in PyTorch 2.0 as a beta feature, oneDNN Graph leverages aggressive fusion patterns to accelerate inference on x86-64 machines, especially Intel® Xeon® Scalable processors.",
-          "link": "https://pytorch.org/blog/accelerating-inference/",
-          "publishedOn": "2023-11-02T07:00:00.000Z",
-          "wordCount": 1006,
-          "title": "Accelerating Inference on x86-64 Machines with oneDNN Graph",
-          "imageUrl": "https://pytorch.org/assets/images/pytorch-logo.png"
         }
       ]
     },
