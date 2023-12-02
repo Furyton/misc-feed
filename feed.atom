@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-12-02T14:12:31.102Z</updated>
+    <updated>2023-12-02T15:13:38.942Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -2649,59 +2649,6 @@ Clustering is a fundamental, ubiquitous problem in data mining and unsupervised 
         <summary type="html"><![CDATA[No, not what you get by asking GPT-4 for insults — for that, see below… This is the SMBC comic from a few days ago: Mouseover title: "You catastrophic forgetter! You opaque box! You absolute Chinese room!" The aftercomic: GPT-4's response to the prompt "Give me some really good insults": While I understand the desire […]]]></summary>
         <author>
             <name>Mark Liberman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Anonymous Learning via Look-Alike Clustering: A Precise Analysis of
-  Model Generalization]]></title>
-        <id>http://arxiv.org/abs/2310.04015</id>
-        <link href="http://arxiv.org/abs/2310.04015"/>
-        <updated>2023-11-03T02:22:45.380Z</updated>
-        <summary type="html"><![CDATA[Adel Javanmard, Vahab Mirrokni]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Inversion of Bayesian Networks]]></title>
-        <id>http://arxiv.org/abs/2212.10649</id>
-        <link href="http://arxiv.org/abs/2212.10649"/>
-        <updated>2023-11-03T02:22:45.373Z</updated>
-        <summary type="html"><![CDATA[Jesse van Oostrum, Peter van Hintum, Nihat Ay]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Long Story Short: Omitted Variable Bias in Causal Machine Learning]]></title>
-        <id>http://arxiv.org/abs/2112.13398</id>
-        <link href="http://arxiv.org/abs/2112.13398"/>
-        <updated>2023-11-03T02:22:45.366Z</updated>
-        <summary type="html"><![CDATA[Victor Chernozhukov, Carlos Cinelli, Whitney Newey, Amit Sharma,
-  Vasilis Syrgkanis]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[On Learning Gaussian Multi-index Models with Gradient Flow]]></title>
-        <id>http://arxiv.org/abs/2310.19793</id>
-        <link href="http://arxiv.org/abs/2310.19793"/>
-        <updated>2023-11-03T02:22:45.342Z</updated>
-        <summary type="html"><![CDATA[Alberto Bietti, Joan Bruna, Loucas Pillaud-Vivien]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Detection of Interacting Variables for Generalized Linear Models via
-  Neural Networks]]></title>
-        <id>http://arxiv.org/abs/2209.08030</id>
-        <link href="http://arxiv.org/abs/2209.08030"/>
-        <updated>2023-11-03T02:22:41.601Z</updated>
-        <summary type="html"><![CDATA[Yevhen Havrylenko, Julia Heger]]></summary>
-        <author>
-            <name>arxivist feed</name>
         </author>
     </entry>
 </feed>
