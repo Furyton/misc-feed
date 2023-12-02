@@ -2174,16 +2174,6 @@
           "wordCount": 27622,
           "title": "Best of both worlds: Achieving scalability and quality in text clustering",
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjR2mD5afdT_Qg9Ex4Lj94FaxB9KHiq20iLoDlOY8S8Rk5XsV6n_4dU9CFbCvSeBSONGQYqy-yMGY6-KU_y_RGICOpz76GNdzv7ecxor_rVnF31lZOd3STQF4MIE4F_EadrSI1DXY67MXnsCswY3w3X8vX8KgU_rRPs6eTZndYAbVcEezgwaUsdZEAHD59Z/w1200-h630-p-k-no-nu/hero.jpg"
-        },
-        {
-          "id": "http://blog.research.google/2023/11/zero-shot-adaptive-prompting-of-large.html",
-          "author": null,
-          "description": "Posted by Xingchen Wan, Student Researcher, and Ruoxi Sun, Research Scientist, Cloud AI Team\n\n\n\n\nRecent advances in large language models (LLMs) are very promising as reflected in their capability for general problem-solving in few-shot and zero-shot setups, even without explicit training on these tasks. This is impressive because in the few-shot setup, LLMs are presented with only a few question-answer demonstrations prior to being given a test question. Even more challenging is the zero-shot setup, where the LLM is directly prompted with the test question only. \n\n\n\n\nEven though the few-shot setup has dramatically reduced the amount of data required to adapt a model for a specific use-case, there are still cases where generating sample prompts can be challenging. For example, handcrafting…",
-          "link": "http://blog.research.google/2023/11/zero-shot-adaptive-prompting-of-large.html",
-          "publishedOn": "2023-11-02T22:01:00.001Z",
-          "wordCount": 27945,
-          "title": "Zero-shot adaptive prompting of large language models",
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiqTosaeIs4AMYukkmgUBEii6iQcrr9_dNKM0cHnW6m9Wi8yX0V-QCduQfkqLyQPNpVbze3OFO-nPG5Wm9DLMM8pEAfhQGq-TEJroLJGQyqNr-hlJNkToBCmgJbphrCRvlv95gkDQH0ScT7VrXu2VCTKyiWy8yYM4G8voF0kD0K2oxwg2M2xBcz1yQnU0Zb/w1200-h630-p-k-no-nu/USP.gif"
         }
       ]
     },
