@@ -2108,6 +2108,16 @@
       "siteUrl": "https://languagelog.ldc.upenn.edu/nll",
       "articles": [
         {
+          "id": "https://languagelog.ldc.upenn.edu/nll/?p=61533",
+          "author": "Mark Liberman",
+          "description": "Nasr et al., \"Scalable Extraction of Training Data from (Production) Language Models\", arXiv.org 11/28/2023: This paper studies extractable memorization: training data that an adversary can efficiently extract by querying a machine learning model without prior knowledge of the training dataset. We show an adversary can extract gigabytes of training data from open-source language models like […]",
+          "link": "https://languagelog.ldc.upenn.edu/nll/?p=61533&utm_source=rss&utm_medium=rss&utm_campaign=extracting-training-data-from-llms",
+          "publishedOn": "2023-12-03T14:40:22.000Z",
+          "wordCount": 2295,
+          "title": "Extracting training data from LLMs",
+          "imageUrl": null
+        },
+        {
           "id": "https://languagelog.ldc.upenn.edu/nll/?p=61525",
           "author": "Mark Liberman",
           "description": "Recent buzz over \"Q*\" started with stories about 10 days ago. A recent Wired article explains: Last week, after briefly deposed CEO Sam Altman was reinstalled at OpenAI, two reports claimed that a top-secret project at the company had rattled some researchers there with its potential to solve intractable problems in a powerful new way. […]",

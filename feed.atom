@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-12-03T14:12:31.835Z</updated>
+    <updated>2023-12-03T15:13:47.370Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Extracting training data from LLMs]]></title>
+        <id>https://languagelog.ldc.upenn.edu/nll/?p=61533</id>
+        <link href="https://languagelog.ldc.upenn.edu/nll/?p=61533&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=extracting-training-data-from-llms"/>
+        <updated>2023-12-03T14:40:22.000Z</updated>
+        <summary type="html"><![CDATA[Nasr et al., "Scalable Extraction of Training Data from (Production) Language Models", arXiv.org 11/28/2023: This paper studies extractable memorization: training data that an adversary can efficiently extract by querying a machine learning model without prior knowledge of the training dataset. We show an adversary can extract gigabytes of training data from open-source language models like […]]]></summary>
+        <author>
+            <name>Mark Liberman</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Q* = Q + A* ?]]></title>
         <id>https://languagelog.ldc.upenn.edu/nll/?p=61525</id>
