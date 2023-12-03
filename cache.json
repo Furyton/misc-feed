@@ -1667,6 +1667,16 @@
       "siteUrl": "https://xianblog.wordpress.com",
       "articles": [
         {
+          "id": "http://xianblog.wordpress.com/?p=54534",
+          "author": "xi'an",
+          "description": "Visit the post for more.",
+          "link": "https://xianblog.wordpress.com/2023/12/03/54534/",
+          "publishedOn": "2023-12-02T23:23:05.000Z",
+          "wordCount": 2145,
+          "title": "Bayesian Nonparametrics Networking Workshop 2023",
+          "imageUrl": "https://xianblog.files.wordpress.com/2023/11/temp-4.png"
+        },
+        {
           "id": "http://xianblog.wordpress.com/?p=54542",
           "author": "xi'an",
           "description": "Visit the post for more.",
@@ -2641,16 +2651,6 @@
           "publishedOn": "2023-11-03T16:57:44.000Z",
           "wordCount": 2333,
           "title": "Prince of pronunciation",
-          "imageUrl": null
-        },
-        {
-          "id": "https://languagelog.ldc.upenn.edu/nll/?p=61148",
-          "author": "Mark Liberman",
-          "description": "No, not what you get by asking GPT-4 for insults — for that, see below… This is the SMBC comic from a few days ago: Mouseover title: \"You catastrophic forgetter! You opaque box! You absolute Chinese room!\" The aftercomic: GPT-4's response to the prompt \"Give me some really good insults\": While I understand the desire […]",
-          "link": "https://languagelog.ldc.upenn.edu/nll/?p=61148&utm_source=rss&utm_medium=rss&utm_campaign=ai-insults",
-          "publishedOn": "2023-11-03T11:26:59.000Z",
-          "wordCount": 2219,
-          "title": "AI insults",
           "imageUrl": null
         }
       ]
