@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-12-03T04:17:52.746Z</updated>
+    <updated>2023-12-03T05:13:31.658Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -2629,16 +2629,6 @@ Increasing scale in Transformer networks has led to improved performance and the
 Clustering is a fundamental, ubiquitous problem in data mining and unsupervised machine learning, where the goal is to group together similar items. The standard forms of clustering are metric clustering and graph clustering. In metric clustering, a given metric space defines distances between data points, which are grouped together based on their separation. In graph clustering, a given graph connects similar data points through edges, and the clustering process groups data points together based on the connections between them. Both clustering forms are particularly useful for large corpora where class labels can’t be defined. Examples of such corpora are the ever-growing digital text collections of variou…]]></summary>
         <author>
             <name>Google AI Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Prince of pronunciation]]></title>
-        <id>https://languagelog.ldc.upenn.edu/nll/?p=61141</id>
-        <link href="https://languagelog.ldc.upenn.edu/nll/?p=61141&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=prince-of-pronunciation"/>
-        <updated>2023-11-03T16:57:44.000Z</updated>
-        <summary type="html"><![CDATA[Many people have the (mis)perception that the French (mis)pronounce all languages with a heavy accent.  It turns out that the gold standard for correct pronunciation of borrowed words is a French gentilhomme /ʒɑ̃.ti.jɔm/. How to Pronounce the Trickiest English Words: Ask This Frenchman Millions of Americans, the curious and the insecure, consult Julien Miquel for […]]]></summary>
-        <author>
-            <name>Victor Mair</name>
         </author>
     </entry>
 </feed>
