@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-12-03T06:18:30.462Z</updated>
+    <updated>2023-12-03T07:13:10.374Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -2614,21 +2614,6 @@ Increasing scale in Transformer networks has led to improved performance and the
         <summary type="html"><![CDATA[King’s English and Cockney replaced by three new accents, study finds Britons depart from overtly class-based post-war speech epitomised by either clipped vowels or working-class dialects By Charles Hymas, The Telegraph, Home Affairs Editor 30 October 2023 • 6:33pm I vaguely recall an earlier study from about ten years ago that came to similar conclusions (including the emergence of […]]]></summary>
         <author>
             <name>Victor Mair</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Best of both worlds: Achieving scalability and quality in text clustering]]></title>
-        <id>http://blog.research.google/2023/11/best-of-both-worlds-achieving.html</id>
-        <link href="http://blog.research.google/2023/11/best-of-both-worlds-achieving.html"/>
-        <updated>2023-11-03T18:23:00.001Z</updated>
-        <summary type="html"><![CDATA[Posted by Sara Ahmadian and Mehran Kazemi, Research Scientists, Google Research
-
-
-
-
-Clustering is a fundamental, ubiquitous problem in data mining and unsupervised machine learning, where the goal is to group together similar items. The standard forms of clustering are metric clustering and graph clustering. In metric clustering, a given metric space defines distances between data points, which are grouped together based on their separation. In graph clustering, a given graph connects similar data points through edges, and the clustering process groups data points together based on the connections between them. Both clustering forms are particularly useful for large corpora where class labels can’t be defined. Examples of such corpora are the ever-growing digital text collections of variou…]]></summary>
-        <author>
-            <name>Google AI Blog</name>
         </author>
     </entry>
 </feed>

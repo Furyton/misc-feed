@@ -2103,16 +2103,6 @@
           "wordCount": 27982,
           "title": "Alternating updates for efficient transformers",
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg68VOGvAuGk6w6db-De6SNc2OstzYrfUaCY4c03VVn_hAVb-wVsqk5zy07izav41UP3ZpurAn5kUs5QAJSzMU7Y_4en5TInN_0DA6iC8rUqAO0qmnwZXWll7yZyWvL_1HndCAtk7USVEyNxrXezwlmWDfrtQsEsQhnfjNkYvkoK5QiSIXESnXcxGvTOeKk/w1200-h630-p-k-no-nu/altup.png"
-        },
-        {
-          "id": "http://blog.research.google/2023/11/best-of-both-worlds-achieving.html",
-          "author": null,
-          "description": "Posted by Sara Ahmadian and Mehran Kazemi, Research Scientists, Google Research\n\n\n\n\nClustering is a fundamental, ubiquitous problem in data mining and unsupervised machine learning, where the goal is to group together similar items. The standard forms of clustering are metric clustering and graph clustering. In metric clustering, a given metric space defines distances between data points, which are grouped together based on their separation. In graph clustering, a given graph connects similar data points through edges, and the clustering process groups data points together based on the connections between them. Both clustering forms are particularly useful for large corpora where class labels can’t be defined. Examples of such corpora are the ever-growing digital text collections of variou…",
-          "link": "http://blog.research.google/2023/11/best-of-both-worlds-achieving.html",
-          "publishedOn": "2023-11-03T18:23:00.001Z",
-          "wordCount": 27622,
-          "title": "Best of both worlds: Achieving scalability and quality in text clustering",
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjR2mD5afdT_Qg9Ex4Lj94FaxB9KHiq20iLoDlOY8S8Rk5XsV6n_4dU9CFbCvSeBSONGQYqy-yMGY6-KU_y_RGICOpz76GNdzv7ecxor_rVnF31lZOd3STQF4MIE4F_EadrSI1DXY67MXnsCswY3w3X8vX8KgU_rRPs6eTZndYAbVcEezgwaUsdZEAHD59Z/w1200-h630-p-k-no-nu/hero.jpg"
         }
       ]
     },
