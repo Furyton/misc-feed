@@ -6,6 +6,36 @@
       "siteUrl": "https://www.arxivist.com",
       "articles": [
         {
+          "id": "http://arxiv.org/abs/2309.01885",
+          "author": null,
+          "description": "Kayhan Behdin, Ayan Acharya, Aman Gupta, Qingquan Song, Siyu Zhu,\n  Sathiya Keerthi, Rahul Mazumder",
+          "link": "http://arxiv.org/abs/2309.01885",
+          "publishedOn": "2023-12-04T04:18:49.340Z",
+          "wordCount": 739,
+          "title": "QuantEase: Optimization-based Quantization for Language Models",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2312.00232",
+          "author": null,
+          "description": "Alexander M\\\"ollers, Alexander Immer, Elvin Isufi, Vincent Fortuin",
+          "link": "http://arxiv.org/abs/2312.00232",
+          "publishedOn": "2023-12-04T04:18:49.198Z",
+          "wordCount": 593,
+          "title": "Uncertainty in Graph Contrastive Learning with Bayesian Neural Networks",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2304.06767",
+          "author": null,
+          "description": "Hanze Dong, Wei Xiong, Deepanshu Goyal, Yihan Zhang, Winnie Chow, Rui\n  Pan, Shizhe Diao, Jipeng Zhang, Kashun Shum, Tong Zhang",
+          "link": "http://arxiv.org/abs/2304.06767",
+          "publishedOn": "2023-12-04T04:18:49.168Z",
+          "wordCount": 775,
+          "title": "RAFT: Reward rAnked FineTuning for Generative Foundation Model Alignment",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
           "id": "http://arxiv.org/abs/2311.18672",
           "author": null,
           "description": "Roy T. Forestano, Mar\\c{c}al Comajoan Cara, Gopal Ramesh Dahale,\n  Zhongtian Dong, Sergei Gleyzer, Daniel Justice, Kyoungchul Kong, Tom\n  Magorsch, Konstantin T. Matchev, Katia Matcheva, Eyup B. Unlu",
@@ -2635,16 +2665,6 @@
           "publishedOn": "2023-11-05T15:10:03.000Z",
           "wordCount": 2508,
           "title": "Really weird sinographs, part 4:  hyena",
-          "imageUrl": null
-        },
-        {
-          "id": "https://languagelog.ldc.upenn.edu/nll/?p=61154",
-          "author": "Victor Mair",
-          "description": "Sign on a truck in Hong Kong: It says: Lún lún lún輪倫侖lit. \"wheel — Lon(don) / kinship / relationship / logic / order / match / peer — (Kun)lun / [alternate form of the previous character, hence having its sound and all of its meanings]\" lún 輪 is the Chinese glyph / word for \"wheel\". […]",
-          "link": "https://languagelog.ldc.upenn.edu/nll/?p=61154&utm_source=rss&utm_medium=rss&utm_campaign=got-wheels",
-          "publishedOn": "2023-11-04T16:17:44.000Z",
-          "wordCount": 2094,
-          "title": "Got wheels",
           "imageUrl": null
         }
       ]
