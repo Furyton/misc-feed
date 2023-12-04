@@ -2,10 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-12-04T18:19:43.622Z</updated>
+    <updated>2023-12-04T19:13:14.444Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Summary report optimization in the Privacy Sandbox Attribution Reporting API]]></title>
+        <id>http://blog.research.google/2023/12/summary-report-optimization-in-privacy.html</id>
+        <link href="http://blog.research.google/2023/12/summary-report-optimization-in-privacy.html"/>
+        <updated>2023-12-04T18:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Posted by Hidayet Aksu, Software Engineer, Google, and Adam Sealfon, Research Scientist, Google Research
+
+
+
+
+
+In recent years, the Privacy Sandbox initiative was launched to explore responsible ways for advertisers to measure the effectiveness of their campaigns, by aiming to deprecate third-party cookies (subject to resolving any competition concerns with the UK’s Competition and Markets Authority). Cookies are small pieces of data containing user preferences that websites store on a user’s device; they can be used to provide a better browsing experience (e.g., allowing users to automatically sign in) and to serve relevant content or ads. The Privacy Sandbox attempts to address concerns around the use of cookies for tracking browsing data across the web by providing a privacy-preserving a…]]></summary>
+        <author>
+            <name>Google AI Blog</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA["We Will Bury You"]]></title>
         <id>https://languagelog.ldc.upenn.edu/nll/?p=61527</id>

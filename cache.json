@@ -2014,6 +2014,16 @@
       "siteUrl": "http://blog.research.google/",
       "articles": [
         {
+          "id": "http://blog.research.google/2023/12/summary-report-optimization-in-privacy.html",
+          "author": null,
+          "description": "Posted by Hidayet Aksu, Software Engineer, Google, and Adam Sealfon, Research Scientist, Google Research\n\n\n\n\n\nIn recent years, the Privacy Sandbox initiative was launched to explore responsible ways for advertisers to measure the effectiveness of their campaigns, by aiming to deprecate third-party cookies (subject to resolving any competition concerns with the UK’s Competition and Markets Authority). Cookies are small pieces of data containing user preferences that websites store on a user’s device; they can be used to provide a better browsing experience (e.g., allowing users to automatically sign in) and to serve relevant content or ads. The Privacy Sandbox attempts to address concerns around the use of cookies for tracking browsing data across the web by providing a privacy-preserving a…",
+          "link": "http://blog.research.google/2023/12/summary-report-optimization-in-privacy.html",
+          "publishedOn": "2023-12-04T18:00:00.000Z",
+          "wordCount": 27837,
+          "title": "Summary report optimization in the Privacy Sandbox Attribution Reporting API",
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiFxpfW7ZN6OUw0lsK3lruiscqMgB3Jt8aBViPGNvHA0MzUPSFp6TRDOPdqSfO4A_0QgpWQo5mT0Vdplv5uBFQmdSePT1LPlwN-hLJ1TP-SHwmIMXYfoNL9CxBw11ABp89ril2o6lDJcT8MCJQ6HwU13vmN6CqnCnNwSpH9d4lgO_CISNxVqKCYSyT_SiwN/w1200-h630-p-k-no-nu/hero.jpg"
+        },
+        {
           "id": "http://blog.research.google/2023/12/unsupervised-speech-to-speech.html",
           "author": null,
           "description": "Posted by Eliya Nachmani, Research Scientist, and Michelle Tadmor Ramanovich, Software Engineer, Google Research\n\n\n\n\n\n\nSpeech-to-speech translation (S2ST) is a type of machine translation that converts spoken language from one language to another. This technology has the potential to break down language barriers and facilitate communication between people from different cultures and backgrounds. \n\n\n\n\nPreviously, we introduced Translatotron 1 and Translatotron 2, the first ever models that were able to directly translate speech between two languages. However they were trained in supervised settings with parallel speech data. The scarcity of parallel speech data is a major challenge in this field, so much that most public datasets are semi- or fully-synthesized from text. This adds additiona…",
