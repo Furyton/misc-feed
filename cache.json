@@ -2034,6 +2034,16 @@
       "siteUrl": "http://blog.research.google/",
       "articles": [
         {
+          "id": "http://blog.research.google/2023/12/a-new-quantum-algorithm-for-classical.html",
+          "author": null,
+          "description": "Posted by Robin Kothari and Rolando Somma, Research Scientists, Google Research, Quantum AI Team\n\n\n\n\nQuantum computers promise to solve some problems exponentially faster than classical computers, but there are only a handful of examples with such a dramatic speedup, such as Shor’s factoring algorithm and quantum simulation. Of those few examples, the majority of them involve simulating physical systems that are inherently quantum mechanical — a natural application for quantum computers. But what about simulating systems that are not inherently quantum? Can quantum computers offer an exponential advantage for this?\n\n \n\nIn “Exponential quantum speedup in simulating coupled classical oscillators”, published in Physical Review X (PRX) and presented at the Symposium on Foundations of Computer …",
+          "link": "http://blog.research.google/2023/12/a-new-quantum-algorithm-for-classical.html",
+          "publishedOn": "2023-12-04T22:41:00.000Z",
+          "wordCount": 27979,
+          "title": "A new quantum algorithm for classical mechanics with an exponential speedup",
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhFB1yk-wkwGzjxoAmN6xdTY1qut_K7Aad1WNMlW-z7O02NTE4nQL1kJheHNEbJxACsUlmu4HEmk8uXnPkeO9Jf_T3WE5qPgJZgJcbmXbf06nTiL3MRO-ull3C6SWsxVVzIsyK-ZojzHoP1e_elh4im6LHDblGgiviZrUPlOIy92QMVIF87_j5y83WMLn49/w1200-h630-p-k-no-nu/glued-trees.jpg"
+        },
+        {
           "id": "http://blog.research.google/2023/12/summary-report-optimization-in-privacy.html",
           "author": null,
           "description": "Posted by Hidayet Aksu, Software Engineer, Google, and Adam Sealfon, Research Scientist, Google Research\n\n\n\n\n\nIn recent years, the Privacy Sandbox initiative was launched to explore responsible ways for advertisers to measure the effectiveness of their campaigns, by aiming to deprecate third-party cookies (subject to resolving any competition concerns with the UK’s Competition and Markets Authority). Cookies are small pieces of data containing user preferences that websites store on a user’s device; they can be used to provide a better browsing experience (e.g., allowing users to automatically sign in) and to serve relevant content or ads. The Privacy Sandbox attempts to address concerns around the use of cookies for tracking browsing data across the web by providing a privacy-preserving a…",
@@ -2156,6 +2166,16 @@
       "feedUrl": "https://languagelog.ldc.upenn.edu/nll/?feed=rss2",
       "siteUrl": "https://languagelog.ldc.upenn.edu/nll",
       "articles": [
+        {
+          "id": "https://languagelog.ldc.upenn.edu/nll/?p=61559",
+          "author": "Victor Mair",
+          "description": "This is the theme of the forthcoming CCTV Spring Festival Gala to ring in the new year of 2024: (source) The slogan reads: lóngxíng dádá ，xīnxīnjiāguó 「龍行龘龘，欣欣家國」 \"The dragon(s) bound upward in flight, bringing joy to home and country.\" Since the repeated character is extremely rare, its pronunciation would be known to almost no one, so the […]",
+          "link": "https://languagelog.ldc.upenn.edu/nll/?p=61559&utm_source=rss&utm_medium=rss&utm_campaign=a-troop-troupe-of-dragons-tromping-flying",
+          "publishedOn": "2023-12-04T23:03:53.000Z",
+          "wordCount": 2314,
+          "title": "A (troop / troupe of) dragon(s) tromping / flying",
+          "imageUrl": null
+        },
         {
           "id": "https://languagelog.ldc.upenn.edu/nll/?p=61527",
           "author": "Victor Mair",
