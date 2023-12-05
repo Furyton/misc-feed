@@ -1602,16 +1602,6 @@
           "wordCount": 2174,
           "title": "PyTorch compile to speed up inference on Llama 2",
           "imageUrl": "https://pytorch.org/assets/images/pytorch-logo.png"
-        },
-        {
-          "id": "https://pytorch.org/blog/high-performance-llama-2/",
-          "author": null,
-          "description": "In a landscape where AI innovation is accelerating at an unprecedented pace, Meta’s Llama family of open sourced large language models (LLMs) stands out as a notable breakthrough. Llama marked a significant step forward for LLMs, demonstrating the power of pre-trained architectures for a wide range of applications. Llama 2 further pushed the boundaries of scale and capabilities, inspiring advancements in language understanding, generation, and beyond.",
-          "link": "https://pytorch.org/blog/high-performance-llama-2/",
-          "publishedOn": "2023-11-06T08:00:00.000Z",
-          "wordCount": 3978,
-          "title": "High-Performance Llama 2 Training and Inference with PyTorch/XLA on Cloud TPUs",
-          "imageUrl": "https://pytorch.org/assets/images/pytorch-logo.png"
         }
       ]
     },
