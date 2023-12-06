@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-12-05T23:16:03.630Z</updated>
+    <updated>2023-12-06T01:09:01.909Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[plan C]]></title>
+        <id>http://xianblog.wordpress.com/?p=54429</id>
+        <link href="https://xianblog.wordpress.com/2023/12/06/plan-c/"/>
+        <updated>2023-12-05T23:23:42.000Z</updated>
+        <summary type="html"><![CDATA[Visit the post for more.]]></summary>
+        <author>
+            <name>xi'an</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Snowflake Joins the PyTorch Foundation as a General Member]]></title>
         <id>https://pytorch.org/blog/snowflake-joins-pytorch/</id>
@@ -2705,16 +2715,6 @@ Increasing scale in Transformer networks has led to improved performance and the
         <summary type="html"><![CDATA[Visit the post for more.]]></summary>
         <author>
             <name>xi'an</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rectilinear rectitude]]></title>
-        <id>https://languagelog.ldc.upenn.edu/nll/?p=61173</id>
-        <link href="https://languagelog.ldc.upenn.edu/nll/?p=61173&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rectilinear-rectitude"/>
-        <updated>2023-11-06T12:48:34.000Z</updated>
-        <summary type="html"><![CDATA[An alternative name for M Hànzì / J Kanji / K Hanja / C hon3 zi6 漢字 ("sinoglyph; Chinese character") is fāngkuàizì 方塊字 ("square shaped character").  I learned that the very first year of my Chinese language studies more than half a century ago.  From kindergarten and elementary school on up, Chinese children learn to […]]]></summary>
-        <author>
-            <name>Victor Mair</name>
         </author>
     </entry>
 </feed>
