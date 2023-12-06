@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-12-06T21:13:52.559Z</updated>
+    <updated>2023-12-06T22:14:55.577Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Chinese buzzwords for 2023]]></title>
+        <id>https://languagelog.ldc.upenn.edu/nll/?p=61576</id>
+        <link href="https://languagelog.ldc.upenn.edu/nll/?p=61576&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=chinese-buzzwords-for-2023"/>
+        <updated>2023-12-06T21:20:10.000Z</updated>
+        <summary type="html"><![CDATA[The Shanghai language and linguistics journal (some say it's a literary journal — I think it's none of these three "l's", but more of a sociopolitical magazine), Yaowen Jiaozi*, announced China's hottest words of the year.   Leading the list is the amazing term "xīnzhì shēngchǎnlì 新质生产力" ("new quality productivity").  Naturally, it was coined by President […]]]></summary>
+        <author>
+            <name>Victor Mair</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Introducing Gemini: our largest and most capable AI model]]></title>
         <id>https://deepmind.google/discover/blog/introducing-gemini-our-largest-and-most-capable-ai-model/</id>
