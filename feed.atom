@@ -2,10 +2,55 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-12-06T03:16:10.685Z</updated>
+    <updated>2023-12-06T04:19:08.791Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[A Unified Theory of Diversity in Ensemble Learning]]></title>
+        <id>http://arxiv.org/abs/2301.03962</id>
+        <link href="http://arxiv.org/abs/2301.03962"/>
+        <updated>2023-12-06T04:19:08.767Z</updated>
+        <summary type="html"><![CDATA[Danny Wood, Tingting Mu, Andrew Webb, Henry Reeve, Mikel
+  Lujan, Gavin Brown]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Analyzing and Improving the Training Dynamics of Diffusion Models]]></title>
+        <id>http://arxiv.org/abs/2312.02696</id>
+        <link href="http://arxiv.org/abs/2312.02696"/>
+        <updated>2023-12-06T04:19:08.725Z</updated>
+        <summary type="html"><![CDATA[Tero Karras, Miika Aittala, Jaakko Lehtinen, Janne Hellsten, Timo
+  Aila, Samuli Laine]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MIMONets: Multiple-Input-Multiple-Output Neural Networks Exploiting
+  Computation in Superposition]]></title>
+        <id>http://arxiv.org/abs/2312.02829</id>
+        <link href="http://arxiv.org/abs/2312.02829"/>
+        <updated>2023-12-06T04:19:08.695Z</updated>
+        <summary type="html"><![CDATA[Nicolas Menet (1, 2), Michael Hersche (1, 2), Geethan
+  Karunaratne (1), Luca Benini (2), Abu Sebastian (1), Abbas Rahimi (1) ((1)
+  IBM Research - Zurich, (2) ETH Zurich)]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Expressive Sign Equivariant Networks for Spectral Geometric Learning]]></title>
+        <id>http://arxiv.org/abs/2312.02339</id>
+        <link href="http://arxiv.org/abs/2312.02339"/>
+        <updated>2023-12-06T04:19:08.657Z</updated>
+        <summary type="html"><![CDATA[Derek Lim, Joshua Robinson, Stefanie Jegelka, Haggai Maron]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Prompt Injections into ChatGPT]]></title>
         <id>https://languagelog.ldc.upenn.edu/nll/?p=61564</id>
@@ -14,6 +59,26 @@
         <summary type="html"><![CDATA[That title — which was given to me by a colleague who also provided most of the text of this post — probably doesn't mean much to most readers of Language Log.  It certainly didn't indicate anything specific to me, and "prompt" here doesn't imply the idea of "in a timely fashion", nor does "injection" […]]]></summary>
         <author>
             <name>Victor Mair</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google at EMNLP 2023]]></title>
+        <id>http://blog.research.google/2023/12/google-at-emnlp-2023.html</id>
+        <link href="http://blog.research.google/2023/12/google-at-emnlp-2023.html"/>
+        <updated>2023-12-06T01:32:00.000Z</updated>
+        <summary type="html"><![CDATA[Posted by Malaya Jules, Program Manager, Google
+
+
+
+
+
+Google is proud to be a Diamond Sponsor of Empirical Methods in Natural Language Processing (EMNLP 2023), a premier annual conference, which is being held this week in Sentosa, Singapore. Google has a strong presence at this year’s conference with over 65 accepted papers and active involvement in 11 workshops and tutorials. Google is also happy to be a Major Sponsor for the Widening NLP workshop (WiNLP), which aims to highlight global representations of people, perspectives, and cultures in AI and ML. We look forward to sharing some of our extensive NLP research and expanding our partnership with the broader research community.
+
+
+
+We hope you’ll visit the Google booth to chat with researchers who are actively pursuing the latest innovati…]]></summary>
+        <author>
+            <name>Google AI Blog</name>
         </author>
     </entry>
     <entry>

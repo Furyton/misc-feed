@@ -6,6 +6,46 @@
       "siteUrl": "https://www.arxivist.com",
       "articles": [
         {
+          "id": "http://arxiv.org/abs/2301.03962",
+          "author": null,
+          "description": "Danny Wood, Tingting Mu, Andrew Webb, Henry Reeve, Mikel\n  Lujan, Gavin Brown",
+          "link": "http://arxiv.org/abs/2301.03962",
+          "publishedOn": "2023-12-06T04:19:08.767Z",
+          "wordCount": 693,
+          "title": "A Unified Theory of Diversity in Ensemble Learning",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2312.02696",
+          "author": null,
+          "description": "Tero Karras, Miika Aittala, Jaakko Lehtinen, Janne Hellsten, Timo\n  Aila, Samuli Laine",
+          "link": "http://arxiv.org/abs/2312.02696",
+          "publishedOn": "2023-12-06T04:19:08.725Z",
+          "wordCount": 694,
+          "title": "Analyzing and Improving the Training Dynamics of Diffusion Models",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2312.02829",
+          "author": null,
+          "description": "Nicolas Menet (1, 2), Michael Hersche (1, 2), Geethan\n  Karunaratne (1), Luca Benini (2), Abu Sebastian (1), Abbas Rahimi (1) ((1)\n  IBM Research - Zurich, (2) ETH Zurich)",
+          "link": "http://arxiv.org/abs/2312.02829",
+          "publishedOn": "2023-12-06T04:19:08.695Z",
+          "wordCount": 785,
+          "title": "MIMONets: Multiple-Input-Multiple-Output Neural Networks Exploiting\n  Computation in Superposition",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2312.02339",
+          "author": null,
+          "description": "Derek Lim, Joshua Robinson, Stefanie Jegelka, Haggai Maron",
+          "link": "http://arxiv.org/abs/2312.02339",
+          "publishedOn": "2023-12-06T04:19:08.657Z",
+          "wordCount": 656,
+          "title": "Expressive Sign Equivariant Networks for Spectral Geometric Learning",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
           "id": "http://arxiv.org/abs/2312.01238",
           "author": null,
           "description": "Sarthak Jain, Sandra E. Safo",
@@ -2033,6 +2073,16 @@
       "feedUrl": "http://feeds.feedburner.com/blogspot/gJZg",
       "siteUrl": "http://blog.research.google/",
       "articles": [
+        {
+          "id": "http://blog.research.google/2023/12/google-at-emnlp-2023.html",
+          "author": null,
+          "description": "Posted by Malaya Jules, Program Manager, Google\n\n\n\n\n\nGoogle is proud to be a Diamond Sponsor of Empirical Methods in Natural Language Processing (EMNLP 2023), a premier annual conference, which is being held this week in Sentosa, Singapore. Google has a strong presence at this year’s conference with over 65 accepted papers and active involvement in 11 workshops and tutorials. Google is also happy to be a Major Sponsor for the Widening NLP workshop (WiNLP), which aims to highlight global representations of people, perspectives, and cultures in AI and ML. We look forward to sharing some of our extensive NLP research and expanding our partnership with the broader research community.\n\n\n\nWe hope you’ll visit the Google booth to chat with researchers who are actively pursuing the latest innovati…",
+          "link": "http://blog.research.google/2023/12/google-at-emnlp-2023.html",
+          "publishedOn": "2023-12-06T01:32:00.000Z",
+          "wordCount": 28810,
+          "title": "Google at EMNLP 2023",
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi63HbbcxUJqps2nNQBmiEoOpsCkh24PH9YXd_Z7VSQ5f00T_shhNlDZ03_dPNw4ge8XALlXyvIfFMmNvWzWMzHWUs80ZVGz_O9dm-bz9p0dnl4bfXPuk34a-lXfU2IKReWUkshFPQFVpL4L6IOreL2Z7RnEUTm-iEKM2XAjj9PdyVXjwGNLi7CK4JhMxnV/w1200-h630-p-k-no-nu/EMNLP%202023.png"
+        },
         {
           "id": "http://blog.research.google/2023/12/a-new-quantum-algorithm-for-classical.html",
           "author": null,
