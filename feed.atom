@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-12-06T14:14:59.933Z</updated>
+    <updated>2023-12-06T15:17:10.735Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Introducing Gemini: our largest and most capable AI model]]></title>
+        <id>https://deepmind.google/discover/blog/introducing-gemini-our-largest-and-most-capable-ai-model/</id>
+        <link href="https://deepmind.google/discover/blog/introducing-gemini-our-largest-and-most-capable-ai-model/"/>
+        <updated>2023-12-06T15:13:09.000Z</updated>
+        <summary type="html"><![CDATA[Making AI more helpful for everyone.]]></summary>
+        <author>
+            <name>Google DeepMind Blog</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[A Unified Theory of Diversity in Ensemble Learning]]></title>
         <id>http://arxiv.org/abs/2301.03962</id>

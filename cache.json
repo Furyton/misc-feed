@@ -1474,6 +1474,16 @@
       "siteUrl": "https://deepmind.google/discover/blog/",
       "articles": [
         {
+          "id": "https://deepmind.google/discover/blog/introducing-gemini-our-largest-and-most-capable-ai-model/",
+          "author": null,
+          "description": "Making AI more helpful for everyone.",
+          "link": "https://deepmind.google/discover/blog/introducing-gemini-our-largest-and-most-capable-ai-model/",
+          "publishedOn": "2023-12-06T15:13:09.000Z",
+          "wordCount": 3670,
+          "title": "Introducing Gemini: our largest and most capable AI model",
+          "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/final_open_graph_1.width-1300.png"
+        },
+        {
           "id": "https://deepmind.google/discover/blog/millions-of-new-materials-discovered-with-deep-learning/",
           "author": null,
           "description": "We share the discovery of 2.2 million new crystals  –  equivalent to nearly 800 years’ worth of knowledge. We introduce Graph Networks for Materials Exploration (GNoME), our new deep learning tool that dramatically increases the speed and efficiency of discovery by predicting the stability of new materials.",
