@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-12-06T19:12:34.730Z</updated>
+    <updated>2023-12-06T20:16:57.884Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -2727,16 +2727,6 @@ Increasing scale in Transformer networks has led to improved performance and the
         <summary type="html"><![CDATA[[This is a guest post by David Moser] Just when you thought CCP propaganda couldn’t get more absurd, China Central Television (CCTV) has aired a short TV series in which Confucius and Karl Marx actually meet up for comradely chat about ideology. In typical fantasy time-travel style, Marx simply appears miraculously at the Yuelu Academy […]]]></summary>
         <author>
             <name>Victor Mair</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PyTorch compile to speed up inference on Llama 2]]></title>
-        <id>https://pytorch.org/blog/pytorch-compile-to-speed-up-inference/</id>
-        <link href="https://pytorch.org/blog/pytorch-compile-to-speed-up-inference/"/>
-        <updated>2023-11-07T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In this blog, we discuss how to improve the inference latencies of the Llama 2 family of models using PyTorch native optimizations such as native fast kernels, compile transformations from torch compile, and tensor parallel for distributed inference. Our approach results in 29ms/token latency for single user requests on the 70B LLaMa model (as measured on 8 A100 GPUs). We are excited to share our findings with the community and make our code available here.]]></summary>
-        <author>
-            <name>PyTorch Website</name>
         </author>
     </entry>
 </feed>
