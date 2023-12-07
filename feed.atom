@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-12-07T16:21:14.664Z</updated>
+    <updated>2023-12-07T17:14:10.580Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -2707,62 +2707,6 @@ Abstract:TBD]]></summary>
         <summary type="html"><![CDATA[One of the greatest hits of this blog was Elchanan Mossel’s dice problem, asked here and answered here. Here is how chatGPT (the free version) handles the problem. You throw a die until you get 6. What is the expected … Continue reading →]]></summary>
         <author>
             <name>Gil Kalai</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Comparing Causal Frameworks: Potential Outcomes, Structural Models,
-  Graphs, and Abstractions]]></title>
-        <id>http://arxiv.org/abs/2306.14351</id>
-        <link href="http://arxiv.org/abs/2306.14351"/>
-        <updated>2023-11-08T04:17:34.898Z</updated>
-        <summary type="html"><![CDATA[Duligur Ibeling, Thomas Icard]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dynamics of Finite Width Kernel and Prediction Fluctuations in Mean
-  Field Neural Networks]]></title>
-        <id>http://arxiv.org/abs/2304.03408</id>
-        <link href="http://arxiv.org/abs/2304.03408"/>
-        <updated>2023-11-08T04:17:34.894Z</updated>
-        <summary type="html"><![CDATA[Blake Bordelon, Cengiz Pehlevan]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Linear Representation Hypothesis and the Geometry of Large Language
-  Models]]></title>
-        <id>http://arxiv.org/abs/2311.03658</id>
-        <link href="http://arxiv.org/abs/2311.03658"/>
-        <updated>2023-11-08T04:17:34.801Z</updated>
-        <summary type="html"><![CDATA[Kiho Park, Yo Joong Choe, Victor Veitch]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Optimizing Solution-Samplers for Combinatorial Problems: The Landscape
-  of Policy-Gradient Methods]]></title>
-        <id>http://arxiv.org/abs/2310.05309</id>
-        <link href="http://arxiv.org/abs/2310.05309"/>
-        <updated>2023-11-08T04:17:34.792Z</updated>
-        <summary type="html"><![CDATA[Constantine Caramanis, Dimitris Fotakis, Alkis Kalavasis, Vasilis
-  Kontonis, Christos Tzamos]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Outliers with Opposing Signals Have an Outsized Effect on Neural Network
-  Optimization]]></title>
-        <id>http://arxiv.org/abs/2311.04163</id>
-        <link href="http://arxiv.org/abs/2311.04163"/>
-        <updated>2023-11-08T04:17:34.785Z</updated>
-        <summary type="html"><![CDATA[Elan Rosenfeld, Andrej Risteski]]></summary>
-        <author>
-            <name>arxivist feed</name>
         </author>
     </entry>
 </feed>
