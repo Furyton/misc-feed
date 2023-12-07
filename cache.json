@@ -1240,6 +1240,16 @@
       "siteUrl": "https://kexue.fm/",
       "articles": [
         {
+          "id": "https://kexue.fm/archives/9881",
+          "author": "苏剑林",
+          "description": "在生成扩散模型的发展史上，DDIM和同期Song Yang的扩散SDE都称得上是里程碑式的工作，因为它们建立起了扩散模型与随机微分方程（SDE）、常微分方程（ODE）这两个数学领域的紧密联系，从...",
+          "link": "https://kexue.fm/archives/9881",
+          "publishedOn": "2023-12-07T09:55:00.000Z",
+          "wordCount": 1644,
+          "title": "生成扩散模型漫谈（二十一）：中值定理加速ODE采样",
+          "imageUrl": null
+        },
+        {
           "id": "https://kexue.fm/archives/9862",
           "author": "苏剑林",
           "description": "前些天我们在《VQ一下Key，Transformer的复杂度就变成线性了》介绍了“Transformer-VQ”，这是通过将Key序列做VQ（Vector Quantize）变换来实现Atten...",
