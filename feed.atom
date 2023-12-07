@@ -2,10 +2,27 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-12-07T18:19:42.171Z</updated>
+    <updated>2023-12-07T19:12:54.946Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[VALID: A perceptually validated virtual avatar library for inclusion and diversity]]></title>
+        <id>http://blog.research.google/2023/12/valid-perceptually-validated-virtual.html</id>
+        <link href="http://blog.research.google/2023/12/valid-perceptually-validated-virtual.html"/>
+        <updated>2023-12-07T17:51:00.000Z</updated>
+        <summary type="html"><![CDATA[Posted by Mar Gonzalez-Franco, Research Scientist, Google AR & VR
+
+
+In the last decade, interdisciplinary scientists have dedicated a significant amount of effort to better understand the use of avatars, and have made many interesting observations, including the capacity of the users to embody their avatar (i.e., the illusion that the avatar body is their own) and the self-avatar follower effect, which creates a binding between the actions of the avatar and the user strong enough that the avatar can actually affect user behavior. 
+
+
+
+The use of avatars in experiments isn’t just about how users will interact and behave in VR spaces, but also about discovering the limits of human perception and neuroscience. In fact, some VR social experiments often rely on recreating scenarios that can’t be…]]></summary>
+        <author>
+            <name>Google AI Blog</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[生成扩散模型漫谈（二十一）：中值定理加速ODE采样]]></title>
         <id>https://kexue.fm/archives/9881</id>
