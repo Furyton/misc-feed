@@ -2182,16 +2182,6 @@
           "wordCount": 28278,
           "title": "Overcoming leakage on error-corrected quantum processors",
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEidYny_9v0IyOBy7QbYVgwS5FAHzgHhVUt5FQvjXhi6WWJHyIIal3awBfaXNu9l3g47HElKNkFNf6XfpU7a_9ExGLlKFgOWvUOaT0PLhEoCfofJrazqT2IL1fBMtZMwfGJSnrpBrQZwQkYJOV6iMOmhWBWIH5OCPcsEPkgw-LuiPDBoLYToGGIN3Hjfpmwr/w1200-h630-p-k-no-nu/Quantum%20leakage.jpg"
-        },
-        {
-          "id": "http://blog.research.google/2023/11/alternating-updates-for-efficient.html",
-          "author": null,
-          "description": "Posted by Xin Wang, Software Engineer, and Nishanth Dikkala, Research Scientist, Google Research\n\n\n\n\nContemporary deep learning models have been remarkably successful in many domains, ranging from natural language to computer vision. Transformer neural networks (transformers) are a popular deep learning architecture that today comprise the foundation for most tasks in natural language processing and also are starting to extend to applications in other domains, such as computer vision, robotics, and autonomous driving. Moreover, they form the backbone of all the current state-of-the-art language models.\n \n\nIncreasing scale in Transformer networks has led to improved performance and the emergence of behavior not present in smaller networks. However, this increase in scale often comes with pr…",
-          "link": "http://blog.research.google/2023/11/alternating-updates-for-efficient.html",
-          "publishedOn": "2023-11-07T20:34:00.003Z",
-          "wordCount": 27982,
-          "title": "Alternating updates for efficient transformers",
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg68VOGvAuGk6w6db-De6SNc2OstzYrfUaCY4c03VVn_hAVb-wVsqk5zy07izav41UP3ZpurAn5kUs5QAJSzMU7Y_4en5TInN_0DA6iC8rUqAO0qmnwZXWll7yZyWvL_1HndCAtk7USVEyNxrXezwlmWDfrtQsEsQhnfjNkYvkoK5QiSIXESnXcxGvTOeKk/w1200-h630-p-k-no-nu/altup.png"
         }
       ]
     },
