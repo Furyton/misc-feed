@@ -1953,6 +1953,16 @@
       "siteUrl": "http://blog.research.google/",
       "articles": [
         {
+          "id": "http://blog.research.google/2023/12/sparsity-preserving-differentially.html",
+          "author": null,
+          "description": "Posted by Yangsibo Huang, Research Intern, Google Research; Chiyuan Zhang, Research Scientist, Google Research\n\n\n\n\n\nLarge embedding models have emerged as a fundamental tool for various applications in recommendation systems [1, 2] and natural language processing [3, 4, 5]. Such models enable the integration of non-numerical data into deep learning models by mapping categorical or string-valued input attributes with large vocabularies to fixed-length representation vectors using embedding layers. These models are widely deployed in personalized recommendation systems and achieve state-of-the-art performance in language tasks, such as  language modeling, sentiment analysis, and question answering. In many such scenarios, privacy is an equally important feature when deploying those models. A…",
+          "link": "http://blog.research.google/2023/12/sparsity-preserving-differentially.html",
+          "publishedOn": "2023-12-08T18:34:00.000Z",
+          "wordCount": 27887,
+          "title": "Sparsity-preserving differentially private training",
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjBm5u6Sg9vPlH8YH8q9cA1g_3nkf1tXzB6qNqZTSbpB38DQERn-pOicng-98oTsQNtza5De5ohjQV4t43a4BhICFwU7EqAs9AZI6aMHlKflVfj6s9DRSn7bkjUvW-Uq1zCtziKPi2Li3KutFXGJtENqw-HEkAa0p8r1tJgoq48PDqd7FePR3ipWWj2Iz0B/w1200-h630-p-k-no-nu/Sparse%20DP-SGD.png"
+        },
+        {
           "id": "http://blog.research.google/2023/12/valid-perceptually-validated-virtual.html",
           "author": null,
           "description": "Posted by Mar Gonzalez-Franco, Research Scientist, Google AR & VR\n\n\nIn the last decade, interdisciplinary scientists have dedicated a significant amount of effort to better understand the use of avatars, and have made many interesting observations, including the capacity of the users to embody their avatar (i.e., the illusion that the avatar body is their own) and the self-avatar follower effect, which creates a binding between the actions of the avatar and the user strong enough that the avatar can actually affect user behavior. \n\n\n\nThe use of avatars in experiments isn’t just about how users will interact and behave in VR spaces, but also about discovering the limits of human perception and neuroscience. In fact, some VR social experiments often rely on recreating scenarios that can’t be…",
