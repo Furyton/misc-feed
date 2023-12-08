@@ -1297,58 +1297,7 @@
       "title": "Statistics » Event Diary",
       "feedUrl": "https://warwick.ac.uk/sitebuilder2/api/rss/news.rss?page=/fac/sci/statistics/event_diary/&tag=CRiSM%20seminars&rss=true&view=upcoming",
       "siteUrl": "https://warwick.ac.uk/fac/sci/statistics/event_diary/",
-      "articles": [
-        {
-          "id": "8a17841b8adb7895018adfd6ce0c4ad1",
-          "author": "Statistics",
-          "description": "When:\r\n\t\r\n  \t\t13:00\r\n\t\t-\r\n\t\t14:00, Mon, 20 Nov '23\r\n\r\n\t\nWhere: Stats Common Room\n\r\n\t\nAbstract: Graphical models are now widely used to express underlying mechanisms which drive and explain how such mechanisms work. In particular Bayesian Networks and more recently Chain Event Graphs have been used to produce probabilistic predictive models of processes. Such graphs are chosen to be consistent with elicited natural explanations of how and why things happen the way they do in a given domain. Causal algebras are then specified which use this elicited information to determine predictions of what might happen were the system be subjected to various controls.\n\r\nBut how could we extend this work so that it might apply to produce predictive models of what might happen when the decision maker believes that his controls might be resisted? In this talk I will argue that standard causal models then need to be generalised to embed a decision maker's beliefs of the intent capability and the information a resistant adversary might have about the intervention after it has been made. After reviewing recent advances in general forms of Bayesian dynamic causal models I will describe how - using a special form of Adversarial Risk Analysis - we are developing new intelligent algorithms to produce such predictions. The talk will be illustrated throughout by examples of various adversarial threats currently being analysed within the UK.",
-          "link": "https://warwick.ac.uk/fac/sci/statistics/event_diary/?calendarItem=8a17841b8adb7895018adfd6ce0b4ad0",
-          "publishedOn": "2023-11-09T00:23:09.000Z",
-          "wordCount": 538,
-          "title": "20/11 1pm-2pm: Statistics Seminar - Graphical Models of Intelligent Cause",
-          "imageUrl": null
-        },
-        {
-          "id": "8a17841b8ba96181018bb1757be51f94",
-          "author": "Statistics",
-          "description": "When:\r\n\t\r\n  \t\t13:00\r\n\t\t-\r\n\t\t14:00, Mon, 19 Feb '24\r\n\r\n\t\nWhere: Stats Common Room\n\r\n\t\nAbstract: TBD",
-          "link": "https://warwick.ac.uk/fac/sci/statistics/event_diary/?calendarItem=8a1785d88adb7b44018adfff90924f46",
-          "publishedOn": "2023-11-09T00:22:28.000Z",
-          "wordCount": 321,
-          "title": "19/02 1pm-2pm: Statistics Seminar - TBD",
-          "imageUrl": null
-        },
-        {
-          "id": "8a1785d88ba96480018bb1744fff6836",
-          "author": "Statistics",
-          "description": "When:\r\n\t\r\n  \t\t13:00\r\n\t\t-\r\n\t\t14:00, Mon, 22 Jan '24\r\n\r\n\t\nWhere: Stats Common Room\n\r\n\t\nAbstract: TBD",
-          "link": "https://warwick.ac.uk/fac/sci/statistics/event_diary/?calendarItem=8a1785d78adb7884018adffec409135c",
-          "publishedOn": "2023-11-09T00:21:11.000Z",
-          "wordCount": 321,
-          "title": "22/01 1pm-2pm: Stats Seminar - TBD",
-          "imageUrl": null
-        },
-        {
-          "id": "8a17841a8ba96485018bb17348124fdf",
-          "author": "Statistics",
-          "description": "When:\r\n\t\r\n  \t\t13:00\r\n\t\t-\r\n\t\t14:00, Mon, 08 Jan '24\r\n\r\n\t\nWhere: Statistics common room\n\r\n\t\nAbstract: TBD",
-          "link": "https://warwick.ac.uk/fac/sci/statistics/event_diary/?calendarItem=8a17841a8ba96485018bb171545c4fdc",
-          "publishedOn": "2023-11-09T00:20:04.000Z",
-          "wordCount": 320,
-          "title": "08/01 1pm-2pm: Statistics Seminar - TBD",
-          "imageUrl": null
-        },
-        {
-          "id": "8a17841a8adb7b43018adfd7774d1148",
-          "author": "Statistics",
-          "description": "When:\r\n\t\r\n  \t\t13:00\r\n\t\t-\r\n\t\t14:00, Mon, 04 Dec '23\r\n\r\n\t\nWhere: Stats Common Room\n\r\n\t\nAbstract:TBD",
-          "link": "https://warwick.ac.uk/fac/sci/statistics/event_diary/?calendarItem=8a17841a8adb7b43018adfd7774d1147",
-          "publishedOn": "2023-11-09T00:16:38.000Z",
-          "wordCount": 320,
-          "title": "04/12 1pm-2pm: Statistics Seminar - TBD",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "arg min blog",
@@ -2023,16 +1972,6 @@
           "wordCount": 1948,
           "title": "Novemberly MCMC",
           "imageUrl": "https://xianblog.files.wordpress.com/2023/11/temp-1.png"
-        },
-        {
-          "id": "http://xianblog.wordpress.com/?p=54107",
-          "author": "xi'an",
-          "description": "Visit the post for more.",
-          "link": "https://xianblog.wordpress.com/2023/11/09/francescoverdose-jorge-does-massilia/",
-          "publishedOn": "2023-11-08T23:23:51.000Z",
-          "wordCount": 1866,
-          "title": "francescoverdose [Jorge does Massilia]",
-          "imageUrl": "https://images.laprovence.com/media/2023/09/23/_R7A7637-min.JPG"
         }
       ]
     },
