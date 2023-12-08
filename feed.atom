@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-12-08T14:14:32.165Z</updated>
+    <updated>2023-12-08T15:16:36.283Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Google DeepMind at NeurIPS 2023]]></title>
+        <id>https://deepmind.google/discover/blog/google-deepmind-at-neurips-2023/</id>
+        <link href="https://deepmind.google/discover/blog/google-deepmind-at-neurips-2023/"/>
+        <updated>2023-12-08T15:01:00.000Z</updated>
+        <summary type="html"><![CDATA[The Neural Information Processing Systems (NeurIPS) is the largest artificial intelligence (AI) conference in the world. NeurIPS 2023 will be taking place December 10-16 in New Orleans, USA.Teams from across Google DeepMind are presenting more than 150 papers at the main conference and workshops.]]></summary>
+        <author>
+            <name>Google DeepMind Blog</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Intelligent Anomaly Detection for Lane Rendering Using Transformer with
   Self-Supervised Pre-Training and Customized Fine-Tuning]]></title>
@@ -2605,58 +2615,6 @@ While we want qubits to behave as ideal two-level systems with no loss mechanism
         <summary type="html"><![CDATA[Efficient Transformer，泛指一切致力于降低Transformer的二次复杂度的工作，开始特指针对Attention的改进，后来更一般的思路，如傅立叶变换、线性RNN等，也被归...]]></summary>
         <author>
             <name>苏剑林</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Spectral Evolution and Invariance in Linear-width Neural Networks]]></title>
-        <id>http://arxiv.org/abs/2211.06506</id>
-        <link href="http://arxiv.org/abs/2211.06506"/>
-        <updated>2023-11-09T03:15:35.908Z</updated>
-        <summary type="html"><![CDATA[Zhichao Wang, Andrew Engel, Anand Sarwate, Ioana Dumitriu, Tony Chiang]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learning Linear Gaussian Polytree Models with Interventions]]></title>
-        <id>http://arxiv.org/abs/2311.04636</id>
-        <link href="http://arxiv.org/abs/2311.04636"/>
-        <updated>2023-11-09T03:15:35.846Z</updated>
-        <summary type="html"><![CDATA[D. Tramontano, L. Waldmann, M. Drton, E. Duarte]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Multi-Source Domain Adaptation through Dataset Dictionary Learning in
-  Wasserstein Space]]></title>
-        <id>http://arxiv.org/abs/2307.14953</id>
-        <link href="http://arxiv.org/abs/2307.14953"/>
-        <updated>2023-11-09T03:15:35.829Z</updated>
-        <summary type="html"><![CDATA[Eduardo Fernandes Montesuma, Fred Ngol\`e Mboula, Antoine Souloumiac]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Certified Data Removal from Machine Learning Models]]></title>
-        <id>http://arxiv.org/abs/1911.03030</id>
-        <link href="http://arxiv.org/abs/1911.03030"/>
-        <updated>2023-11-09T03:15:35.795Z</updated>
-        <summary type="html"><![CDATA[Chuan Guo, Tom Goldstein, Awni Hannun, Laurens van der Maaten]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Towards Few-Annotation Learning in Computer Vision: Application to Image
-  Classification and Object Detection tasks]]></title>
-        <id>http://arxiv.org/abs/2311.04888</id>
-        <link href="http://arxiv.org/abs/2311.04888"/>
-        <updated>2023-11-09T03:15:35.755Z</updated>
-        <summary type="html"><![CDATA[Quentin Bouniot]]></summary>
-        <author>
-            <name>arxivist feed</name>
         </author>
     </entry>
 </feed>

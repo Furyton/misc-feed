@@ -1114,56 +1114,6 @@
           "wordCount": 686,
           "title": "Meta-learning of semi-supervised learning from tasks with heterogeneous\n  attribute spaces",
           "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
-        },
-        {
-          "id": "http://arxiv.org/abs/2211.06506",
-          "author": null,
-          "description": "Zhichao Wang, Andrew Engel, Anand Sarwate, Ioana Dumitriu, Tony Chiang",
-          "link": "http://arxiv.org/abs/2211.06506",
-          "publishedOn": "2023-11-09T03:15:35.908Z",
-          "wordCount": 740,
-          "title": "Spectral Evolution and Invariance in Linear-width Neural Networks",
-          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
-        },
-        {
-          "id": "http://arxiv.org/abs/2311.04636",
-          "author": null,
-          "description": "D. Tramontano, L. Waldmann, M. Drton, E. Duarte",
-          "link": "http://arxiv.org/abs/2311.04636",
-          "publishedOn": "2023-11-09T03:15:35.846Z",
-          "wordCount": 657,
-          "title": "Learning Linear Gaussian Polytree Models with Interventions",
-          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
-        },
-        {
-          "id": "http://arxiv.org/abs/2307.14953",
-          "author": null,
-          "description": "Eduardo Fernandes Montesuma, Fred Ngol\\`e Mboula, Antoine Souloumiac",
-          "link": "http://arxiv.org/abs/2307.14953",
-          "publishedOn": "2023-11-09T03:15:35.829Z",
-          "wordCount": 749,
-          "title": "Multi-Source Domain Adaptation through Dataset Dictionary Learning in\n  Wasserstein Space",
-          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
-        },
-        {
-          "id": "http://arxiv.org/abs/1911.03030",
-          "author": null,
-          "description": "Chuan Guo, Tom Goldstein, Awni Hannun, Laurens van der Maaten",
-          "link": "http://arxiv.org/abs/1911.03030",
-          "publishedOn": "2023-11-09T03:15:35.795Z",
-          "wordCount": 682,
-          "title": "Certified Data Removal from Machine Learning Models",
-          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
-        },
-        {
-          "id": "http://arxiv.org/abs/2311.04888",
-          "author": null,
-          "description": "Quentin Bouniot",
-          "link": "http://arxiv.org/abs/2311.04888",
-          "publishedOn": "2023-11-09T03:15:35.755Z",
-          "wordCount": 658,
-          "title": "Towards Few-Annotation Learning in Computer Vision: Application to Image\n  Classification and Object Detection tasks",
-          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
         }
       ]
     },
@@ -1412,6 +1362,16 @@
       "feedUrl": "https://deepmind.com/blog/feed/basic/",
       "siteUrl": "https://deepmind.google/discover/blog/",
       "articles": [
+        {
+          "id": "https://deepmind.google/discover/blog/google-deepmind-at-neurips-2023/",
+          "author": null,
+          "description": "The Neural Information Processing Systems (NeurIPS) is the largest artificial intelligence (AI) conference in the world. NeurIPS 2023 will be taking place December 10-16 in New Orleans, USA.Teams from across Google DeepMind are presenting more than 150 papers at the main conference and workshops.",
+          "link": "https://deepmind.google/discover/blog/google-deepmind-at-neurips-2023/",
+          "publishedOn": "2023-12-08T15:01:00.000Z",
+          "wordCount": 1027,
+          "title": "Google DeepMind at NeurIPS 2023",
+          "imageUrl": "https://lh3.googleusercontent.com/MDme_Q62zVqvTUs5uwaI3Ggy2rWIujPt2elkusnUuCA4wEo79V9mabIg66j9cr9zMso-LObOVcj6_ZnrgSMUKn6fl52kxOUEjcigXtDZ2UMuosX3-2s=w1200-h630-n-nu"
+        },
         {
           "id": "https://deepmind.google/discover/blog/introducing-gemini-our-largest-and-most-capable-ai-model/",
           "author": null,
