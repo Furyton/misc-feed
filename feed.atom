@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-12-09T07:13:13.947Z</updated>
+    <updated>2023-12-09T08:17:54.246Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -2620,25 +2620,6 @@ Today, we describe the setup that we developed by expan…]]></summary>
 
 
 Artificial intelligence (AI) and related machine learning (ML) technologies are increasingly influential in the world around us, making it imperative that we consider the potential impacts on society and individuals in all aspects of the technology that we create. To these ends, the Context in AI Research (CAIR) team develops novel AI methods in the context of the entire AI pipeline: from data to end-user feedback. The pipeline for building an AI system typically starts with data collection, followed by designing a model to run on that data, deployment of the model in the real world, and lastly, compiling and incorporation of human feedback. Originating in the health space, and now expanded to a…]]></summary>
-        <author>
-            <name>Google AI Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Overcoming leakage on error-corrected quantum processors]]></title>
-        <id>http://blog.research.google/2023/11/overcoming-leakage-on-error-corrected.html</id>
-        <link href="http://blog.research.google/2023/11/overcoming-leakage-on-error-corrected.html"/>
-        <updated>2023-11-09T19:20:00.001Z</updated>
-        <summary type="html"><![CDATA[Posted by Kevin Miao and Matt McEwen, Research Scientists, Quantum AI Team
-
-
-
-
-The qubits that make up Google quantum devices are delicate and noisy, so it’s necessary to incorporate error correction procedures that identify and account for qubit errors on the way to building a useful quantum computer. Two of the most prevalent error mechanisms are bit-flip errors (where the energy state of the qubit changes) and phase-flip errors (where the phase of the encoded quantum information changes). Quantum error correction (QEC) promises to address and mitigate these two prominent errors. However, there is an assortment of other error mechanisms that challenges the effectiveness of QEC.
-
-
-
-While we want qubits to behave as ideal two-level systems with no loss mechanisms, this is not the case in r…]]></summary>
         <author>
             <name>Google AI Blog</name>
         </author>

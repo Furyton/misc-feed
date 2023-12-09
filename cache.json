@@ -2081,16 +2081,6 @@
           "wordCount": 27962,
           "title": "Responsible AI at Google Research: Context in AI Research (CAIR)",
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjN3mIK7184k0E4B4Pddafelrcf4yEqd1wTOxyK5LZlxKL8dFWwbEyATjS0Zbj8HBdAnIXQ40fVedg4O5oUi5_fVvOvKRQWhgIX05olZkb9YakVdRLXus3b9Pzze5oHu32X0VUpoykEvGwbZk9W2lEIJ8jUMlgzyML0yFFsyBbpbAUZgBk6TSli7bRaNQRs/w1200-h630-p-k-no-nu/CAIR-hero.jpg"
-        },
-        {
-          "id": "http://blog.research.google/2023/11/overcoming-leakage-on-error-corrected.html",
-          "author": null,
-          "description": "Posted by Kevin Miao and Matt McEwen, Research Scientists, Quantum AI Team\n\n\n\n\nThe qubits that make up Google quantum devices are delicate and noisy, so it’s necessary to incorporate error correction procedures that identify and account for qubit errors on the way to building a useful quantum computer. Two of the most prevalent error mechanisms are bit-flip errors (where the energy state of the qubit changes) and phase-flip errors (where the phase of the encoded quantum information changes). Quantum error correction (QEC) promises to address and mitigate these two prominent errors. However, there is an assortment of other error mechanisms that challenges the effectiveness of QEC.\n\n\n\nWhile we want qubits to behave as ideal two-level systems with no loss mechanisms, this is not the case in r…",
-          "link": "http://blog.research.google/2023/11/overcoming-leakage-on-error-corrected.html",
-          "publishedOn": "2023-11-09T19:20:00.001Z",
-          "wordCount": 28278,
-          "title": "Overcoming leakage on error-corrected quantum processors",
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEidYny_9v0IyOBy7QbYVgwS5FAHzgHhVUt5FQvjXhi6WWJHyIIal3awBfaXNu9l3g47HElKNkFNf6XfpU7a_9ExGLlKFgOWvUOaT0PLhEoCfofJrazqT2IL1fBMtZMwfGJSnrpBrQZwQkYJOV6iMOmhWBWIH5OCPcsEPkgw-LuiPDBoLYToGGIN3Hjfpmwr/w1200-h630-p-k-no-nu/Quantum%20leakage.jpg"
         }
       ]
     },
