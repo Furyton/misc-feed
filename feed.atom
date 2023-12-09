@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-12-09T01:07:10.366Z</updated>
+    <updated>2023-12-09T02:25:16.410Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -2641,16 +2641,6 @@ The qubits that make up Google quantum devices are delicate and noisy, so it’s
 While we want qubits to behave as ideal two-level systems with no loss mechanisms, this is not the case in r…]]></summary>
         <author>
             <name>Google AI Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[VQ一下Key，Transformer的复杂度就变成线性了]]></title>
-        <id>https://kexue.fm/archives/9844</id>
-        <link href="https://kexue.fm/archives/9844"/>
-        <updated>2023-11-09T13:10:00.000Z</updated>
-        <summary type="html"><![CDATA[Efficient Transformer，泛指一切致力于降低Transformer的二次复杂度的工作，开始特指针对Attention的改进，后来更一般的思路，如傅立叶变换、线性RNN等，也被归...]]></summary>
-        <author>
-            <name>苏剑林</name>
         </author>
     </entry>
 </feed>
