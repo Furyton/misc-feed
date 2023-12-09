@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-12-09T10:14:48.483Z</updated>
+    <updated>2023-12-09T11:11:54.067Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -2597,31 +2597,6 @@ Today, we describe the setup that we developed by expan…]]></summary>
         <summary type="html"><![CDATA[Visit the post for more.]]></summary>
         <author>
             <name>xi'an</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hype over AI and Classical Chinese / Literary Sinitic]]></title>
-        <id>https://languagelog.ldc.upenn.edu/nll/?p=61190</id>
-        <link href="https://languagelog.ldc.upenn.edu/nll/?p=61190&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=hype-over-ai-and-classical-chinese-literary-sinitic"/>
-        <updated>2023-11-09T23:09:40.000Z</updated>
-        <summary type="html"><![CDATA[From the get-go, I'm dubious about any claims that current AI can fully and accurately translate Classical Chinese / Literary Sinitic (CC/LS) into Modern Standard Mandarin (MSM), much less English or other language, on a practical, functional basis.  Since the following article is from one of China's official propaganda "news" outlets (China Daily [CD]), the […]]]></summary>
-        <author>
-            <name>Victor Mair</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Responsible AI at Google Research: Context in AI Research (CAIR)]]></title>
-        <id>http://blog.research.google/2023/11/responsible-ai-at-google-research.html</id>
-        <link href="http://blog.research.google/2023/11/responsible-ai-at-google-research.html"/>
-        <updated>2023-11-09T22:23:00.000Z</updated>
-        <summary type="html"><![CDATA[Posted by Katherine Heller, Research Scientist, Google Research, on behalf of the CAIR Team
-
-
-
-
-Artificial intelligence (AI) and related machine learning (ML) technologies are increasingly influential in the world around us, making it imperative that we consider the potential impacts on society and individuals in all aspects of the technology that we create. To these ends, the Context in AI Research (CAIR) team develops novel AI methods in the context of the entire AI pipeline: from data to end-user feedback. The pipeline for building an AI system typically starts with data collection, followed by designing a model to run on that data, deployment of the model in the real world, and lastly, compiling and incorporation of human feedback. Originating in the health space, and now expanded to a…]]></summary>
-        <author>
-            <name>Google AI Blog</name>
         </author>
     </entry>
 </feed>
