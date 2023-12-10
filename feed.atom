@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-12-10T19:11:43.516Z</updated>
+    <updated>2023-12-10T20:15:04.193Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -299,6 +299,26 @@ The use of avatars in experiments isn’t just about how users will interact and
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[A semester of milliblogging]]></title>
+        <id>https://argmin.substack.com/p/a-semester-of-milliblogging</id>
+        <link href="https://argmin.substack.com/p/a-semester-of-milliblogging"/>
+        <updated>2023-12-06T15:16:26.000Z</updated>
+        <summary type="html"><![CDATA[I live blogged my class and lived to tell the tale.]]></summary>
+        <author>
+            <name>Ben Recht</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A semester of milliblogging]]></title>
+        <id>https://argmin.substack.com/p/a-semester-of-milliblogging</id>
+        <link href="https://argmin.substack.com/p/a-semester-of-milliblogging"/>
+        <updated>2023-12-06T15:16:26.000Z</updated>
+        <summary type="html"><![CDATA[I live blogged my class and lived to tell the tale.]]></summary>
+        <author>
+            <name>Ben Recht</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Introducing Gemini: our largest and most capable AI model]]></title>
         <id>https://deepmind.google/discover/blog/introducing-gemini-our-largest-and-most-capable-ai-model/</id>
         <link href="https://deepmind.google/discover/blog/introducing-gemini-our-largest-and-most-capable-ai-model/"/>
@@ -391,6 +411,26 @@ We hope you’ll visit the Google booth to chat with researchers who are activel
         <summary type="html"><![CDATA[Visit the post for more.]]></summary>
         <author>
             <name>xi'an</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Yogi Berra in everything]]></title>
+        <id>https://argmin.substack.com/p/yogi-berra-in-everything</id>
+        <link href="https://argmin.substack.com/p/yogi-berra-in-everything"/>
+        <updated>2023-12-05T16:59:23.000Z</updated>
+        <summary type="html"><![CDATA[Are probabilistic models securities fraud?]]></summary>
+        <author>
+            <name>Ben Recht</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Yogi Berra in everything]]></title>
+        <id>https://argmin.substack.com/p/yogi-berra-in-everything</id>
+        <link href="https://argmin.substack.com/p/yogi-berra-in-everything"/>
+        <updated>2023-12-05T16:59:23.000Z</updated>
+        <summary type="html"><![CDATA[Are probabilistic models securities fraud?]]></summary>
+        <author>
+            <name>Ben Recht</name>
         </author>
     </entry>
     <entry>
@@ -546,6 +586,26 @@ In recent years, the Privacy Sandbox initiative was launched to explore responsi
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[To do the mindblowing]]></title>
+        <id>https://argmin.substack.com/p/to-do-the-mindblowing</id>
+        <link href="https://argmin.substack.com/p/to-do-the-mindblowing"/>
+        <updated>2023-12-04T15:37:39.000Z</updated>
+        <summary type="html"><![CDATA[The first of four semester reflections]]></summary>
+        <author>
+            <name>Ben Recht</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[To do the mindblowing]]></title>
+        <id>https://argmin.substack.com/p/to-do-the-mindblowing</id>
+        <link href="https://argmin.substack.com/p/to-do-the-mindblowing"/>
+        <updated>2023-12-04T15:37:39.000Z</updated>
+        <summary type="html"><![CDATA[The first of four semester reflections]]></summary>
+        <author>
+            <name>Ben Recht</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA["Toil tackler"]]></title>
         <id>https://languagelog.ldc.upenn.edu/nll/?p=61550</id>
         <link href="https://languagelog.ldc.upenn.edu/nll/?p=61550&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=toil-tackler"/>
@@ -697,6 +757,26 @@ Speech-to-speech translation (S2ST) is a type of machine translation that conver
 Previously, we introduced Translatotron 1 and Translatotron 2, the first ever models that were able to directly translate speech between two languages. However they were trained in supervised settings with parallel speech data. The scarcity of parallel speech data is a major challenge in this field, so much that most public datasets are semi- or fully-synthesized from text. This adds additiona…]]></summary>
         <author>
             <name>Google AI Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Only Winning Move]]></title>
+        <id>https://argmin.substack.com/p/the-only-winning-move</id>
+        <link href="https://argmin.substack.com/p/the-only-winning-move"/>
+        <updated>2023-12-01T15:04:19.000Z</updated>
+        <summary type="html"><![CDATA[Game Theory is a cautionary tale about decision making under uncertainty.]]></summary>
+        <author>
+            <name>Ben Recht</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Only Winning Move]]></title>
+        <id>https://argmin.substack.com/p/the-only-winning-move</id>
+        <link href="https://argmin.substack.com/p/the-only-winning-move"/>
+        <updated>2023-12-01T15:04:19.000Z</updated>
+        <summary type="html"><![CDATA[Game Theory is a cautionary tale about decision making under uncertainty.]]></summary>
+        <author>
+            <name>Ben Recht</name>
         </author>
     </entry>
     <entry>
@@ -882,6 +962,26 @@ Previously, we introduced Translatotron 1 and Translatotron 2, the first ever mo
         <summary type="html"><![CDATA[[This is the first of two consecutive posts on things Indian.  After reading them, if someone is prompted to send me material for a third, I'll be happy to make it a trifecta.] Our entry point to the linguistically compelling topic of today's post is this Nikkei Asia (11/29/23) article by Barkha Shah in its […]]]></summary>
         <author>
             <name>Victor Mair</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Strange Game]]></title>
+        <id>https://argmin.substack.com/p/a-strange-game</id>
+        <link href="https://argmin.substack.com/p/a-strange-game"/>
+        <updated>2023-11-29T15:05:04.000Z</updated>
+        <summary type="html"><![CDATA[What we learn by teaching computers to play games.]]></summary>
+        <author>
+            <name>Ben Recht</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Strange Game]]></title>
+        <id>https://argmin.substack.com/p/a-strange-game</id>
+        <link href="https://argmin.substack.com/p/a-strange-game"/>
+        <updated>2023-11-29T15:05:04.000Z</updated>
+        <summary type="html"><![CDATA[What we learn by teaching computers to play games.]]></summary>
+        <author>
+            <name>Ben Recht</name>
         </author>
     </entry>
     <entry>
@@ -1078,6 +1178,26 @@ Read more...]]></summary>
         <summary type="html"><![CDATA[Sunny Jhatti wrote to me: "I didn't know what 'pimp slap' meant till I saw this." After witnessing her astonishing diatribe, Conal Boyce said: I felt like I needed to take a shower. (Adding insult to injury, google failed to elucidate 'Skims' for me. Had to look elsewhere to get an inkling of what that […]]]></summary>
         <author>
             <name>Victor Mair</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cool Kids Keep]]></title>
+        <id>https://argmin.substack.com/p/cool-kids-keep</id>
+        <link href="https://argmin.substack.com/p/cool-kids-keep"/>
+        <updated>2023-11-27T15:39:42.000Z</updated>
+        <summary type="html"><![CDATA[On the academic imperialism of reinforcement learning.]]></summary>
+        <author>
+            <name>Ben Recht</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cool Kids Keep]]></title>
+        <id>https://argmin.substack.com/p/cool-kids-keep</id>
+        <link href="https://argmin.substack.com/p/cool-kids-keep"/>
+        <updated>2023-11-27T15:39:42.000Z</updated>
+        <summary type="html"><![CDATA[On the academic imperialism of reinforcement learning.]]></summary>
+        <author>
+            <name>Ben Recht</name>
         </author>
     </entry>
     <entry>
@@ -1836,6 +1956,26 @@ We call this approach Society-Centered AI. It is both an extension and an expans
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Feedback on feedback]]></title>
+        <id>https://argmin.substack.com/p/feedback-on-feedback</id>
+        <link href="https://argmin.substack.com/p/feedback-on-feedback"/>
+        <updated>2023-11-17T15:03:50.000Z</updated>
+        <summary type="html"><![CDATA[Looking for simple examples of the power and danger of feedback]]></summary>
+        <author>
+            <name>Ben Recht</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Feedback on feedback]]></title>
+        <id>https://argmin.substack.com/p/feedback-on-feedback</id>
+        <link href="https://argmin.substack.com/p/feedback-on-feedback"/>
+        <updated>2023-11-17T15:03:50.000Z</updated>
+        <summary type="html"><![CDATA[Looking for simple examples of the power and danger of feedback]]></summary>
+        <author>
+            <name>Ben Recht</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Inversion of walkaway VSP data in the presence of lateral velocity
   heterogeneity]]></title>
         <id>http://arxiv.org/abs/1901.02916</id>
@@ -2044,6 +2184,26 @@ GenAI models have enabled unprecedented capabilities leading …]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Greetings Professor Falken]]></title>
+        <id>https://argmin.substack.com/p/greetings-professor-falken</id>
+        <link href="https://argmin.substack.com/p/greetings-professor-falken"/>
+        <updated>2023-11-16T15:14:33.000Z</updated>
+        <summary type="html"><![CDATA[The strange game of policy optimization on long time horizons]]></summary>
+        <author>
+            <name>Ben Recht</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Greetings Professor Falken]]></title>
+        <id>https://argmin.substack.com/p/greetings-professor-falken</id>
+        <link href="https://argmin.substack.com/p/greetings-professor-falken"/>
+        <updated>2023-11-16T15:14:33.000Z</updated>
+        <summary type="html"><![CDATA[The strange game of policy optimization on long time horizons]]></summary>
+        <author>
+            <name>Ben Recht</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Empiricism as a New Year's resolution]]></title>
         <id>https://languagelog.ldc.upenn.edu/nll/?p=61300</id>
         <link href="https://languagelog.ldc.upenn.edu/nll/?p=61300&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=empiricism-as-a-new-years-resolution"/>
@@ -2158,6 +2318,26 @@ GenAI models have enabled unprecedented capabilities leading …]]></summary>
         <summary type="html"><![CDATA[Table of Contents In this article we’ll implement a global optimization pass, and show how to use the dataflow analysis framework to verify the results of our optimization. The code for this article is in this pull request, and as usual the commits are organized to be read in order. The noisy arithmetic problem This […]]]></summary>
         <author>
             <name>Jeremy Kun</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Integral Action]]></title>
+        <id>https://argmin.substack.com/p/integral-action</id>
+        <link href="https://argmin.substack.com/p/integral-action"/>
+        <updated>2023-11-15T15:27:10.000Z</updated>
+        <summary type="html"><![CDATA[Gradient descent pops up again as a universal regulator]]></summary>
+        <author>
+            <name>Ben Recht</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Integral Action]]></title>
+        <id>https://argmin.substack.com/p/integral-action</id>
+        <link href="https://argmin.substack.com/p/integral-action"/>
+        <updated>2023-11-15T15:27:10.000Z</updated>
+        <summary type="html"><![CDATA[Gradient descent pops up again as a universal regulator]]></summary>
+        <author>
+            <name>Ben Recht</name>
         </author>
     </entry>
     <entry>
@@ -2302,6 +2482,26 @@ When building machine learning models for real-life applications, we need to con
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Architectural Theories]]></title>
+        <id>https://argmin.substack.com/p/architectural-theories</id>
+        <link href="https://argmin.substack.com/p/architectural-theories"/>
+        <updated>2023-11-14T15:37:54.000Z</updated>
+        <summary type="html"><![CDATA[There's no master algorithm for decision making under uncertainty.]]></summary>
+        <author>
+            <name>Ben Recht</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Architectural Theories]]></title>
+        <id>https://argmin.substack.com/p/architectural-theories</id>
+        <link href="https://argmin.substack.com/p/architectural-theories"/>
+        <updated>2023-11-14T15:37:54.000Z</updated>
+        <summary type="html"><![CDATA[There's no master algorithm for decision making under uncertainty.]]></summary>
+        <author>
+            <name>Ben Recht</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[GraphCast: AI model for faster and more accurate global weather forecasting]]></title>
         <id>https://deepmind.google/discover/blog/graphcast-ai-model-for-faster-and-more-accurate-global-weather-forecasting/</id>
         <link href="https://deepmind.google/discover/blog/graphcast-ai-model-for-faster-and-more-accurate-global-weather-forecasting/"/>
@@ -2399,6 +2599,26 @@ Despite their widespread usage, deep learning classifiers are acutely vulnerable
         <summary type="html"><![CDATA["Hurting the feelings of the Chinese people", part 572 From AntC: Joseph Wu (吳釗燮), Taiwan's Foreign Minister, just gave an interview on Thai TV. I thought it a very sober assessment of the current situations (worldwide).  See Taiwan News article here.    Thai TV posted it on Youtube; PRC immediately claimed it "harmed China’s interests […]]]></summary>
         <author>
             <name>Victor Mair</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Quantifying those unknown unknowns]]></title>
+        <id>https://argmin.substack.com/p/quantifying-those-unknown-unknowns</id>
+        <link href="https://argmin.substack.com/p/quantifying-those-unknown-unknowns"/>
+        <updated>2023-11-13T17:59:41.000Z</updated>
+        <summary type="html"><![CDATA[Optimizing under uncertainty is definitionally ill-posed]]></summary>
+        <author>
+            <name>Ben Recht</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Quantifying those unknown unknowns]]></title>
+        <id>https://argmin.substack.com/p/quantifying-those-unknown-unknowns</id>
+        <link href="https://argmin.substack.com/p/quantifying-those-unknown-unknowns"/>
+        <updated>2023-11-13T17:59:41.000Z</updated>
+        <summary type="html"><![CDATA[Optimizing under uncertainty is definitionally ill-posed]]></summary>
+        <author>
+            <name>Ben Recht</name>
         </author>
     </entry>
     <entry>
@@ -2512,6 +2732,26 @@ Despite their widespread usage, deep learning classifiers are acutely vulnerable
         <summary type="html"><![CDATA[Visit the post for more.]]></summary>
         <author>
             <name>xi'an</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Music by machines for people]]></title>
+        <id>https://argmin.substack.com/p/music-by-machines-for-people</id>
+        <link href="https://argmin.substack.com/p/music-by-machines-for-people"/>
+        <updated>2023-11-12T16:35:39.000Z</updated>
+        <summary type="html"><![CDATA[Will all of my music blogs be 90s nostalgia? Signs point to yes.]]></summary>
+        <author>
+            <name>Ben Recht</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Music by machines for people]]></title>
+        <id>https://argmin.substack.com/p/music-by-machines-for-people</id>
+        <link href="https://argmin.substack.com/p/music-by-machines-for-people"/>
+        <updated>2023-11-12T16:35:39.000Z</updated>
+        <summary type="html"><![CDATA[Will all of my music blogs be 90s nostalgia? Signs point to yes.]]></summary>
+        <author>
+            <name>Ben Recht</name>
         </author>
     </entry>
     <entry>

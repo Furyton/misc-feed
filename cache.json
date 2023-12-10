@@ -1200,10 +1200,203 @@
       "articles": []
     },
     {
-      "title": "arg min blog",
+      "title": "arg min substack",
       "feedUrl": "https://www.argmin.net/feed.xml",
-      "siteUrl": "http://benjamin-recht.github.io/",
-      "articles": []
+      "siteUrl": "https://argmin.substack.com",
+      "articles": [
+        {
+          "id": "https://argmin.substack.com/p/a-semester-of-milliblogging",
+          "author": "Ben Recht",
+          "description": "I live blogged my class and lived to tell the tale.",
+          "link": "https://argmin.substack.com/p/a-semester-of-milliblogging",
+          "publishedOn": "2023-12-06T15:16:26.000Z",
+          "wordCount": null,
+          "title": "A semester of milliblogging",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substack-post-media.s3.amazonaws.com/public/images/2d7e8532-c6c7-4177-9213-c83d4544ad03_441x300.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substack-post-media.s3.amazonaws.com/public/images/2d7e8532-c6c7-4177-9213-c83d4544ad03_441x300.png"
+        },
+        {
+          "id": "https://argmin.substack.com/p/yogi-berra-in-everything",
+          "author": "Ben Recht",
+          "description": "Are probabilistic models securities fraud?",
+          "link": "https://argmin.substack.com/p/yogi-berra-in-everything",
+          "publishedOn": "2023-12-05T16:59:23.000Z",
+          "wordCount": null,
+          "title": "Yogi Berra in everything",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substack-post-media.s3.amazonaws.com/public/images/f4f0bc28-cfd7-4273-8ddd-1135fcc575d6_449x300.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substack-post-media.s3.amazonaws.com/public/images/f4f0bc28-cfd7-4273-8ddd-1135fcc575d6_449x300.png"
+        },
+        {
+          "id": "https://argmin.substack.com/p/to-do-the-mindblowing",
+          "author": "Ben Recht",
+          "description": "The first of four semester reflections",
+          "link": "https://argmin.substack.com/p/to-do-the-mindblowing",
+          "publishedOn": "2023-12-04T15:37:39.000Z",
+          "wordCount": null,
+          "title": "To do the mindblowing",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substack-post-media.s3.amazonaws.com/public/images/0bf9be9d-1fc6-4b03-b4b0-27a96851211f_449x300.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substack-post-media.s3.amazonaws.com/public/images/0bf9be9d-1fc6-4b03-b4b0-27a96851211f_449x300.png"
+        },
+        {
+          "id": "https://argmin.substack.com/p/the-only-winning-move",
+          "author": "Ben Recht",
+          "description": "Game Theory is a cautionary tale about decision making under uncertainty.",
+          "link": "https://argmin.substack.com/p/the-only-winning-move",
+          "publishedOn": "2023-12-01T15:04:19.000Z",
+          "wordCount": null,
+          "title": "The Only Winning Move",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substack-post-media.s3.amazonaws.com/public/images/ee525974-6c1a-4ecb-a4e4-9d0c96784c8f_440x300.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substack-post-media.s3.amazonaws.com/public/images/ee525974-6c1a-4ecb-a4e4-9d0c96784c8f_440x300.png"
+        },
+        {
+          "id": "https://argmin.substack.com/p/a-strange-game",
+          "author": "Ben Recht",
+          "description": "What we learn by teaching computers to play games.",
+          "link": "https://argmin.substack.com/p/a-strange-game",
+          "publishedOn": "2023-11-29T15:05:04.000Z",
+          "wordCount": null,
+          "title": "A Strange Game",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substack-post-media.s3.amazonaws.com/public/images/a2f3ab1f-b69b-453a-86bd-aabf202ea597_453x300.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substack-post-media.s3.amazonaws.com/public/images/a2f3ab1f-b69b-453a-86bd-aabf202ea597_453x300.png"
+        },
+        {
+          "id": "https://argmin.substack.com/p/cool-kids-keep",
+          "author": "Ben Recht",
+          "description": "On the academic imperialism of reinforcement learning.",
+          "link": "https://argmin.substack.com/p/cool-kids-keep",
+          "publishedOn": "2023-11-27T15:39:42.000Z",
+          "wordCount": null,
+          "title": "Cool Kids Keep",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substack-post-media.s3.amazonaws.com/public/images/4e137d49-9bd7-4605-8bec-6ca85876902a_444x300.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substack-post-media.s3.amazonaws.com/public/images/4e137d49-9bd7-4605-8bec-6ca85876902a_444x300.png"
+        },
+        {
+          "id": "https://argmin.substack.com/p/feedback-on-feedback",
+          "author": "Ben Recht",
+          "description": "Looking for simple examples of the power and danger of feedback",
+          "link": "https://argmin.substack.com/p/feedback-on-feedback",
+          "publishedOn": "2023-11-17T15:03:50.000Z",
+          "wordCount": null,
+          "title": "Feedback on feedback",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substack-post-media.s3.amazonaws.com/public/images/9e4fe413-0db4-4d8b-a59d-6a1b5addb586_444x300.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substack-post-media.s3.amazonaws.com/public/images/9e4fe413-0db4-4d8b-a59d-6a1b5addb586_444x300.png"
+        },
+        {
+          "id": "https://argmin.substack.com/p/greetings-professor-falken",
+          "author": "Ben Recht",
+          "description": "The strange game of policy optimization on long time horizons",
+          "link": "https://argmin.substack.com/p/greetings-professor-falken",
+          "publishedOn": "2023-11-16T15:14:33.000Z",
+          "wordCount": null,
+          "title": "Greetings Professor Falken",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substack-post-media.s3.amazonaws.com/public/images/8257423a-aa8c-4b7b-8e53-832bfffab0ed_445x300.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substack-post-media.s3.amazonaws.com/public/images/8257423a-aa8c-4b7b-8e53-832bfffab0ed_445x300.png"
+        },
+        {
+          "id": "https://argmin.substack.com/p/integral-action",
+          "author": "Ben Recht",
+          "description": "Gradient descent pops up again as a universal regulator",
+          "link": "https://argmin.substack.com/p/integral-action",
+          "publishedOn": "2023-11-15T15:27:10.000Z",
+          "wordCount": null,
+          "title": "Integral Action",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substack-post-media.s3.amazonaws.com/public/images/40eaebf9-3286-4e75-aef2-4957af0a363e_452x300.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substack-post-media.s3.amazonaws.com/public/images/40eaebf9-3286-4e75-aef2-4957af0a363e_452x300.png"
+        },
+        {
+          "id": "https://argmin.substack.com/p/architectural-theories",
+          "author": "Ben Recht",
+          "description": "There's no master algorithm for decision making under uncertainty.",
+          "link": "https://argmin.substack.com/p/architectural-theories",
+          "publishedOn": "2023-11-14T15:37:54.000Z",
+          "wordCount": null,
+          "title": "Architectural Theories",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substack-post-media.s3.amazonaws.com/public/images/686bf0ce-5ef6-4663-9781-5be9932a9c07_452x300.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substack-post-media.s3.amazonaws.com/public/images/686bf0ce-5ef6-4663-9781-5be9932a9c07_452x300.png"
+        },
+        {
+          "id": "https://argmin.substack.com/p/quantifying-those-unknown-unknowns",
+          "author": "Ben Recht",
+          "description": "Optimizing under uncertainty is definitionally ill-posed",
+          "link": "https://argmin.substack.com/p/quantifying-those-unknown-unknowns",
+          "publishedOn": "2023-11-13T17:59:41.000Z",
+          "wordCount": null,
+          "title": "Quantifying those unknown unknowns",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substack-post-media.s3.amazonaws.com/public/images/bf462cd3-cbb6-4c7f-96f8-efab85d869d4_444x300.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substack-post-media.s3.amazonaws.com/public/images/bf462cd3-cbb6-4c7f-96f8-efab85d869d4_444x300.png"
+        },
+        {
+          "id": "https://argmin.substack.com/p/music-by-machines-for-people",
+          "author": "Ben Recht",
+          "description": "Will all of my music blogs be 90s nostalgia? Signs point to yes.",
+          "link": "https://argmin.substack.com/p/music-by-machines-for-people",
+          "publishedOn": "2023-11-12T16:35:39.000Z",
+          "wordCount": null,
+          "title": "Music by machines for people",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://mosaic.scdn.co/640/ab67616d0000b273330499e30669465cbe7863a1ab67616d0000b27333411ff5d74ae290a12fdc44ab67616d0000b273b6f1974afb1c0184e062ed0fab67616d0000b273d95d559fcdb208dc8f2eeba6",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://mosaic.scdn.co/640/ab67616d0000b273330499e30669465cbe7863a1ab67616d0000b27333411ff5d74ae290a12fdc44ab67616d0000b273b6f1974afb1c0184e062ed0fab67616d0000b273d95d559fcdb208dc8f2eeba6"
+        }
+      ]
     },
     {
       "title": "Python⇒Speed",
@@ -1530,10 +1723,203 @@
       "articles": []
     },
     {
-      "title": "arg min blog",
+      "title": "arg min substack",
       "feedUrl": "https://www.argmin.net/feed.xml",
-      "siteUrl": "http://benjamin-recht.github.io/",
-      "articles": []
+      "siteUrl": "https://argmin.substack.com",
+      "articles": [
+        {
+          "id": "https://argmin.substack.com/p/a-semester-of-milliblogging",
+          "author": "Ben Recht",
+          "description": "I live blogged my class and lived to tell the tale.",
+          "link": "https://argmin.substack.com/p/a-semester-of-milliblogging",
+          "publishedOn": "2023-12-06T15:16:26.000Z",
+          "wordCount": null,
+          "title": "A semester of milliblogging",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substack-post-media.s3.amazonaws.com/public/images/2d7e8532-c6c7-4177-9213-c83d4544ad03_441x300.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substack-post-media.s3.amazonaws.com/public/images/2d7e8532-c6c7-4177-9213-c83d4544ad03_441x300.png"
+        },
+        {
+          "id": "https://argmin.substack.com/p/yogi-berra-in-everything",
+          "author": "Ben Recht",
+          "description": "Are probabilistic models securities fraud?",
+          "link": "https://argmin.substack.com/p/yogi-berra-in-everything",
+          "publishedOn": "2023-12-05T16:59:23.000Z",
+          "wordCount": null,
+          "title": "Yogi Berra in everything",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substack-post-media.s3.amazonaws.com/public/images/f4f0bc28-cfd7-4273-8ddd-1135fcc575d6_449x300.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substack-post-media.s3.amazonaws.com/public/images/f4f0bc28-cfd7-4273-8ddd-1135fcc575d6_449x300.png"
+        },
+        {
+          "id": "https://argmin.substack.com/p/to-do-the-mindblowing",
+          "author": "Ben Recht",
+          "description": "The first of four semester reflections",
+          "link": "https://argmin.substack.com/p/to-do-the-mindblowing",
+          "publishedOn": "2023-12-04T15:37:39.000Z",
+          "wordCount": null,
+          "title": "To do the mindblowing",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substack-post-media.s3.amazonaws.com/public/images/0bf9be9d-1fc6-4b03-b4b0-27a96851211f_449x300.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substack-post-media.s3.amazonaws.com/public/images/0bf9be9d-1fc6-4b03-b4b0-27a96851211f_449x300.png"
+        },
+        {
+          "id": "https://argmin.substack.com/p/the-only-winning-move",
+          "author": "Ben Recht",
+          "description": "Game Theory is a cautionary tale about decision making under uncertainty.",
+          "link": "https://argmin.substack.com/p/the-only-winning-move",
+          "publishedOn": "2023-12-01T15:04:19.000Z",
+          "wordCount": null,
+          "title": "The Only Winning Move",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substack-post-media.s3.amazonaws.com/public/images/ee525974-6c1a-4ecb-a4e4-9d0c96784c8f_440x300.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substack-post-media.s3.amazonaws.com/public/images/ee525974-6c1a-4ecb-a4e4-9d0c96784c8f_440x300.png"
+        },
+        {
+          "id": "https://argmin.substack.com/p/a-strange-game",
+          "author": "Ben Recht",
+          "description": "What we learn by teaching computers to play games.",
+          "link": "https://argmin.substack.com/p/a-strange-game",
+          "publishedOn": "2023-11-29T15:05:04.000Z",
+          "wordCount": null,
+          "title": "A Strange Game",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substack-post-media.s3.amazonaws.com/public/images/a2f3ab1f-b69b-453a-86bd-aabf202ea597_453x300.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substack-post-media.s3.amazonaws.com/public/images/a2f3ab1f-b69b-453a-86bd-aabf202ea597_453x300.png"
+        },
+        {
+          "id": "https://argmin.substack.com/p/cool-kids-keep",
+          "author": "Ben Recht",
+          "description": "On the academic imperialism of reinforcement learning.",
+          "link": "https://argmin.substack.com/p/cool-kids-keep",
+          "publishedOn": "2023-11-27T15:39:42.000Z",
+          "wordCount": null,
+          "title": "Cool Kids Keep",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substack-post-media.s3.amazonaws.com/public/images/4e137d49-9bd7-4605-8bec-6ca85876902a_444x300.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substack-post-media.s3.amazonaws.com/public/images/4e137d49-9bd7-4605-8bec-6ca85876902a_444x300.png"
+        },
+        {
+          "id": "https://argmin.substack.com/p/feedback-on-feedback",
+          "author": "Ben Recht",
+          "description": "Looking for simple examples of the power and danger of feedback",
+          "link": "https://argmin.substack.com/p/feedback-on-feedback",
+          "publishedOn": "2023-11-17T15:03:50.000Z",
+          "wordCount": null,
+          "title": "Feedback on feedback",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substack-post-media.s3.amazonaws.com/public/images/9e4fe413-0db4-4d8b-a59d-6a1b5addb586_444x300.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substack-post-media.s3.amazonaws.com/public/images/9e4fe413-0db4-4d8b-a59d-6a1b5addb586_444x300.png"
+        },
+        {
+          "id": "https://argmin.substack.com/p/greetings-professor-falken",
+          "author": "Ben Recht",
+          "description": "The strange game of policy optimization on long time horizons",
+          "link": "https://argmin.substack.com/p/greetings-professor-falken",
+          "publishedOn": "2023-11-16T15:14:33.000Z",
+          "wordCount": null,
+          "title": "Greetings Professor Falken",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substack-post-media.s3.amazonaws.com/public/images/8257423a-aa8c-4b7b-8e53-832bfffab0ed_445x300.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substack-post-media.s3.amazonaws.com/public/images/8257423a-aa8c-4b7b-8e53-832bfffab0ed_445x300.png"
+        },
+        {
+          "id": "https://argmin.substack.com/p/integral-action",
+          "author": "Ben Recht",
+          "description": "Gradient descent pops up again as a universal regulator",
+          "link": "https://argmin.substack.com/p/integral-action",
+          "publishedOn": "2023-11-15T15:27:10.000Z",
+          "wordCount": null,
+          "title": "Integral Action",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substack-post-media.s3.amazonaws.com/public/images/40eaebf9-3286-4e75-aef2-4957af0a363e_452x300.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substack-post-media.s3.amazonaws.com/public/images/40eaebf9-3286-4e75-aef2-4957af0a363e_452x300.png"
+        },
+        {
+          "id": "https://argmin.substack.com/p/architectural-theories",
+          "author": "Ben Recht",
+          "description": "There's no master algorithm for decision making under uncertainty.",
+          "link": "https://argmin.substack.com/p/architectural-theories",
+          "publishedOn": "2023-11-14T15:37:54.000Z",
+          "wordCount": null,
+          "title": "Architectural Theories",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substack-post-media.s3.amazonaws.com/public/images/686bf0ce-5ef6-4663-9781-5be9932a9c07_452x300.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substack-post-media.s3.amazonaws.com/public/images/686bf0ce-5ef6-4663-9781-5be9932a9c07_452x300.png"
+        },
+        {
+          "id": "https://argmin.substack.com/p/quantifying-those-unknown-unknowns",
+          "author": "Ben Recht",
+          "description": "Optimizing under uncertainty is definitionally ill-posed",
+          "link": "https://argmin.substack.com/p/quantifying-those-unknown-unknowns",
+          "publishedOn": "2023-11-13T17:59:41.000Z",
+          "wordCount": null,
+          "title": "Quantifying those unknown unknowns",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substack-post-media.s3.amazonaws.com/public/images/bf462cd3-cbb6-4c7f-96f8-efab85d869d4_444x300.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substack-post-media.s3.amazonaws.com/public/images/bf462cd3-cbb6-4c7f-96f8-efab85d869d4_444x300.png"
+        },
+        {
+          "id": "https://argmin.substack.com/p/music-by-machines-for-people",
+          "author": "Ben Recht",
+          "description": "Will all of my music blogs be 90s nostalgia? Signs point to yes.",
+          "link": "https://argmin.substack.com/p/music-by-machines-for-people",
+          "publishedOn": "2023-11-12T16:35:39.000Z",
+          "wordCount": null,
+          "title": "Music by machines for people",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://mosaic.scdn.co/640/ab67616d0000b273330499e30669465cbe7863a1ab67616d0000b27333411ff5d74ae290a12fdc44ab67616d0000b273b6f1974afb1c0184e062ed0fab67616d0000b273d95d559fcdb208dc8f2eeba6",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://mosaic.scdn.co/640/ab67616d0000b273330499e30669465cbe7863a1ab67616d0000b27333411ff5d74ae290a12fdc44ab67616d0000b273b6f1974afb1c0184e062ed0fab67616d0000b273d95d559fcdb208dc8f2eeba6"
+        }
+      ]
     },
     {
       "title": "Combinatorics and more",
