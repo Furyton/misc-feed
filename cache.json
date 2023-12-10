@@ -1893,6 +1893,16 @@
       "siteUrl": "http://blog.research.google/",
       "articles": [
         {
+          "id": "http://blog.research.google/2023/12/google-at-neurips-2023.html",
+          "author": null,
+          "description": "Posted by Catherine Armato, Program Manager, Google\n\n\n\n\nThis week the 37th annual Conference on Neural Information Processing Systems (NeurIPS 2023), the biggest machine learning conference of the year, kicks off in New Orleans, LA. Google is proud to be a Diamond Level sponsor of NeurIPS this year and will have a strong presence with >170 accepted papers, two keynote talks, and additional contributions to the broader research community through organizational support and involvement in >20 workshops and tutorials. Google is also proud to be a Platinum Sponsor for both the Women in Machine Learning and LatinX in AI workshops. We look forward to sharing some of our extensive ML research and expanding our partnership with the broader ML research community.\n\n\n\nAttending for NeurIPS 2023 in per…",
+          "link": "http://blog.research.google/2023/12/google-at-neurips-2023.html",
+          "publishedOn": "2023-12-10T14:11:00.000Z",
+          "wordCount": 30902,
+          "title": "Google at NeurIPS 2023",
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjC9GkRLKp8GI42AvrsSQqN2F8gF8QDo06YU1ulV067EXp6MU3F1yYSZ44VRxn7BZlgrSZ18249wN7vuwyeDAH4AmXHHo-ryPYOmZ771K3yhsUCkfWguTDsOTx2wBqnH1gF_hxcALrj7nq-kRL2lNttCipemJXYUitvDbRi_LNWk7bRgFpzpsNEqDeetCM2/w1200-h630-p-k-no-nu/google_research_sticker-hero.jpg"
+        },
+        {
           "id": "http://blog.research.google/2023/12/sparsity-preserving-differentially.html",
           "author": null,
           "description": "Posted by Yangsibo Huang, Research Intern, Google Research; Chiyuan Zhang, Research Scientist, Google Research\n\n\n\n\n\nLarge embedding models have emerged as a fundamental tool for various applications in recommendation systems [1, 2] and natural language processing [3, 4, 5]. Such models enable the integration of non-numerical data into deep learning models by mapping categorical or string-valued input attributes with large vocabularies to fixed-length representation vectors using embedding layers. These models are widely deployed in personalized recommendation systems and achieve state-of-the-art performance in language tasks, such as  language modeling, sentiment analysis, and question answering. In many such scenarios, privacy is an equally important feature when deploying those models. A…",
