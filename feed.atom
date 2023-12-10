@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-12-10T05:14:07.293Z</updated>
+    <updated>2023-12-10T06:18:54.290Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -2533,27 +2533,6 @@ Despite their widespread usage, deep learning classifiers are acutely vulnerable
         <summary type="html"><![CDATA[From Adrienne Mayor: I am writing about The Dry Tree or Solitary Tree, associated with Alexander the Great in medieval Alexander Romance and in Marco Polo, who located it in Khorasan. Later, the Bavarian explorer Johannes Schiltberger trekked across Khorasan in about 1405-25 and reported that the Muslims called the tree “Kurrutherek” or “Sirpe,” meanings […]]]></summary>
         <author>
             <name>Victor Mair</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Enabling large-scale health studies for the research community]]></title>
-        <id>http://blog.research.google/2023/11/enabling-large-scale-health-studies-for.html</id>
-        <link href="http://blog.research.google/2023/11/enabling-large-scale-health-studies-for.html"/>
-        <updated>2023-11-10T18:05:00.000Z</updated>
-        <summary type="html"><![CDATA[Posted by Chintan Ghate, Software Engineer, and Diana Mincu, Research Engineer, Google Research
-
-
-
-
-As consumer technologies like fitness trackers and mobile phones become more widely used for health-related data collection, so does the opportunity to leverage these data pathways to study and advance our understanding of medical conditions. We have previously touched upon how our work explores the use of this technology within the context of chronic diseases, in particular multiple sclerosis (MS). This effort leverages the FDA MyStudies platform, an open-source platform used to create clinical study apps, that makes it easier for anyone to run their own studies and collect good quality healthcare data, in a trusted and safe way.
-
-
- 
-
-
-Today, we describe the setup that we developed by expan…]]></summary>
-        <author>
-            <name>Google AI Blog</name>
         </author>
     </entry>
 </feed>
