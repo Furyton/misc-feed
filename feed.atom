@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-12-11T11:14:07.898Z</updated>
+    <updated>2023-12-11T12:30:30.746Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Spread of "inclusive x"]]></title>
+        <id>https://languagelog.ldc.upenn.edu/nll/?p=61647</id>
+        <link href="https://languagelog.ldc.upenn.edu/nll/?p=61647&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=spread-of-inclusive-x"/>
+        <updated>2023-12-11T12:05:29.000Z</updated>
+        <summary type="html"><![CDATA[Merriam-Webster's online dictionary entry for folx defines it as a re-spelling of folks "used especially to explicitly signal the inclusion of groups commonly marginalized". The etymology is given as "respelling of folks, with x after MX., LATINX". The entry also notes that the first known occurrence was in 1833, without clarifying that older uses (and many recent ones) are examples of […]]]></summary>
+        <author>
+            <name>Mark Liberman</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Loss Minimization Yields Multicalibration for Large Neural Networks]]></title>
         <id>http://arxiv.org/abs/2304.09424</id>
@@ -3105,16 +3115,6 @@ Despite their widespread usage, deep learning classifiers are acutely vulnerable
         <summary type="html"><![CDATA[From Olive Long: Here's a post containing an interesting passivization on the site formerly known as Twitter ("Philadelphia 76ers guard Kelly Oubre Jr. was a pedestrian struck by a motor vehicle in Center City"). This sort of 'split' passivization ("X was a Y V by Z" from "Z V X[, a Y].") seems at least […]]]></summary>
         <author>
             <name>Victor Mair</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nature snapshots [10 Aug 2023]]]></title>
-        <id>http://xianblog.wordpress.com/?p=53892</id>
-        <link href="https://xianblog.wordpress.com/2023/11/12/nature-snapshots-10-aug-2023/"/>
-        <updated>2023-11-11T23:23:40.000Z</updated>
-        <summary type="html"><![CDATA[Many gems in the 10 Aug issue I found home back from Western Canada. Starting with the cover theme related to the fascinating paper Solid-body trajectoids shaped to roll along desired pathways by Sobolev et al. which shows that there exist 3D objects corresponding to any infinitely periodic trajectory and furthermore that such objects can […]]]></summary>
-        <author>
-            <name>xi'an</name>
         </author>
     </entry>
 </feed>
