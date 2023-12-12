@@ -1251,6 +1251,16 @@
       "siteUrl": "https://kexue.fm/",
       "articles": [
         {
+          "id": "https://kexue.fm/archives/9889",
+          "author": "苏剑林",
+          "description": "之前在《Transformer升级之路：3、从Performer到线性Attention》、《为什么现在的LLM都是Decoder-only的架构？》等文章中，我们从Attention矩阵的“秩...",
+          "link": "https://kexue.fm/archives/9889",
+          "publishedOn": "2023-12-12T08:52:00.000Z",
+          "wordCount": 1571,
+          "title": "注意力机制真的懂得“集中注意力”吗？",
+          "imageUrl": null
+        },
+        {
           "id": "https://kexue.fm/archives/9881",
           "author": "苏剑林",
           "description": "在生成扩散模型的发展史上，DDIM和同期Song Yang的扩散SDE都称得上是里程碑式的工作，因为它们建立起了扩散模型与随机微分方程（SDE）、常微分方程（ODE）这两个数学领域的紧密联系，从...",
@@ -1906,6 +1916,16 @@
       "feedUrl": "https://pytorch.org/feed",
       "siteUrl": "https://pytorch.org/",
       "articles": [
+        {
+          "id": "https://pytorch.org/blog/dinosaurs-to-seismic-imaging/",
+          "author": null,
+          "description": "<div type=\"html\"/>",
+          "link": "https://pytorch.org/blog/dinosaurs-to-seismic-imaging/",
+          "publishedOn": "2023-12-12T08:00:00.000Z",
+          "wordCount": 1293,
+          "title": "From PyTorch Conference 2023: From Dinosaurs to Seismic Imaging with Intel",
+          "imageUrl": "https://pytorch.org/assets/images/social-share.jpg"
+        },
         {
           "id": "https://pytorch.org/blog/snowflake-joins-pytorch/",
           "author": null,
