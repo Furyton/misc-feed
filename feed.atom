@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-12-13T03:16:46.937Z</updated>
+    <updated>2023-12-13T04:18:43.815Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Efficient Ranking of Lyndon Words and Decoding Lexicographically Minimal
+  de Bruijn Sequence]]></title>
+        <id>http://arxiv.org/abs/1510.02637</id>
+        <link href="http://arxiv.org/abs/1510.02637"/>
+        <updated>2023-12-13T04:18:37.665Z</updated>
+        <summary type="html"><![CDATA[Tomasz Kociumaka, Jakub Radoszewski, Wojciech Rytter]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[On regular rotating black holes]]></title>
+        <id>http://arxiv.org/abs/1611.03654</id>
+        <link href="http://arxiv.org/abs/1611.03654"/>
+        <updated>2023-12-13T04:18:37.661Z</updated>
+        <summary type="html"><![CDATA[Ramon Torres, Francesc Fayos]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Computation of a function of a matrix with close eigenvalues by means of
   the Newton interpolating polynomial]]></title>
