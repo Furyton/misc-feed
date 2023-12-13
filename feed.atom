@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-12-13T11:13:08.577Z</updated>
+    <updated>2023-12-13T12:29:24.496Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA["Tibet" obliterated]]></title>
+        <id>https://languagelog.ldc.upenn.edu/nll/?p=61675</id>
+        <link href="https://languagelog.ldc.upenn.edu/nll/?p=61675&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=tibet-obliterated"/>
+        <updated>2023-12-13T11:33:24.000Z</updated>
+        <summary type="html"><![CDATA[The name "Tibet" has been outlawed in the PRC.  Henceforth, Tibet (the name by which it has been known to the world for centuries) is to be called by its newer Chinese name, Xizang ("West Zang") — even in English.  Chinese state media drops ‘Tibet’ for ‘Xizang’ after release of Beijing white paper     Use […]]]></summary>
+        <author>
+            <name>Victor Mair</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[A Session Type System for Asynchronous Unreliable Broadcast
   Communication]]></title>
@@ -3101,26 +3111,6 @@ Despite their widespread usage, deep learning classifiers are acutely vulnerable
         <summary type="html"><![CDATA[Thomas Chen, Patricia Mu\~noz Ewald]]></summary>
         <author>
             <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NVIDIA Is A New Sponsor Of The Scikit-Learn consortium at the Inria Foundation]]></title>
-        <id>https://blog.scikit-learn.org/funding/nvidia-is-a-new-sponsor/</id>
-        <link href="https://blog.scikit-learn.org/funding/nvidia-is-a-new-sponsor/"/>
-        <updated>2023-11-14T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author: NVIDIA , François Goupil]]></summary>
-        <author>
-            <name>scikit-learn Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[call for immediate action to halt attacks on health care in Gaza [reposted]]]></title>
-        <id>http://xianblog.wordpress.com/?p=54454</id>
-        <link href="https://xianblog.wordpress.com/2023/11/14/call-for-immediate-action-to-halt-attacks-on-health-care-in-gaza-reposted/"/>
-        <updated>2023-11-13T23:23:19.000Z</updated>
-        <summary type="html"><![CDATA[The regional directors of UNFPA, UNICEF and WHO call for urgent international action to end the ongoing attacks on hospitals in Gaza. We are horrified at the latest reports of attacks on and in the vicinity of Al-Shifa Hospital, Al-Rantissi Naser Paediatric Hospital, Al-Quds Hospital, and others in Gaza city and northern Gaza, killing many, […]]]></summary>
-        <author>
-            <name>xi'an</name>
         </author>
     </entry>
 </feed>
