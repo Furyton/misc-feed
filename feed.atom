@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-12-13T08:19:41.931Z</updated>
+    <updated>2023-12-13T09:15:48.809Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[A Session Type System for Asynchronous Unreliable Broadcast
+  Communication]]></title>
+        <id>http://arxiv.org/abs/1902.01353</id>
+        <link href="http://arxiv.org/abs/1902.01353"/>
+        <updated>2023-12-13T09:15:41.199Z</updated>
+        <summary type="html"><![CDATA[Dimitrios Kouzapas, Ramunas Forsberg Gutkovas, A. Laura Voinea
+ , Simon J. Gay]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Efficient Ranking of Lyndon Words and Decoding Lexicographically Minimal
   de Bruijn Sequence]]></title>
