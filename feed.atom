@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-12-13T04:18:43.815Z</updated>
+    <updated>2023-12-13T05:14:48.371Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -3159,16 +3159,6 @@ Despite their widespread usage, deep learning classifiers are acutely vulnerable
         <summary type="html"><![CDATA[Optimizing under uncertainty is definitionally ill-posed]]></summary>
         <author>
             <name>Ben Recht</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The history of "artificial intelligence"]]></title>
-        <id>https://languagelog.ldc.upenn.edu/nll/?p=61238</id>
-        <link href="https://languagelog.ldc.upenn.edu/nll/?p=61238&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=the-history-of-artificial-intelligence"/>
-        <updated>2023-11-13T16:29:29.000Z</updated>
-        <summary type="html"><![CDATA[The Google Books ngram plot for "artificial intelligence" offers a graph of AI's culturomics: According to the OED, the first use of the term artificial intelligence was in a 13-page grant application by John McCarthy, Marvin Minsky, Nathaniel Rochester, and Claude Shannon, "A proposal for the Dartmouth summer research project on artificial intelligence", written in […]]]></summary>
-        <author>
-            <name>Mark Liberman</name>
         </author>
     </entry>
 </feed>
