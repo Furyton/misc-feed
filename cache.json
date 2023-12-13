@@ -1736,16 +1736,6 @@
           "wordCount": 1250,
           "title": "Ghostbuster: Detecting Text Ghostwritten by Large Language Models",
           "imageUrl": "http://bair.berkeley.edu/blog/assets/ghostbuster/overview_hires.png"
-        },
-        {
-          "id": "http://bair.berkeley.edu/blog/2023/11/14/fcnn/",
-          "author": null,
-          "description": "Asymmetric Certified Robustness via Feature-Convex Neural Networks\n\nTLDR: We propose the asymmetric certified robustness problem, which requires certified robustness for only one class and reflects real-world adversarial scenarios. This focused setting allows us to introduce feature-convex classifiers, which produce closed-form and deterministic certified radii on the order of milliseconds.\nDespite their widespread usage, deep learning classifiers are acutely vulnerable to adversarial examples: small, human-imperceptible image perturbations that fool machine learning models into misclassifying the modified input. This weakness severely undermines the reliability of safety-critical processes that incorporate machine learning. Many empirical defenses against adversarial perturbations have be…",
-          "link": "http://bair.berkeley.edu/blog/2023/11/14/fcnn/",
-          "publishedOn": "2023-11-14T09:00:00.000Z",
-          "wordCount": 1056,
-          "title": "Asymmetric Certified Robustness via Feature-Convex Neural Networks",
-          "imageUrl": "http://bair.berkeley.edu/blog/assets/fcnn/figure1.png"
         }
       ]
     },
