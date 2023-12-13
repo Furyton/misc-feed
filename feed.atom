@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-12-13T14:15:20.501Z</updated>
+    <updated>2023-12-13T15:16:29.184Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -3078,39 +3078,6 @@ TLDR: We propose the asymmetric certified robustness problem, which requires cer
 Despite their widespread usage, deep learning classifiers are acutely vulnerable to adversarial examples: small, human-imperceptible image perturbations that fool machine learning models into misclassifying the modified input. This weakness severely undermines the reliability of safety-critical processes that incorporate machine learning. Many empirical defenses against adversarial perturbations have be…]]></summary>
         <author>
             <name>The Berkeley Artificial Intelligence Research Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mixed Semi-Supervised Generalized-Linear-Regression with applications to
-  Deep-Learning and Interpolators]]></title>
-        <id>http://arxiv.org/abs/2302.09526</id>
-        <link href="http://arxiv.org/abs/2302.09526"/>
-        <updated>2023-11-14T03:15:37.971Z</updated>
-        <summary type="html"><![CDATA[Oren Yuval, Saharon Rosset]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tackling the Curse of Dimensionality with Physics-Informed Neural
-  Networks]]></title>
-        <id>http://arxiv.org/abs/2307.12306</id>
-        <link href="http://arxiv.org/abs/2307.12306"/>
-        <updated>2023-11-14T03:15:37.795Z</updated>
-        <summary type="html"><![CDATA[Zheyuan Hu, Khemraj Shukla, George Em Karniadakis, Kenji Kawaguchi]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Non-approximability of constructive global $\mathcal{L}^2$ minimizers by
-  gradient descent in Deep Learning]]></title>
-        <id>http://arxiv.org/abs/2311.07065</id>
-        <link href="http://arxiv.org/abs/2311.07065"/>
-        <updated>2023-11-14T03:15:37.760Z</updated>
-        <summary type="html"><![CDATA[Thomas Chen, Patricia Mu\~noz Ewald]]></summary>
-        <author>
-            <name>arxivist feed</name>
         </author>
     </entry>
 </feed>
