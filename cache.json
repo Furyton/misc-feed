@@ -2774,16 +2774,6 @@
           "wordCount": 27589,
           "title": "Responsible AI at Google Research: Adversarial testing for generative AI safety",
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEghkgEei5l04Gs6hz4cLk9IqdDbXcx-41xZsRsJ-b2WHLDng1eZzJqo9eAwBZjZHc5P2akAKxT6vQLbn0-5nxy_OuPA5QIyWAV9Yy_4iIGch-zM2W-88Y-6e8HxkbG39hemnzheAx5GUvkMspUCaQiqE5RtxYvFKj-bI0pKzOhFVrWmSOgHJisYHBDfGdCl/w1200-h630-p-k-no-nu/lockup_GoogleResearch_FullColor_Hero.jpg"
-        },
-        {
-          "id": "http://blog.research.google/2023/11/scaling-multimodal-understanding-to.html",
-          "author": null,
-          "description": "Posted by Isaac Noble, Software Engineer, Google Research, and Anelia Angelova, Research Scientist, Google DeepMind \n\n\n\n\n\nWhen building machine learning models for real-life applications, we need to consider inputs from multiple modalities in order to capture various aspects of the world around us. For example, audio, video, and text all provide varied and complementary information about a visual input. However, building multimodal models is challenging due to the heterogeneity of the modalities. Some of the modalities might be well synchronized in time (e.g., audio, video) but not aligned with text. Furthermore, the large volume of data in video and audio signals is much larger than that in text, so when combining them in multimodal models, video and audio often cannot be fully consumed a…",
-          "link": "http://blog.research.google/2023/11/scaling-multimodal-understanding-to.html",
-          "publishedOn": "2023-11-14T20:28:00.000Z",
-          "wordCount": 27987,
-          "title": "Scaling multimodal understanding to long videos",
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhS9q_iPaPNyYexT4zpSTnERwHJJGcmOemvRjjqD9sNPMwibC-iV5AU2P4J9VrPE_NGFyFz5QLxHpCti9Y-bOPEi9XPCev5YwIpNKPMECDxk1prmksf99tPHgf1uQb7EW3zSmnIMWIFwAjvM7GldhsEtW7eogo1sG1L1nxD8UPIi0fpHR_Iwp8fJTdoUnQB/w1200-h630-p-k-no-nu/mirasol.png"
         }
       ]
     },
