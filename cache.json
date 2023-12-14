@@ -1726,18 +1726,7 @@
       "title": "The Berkeley Artificial Intelligence Research Blog",
       "feedUrl": "https://bair.berkeley.edu/blog/feed",
       "siteUrl": "http://bair.berkeley.edu/blog/",
-      "articles": [
-        {
-          "id": "http://bair.berkeley.edu/blog/2023/11/14/ghostbuster/",
-          "author": null,
-          "description": "The structure of Ghostbuster, our new state-of-the-art method for detecting AI-generated text.\n\n\nLarge language models like ChatGPT write impressively well—so well, in fact, that they’ve become a problem. Students have begun using these models to ghostwrite assignments, leading some schools to ban ChatGPT. In addition, these models are also prone to producing text with factual errors, so wary readers may want to know if generative AI tools have been used to ghostwrite news articles or other sources before trusting them.\nWhat can teachers and consumers do? Existing tools to detect AI-generated text sometimes do poorly on data that differs from what they were trained on. In addition, if these models falsely classify real human writing as AI-generated, they can jeopardize students whose genui…",
-          "link": "http://bair.berkeley.edu/blog/2023/11/14/ghostbuster/",
-          "publishedOn": "2023-11-14T12:30:00.000Z",
-          "wordCount": 1250,
-          "title": "Ghostbuster: Detecting Text Ghostwritten by Large Language Models",
-          "imageUrl": "http://bair.berkeley.edu/blog/assets/ghostbuster/overview_hires.png"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "inFERENCe",
@@ -2360,6 +2349,16 @@
       "feedUrl": "https://xianblog.wordpress.com/feed/",
       "siteUrl": "https://xianblog.wordpress.com",
       "articles": [
+        {
+          "id": "http://xianblog.wordpress.com/?p=54702",
+          "author": "xi'an",
+          "description": "Visit the post for more.",
+          "link": "https://xianblog.wordpress.com/2023/12/14/sound-ai-call-for-phd-applicants/",
+          "publishedOn": "2023-12-13T23:23:58.000Z",
+          "wordCount": 2173,
+          "title": "sound AI call for PhD applicants",
+          "imageUrl": "https://xianblog.files.wordpress.com/2023/12/temp.jpg"
+        },
         {
           "id": "http://xianblog.wordpress.com/?p=54553",
           "author": "xi'an",
