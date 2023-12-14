@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-12-14T05:14:47.787Z</updated>
+    <updated>2023-12-14T06:20:10.839Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -3078,26 +3078,6 @@ GenAI models have enabled unprecedented capabilities leading …]]></summary>
 When building machine learning models for real-life applications, we need to consider inputs from multiple modalities in order to capture various aspects of the world around us. For example, audio, video, and text all provide varied and complementary information about a visual input. However, building multimodal models is challenging due to the heterogeneity of the modalities. Some of the modalities might be well synchronized in time (e.g., audio, video) but not aligned with text. Furthermore, the large volume of data in video and audio signals is much larger than that in text, so when combining them in multimodal models, video and audio often cannot be fully consumed a…]]></summary>
         <author>
             <name>Google AI Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Beer Battle Bowls]]></title>
-        <id>https://languagelog.ldc.upenn.edu/nll/?p=61267</id>
-        <link href="https://languagelog.ldc.upenn.edu/nll/?p=61267&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=beer-battle-bowls"/>
-        <updated>2023-11-14T17:54:30.000Z</updated>
-        <summary type="html"><![CDATA[Mark Metcalf had lunch with his in-laws at a great Cantonese restaurant in Taichung, Taiwan.  They shared a bottle of Táiwān píjiǔ 台灣啤酒 ("Taiwan beer") and were given chilled “Hong Kong style” battle bowls – emblazoned with zhàndòu wǎn 戰鬥碗 ("battle bowl") on the side and with shēng 勝 ("victory") on the inside bottom –  to drink it. Neither Mark […]]]></summary>
-        <author>
-            <name>Victor Mair</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chinglish trifecta]]></title>
-        <id>https://languagelog.ldc.upenn.edu/nll/?p=61194</id>
-        <link href="https://languagelog.ldc.upenn.edu/nll/?p=61194&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=chinglish-trifecta"/>
-        <updated>2023-11-14T17:49:04.000Z</updated>
-        <summary type="html"><![CDATA[It's been a while. From Qingchen Li: The sign says: kànhǎo értóng 看好儿童 "take care of / look out for children" wénmíng shāng méi 文明商梅 "be civilized in appreciating the plum blossoms" qǐng wù rùnèi 请勿入内 "no entry" qīngcǎo yīyī 青草依依 "tender green grass" qǐngnín àixī 请您爱惜 "respectfully please cherish it" The fact that we don't […]]]></summary>
-        <author>
-            <name>Victor Mair</name>
         </author>
     </entry>
 </feed>
