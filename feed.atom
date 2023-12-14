@@ -2,10 +2,67 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-12-14T02:27:09.799Z</updated>
+    <updated>2023-12-14T03:16:07.524Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Big Data -- Supply Chain Management Framework for Forecasting: Data
+  Preprocessing and Machine Learning Techniques]]></title>
+        <id>http://arxiv.org/abs/2307.12971</id>
+        <link href="http://arxiv.org/abs/2307.12971"/>
+        <updated>2023-12-14T03:16:06.178Z</updated>
+        <summary type="html"><![CDATA[Md Abrar Jahin, Md Sakib Hossain Shovon, Jungpil Shin, Istiyaque Ahmed
+  Ridoy, Yoichi Tomioka, M. F. Mridha]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Choice of Noninformative Priors for Thompson Sampling in
+  Multiparameter Bandit Models]]></title>
+        <id>http://arxiv.org/abs/2302.14407</id>
+        <link href="http://arxiv.org/abs/2302.14407"/>
+        <updated>2023-12-14T03:16:06.175Z</updated>
+        <summary type="html"><![CDATA[Jongyeong Lee, Chao-Kai Chiang, Masashi Sugiyama]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Direct Preference Optimization: Your Language Model is Secretly a Reward
+  Model]]></title>
+        <id>http://arxiv.org/abs/2305.18290</id>
+        <link href="http://arxiv.org/abs/2305.18290"/>
+        <updated>2023-12-14T03:16:06.161Z</updated>
+        <summary type="html"><![CDATA[Rafael Rafailov, Archit Sharma, Eric Mitchell, Stefano Ermon,
+  Christopher D. Manning, Chelsea Finn]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ScaLearn: Simple and Highly Parameter-Efficient Task Transfer by
+  Learning to Scale]]></title>
+        <id>http://arxiv.org/abs/2310.01217</id>
+        <link href="http://arxiv.org/abs/2310.01217"/>
+        <updated>2023-12-14T03:16:06.115Z</updated>
+        <summary type="html"><![CDATA[Markus Frohmann, Carolin Holtermann, Shahed Masoudian, Anne Lauscher,
+  Navid Rekabsaz]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mixed moving average field guided learning for spatio-temporal data]]></title>
+        <id>http://arxiv.org/abs/2301.00736</id>
+        <link href="http://arxiv.org/abs/2301.00736"/>
+        <updated>2023-12-14T03:16:06.047Z</updated>
+        <summary type="html"><![CDATA[Imma Valentina Curato, Orkun Furat, Lorenzo Proietti, Bennet Stroeh]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Franglais freaks Quebec]]></title>
         <id>https://languagelog.ldc.upenn.edu/nll/?p=61679</id>
@@ -3081,16 +3138,6 @@ When building machine learning models for real-life applications, we need to con
         <summary type="html"><![CDATA[There's no master algorithm for decision making under uncertainty.]]></summary>
         <author>
             <name>Ben Recht</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GraphCast: AI model for faster and more accurate global weather forecasting]]></title>
-        <id>https://deepmind.google/discover/blog/graphcast-ai-model-for-faster-and-more-accurate-global-weather-forecasting/</id>
-        <link href="https://deepmind.google/discover/blog/graphcast-ai-model-for-faster-and-more-accurate-global-weather-forecasting/"/>
-        <updated>2023-11-14T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[We introduce GraphCast, a state-of-the-art AI model able to make medium-range weather forecasts with unprecedented accuracy]]></summary>
-        <author>
-            <name>Google DeepMind Blog</name>
         </author>
     </entry>
 </feed>
