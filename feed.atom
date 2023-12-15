@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-12-15T07:14:14.382Z</updated>
+    <updated>2023-12-15T08:20:16.582Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -3000,16 +3000,6 @@ GenAI models have enabled unprecedented capabilities leading …]]></summary>
         <summary type="html"><![CDATA[Every few weeks, I get a warning from Firefox (my default browser) that an update is not implemented. This is due to Ubuntu 22.0 adopting the snap technology for handling its packages and their updates. Supposedly helping with handling versions and dependences. This update can be done with the line command sudo snap refresh firefox […]]]></summary>
         <author>
             <name>xi'an</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MLIR — A Global Optimization and Dataflow Analysis]]></title>
-        <id>https://jeremykun.com/?p=120314</id>
-        <link href="https://jeremykun.com/2023/11/15/mlir-a-global-optimization-and-dataflow-analysis/"/>
-        <updated>2023-11-15T19:20:52.000Z</updated>
-        <summary type="html"><![CDATA[Table of Contents In this article we’ll implement a global optimization pass, and show how to use the dataflow analysis framework to verify the results of our optimization. The code for this article is in this pull request, and as usual the commits are organized to be read in order. The noisy arithmetic problem This […]]]></summary>
-        <author>
-            <name>Jeremy Kun</name>
         </author>
     </entry>
 </feed>
