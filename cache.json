@@ -2543,6 +2543,16 @@
       "siteUrl": "http://blog.research.google/",
       "articles": [
         {
+          "id": "http://blog.research.google/2023/12/styledrop-text-to-image-generation-in.html",
+          "author": null,
+          "description": "Posted by Kihyuk Sohn and Dilip Krishnan, Research Scientists, Google Research\n\n\n\n\nText-to-image models trained on large volumes of image-text pairs have enabled the creation of rich and diverse images encompassing many genres and themes. Moreover, popular styles such as “anime” or “steampunk”, when added to the input text prompt, may translate to specific visual outputs. While many efforts have been put into prompt engineering, a wide range of styles are simply hard to describe in text form due to the nuances of color schemes, illumination, and other characteristics. As an example, “watercolor painting” may refer to various styles, and using a text prompt that simply says “watercolor painting style” may either result in one specific style or an unpredictable mix of several.\n \n\n\n\n\nWhen we …",
+          "link": "http://blog.research.google/2023/12/styledrop-text-to-image-generation-in.html",
+          "publishedOn": "2023-12-15T19:40:00.000Z",
+          "wordCount": 27619,
+          "title": "StyleDrop: Text-to-image generation in any style",
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhEAbsx3XSFVK_2XyQI-KD2x-h0D2qTD0QZzeVyTLk9umNZJbXEiQk7O84xb8eyNQkfNIu6bqg9UcqVUFC-uKMbsFvxRmRWkokKR4VinfUZsYZlSBdY7BU905YIxWfrCtmCMkT7wcnpL1nnRgN0xPE15uhsLl0CvI8D2OI3ZgBTcRq3G1zVPUJu7L9tO_P8/w1200-h630-p-k-no-nu/StyleDrop%20hero.gif"
+        },
+        {
           "id": "http://blog.research.google/2023/12/google-at-neurips-2023.html",
           "author": null,
           "description": "Posted by Catherine Armato, Program Manager, Google\n\n\n\n\nThis week the 37th annual Conference on Neural Information Processing Systems (NeurIPS 2023), the biggest machine learning conference of the year, kicks off in New Orleans, LA. Google is proud to be a Diamond Level sponsor of NeurIPS this year and will have a strong presence with >170 accepted papers, two keynote talks, and additional contributions to the broader research community through organizational support and involvement in >20 workshops and tutorials. Google is also proud to be a Platinum Sponsor for both the Women in Machine Learning and LatinX in AI workshops. We look forward to sharing some of our extensive ML research and expanding our partnership with the broader ML research community.\n\n\n\nAttending for NeurIPS 2023 in per…",
@@ -3218,16 +3228,6 @@
           "publishedOn": "2023-11-16T19:39:21.000Z",
           "wordCount": 2378,
           "title": "Pluperfect",
-          "imageUrl": null
-        },
-        {
-          "id": "https://languagelog.ldc.upenn.edu/nll/?p=61300",
-          "author": "Mark Liberman",
-          "description": "Today's xkcd: Mouseover title: \"The problems started with my resolution next year to reject temporal causality.\" Two earlier empiricism jokes can be found in \"Learning empiricism\", 4/29/2020. For a larger dose of epistemology, without jokes, see \"Rationalism vs. Empiricism\", The Stanford Encyclopedia of Philosophy.",
-          "link": "https://languagelog.ldc.upenn.edu/nll/?p=61300&utm_source=rss&utm_medium=rss&utm_campaign=empiricism-as-a-new-years-resolution",
-          "publishedOn": "2023-11-16T08:25:24.000Z",
-          "wordCount": 2008,
-          "title": "Empiricism as a New Year's resolution",
           "imageUrl": null
         }
       ]

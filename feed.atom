@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-12-15T20:16:36.725Z</updated>
+    <updated>2023-12-15T21:13:26.504Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[StyleDrop: Text-to-image generation in any style]]></title>
+        <id>http://blog.research.google/2023/12/styledrop-text-to-image-generation-in.html</id>
+        <link href="http://blog.research.google/2023/12/styledrop-text-to-image-generation-in.html"/>
+        <updated>2023-12-15T19:40:00.000Z</updated>
+        <summary type="html"><![CDATA[Posted by Kihyuk Sohn and Dilip Krishnan, Research Scientists, Google Research
+
+
+
+
+Text-to-image models trained on large volumes of image-text pairs have enabled the creation of rich and diverse images encompassing many genres and themes. Moreover, popular styles such as “anime” or “steampunk”, when added to the input text prompt, may translate to specific visual outputs. While many efforts have been put into prompt engineering, a wide range of styles are simply hard to describe in text form due to the nuances of color schemes, illumination, and other characteristics. As an example, “watercolor painting” may refer to various styles, and using a text prompt that simply says “watercolor painting style” may either result in one specific style or an unpredictable mix of several.
+ 
+
+
+
+
+When we …]]></summary>
+        <author>
+            <name>Google AI Blog</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[John McWhorter unconfuses Bill Gates]]></title>
         <id>https://languagelog.ldc.upenn.edu/nll/?p=61700</id>
@@ -2943,16 +2964,6 @@ GenAI models have enabled unprecedented capabilities leading …]]></summary>
         <summary type="html"><![CDATA[The strange game of policy optimization on long time horizons]]></summary>
         <author>
             <name>Ben Recht</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Empiricism as a New Year's resolution]]></title>
-        <id>https://languagelog.ldc.upenn.edu/nll/?p=61300</id>
-        <link href="https://languagelog.ldc.upenn.edu/nll/?p=61300&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=empiricism-as-a-new-years-resolution"/>
-        <updated>2023-11-16T08:25:24.000Z</updated>
-        <summary type="html"><![CDATA[Today's xkcd: Mouseover title: "The problems started with my resolution next year to reject temporal causality." Two earlier empiricism jokes can be found in "Learning empiricism", 4/29/2020. For a larger dose of epistemology, without jokes, see "Rationalism vs. Empiricism", The Stanford Encyclopedia of Philosophy.]]></summary>
-        <author>
-            <name>Mark Liberman</name>
         </author>
     </entry>
 </feed>
