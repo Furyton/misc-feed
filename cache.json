@@ -2543,6 +2543,16 @@
       "siteUrl": "http://blog.research.google/",
       "articles": [
         {
+          "id": "http://blog.research.google/2023/12/advancements-in-machine-learning-for.html",
+          "author": null,
+          "description": "Posted by Phitchaya Mangpo Phothilimthana, Staff Research Scientist, Google DeepMind, and Bryan Perozzi, Senior Staff Research Scientist, Google Research\n\n\n\n\n\nWith the recent and accelerated advances in machine learning (ML), machines can understand natural language, engage in conversations, draw images, create videos and more. Modern ML models are programmed and trained using ML programming frameworks, such as TensorFlow, JAX, PyTorch, among many others. These libraries provide high-level instructions to ML practitioners, such as linear algebra operations (e.g., matrix multiplication, convolution, etc.) and neural network layers (e.g., 2D convolution layers, transformer layers). Importantly, practitioners need not worry about how to make their models run efficiently on hardware because an…",
+          "link": "http://blog.research.google/2023/12/advancements-in-machine-learning-for.html",
+          "publishedOn": "2023-12-15T22:34:00.000Z",
+          "wordCount": 27928,
+          "title": "Advancements in machine learning for machine learning",
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8VzlEwBVhUqzyMz9pok3Vx0ft_8X_IZyvjpiFtX7PewhMGRzI6UmfEtUKSQ_kiO7CW8-KQ1OmDujYmHpwLvRndQFqNnmQJnEgnMo5Gj5tJi5aVnscmlo7vbHFFhS8l-yMoIICJLm80V9EPpyIObG-07Cw_VYjzWNfaZ0E_vp4f8v_WGpn1lU8F3LsJHIx/w1200-h630-p-k-no-nu/Screenshot%202023-12-15%20at%202.33.10%E2%80%AFPM.png"
+        },
+        {
           "id": "http://blog.research.google/2023/12/styledrop-text-to-image-generation-in.html",
           "author": null,
           "description": "Posted by Kihyuk Sohn and Dilip Krishnan, Research Scientists, Google Research\n\n\n\n\nText-to-image models trained on large volumes of image-text pairs have enabled the creation of rich and diverse images encompassing many genres and themes. Moreover, popular styles such as “anime” or “steampunk”, when added to the input text prompt, may translate to specific visual outputs. While many efforts have been put into prompt engineering, a wide range of styles are simply hard to describe in text form due to the nuances of color schemes, illumination, and other characteristics. As an example, “watercolor painting” may refer to various styles, and using a text prompt that simply says “watercolor painting style” may either result in one specific style or an unpredictable mix of several.\n \n\n\n\n\nWhen we …",
