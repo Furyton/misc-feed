@@ -6,6 +6,46 @@
       "siteUrl": "https://www.arxivist.com",
       "articles": [
         {
+          "id": "http://arxiv.org/abs/2305.16846",
+          "author": null,
+          "description": "F. Arend Torres, Marcello Massimo Negri, Marco Inversi, Jonathan\n  Aellen, Volker Roth",
+          "link": "http://arxiv.org/abs/2305.16846",
+          "publishedOn": "2023-12-15T04:18:50.122Z",
+          "wordCount": 706,
+          "title": "Lagrangian Flow Networks for Conservation Laws",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2303.01141",
+          "author": null,
+          "description": "Kshitij Goyal, Sebastijan Dumancic, Hendrik Blockeel",
+          "link": "http://arxiv.org/abs/2303.01141",
+          "publishedOn": "2023-12-15T04:18:50.113Z",
+          "wordCount": 725,
+          "title": "DeepSaDe: Learning Neural Networks that Guarantee Domain Constraint\n  Satisfaction",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2205.14683",
+          "author": null,
+          "description": "Alireza Seif, Sarah A.M. Loos, Gennaro Tucci, \\'Edgar Rold\\'an,\n  Sebastian Goldt",
+          "link": "http://arxiv.org/abs/2205.14683",
+          "publishedOn": "2023-12-15T04:18:48.712Z",
+          "wordCount": 740,
+          "title": "The impact of memory on learning sequence-to-sequence tasks",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2211.12986",
+          "author": null,
+          "description": "Steffen Limmer, Alberto Martinez Alba, Nicola Michailow",
+          "link": "http://arxiv.org/abs/2211.12986",
+          "publishedOn": "2023-12-15T04:18:48.705Z",
+          "wordCount": 628,
+          "title": "Physics-informed neural networks for pathloss prediction",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
           "id": "http://arxiv.org/abs/2307.12971",
           "author": null,
           "description": "Md Abrar Jahin, Md Sakib Hossain Shovon, Jungpil Shin, Istiyaque Ahmed\n  Ridoy, Yoichi Tomioka, M. F. Mridha",
@@ -1582,38 +1622,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substack-post-media.s3.amazonaws.com/public/images/8257423a-aa8c-4b7b-8e53-832bfffab0ed_445x300.png"
-        },
-        {
-          "id": "https://www.argmin.net/p/integral-action",
-          "author": "Ben Recht",
-          "description": "Gradient descent pops up again as a universal regulator",
-          "link": "https://www.argmin.net/p/integral-action",
-          "publishedOn": "2023-11-15T15:27:10.000Z",
-          "wordCount": null,
-          "title": "Integral Action",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substack-post-media.s3.amazonaws.com/public/images/40eaebf9-3286-4e75-aef2-4957af0a363e_452x300.png",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substack-post-media.s3.amazonaws.com/public/images/40eaebf9-3286-4e75-aef2-4957af0a363e_452x300.png"
-        },
-        {
-          "id": "https://argmin.substack.com/p/integral-action",
-          "author": "Ben Recht",
-          "description": "Gradient descent pops up again as a universal regulator",
-          "link": "https://argmin.substack.com/p/integral-action",
-          "publishedOn": "2023-11-15T15:27:10.000Z",
-          "wordCount": null,
-          "title": "Integral Action",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substack-post-media.s3.amazonaws.com/public/images/40eaebf9-3286-4e75-aef2-4957af0a363e_452x300.png",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substack-post-media.s3.amazonaws.com/public/images/40eaebf9-3286-4e75-aef2-4957af0a363e_452x300.png"
         }
       ]
     },
@@ -2212,38 +2220,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substack-post-media.s3.amazonaws.com/public/images/8257423a-aa8c-4b7b-8e53-832bfffab0ed_445x300.png"
-        },
-        {
-          "id": "https://www.argmin.net/p/integral-action",
-          "author": "Ben Recht",
-          "description": "Gradient descent pops up again as a universal regulator",
-          "link": "https://www.argmin.net/p/integral-action",
-          "publishedOn": "2023-11-15T15:27:10.000Z",
-          "wordCount": null,
-          "title": "Integral Action",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substack-post-media.s3.amazonaws.com/public/images/40eaebf9-3286-4e75-aef2-4957af0a363e_452x300.png",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substack-post-media.s3.amazonaws.com/public/images/40eaebf9-3286-4e75-aef2-4957af0a363e_452x300.png"
-        },
-        {
-          "id": "https://argmin.substack.com/p/integral-action",
-          "author": "Ben Recht",
-          "description": "Gradient descent pops up again as a universal regulator",
-          "link": "https://argmin.substack.com/p/integral-action",
-          "publishedOn": "2023-11-15T15:27:10.000Z",
-          "wordCount": null,
-          "title": "Integral Action",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substack-post-media.s3.amazonaws.com/public/images/40eaebf9-3286-4e75-aef2-4957af0a363e_452x300.png",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substack-post-media.s3.amazonaws.com/public/images/40eaebf9-3286-4e75-aef2-4957af0a363e_452x300.png"
         }
       ]
     },

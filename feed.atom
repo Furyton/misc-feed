@@ -2,10 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-12-15T03:16:39.642Z</updated>
+    <updated>2023-12-15T04:18:54.096Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Lagrangian Flow Networks for Conservation Laws]]></title>
+        <id>http://arxiv.org/abs/2305.16846</id>
+        <link href="http://arxiv.org/abs/2305.16846"/>
+        <updated>2023-12-15T04:18:50.122Z</updated>
+        <summary type="html"><![CDATA[F. Arend Torres, Marcello Massimo Negri, Marco Inversi, Jonathan
+  Aellen, Volker Roth]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DeepSaDe: Learning Neural Networks that Guarantee Domain Constraint
+  Satisfaction]]></title>
+        <id>http://arxiv.org/abs/2303.01141</id>
+        <link href="http://arxiv.org/abs/2303.01141"/>
+        <updated>2023-12-15T04:18:50.113Z</updated>
+        <summary type="html"><![CDATA[Kshitij Goyal, Sebastijan Dumancic, Hendrik Blockeel]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The impact of memory on learning sequence-to-sequence tasks]]></title>
+        <id>http://arxiv.org/abs/2205.14683</id>
+        <link href="http://arxiv.org/abs/2205.14683"/>
+        <updated>2023-12-15T04:18:48.712Z</updated>
+        <summary type="html"><![CDATA[Alireza Seif, Sarah A.M. Loos, Gennaro Tucci, \'Edgar Rold\'an,
+  Sebastian Goldt]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Physics-informed neural networks for pathloss prediction]]></title>
+        <id>http://arxiv.org/abs/2211.12986</id>
+        <link href="http://arxiv.org/abs/2211.12986"/>
+        <updated>2023-12-15T04:18:48.705Z</updated>
+        <summary type="html"><![CDATA[Steffen Limmer, Alberto Martinez Alba, Nicola Michailow]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[working inside a painting]]></title>
         <id>http://xianblog.wordpress.com/?p=53670</id>
@@ -2967,46 +3010,6 @@ GenAI models have enabled unprecedented capabilities leading …]]></summary>
         <summary type="html"><![CDATA[Table of Contents In this article we’ll implement a global optimization pass, and show how to use the dataflow analysis framework to verify the results of our optimization. The code for this article is in this pull request, and as usual the commits are organized to be read in order. The noisy arithmetic problem This […]]]></summary>
         <author>
             <name>Jeremy Kun</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Integral Action]]></title>
-        <id>https://www.argmin.net/p/integral-action</id>
-        <link href="https://www.argmin.net/p/integral-action"/>
-        <updated>2023-11-15T15:27:10.000Z</updated>
-        <summary type="html"><![CDATA[Gradient descent pops up again as a universal regulator]]></summary>
-        <author>
-            <name>Ben Recht</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Integral Action]]></title>
-        <id>https://argmin.substack.com/p/integral-action</id>
-        <link href="https://argmin.substack.com/p/integral-action"/>
-        <updated>2023-11-15T15:27:10.000Z</updated>
-        <summary type="html"><![CDATA[Gradient descent pops up again as a universal regulator]]></summary>
-        <author>
-            <name>Ben Recht</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Integral Action]]></title>
-        <id>https://www.argmin.net/p/integral-action</id>
-        <link href="https://www.argmin.net/p/integral-action"/>
-        <updated>2023-11-15T15:27:10.000Z</updated>
-        <summary type="html"><![CDATA[Gradient descent pops up again as a universal regulator]]></summary>
-        <author>
-            <name>Ben Recht</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Integral Action]]></title>
-        <id>https://argmin.substack.com/p/integral-action</id>
-        <link href="https://argmin.substack.com/p/integral-action"/>
-        <updated>2023-11-15T15:27:10.000Z</updated>
-        <summary type="html"><![CDATA[Gradient descent pops up again as a universal regulator]]></summary>
-        <author>
-            <name>Ben Recht</name>
         </author>
     </entry>
 </feed>
