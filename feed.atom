@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-12-15T14:14:26.164Z</updated>
+    <updated>2023-12-15T15:15:48.095Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The Birth of the Utility Monster]]></title>
+        <id>https://www.argmin.net/p/the-birth-of-the-utility-monster</id>
+        <link href="https://www.argmin.net/p/the-birth-of-the-utility-monster"/>
+        <updated>2023-12-15T15:07:23.000Z</updated>
+        <summary type="html"><![CDATA[Explaining Ramsey's theory. No, not the combinatorics one.]]></summary>
+        <author>
+            <name>Ben Recht</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Birth of the Utility Monster]]></title>
+        <id>https://www.argmin.net/p/the-birth-of-the-utility-monster</id>
+        <link href="https://www.argmin.net/p/the-birth-of-the-utility-monster"/>
+        <updated>2023-12-15T15:07:23.000Z</updated>
+        <summary type="html"><![CDATA[Explaining Ramsey's theory. No, not the combinatorics one.]]></summary>
+        <author>
+            <name>Ben Recht</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Abbott's Abode, part 2]]></title>
         <id>https://languagelog.ldc.upenn.edu/nll/?p=61684</id>
@@ -97,6 +117,16 @@
         <summary type="html"><![CDATA[In a paper published in Nature, we introduce FunSearch, a method for searching for “functions” written in computer code, and find new solutions in mathematics and computer science. FunSearch works by pairing a pre-trained LLM, whose goal is to provide creative solutions in the form of computer code, with an automated “evaluator”, which guards against hallucinations and incorrect ideas.]]></summary>
         <author>
             <name>Google DeepMind Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Empowering Models with Performance: The Art of Generalized Model Transformation Approach]]></title>
+        <id>https://pytorch.org/blog/empowering-models-performance/</id>
+        <link href="https://pytorch.org/blog/empowering-models-performance/"/>
+        <updated>2023-12-14T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Introduction]]></summary>
+        <author>
+            <name>PyTorch Website</name>
         </author>
     </entry>
     <entry>

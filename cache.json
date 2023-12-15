@@ -1336,6 +1336,22 @@
       "siteUrl": "https://www.argmin.net",
       "articles": [
         {
+          "id": "https://www.argmin.net/p/the-birth-of-the-utility-monster",
+          "author": "Ben Recht",
+          "description": "Explaining Ramsey's theory. No, not the combinatorics one.",
+          "link": "https://www.argmin.net/p/the-birth-of-the-utility-monster",
+          "publishedOn": "2023-12-15T15:07:23.000Z",
+          "wordCount": null,
+          "title": "The Birth of the Utility Monster",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substack-post-media.s3.amazonaws.com/public/images/d9f3209d-2bfb-422b-91f5-9c0fb217b30e_442x300.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substack-post-media.s3.amazonaws.com/public/images/d9f3209d-2bfb-422b-91f5-9c0fb217b30e_442x300.png"
+        },
+        {
           "id": "https://www.argmin.net/p/the-robot-of-pure-reason",
           "author": "Ben Recht",
           "description": "Jaynes, subjective probability, and the thinking machine.",
@@ -1822,6 +1838,16 @@
       "siteUrl": "https://pytorch.org/",
       "articles": [
         {
+          "id": "https://pytorch.org/blog/empowering-models-performance/",
+          "author": null,
+          "description": "Introduction",
+          "link": "https://pytorch.org/blog/empowering-models-performance/",
+          "publishedOn": "2023-12-14T08:00:00.000Z",
+          "wordCount": 1657,
+          "title": "Empowering Models with Performance: The Art of Generalized Model Transformation Approach",
+          "imageUrl": "https://pytorch.org/assets/images/social-share.jpg"
+        },
+        {
           "id": "https://pytorch.org/blog/understanding-gpu-memory-1/",
           "author": null,
           "description": "During your time with PyTorch on GPUs, you may be familiar with this common error message:",
@@ -1922,6 +1948,22 @@
       "feedUrl": "https://www.argmin.net/feed.xml",
       "siteUrl": "https://www.argmin.net",
       "articles": [
+        {
+          "id": "https://www.argmin.net/p/the-birth-of-the-utility-monster",
+          "author": "Ben Recht",
+          "description": "Explaining Ramsey's theory. No, not the combinatorics one.",
+          "link": "https://www.argmin.net/p/the-birth-of-the-utility-monster",
+          "publishedOn": "2023-12-15T15:07:23.000Z",
+          "wordCount": null,
+          "title": "The Birth of the Utility Monster",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substack-post-media.s3.amazonaws.com/public/images/d9f3209d-2bfb-422b-91f5-9c0fb217b30e_442x300.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substack-post-media.s3.amazonaws.com/public/images/d9f3209d-2bfb-422b-91f5-9c0fb217b30e_442x300.png"
+        },
         {
           "id": "https://www.argmin.net/p/the-robot-of-pure-reason",
           "author": "Ben Recht",
