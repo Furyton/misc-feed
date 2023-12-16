@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-12-16T08:18:02.898Z</updated>
+    <updated>2023-12-16T09:14:06.685Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -2919,27 +2919,6 @@ We call this approach Society-Centered AI. It is both an extension and an expans
         <summary type="html"><![CDATA[J.P. Pridham]]></summary>
         <author>
             <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Responsible AI at Google Research: Adversarial testing for generative AI safety]]></title>
-        <id>http://blog.research.google/2023/11/responsible-ai-at-google-research_16.html</id>
-        <link href="http://blog.research.google/2023/11/responsible-ai-at-google-research_16.html"/>
-        <updated>2023-11-16T21:11:00.000Z</updated>
-        <summary type="html"><![CDATA[Posted by Kathy Meier-Hellstern, Building Responsible AI & Data Systems, Director, Google Research
-
-
-
-
-The Responsible AI and Human-Centered Technology (RAI-HCT) team within Google Research is committed to advancing the theory and practice of responsible human-centered AI through a lens of culturally-aware research, to meet the needs of billions of users today, and blaze the path forward for a better AI future. The BRAIDS (Building Responsible AI Data and Solutions) team within RAI-HCT aims to simplify the adoption of RAI practices through the utilization of scalable tools, high-quality data, streamlined processes, and novel research with a current emphasis on addressing the unique challenges posed by generative AI (GenAI).
-
-
-
-
-
-GenAI models have enabled unprecedented capabilities leading …]]></summary>
-        <author>
-            <name>Google AI Blog</name>
         </author>
     </entry>
 </feed>
