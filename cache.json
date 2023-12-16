@@ -1040,7 +1040,18 @@
       "title": "Parsiad Azimzadeh",
       "feedUrl": "http://parsiad.ca/feed.xml",
       "siteUrl": "https://parsiad.ca/",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://parsiad.ca/blog/2023/a_pedagogical_introduction_to_the_determinant/",
+          "author": null,
+          "description": "Motivation",
+          "link": "https://parsiad.ca/blog/2023/a_pedagogical_introduction_to_the_determinant/",
+          "publishedOn": "2023-12-16T20:00:00.000Z",
+          "wordCount": 1867,
+          "title": "A pedagogical introduction to the determinant",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "Windows On Theory",

@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-12-16T19:11:23.259Z</updated>
+    <updated>2023-12-16T20:15:20.859Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[A pedagogical introduction to the determinant]]></title>
+        <id>https://parsiad.ca/blog/2023/a_pedagogical_introduction_to_the_determinant/</id>
+        <link href="https://parsiad.ca/blog/2023/a_pedagogical_introduction_to_the_determinant/"/>
+        <updated>2023-12-16T20:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Motivation]]></summary>
+        <author>
+            <name>Parsiad Azimzadeh</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Where have all the peevers gone?]]></title>
         <id>https://languagelog.ldc.upenn.edu/nll/?p=61714</id>
