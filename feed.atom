@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-12-16T12:26:55.914Z</updated>
+    <updated>2023-12-16T13:16:23.695Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[AI percolates down through the legal system]]></title>
+        <id>https://languagelog.ldc.upenn.edu/nll/?p=61695</id>
+        <link href="https://languagelog.ldc.upenn.edu/nll/?p=61695&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=ai-percolates-down-through-the-legal-system"/>
+        <updated>2023-12-16T12:50:59.000Z</updated>
+        <summary type="html"><![CDATA[There has been considerable concern that AI (e.g., ChatGPT and other LLM-enabled devices) would unduly influence sensitive sectors of society (e.g., the law, health care, education, etc.).  Some of the anti-AI rhetoric has bordered on alarmist (I will write a post about that within a few days. For now, here's an example of how humans […]]]></summary>
+        <author>
+            <name>Victor Mair</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[we need a ceasefire now]]></title>
         <id>http://xianblog.wordpress.com/?p=54721</id>
@@ -2846,16 +2856,6 @@ We call this approach Society-Centered AI. It is both an extension and an expans
         <summary type="html"><![CDATA[Ali Mohaddes, Johannes Lederer]]></summary>
         <author>
             <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Abbreviated and nonstandard kanji]]></title>
-        <id>https://languagelog.ldc.upenn.edu/nll/?p=61304</id>
-        <link href="https://languagelog.ldc.upenn.edu/nll/?p=61304&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=abbreviated-and-nonstandard-kanji"/>
-        <updated>2023-11-17T01:04:28.000Z</updated>
-        <summary type="html"><![CDATA[From Nathan Hopson: I have been reading some handwritten documents from the 1960s and 1970s, and have been reminded that even beyond abbreviations, there were still "nonstandard" kanji in use. I guess this took me off guard mostly because these are school publications. On the abbreviated side, the most obvious example is: 第 → 㐧 […]]]></summary>
-        <author>
-            <name>Victor Mair</name>
         </author>
     </entry>
 </feed>
