@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-12-17T23:14:44.337Z</updated>
+    <updated>2023-12-18T01:09:25.020Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Sumerian and Sinitic]]></title>
+        <id>https://languagelog.ldc.upenn.edu/nll/?p=61723</id>
+        <link href="https://languagelog.ldc.upenn.edu/nll/?p=61723&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=sumerian-and-sinitic"/>
+        <updated>2023-12-18T00:54:22.000Z</updated>
+        <summary type="html"><![CDATA[This amounts to an afterword to this post:  "Hype over AI and Classical Chinese / Literary Sinitic" (11/9/23) Four decades ago, when I was trying to determine what type of language Sinitic was (synthetic, analytic, inflected, isolating, agglutinative, fusional, polysynthetic, etc.), from a survey of all the world's languages that I could get a grasp […]]]></summary>
+        <author>
+            <name>Victor Mair</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[reheated vanilla Rao-Blackwellisation]]></title>
+        <id>http://xianblog.wordpress.com/?p=53316</id>
+        <link href="https://xianblog.wordpress.com/2023/12/18/reheated-vanilla-rao-blackwellisation/"/>
+        <updated>2023-12-17T23:23:41.000Z</updated>
+        <summary type="html"><![CDATA[Over the weekend, I came across a X validated question asking for clarification about our 2012 Vanilla Rao-Blackwellisation paper with Randal. Question written in a somewhat formal style that made our work difficult to recognise… At least for yours truly. Interestingly this led another (major) contributor to X validation to work out an uncompleted illustration […]]]></summary>
+        <author>
+            <name>xi'an</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Center embedding of the week]]></title>
         <id>https://languagelog.ldc.upenn.edu/nll/?p=61737</id>
@@ -14,6 +34,16 @@
         <summary type="html"><![CDATA[Today's Tank McNamara: The crucial panel: The comic starts with the issue of whether Pickleball rules are within the purview of the Guardian of Tennis Rules. But when the recursive GGSRR Guardian intervenes, The Guardian of Golf Rules and the Guardian of Tennis Rules find it impossible to parse his title, as appropriate for human […]]]></summary>
         <author>
             <name>Mark Liberman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The LogSumExp trick]]></title>
+        <id>https://parsiad.ca/blog/2023/the_logsumexp_trick/</id>
+        <link href="https://parsiad.ca/blog/2023/the_logsumexp_trick/"/>
+        <updated>2023-12-17T20:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Motivation]]></summary>
+        <author>
+            <name>Parsiad Azimzadeh</name>
         </author>
     </entry>
     <entry>

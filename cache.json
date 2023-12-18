@@ -1052,6 +1052,16 @@
       "siteUrl": "https://parsiad.ca/",
       "articles": [
         {
+          "id": "https://parsiad.ca/blog/2023/the_logsumexp_trick/",
+          "author": null,
+          "description": "Motivation",
+          "link": "https://parsiad.ca/blog/2023/the_logsumexp_trick/",
+          "publishedOn": "2023-12-17T20:00:00.000Z",
+          "wordCount": 313,
+          "title": "The LogSumExp trick",
+          "imageUrl": null
+        },
+        {
           "id": "https://parsiad.ca/blog/2023/a_pedagogical_introduction_to_the_determinant/",
           "author": null,
           "description": "Motivation",
@@ -1966,6 +1976,16 @@
       "siteUrl": "https://xianblog.wordpress.com",
       "articles": [
         {
+          "id": "http://xianblog.wordpress.com/?p=53316",
+          "author": "xi'an",
+          "description": "Over the weekend, I came across a X validated question asking for clarification about our 2012 Vanilla Rao-Blackwellisation paper with Randal. Question written in a somewhat formal style that made our work difficult to recognise… At least for yours truly. Interestingly this led another (major) contributor to X validation to work out an uncompleted illustration […]",
+          "link": "https://xianblog.wordpress.com/2023/12/18/reheated-vanilla-rao-blackwellisation/",
+          "publishedOn": "2023-12-17T23:23:41.000Z",
+          "wordCount": 2201,
+          "title": "reheated vanilla Rao-Blackwellisation",
+          "imageUrl": "https://i.stack.imgur.com/iXHSQ.png"
+        },
+        {
           "id": "http://xianblog.wordpress.com/?p=54596",
           "author": "xi'an",
           "description": "I was sent [by CUP] Ross & Peköz Second Course in Probablity for review. Although it was published in 2003, a second edition has come out this year. I had not looked at the earlier edition hence will not comment on the differences, but rather reflect on my linear reading of the book and my […]",
@@ -2418,6 +2438,16 @@
       "feedUrl": "https://languagelog.ldc.upenn.edu/nll/?feed=rss2",
       "siteUrl": "https://languagelog.ldc.upenn.edu/nll",
       "articles": [
+        {
+          "id": "https://languagelog.ldc.upenn.edu/nll/?p=61723",
+          "author": "Victor Mair",
+          "description": "This amounts to an afterword to this post:  \"Hype over AI and Classical Chinese / Literary Sinitic\" (11/9/23) Four decades ago, when I was trying to determine what type of language Sinitic was (synthetic, analytic, inflected, isolating, agglutinative, fusional, polysynthetic, etc.), from a survey of all the world's languages that I could get a grasp […]",
+          "link": "https://languagelog.ldc.upenn.edu/nll/?p=61723&utm_source=rss&utm_medium=rss&utm_campaign=sumerian-and-sinitic",
+          "publishedOn": "2023-12-18T00:54:22.000Z",
+          "wordCount": 2714,
+          "title": "Sumerian and Sinitic",
+          "imageUrl": null
+        },
         {
           "id": "https://languagelog.ldc.upenn.edu/nll/?p=61737",
           "author": "Mark Liberman",
