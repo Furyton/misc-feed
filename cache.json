@@ -1464,6 +1464,16 @@
       "siteUrl": "https://pythonspeed.com/atom.xml",
       "articles": [
         {
+          "id": "https://pythonspeed.com/articles/cpu-thread-pool-size/",
+          "author": null,
+          "description": "When you’re running a CPU-intensive parallel program, you often want to have a thread or process pool sized by the number of CPU cores on your machine.\nFewer threads and you’re not taking advantage of all the cores, more than that and your program will start running slower as multiple threads compete for the same core.\nOr that’s the theory, anyway.\nSo how do you check how many cores your computer has?\nAnd is this actually good advice?\nIt turns out to be surprisingly tricky to nail down how many threads to run:\nThe Python standard library provides multiple APIs to get this info, but none are sufficient.\nEven worse, because of CPU features like instruction-level parallelism and simultaneous threading (aka Hyper-threading on Intel CPUs), the number of cores you can effectively use depends on the code you have written!\nLet’s see why it’s so difficult to figure out how many CPU cores your program can use, and then consider a potential solution.\nRead more...",
+          "link": "https://pythonspeed.com/articles/cpu-thread-pool-size/",
+          "publishedOn": "2023-12-18T00:00:00.000Z",
+          "wordCount": 1733,
+          "title": "How many CPU cores can you actually use in parallel?",
+          "imageUrl": "https://pythonspeed.com/assets/titles/cpu-thread-pool-size.png"
+        },
+        {
           "id": "https://pythonspeed.com/articles/polars-pandas-interopability/",
           "author": null,
           "description": "Polars is a dataframe-based library that can be faster, more memory efficient, and often simpler to use than Pandas.\nIt’s also much newer, and correspondingly less popular.\nIn November 2023:\nPolars had ~2.6 million downloads from PyPI.\nPandas had ~140 million downloads!\nBecause of Pandas’ popularity and decade and a half of availability, there are many third-party libraries with built-in support for Pandas, and others that specifically extend Pandas.\nMany plotting and visualization libraries will accept Pandas dataframes as an input, for example, and GeoPandas adds geographical data types to Pandas dataframes.\nIf you’re using Polars, can you use these libraries?\nAnd if so, how?\nIn this article we’ll cover the various integration options you have between Polars and third-party libraries originally designed to work with Pandas:\nIt Just Works.\nManual conversion to Pandas dataframes, and how to do it with essentially zero cost.\nManual interoperability via files.\nOther alternatives.\nRead more...",
