@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-12-18T17:14:27.276Z</updated>
+    <updated>2023-12-18T18:19:31.958Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Training Production AI Models with PyTorch 2.0]]></title>
+        <id>https://pytorch.org/blog/training-production-ai-models/</id>
+        <link href="https://pytorch.org/blog/training-production-ai-models/"/>
+        <updated>2023-12-18T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[1. Introduction]]></summary>
+        <author>
+            <name>PyTorch Website</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Debiased Machine Learning and Network Cohesion for Doubly-Robust
   Differential Reward Models in Contextual Bandits]]></title>
@@ -2805,36 +2815,6 @@ Read more...]]></summary>
         <summary type="html"><![CDATA[Visit the post for more.]]></summary>
         <author>
             <name>xi'an</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Grids galore]]></title>
-        <id>https://languagelog.ldc.upenn.edu/nll/?p=61312</id>
-        <link href="https://languagelog.ldc.upenn.edu/nll/?p=61312&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=grids-galore"/>
-        <updated>2023-11-19T06:10:21.000Z</updated>
-        <summary type="html"><![CDATA[[This is a guest post by Zhengyuan Wang] Calligraphy Practicing Sheets and the Trussing Structure of Chinese Characters One thing essential for every elementary-level Chinese learner is to learn to write the characters in the same size in one single passage. This is not a unique case that only exists in Chinese. But this can be a […]]]></summary>
-        <author>
-            <name>Victor Mair</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Extreme simplification and phoneticization]]></title>
-        <id>https://languagelog.ldc.upenn.edu/nll/?p=61315</id>
-        <link href="https://languagelog.ldc.upenn.edu/nll/?p=61315&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=extreme-simplification-and-phoneticization"/>
-        <updated>2023-11-19T05:37:03.000Z</updated>
-        <summary type="html"><![CDATA[Probably only Northeastern Chinese could understand. (source) "丿" is a stroke in the Chinese writing system, named "piě 撇" (defined as "a stroke that falls downwards towards the left").  "了" (le) is a suffix that represents perfect tense in MSM. So together, the sound of "piě-le 丿了" is slurredly homophonous to that of 苤蓝 (MSM: […]]]></summary>
-        <author>
-            <name>Victor Mair</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Frog or chicken]]></title>
-        <id>https://languagelog.ldc.upenn.edu/nll/?p=61308</id>
-        <link href="https://languagelog.ldc.upenn.edu/nll/?p=61308&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=frog-or-chicken"/>
-        <updated>2023-11-19T05:32:58.000Z</updated>
-        <summary type="html"><![CDATA[From Charles Belov: While scouting out restaurants on Yelp, I noticed that Harborview Restaurant Yelp page had an item on the menu listed in English as Congee with Bone-in Chicken. However, the menu image, taken in 2022, reads "Congree with stir-fried frog" in Chinese. This appears to have been corrected on the Harborview Restaurant website. The Dim Sum […]]]></summary>
-        <author>
-            <name>Victor Mair</name>
         </author>
     </entry>
 </feed>

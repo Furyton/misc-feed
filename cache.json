@@ -1655,6 +1655,16 @@
       "siteUrl": "https://pytorch.org/",
       "articles": [
         {
+          "id": "https://pytorch.org/blog/training-production-ai-models/",
+          "author": null,
+          "description": "1. Introduction",
+          "link": "https://pytorch.org/blog/training-production-ai-models/",
+          "publishedOn": "2023-12-18T08:00:00.000Z",
+          "wordCount": 2177,
+          "title": "Training Production AI Models with PyTorch 2.0",
+          "imageUrl": "https://pytorch.org/assets/images/social-share.jpg"
+        },
+        {
           "id": "https://pytorch.org/blog/empowering-models-performance/",
           "author": null,
           "description": "Introduction",
@@ -3036,36 +3046,6 @@
           "publishedOn": "2023-11-20T00:14:56.000Z",
           "wordCount": 2308,
           "title": "Mistakes in a fraudulent Chinese letter to the Israeli consul in Chengdu",
-          "imageUrl": null
-        },
-        {
-          "id": "https://languagelog.ldc.upenn.edu/nll/?p=61312",
-          "author": "Victor Mair",
-          "description": "[This is a guest post by Zhengyuan Wang] Calligraphy Practicing Sheets and the Trussing Structure of Chinese Characters One thing essential for every elementary-level Chinese learner is to learn to write the characters in the same size in one single passage. This is not a unique case that only exists in Chinese. But this can be a […]",
-          "link": "https://languagelog.ldc.upenn.edu/nll/?p=61312&utm_source=rss&utm_medium=rss&utm_campaign=grids-galore",
-          "publishedOn": "2023-11-19T06:10:21.000Z",
-          "wordCount": 3420,
-          "title": "Grids galore",
-          "imageUrl": null
-        },
-        {
-          "id": "https://languagelog.ldc.upenn.edu/nll/?p=61315",
-          "author": "Victor Mair",
-          "description": "Probably only Northeastern Chinese could understand. (source) \"丿\" is a stroke in the Chinese writing system, named \"piě 撇\" (defined as \"a stroke that falls downwards towards the left\").  \"了\" (le) is a suffix that represents perfect tense in MSM. So together, the sound of \"piě-le 丿了\" is slurredly homophonous to that of 苤蓝 (MSM: […]",
-          "link": "https://languagelog.ldc.upenn.edu/nll/?p=61315&utm_source=rss&utm_medium=rss&utm_campaign=extreme-simplification-and-phoneticization",
-          "publishedOn": "2023-11-19T05:37:03.000Z",
-          "wordCount": 2126,
-          "title": "Extreme simplification and phoneticization",
-          "imageUrl": null
-        },
-        {
-          "id": "https://languagelog.ldc.upenn.edu/nll/?p=61308",
-          "author": "Victor Mair",
-          "description": "From Charles Belov: While scouting out restaurants on Yelp, I noticed that Harborview Restaurant Yelp page had an item on the menu listed in English as Congee with Bone-in Chicken. However, the menu image, taken in 2022, reads \"Congree with stir-fried frog\" in Chinese. This appears to have been corrected on the Harborview Restaurant website. The Dim Sum […]",
-          "link": "https://languagelog.ldc.upenn.edu/nll/?p=61308&utm_source=rss&utm_medium=rss&utm_campaign=frog-or-chicken",
-          "publishedOn": "2023-11-19T05:32:58.000Z",
-          "wordCount": 2185,
-          "title": "Frog or chicken",
           "imageUrl": null
         }
       ]
