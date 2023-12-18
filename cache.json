@@ -6,6 +6,56 @@
       "siteUrl": "https://www.arxivist.com",
       "articles": [
         {
+          "id": "http://arxiv.org/abs/2312.06403",
+          "author": null,
+          "description": "Easton K. Huch, Jieru Shi, Madeline R. Abbott, Jessica R. Golbus,\n  Alexander Moreno, Walter H. Dempsey",
+          "link": "http://arxiv.org/abs/2312.06403",
+          "publishedOn": "2023-12-18T04:19:01.105Z",
+          "wordCount": 735,
+          "title": "Debiased Machine Learning and Network Cohesion for Doubly-Robust\n  Differential Reward Models in Contextual Bandits",
+          "imageUrl": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2312.09613",
+          "author": null,
+          "description": "Hang Gao, Chengyu Yao, Jiangmeng Li, Lingyu Si, Yifan Jin, Fengge Wu,\n  Changwen Zheng, Huaping Liu",
+          "link": "http://arxiv.org/abs/2312.09613",
+          "publishedOn": "2023-12-18T04:19:00.787Z",
+          "wordCount": 693,
+          "title": "Rethinking Causal Relationships Learning in Graph Neural Networks",
+          "imageUrl": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2312.09606",
+          "author": null,
+          "description": "Harris Papadopoulos, Haris Haralambous",
+          "link": "http://arxiv.org/abs/2312.09606",
+          "publishedOn": "2023-12-18T04:19:00.778Z",
+          "wordCount": 666,
+          "title": "Reliable Prediction Intervals with Regression Neural Networks",
+          "imageUrl": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2307.10870",
+          "author": null,
+          "description": "Dimitri Meunier, Zhu Li, Arthur Gretton, Samory Kpotufe",
+          "link": "http://arxiv.org/abs/2307.10870",
+          "publishedOn": "2023-12-18T04:19:00.773Z",
+          "wordCount": 696,
+          "title": "Nonlinear Meta-Learning Can Guarantee Faster Rates",
+          "imageUrl": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2312.09877",
+          "author": null,
+          "description": "Fa\\\"icel Chamroukhi, Nhat Thien Pham",
+          "link": "http://arxiv.org/abs/2312.09877",
+          "publishedOn": "2023-12-18T04:19:00.769Z",
+          "wordCount": 701,
+          "title": "Distributed Learning of Mixtures of Experts",
+          "imageUrl": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
           "id": "http://arxiv.org/abs/2305.16846",
           "author": null,
           "description": "F. Arend Torres, Marcello Massimo Negri, Marco Inversi, Jonathan\n  Aellen, Volker Roth",
