@@ -2398,6 +2398,16 @@
       "siteUrl": "http://blog.research.google/",
       "articles": [
         {
+          "id": "http://blog.research.google/2023/12/videopoet-large-language-model-for-zero.html",
+          "author": null,
+          "description": "Posted by Dan Kondratyuk and David Ross, Software Engineers, Google Research\n\n\n\n\nA recent wave of video generation models has burst onto the scene, in many cases showcasing stunning picturesque quality. One of the current bottlenecks in video generation is in the ability to produce coherent large motions. In many cases, even the current leading models either generate small motion or, when producing larger motions, exhibit noticeable artifacts.\n \n\nTo explore the application of language models in video generation, we introduce VideoPoet, a large language model (LLM) that is capable of a wide variety of video generation tasks, including text-to-video, image-to-video, video stylization, video inpainting and outpainting, and video-to-audio. One notable observation is that the leading video gene…",
+          "link": "http://blog.research.google/2023/12/videopoet-large-language-model-for-zero.html",
+          "publishedOn": "2023-12-19T21:08:00.000Z",
+          "wordCount": 28021,
+          "title": "VideoPoet: A large language model for zero-shot video generation",
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFG8pxLk-uvJVPesDUxU7Ox7Tb0VR4lB4jNygxiiIl9gyeX-rgtCb5jhWbPDKGad4d5GkPFr7-uzdZOngFtnPbmV6IurKEd5vHTiLesCvx8RDzBy_5u31e6C93kuirOG8pKcwEBkBrw4TBTzh3WIoX1TZYzYM3M4aj4zYD2r_p5FflI7ntpqoD9fsGQhwO/w1200-h630-p-k-no-nu/videopoetpreview.gif"
+        },
+        {
           "id": "http://blog.research.google/2023/12/simulations-illuminate-path-to-post.html",
           "author": null,
           "description": "Posted by Yechen Li and Neha Arora, Software Engineers, Google Research\n\n\n\n\nFifteen minutes. That’s how long it took to empty the Colosseum, an engineering marvel that’s still standing as the largest amphitheater in the world. Two thousand years later, this design continues to work well to move enormous crowds out of sporting and entertainment venues.\n\n\n\n\n\nBut of course, exiting the arena is only the first step. Next, people must navigate the traffic that builds up in the surrounding streets. This is an age-old problem that remains unsolved to this day. In Rome, they addressed the issue by prohibiting private traffic on the street that passes directly by the Colosseum. This policy worked there, but what if you’re not in Rome? What if you’re at the Superbowl? Or at a Taylor Swift concert?\n\n…",
