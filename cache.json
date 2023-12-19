@@ -1152,6 +1152,16 @@
       "siteUrl": "https://kexue.fm/",
       "articles": [
         {
+          "id": "https://kexue.fm/archives/9902",
+          "author": "苏剑林",
+          "description": "很多时候我们将深度学习模型的训练过程戏称为“炼丹”，因为整个过程跟古代的炼丹术一样，看上去有一定的科学依据，但整体却给人一种“玄之又玄”的感觉。尽管本站之前也关注过一些优化器相关的工作，甚至也写...",
+          "link": "https://kexue.fm/archives/9902",
+          "publishedOn": "2023-12-19T02:55:00.000Z",
+          "wordCount": 1772,
+          "title": "让炼丹更科学一些（一）：SGD的平均收敛趋势",
+          "imageUrl": null
+        },
+        {
           "id": "https://kexue.fm/archives/9889",
           "author": "苏剑林",
           "description": "之前在《Transformer升级之路：3、从Performer到线性Attention》、《为什么现在的LLM都是Decoder-only的架构？》等文章中，我们从Attention矩阵的“秩...",
