@@ -1034,56 +1034,6 @@
           "wordCount": 661,
           "title": "AutoDiff: combining Auto-encoder and Diffusion model for tabular data\n  synthesizing",
           "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
-        },
-        {
-          "id": "http://arxiv.org/abs/2310.14710",
-          "author": null,
-          "description": "Lucca Portes Cavalheiro, Simon Bernard, Jean Paul Barddal, Laurent\n  Heutte",
-          "link": "http://arxiv.org/abs/2310.14710",
-          "publishedOn": "2023-11-20T03:16:18.975Z",
-          "wordCount": 706,
-          "title": "Random Forest Kernel for High-Dimension Low Sample Size Classification",
-          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
-        },
-        {
-          "id": "http://arxiv.org/abs/2311.10112",
-          "author": null,
-          "description": "Zifeng Ding, Heling Cai, Jingpei Wu, Yunpu Ma, Ruotong Liao, Bo Xiong,\n  Volker Tresp",
-          "link": "http://arxiv.org/abs/2311.10112",
-          "publishedOn": "2023-11-20T03:16:18.039Z",
-          "wordCount": 717,
-          "title": "Zero-Shot Relational Learning on Temporal Knowledge Graphs with Large\n  Language Models",
-          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
-        },
-        {
-          "id": "http://arxiv.org/abs/2303.16047",
-          "author": null,
-          "description": "Chudi Zhong, Zhi Chen, Jiachang Liu, Margo Seltzer, Cynthia Rudin",
-          "link": "http://arxiv.org/abs/2303.16047",
-          "publishedOn": "2023-11-20T03:16:18.035Z",
-          "wordCount": 719,
-          "title": "Exploring and Interacting with the Set of Good Sparse Generalized\n  Additive Models",
-          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
-        },
-        {
-          "id": "http://arxiv.org/abs/2311.10710",
-          "author": null,
-          "description": "Julian Arnold, Niels L\\\"orch, Flemming Holtorf, Frank Sch\\\"afer",
-          "link": "http://arxiv.org/abs/2311.10710",
-          "publishedOn": "2023-11-20T03:16:17.740Z",
-          "wordCount": 641,
-          "title": "Machine learning phase transitions: Connections to the Fisher\n  information",
-          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
-        },
-        {
-          "id": "http://arxiv.org/abs/2311.10246",
-          "author": null,
-          "description": "Amartya Banerjee, Christopher J. Hazard, Jacob Beel, Cade Mack, Jack\n  Xia, Michael Resnick, Will Goddin",
-          "link": "http://arxiv.org/abs/2311.10246",
-          "publishedOn": "2023-11-20T03:16:17.736Z",
-          "wordCount": 688,
-          "title": "Surprisal Driven $k$-NN for Robust and Interpretable Nonparametric\n  Learning",
-          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
         }
       ]
     },
@@ -1821,6 +1771,22 @@
       "feedUrl": "https://www.argmin.net/feed.xml",
       "siteUrl": "https://www.argmin.net",
       "articles": [
+        {
+          "id": "https://www.argmin.net/p/too-much-information",
+          "author": "Ben Recht",
+          "description": "What if, hear me out, we are writing too many papers?",
+          "link": "https://www.argmin.net/p/too-much-information",
+          "publishedOn": "2023-12-19T15:13:51.000Z",
+          "wordCount": null,
+          "title": "Too Much Information",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substack-post-media.s3.amazonaws.com/public/images/b449bd13-449b-4ce6-8a80-de4463a06403_447x300.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substack-post-media.s3.amazonaws.com/public/images/b449bd13-449b-4ce6-8a80-de4463a06403_447x300.png"
+        },
         {
           "id": "https://www.argmin.net/p/the-birth-of-the-utility-monster",
           "author": "Ben Recht",
@@ -2564,6 +2530,16 @@
       "feedUrl": "https://languagelog.ldc.upenn.edu/nll/?feed=rss2",
       "siteUrl": "https://languagelog.ldc.upenn.edu/nll",
       "articles": [
+        {
+          "id": "https://languagelog.ldc.upenn.edu/nll/?p=61749",
+          "author": "Victor Mair",
+          "description": "Some people call it a \"woolly dog\", but that's more a description of what it's like.  That's not its name.  And it's not a \"sheepdog\" or \"sheep dog\", like a border collie. Before I go any further into the nomenclature of canines, I want to recognize that they're all the same species:  Canis lupus familiaris.  […]",
+          "link": "https://languagelog.ldc.upenn.edu/nll/?p=61749&utm_source=rss&utm_medium=rss&utm_campaign=sheep-dog-spindle-whorls-and-meditation",
+          "publishedOn": "2023-12-19T15:55:57.000Z",
+          "wordCount": 2833,
+          "title": "\"Sheep-dog\", spindle whorls, and meditation",
+          "imageUrl": null
+        },
         {
           "id": "https://languagelog.ldc.upenn.edu/nll/?p=61751",
           "author": "Mark Liberman",
