@@ -2,10 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-12-19T03:16:16.222Z</updated>
+    <updated>2023-12-19T04:18:42.153Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How Two-Layer Neural Networks Learn, One (Giant) Step at a Time]]></title>
+        <id>http://arxiv.org/abs/2305.18270</id>
+        <link href="http://arxiv.org/abs/2305.18270"/>
+        <updated>2023-12-19T04:18:27.944Z</updated>
+        <summary type="html"><![CDATA[Yatin Dandi, Florent Krzakala, Bruno Loureiro, Luca Pesce, Ludovic
+  Stephan]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Geometric structure of Deep Learning networks and construction of global
+  ${\mathcal L}^2$ minimizers]]></title>
+        <id>http://arxiv.org/abs/2309.10639</id>
+        <link href="http://arxiv.org/abs/2309.10639"/>
+        <updated>2023-12-19T04:18:27.940Z</updated>
+        <summary type="html"><![CDATA[Thomas Chen, Patricia Mu\~noz Ewald]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Proximal Mean Field Learning in Shallow Neural Networks]]></title>
+        <id>http://arxiv.org/abs/2210.13879</id>
+        <link href="http://arxiv.org/abs/2210.13879"/>
+        <updated>2023-12-19T04:18:27.937Z</updated>
+        <summary type="html"><![CDATA[Alexis Teter, Iman Nodozi, Abhishek Halder]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Deep Feature Screening: Feature Selection for Ultra High-Dimensional
+  Data via Deep Neural Networks]]></title>
+        <id>http://arxiv.org/abs/2204.01682</id>
+        <link href="http://arxiv.org/abs/2204.01682"/>
+        <updated>2023-12-19T04:18:27.794Z</updated>
+        <summary type="html"><![CDATA[Kexuan Li, Fangfang Wang, Lingli Yang, Ruiqi Liu]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[让炼丹更科学一些（一）：SGD的平均收敛趋势]]></title>
         <id>https://kexue.fm/archives/9902</id>
