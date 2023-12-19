@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-12-19T20:13:28.619Z</updated>
+    <updated>2023-12-19T21:11:33.077Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -57,6 +57,16 @@ But of course, exiting the arena is only the first step. Next, people must navig
         <summary type="html"><![CDATA[What if, hear me out, we are writing too many papers?]]></summary>
         <author>
             <name>Ben Recht</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Understanding GPU Memory 2: Finding and Removing Reference Cycles]]></title>
+        <id>https://pytorch.org/blog/understanding-gpu-memory-2/</id>
+        <link href="https://pytorch.org/blog/understanding-gpu-memory-2/"/>
+        <updated>2023-12-19T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[This is part 2 of the Understanding GPU Memory blog series. Our first post Understanding GPU Memory 1: Visualizing All Allocations over Time shows how to use the memory snapshot tool. In this part, we will use the Memory Snapshot to visualize a GPU memory leak caused by reference cycles, and then locate and remove them in our code using the Reference Cycle Detector.]]></summary>
+        <author>
+            <name>PyTorch Website</name>
         </author>
     </entry>
     <entry>
