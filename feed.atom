@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-12-19T14:13:20.674Z</updated>
+    <updated>2023-12-19T15:15:54.708Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Too Much Information]]></title>
+        <id>https://www.argmin.net/p/too-much-information</id>
+        <link href="https://www.argmin.net/p/too-much-information"/>
+        <updated>2023-12-19T15:13:51.000Z</updated>
+        <summary type="html"><![CDATA[What if, hear me out, we are writing too many papers?]]></summary>
+        <author>
+            <name>Ben Recht</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How Two-Layer Neural Networks Learn, One (Giant) Step at a Time]]></title>
         <id>http://arxiv.org/abs/2305.18270</id>

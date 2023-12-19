@@ -1267,6 +1267,22 @@
       "siteUrl": "https://www.argmin.net",
       "articles": [
         {
+          "id": "https://www.argmin.net/p/too-much-information",
+          "author": "Ben Recht",
+          "description": "What if, hear me out, we are writing too many papers?",
+          "link": "https://www.argmin.net/p/too-much-information",
+          "publishedOn": "2023-12-19T15:13:51.000Z",
+          "wordCount": null,
+          "title": "Too Much Information",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substack-post-media.s3.amazonaws.com/public/images/b449bd13-449b-4ce6-8a80-de4463a06403_447x300.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substack-post-media.s3.amazonaws.com/public/images/b449bd13-449b-4ce6-8a80-de4463a06403_447x300.png"
+        },
+        {
           "id": "https://www.argmin.net/p/the-birth-of-the-utility-monster",
           "author": "Ben Recht",
           "description": "Explaining Ramsey's theory. No, not the combinatorics one.",
