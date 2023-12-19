@@ -2,10 +2,33 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-12-19T16:17:25.934Z</updated>
+    <updated>2023-12-19T17:11:43.724Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Simulations illuminate the path to post-event traffic flow]]></title>
+        <id>http://blog.research.google/2023/12/simulations-illuminate-path-to-post.html</id>
+        <link href="http://blog.research.google/2023/12/simulations-illuminate-path-to-post.html"/>
+        <updated>2023-12-19T16:01:00.000Z</updated>
+        <summary type="html"><![CDATA[Posted by Yechen Li and Neha Arora, Software Engineers, Google Research
+
+
+
+
+Fifteen minutes. That’s how long it took to empty the Colosseum, an engineering marvel that’s still standing as the largest amphitheater in the world. Two thousand years later, this design continues to work well to move enormous crowds out of sporting and entertainment venues.
+
+
+
+
+
+But of course, exiting the arena is only the first step. Next, people must navigate the traffic that builds up in the surrounding streets. This is an age-old problem that remains unsolved to this day. In Rome, they addressed the issue by prohibiting private traffic on the street that passes directly by the Colosseum. This policy worked there, but what if you’re not in Rome? What if you’re at the Superbowl? Or at a Taylor Swift concert?
+
+…]]></summary>
+        <author>
+            <name>Google AI Blog</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA["Sheep-dog", spindle whorls, and meditation]]></title>
         <id>https://languagelog.ldc.upenn.edu/nll/?p=61749</id>
