@@ -1024,16 +1024,6 @@
           "wordCount": 745,
           "title": "Self-Supervised Pretraining for Heterogeneous Hypergraph Neural Networks",
           "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
-        },
-        {
-          "id": "http://arxiv.org/abs/2310.15479",
-          "author": null,
-          "description": "Namjoon Suh, Xiaofeng Lin, Din-Yin Hsieh, Merhdad Honarkhah, Guang\n  Cheng",
-          "link": "http://arxiv.org/abs/2310.15479",
-          "publishedOn": "2023-11-20T07:14:36.250Z",
-          "wordCount": 661,
-          "title": "AutoDiff: combining Auto-encoder and Diffusion model for tabular data\n  synthesizing",
-          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
         }
       ]
     },
@@ -1179,16 +1169,6 @@
           "publishedOn": "2023-11-29T03:04:00.000Z",
           "wordCount": 1637,
           "title": "我在Performer中发现了Transformer-VQ的踪影",
-          "imageUrl": null
-        },
-        {
-          "id": "https://kexue.fm/archives/9859",
-          "author": "苏剑林",
-          "description": "大体上，我们可以将目前Transformer的长度外推技术分为两类：一类是事后修改，比如NTK-RoPE、YaRN、ReRoPE等，这类方法的特点是直接修改推理模型，无需微调就能达到一定的长度外...",
-          "link": "https://kexue.fm/archives/9859",
-          "publishedOn": "2023-11-20T07:51:00.000Z",
-          "wordCount": 1868,
-          "title": "Transformer升级之路：15、Key归一化助力长度外推",
           "imageUrl": null
         }
       ]
