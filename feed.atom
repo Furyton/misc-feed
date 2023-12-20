@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-12-20T11:11:14.826Z</updated>
+    <updated>2023-12-20T12:23:46.696Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[infamy!]]></title>
+        <id>http://xianblog.wordpress.com/?p=54746</id>
+        <link href="https://xianblog.wordpress.com/2023/12/20/infamy/"/>
+        <updated>2023-12-20T12:15:33.000Z</updated>
+        <summary type="html"><![CDATA[Visit the post for more.]]></summary>
+        <author>
+            <name>xi'an</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Intergenerational cycles of peeving?]]></title>
+        <id>https://languagelog.ldc.upenn.edu/nll/?p=61774</id>
+        <link href="https://languagelog.ldc.upenn.edu/nll/?p=61774&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=intergenerational-cycles-of-peeving"/>
+        <updated>2023-12-20T11:21:26.000Z</updated>
+        <summary type="html"><![CDATA[In a recent article in Psychology Today, Nick Morgan proposes a new theory about the psychodynamics of prescriptivist peeving ("Why Bad Grammar Activates Our Fight-or-Flight Response", 12/14/2023): Does grammar matter? And did you have a teacher in your youth who insisted on drumming the rules of good grammar into you—and was that teacher on the […]]]></summary>
+        <author>
+            <name>Mark Liberman</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CCLF: A Contrastive-Curiosity-Driven Learning Framework for
   Sample-Efficient Reinforcement Learning]]></title>
@@ -2886,35 +2906,6 @@ Since the original announcement, we set out to improve Project Guideline by embe
   Plachouras]]></summary>
         <author>
             <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Two kinds of threads pools, and why you need both]]></title>
-        <id>https://pythonspeed.com/articles/two-thread-pools/</id>
-        <link href="https://pythonspeed.com/articles/two-thread-pools/"/>
-        <updated>2023-11-21T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[When you’re doing large scale data processing with Python, threads are a good way to achieve parallelism.
-This is especially true if you’re doing numeric processing, where the global interpreter lock (GIL) is typically not an issue.
-And if you’re using threading, thread pools are a good way to make sure you don’t use too many resources.
-But how many threads should your thread pool have?
-And do you need just one thread pool, or more than one?
-In this article we’ll see that for data processing batch jobs:
-There are two kinds of thread pools, each for different use cases.
-Each kind requires a different configuration.
-You might need both.
-Read more...]]></summary>
-        <author>
-            <name>Python⇒Speed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Asymptotics of ABC when summaries converge at heterogeneous rates]]></title>
-        <id>http://xianblog.wordpress.com/?p=54475</id>
-        <link href="https://xianblog.wordpress.com/2023/11/21/asymptotics-of-abc-when-summaries-converge-at-heterogeneous-rates/"/>
-        <updated>2023-11-20T23:23:47.000Z</updated>
-        <summary type="html"><![CDATA[We just posted a new arXival, jointly with Caroline Lawless, Judith Rousseau, and Robin Ryder. This is a significant component of Caroline’s PhD thesis in Oxford, on which we started working during the first COVID lockdown.  In this paper, we extend our results with David Frazier, Gael Martin, both with whom I’ll soon be reunited!, […]]]></summary>
-        <author>
-            <name>xi'an</name>
         </author>
     </entry>
 </feed>

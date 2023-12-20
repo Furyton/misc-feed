@@ -1528,16 +1528,6 @@
           "wordCount": 1248,
           "title": "Using Polars in a Pandas world",
           "imageUrl": "https://pythonspeed.com/assets/titles/polars-pandas-interopability.png"
-        },
-        {
-          "id": "https://pythonspeed.com/articles/two-thread-pools/",
-          "author": null,
-          "description": "When you’re doing large scale data processing with Python, threads are a good way to achieve parallelism.\nThis is especially true if you’re doing numeric processing, where the global interpreter lock (GIL) is typically not an issue.\nAnd if you’re using threading, thread pools are a good way to make sure you don’t use too many resources.\nBut how many threads should your thread pool have?\nAnd do you need just one thread pool, or more than one?\nIn this article we’ll see that for data processing batch jobs:\nThere are two kinds of thread pools, each for different use cases.\nEach kind requires a different configuration.\nYou might need both.\nRead more...",
-          "link": "https://pythonspeed.com/articles/two-thread-pools/",
-          "publishedOn": "2023-11-21T00:00:00.000Z",
-          "wordCount": 1587,
-          "title": "Two kinds of threads pools, and why you need both",
-          "imageUrl": "https://pythonspeed.com/assets/titles/two-thread-pools.png"
         }
       ]
     },
@@ -2118,6 +2108,16 @@
       "siteUrl": "https://xianblog.wordpress.com",
       "articles": [
         {
+          "id": "http://xianblog.wordpress.com/?p=54746",
+          "author": "xi'an",
+          "description": "Visit the post for more.",
+          "link": "https://xianblog.wordpress.com/2023/12/20/infamy/",
+          "publishedOn": "2023-12-20T12:15:33.000Z",
+          "wordCount": 2163,
+          "title": "infamy!",
+          "imageUrl": "https://xianblog.files.wordpress.com/2023/12/farryt.jpeg"
+        },
+        {
           "id": "http://xianblog.wordpress.com/?p=53952",
           "author": "xi'an",
           "description": "Visit the post for more.",
@@ -2416,16 +2416,6 @@
           "wordCount": 2009,
           "title": "Natural statistical science [#1]",
           "imageUrl": "https://xianblog.files.wordpress.com/2023/11/1699092383243-e1699094367348.jpg"
-        },
-        {
-          "id": "http://xianblog.wordpress.com/?p=54475",
-          "author": "xi'an",
-          "description": "We just posted a new arXival, jointly with Caroline Lawless, Judith Rousseau, and Robin Ryder. This is a significant component of Caroline’s PhD thesis in Oxford, on which we started working during the first COVID lockdown.  In this paper, we extend our results with David Frazier, Gael Martin, both with whom I’ll soon be reunited!, […]",
-          "link": "https://xianblog.wordpress.com/2023/11/21/asymptotics-of-abc-when-summaries-converge-at-heterogeneous-rates/",
-          "publishedOn": "2023-11-20T23:23:47.000Z",
-          "wordCount": 2278,
-          "title": "Asymptotics of ABC when summaries converge at heterogeneous rates",
-          "imageUrl": "https://xianblog.files.wordpress.com/2011/11/dscn0856-e1321995084522.jpg"
         }
       ]
     },
@@ -2600,6 +2590,16 @@
       "feedUrl": "https://languagelog.ldc.upenn.edu/nll/?feed=rss2",
       "siteUrl": "https://languagelog.ldc.upenn.edu/nll",
       "articles": [
+        {
+          "id": "https://languagelog.ldc.upenn.edu/nll/?p=61774",
+          "author": "Mark Liberman",
+          "description": "In a recent article in Psychology Today, Nick Morgan proposes a new theory about the psychodynamics of prescriptivist peeving (\"Why Bad Grammar Activates Our Fight-or-Flight Response\", 12/14/2023): Does grammar matter? And did you have a teacher in your youth who insisted on drumming the rules of good grammar into you—and was that teacher on the […]",
+          "link": "https://languagelog.ldc.upenn.edu/nll/?p=61774&utm_source=rss&utm_medium=rss&utm_campaign=intergenerational-cycles-of-peeving",
+          "publishedOn": "2023-12-20T11:21:26.000Z",
+          "wordCount": 2720,
+          "title": "Intergenerational cycles of peeving?",
+          "imageUrl": null
+        },
         {
           "id": "https://languagelog.ldc.upenn.edu/nll/?p=61749",
           "author": "Victor Mair",
