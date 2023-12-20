@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-12-19T23:12:27.531Z</updated>
+    <updated>2023-12-20T00:56:12.390Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Earthquake [Lodi]]]></title>
+        <id>http://xianblog.wordpress.com/?p=53952</id>
+        <link href="https://xianblog.wordpress.com/2023/12/20/earthquake-lodi/"/>
+        <updated>2023-12-19T23:23:07.000Z</updated>
+        <summary type="html"><![CDATA[Visit the post for more.]]></summary>
+        <author>
+            <name>xi'an</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[VideoPoet: A large language model for zero-shot video generation]]></title>
         <id>http://blog.research.google/2023/12/videopoet-large-language-model-for-zero.html</id>
@@ -2860,16 +2870,6 @@ Read more...]]></summary>
         <summary type="html"><![CDATA[From another tweet / X-effusion by the Master Muckraker, Fang Zhouzi / Fang Shimin: “管总”这词是古代白话文，现在基本不用，原意是指某个人或某个部门管各种事务，“一个问题”怎么“管总”？哪个秘书想出来的新用法？ pic.twitter.com/jPdr3KzP6a — 方舟子 (@fangshimin) November 19, 2023 "Guǎnzǒng” zhè cí shì gǔdài báihuàwén, xiànzài jīběn bùyòng, yuányì shì zhǐ mǒu gèrén huò mǒu gè bùmén guǎn gè zhǒng shìwù,“yīgè wèntí” zěnme “guǎn zǒng”? Nǎge mìshū xiǎng chūlái de xīn yòngfǎ" “管总”这词是古代白话文，现在基本不用，原意是指某个人或某个部门管各种事务，“一个问题”怎么“管总”？哪个秘书想出来的新用法？ […]]]></summary>
         <author>
             <name>Victor Mair</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Trends in Foreign Language enrollments]]></title>
-        <id>https://languagelog.ldc.upenn.edu/nll/?p=61354</id>
-        <link href="https://languagelog.ldc.upenn.edu/nll/?p=61354&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=trends-foreign-language-enrollments"/>
-        <updated>2023-11-20T11:41:04.000Z</updated>
-        <summary type="html"><![CDATA[Karin Fisher, "It’s a Bleak Climate for Foreign Languages as Enrollments Tumble", Chronicle of Higher Education 11/15/2023" Enrollments in foreign-language courses tumbled nearly 17 percent between the fall of 2016 and the fall of 2021, the largest decline in the six decades the Modern Language Association has been conducting its census of American colleges. […] […]]]></summary>
-        <author>
-            <name>Mark Liberman</name>
         </author>
     </entry>
 </feed>
