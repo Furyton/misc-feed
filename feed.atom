@@ -2,10 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-12-21T02:26:42.396Z</updated>
+    <updated>2023-12-21T03:15:57.521Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Universal Approximation Property of Random Neural Networks]]></title>
+        <id>http://arxiv.org/abs/2312.08410</id>
+        <link href="http://arxiv.org/abs/2312.08410"/>
+        <updated>2023-12-21T03:15:41.985Z</updated>
+        <summary type="html"><![CDATA[Ariel Neufeld, Philipp Schmocker]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fair and Robust Estimation of Heterogeneous Treatment Effects for Policy
+  Learning]]></title>
+        <id>http://arxiv.org/abs/2306.03625</id>
+        <link href="http://arxiv.org/abs/2306.03625"/>
+        <updated>2023-12-21T03:15:41.410Z</updated>
+        <summary type="html"><![CDATA[Kwangho Kim, Jos\'e R. Zubizarreta]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[On the Number of Regions of Piecewise Linear Neural Networks]]></title>
+        <id>http://arxiv.org/abs/2206.08615</id>
+        <link href="http://arxiv.org/abs/2206.08615"/>
+        <updated>2023-12-21T03:15:41.386Z</updated>
+        <summary type="html"><![CDATA[Alexis Goujon, Arian Etemadi, Michael Unser]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Double Machine Learning for Static Panel Models with Fixed Effects]]></title>
+        <id>http://arxiv.org/abs/2312.08174</id>
+        <link href="http://arxiv.org/abs/2312.08174"/>
+        <updated>2023-12-21T03:15:41.383Z</updated>
+        <summary type="html"><![CDATA[Paul Clarke, Annalivia Polselli]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[My foci cup]]></title>
         <id>https://languagelog.ldc.upenn.edu/nll/?p=61767</id>

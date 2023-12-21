@@ -6,6 +6,46 @@
       "siteUrl": "https://www.arxivist.com",
       "articles": [
         {
+          "id": "http://arxiv.org/abs/2312.08410",
+          "author": null,
+          "description": "Ariel Neufeld, Philipp Schmocker",
+          "link": "http://arxiv.org/abs/2312.08410",
+          "publishedOn": "2023-12-21T03:15:41.985Z",
+          "wordCount": 720,
+          "title": "Universal Approximation Property of Random Neural Networks",
+          "imageUrl": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2306.03625",
+          "author": null,
+          "description": "Kwangho Kim, Jos\\'e R. Zubizarreta",
+          "link": "http://arxiv.org/abs/2306.03625",
+          "publishedOn": "2023-12-21T03:15:41.410Z",
+          "wordCount": 625,
+          "title": "Fair and Robust Estimation of Heterogeneous Treatment Effects for Policy\n  Learning",
+          "imageUrl": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2206.08615",
+          "author": null,
+          "description": "Alexis Goujon, Arian Etemadi, Michael Unser",
+          "link": "http://arxiv.org/abs/2206.08615",
+          "publishedOn": "2023-12-21T03:15:41.386Z",
+          "wordCount": 770,
+          "title": "On the Number of Regions of Piecewise Linear Neural Networks",
+          "imageUrl": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2312.08174",
+          "author": null,
+          "description": "Paul Clarke, Annalivia Polselli",
+          "link": "http://arxiv.org/abs/2312.08174",
+          "publishedOn": "2023-12-21T03:15:41.383Z",
+          "wordCount": 803,
+          "title": "Double Machine Learning for Static Panel Models with Fixed Effects",
+          "imageUrl": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
           "id": "http://arxiv.org/abs/2205.00943",
           "author": null,
           "description": "Chenyu Sun, Hangwei Qian, Chunyan Miao",
