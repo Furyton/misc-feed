@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-12-21T14:13:49.420Z</updated>
+    <updated>2023-12-21T15:15:30.033Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[I Was Thinking I Could Read Up for Christmas]]></title>
+        <id>https://www.argmin.net/p/i-was-thinking-i-could-read-up-for</id>
+        <link href="https://www.argmin.net/p/i-was-thinking-i-could-read-up-for"/>
+        <updated>2023-12-21T15:01:26.000Z</updated>
+        <summary type="html"><![CDATA[Closing out the semester by organizing my bookshelf]]></summary>
+        <author>
+            <name>Ben Recht</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I Was Thinking I Could Read Up for Christmas]]></title>
+        <id>https://www.argmin.net/p/i-was-thinking-i-could-read-up-for</id>
+        <link href="https://www.argmin.net/p/i-was-thinking-i-could-read-up-for"/>
+        <updated>2023-12-21T15:01:26.000Z</updated>
+        <summary type="html"><![CDATA[Closing out the semester by organizing my bookshelf]]></summary>
+        <author>
+            <name>Ben Recht</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[PiML Toolbox for Interpretable Machine Learning Model Development and
   Diagnostics]]></title>
