@@ -1074,56 +1074,6 @@
           "wordCount": 765,
           "title": "Improved identification accuracy in equation learning via comprehensive\n  $\\boldsymbol{R^2}$-elimination and Bayesian model selection",
           "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
-        },
-        {
-          "id": "http://arxiv.org/abs/2311.12624",
-          "author": null,
-          "description": "Boumediene Hamzi, Marcus Hutter, Houman Owhadi",
-          "link": "http://arxiv.org/abs/2311.12624",
-          "publishedOn": "2023-11-22T04:18:42.778Z",
-          "wordCount": 691,
-          "title": "Bridging Algorithmic Information Theory and Machine Learning: A New\n  Approach to Kernel Learning",
-          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
-        },
-        {
-          "id": "http://arxiv.org/abs/2011.04923",
-          "author": null,
-          "description": "Hans-Peter Beise, Steve Dias Da Cruz",
-          "link": "http://arxiv.org/abs/2011.04923",
-          "publishedOn": "2023-11-22T04:18:42.411Z",
-          "wordCount": 729,
-          "title": "Topological properties of basins of attraction and expressiveness of\n  width bounded neural networks",
-          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
-        },
-        {
-          "id": "http://arxiv.org/abs/2311.12267",
-          "author": null,
-          "description": "Jikai Jin, Vasilis Syrgkanis",
-          "link": "http://arxiv.org/abs/2311.12267",
-          "publishedOn": "2023-11-22T04:18:42.392Z",
-          "wordCount": 714,
-          "title": "Learning Causal Representations from General Environments:\n  Identifiability and Intrinsic Ambiguity",
-          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
-        },
-        {
-          "id": "http://arxiv.org/abs/2202.10793",
-          "author": null,
-          "description": "Yixuan He, Xitong Zhang, Junjie Huang, Benedek Rozemberczki, Mihai\n  Cucuringu, Gesine Reinert",
-          "link": "http://arxiv.org/abs/2202.10793",
-          "publishedOn": "2023-11-22T04:18:42.179Z",
-          "wordCount": 757,
-          "title": "PyTorch Geometric Signed Directed: A Software Package on Graph Neural\n  Networks for Signed and Directed Graphs",
-          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
-        },
-        {
-          "id": "http://arxiv.org/abs/2308.16113",
-          "author": null,
-          "description": "Miko{\\l}aj Spytek, Mateusz Krzyzi\\'nski, Sophie Hanna Langbein\n , Hubert Baniecki, Marvin N. Wright, Przemys{\\l}aw Biecek",
-          "link": "http://arxiv.org/abs/2308.16113",
-          "publishedOn": "2023-11-22T04:18:42.176Z",
-          "wordCount": 693,
-          "title": "survex: an R package for explaining machine learning survival models",
-          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
         }
       ]
     },
@@ -2682,6 +2632,16 @@
       "feedUrl": "https://languagelog.ldc.upenn.edu/nll/?feed=rss2",
       "siteUrl": "https://languagelog.ldc.upenn.edu/nll",
       "articles": [
+        {
+          "id": "https://languagelog.ldc.upenn.edu/nll/?p=61799",
+          "author": "Mark Liberman",
+          "description": "According to Justinas Vainilavičius, \"AI-generated science fiction novel wins literary prize in China\", Cybernews 12/20/2023: It only took three hours for Shen Yang, a professor at the Beijing-based university’s School of Journalism and Communication, to generate the award-winning admission. The Chinese-language work, entitled The Land of Machine Memories, won second prize at the 5th Jiangsu […]",
+          "link": "https://languagelog.ldc.upenn.edu/nll/?p=61799&utm_source=rss&utm_medium=rss&utm_campaign=ai-wins-literary-prize",
+          "publishedOn": "2023-12-21T15:46:34.000Z",
+          "wordCount": 2329,
+          "title": "AI wins literary prize?",
+          "imageUrl": null
+        },
         {
           "id": "https://languagelog.ldc.upenn.edu/nll/?p=61767",
           "author": "Victor Mair",
