@@ -1621,7 +1621,18 @@
       "title": "统计之都",
       "feedUrl": "https://cosx.org/index.xml",
       "siteUrl": "https://cosx.org/",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://cosx.org/2023/12/rehline-for-fastest-svm/",
+          "author": null,
+          "description": "本文由邱怡轩主笔，内容素材源自邱怡轩和戴奔共同讨论的结果。 武林至尊，宝刀屠龙。长久以来，机器学习江湖中一直流传着两件神器——LibSVM 和 L",
+          "link": "https://cosx.org/2023/12/rehline-for-fastest-svm/",
+          "publishedOn": "2023-12-22T00:00:00.000Z",
+          "wordCount": 643,
+          "title": "挑战最快 SVM！ReHLine 算法诞生记",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "Sander Dieleman",
@@ -2682,6 +2693,16 @@
       "feedUrl": "https://languagelog.ldc.upenn.edu/nll/?feed=rss2",
       "siteUrl": "https://languagelog.ldc.upenn.edu/nll",
       "articles": [
+        {
+          "id": "https://languagelog.ldc.upenn.edu/nll/?p=61808",
+          "author": "Victor Mair",
+          "description": "That's the sign on the door of a gas station that I saw in Media, Delaware County, Pennsylvania.  It had pictures of four different packages of pills, but the lettering on them was so blurred that I couldn't see what types or brands of pills they were. ALL PILLS $11.95 That was the only sign […]",
+          "link": "https://languagelog.ldc.upenn.edu/nll/?p=61808&utm_source=rss&utm_medium=rss&utm_campaign=opacity-of-the-week-all-pills-11-95",
+          "publishedOn": "2023-12-22T15:11:47.000Z",
+          "wordCount": 2541,
+          "title": "Opacity of the week:  all pills $11.95",
+          "imageUrl": null
+        },
         {
           "id": "https://languagelog.ldc.upenn.edu/nll/?p=61772",
           "author": "Victor Mair",
