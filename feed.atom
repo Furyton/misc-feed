@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-12-22T04:18:15.575Z</updated>
+    <updated>2023-12-22T05:14:56.180Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[General Gaussian Noise Mechanisms and Their Optimality for Unbiased Mean
+  Estimation]]></title>
+        <id>http://arxiv.org/abs/2301.13850</id>
+        <link href="http://arxiv.org/abs/2301.13850"/>
+        <updated>2023-12-22T05:14:44.121Z</updated>
+        <summary type="html"><![CDATA[Aleksandar Nikolov, Haohua Tang]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Unifying GANs and Score-Based Diffusion as Generative Particle Models]]></title>
         <id>http://arxiv.org/abs/2305.16150</id>
