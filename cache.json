@@ -6,6 +6,56 @@
       "siteUrl": "https://www.arxivist.com",
       "articles": [
         {
+          "id": "http://arxiv.org/abs/2305.16150",
+          "author": null,
+          "description": "Jean-Yves Franceschi, Mike Gartrell, Ludovic Dos Santos, Thibaut\n  Issenhuth, Emmanuel de B\\'ezenac, Micka\\\"el Chen, Alain Rakotomamonjy",
+          "link": "http://arxiv.org/abs/2305.16150",
+          "publishedOn": "2023-12-22T03:16:03.703Z",
+          "wordCount": 724,
+          "title": "Unifying GANs and Score-Based Diffusion as Generative Particle Models",
+          "imageUrl": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2305.14961",
+          "author": null,
+          "description": "Simon Wiegrebe, Philipp Kopper, Raphael Sonabend, Bernd Bischl, and\n  Andreas Bender",
+          "link": "http://arxiv.org/abs/2305.14961",
+          "publishedOn": "2023-12-22T03:16:03.648Z",
+          "wordCount": 665,
+          "title": "Deep Learning for Survival Analysis: A Review",
+          "imageUrl": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2303.14496",
+          "author": null,
+          "description": "Rattana Pukdee, Dylan Sam, J. Zico Kolter, Maria-Florina Balcan,\n  Pradeep Ravikumar",
+          "link": "http://arxiv.org/abs/2303.14496",
+          "publishedOn": "2023-12-22T03:16:03.644Z",
+          "wordCount": 721,
+          "title": "Learning with Explanation Constraints",
+          "imageUrl": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2305.19442",
+          "author": null,
+          "description": "Yifan Yang, Peiyao Xiao, Kaiyi Ji",
+          "link": "http://arxiv.org/abs/2305.19442",
+          "publishedOn": "2023-12-22T03:16:03.641Z",
+          "wordCount": 712,
+          "title": "SimFBO: Towards Simple, Flexible and Communication-efficient Federated\n  Bilevel Learning",
+          "imageUrl": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2303.00586",
+          "author": null,
+          "description": "Wei-Yin Ko, Daniel D'souza, Karina Nguyen, Randall Balestriero, Sara\n  Hooker",
+          "link": "http://arxiv.org/abs/2303.00586",
+          "publishedOn": "2023-12-22T03:16:03.637Z",
+          "wordCount": 721,
+          "title": "FAIR-Ensemble: When Fairness Naturally Emerges From Deep Ensembling",
+          "imageUrl": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
           "id": "http://arxiv.org/abs/2305.04214",
           "author": null,
           "description": "Agus Sudjianto, Aijun Zhang, Zebin Yang, Yu Su, Ningzhou Zeng",
