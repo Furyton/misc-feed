@@ -2,10 +2,39 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-12-22T19:11:43.879Z</updated>
+    <updated>2023-12-22T20:15:53.809Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[2023: A year of groundbreaking advances in AI and computing]]></title>
+        <id>http://blog.research.google/2023/12/2023-year-of-groundbreaking-advances-in.html</id>
+        <link href="http://blog.research.google/2023/12/2023-year-of-groundbreaking-advances-in.html"/>
+        <updated>2023-12-22T18:37:00.000Z</updated>
+        <summary type="html"><![CDATA[Posted by Jeff Dean, Chief Scientist, Google DeepMind & Google Research, Demis Hassabis, CEO, Google DeepMind, and James Manyika, SVP, Google Research, Technology & Society
+
+
+
+
+
+This has been a year of incredible progress in the field of Artificial Intelligence (AI) research and its practical applications. 
+
+
+
+As ongoing research pushes AI even farther, we look back to our perspective published in January of this year, titled “Why we focus on AI (and to what end),” where we noted:
+
+
+
+
+
+    We are committed to leading and setting the standard in developing and shipping useful and beneficial applications, applying ethical principles grounded in human values, and evolving our approaches as we learn from research, experience, users, and the wider community.
+
+
+   We also believe that getting AI…]]></summary>
+        <author>
+            <name>Google AI Blog</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Opacity of the week:  all pills $11.95]]></title>
         <id>https://languagelog.ldc.upenn.edu/nll/?p=61808</id>

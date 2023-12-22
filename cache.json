@@ -2531,6 +2531,16 @@
       "siteUrl": "http://blog.research.google/",
       "articles": [
         {
+          "id": "http://blog.research.google/2023/12/2023-year-of-groundbreaking-advances-in.html",
+          "author": null,
+          "description": "Posted by Jeff Dean, Chief Scientist, Google DeepMind & Google Research, Demis Hassabis, CEO, Google DeepMind, and James Manyika, SVP, Google Research, Technology & Society\n\n\n\n\n\nThis has been a year of incredible progress in the field of Artificial Intelligence (AI) research and its practical applications. \n\n\n\nAs ongoing research pushes AI even farther, we look back to our perspective published in January of this year, titled “Why we focus on AI (and to what end),” where we noted:\n\n\n\n\n\n    We are committed to leading and setting the standard in developing and shipping useful and beneficial applications, applying ethical principles grounded in human values, and evolving our approaches as we learn from research, experience, users, and the wider community.\n\n\n   We also believe that getting AI…",
+          "link": "http://blog.research.google/2023/12/2023-year-of-groundbreaking-advances-in.html",
+          "publishedOn": "2023-12-22T18:37:00.000Z",
+          "wordCount": 31180,
+          "title": "2023: A year of groundbreaking advances in AI and computing",
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiU12G_p2DZO4gQ-P95aP2IFvtKRHRG5Oik9VzJ4WtT_VznggjUrL4tTzqto-C8yx6ULgvugKgH9usiZxnKGk97pOFyHWnu-1S4sSbR2Jjq5T36tQRbZucTAP7gmXkGw77xN6s39IKxPaxbo5tw_Cq52ZfPWOCBkWL-2XTuzsIh6viRIqgGcdUdNq-pHjzl/w1200-h630-p-k-no-nu/year_in_review-hero.jpg"
+        },
+        {
           "id": "http://blog.research.google/2023/12/videopoet-large-language-model-for-zero.html",
           "author": null,
           "description": "Posted by Dan Kondratyuk and David Ross, Software Engineers, Google Research\n\n\n\n\nA recent wave of video generation models has burst onto the scene, in many cases showcasing stunning picturesque quality. One of the current bottlenecks in video generation is in the ability to produce coherent large motions. In many cases, even the current leading models either generate small motion or, when producing larger motions, exhibit noticeable artifacts.\n \n\nTo explore the application of language models in video generation, we introduce VideoPoet, a large language model (LLM) that is capable of a wide variety of video generation tasks, including text-to-video, image-to-video, video stylization, video inpainting and outpainting, and video-to-audio. One notable observation is that the leading video gene…",
