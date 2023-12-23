@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-12-23T01:04:33.318Z</updated>
+    <updated>2023-12-23T02:22:16.012Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Emergent abilities and grokking: Fundamental, Mirage, or both?]]></title>
+        <id>http://windowsontheory.org/?p=8731</id>
+        <link href="https://windowsontheory.org/2023/12/22/emergent-abilities-and-grokking-fundamental-mirage-or-both/"/>
+        <updated>2023-12-23T01:41:22.000Z</updated>
+        <summary type="html"><![CDATA[One of the lessons we have seen in language modeling is the power of scale. The original GPT paper of Radford et al. noted that at some point during training, the model “acquired” the ability to do sentiment analysis of a sentence X by predicting whether it is more likely to be followed by “very … Continue reading Emergent abilities and grokking: Fundamental, Mirage, or both?]]></summary>
+        <author>
+            <name>Boaz Barak</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Emergent abilities and grokking: Fundamental, Mirage, or both?]]></title>
+        <id>http://windowsontheory.org/?p=8731</id>
+        <link href="https://windowsontheory.org/2023/12/22/emergent-abilities-and-grokking-fundamental-mirage-or-both/"/>
+        <updated>2023-12-23T01:41:22.000Z</updated>
+        <summary type="html"><![CDATA[One of the lessons we have seen in language modeling is the power of scale. The original GPT paper of Radford et al. noted that at some point during training, the model “acquired” the ability to do sentiment analysis of a sentence X by predicting whether it is more likely to be followed by “very … Continue reading Emergent abilities and grokking: Fundamental, Mirage, or both?]]></summary>
+        <author>
+            <name>Boaz Barak</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[St. Victor (the Abbey):  the language of plans, elevations, sections, and perspectives]]></title>
+        <id>https://languagelog.ldc.upenn.edu/nll/?p=61867</id>
+        <link href="https://languagelog.ldc.upenn.edu/nll/?p=61867&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=st-victor-the-abbey-the-language-of-plans-elevations-sections-and-perspectives"/>
+        <updated>2023-12-23T01:11:44.000Z</updated>
+        <summary type="html"><![CDATA[Before reading the following article, I didn't even know there was a St. Victor, let alone an Abbey of St. Victor that was established in 1108 near Notre-Dame Cathedral, at the beginning of the "Twelfth-Century Renaissance", in Paris. The surprising history of architectural drawing in the West The subtle art of elevation.   Architectural drawing […]]]></summary>
+        <author>
+            <name>Victor Mair</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[the suicidal consequences of the immigration law on research and higher education]]></title>
         <id>http://xianblog.wordpress.com/?p=54762</id>
