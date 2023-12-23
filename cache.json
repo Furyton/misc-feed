@@ -1194,7 +1194,18 @@
       "title": "UCSD Machine Learning Group",
       "feedUrl": "https://ucsdml.github.io//feed.xml",
       "siteUrl": "https://ucsdml.github.io//",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://ucsdml.github.io//2023/12/22/dyffusion.html",
+          "author": null,
+          "description": "DYffusion forecasts a sequence of $h$ snapshots $\\mathbf{x}_1, \\mathbf{x}_2, \\ldots, \\mathbf{x}_h$ given the initial conditions $\\mathbf{x}_0$ similarly to how standard diffusion models are used to sample from a distribution.",
+          "link": "https://ucsdml.github.io//2023/12/22/dyffusion.html",
+          "publishedOn": "2023-12-22T00:00:00.000Z",
+          "wordCount": 3608,
+          "title": "DYffusion: A Dynamics-informed Diffusion Model for Spatiotemporal Forecasting",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "科学空间|Scientific Spaces",
@@ -2190,6 +2201,16 @@
       "feedUrl": "https://xianblog.wordpress.com/feed/",
       "siteUrl": "https://xianblog.wordpress.com",
       "articles": [
+        {
+          "id": "http://xianblog.wordpress.com/?p=54762",
+          "author": "xi'an",
+          "description": "Visit the post for more.",
+          "link": "https://xianblog.wordpress.com/2023/12/23/the-suicidal-consequences-of-the-immigration-law-on-research-and-higher-education/",
+          "publishedOn": "2023-12-22T23:23:01.000Z",
+          "wordCount": 2185,
+          "title": "the suicidal consequences of the immigration law on research and higher education",
+          "imageUrl": "https://xianblog.files.wordpress.com/2023/12/demission.png"
+        },
         {
           "id": "http://xianblog.wordpress.com/?p=50823",
           "author": "xi'an",
