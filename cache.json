@@ -1233,6 +1233,16 @@
       "siteUrl": "https://kexue.fm/",
       "articles": [
         {
+          "id": "https://kexue.fm/archives/9907",
+          "author": "苏剑林",
+          "description": "写在开头一直以来，笔者都有日刷Arxiv的习惯，以求尽可能跟上领域内最新成果，并告诫自己“不进则退”。之前也有不少读者问我是怎么刷Arxiv的、有什么辅助工具等，但事实上，在很长的时间里，笔者都...",
+          "link": "https://kexue.fm/archives/9907",
+          "publishedOn": "2023-12-25T02:53:00.000Z",
+          "wordCount": 1427,
+          "title": "写了个刷论文的辅助网站：Cool Papers",
+          "imageUrl": null
+        },
+        {
           "id": "https://kexue.fm/archives/9902",
           "author": "苏剑林",
           "description": "很多时候我们将深度学习模型的训练过程戏称为“炼丹”，因为整个过程跟古代的炼丹术一样，看上去有一定的科学依据，但整体却给人一种“玄之又玄”的感觉。尽管本站之前也关注过一些优化器相关的工作，甚至也写...",
