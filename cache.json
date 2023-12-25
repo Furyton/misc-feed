@@ -6,6 +6,56 @@
       "siteUrl": "https://www.arxivist.com",
       "articles": [
         {
+          "id": "http://arxiv.org/abs/2302.01407",
+          "author": null,
+          "description": "Wolfgang Messner",
+          "link": "http://arxiv.org/abs/2302.01407",
+          "publishedOn": "2023-12-25T06:20:36.840Z",
+          "wordCount": 710,
+          "title": "Hypothesis Testing and Machine Learning: Interpreting Variable Effects\n  in Deep Artificial Neural Networks using Cohen's f2",
+          "imageUrl": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2312.14180",
+          "author": null,
+          "description": "Hanwen Ye, Tatiana Moreno, Adrianne Alpern, Louis Ehwerhemuepha, Annie\n  Qu",
+          "link": "http://arxiv.org/abs/2312.14180",
+          "publishedOn": "2023-12-25T06:20:36.626Z",
+          "wordCount": 823,
+          "title": "Dynamic Topic Language Model on Heterogeneous Children's Mental Health\n  Clinical Notes",
+          "imageUrl": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2312.14499",
+          "author": null,
+          "description": "Zheyuan Hu, Zekun Shi, George Em Karniadakis, Kenji Kawaguchi",
+          "link": "http://arxiv.org/abs/2312.14499",
+          "publishedOn": "2023-12-25T06:20:36.494Z",
+          "wordCount": 793,
+          "title": "Hutchinson Trace Estimation for High-Dimensional and High-Order\n  Physics-Informed Neural Networks",
+          "imageUrl": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2312.14922",
+          "author": null,
+          "description": "Eszter Sz\\'ekely, Lorenzo Bardone, Federica Gerace, Sebastian Goldt",
+          "link": "http://arxiv.org/abs/2312.14922",
+          "publishedOn": "2023-12-25T06:20:36.470Z",
+          "wordCount": 749,
+          "title": "Learning from higher-order statistics, efficiently: hypothesis tests,\n  random features, and neural networks",
+          "imageUrl": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2312.14226",
+          "author": null,
+          "description": "Liyi Zhang, R. Thomas McCoy, Theodore R. Sumers, Jian-Qiao Zhu, Thomas\n  L. Griffiths",
+          "link": "http://arxiv.org/abs/2312.14226",
+          "publishedOn": "2023-12-25T06:20:36.311Z",
+          "wordCount": 719,
+          "title": "Deep de Finetti: Recovering Topic Distributions from Large Language\n  Models",
+          "imageUrl": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
           "id": "http://arxiv.org/abs/2312.02943",
           "author": null,
           "description": "An Chen, Giorgio Ferrari, Shihao Zhu",
@@ -3242,16 +3292,6 @@
           "publishedOn": "2023-11-26T23:15:02.000Z",
           "wordCount": 3483,
           "title": "Whorf invents generative phonology?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://languagelog.ldc.upenn.edu/nll/?p=61440",
-          "author": "Mark Liberman",
-          "description": "Today's SMBC: Those first four panels resonated with my recent experience skimming Helena Blavatsky's The Secret Doctrine: The Synthesis of Science, Religion, and Philosophy. Vol II — Anthropogensis (1888). I learned of Blavatsky's existence due to the restaurant located in her former residence, and my sense of her influence in Philadelphia was reinforced by years […]",
-          "link": "https://languagelog.ldc.upenn.edu/nll/?p=61440&utm_source=rss&utm_medium=rss&utm_campaign=theosophical-racism",
-          "publishedOn": "2023-11-25T17:29:42.000Z",
-          "wordCount": 3205,
-          "title": "Theosophical racism",
           "imageUrl": null
         }
       ]

@@ -2,10 +2,67 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-12-25T05:15:51.915Z</updated>
+    <updated>2023-12-25T06:20:36.870Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Hypothesis Testing and Machine Learning: Interpreting Variable Effects
+  in Deep Artificial Neural Networks using Cohen's f2]]></title>
+        <id>http://arxiv.org/abs/2302.01407</id>
+        <link href="http://arxiv.org/abs/2302.01407"/>
+        <updated>2023-12-25T06:20:36.840Z</updated>
+        <summary type="html"><![CDATA[Wolfgang Messner]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dynamic Topic Language Model on Heterogeneous Children's Mental Health
+  Clinical Notes]]></title>
+        <id>http://arxiv.org/abs/2312.14180</id>
+        <link href="http://arxiv.org/abs/2312.14180"/>
+        <updated>2023-12-25T06:20:36.626Z</updated>
+        <summary type="html"><![CDATA[Hanwen Ye, Tatiana Moreno, Adrianne Alpern, Louis Ehwerhemuepha, Annie
+  Qu]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hutchinson Trace Estimation for High-Dimensional and High-Order
+  Physics-Informed Neural Networks]]></title>
+        <id>http://arxiv.org/abs/2312.14499</id>
+        <link href="http://arxiv.org/abs/2312.14499"/>
+        <updated>2023-12-25T06:20:36.494Z</updated>
+        <summary type="html"><![CDATA[Zheyuan Hu, Zekun Shi, George Em Karniadakis, Kenji Kawaguchi]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learning from higher-order statistics, efficiently: hypothesis tests,
+  random features, and neural networks]]></title>
+        <id>http://arxiv.org/abs/2312.14922</id>
+        <link href="http://arxiv.org/abs/2312.14922"/>
+        <updated>2023-12-25T06:20:36.470Z</updated>
+        <summary type="html"><![CDATA[Eszter Sz\'ekely, Lorenzo Bardone, Federica Gerace, Sebastian Goldt]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Deep de Finetti: Recovering Topic Distributions from Large Language
+  Models]]></title>
+        <id>http://arxiv.org/abs/2312.14226</id>
+        <link href="http://arxiv.org/abs/2312.14226"/>
+        <updated>2023-12-25T06:20:36.311Z</updated>
+        <summary type="html"><![CDATA[Liyi Zhang, R. Thomas McCoy, Theodore R. Sumers, Jian-Qiao Zhu, Thomas
+  L. Griffiths]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Scrambled strokes]]></title>
         <id>https://languagelog.ldc.upenn.edu/nll/?p=61901</id>
@@ -2993,16 +3050,6 @@ Read more...]]></summary>
         <summary type="html"><![CDATA[Visit the post for more.]]></summary>
         <author>
             <name>xi'an</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Theosophical racism]]></title>
-        <id>https://languagelog.ldc.upenn.edu/nll/?p=61440</id>
-        <link href="https://languagelog.ldc.upenn.edu/nll/?p=61440&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=theosophical-racism"/>
-        <updated>2023-11-25T17:29:42.000Z</updated>
-        <summary type="html"><![CDATA[Today's SMBC: Those first four panels resonated with my recent experience skimming Helena Blavatsky's The Secret Doctrine: The Synthesis of Science, Religion, and Philosophy. Vol II — Anthropogensis (1888). I learned of Blavatsky's existence due to the restaurant located in her former residence, and my sense of her influence in Philadelphia was reinforced by years […]]]></summary>
-        <author>
-            <name>Mark Liberman</name>
         </author>
     </entry>
 </feed>
