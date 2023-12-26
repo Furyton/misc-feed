@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-12-25T23:15:53.544Z</updated>
+    <updated>2023-12-26T01:05:43.243Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[simulating the maximum of Rayleigh variates]]></title>
+        <id>http://xianblog.wordpress.com/?p=54529</id>
+        <link href="https://xianblog.wordpress.com/2023/12/26/simulating-the-maximum-of-rayleigh-variates/"/>
+        <updated>2023-12-25T23:23:56.000Z</updated>
+        <summary type="html"><![CDATA[An X validated question on an efficient way to simulate the largest order statistics of a Rayleigh (large) sample. Named after the 1904 Nobel recipient, John Strutt. This is not a commonly used distribution in statistics, since it coincides with the χ2 distribution. Anyway, thanks to its compact, closed form cdf, the largest order statistics […]]]></summary>
+        <author>
+            <name>xi'an</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Declining English in the Land of the Rising Sun]]></title>
         <id>https://languagelog.ldc.upenn.edu/nll/?p=61910</id>
