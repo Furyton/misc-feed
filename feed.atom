@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-12-26T02:24:07.395Z</updated>
+    <updated>2023-12-26T03:16:08.296Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Convergence Analysis of Sequential Federated Learning on Heterogeneous
+  Data]]></title>
+        <id>http://arxiv.org/abs/2311.03154</id>
+        <link href="http://arxiv.org/abs/2311.03154"/>
+        <updated>2023-12-26T03:15:57.071Z</updated>
+        <summary type="html"><![CDATA[Yipeng Li, Xinchen Lyu]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[simulating the maximum of Rayleigh variates]]></title>
         <id>http://xianblog.wordpress.com/?p=54529</id>
