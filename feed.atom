@@ -2,10 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-12-27T04:18:21.180Z</updated>
+    <updated>2023-12-27T05:14:23.004Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Understanding Deep Learning via Decision Boundary]]></title>
+        <id>http://arxiv.org/abs/2206.01515</id>
+        <link href="http://arxiv.org/abs/2206.01515"/>
+        <updated>2023-12-27T05:14:08.773Z</updated>
+        <summary type="html"><![CDATA[Shiye Lei, Fengxiang He, Yancheng Yuan, Dacheng Tao]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Robust Fine-Tuning of Deep Neural Networks with Hessian-based
+  Generalization Guarantees]]></title>
+        <id>http://arxiv.org/abs/2206.02659</id>
+        <link href="http://arxiv.org/abs/2206.02659"/>
+        <updated>2023-12-27T05:14:08.770Z</updated>
+        <summary type="html"><![CDATA[Haotian Ju, Dongyue Li, Hongyang R. Zhang]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FairIF: Boosting Fairness in Deep Learning via Influence Functions with
+  Validation Set Sensitive Attributes]]></title>
+        <id>http://arxiv.org/abs/2201.05759</id>
+        <link href="http://arxiv.org/abs/2201.05759"/>
+        <updated>2023-12-27T05:14:08.764Z</updated>
+        <summary type="html"><![CDATA[Haonan Wang, Ziwei Wu, Jingrui He]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Towards Revealing the Mystery behind Chain of Thought: A Theoretical
+  Perspective]]></title>
+        <id>http://arxiv.org/abs/2305.15408</id>
+        <link href="http://arxiv.org/abs/2305.15408"/>
+        <updated>2023-12-27T05:14:08.752Z</updated>
+        <summary type="html"><![CDATA[Guhao Feng, Bohang Zhang, Yuntian Gu, Haotian Ye, Di He, Liwei Wang]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[36 hours in Oaxaca [for a future workshop]]]></title>
         <id>http://xianblog.wordpress.com/?p=54547</id>
