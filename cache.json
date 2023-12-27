@@ -1563,16 +1563,6 @@
           "wordCount": 1733,
           "title": "How many CPU cores can you actually use in parallel?",
           "imageUrl": "https://pythonspeed.com/assets/titles/cpu-thread-pool-size.png"
-        },
-        {
-          "id": "https://pythonspeed.com/articles/polars-pandas-interopability/",
-          "author": null,
-          "description": "Polars is a dataframe-based library that can be faster, more memory efficient, and often simpler to use than Pandas.\nIt’s also much newer, and correspondingly less popular.\nIn November 2023:\nPolars had ~2.6 million downloads from PyPI.\nPandas had ~140 million downloads!\nBecause of Pandas’ popularity and decade and a half of availability, there are many third-party libraries with built-in support for Pandas, and others that specifically extend Pandas.\nMany plotting and visualization libraries will accept Pandas dataframes as an input, for example, and GeoPandas adds geographical data types to Pandas dataframes.\nIf you’re using Polars, can you use these libraries?\nAnd if so, how?\nIn this article we’ll cover the various integration options you have between Polars and third-party libraries originally designed to work with Pandas:\nIt Just Works.\nManual conversion to Pandas dataframes, and how to do it with essentially zero cost.\nManual interoperability via files.\nOther alternatives.\nRead more...",
-          "link": "https://pythonspeed.com/articles/polars-pandas-interopability/",
-          "publishedOn": "2023-11-28T00:00:00.000Z",
-          "wordCount": 1248,
-          "title": "Using Polars in a Pandas world",
-          "imageUrl": "https://pythonspeed.com/assets/titles/polars-pandas-interopability.png"
         }
       ]
     },
@@ -2465,16 +2455,6 @@
           "wordCount": 2160,
           "title": "2023 Workshop in honour of Professors Donald Poskitt and Gael Martin",
           "imageUrl": "https://xianblog.files.wordpress.com/2023/11/temp-3.png"
-        },
-        {
-          "id": "http://xianblog.wordpress.com/?p=54512",
-          "author": "xi'an",
-          "description": "Visit the post for more.",
-          "link": "https://xianblog.wordpress.com/2023/11/28/consolidator-grants-2023/",
-          "publishedOn": "2023-11-27T23:23:45.000Z",
-          "wordCount": 2248,
-          "title": "consolidator grants 2023",
-          "imageUrl": "https://xianblog.files.wordpress.com/2023/11/consolidator.png"
         }
       ]
     },
