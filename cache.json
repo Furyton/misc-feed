@@ -2117,6 +2117,16 @@
       "siteUrl": "https://xianblog.wordpress.com",
       "articles": [
         {
+          "id": "http://xianblog.wordpress.com/?p=54681",
+          "author": "xi'an",
+          "description": "Another X validated question of some interest: how to infer about the parameters of a model when only given a fraction 1-α of the order statistics. For instance, the (1-α)n largest observations. On a primary level, the answer is somewhat obvious since the joint density of these observations is available in closed form. At another […]",
+          "link": "https://xianblog.wordpress.com/2023/12/28/inference-with-insufficient-statistics-2/",
+          "publishedOn": "2023-12-27T23:23:53.000Z",
+          "wordCount": 2321,
+          "title": "inference with insufficient statistics #2",
+          "imageUrl": "https://xianblog.files.wordpress.com/2023/12/temp.png"
+        },
+        {
           "id": "http://xianblog.wordpress.com/?p=54547",
           "author": "xi'an",
           "description": "",
@@ -2589,6 +2599,16 @@
       "feedUrl": "https://languagelog.ldc.upenn.edu/nll/?feed=rss2",
       "siteUrl": "https://languagelog.ldc.upenn.edu/nll",
       "articles": [
+        {
+          "id": "https://languagelog.ldc.upenn.edu/nll/?p=61915",
+          "author": "Victor Mair",
+          "description": "Intercultural connections imply crosscultural communications. In my estimation, Shimao is the most important archeological site in the EEAH (Extended East Asian Heartland) from B.C. times, with enormous implications for the origins of Sinitic civilization.  Shimao is a recently discovered archeological site, brought to light roughly a dozen years ago, but still very much under excavation.  […]",
+          "link": "https://languagelog.ldc.upenn.edu/nll/?p=61915&utm_source=rss&utm_medium=rss&utm_campaign=shimao-graphic-arts-and-long-distance-connections-part-2",
+          "publishedOn": "2023-12-27T23:18:25.000Z",
+          "wordCount": 3196,
+          "title": "Shimao, graphic arts, and long distance connections, part 2",
+          "imageUrl": null
+        },
         {
           "id": "https://languagelog.ldc.upenn.edu/nll/?p=61919",
           "author": "Mark Liberman",
