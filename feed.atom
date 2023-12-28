@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-12-28T19:12:20.610Z</updated>
+    <updated>2023-12-28T20:14:05.792Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -2792,16 +2792,6 @@ Previously, we introduced Translatotron 1 and Translatotron 2, the first ever mo
         <summary type="html"><![CDATA[What we learn by teaching computers to play games.]]></summary>
         <author>
             <name>Ben Recht</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PyTorch 2.1 Contains New Performance Features for AI Developers]]></title>
-        <id>https://pytorch.org/blog/new-features-for-ai/</id>
-        <link href="https://pytorch.org/blog/new-features-for-ai/"/>
-        <updated>2023-11-29T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[We are excited to see the release of PyTorch 2.1. In this blog, we discuss the five features for which Intel made significant contributions to PyTorch 2.1:]]></summary>
-        <author>
-            <name>PyTorch Website</name>
         </author>
     </entry>
 </feed>
