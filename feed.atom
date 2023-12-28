@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-12-28T17:13:17.428Z</updated>
+    <updated>2023-12-28T18:19:14.948Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Reincarnation machine]]></title>
+        <id>https://languagelog.ldc.upenn.edu/nll/?p=61928</id>
+        <link href="https://languagelog.ldc.upenn.edu/nll/?p=61928&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=reincarnation-machine"/>
+        <updated>2023-12-28T17:49:08.000Z</updated>
+        <summary type="html"><![CDATA[From the Engrish in Japan Facebook page, posted by Yukie Masumoto: In the most literal sense, the Japanese sign says "come again machine" (sairai ki 再來機). Cf. "Machine accepts reincarnation" (11/1/15), which we encountered eight years ago. Selected readings "Declining English in the Land of the Rising Sun" (12/25/23) "Forbidden to die" (6/9/08)]]></summary>
+        <author>
+            <name>Victor Mair</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Quillen cohomology of enriched operads]]></title>
         <id>http://arxiv.org/abs/2005.01198</id>
