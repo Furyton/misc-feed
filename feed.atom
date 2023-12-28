@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-12-28T21:13:07.452Z</updated>
+    <updated>2023-12-28T22:14:00.380Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -97,6 +97,32 @@
         <summary type="html"><![CDATA[Guhao Feng, Bohang Zhang, Yuntian Gu, Haotian Ye, Di He, Liwei Wang]]></summary>
         <author>
             <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2023 年度书单]]></title>
+        <id>http://freemind.pluskid.org/books/2023-annual-book-list</id>
+        <link href="http://freemind.pluskid.org/books/2023-annual-book-list"/>
+        <updated>2023-12-27T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[今年很懒，都没有做季度图书总结，整年的书单都放在这里了，正好做一下大致统计，总计读完
+57 本书（中文 20，英文 22，日文 15），但是其中有 9
+本是漫画，还有不少艺术类书籍，所以总体大概和去年（42
+本）差不多。这当中大约三分之一是电子书，特别是最近发现微信读书平台其实各方面都还挺好用的，也能很方便地在电子墨水屏的安卓阅读器上安装使用之后，在上面看了不少中文电子书。
+
+《Chip
+War》是去年年底刚出版的一部与现在世界格局很应景的新书，非常精彩。书中介绍芯片的发展史：从最初发明到今天深入生活的方方面面并成为大国博弈的主要筹码的全过程。并没有花太多的笔墨在晶体管的技术细节、发明过程和抢功劳的各种纠纷上，而是从长的时间跨度和经济发展的角度来介绍：从硅谷的建立，到由军方资助的早期芯片研究，再转向更有商机的以大众消费者为主要客户群的低成本量产和分工细化模式。
+时间跨度变大以后就会和世界局势发展中许多大事件也逐渐联系起来，例如冷战中前苏联的间谍战中关于半导体芯片的部分，再例如美国为了巩固自己在亚洲的主导权从限制日本科技到大力扶植，最后差点玩儿脱直接被日本搞垮美国本土的芯片产业的故事。还好后来
+IBM 搞出了个人电脑，用了 x86 架构芯片和 DOS
+操作系统，不止扶起了将来的软件巨头微软，更是让 Intel
+绝地重生并借着个人电脑 CPU
+芯片架构几乎完全垄断的地位走向产业巅峰，同时也挽救了美国的芯片产业。后来苹果想找
+Intel 做手机芯片被拒绝，再加上一系列其他的决策失误，Intel
+如今又跌落神坛，市场方面移动端正在飞速取代个人电脑，苹果已经完成 Macbook
+从 Intel 到 Arm
+芯片的迁移，微软也一直在往这个方向探索，人工智能的芯片市场也被 NVidia
+独霸，就连技术方面也被远远甩在了台积电和三星的后面。虽然是商业争霸，但是读起来也有一点《三国》或者《权…]]></summary>
+        <author>
+            <name>Free Mind</name>
         </author>
     </entry>
     <entry>
