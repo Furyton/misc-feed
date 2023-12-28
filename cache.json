@@ -1241,16 +1241,6 @@
           "wordCount": 1644,
           "title": "生成扩散模型漫谈（二十一）：中值定理加速ODE采样",
           "imageUrl": null
-        },
-        {
-          "id": "https://kexue.fm/archives/9862",
-          "author": "苏剑林",
-          "description": "前些天我们在《VQ一下Key，Transformer的复杂度就变成线性了》介绍了“Transformer-VQ”，这是通过将Key序列做VQ（Vector Quantize）变换来实现Atten...",
-          "link": "https://kexue.fm/archives/9862",
-          "publishedOn": "2023-11-29T03:04:00.000Z",
-          "wordCount": 1637,
-          "title": "我在Performer中发现了Transformer-VQ的踪影",
-          "imageUrl": null
         }
       ]
     },
