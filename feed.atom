@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-12-29T04:18:22.907Z</updated>
+    <updated>2023-12-29T05:14:19.915Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[A note on fibrations of Campana general type on surfaces]]></title>
+        <id>http://arxiv.org/abs/1002.2789</id>
+        <link href="http://arxiv.org/abs/1002.2789"/>
+        <updated>2023-12-29T05:14:08.179Z</updated>
+        <summary type="html"><![CDATA[Lidia Stoppino]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The living language of the Chinese people]]></title>
         <id>https://languagelog.ldc.upenn.edu/nll/?p=61931</id>
