@@ -2068,6 +2068,16 @@
       "siteUrl": "https://xianblog.wordpress.com",
       "articles": [
         {
+          "id": "http://xianblog.wordpress.com/?p=54626",
+          "author": "xi'an",
+          "description": "Lorenzo Rimella, Chris Jewell, and Paul Fearnhead have recently arXived a paper entitled Simulation Based Composite Likelihood, where they consider a composite likelihood approximation for running inference on HMM parameters under the specific scenario of HMMs on finite, high-dimension N, state spaces X with huge cost of order card (Χ)2N when computing the likelihood  by […]",
+          "link": "https://xianblog.wordpress.com/2023/12/29/simulation-based-composite-likelihood/",
+          "publishedOn": "2023-12-28T23:23:30.000Z",
+          "wordCount": 2362,
+          "title": "simulation based composite likelihood",
+          "imageUrl": "https://secure.gravatar.com/blavatar/eee7e3d9c2da9d5b5ec1465920a1fe024c186e86c5cee173529bd882e372fe0c?s=200&ts=1703811424"
+        },
+        {
           "id": "http://xianblog.wordpress.com/?p=54681",
           "author": "xi'an",
           "description": "Another X validated question of some interest: how to infer about the parameters of a model when only given a fraction 1-α of the order statistics. For instance, the (1-α)n largest observations. On a primary level, the answer is somewhat obvious since the joint density of these observations is available in closed form. At another […]",
