@@ -964,56 +964,6 @@
           "wordCount": 750,
           "title": "Deep learning and differential equations for modeling changes in\n  individual-level latent dynamics between observation periods",
           "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
-        },
-        {
-          "id": "http://arxiv.org/abs/2307.13868",
-          "author": null,
-          "description": "Eric W. Bridgeford, Jaewon Chung, Brian Gilbert, Sambit Panda, Adam\n  Li, Cencheng Shen, Alexandra Badea, Brian Caffo, Joshua T. Vogelstein",
-          "link": "http://arxiv.org/abs/2307.13868",
-          "publishedOn": "2023-11-30T04:18:50.274Z",
-          "wordCount": 667,
-          "title": "Learning sources of variability from high-dimensional observational\n  studies",
-          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
-        },
-        {
-          "id": "http://arxiv.org/abs/2311.15945",
-          "author": null,
-          "description": "Julia Balla",
-          "link": "http://arxiv.org/abs/2311.15945",
-          "publishedOn": "2023-11-30T04:18:50.270Z",
-          "wordCount": 615,
-          "title": "Over-Squashing in Riemannian Graph Neural Networks",
-          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
-        },
-        {
-          "id": "http://arxiv.org/abs/2310.03684",
-          "author": null,
-          "description": "Alexander Robey, Eric Wong, Hamed Hassani, George J. Pappas",
-          "link": "http://arxiv.org/abs/2310.03684",
-          "publishedOn": "2023-11-30T04:18:50.246Z",
-          "wordCount": 691,
-          "title": "SmoothLLM: Defending Large Language Models Against Jailbreaking Attacks",
-          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
-        },
-        {
-          "id": "http://arxiv.org/abs/2110.04442",
-          "author": null,
-          "description": "Bernard Koch, Tim Sainburg, Pablo Geraldo, Song Jiang, Yizhou Sun,\n  Jacob Gates Foster",
-          "link": "http://arxiv.org/abs/2110.04442",
-          "publishedOn": "2023-11-30T04:18:50.232Z",
-          "wordCount": 669,
-          "title": "A Primer on Deep Learning for Causal Inference",
-          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
-        },
-        {
-          "id": "http://arxiv.org/abs/2311.17855",
-          "author": null,
-          "description": "Amin Rakhsha, Mete Kemertas, Mohammad Ghavamzadeh, Amir-massoud\n  Farahmand",
-          "link": "http://arxiv.org/abs/2311.17855",
-          "publishedOn": "2023-11-30T04:18:50.221Z",
-          "wordCount": 640,
-          "title": "Maximum Entropy Model Correction in Reinforcement Learning",
-          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
         }
       ]
     },
@@ -2476,6 +2426,21 @@
       "feedUrl": "https://languagelog.ldc.upenn.edu/nll/?feed=rss2",
       "siteUrl": "https://languagelog.ldc.upenn.edu/nll",
       "articles": [
+        {
+          "id": "https://languagelog.ldc.upenn.edu/nll/?p=61946",
+          "author": "Victor Mair",
+          "description": "There are many things about Papua New Guinea (PNG) that make it unique (the abundance of its flora and fauna, its ritualistic cannibalism, its political complexity, etc.), but above all for me is the huge number of its languages, especially considering its relatively small population on such a large amount of land (see below for […]",
+          "link": "https://languagelog.ldc.upenn.edu/nll/?p=61946&utm_source=rss&utm_medium=rss&utm_campaign=the-linguistic-plenitude-of-papua-new-guinea",
+          "publishedOn": "2023-12-29T16:41:08.000Z",
+          "wordCount": 3175,
+          "title": "The linguistic plenitude of Papua New Guinea",
+          "enclosure": {
+            "url": "https://en.wikipedia.org/wiki/File:En-us-Papua_New_Guinea.ogg",
+            "length": "0",
+            "type": "audio/ogg"
+          },
+          "imageUrl": null
+        },
         {
           "id": "https://languagelog.ldc.upenn.edu/nll/?p=61931",
           "author": "Victor Mair",

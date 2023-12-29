@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-12-29T16:20:50.860Z</updated>
+    <updated>2023-12-29T17:15:11.354Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The linguistic plenitude of Papua New Guinea]]></title>
+        <id>https://languagelog.ldc.upenn.edu/nll/?p=61946</id>
+        <link href="https://languagelog.ldc.upenn.edu/nll/?p=61946&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=the-linguistic-plenitude-of-papua-new-guinea"/>
+        <updated>2023-12-29T16:41:08.000Z</updated>
+        <summary type="html"><![CDATA[There are many things about Papua New Guinea (PNG) that make it unique (the abundance of its flora and fauna, its ritualistic cannibalism, its political complexity, etc.), but above all for me is the huge number of its languages, especially considering its relatively small population on such a large amount of land (see below for […]]]></summary>
+        <author>
+            <name>Victor Mair</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[A note on fibrations of Campana general type on surfaces]]></title>
         <id>http://arxiv.org/abs/1002.2789</id>
@@ -2724,60 +2734,6 @@ Previously, we introduced Translatotron 1 and Translatotron 2, the first ever mo
         <summary type="html"><![CDATA[This post is the second part of a multi-series blog focused on how to accelerate generative AI models with pure, native PyTorch. We are excited to share a breadth of newly released PyTorch performance features alongside practical examples to see how far we can push PyTorch native performance. In part one, we showed how to accelerate Segment Anything over 8x using only pure, native PyTorch. In this blog we’ll focus on LLM optimization.]]></summary>
         <author>
             <name>PyTorch Website</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learning sources of variability from high-dimensional observational
-  studies]]></title>
-        <id>http://arxiv.org/abs/2307.13868</id>
-        <link href="http://arxiv.org/abs/2307.13868"/>
-        <updated>2023-11-30T04:18:50.274Z</updated>
-        <summary type="html"><![CDATA[Eric W. Bridgeford, Jaewon Chung, Brian Gilbert, Sambit Panda, Adam
-  Li, Cencheng Shen, Alexandra Badea, Brian Caffo, Joshua T. Vogelstein]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Over-Squashing in Riemannian Graph Neural Networks]]></title>
-        <id>http://arxiv.org/abs/2311.15945</id>
-        <link href="http://arxiv.org/abs/2311.15945"/>
-        <updated>2023-11-30T04:18:50.270Z</updated>
-        <summary type="html"><![CDATA[Julia Balla]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SmoothLLM: Defending Large Language Models Against Jailbreaking Attacks]]></title>
-        <id>http://arxiv.org/abs/2310.03684</id>
-        <link href="http://arxiv.org/abs/2310.03684"/>
-        <updated>2023-11-30T04:18:50.246Z</updated>
-        <summary type="html"><![CDATA[Alexander Robey, Eric Wong, Hamed Hassani, George J. Pappas]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Primer on Deep Learning for Causal Inference]]></title>
-        <id>http://arxiv.org/abs/2110.04442</id>
-        <link href="http://arxiv.org/abs/2110.04442"/>
-        <updated>2023-11-30T04:18:50.232Z</updated>
-        <summary type="html"><![CDATA[Bernard Koch, Tim Sainburg, Pablo Geraldo, Song Jiang, Yizhou Sun,
-  Jacob Gates Foster]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Maximum Entropy Model Correction in Reinforcement Learning]]></title>
-        <id>http://arxiv.org/abs/2311.17855</id>
-        <link href="http://arxiv.org/abs/2311.17855"/>
-        <updated>2023-11-30T04:18:50.221Z</updated>
-        <summary type="html"><![CDATA[Amin Rakhsha, Mete Kemertas, Mohammad Ghavamzadeh, Amir-massoud
-  Farahmand]]></summary>
-        <author>
-            <name>arxivist feed</name>
         </author>
     </entry>
 </feed>
