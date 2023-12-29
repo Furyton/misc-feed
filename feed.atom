@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-12-29T03:16:17.265Z</updated>
+    <updated>2023-12-29T04:18:22.907Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -2778,26 +2778,6 @@ Previously, we introduced Translatotron 1 and Translatotron 2, the first ever mo
         <summary type="html"><![CDATA[Visit the post for more.]]></summary>
         <author>
             <name>xi'an</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Millions of new materials discovered with deep learning]]></title>
-        <id>https://deepmind.google/discover/blog/millions-of-new-materials-discovered-with-deep-learning/</id>
-        <link href="https://deepmind.google/discover/blog/millions-of-new-materials-discovered-with-deep-learning/"/>
-        <updated>2023-11-29T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[We share the discovery of 2.2 million new crystals  –  equivalent to nearly 800 years’ worth of knowledge. We introduce Graph Networks for Materials Exploration (GNoME), our new deep learning tool that dramatically increases the speed and efficiency of discovery by predicting the stability of new materials.]]></summary>
-        <author>
-            <name>Google DeepMind Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sanskrit is far from extinct]]></title>
-        <id>https://languagelog.ldc.upenn.edu/nll/?p=61486</id>
-        <link href="https://languagelog.ldc.upenn.edu/nll/?p=61486&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=sanskrit-is-far-from-extinct"/>
-        <updated>2023-11-29T15:38:21.000Z</updated>
-        <summary type="html"><![CDATA[[This is the first of two consecutive posts on things Indian.  After reading them, if someone is prompted to send me material for a third, I'll be happy to make it a trifecta.] Our entry point to the linguistically compelling topic of today's post is this Nikkei Asia (11/29/23) article by Barkha Shah in its […]]]></summary>
-        <author>
-            <name>Victor Mair</name>
         </author>
     </entry>
 </feed>
