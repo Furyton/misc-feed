@@ -1954,6 +1954,16 @@
       "siteUrl": "https://xianblog.wordpress.com",
       "articles": [
         {
+          "id": "http://xianblog.wordpress.com/?p=54776",
+          "author": "xi'an",
+          "description": "Visit the post for more.",
+          "link": "https://xianblog.wordpress.com/2023/12/30/grands-causses-jatp/",
+          "publishedOn": "2023-12-29T23:23:45.000Z",
+          "wordCount": 2163,
+          "title": "Grands Causses [jatp]",
+          "imageUrl": "https://xianblog.files.wordpress.com/2023/12/1703829076171-e1703829494126.jpg"
+        },
+        {
           "id": "http://xianblog.wordpress.com/?p=54626",
           "author": "xi'an",
           "description": "Lorenzo Rimella, Chris Jewell, and Paul Fearnhead have recently arXived a paper entitled Simulation Based Composite Likelihood, where they consider a composite likelihood approximation for running inference on HMM parameters under the specific scenario of HMMs on finite, high-dimension N, state spaces X with huge cost of order card (Χ)2N when computing the likelihood  by […]",
@@ -2426,6 +2436,16 @@
       "feedUrl": "https://languagelog.ldc.upenn.edu/nll/?feed=rss2",
       "siteUrl": "https://languagelog.ldc.upenn.edu/nll",
       "articles": [
+        {
+          "id": "https://languagelog.ldc.upenn.edu/nll/?p=61936",
+          "author": "Victor Mair",
+          "description": "From Emma Knightley: Sent by my boomer parents – according to the caption how a Taiwanese village is teaching seniors how to sing \"You Are My Sunshine\" in English, which requires them to know a combination of Mandarin, Taiwanese (\"阿粿\"), English (\"B\"), and Japanese (\"の\")! (I think the calligraphy is wonderful, to boot.) This is […]",
+          "link": "https://languagelog.ldc.upenn.edu/nll/?p=61936&utm_source=rss&utm_medium=rss&utm_campaign=quadriscriptal-you-are-my-sunshine",
+          "publishedOn": "2023-12-30T00:48:13.000Z",
+          "wordCount": 2149,
+          "title": "Quadriscriptal \"You Are My Sunshine\"",
+          "imageUrl": null
+        },
         {
           "id": "https://languagelog.ldc.upenn.edu/nll/?p=61952",
           "author": "Mark Liberman",
@@ -2949,16 +2969,6 @@
           "publishedOn": "2023-12-01T05:47:54.000Z",
           "wordCount": 2227,
           "title": "Major Linguistic Faux Pas in Chinese Football Association PPT",
-          "imageUrl": null
-        },
-        {
-          "id": "https://languagelog.ldc.upenn.edu/nll/?p=61499",
-          "author": "Victor Mair",
-          "description": "Long have we pondered the overwhelming dominance by individuals of Indian heritage over the spelling bees.  Do they have some sort of mysterious power or secret for memorizing hundreds of thousands of obscure words?  Now we have an answer from one of the masters himself, Dev Shah, a ninth-grader living in Largo, Florida, who won […]",
-          "link": "https://languagelog.ldc.upenn.edu/nll/?p=61499&utm_source=rss&utm_medium=rss&utm_campaign=spelling-and-intuition",
-          "publishedOn": "2023-11-30T13:02:24.000Z",
-          "wordCount": 3041,
-          "title": "Spelling and intuition",
           "imageUrl": null
         }
       ]
