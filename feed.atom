@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-12-31T02:28:17.904Z</updated>
+    <updated>2023-12-31T03:15:53.706Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -2694,46 +2694,6 @@ Speech-to-speech translation (S2ST) is a type of machine translation that conver
 Previously, we introduced Translatotron 1 and Translatotron 2, the first ever models that were able to directly translate speech between two languages. However they were trained in supervised settings with parallel speech data. The scarcity of parallel speech data is a major challenge in this field, so much that most public datasets are semi- or fully-synthesized from text. This adds additiona…]]></summary>
         <author>
             <name>Google AI Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Only Winning Move]]></title>
-        <id>https://www.argmin.net/p/the-only-winning-move</id>
-        <link href="https://www.argmin.net/p/the-only-winning-move"/>
-        <updated>2023-12-01T15:04:19.000Z</updated>
-        <summary type="html"><![CDATA[Game Theory is a cautionary tale about decision making under uncertainty.]]></summary>
-        <author>
-            <name>Ben Recht</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Only Winning Move]]></title>
-        <id>https://argmin.substack.com/p/the-only-winning-move</id>
-        <link href="https://argmin.substack.com/p/the-only-winning-move"/>
-        <updated>2023-12-01T15:04:19.000Z</updated>
-        <summary type="html"><![CDATA[Game Theory is a cautionary tale about decision making under uncertainty.]]></summary>
-        <author>
-            <name>Ben Recht</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Only Winning Move]]></title>
-        <id>https://www.argmin.net/p/the-only-winning-move</id>
-        <link href="https://www.argmin.net/p/the-only-winning-move"/>
-        <updated>2023-12-01T15:04:19.000Z</updated>
-        <summary type="html"><![CDATA[Game Theory is a cautionary tale about decision making under uncertainty.]]></summary>
-        <author>
-            <name>Ben Recht</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Only Winning Move]]></title>
-        <id>https://argmin.substack.com/p/the-only-winning-move</id>
-        <link href="https://argmin.substack.com/p/the-only-winning-move"/>
-        <updated>2023-12-01T15:04:19.000Z</updated>
-        <summary type="html"><![CDATA[Game Theory is a cautionary tale about decision making under uncertainty.]]></summary>
-        <author>
-            <name>Ben Recht</name>
         </author>
     </entry>
 </feed>
