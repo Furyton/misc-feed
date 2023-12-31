@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-12-31T05:14:22.659Z</updated>
+    <updated>2023-12-31T06:18:33.404Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -2672,28 +2672,6 @@ In recent years, the Privacy Sandbox initiative was launched to explore responsi
         <summary type="html"><![CDATA[[Here's the conclusion to the hoped for trifecta on things Indian — see the preface here.  It comes in the form of a guest post by Arun Prasad] The cornerstone of traditional Sanskrit grammar is Pāṇini's Aṣṭādhyāyī, which in around 4,000 short rules defines a comprehensive system for generating valid Sanskrit expressions. It continues to prompt […]]]></summary>
         <author>
             <name>Victor Mair</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Unsupervised speech-to-speech translation from monolingual data]]></title>
-        <id>http://blog.research.google/2023/12/unsupervised-speech-to-speech.html</id>
-        <link href="http://blog.research.google/2023/12/unsupervised-speech-to-speech.html"/>
-        <updated>2023-12-01T17:19:00.000Z</updated>
-        <summary type="html"><![CDATA[Posted by Eliya Nachmani, Research Scientist, and Michelle Tadmor Ramanovich, Software Engineer, Google Research
-
-
-
-
-
-
-Speech-to-speech translation (S2ST) is a type of machine translation that converts spoken language from one language to another. This technology has the potential to break down language barriers and facilitate communication between people from different cultures and backgrounds. 
-
-
-
-
-Previously, we introduced Translatotron 1 and Translatotron 2, the first ever models that were able to directly translate speech between two languages. However they were trained in supervised settings with parallel speech data. The scarcity of parallel speech data is a major challenge in this field, so much that most public datasets are semi- or fully-synthesized from text. This adds additiona…]]></summary>
-        <author>
-            <name>Google AI Blog</name>
         </author>
     </entry>
 </feed>
