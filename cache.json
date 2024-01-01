@@ -6,6 +6,56 @@
       "siteUrl": "https://www.arxivist.com",
       "articles": [
         {
+          "id": "http://arxiv.org/abs/2312.15148",
+          "author": null,
+          "description": "Zihan Chen, Jundong Li, Cong Shen",
+          "link": "http://arxiv.org/abs/2312.15148",
+          "publishedOn": "2024-01-01T04:18:34.960Z",
+          "wordCount": 652,
+          "title": "Personalized Federated Learning with Attention-based Client Selection",
+          "imageUrl": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2312.17342",
+          "author": null,
+          "description": "Abhijit Mishra, Mingda Li, Soham Deo",
+          "link": "http://arxiv.org/abs/2312.17342",
+          "publishedOn": "2024-01-01T04:18:34.658Z",
+          "wordCount": 756,
+          "title": "SentinelLMs: Encrypted Input Adaptation and Fine-tuning of Language\n  Models for Private and Secure Inference",
+          "imageUrl": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2309.15427",
+          "author": null,
+          "description": "Yijun Tian, Huan Song, Zichen Wang, Haozhu Wang, Ziqing Hu, Fang Wang,\n  Nitesh V. Chawla, Panpan Xu",
+          "link": "http://arxiv.org/abs/2309.15427",
+          "publishedOn": "2024-01-01T04:18:34.542Z",
+          "wordCount": 702,
+          "title": "Graph Neural Prompting with Large Language Models",
+          "imageUrl": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2312.17346",
+          "author": null,
+          "description": "Dennis Wu, Jerry Yao-Chieh Hu, Weijian Li, Bo-Yu Chen, Han Liu",
+          "link": "http://arxiv.org/abs/2312.17346",
+          "publishedOn": "2024-01-01T04:18:34.528Z",
+          "wordCount": 704,
+          "title": "STanHop: Sparse Tandem Hopfield Model for Memory-Enhanced Time Series\n  Prediction",
+          "imageUrl": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2312.17584",
+          "author": null,
+          "description": "Nijat Mehdiyev, Maxim Majlatow, Peter Fettke",
+          "link": "http://arxiv.org/abs/2312.17584",
+          "publishedOn": "2024-01-01T04:18:34.337Z",
+          "wordCount": 699,
+          "title": "Interpretable and Explainable Machine Learning Methods for Predictive\n  Process Monitoring: A Systematic Literature Review",
+          "imageUrl": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
           "id": "http://arxiv.org/abs/1002.2789",
           "author": null,
           "description": "Lidia Stoppino",
