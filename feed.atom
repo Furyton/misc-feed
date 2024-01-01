@@ -2,10 +2,65 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-01T08:21:14.164Z</updated>
+    <updated>2024-01-01T09:15:49.072Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Harnessing the Power of Federated Learning in Federated Contextual
+  Bandits]]></title>
+        <id>http://arxiv.org/abs/2312.16341</id>
+        <link href="http://arxiv.org/abs/2312.16341"/>
+        <updated>2024-01-01T09:15:33.368Z</updated>
+        <summary type="html"><![CDATA[Chengshuai Shi, Ruida Zhou, Kun Yang, Cong Shen]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Quantitative bounds for critically bounded solutions to the
+  three-dimensional Navier-Stokes equations in Lorentz spaces]]></title>
+        <id>http://arxiv.org/abs/2201.04656</id>
+        <link href="http://arxiv.org/abs/2201.04656"/>
+        <updated>2024-01-01T09:15:33.172Z</updated>
+        <summary type="html"><![CDATA[Wen Feng, Jiao He, Weinan Wang]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Electron-doped magnetic Weyl semimetal LixCo3Sn2S2 by bulk-gating]]></title>
+        <id>http://arxiv.org/abs/2312.17547</id>
+        <link href="http://arxiv.org/abs/2312.17547"/>
+        <updated>2024-01-01T09:15:33.168Z</updated>
+        <summary type="html"><![CDATA[Hideki Matsuoka, Yukako Fujishiro, Susumu Minami, Takashi Koretsune,
+  Ryotaro Arita, Yoshinori Tokura, Yoshihiro Iwasa]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chiral anomaly induced monopole current and nonlinear circular dichroism]]></title>
+        <id>http://arxiv.org/abs/2312.17690</id>
+        <link href="http://arxiv.org/abs/2312.17690"/>
+        <updated>2024-01-01T09:15:33.164Z</updated>
+        <summary type="html"><![CDATA[Nikolai Peshcherenko, Claudia Felser, Yang Zhang]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[M3ICRO: Machine Learning-Enabled Compact Photonic Tensor Core based on
+  PRogrammable Multi-Operand Multimode Interference]]></title>
+        <id>http://arxiv.org/abs/2305.19505</id>
+        <link href="http://arxiv.org/abs/2305.19505"/>
+        <updated>2024-01-01T09:15:31.179Z</updated>
+        <summary type="html"><![CDATA[Jiaqi Gu, Hanqing Zhu, Chenghao Feng, Zixuan Jiang, Ray T. Chen, David
+  Z. Pan]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Personalized Federated Learning with Attention-based Client Selection]]></title>
         <id>http://arxiv.org/abs/2312.15148</id>
