@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-02T02:28:10.620Z</updated>
+    <updated>2024-01-02T03:15:55.228Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -2846,16 +2846,6 @@ In recent years, the Privacy Sandbox initiative was launched to explore responsi
         <summary type="html"><![CDATA[2017 photo of a Kaohsiung storefront courtesy of Mark Eaglesfield: Signage on the first floor: Jǐn Hán shítáng 槿韓食堂 Rose of Sharon South Korea Dining Hall — mugunghwa 무궁화  Rose of Sharon (the national flower of South Korea) — Hánshì liàolǐ / Kanshiki ryōri 韓式料理 Korean Cuisine Signage on the second floor: Tàijí guō 太極鍋 Pot […]]]></summary>
         <author>
             <name>Victor Mair</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Extracting training data from LLMs]]></title>
-        <id>https://languagelog.ldc.upenn.edu/nll/?p=61533</id>
-        <link href="https://languagelog.ldc.upenn.edu/nll/?p=61533&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=extracting-training-data-from-llms"/>
-        <updated>2023-12-03T14:40:22.000Z</updated>
-        <summary type="html"><![CDATA[Nasr et al., "Scalable Extraction of Training Data from (Production) Language Models", arXiv.org 11/28/2023: This paper studies extractable memorization: training data that an adversary can efficiently extract by querying a machine learning model without prior knowledge of the training dataset. We show an adversary can extract gigabytes of training data from open-source language models like […]]]></summary>
-        <author>
-            <name>Mark Liberman</name>
         </author>
     </entry>
 </feed>
