@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-02T15:15:40.059Z</updated>
+    <updated>2024-01-02T16:18:32.428Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Images altered to trick machine vision can influence humans too]]></title>
+        <id>https://deepmind.google/discover/blog/images-altered-to-trick-machine-vision-can-influence-humans-too/</id>
+        <link href="https://deepmind.google/discover/blog/images-altered-to-trick-machine-vision-can-influence-humans-too/"/>
+        <updated>2024-01-02T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In a series of experiments published in Nature Communications, we found evidence that human judgments are indeed systematically influenced by adversarial perturbations.]]></summary>
+        <author>
+            <name>Google DeepMind Blog</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Cortical Divisive Normalization from Wilson-Cowan Neural Dynamics]]></title>
         <id>http://arxiv.org/abs/1906.08246</id>
