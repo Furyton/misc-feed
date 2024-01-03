@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-03T10:16:29.736Z</updated>
+    <updated>2024-01-03T11:13:00.225Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -2878,35 +2878,6 @@ We hope you’ll visit the Google booth to chat with researchers who are activel
         <summary type="html"><![CDATA[Visit the post for more.]]></summary>
         <author>
             <name>xi'an</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A (troop / troupe of) dragon(s) tromping / flying]]></title>
-        <id>https://languagelog.ldc.upenn.edu/nll/?p=61559</id>
-        <link href="https://languagelog.ldc.upenn.edu/nll/?p=61559&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=a-troop-troupe-of-dragons-tromping-flying"/>
-        <updated>2023-12-04T23:03:53.000Z</updated>
-        <summary type="html"><![CDATA[This is the theme of the forthcoming CCTV Spring Festival Gala to ring in the new year of 2024: (source) The slogan reads: lóngxíng dádá ，xīnxīnjiāguó 「龍行龘龘，欣欣家國」 "The dragon(s) bound upward in flight, bringing joy to home and country." Since the repeated character is extremely rare, its pronunciation would be known to almost no one, so the […]]]></summary>
-        <author>
-            <name>Victor Mair</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A new quantum algorithm for classical mechanics with an exponential speedup]]></title>
-        <id>http://blog.research.google/2023/12/a-new-quantum-algorithm-for-classical.html</id>
-        <link href="http://blog.research.google/2023/12/a-new-quantum-algorithm-for-classical.html"/>
-        <updated>2023-12-04T22:41:00.000Z</updated>
-        <summary type="html"><![CDATA[Posted by Robin Kothari and Rolando Somma, Research Scientists, Google Research, Quantum AI Team
-
-
-
-
-Quantum computers promise to solve some problems exponentially faster than classical computers, but there are only a handful of examples with such a dramatic speedup, such as Shor’s factoring algorithm and quantum simulation. Of those few examples, the majority of them involve simulating physical systems that are inherently quantum mechanical — a natural application for quantum computers. But what about simulating systems that are not inherently quantum? Can quantum computers offer an exponential advantage for this?
-
- 
-
-In “Exponential quantum speedup in simulating coupled classical oscillators”, published in Physical Review X (PRX) and presented at the Symposium on Foundations of Computer …]]></summary>
-        <author>
-            <name>Google AI Blog</name>
         </author>
     </entry>
 </feed>
