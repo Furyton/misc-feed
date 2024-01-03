@@ -2,10 +2,64 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-03T02:26:05.600Z</updated>
+    <updated>2024-01-03T03:16:38.746Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[SASSL: Enhancing Self-Supervised Learning via Neural Style Transfer]]></title>
+        <id>http://arxiv.org/abs/2312.01187</id>
+        <link href="http://arxiv.org/abs/2312.01187"/>
+        <updated>2024-01-03T03:16:27.711Z</updated>
+        <summary type="html"><![CDATA[Renan A. Rojas-Gomez, Karan Singhal, Ali Etemad, Alex Bijamov, Warren
+  R. Morningstar, Philip Andrew Mansfield]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Adaptive learning of density ratios in RKHS]]></title>
+        <id>http://arxiv.org/abs/2307.16164</id>
+        <link href="http://arxiv.org/abs/2307.16164"/>
+        <updated>2024-01-03T03:16:27.690Z</updated>
+        <summary type="html"><![CDATA[Werner Zellinger, Stefan Kindermann, Sergei V. Pereverzyev]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Encoding Binary Events from Continuous Time Series in Rooted Trees using
+  Contrastive Learning]]></title>
+        <id>http://arxiv.org/abs/2401.01242</id>
+        <link href="http://arxiv.org/abs/2401.01242"/>
+        <updated>2024-01-03T03:16:27.675Z</updated>
+        <summary type="html"><![CDATA[Tobias Engelhardt Rasmussen, Siv S{\o}rensen]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Contextual Lasso: Sparse Linear Models via Deep Neural Networks]]></title>
+        <id>http://arxiv.org/abs/2302.00878</id>
+        <link href="http://arxiv.org/abs/2302.00878"/>
+        <updated>2024-01-03T03:16:27.654Z</updated>
+        <summary type="html"><![CDATA[Ryan Thompson, Amir Dezfouli, Robert Kohn]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Self-Play Fine-Tuning Converts Weak Language Models to Strong Language
+  Models]]></title>
+        <id>http://arxiv.org/abs/2401.01335</id>
+        <link href="http://arxiv.org/abs/2401.01335"/>
+        <updated>2024-01-03T03:16:27.650Z</updated>
+        <summary type="html"><![CDATA[Zixiang Chen, Yihe Deng, Huizhuo Yuan, Kaixuan Ji and
+  Quanquan Gu]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[sunrise boulevard, Aubrac [jatp]]]></title>
         <id>http://xianblog.wordpress.com/?p=54789</id>
@@ -2929,16 +2983,6 @@ In recent years, the Privacy Sandbox initiative was launched to explore responsi
         <summary type="html"><![CDATA[The first of four semester reflections]]></summary>
         <author>
             <name>Ben Recht</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["Toil tackler"]]></title>
-        <id>https://languagelog.ldc.upenn.edu/nll/?p=61550</id>
-        <link href="https://languagelog.ldc.upenn.edu/nll/?p=61550&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=toil-tackler"/>
-        <updated>2023-12-04T15:03:35.000Z</updated>
-        <summary type="html"><![CDATA[The bio from a recent talk announcement described the speaker as a "Production Engineer …, a job which, for the most part, means he is a professional toil tackler." That's a striking phrase, and one that was new to me. I soon discovered that it's new to Google as well, though the search turned up […]]]></summary>
-        <author>
-            <name>Mark Liberman</name>
         </author>
     </entry>
 </feed>
