@@ -6,6 +6,16 @@
       "siteUrl": "https://www.arxivist.com",
       "articles": [
         {
+          "id": "http://arxiv.org/abs/2401.01048",
+          "author": null,
+          "description": "Mehdi Hennequin, Khalid Benabdeslem, Haytham Elghazel",
+          "link": "http://arxiv.org/abs/2401.01048",
+          "publishedOn": "2024-01-03T04:18:22.947Z",
+          "wordCount": 647,
+          "title": "PAC-Bayesian Domain Adaptation Bounds for Multi-view learning",
+          "imageUrl": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
           "id": "http://arxiv.org/abs/2312.01187",
           "author": null,
           "description": "Renan A. Rojas-Gomez, Karan Singhal, Ali Etemad, Alex Bijamov, Warren\n  R. Morningstar, Philip Andrew Mansfield",
@@ -1551,38 +1561,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substack-post-media.s3.amazonaws.com/public/images/f4f0bc28-cfd7-4273-8ddd-1135fcc575d6_449x300.png"
-        },
-        {
-          "id": "https://www.argmin.net/p/to-do-the-mindblowing",
-          "author": "Ben Recht",
-          "description": "The first of four semester reflections",
-          "link": "https://www.argmin.net/p/to-do-the-mindblowing",
-          "publishedOn": "2023-12-04T15:37:39.000Z",
-          "wordCount": null,
-          "title": "To do the mindblowing",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substack-post-media.s3.amazonaws.com/public/images/0bf9be9d-1fc6-4b03-b4b0-27a96851211f_449x300.png",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substack-post-media.s3.amazonaws.com/public/images/0bf9be9d-1fc6-4b03-b4b0-27a96851211f_449x300.png"
-        },
-        {
-          "id": "https://argmin.substack.com/p/to-do-the-mindblowing",
-          "author": "Ben Recht",
-          "description": "The first of four semester reflections",
-          "link": "https://argmin.substack.com/p/to-do-the-mindblowing",
-          "publishedOn": "2023-12-04T15:37:39.000Z",
-          "wordCount": null,
-          "title": "To do the mindblowing",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substack-post-media.s3.amazonaws.com/public/images/0bf9be9d-1fc6-4b03-b4b0-27a96851211f_449x300.png",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substack-post-media.s3.amazonaws.com/public/images/0bf9be9d-1fc6-4b03-b4b0-27a96851211f_449x300.png"
         }
       ]
     },
@@ -2006,38 +1984,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substack-post-media.s3.amazonaws.com/public/images/f4f0bc28-cfd7-4273-8ddd-1135fcc575d6_449x300.png"
-        },
-        {
-          "id": "https://www.argmin.net/p/to-do-the-mindblowing",
-          "author": "Ben Recht",
-          "description": "The first of four semester reflections",
-          "link": "https://www.argmin.net/p/to-do-the-mindblowing",
-          "publishedOn": "2023-12-04T15:37:39.000Z",
-          "wordCount": null,
-          "title": "To do the mindblowing",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substack-post-media.s3.amazonaws.com/public/images/0bf9be9d-1fc6-4b03-b4b0-27a96851211f_449x300.png",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substack-post-media.s3.amazonaws.com/public/images/0bf9be9d-1fc6-4b03-b4b0-27a96851211f_449x300.png"
-        },
-        {
-          "id": "https://argmin.substack.com/p/to-do-the-mindblowing",
-          "author": "Ben Recht",
-          "description": "The first of four semester reflections",
-          "link": "https://argmin.substack.com/p/to-do-the-mindblowing",
-          "publishedOn": "2023-12-04T15:37:39.000Z",
-          "wordCount": null,
-          "title": "To do the mindblowing",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substack-post-media.s3.amazonaws.com/public/images/0bf9be9d-1fc6-4b03-b4b0-27a96851211f_449x300.png",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substack-post-media.s3.amazonaws.com/public/images/0bf9be9d-1fc6-4b03-b4b0-27a96851211f_449x300.png"
         }
       ]
     },

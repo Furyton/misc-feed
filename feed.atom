@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-03T03:16:38.746Z</updated>
+    <updated>2024-01-03T04:18:36.255Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[PAC-Bayesian Domain Adaptation Bounds for Multi-view learning]]></title>
+        <id>http://arxiv.org/abs/2401.01048</id>
+        <link href="http://arxiv.org/abs/2401.01048"/>
+        <updated>2024-01-03T04:18:22.947Z</updated>
+        <summary type="html"><![CDATA[Mehdi Hennequin, Khalid Benabdeslem, Haytham Elghazel]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SASSL: Enhancing Self-Supervised Learning via Neural Style Transfer]]></title>
         <id>http://arxiv.org/abs/2312.01187</id>
@@ -2943,46 +2953,6 @@ In recent years, the Privacy Sandbox initiative was launched to explore responsi
         <summary type="html"><![CDATA[By chance, while I was looking for something else about a supposed Russian mistranslation, I came upon this famous example: “We Will Bury You” — How A Mistranslation Almost Started WW3 And the story of the man behind those fateful words A Renaissance WriterExploring History Medium (Jul 14, 2020) Although this happened nearly seven decades […]]]></summary>
         <author>
             <name>Victor Mair</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[To do the mindblowing]]></title>
-        <id>https://www.argmin.net/p/to-do-the-mindblowing</id>
-        <link href="https://www.argmin.net/p/to-do-the-mindblowing"/>
-        <updated>2023-12-04T15:37:39.000Z</updated>
-        <summary type="html"><![CDATA[The first of four semester reflections]]></summary>
-        <author>
-            <name>Ben Recht</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[To do the mindblowing]]></title>
-        <id>https://argmin.substack.com/p/to-do-the-mindblowing</id>
-        <link href="https://argmin.substack.com/p/to-do-the-mindblowing"/>
-        <updated>2023-12-04T15:37:39.000Z</updated>
-        <summary type="html"><![CDATA[The first of four semester reflections]]></summary>
-        <author>
-            <name>Ben Recht</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[To do the mindblowing]]></title>
-        <id>https://www.argmin.net/p/to-do-the-mindblowing</id>
-        <link href="https://www.argmin.net/p/to-do-the-mindblowing"/>
-        <updated>2023-12-04T15:37:39.000Z</updated>
-        <summary type="html"><![CDATA[The first of four semester reflections]]></summary>
-        <author>
-            <name>Ben Recht</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[To do the mindblowing]]></title>
-        <id>https://argmin.substack.com/p/to-do-the-mindblowing</id>
-        <link href="https://argmin.substack.com/p/to-do-the-mindblowing"/>
-        <updated>2023-12-04T15:37:39.000Z</updated>
-        <summary type="html"><![CDATA[The first of four semester reflections]]></summary>
-        <author>
-            <name>Ben Recht</name>
         </author>
     </entry>
 </feed>
