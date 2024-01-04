@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-04T15:17:25.193Z</updated>
+    <updated>2024-01-04T16:20:16.324Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -2825,51 +2825,6 @@ The use of avatars in experiments isn’t just about how users will interact and
         <summary type="html"><![CDATA[Making AI more helpful for everyone.]]></summary>
         <author>
             <name>Google DeepMind Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Unified Theory of Diversity in Ensemble Learning]]></title>
-        <id>http://arxiv.org/abs/2301.03962</id>
-        <link href="http://arxiv.org/abs/2301.03962"/>
-        <updated>2023-12-06T04:19:08.767Z</updated>
-        <summary type="html"><![CDATA[Danny Wood, Tingting Mu, Andrew Webb, Henry Reeve, Mikel
-  Lujan, Gavin Brown]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Analyzing and Improving the Training Dynamics of Diffusion Models]]></title>
-        <id>http://arxiv.org/abs/2312.02696</id>
-        <link href="http://arxiv.org/abs/2312.02696"/>
-        <updated>2023-12-06T04:19:08.725Z</updated>
-        <summary type="html"><![CDATA[Tero Karras, Miika Aittala, Jaakko Lehtinen, Janne Hellsten, Timo
-  Aila, Samuli Laine]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MIMONets: Multiple-Input-Multiple-Output Neural Networks Exploiting
-  Computation in Superposition]]></title>
-        <id>http://arxiv.org/abs/2312.02829</id>
-        <link href="http://arxiv.org/abs/2312.02829"/>
-        <updated>2023-12-06T04:19:08.695Z</updated>
-        <summary type="html"><![CDATA[Nicolas Menet (1, 2), Michael Hersche (1, 2), Geethan
-  Karunaratne (1), Luca Benini (2), Abu Sebastian (1), Abbas Rahimi (1) ((1)
-  IBM Research - Zurich, (2) ETH Zurich)]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Expressive Sign Equivariant Networks for Spectral Geometric Learning]]></title>
-        <id>http://arxiv.org/abs/2312.02339</id>
-        <link href="http://arxiv.org/abs/2312.02339"/>
-        <updated>2023-12-06T04:19:08.657Z</updated>
-        <summary type="html"><![CDATA[Derek Lim, Joshua Robinson, Stefanie Jegelka, Haggai Maron]]></summary>
-        <author>
-            <name>arxivist feed</name>
         </author>
     </entry>
 </feed>
