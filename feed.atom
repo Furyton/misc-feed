@@ -2,10 +2,62 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-04T07:14:14.105Z</updated>
+    <updated>2024-01-04T08:19:00.877Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The Principal Ideal Theorem in Spectral Synthesis]]></title>
+        <id>http://arxiv.org/abs/2310.19026</id>
+        <link href="http://arxiv.org/abs/2310.19026"/>
+        <updated>2024-01-04T08:18:45.463Z</updated>
+        <summary type="html"><![CDATA[L\'aszl\'o Sz\'ekelyhidi]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Robust learning of staged tree models: A case study in evaluating
+  transport services]]></title>
+        <id>http://arxiv.org/abs/2401.01812</id>
+        <link href="http://arxiv.org/abs/2401.01812"/>
+        <updated>2024-01-04T08:18:45.275Z</updated>
+        <summary type="html"><![CDATA[Manuele Leonelli, Gherardo Varando]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[IoTGeM: Generalizable Models for Behaviour-Based IoT Attack Detection]]></title>
+        <id>http://arxiv.org/abs/2401.01343</id>
+        <link href="http://arxiv.org/abs/2401.01343"/>
+        <updated>2024-01-04T08:18:45.272Z</updated>
+        <summary type="html"><![CDATA[Kahraman Kostas, Mike Just, Michael A. Lones]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[On $q$-deformed Farey sum and a homological interpretation of
+  $q$-deformed real quadratic irrational numbers]]></title>
+        <id>http://arxiv.org/abs/2210.06056</id>
+        <link href="http://arxiv.org/abs/2210.06056"/>
+        <updated>2024-01-04T08:18:45.268Z</updated>
+        <summary type="html"><![CDATA[Xin Ren]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Second-order Approximation of Exponential Random Graph Models]]></title>
+        <id>http://arxiv.org/abs/2401.01467</id>
+        <link href="http://arxiv.org/abs/2401.01467"/>
+        <updated>2024-01-04T08:18:45.258Z</updated>
+        <summary type="html"><![CDATA[Wen-Yi Ding, Xiao Fang]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[InterpretTime: a new approach for the systematic evaluation of
   neural-network interpretability in time series classification]]></title>
