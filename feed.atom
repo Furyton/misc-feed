@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-04T21:13:59.216Z</updated>
+    <updated>2024-01-04T22:15:19.284Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[AI plagiarism]]></title>
+        <id>https://languagelog.ldc.upenn.edu/nll/?p=62032</id>
+        <link href="https://languagelog.ldc.upenn.edu/nll/?p=62032&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=ai-plagiarism"/>
+        <updated>2024-01-04T21:56:14.000Z</updated>
+        <summary type="html"><![CDATA["The Times Sues OpenAI and Microsoft Over A.I. Use of Copyrighted Work", NYT 12/27/2023: The New York Times sued OpenAI and Microsoft for copyright infringement on Wednesday, opening a new front in the increasingly intense legal battle over the unauthorized use of published work to train artificial intelligence technologies. The Times is the first major […]]]></summary>
+        <author>
+            <name>Mark Liberman</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Shaping the future of advanced robotics]]></title>
         <id>https://deepmind.google/discover/blog/shaping-the-future-of-advanced-robotics/</id>
