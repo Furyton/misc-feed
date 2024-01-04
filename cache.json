@@ -6,6 +6,56 @@
       "siteUrl": "https://www.arxivist.com",
       "articles": [
         {
+          "id": "http://arxiv.org/abs/2202.05656",
+          "author": null,
+          "description": "Hugues Turb\\'e, Mina Bjelogrlic, Christian Lovis, Gianmarco Mengaldo",
+          "link": "http://arxiv.org/abs/2202.05656",
+          "publishedOn": "2024-01-04T04:18:34.841Z",
+          "wordCount": 640,
+          "title": "InterpretTime: a new approach for the systematic evaluation of\n  neural-network interpretability in time series classification",
+          "imageUrl": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2208.10962",
+          "author": null,
+          "description": "Abhijit Gupta",
+          "link": "http://arxiv.org/abs/2208.10962",
+          "publishedOn": "2024-01-04T04:18:34.317Z",
+          "wordCount": 800,
+          "title": "Prediction of good reaction coordinates and future evolution of MD\n  trajectories using Regularized Sparse Autoencoders: A novel deep learning\n  approach",
+          "imageUrl": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2401.01869",
+          "author": null,
+          "description": "Bobak T. Kiani, Thien Le, Hannah Lawrence, Stefanie Jegelka, Melanie\n  Weber",
+          "link": "http://arxiv.org/abs/2401.01869",
+          "publishedOn": "2024-01-04T04:18:34.300Z",
+          "wordCount": 695,
+          "title": "On the hardness of learning under symmetries",
+          "imageUrl": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2401.01789",
+          "author": null,
+          "description": "D\\'aniel Boros, B\\'alint Csan\\'ady, Iv\\'an Ivkovic, L\\'or\\'ant Nagy,\n  Andr\\'as Luk\\'acs, L\\'aszl\\'o M\\'arkus",
+          "link": "http://arxiv.org/abs/2401.01789",
+          "publishedOn": "2024-01-04T04:18:34.266Z",
+          "wordCount": 724,
+          "title": "Deep learning the Hurst parameter of linear fractional processes and\n  assessing its reliability",
+          "imageUrl": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2401.01426",
+          "author": null,
+          "description": "Md Musfiqur Rahman, Murat Kocaoglu",
+          "link": "http://arxiv.org/abs/2401.01426",
+          "publishedOn": "2024-01-04T04:18:34.257Z",
+          "wordCount": 768,
+          "title": "Modular Learning of Deep Causal Generative Models for High-dimensional\n  Causal Inference",
+          "imageUrl": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
           "id": "http://arxiv.org/abs/2401.01048",
           "author": null,
           "description": "Mehdi Hennequin, Khalid Benabdeslem, Haytham Elghazel",
@@ -2458,6 +2508,16 @@
       "feedUrl": "https://languagelog.ldc.upenn.edu/nll/?feed=rss2",
       "siteUrl": "https://languagelog.ldc.upenn.edu/nll",
       "articles": [
+        {
+          "id": "https://languagelog.ldc.upenn.edu/nll/?p=62019",
+          "author": "Victor Mair",
+          "description": "[from a long-time Language Log reader] One of the well known Cantonese versions of Auld Lang Syne: 友誼萬歲 jau5 ji4 maan6 seoi3 “Long Live Friendship” from Hong Kong:   朋友 再見聲聲 往昔歡笑 來日記取   pang4 jau5  zoi3 gin3 seng1 seng1  wong5 sik1 fun1 siu3  loi4 jat6 gei3 ceoi2   Farewell friends, happy memories of the […]",
+          "link": "https://languagelog.ldc.upenn.edu/nll/?p=62019&utm_source=rss&utm_medium=rss&utm_campaign=auld-lang-syne-in-cantonese",
+          "publishedOn": "2024-01-04T03:16:49.000Z",
+          "wordCount": 2451,
+          "title": "Auld Lang Syne in Cantonese",
+          "imageUrl": null
+        },
         {
           "id": "https://languagelog.ldc.upenn.edu/nll/?p=62014",
           "author": "Victor Mair",
