@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-04T14:13:54.532Z</updated>
+    <updated>2024-01-04T15:17:25.193Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Shaping the future of advanced robotics]]></title>
+        <id>https://deepmind.google/discover/blog/shaping-the-future-of-advanced-robotics/</id>
+        <link href="https://deepmind.google/discover/blog/shaping-the-future-of-advanced-robotics/"/>
+        <updated>2024-01-04T11:39:00.000Z</updated>
+        <summary type="html"><![CDATA[AutoRT, SARA-RT, and RT-Trajectory build on our historic Robotics Transformers work to help robots make decisions faster, and better understand and navigate their environments.]]></summary>
+        <author>
+            <name>Google DeepMind Blog</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Principal Ideal Theorem in Spectral Synthesis]]></title>
         <id>http://arxiv.org/abs/2310.19026</id>
@@ -2860,16 +2870,6 @@ The use of avatars in experiments isn’t just about how users will interact and
         <summary type="html"><![CDATA[Derek Lim, Joshua Robinson, Stefanie Jegelka, Haggai Maron]]></summary>
         <author>
             <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Prompt Injections into ChatGPT]]></title>
-        <id>https://languagelog.ldc.upenn.edu/nll/?p=61564</id>
-        <link href="https://languagelog.ldc.upenn.edu/nll/?p=61564&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=prompt-injections-into-chatgpt"/>
-        <updated>2023-12-06T03:05:14.000Z</updated>
-        <summary type="html"><![CDATA[That title — which was given to me by a colleague who also provided most of the text of this post — probably doesn't mean much to most readers of Language Log.  It certainly didn't indicate anything specific to me, and "prompt" here doesn't imply the idea of "in a timely fashion", nor does "injection" […]]]></summary>
-        <author>
-            <name>Victor Mair</name>
         </author>
     </entry>
 </feed>

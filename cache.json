@@ -1660,6 +1660,16 @@
       "siteUrl": "https://deepmind.google/discover/blog/",
       "articles": [
         {
+          "id": "https://deepmind.google/discover/blog/shaping-the-future-of-advanced-robotics/",
+          "author": null,
+          "description": "AutoRT, SARA-RT, and RT-Trajectory build on our historic Robotics Transformers work to help robots make decisions faster, and better understand and navigate their environments.",
+          "link": "https://deepmind.google/discover/blog/shaping-the-future-of-advanced-robotics/",
+          "publishedOn": "2024-01-04T11:39:00.000Z",
+          "wordCount": 1671,
+          "title": "Shaping the future of advanced robotics",
+          "imageUrl": "https://lh3.googleusercontent.com/qeWlfSbr0jW0OsZ0dvaQK2V7tYM0HtTtwivx-fUJzK4GivdM6kffvNXlSgqOJyjAQWXBCycqF77zT7XDGxIqGvPiCnTqLX_C3VRmXGJIGGW5GAv7YQ=w1200-h630-n-nu"
+        },
+        {
           "id": "https://deepmind.google/discover/blog/images-altered-to-trick-machine-vision-can-influence-humans-too/",
           "author": null,
           "description": "In a series of experiments published in Nature Communications, we found evidence that human judgments are indeed systematically influenced by adversarial perturbations.",
@@ -3002,16 +3012,6 @@
           "publishedOn": "2023-12-06T21:20:10.000Z",
           "wordCount": 2713,
           "title": "Chinese buzzwords for 2023",
-          "imageUrl": null
-        },
-        {
-          "id": "https://languagelog.ldc.upenn.edu/nll/?p=61564",
-          "author": "Victor Mair",
-          "description": "That title — which was given to me by a colleague who also provided most of the text of this post — probably doesn't mean much to most readers of Language Log.  It certainly didn't indicate anything specific to me, and \"prompt\" here doesn't imply the idea of \"in a timely fashion\", nor does \"injection\" […]",
-          "link": "https://languagelog.ldc.upenn.edu/nll/?p=61564&utm_source=rss&utm_medium=rss&utm_campaign=prompt-injections-into-chatgpt",
-          "publishedOn": "2023-12-06T03:05:14.000Z",
-          "wordCount": 3181,
-          "title": "Prompt Injections into ChatGPT",
           "imageUrl": null
         }
       ]
