@@ -2,10 +2,65 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-05T06:20:16.537Z</updated>
+    <updated>2024-01-05T07:14:21.045Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Detection of Common Subtrees with Identical Label Distribution]]></title>
+        <id>http://arxiv.org/abs/2307.13068</id>
+        <link href="http://arxiv.org/abs/2307.13068"/>
+        <updated>2024-01-05T07:14:14.809Z</updated>
+        <summary type="html"><![CDATA[Romain Aza\"is, Florian Ingels]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Electron spin resonance and collective excitations in magic-angle
+  twisted bilayer graphene]]></title>
+        <id>http://arxiv.org/abs/2206.08354</id>
+        <link href="http://arxiv.org/abs/2206.08354"/>
+        <updated>2024-01-05T07:14:14.502Z</updated>
+        <summary type="html"><![CDATA[Erin Morissette, Jiang-Xiazi Lin, Dihao Sun, Liangji Zhang, Song Liu,
+  Daniel Rhodes, K. Watanabe, T. Taniguchi, James Hone, Johannes Pollanen,
+  Mathias S. Scheurer, Michael Lilly, Andrew Mounce, J.I.A. Li]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Extracting subleading corrections in entanglement entropy at quantum
+  phase transitions]]></title>
+        <id>http://arxiv.org/abs/2312.13498</id>
+        <link href="http://arxiv.org/abs/2312.13498"/>
+        <updated>2024-01-05T07:14:13.913Z</updated>
+        <summary type="html"><![CDATA[Menghan Song, Jiarui Zhao, Zi Yang Meng, Cenke Xu, Meng Cheng]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LADRI: LeArning-based Dynamic Risk Indicator in Automated Driving System]]></title>
+        <id>http://arxiv.org/abs/2401.02199</id>
+        <link href="http://arxiv.org/abs/2401.02199"/>
+        <updated>2024-01-05T07:14:13.904Z</updated>
+        <summary type="html"><![CDATA[Anil Ranjitbhai Patel, Peter Liggesmeyer]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DeepOnet Based Preconditioning Strategies For Solving Parametric Linear
+  Systems of Equations]]></title>
+        <id>http://arxiv.org/abs/2401.02016</id>
+        <link href="http://arxiv.org/abs/2401.02016"/>
+        <updated>2024-01-05T07:14:13.863Z</updated>
+        <summary type="html"><![CDATA[Alena Kopani\v{c}\'akov\'a, George Em Karniadakis]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Neural Collapse for Cross-entropy Class-Imbalanced Learning with
   Unconstrained ReLU Feature Model]]></title>
