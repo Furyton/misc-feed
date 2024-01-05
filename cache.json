@@ -1264,46 +1264,6 @@
           "wordCount": 831,
           "title": "LAVA: Data Valuation without Pre-Specified Learning Algorithms",
           "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
-        },
-        {
-          "id": "http://arxiv.org/abs/2312.03675",
-          "author": null,
-          "description": "Ziqi Li",
-          "link": "http://arxiv.org/abs/2312.03675",
-          "publishedOn": "2023-12-07T04:19:02.257Z",
-          "wordCount": 672,
-          "title": "GeoShapley: A Game Theory Approach to Measuring Spatial Effects in\n  Machine Learning Models",
-          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
-        },
-        {
-          "id": "http://arxiv.org/abs/2312.03682",
-          "author": null,
-          "description": "Jiayuan Mao, Tom\\'as Lozano-P\\'erez, Joshua B. Tenenbaum, Leslie Pack\n  Kaelbling",
-          "link": "http://arxiv.org/abs/2312.03682",
-          "publishedOn": "2023-12-07T04:19:02.244Z",
-          "wordCount": 668,
-          "title": "What Planning Problems Can A Relational Neural Network Solve?",
-          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
-        },
-        {
-          "id": "http://arxiv.org/abs/2312.03236",
-          "author": null,
-          "description": "Jiale Yan, Hiroaki Ito, \\'Angel L\\'opez Garc\\'ia-Arias, Yasuyuki\n  Okoshi, Hikari Otsuka, Kazushi Kawamura, Thiem Van Chu, Masato Motomura",
-          "link": "http://arxiv.org/abs/2312.03236",
-          "publishedOn": "2023-12-07T04:19:02.234Z",
-          "wordCount": 758,
-          "title": "Multicoated and Folded Graph Neural Networks with Strong Lottery Tickets",
-          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
-        },
-        {
-          "id": "http://arxiv.org/abs/2312.03654",
-          "author": null,
-          "description": "Luka Grbcic, Juliane M\\\"uller, Wibe Albert de Jong",
-          "link": "http://arxiv.org/abs/2312.03654",
-          "publishedOn": "2023-12-07T04:19:02.211Z",
-          "wordCount": 714,
-          "title": "Efficient Inverse Design Optimization through Multi-fidelity\n  Simulations, Machine Learning, and Search Space Reduction Strategies",
-          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
         }
       ]
     },
@@ -2520,6 +2480,16 @@
       "feedUrl": "https://languagelog.ldc.upenn.edu/nll/?feed=rss2",
       "siteUrl": "https://languagelog.ldc.upenn.edu/nll",
       "articles": [
+        {
+          "id": "https://languagelog.ldc.upenn.edu/nll/?p=61810",
+          "author": "Mark Liberman",
+          "description": "A couple of weeks ago, a reporter asked me for an interview \"to discuss the style of Donald Trump's campaign events, the role his rhetoric plays in them, and why they’ve been an effective tool for him\". I explained that I haven't held any focus groups or done any polls, so I don't have any […]",
+          "link": "https://languagelog.ldc.upenn.edu/nll/?p=61810&utm_source=rss&utm_medium=rss&utm_campaign=past-posts-on-donald-trumps-rhetoric",
+          "publishedOn": "2024-01-05T19:04:00.000Z",
+          "wordCount": 2815,
+          "title": "Past posts on Donald Trump's rhetoric",
+          "imageUrl": null
+        },
         {
           "id": "https://languagelog.ldc.upenn.edu/nll/?p=62032",
           "author": "Mark Liberman",
