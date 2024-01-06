@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-06T05:14:03.826Z</updated>
+    <updated>2024-01-06T06:18:43.407Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -2897,23 +2897,6 @@ Large embedding models have emerged as a fundamental tool for various applicatio
         <summary type="html"><![CDATA[On the week of 18-22 March 2024, Judith Rousseau (Paris Dauphine & Oxford) will teach a Masterclass on Bayesian asymptotics. The masterclass takes place in Paris (on the PariSanté Campus) and consists of morning lectures and afternoon labs. Attendance is free with compulsory registration before 11 March (since the building is not accessible without prior […]]]></summary>
         <author>
             <name>xi'an</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[VALID: A perceptually validated virtual avatar library for inclusion and diversity]]></title>
-        <id>http://blog.research.google/2023/12/valid-perceptually-validated-virtual.html</id>
-        <link href="http://blog.research.google/2023/12/valid-perceptually-validated-virtual.html"/>
-        <updated>2023-12-07T17:51:00.000Z</updated>
-        <summary type="html"><![CDATA[Posted by Mar Gonzalez-Franco, Research Scientist, Google AR & VR
-
-
-In the last decade, interdisciplinary scientists have dedicated a significant amount of effort to better understand the use of avatars, and have made many interesting observations, including the capacity of the users to embody their avatar (i.e., the illusion that the avatar body is their own) and the self-avatar follower effect, which creates a binding between the actions of the avatar and the user strong enough that the avatar can actually affect user behavior. 
-
-
-
-The use of avatars in experiments isn’t just about how users will interact and behave in VR spaces, but also about discovering the limits of human perception and neuroscience. In fact, some VR social experiments often rely on recreating scenarios that can’t be…]]></summary>
-        <author>
-            <name>Google AI Blog</name>
         </author>
     </entry>
 </feed>
