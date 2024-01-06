@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-06T11:11:57.789Z</updated>
+    <updated>2024-01-06T12:26:47.809Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The language of spices]]></title>
+        <id>https://languagelog.ldc.upenn.edu/nll/?p=62054</id>
+        <link href="https://languagelog.ldc.upenn.edu/nll/?p=62054&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=the-language-of-spices"/>
+        <updated>2024-01-06T11:49:02.000Z</updated>
+        <summary type="html"><![CDATA[Sino-Platonic Papers is pleased to announce the publication of its three-hundred-and-thirty-eighth issue: “Mapping the Language of Spices: A Corpus-Based, Philological Study on the Words of the Spice Domain,” by Gábor Parti. ABSTRACT Most of the existing literature on spices is to be found in the areas of gastronomy, botany, and history. This study instead investigates […]]]></summary>
+        <author>
+            <name>Victor Mair</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hangeul for Cia-Cia, part IV]]></title>
         <id>https://languagelog.ldc.upenn.edu/nll/?p=62051</id>
@@ -2877,26 +2887,6 @@ Large embedding models have emerged as a fundamental tool for various applicatio
   Ming Jin, Ruoxi Jia]]></summary>
         <author>
             <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[English in Beijing]]></title>
-        <id>https://languagelog.ldc.upenn.edu/nll/?p=61593</id>
-        <link href="https://languagelog.ldc.upenn.edu/nll/?p=61593&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=english-in-beijing"/>
-        <updated>2023-12-08T00:11:41.000Z</updated>
-        <summary type="html"><![CDATA[China has long had a love-hate relationship with the English language.  Since the late 19th century up till the mid-20th century, things were mostly peachy-creamy.  Then China fell under the tutelage of the Soviet Union and Russian linguistic influence, and English was largely shunned.  After the Sino-American love-fest initiated by Richard Nixon and Deng Xiaoping, […]]]></summary>
-        <author>
-            <name>Victor Mair</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Masterclass in Bayesian Asymptotics,  Université Paris Dauphine, 18-22 March 2024]]></title>
-        <id>http://xianblog.wordpress.com/?p=54620</id>
-        <link href="https://xianblog.wordpress.com/2023/12/08/masterclass-in-bayesian-asymptotics-universite-paris-dauphine-18-22-march-2024/"/>
-        <updated>2023-12-07T23:23:33.000Z</updated>
-        <summary type="html"><![CDATA[On the week of 18-22 March 2024, Judith Rousseau (Paris Dauphine & Oxford) will teach a Masterclass on Bayesian asymptotics. The masterclass takes place in Paris (on the PariSanté Campus) and consists of morning lectures and afternoon labs. Attendance is free with compulsory registration before 11 March (since the building is not accessible without prior […]]]></summary>
-        <author>
-            <name>xi'an</name>
         </author>
     </entry>
 </feed>
