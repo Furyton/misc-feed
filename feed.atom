@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-06T16:18:25.785Z</updated>
+    <updated>2024-01-06T17:13:15.222Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -2842,61 +2842,6 @@ Large embedding models have emerged as a fundamental tool for various applicatio
         <summary type="html"><![CDATA[The Neural Information Processing Systems (NeurIPS) is the largest artificial intelligence (AI) conference in the world. NeurIPS 2023 will be taking place December 10-16 in New Orleans, USA.Teams from across Google DeepMind are presenting more than 150 papers at the main conference and workshops.]]></summary>
         <author>
             <name>Google DeepMind Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Intelligent Anomaly Detection for Lane Rendering Using Transformer with
-  Self-Supervised Pre-Training and Customized Fine-Tuning]]></title>
-        <id>http://arxiv.org/abs/2312.04398</id>
-        <link href="http://arxiv.org/abs/2312.04398"/>
-        <updated>2023-12-08T04:18:49.342Z</updated>
-        <summary type="html"><![CDATA[Yongqi Dong, Xingmin Lu, Ruohan Li, Wei Song, Bart van Arem, Haneen
-  Farah]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Language Model Knowledge Distillation for Efficient Question Answering
-  in Spanish]]></title>
-        <id>http://arxiv.org/abs/2312.04193</id>
-        <link href="http://arxiv.org/abs/2312.04193"/>
-        <updated>2023-12-08T04:18:49.331Z</updated>
-        <summary type="html"><![CDATA[Adri\'an Bazaga, Pietro Li\`o, Gos Micklem]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Adversarial Learning for Feature Shift Detection and Correction]]></title>
-        <id>http://arxiv.org/abs/2312.04546</id>
-        <link href="http://arxiv.org/abs/2312.04546"/>
-        <updated>2023-12-08T04:18:49.321Z</updated>
-        <summary type="html"><![CDATA[Miriam Barrabes, Daniel Mas Montserrat, Margarita Geleta, Xavier
-  Giro-i-Nieto, Alexander G. Ioannidis]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The sample complexity of multi-distribution learning]]></title>
-        <id>http://arxiv.org/abs/2312.04027</id>
-        <link href="http://arxiv.org/abs/2312.04027"/>
-        <updated>2023-12-08T04:18:49.313Z</updated>
-        <summary type="html"><![CDATA[Binghui Peng]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LAVA: Data Valuation without Pre-Specified Learning Algorithms]]></title>
-        <id>http://arxiv.org/abs/2305.00054</id>
-        <link href="http://arxiv.org/abs/2305.00054"/>
-        <updated>2023-12-08T04:18:49.219Z</updated>
-        <summary type="html"><![CDATA[Hoang Anh Just, Feiyang Kang, Jiachen T. Wang, Yi Zeng, Myeongseob Ko,
-  Ming Jin, Ruoxi Jia]]></summary>
-        <author>
-            <name>arxivist feed</name>
         </author>
     </entry>
 </feed>
