@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-07T02:31:19.762Z</updated>
+    <updated>2024-01-07T03:16:00.209Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -2842,16 +2842,6 @@ Attending for NeurIPS 2023 in per…]]></summary>
 Large embedding models have emerged as a fundamental tool for various applications in recommendation systems [1, 2] and natural language processing [3, 4, 5]. Such models enable the integration of non-numerical data into deep learning models by mapping categorical or string-valued input attributes with large vocabularies to fixed-length representation vectors using embedding layers. These models are widely deployed in personalized recommendation systems and achieve state-of-the-art performance in language tasks, such as  language modeling, sentiment analysis, and question answering. In many such scenarios, privacy is an equally important feature when deploying those models. A…]]></summary>
         <author>
             <name>Google AI Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google DeepMind at NeurIPS 2023]]></title>
-        <id>https://deepmind.google/discover/blog/google-deepmind-at-neurips-2023/</id>
-        <link href="https://deepmind.google/discover/blog/google-deepmind-at-neurips-2023/"/>
-        <updated>2023-12-08T15:01:00.000Z</updated>
-        <summary type="html"><![CDATA[The Neural Information Processing Systems (NeurIPS) is the largest artificial intelligence (AI) conference in the world. NeurIPS 2023 will be taking place December 10-16 in New Orleans, USA.Teams from across Google DeepMind are presenting more than 150 papers at the main conference and workshops.]]></summary>
-        <author>
-            <name>Google DeepMind Blog</name>
         </author>
     </entry>
 </feed>
