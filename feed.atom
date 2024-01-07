@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-07T06:19:07.773Z</updated>
+    <updated>2024-01-07T07:13:28.596Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -2826,22 +2826,6 @@ Attending for NeurIPS 2023 in per…]]></summary>
         <summary type="html"><![CDATA[When it comes to the dissemination of news in China, Xinhua is the almighty source.  That extends to translations too.  Xinhua is Xinhua News Agency, or New China News Agency, the official state news agency of the People's Republic of China.  It's like Associated Press, Bloomberg News, United Press International, and the bureaus of all […]]]></summary>
         <author>
             <name>Victor Mair</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sparsity-preserving differentially private training]]></title>
-        <id>http://blog.research.google/2023/12/sparsity-preserving-differentially.html</id>
-        <link href="http://blog.research.google/2023/12/sparsity-preserving-differentially.html"/>
-        <updated>2023-12-08T18:34:00.000Z</updated>
-        <summary type="html"><![CDATA[Posted by Yangsibo Huang, Research Intern, Google Research; Chiyuan Zhang, Research Scientist, Google Research
-
-
-
-
-
-Large embedding models have emerged as a fundamental tool for various applications in recommendation systems [1, 2] and natural language processing [3, 4, 5]. Such models enable the integration of non-numerical data into deep learning models by mapping categorical or string-valued input attributes with large vocabularies to fixed-length representation vectors using embedding layers. These models are widely deployed in personalized recommendation systems and achieve state-of-the-art performance in language tasks, such as  language modeling, sentiment analysis, and question answering. In many such scenarios, privacy is an equally important feature when deploying those models. A…]]></summary>
-        <author>
-            <name>Google AI Blog</name>
         </author>
     </entry>
 </feed>

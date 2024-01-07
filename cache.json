@@ -2386,16 +2386,6 @@
           "wordCount": 30902,
           "title": "Google at NeurIPS 2023",
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjC9GkRLKp8GI42AvrsSQqN2F8gF8QDo06YU1ulV067EXp6MU3F1yYSZ44VRxn7BZlgrSZ18249wN7vuwyeDAH4AmXHHo-ryPYOmZ771K3yhsUCkfWguTDsOTx2wBqnH1gF_hxcALrj7nq-kRL2lNttCipemJXYUitvDbRi_LNWk7bRgFpzpsNEqDeetCM2/w1200-h630-p-k-no-nu/google_research_sticker-hero.jpg"
-        },
-        {
-          "id": "http://blog.research.google/2023/12/sparsity-preserving-differentially.html",
-          "author": null,
-          "description": "Posted by Yangsibo Huang, Research Intern, Google Research; Chiyuan Zhang, Research Scientist, Google Research\n\n\n\n\n\nLarge embedding models have emerged as a fundamental tool for various applications in recommendation systems [1, 2] and natural language processing [3, 4, 5]. Such models enable the integration of non-numerical data into deep learning models by mapping categorical or string-valued input attributes with large vocabularies to fixed-length representation vectors using embedding layers. These models are widely deployed in personalized recommendation systems and achieve state-of-the-art performance in language tasks, such as  language modeling, sentiment analysis, and question answering. In many such scenarios, privacy is an equally important feature when deploying those models. A…",
-          "link": "http://blog.research.google/2023/12/sparsity-preserving-differentially.html",
-          "publishedOn": "2023-12-08T18:34:00.000Z",
-          "wordCount": 27887,
-          "title": "Sparsity-preserving differentially private training",
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjBm5u6Sg9vPlH8YH8q9cA1g_3nkf1tXzB6qNqZTSbpB38DQERn-pOicng-98oTsQNtza5De5ohjQV4t43a4BhICFwU7EqAs9AZI6aMHlKflVfj6s9DRSn7bkjUvW-Uq1zCtziKPi2Li3KutFXGJtENqw-HEkAa0p8r1tJgoq48PDqd7FePR3ipWWj2Iz0B/w1200-h630-p-k-no-nu/Sparse%20DP-SGD.png"
         }
       ]
     },
