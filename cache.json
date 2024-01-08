@@ -6,6 +6,56 @@
       "siteUrl": "https://www.arxivist.com",
       "articles": [
         {
+          "id": "http://arxiv.org/abs/2307.05592",
+          "author": null,
+          "description": "Ziyu Xie, Mahmoud Yaseen, Xu Wu",
+          "link": "http://arxiv.org/abs/2307.05592",
+          "publishedOn": "2024-01-08T05:14:59.342Z",
+          "wordCount": 796,
+          "title": "Functional PCA and Deep Neural Networks-based Bayesian Inverse\n  Uncertainty Quantification with Transient Experimental Data",
+          "imageUrl": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2312.07910",
+          "author": null,
+          "description": "Kaijie Zhu, Qinlin Zhao, Hao Chen, Jindong Wang, Xing Xie",
+          "link": "http://arxiv.org/abs/2312.07910",
+          "publishedOn": "2024-01-08T05:14:59.338Z",
+          "wordCount": 663,
+          "title": "PromptBench: A Unified Library for Evaluation of Large Language Models",
+          "imageUrl": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2310.16221",
+          "author": null,
+          "description": "Yan Scholten, Jan Schuchardt, Aleksandar Bojchevski, Stephan\n  G\\\"unnemann",
+          "link": "http://arxiv.org/abs/2310.16221",
+          "publishedOn": "2024-01-08T05:14:59.236Z",
+          "wordCount": 719,
+          "title": "Hierarchical Randomized Smoothing",
+          "imageUrl": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2311.14212",
+          "author": null,
+          "description": "Christoph Kern, Stephanie Eckman, Jacob Beck, Rob Chew, Bolei Ma,\n  Frauke Kreuter",
+          "link": "http://arxiv.org/abs/2311.14212",
+          "publishedOn": "2024-01-08T05:14:59.227Z",
+          "wordCount": 745,
+          "title": "Annotation Sensitivity: Training Data Collection Methods Affect Model\n  Performance",
+          "imageUrl": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2401.02520",
+          "author": null,
+          "description": "Jinhang Chai, Jianqing Fan",
+          "link": "http://arxiv.org/abs/2401.02520",
+          "publishedOn": "2024-01-08T05:14:58.540Z",
+          "wordCount": 741,
+          "title": "Structured Matrix Learning under Arbitrary Entrywise Dependence and\n  Estimation of Markov Transition Kernel",
+          "imageUrl": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
           "id": "http://arxiv.org/abs/1712.02195",
           "author": null,
           "description": "Alejandro Murua-Sazo, Ranjan Maitra",
