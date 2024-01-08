@@ -2,10 +2,64 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-08T07:14:49.970Z</updated>
+    <updated>2024-01-08T08:21:43.107Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Quality-Diversity Meta-Evolution: customising behaviour spaces to a
+  meta-objective]]></title>
+        <id>http://arxiv.org/abs/2109.03918</id>
+        <link href="http://arxiv.org/abs/2109.03918"/>
+        <updated>2024-01-08T08:20:52.998Z</updated>
+        <summary type="html"><![CDATA[David M. Bossens, Danesh Tarapore]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Novel Skip Orthogonal List for Dynamic Optimal Transport Problem]]></title>
+        <id>http://arxiv.org/abs/2310.18446</id>
+        <link href="http://arxiv.org/abs/2310.18446"/>
+        <updated>2024-01-08T08:20:52.687Z</updated>
+        <summary type="html"><![CDATA[Xiaoyang Xu, Hu Ding]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Brain tumor segmentation using synthetic MR images -- A comparison of
+  GANs and diffusion models]]></title>
+        <id>http://arxiv.org/abs/2306.02986</id>
+        <link href="http://arxiv.org/abs/2306.02986"/>
+        <updated>2024-01-08T08:20:52.669Z</updated>
+        <summary type="html"><![CDATA[Muhammad Usman Akbar, M{\aa}ns Larsson, Anders Eklund]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[One-loop effective potential in Scherk-Schwarz compactifications of pure
+  d=5 supergravities]]></title>
+        <id>http://arxiv.org/abs/2401.02480</id>
+        <link href="http://arxiv.org/abs/2401.02480"/>
+        <updated>2024-01-08T08:20:52.647Z</updated>
+        <summary type="html"><![CDATA[Gianguido Dall'Agata, Fabio Zwirner]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Technical Report: Modeling Average False Positive Rates of Recycling
+  Bloom Filters]]></title>
+        <id>http://arxiv.org/abs/2401.02647</id>
+        <link href="http://arxiv.org/abs/2401.02647"/>
+        <updated>2024-01-08T08:20:52.456Z</updated>
+        <summary type="html"><![CDATA[Kahlil Dozier, Loqman Salamatian, Dan Rubenstein]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Functional PCA and Deep Neural Networks-based Bayesian Inverse
   Uncertainty Quantification with Transient Experimental Data]]></title>
