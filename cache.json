@@ -1508,16 +1508,6 @@
           "wordCount": 4324,
           "title": "Emergent abilities and grokking: Fundamental, Mirage, or both?",
           "imageUrl": "https://windowsontheory.files.wordpress.com/2023/12/cartoon_landscape.png"
-        },
-        {
-          "id": "http://windowsontheory.org/?p=8725",
-          "author": "Boaz Barak",
-          "description": "I wrote this letter earlier today to the Harvard Corporation. I did not intend to make it public but was asked by some people to do so. I figured there is no harm in that. Many people that I respect are deeply disappointed at Harvard in particular and U.S. Universities at large, and are calling … Continue reading Letter to the Harvard Corporation re Harvard president",
-          "link": "https://windowsontheory.org/2023/12/10/letter-to-the-harvard-corporation-re-harvard-president/",
-          "publishedOn": "2023-12-11T02:49:53.000Z",
-          "wordCount": 3971,
-          "title": "Letter to the Harvard Corporation re Harvard president",
-          "imageUrl": "https://s0.wp.com/i/blank.jpg"
         }
       ]
     },
@@ -1543,6 +1533,16 @@
       "feedUrl": "https://kexue.fm/feed/",
       "siteUrl": "https://kexue.fm/",
       "articles": [
+        {
+          "id": "https://kexue.fm/archives/9931",
+          "author": "苏剑林",
+          "description": "在分析模型的参数时，有些情况下我们会将模型的所有参数当成一个整体的向量，有些情况下我们则会将不同的参数拆开来看。比如，一个7B大小的LLAMA模型所拥有的70亿参数量，有时候我们会将它当成“一个...",
+          "link": "https://kexue.fm/archives/9931",
+          "publishedOn": "2024-01-09T14:28:00.000Z",
+          "wordCount": 1501,
+          "title": "局部余弦相似度大，全局余弦相似度一定也大吗？",
+          "imageUrl": null
+        },
         {
           "id": "https://kexue.fm/archives/9920",
           "author": "苏剑林",
@@ -2465,16 +2465,6 @@
           "wordCount": 4324,
           "title": "Emergent abilities and grokking: Fundamental, Mirage, or both?",
           "imageUrl": "https://windowsontheory.files.wordpress.com/2023/12/cartoon_landscape.png"
-        },
-        {
-          "id": "http://windowsontheory.org/?p=8725",
-          "author": "Boaz Barak",
-          "description": "I wrote this letter earlier today to the Harvard Corporation. I did not intend to make it public but was asked by some people to do so. I figured there is no harm in that. Many people that I respect are deeply disappointed at Harvard in particular and U.S. Universities at large, and are calling … Continue reading Letter to the Harvard Corporation re Harvard president",
-          "link": "https://windowsontheory.org/2023/12/10/letter-to-the-harvard-corporation-re-harvard-president/",
-          "publishedOn": "2023-12-11T02:49:53.000Z",
-          "wordCount": 3971,
-          "title": "Letter to the Harvard Corporation re Harvard president",
-          "imageUrl": "https://s0.wp.com/i/blank.jpg"
         }
       ]
     },

@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-09T14:15:10.721Z</updated>
+    <updated>2024-01-09T15:16:47.626Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[局部余弦相似度大，全局余弦相似度一定也大吗？]]></title>
+        <id>https://kexue.fm/archives/9931</id>
+        <link href="https://kexue.fm/archives/9931"/>
+        <updated>2024-01-09T14:28:00.000Z</updated>
+        <summary type="html"><![CDATA[在分析模型的参数时，有些情况下我们会将模型的所有参数当成一个整体的向量，有些情况下我们则会将不同的参数拆开来看。比如，一个7B大小的LLAMA模型所拥有的70亿参数量，有时候我们会将它当成“一个...]]></summary>
+        <author>
+            <name>苏剑林</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Contextual Fixed-Budget Best Arm Identification: Adaptive Experimental
   Design with Policy Learning]]></title>
@@ -2946,26 +2956,6 @@ When we …]]></summary>
         <summary type="html"><![CDATA[Rui Xue, Xipeng Shen, Ruozhou Yu, Xiaorui Liu]]></summary>
         <author>
             <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Letter to the Harvard Corporation re Harvard president]]></title>
-        <id>http://windowsontheory.org/?p=8725</id>
-        <link href="https://windowsontheory.org/2023/12/10/letter-to-the-harvard-corporation-re-harvard-president/"/>
-        <updated>2023-12-11T02:49:53.000Z</updated>
-        <summary type="html"><![CDATA[I wrote this letter earlier today to the Harvard Corporation. I did not intend to make it public but was asked by some people to do so. I figured there is no harm in that. Many people that I respect are deeply disappointed at Harvard in particular and U.S. Universities at large, and are calling … Continue reading Letter to the Harvard Corporation re Harvard president]]></summary>
-        <author>
-            <name>Boaz Barak</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Letter to the Harvard Corporation re Harvard president]]></title>
-        <id>http://windowsontheory.org/?p=8725</id>
-        <link href="https://windowsontheory.org/2023/12/10/letter-to-the-harvard-corporation-re-harvard-president/"/>
-        <updated>2023-12-11T02:49:53.000Z</updated>
-        <summary type="html"><![CDATA[I wrote this letter earlier today to the Harvard Corporation. I did not intend to make it public but was asked by some people to do so. I figured there is no harm in that. Many people that I respect are deeply disappointed at Harvard in particular and U.S. Universities at large, and are calling … Continue reading Letter to the Harvard Corporation re Harvard president]]></summary>
-        <author>
-            <name>Boaz Barak</name>
         </author>
     </entry>
 </feed>
