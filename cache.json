@@ -1712,6 +1712,16 @@
       "siteUrl": "https://pythonspeed.com/atom.xml",
       "articles": [
         {
+          "id": "https://pythonspeed.com/articles/numpy-2/",
+          "author": null,
+          "description": "If you’re writing scientific or data science code with Python, there’s a good chance you’re using NumPy, directly or indirectly.\nPandas, Scikit-Image, SciPy, Scikit-Learn, AstroPy… these and many other packages depend on NumPy.\nNumPy 2 is a new major release, with a release candidate coming out February 1st 2024, and a final release a month or two later.\nImportantly, it’s backwards incompatible; not in a major way, but enough that some work might be required to upgrade.\nAnd that means you need to make sure your application doesn’t break when NumPy 2 comes out.\nIn this article we’ll cover:\nThe different ways the new release might break your application.\nA quick reminder about the importance of pinning packages.\nHow to ensure your application doesn’t install NumPy 2 until you’re ready.\nHow to easily upgrade your code to support NumPy 2.\nRead more...",
+          "link": "https://pythonspeed.com/articles/numpy-2/",
+          "publishedOn": "2024-01-09T00:00:00.000Z",
+          "wordCount": 1359,
+          "title": "NumPy 2 is coming: preventing breakage, updating your code",
+          "imageUrl": "https://pythonspeed.com/assets/titles/numpy-2.png"
+        },
+        {
           "id": "https://pythonspeed.com/articles/cpu-thread-pool-size/",
           "author": null,
           "description": "When you’re running a CPU-intensive parallel program, you often want to have a thread or process pool sized by the number of CPU cores on your machine.\nFewer threads and you’re not taking advantage of all the cores, more than that and your program will start running slower as multiple threads compete for the same core.\nOr that’s the theory, anyway.\nSo how do you check how many cores your computer has?\nAnd is this actually good advice?\nIt turns out to be surprisingly tricky to nail down how many threads to run:\nThe Python standard library provides multiple APIs to get this info, but none are sufficient.\nEven worse, because of CPU features like instruction-level parallelism and simultaneous threading (aka Hyper-threading on Intel CPUs), the number of cores you can effectively use depends on the code you have written!\nLet’s see why it’s so difficult to figure out how many CPU cores your program can use, and then consider a potential solution.\nRead more...",
@@ -2552,6 +2562,16 @@
       "feedUrl": "https://languagelog.ldc.upenn.edu/nll/?feed=rss2",
       "siteUrl": "https://languagelog.ldc.upenn.edu/nll",
       "articles": [
+        {
+          "id": "https://languagelog.ldc.upenn.edu/nll/?p=62109",
+          "author": "Mark Liberman",
+          "description": "Michael Blatt, Geoffrey Pullum, Andreas Draguhn, Barry Bowman, David Robinson, and Lincoln Taiz , \"Does electrical activity in fungi function as a language?\", Fungal Ecology 2024: Abstract: All cells generate electrical energy derived from the movements of ions across membranes. In animal neurons, action potentials play an essential role in the central nervous system. Plants […]",
+          "link": "https://languagelog.ldc.upenn.edu/nll/?p=62109&utm_source=rss&utm_medium=rss&utm_campaign=mushroom-language",
+          "publishedOn": "2024-01-09T15:33:34.000Z",
+          "wordCount": 2950,
+          "title": "Mushroom language?",
+          "imageUrl": null
+        },
         {
           "id": "https://languagelog.ldc.upenn.edu/nll/?p=62094",
           "author": "Victor Mair",

@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-09T15:16:47.626Z</updated>
+    <updated>2024-01-09T16:20:32.604Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Mushroom language?]]></title>
+        <id>https://languagelog.ldc.upenn.edu/nll/?p=62109</id>
+        <link href="https://languagelog.ldc.upenn.edu/nll/?p=62109&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=mushroom-language"/>
+        <updated>2024-01-09T15:33:34.000Z</updated>
+        <summary type="html"><![CDATA[Michael Blatt, Geoffrey Pullum, Andreas Draguhn, Barry Bowman, David Robinson, and Lincoln Taiz , "Does electrical activity in fungi function as a language?", Fungal Ecology 2024: Abstract: All cells generate electrical energy derived from the movements of ions across membranes. In animal neurons, action potentials play an essential role in the central nervous system. Plants […]]]></summary>
+        <author>
+            <name>Mark Liberman</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[局部余弦相似度大，全局余弦相似度一定也大吗？]]></title>
         <id>https://kexue.fm/archives/9931</id>
@@ -86,6 +96,26 @@
         <summary type="html"><![CDATA[Victor Steinbok said that he found this on Wish: When VS sends me mysterious English specimens like this, I can usually immediately feel it in my bones that they come from a mangled Chinese original.  However, they often come without a trace of Chinese to sink my teeth into, leading me to lament, oy vey, […]]]></summary>
         <author>
             <name>Victor Mair</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NumPy 2 is coming: preventing breakage, updating your code]]></title>
+        <id>https://pythonspeed.com/articles/numpy-2/</id>
+        <link href="https://pythonspeed.com/articles/numpy-2/"/>
+        <updated>2024-01-09T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[If you’re writing scientific or data science code with Python, there’s a good chance you’re using NumPy, directly or indirectly.
+Pandas, Scikit-Image, SciPy, Scikit-Learn, AstroPy… these and many other packages depend on NumPy.
+NumPy 2 is a new major release, with a release candidate coming out February 1st 2024, and a final release a month or two later.
+Importantly, it’s backwards incompatible; not in a major way, but enough that some work might be required to upgrade.
+And that means you need to make sure your application doesn’t break when NumPy 2 comes out.
+In this article we’ll cover:
+The different ways the new release might break your application.
+A quick reminder about the importance of pinning packages.
+How to ensure your application doesn’t install NumPy 2 until you’re ready.
+How to easily upgrade your code to support NumPy 2.
+Read more...]]></summary>
+        <author>
+            <name>Python⇒Speed</name>
         </author>
     </entry>
     <entry>
