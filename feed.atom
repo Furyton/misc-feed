@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-09T22:15:07.033Z</updated>
+    <updated>2024-01-09T23:15:44.228Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Fungal language]]></title>
+        <id>https://languagelog.ldc.upenn.edu/nll/?p=62103</id>
+        <link href="https://languagelog.ldc.upenn.edu/nll/?p=62103&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=fungal-language"/>
+        <updated>2024-01-09T22:48:43.000Z</updated>
+        <summary type="html"><![CDATA[[Several days ago, I had prepared a post on this topic, but Mark scooped me with his "Mushroom language?" (1/9/24).  His coverage of the counterposed Adamatzky and Blatt, et al. papers is superior to mine, so I will just strip out that part of my post and leave the remaining observations with which I had […]]]></summary>
+        <author>
+            <name>Victor Mair</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Mushroom language?]]></title>
         <id>https://languagelog.ldc.upenn.edu/nll/?p=62109</id>
