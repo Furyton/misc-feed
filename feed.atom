@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-10T19:12:47.924Z</updated>
+    <updated>2024-01-10T20:17:47.923Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Don't be afraid of tones]]></title>
+        <id>https://languagelog.ldc.upenn.edu/nll/?p=62127</id>
+        <link href="https://languagelog.ldc.upenn.edu/nll/?p=62127&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=dont-be-afraid-of-tones"/>
+        <updated>2024-01-10T19:40:38.000Z</updated>
+        <summary type="html"><![CDATA[So says Stuart Jay Raj, a Thai-based Australian polyglot who speaks several tonal languages.  Here is a half-hour video by him which is linguistics heavy, but is actually an effort to simplify and systematize how tones work.  For example, Raj makes a sharp distinction between pitch and tone, something that many people get all mixed […]]]></summary>
+        <author>
+            <name>Victor Mair</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Dictionaries are illegal in Florida schools?]]></title>
         <id>https://languagelog.ldc.upenn.edu/nll/?p=62136</id>
@@ -3028,16 +3038,6 @@ When we …]]></summary>
         <summary type="html"><![CDATA[之前在《Transformer升级之路：3、从Performer到线性Attention》、《为什么现在的LLM都是Decoder-only的架构？》等文章中，我们从Attention矩阵的“秩...]]></summary>
         <author>
             <name>苏剑林</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[From PyTorch Conference 2023: From Dinosaurs to Seismic Imaging with Intel]]></title>
-        <id>https://pytorch.org/blog/dinosaurs-to-seismic-imaging/</id>
-        <link href="https://pytorch.org/blog/dinosaurs-to-seismic-imaging/"/>
-        <updated>2023-12-12T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<div type="html"/>]]></summary>
-        <author>
-            <name>PyTorch Website</name>
         </author>
     </entry>
 </feed>
