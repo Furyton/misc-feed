@@ -2,10 +2,65 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-10T07:14:33.193Z</updated>
+    <updated>2024-01-10T08:19:48.299Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[New bounds on the strength of some restrictions of Hindman's Theorem]]></title>
+        <id>http://arxiv.org/abs/1701.06095</id>
+        <link href="http://arxiv.org/abs/1701.06095"/>
+        <updated>2024-01-10T08:19:40.975Z</updated>
+        <summary type="html"><![CDATA[Lorenzo Carlucci, Leszek Aleksander Ko{\l}odziejczyk, Francesco
+  Lepore, Konrad Zdanowski]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The zonoid algebra, generalized mixed volumes, and random determinants]]></title>
+        <id>http://arxiv.org/abs/2109.14996</id>
+        <link href="http://arxiv.org/abs/2109.14996"/>
+        <updated>2024-01-10T08:19:40.889Z</updated>
+        <summary type="html"><![CDATA[Paul Breiding, Peter B\"urgisser, Antonio Lerario, L\'eo Mathis]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Virasoro Constraints for Toric Bundles]]></title>
+        <id>http://arxiv.org/abs/1508.06282</id>
+        <link href="http://arxiv.org/abs/1508.06282"/>
+        <updated>2024-01-10T08:19:40.383Z</updated>
+        <summary type="html"><![CDATA[Tom Coates, Alexander Givental, Hsian-Hua Tseng]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lifelong Ensemble Learning based on Multiple Representations for
+  Few-Shot Object Recognition]]></title>
+        <id>http://arxiv.org/abs/2205.01982</id>
+        <link href="http://arxiv.org/abs/2205.01982"/>
+        <updated>2024-01-10T08:19:40.029Z</updated>
+        <summary type="html"><![CDATA[Hamidreza Kasaei, Songsong Xiong]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[On the Evolution of A.I. and Machine Learning: Towards a Meta-level
+  Measuring and Understanding Impact, Influence, and Leadership at Premier A.I.
+  Conferences]]></title>
+        <id>http://arxiv.org/abs/2205.13131</id>
+        <link href="http://arxiv.org/abs/2205.13131"/>
+        <updated>2024-01-10T08:19:40.020Z</updated>
+        <summary type="html"><![CDATA[Rafael B. Audibert, Henrique Lemos, Pedro Avelar, Anderson R. Tavares,
+  Lu\'is C. Lamb]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Chain of LoRA: Efficient Fine-tuning of Language Models via Residual
   Learning]]></title>
