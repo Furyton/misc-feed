@@ -6,6 +6,56 @@
       "siteUrl": "https://www.arxivist.com",
       "articles": [
         {
+          "id": "http://arxiv.org/abs/2401.04151",
+          "author": null,
+          "description": "Wenhan Xia, Chengwei Qin, Elad Hazan",
+          "link": "http://arxiv.org/abs/2401.04151",
+          "publishedOn": "2024-01-10T06:20:28.336Z",
+          "wordCount": 697,
+          "title": "Chain of LoRA: Efficient Fine-tuning of Language Models via Residual\n  Learning",
+          "imageUrl": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2304.01561",
+          "author": null,
+          "description": "Yunfei Yang, Ding-Xuan Zhou",
+          "link": "http://arxiv.org/abs/2304.01561",
+          "publishedOn": "2024-01-10T06:20:28.287Z",
+          "wordCount": 730,
+          "title": "Optimal rates of approximation by shallow ReLU$^k$ neural networks and\n  applications to nonparametric regression",
+          "imageUrl": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2302.09580",
+          "author": null,
+          "description": "Dionissios T.Hristopulos",
+          "link": "http://arxiv.org/abs/2302.09580",
+          "publishedOn": "2024-01-10T06:20:28.275Z",
+          "wordCount": 793,
+          "title": "Non-separable Covariance Kernels for Spatiotemporal Gaussian Processes\n  based on a Hybrid Spectral Method and the Harmonic Oscillator",
+          "imageUrl": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2212.04458",
+          "author": null,
+          "description": "Louis Kirsch, James Harrison, Jascha Sohl-Dickstein, Luke Metz",
+          "link": "http://arxiv.org/abs/2212.04458",
+          "publishedOn": "2024-01-10T06:20:28.252Z",
+          "wordCount": 746,
+          "title": "General-Purpose In-Context Learning by Meta-Learning Transformers",
+          "imageUrl": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2401.04286",
+          "author": null,
+          "description": "Hyunouk Ko, Xiaoming Huo",
+          "link": "http://arxiv.org/abs/2401.04286",
+          "publishedOn": "2024-01-10T06:20:28.249Z",
+          "wordCount": 701,
+          "title": "Universal Consistency of Wide and Deep ReLU Neural Networks and Minimax\n  Optimal Convergence Rates for Kolmogorov-Donoho Optimal Function Classes",
+          "imageUrl": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
           "id": "http://arxiv.org/abs/2401.03756",
           "author": null,
           "description": "Masahiro Kato, Kyohei Okumura, Takuya Ishihara, Toru Kitagawa",

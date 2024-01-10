@@ -2,10 +2,64 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-10T05:15:18.878Z</updated>
+    <updated>2024-01-10T06:20:28.361Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Chain of LoRA: Efficient Fine-tuning of Language Models via Residual
+  Learning]]></title>
+        <id>http://arxiv.org/abs/2401.04151</id>
+        <link href="http://arxiv.org/abs/2401.04151"/>
+        <updated>2024-01-10T06:20:28.336Z</updated>
+        <summary type="html"><![CDATA[Wenhan Xia, Chengwei Qin, Elad Hazan]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Optimal rates of approximation by shallow ReLU$^k$ neural networks and
+  applications to nonparametric regression]]></title>
+        <id>http://arxiv.org/abs/2304.01561</id>
+        <link href="http://arxiv.org/abs/2304.01561"/>
+        <updated>2024-01-10T06:20:28.287Z</updated>
+        <summary type="html"><![CDATA[Yunfei Yang, Ding-Xuan Zhou]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Non-separable Covariance Kernels for Spatiotemporal Gaussian Processes
+  based on a Hybrid Spectral Method and the Harmonic Oscillator]]></title>
+        <id>http://arxiv.org/abs/2302.09580</id>
+        <link href="http://arxiv.org/abs/2302.09580"/>
+        <updated>2024-01-10T06:20:28.275Z</updated>
+        <summary type="html"><![CDATA[Dionissios T.Hristopulos]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[General-Purpose In-Context Learning by Meta-Learning Transformers]]></title>
+        <id>http://arxiv.org/abs/2212.04458</id>
+        <link href="http://arxiv.org/abs/2212.04458"/>
+        <updated>2024-01-10T06:20:28.252Z</updated>
+        <summary type="html"><![CDATA[Louis Kirsch, James Harrison, Jascha Sohl-Dickstein, Luke Metz]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Universal Consistency of Wide and Deep ReLU Neural Networks and Minimax
+  Optimal Convergence Rates for Kolmogorov-Donoho Optimal Function Classes]]></title>
+        <id>http://arxiv.org/abs/2401.04286</id>
+        <link href="http://arxiv.org/abs/2401.04286"/>
+        <updated>2024-01-10T06:20:28.249Z</updated>
+        <summary type="html"><![CDATA[Hyunouk Ko, Xiaoming Huo]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[24 PhD fellowships in Mathematical Sciences partly in Paris]]></title>
         <id>http://xianblog.wordpress.com/?p=54755</id>
