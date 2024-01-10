@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-10T15:15:34.395Z</updated>
+    <updated>2024-01-10T16:20:32.547Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Dictionaries are illegal in Florida schools?]]></title>
+        <id>https://languagelog.ldc.upenn.edu/nll/?p=62136</id>
+        <link href="https://languagelog.ldc.upenn.edu/nll/?p=62136&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=dictionaries-are-illegal-in-florida-schools"/>
+        <updated>2024-01-10T16:06:08.000Z</updated>
+        <summary type="html"><![CDATA[Judd Legum, "Florida school district removes dictionaries from libraries, citing law championed by DeSantis", Popular Information 1/10/2024: The Escambia County School District, located in the Florida panhandle, has removed several dictionaries from its library shelves over concerns that making the dictionaries available to students would violate Florida law. The American Heritage Children's Dictionary, Webster's Dictionary […]]]></summary>
+        <author>
+            <name>Mark Liberman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Arbitrage in data exchange rates]]></title>
+        <id>https://www.argmin.net/p/arbitrage-in-data-exchange-rates</id>
+        <link href="https://www.argmin.net/p/arbitrage-in-data-exchange-rates"/>
+        <updated>2024-01-10T15:48:19.000Z</updated>
+        <summary type="html"><![CDATA[We're too glib about what we learn from data summarization.]]></summary>
+        <author>
+            <name>Ben Recht</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Arbitrage in data exchange rates]]></title>
+        <id>https://www.argmin.net/p/arbitrage-in-data-exchange-rates</id>
+        <link href="https://www.argmin.net/p/arbitrage-in-data-exchange-rates"/>
+        <updated>2024-01-10T15:48:19.000Z</updated>
+        <summary type="html"><![CDATA[We're too glib about what we learn from data summarization.]]></summary>
+        <author>
+            <name>Ben Recht</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Harmony of Dissension]]></title>
         <id>https://languagelog.ldc.upenn.edu/nll/?p=62130</id>
@@ -69,6 +99,16 @@
   Lu\'is C. Lamb]]></summary>
         <author>
             <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Finetune LLMs on your own consumer hardware using tools from PyTorch and Hugging Face ecosystem]]></title>
+        <id>https://pytorch.org/blog/finetune-llms/</id>
+        <link href="https://pytorch.org/blog/finetune-llms/"/>
+        <updated>2024-01-10T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[We demonstrate how to finetune a 7B parameter model on a typical consumer GPU (NVIDIA T4 16GB) with LoRA and tools from the PyTorch and Hugging Face ecosystem with complete reproducible Google Colab notebook.]]></summary>
+        <author>
+            <name>PyTorch Website</name>
         </author>
     </entry>
     <entry>
@@ -2998,60 +3038,6 @@ When we …]]></summary>
         <summary type="html"><![CDATA[<div type="html"/>]]></summary>
         <author>
             <name>PyTorch Website</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Skew Probabilistic Neural Networks for Learning from Imbalanced Data]]></title>
-        <id>http://arxiv.org/abs/2312.05878</id>
-        <link href="http://arxiv.org/abs/2312.05878"/>
-        <updated>2023-12-12T04:19:00.971Z</updated>
-        <summary type="html"><![CDATA[Shraddha M. Naik, Tanujit Chakraborty, Abdenour Hadid, Bibhas
-  Chakraborty]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SurvBeNIM: The Beran-Based Neural Importance Model for Explaining the
-  Survival Models]]></title>
-        <id>http://arxiv.org/abs/2312.06638</id>
-        <link href="http://arxiv.org/abs/2312.06638"/>
-        <updated>2023-12-12T04:19:00.959Z</updated>
-        <summary type="html"><![CDATA[Lev V. Utkin, Danila Y. Eremenko, Andrei V. Konstantinov]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learning Bayesian Networks with Heterogeneous Agronomic Data Sets via
-  Mixed-Effect Models and Hierarchical Clustering]]></title>
-        <id>http://arxiv.org/abs/2308.06399</id>
-        <link href="http://arxiv.org/abs/2308.06399"/>
-        <updated>2023-12-12T04:19:00.948Z</updated>
-        <summary type="html"><![CDATA[Lorenzo Valleggi, Marco Scutari, Federico Mattia Stefanini]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[An Ambiguity Measure for Recognizing the Unknowns in Deep Learning]]></title>
-        <id>http://arxiv.org/abs/2312.06077</id>
-        <link href="http://arxiv.org/abs/2312.06077"/>
-        <updated>2023-12-12T04:19:00.933Z</updated>
-        <summary type="html"><![CDATA[Roozbeh Yousefzadeh]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learning Unknown Intervention Targets in Structural Causal Models from
-  Heterogeneous Data]]></title>
-        <id>http://arxiv.org/abs/2312.06091</id>
-        <link href="http://arxiv.org/abs/2312.06091"/>
-        <updated>2023-12-12T04:19:00.763Z</updated>
-        <summary type="html"><![CDATA[Yuqin Yang, Saber Salehkaleybar, Negar Kiyavash]]></summary>
-        <author>
-            <name>arxivist feed</name>
         </author>
     </entry>
 </feed>
