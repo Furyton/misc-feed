@@ -2,10 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-11T03:16:42.289Z</updated>
+    <updated>2024-01-11T04:19:13.597Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[A Theoretical View of Linear Backpropagation and Its Convergence]]></title>
+        <id>http://arxiv.org/abs/2112.11018</id>
+        <link href="http://arxiv.org/abs/2112.11018"/>
+        <updated>2024-01-11T04:19:04.080Z</updated>
+        <summary type="html"><![CDATA[Ziang Li, Yiwen Guo, Haodi Liu, Changshui Zhang]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GANDALF: Gated Adaptive Network for Deep Automated Learning of Features]]></title>
+        <id>http://arxiv.org/abs/2207.08548</id>
+        <link href="http://arxiv.org/abs/2207.08548"/>
+        <updated>2024-01-11T04:19:04.064Z</updated>
+        <summary type="html"><![CDATA[Manu Joseph, Harsh Raj]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hierarchical Correlation Clustering and Tree Preserving Embedding]]></title>
+        <id>http://arxiv.org/abs/2002.07756</id>
+        <link href="http://arxiv.org/abs/2002.07756"/>
+        <updated>2024-01-11T04:19:04.060Z</updated>
+        <summary type="html"><![CDATA[Morteza Haghir Chehreghani, Mostafa Haghir Chehreghani]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Adaptive joint distribution learning]]></title>
+        <id>http://arxiv.org/abs/2110.04829</id>
+        <link href="http://arxiv.org/abs/2110.04829"/>
+        <updated>2024-01-11T04:19:04.012Z</updated>
+        <summary type="html"><![CDATA[Damir Filipovic, Michael Multerer, Paul Schneider]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Generalized Optimistic Methods for Convex-Concave Saddle Point Problems]]></title>
+        <id>http://arxiv.org/abs/2202.09674</id>
+        <link href="http://arxiv.org/abs/2202.09674"/>
+        <updated>2024-01-11T04:19:04.000Z</updated>
+        <summary type="html"><![CDATA[Ruichen Jiang, Aryan Mokhtari]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[max spacing between mass shootings [data graphics]]]></title>
         <id>http://xianblog.wordpress.com/?p=54345</id>
@@ -3008,26 +3058,6 @@ When we …]]></summary>
         <summary type="html"><![CDATA[The breathless moment when "zei 税" is written by Mori Seihan, the head priest of the magnificent Kiyomizudera in eastern Kyoto (1:32): Another good video of the brushing of 税 may be found here, and there are many others here. The narration includes:   Riyū ni tsuite, bōei-ryoku kyōka ni muketa zaigen o makanau tame shotoku […]]]></summary>
         <author>
             <name>Victor Mair</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Rational Landscapes]]></title>
-        <id>https://www.argmin.net/p/the-rational-landscapes</id>
-        <link href="https://www.argmin.net/p/the-rational-landscapes"/>
-        <updated>2023-12-12T15:16:37.000Z</updated>
-        <summary type="html"><![CDATA[They puzzle me.]]></summary>
-        <author>
-            <name>Ben Recht</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Rational Landscapes]]></title>
-        <id>https://www.argmin.net/p/the-rational-landscapes</id>
-        <link href="https://www.argmin.net/p/the-rational-landscapes"/>
-        <updated>2023-12-12T15:16:37.000Z</updated>
-        <summary type="html"><![CDATA[They puzzle me.]]></summary>
-        <author>
-            <name>Ben Recht</name>
         </author>
     </entry>
 </feed>
