@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-12T11:13:16.081Z</updated>
+    <updated>2024-01-12T12:29:02.133Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Stepford authors]]></title>
+        <id>https://languagelog.ldc.upenn.edu/nll/?p=62203</id>
+        <link href="https://languagelog.ldc.upenn.edu/nll/?p=62203&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=stepford-authors"/>
+        <updated>2024-01-12T11:41:04.000Z</updated>
+        <summary type="html"><![CDATA[The issues discussed in "AI plagiarism" (1/4/2024) are rapidly coming to a boil. But somehow I missed Margaret Atwood's take on the topic, published last summer — "Murdered by my replica", The Atlantic 8/26/2023: Remember The Stepford Wives? Maybe not. In that 1975 horror film, the human wives of Stepford, Connecticut, are having their identities […]]]></summary>
+        <author>
+            <name>Mark Liberman</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[An Explainable Stacked Ensemble Model for Static Route-Free Estimation
   of Time of Arrival]]></title>
@@ -3047,16 +3057,6 @@ When we …]]></summary>
         <summary type="html"><![CDATA[Language remains a hot button across Canada: Quebec’s ‘Language Police’ Take Aim at Sneaky English Slang Authorities fret over ‘Franglais,’ the creep of words like ‘cool’ or ‘email’ into French discourse; even elevator music is scrutinized. By Vipal Monga, WSJ (12/13/23) — … Although French is the official language of Quebec’s government, education, courts and […]]]></summary>
         <author>
             <name>Victor Mair</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[sound AI call for PhD applicants]]></title>
-        <id>http://xianblog.wordpress.com/?p=54702</id>
-        <link href="https://xianblog.wordpress.com/2023/12/14/sound-ai-call-for-phd-applicants/"/>
-        <updated>2023-12-13T23:23:58.000Z</updated>
-        <summary type="html"><![CDATA[Visit the post for more.]]></summary>
-        <author>
-            <name>xi'an</name>
         </author>
     </entry>
 </feed>
