@@ -2428,6 +2428,16 @@
       "siteUrl": "http://blog.research.google/",
       "articles": [
         {
+          "id": "http://blog.research.google/2024/01/amie-research-ai-system-for-diagnostic.html",
+          "author": null,
+          "description": "Posted by Alan Karthikesalingam and Vivek Natarajan, Research Leads, Google Research\n\n\n\n\nThe physician-patient conversation is a cornerstone of medicine, in which skilled and intentional communication drives diagnosis, management, empathy and trust. AI systems capable of such diagnostic dialogues could increase availability, accessibility, quality and consistency of care by being useful conversational partners to clinicians and patients alike. But approximating clinicians’ considerable expertise is a significant challenge. \n\n\n\n\n\nRecent progress in large language models (LLMs) outside the medical domain has shown that they can plan, reason, and use relevant context to hold rich conversations. However, there are many aspects of good diagnostic dialogue that are unique to the medical domain. …",
+          "link": "http://blog.research.google/2024/01/amie-research-ai-system-for-diagnostic.html",
+          "publishedOn": "2024-01-12T16:04:00.000Z",
+          "wordCount": null,
+          "title": "AMIE: A research AI system for diagnostic medical reasoning and conversations",
+          "imageUrl": null
+        },
+        {
           "id": "http://blog.research.google/2024/01/can-large-language-models-identify-and.html",
           "author": null,
           "description": "Posted by Gladys Tyen, Intern, Google Research\n\n\n\n\nLLMs are increasingly popular for reasoning tasks, such as multi-turn QA, task completion, code generation, or mathematics. Yet much like people, they do not always solve problems correctly on the first try, especially on tasks for which they were not trained. Therefore, for such systems to be most useful, they should be able to 1) identify where their reasoning went wrong and 2) backtrack to find another solution.\n\n\n\nThis has led to a surge in methods related to self-correction, where an LLM is used to identify problems in its own output, and then produce improved results based on the feedback. Self-correction is generally thought of as a single process, but we decided to break it down into two components, mistake finding and output corre…",
