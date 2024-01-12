@@ -6,6 +6,56 @@
       "siteUrl": "https://www.arxivist.com",
       "articles": [
         {
+          "id": "http://arxiv.org/abs/2203.09438",
+          "author": null,
+          "description": "S\\\"oren Schleibaum, J\\\"org P. M\\\"uller, Monika Sester",
+          "link": "http://arxiv.org/abs/2203.09438",
+          "publishedOn": "2024-01-12T05:15:16.664Z",
+          "wordCount": 781,
+          "title": "An Explainable Stacked Ensemble Model for Static Route-Free Estimation\n  of Time of Arrival",
+          "imageUrl": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2208.14919",
+          "author": null,
+          "description": "Philipp Schiele, Christoph Berninger, David R\\\"ugamer",
+          "link": "http://arxiv.org/abs/2208.14919",
+          "publishedOn": "2024-01-12T05:15:16.660Z",
+          "wordCount": 741,
+          "title": "ARMA Cell: A Modular and Effective Approach for Neural Autoregressive\n  Modeling",
+          "imageUrl": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2302.14383",
+          "author": null,
+          "description": "Matthew Trager, Pramuditha Perera, Luca Zancato, Alessandro Achille,\n  Parminder Bhatia, Stefano Soatto",
+          "link": "http://arxiv.org/abs/2302.14383",
+          "publishedOn": "2024-01-12T05:15:16.494Z",
+          "wordCount": 739,
+          "title": "Linear Spaces of Meanings: Compositional Structures in Vision-Language\n  Models",
+          "imageUrl": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2112.09820",
+          "author": null,
+          "description": "Amir Akbarnejad, Gilbert Bigras, Nilanjan Ray",
+          "link": "http://arxiv.org/abs/2112.09820",
+          "publishedOn": "2024-01-12T05:15:16.491Z",
+          "wordCount": 842,
+          "title": "GPEX, A Framework For Interpreting Artificial Neural Networks",
+          "imageUrl": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2208.08626",
+          "author": null,
+          "description": "Zhikang Dong, Pawel Polak",
+          "link": "http://arxiv.org/abs/2208.08626",
+          "publishedOn": "2024-01-12T05:15:16.463Z",
+          "wordCount": 682,
+          "title": "CP-PINNs: Changepoints Detection in PDEs using Physics Informed Neural\n  Networks with Total-Variation Penalty",
+          "imageUrl": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
           "id": "http://arxiv.org/abs/2112.11018",
           "author": null,
           "description": "Ziang Li, Yiwen Guo, Haodi Liu, Changshui Zhang",
