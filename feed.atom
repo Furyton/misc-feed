@@ -2,10 +2,69 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-11T23:15:58.106Z</updated>
+    <updated>2024-01-12T01:09:48.065Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Rice noodle sense; Sino-Anglo-Nipponica]]></title>
+        <id>https://languagelog.ldc.upenn.edu/nll/?p=62178</id>
+        <link href="https://languagelog.ldc.upenn.edu/nll/?p=62178&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rice-noodle-sense-sino-anglo-nipponica"/>
+        <updated>2024-01-12T00:53:02.000Z</updated>
+        <summary type="html"><![CDATA[Photograph taken outside a shop in Hong Kong: This one almost tricked me.  The expression "mǐxiàn zhèn 米線陣" literally means "rice noodle array / formation".  There are many occasions where "mǐxiàn 米線" should be rendered as "[one] meter line", with "mǐ 米" serving as a phonetic transcription for "meter".  Even though this is one of the older, widespread […]]]></summary>
+        <author>
+            <name>Victor Mair</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The future is dangerous: Anglo-Nipponica]]></title>
+        <id>https://languagelog.ldc.upenn.edu/nll/?p=62150</id>
+        <link href="https://languagelog.ldc.upenn.edu/nll/?p=62150&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=the-future-is-dangerous-anglo-nipponica"/>
+        <updated>2024-01-12T00:43:55.000Z</updated>
+        <summary type="html"><![CDATA[Sign at a hotel in Japan: According to Nathan Hopson, the Japanese actually says: お願い この先は危険ですので、これ以上前へ行かないようお願い致します。 Onegai Kono saki wa kiken desu no de, kore ijō mae e ikanai yō onegai itashimasu Request The area beyond this [sign] is dangerous. Please do not proceed farther. A more natural translation might be: Notice Danger! Do not enter. […]]]></summary>
+        <author>
+            <name>Victor Mair</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The politics of frozen garlic in Taiwan]]></title>
+        <id>https://languagelog.ldc.upenn.edu/nll/?p=62181</id>
+        <link href="https://languagelog.ldc.upenn.edu/nll/?p=62181&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=the-politics-of-frozen-garlic-in-taiwan"/>
+        <updated>2024-01-12T00:35:58.000Z</updated>
+        <summary type="html"><![CDATA[From Nick Kaldis: This article begins with a brief reference to the chanting of ‘frozen garlic’ ("凍蒜" dongsuan, Taiwanese pronunciation for "當選" dangxuan "to get elected") in campaign rallies for Taiwan's presidential and legislative elections in two days. —- ‘Frozen Garlic!’ Taiwan Likes Its Democracy Loud and Proud At the island’s election rallies, warming up […]]]></summary>
+        <author>
+            <name>Victor Mair</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[the plight of Gazaouis in numbers [on 08 Jan 2023]]]></title>
+        <id>http://xianblog.wordpress.com/?p=54895</id>
+        <link href="https://xianblog.wordpress.com/2024/01/12/the-plight-of-gazaouis-in-numbers-on-08-jan-2023/"/>
+        <updated>2024-01-11T23:24:03.000Z</updated>
+        <summary type="html"><![CDATA[Dreadful numbers that reveal the extent of the destruction in Gaza as listed by The Guardian at least 22,835 Palestinians had been killed, with an estimated 70% fraction of women and children one in a hundred of Gaza’s total population has died 250 people are killed per day, out of which at least 160 are […]]]></summary>
+        <author>
+            <name>xi'an</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Can large language models identify and correct their mistakes?]]></title>
+        <id>http://blog.research.google/2024/01/can-large-language-models-identify-and.html</id>
+        <link href="http://blog.research.google/2024/01/can-large-language-models-identify-and.html"/>
+        <updated>2024-01-11T22:42:00.000Z</updated>
+        <summary type="html"><![CDATA[Posted by Gladys Tyen, Intern, Google Research
+
+
+
+
+LLMs are increasingly popular for reasoning tasks, such as multi-turn QA, task completion, code generation, or mathematics. Yet much like people, they do not always solve problems correctly on the first try, especially on tasks for which they were not trained. Therefore, for such systems to be most useful, they should be able to 1) identify where their reasoning went wrong and 2) backtrack to find another solution.
+
+
+
+This has led to a surge in methods related to self-correction, where an LLM is used to identify problems in its own output, and then produce improved results based on the feedback. Self-correction is generally thought of as a single process, but we decided to break it down into two components, mistake finding and output corre…]]></summary>
+        <author>
+            <name>Google AI Blog</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA["…like this one"]]></title>
         <id>https://languagelog.ldc.upenn.edu/nll/?p=62166</id>
@@ -2963,16 +3022,6 @@ When we …]]></summary>
         <summary type="html"><![CDATA[Jaynes, subjective probability, and the thinking machine.]]></summary>
         <author>
             <name>Ben Recht</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["Tibet" obliterated]]></title>
-        <id>https://languagelog.ldc.upenn.edu/nll/?p=61675</id>
-        <link href="https://languagelog.ldc.upenn.edu/nll/?p=61675&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=tibet-obliterated"/>
-        <updated>2023-12-13T11:33:24.000Z</updated>
-        <summary type="html"><![CDATA[The name "Tibet" has been outlawed in the PRC.  Henceforth, Tibet (the name by which it has been known to the world for centuries) is to be called by its newer Chinese name, Xizang ("West Zang") — even in English.  Chinese state media drops ‘Tibet’ for ‘Xizang’ after release of Beijing white paper     Use […]]]></summary>
-        <author>
-            <name>Victor Mair</name>
         </author>
     </entry>
 </feed>

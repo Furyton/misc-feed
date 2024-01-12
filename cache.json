@@ -2130,6 +2130,16 @@
       "siteUrl": "https://xianblog.wordpress.com",
       "articles": [
         {
+          "id": "http://xianblog.wordpress.com/?p=54895",
+          "author": "xi'an",
+          "description": "Dreadful numbers that reveal the extent of the destruction in Gaza as listed by The Guardian at least 22,835 Palestinians had been killed, with an estimated 70% fraction of women and children one in a hundred of Gaza’s total population has died 250 people are killed per day, out of which at least 160 are […]",
+          "link": "https://xianblog.wordpress.com/2024/01/12/the-plight-of-gazaouis-in-numbers-on-08-jan-2023/",
+          "publishedOn": "2024-01-11T23:24:03.000Z",
+          "wordCount": 2382,
+          "title": "the plight of Gazaouis in numbers [on 08 Jan 2023]",
+          "imageUrl": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/afp/2023/10/11/11/1697016216177.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.1500.844.jpeg"
+        },
+        {
           "id": "http://xianblog.wordpress.com/?p=54345",
           "author": "xi'an",
           "description": "Visit the post for more.",
@@ -2460,6 +2470,16 @@
       "siteUrl": "http://blog.research.google/",
       "articles": [
         {
+          "id": "http://blog.research.google/2024/01/can-large-language-models-identify-and.html",
+          "author": null,
+          "description": "Posted by Gladys Tyen, Intern, Google Research\n\n\n\n\nLLMs are increasingly popular for reasoning tasks, such as multi-turn QA, task completion, code generation, or mathematics. Yet much like people, they do not always solve problems correctly on the first try, especially on tasks for which they were not trained. Therefore, for such systems to be most useful, they should be able to 1) identify where their reasoning went wrong and 2) backtrack to find another solution.\n\n\n\nThis has led to a surge in methods related to self-correction, where an LLM is used to identify problems in its own output, and then produce improved results based on the feedback. Self-correction is generally thought of as a single process, but we decided to break it down into two components, mistake finding and output corre…",
+          "link": "http://blog.research.google/2024/01/can-large-language-models-identify-and.html",
+          "publishedOn": "2024-01-11T22:42:00.000Z",
+          "wordCount": 27886,
+          "title": "Can large language models identify and correct their mistakes?",
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhaRCK2QC8HmH0lzm2lPjqVOxFPZDoyTAPq9icazR1vrsFUTDr5OJdTIZNMDgut_ylOOmeZmA4n0BTIgFCsksZ_xATbJDnQegxWMpdqv2kyGBWKMTV9E2k3WybhBzhL3-oQnpNUWWTKURxt5y8f7gGwUkPTExml1QD2U-UqW0hglZ-cXXCkznmufJIfyPAR/w1200-h630-p-k-no-nu/Backtracking.jpg"
+        },
+        {
           "id": "http://blog.research.google/2024/01/responsible-ai-at-google-research-user.html",
           "author": null,
           "description": "Posted by Ayça Çakmakli, UX Lead, Google Research, Responsible AI and Human Centered Technology Team\n\n\n\n\nGoogle’s Responsible AI User Experience (Responsible AI UX) team is a product-minded team embedded within Google Research. This unique positioning requires us to apply responsible AI development practices to our user-centered user experience (UX) design process. In this post, we describe the importance of UX design and responsible AI in product development, and share a few examples of how our team’s capabilities and cross-functional collaborations have led to responsible development across Google.\n\n\n\nFirst, the UX part. We are a multi-disciplinary team of product design experts: designers, engineers, researchers, and strategists who manage the user-centered UX design process from early-…",
@@ -2532,6 +2552,36 @@
       "feedUrl": "https://languagelog.ldc.upenn.edu/nll/?feed=rss2",
       "siteUrl": "https://languagelog.ldc.upenn.edu/nll",
       "articles": [
+        {
+          "id": "https://languagelog.ldc.upenn.edu/nll/?p=62178",
+          "author": "Victor Mair",
+          "description": "Photograph taken outside a shop in Hong Kong: This one almost tricked me.  The expression \"mǐxiàn zhèn 米線陣\" literally means \"rice noodle array / formation\".  There are many occasions where \"mǐxiàn 米線\" should be rendered as \"[one] meter line\", with \"mǐ 米\" serving as a phonetic transcription for \"meter\".  Even though this is one of the older, widespread […]",
+          "link": "https://languagelog.ldc.upenn.edu/nll/?p=62178&utm_source=rss&utm_medium=rss&utm_campaign=rice-noodle-sense-sino-anglo-nipponica",
+          "publishedOn": "2024-01-12T00:53:02.000Z",
+          "wordCount": 2631,
+          "title": "Rice noodle sense; Sino-Anglo-Nipponica",
+          "imageUrl": null
+        },
+        {
+          "id": "https://languagelog.ldc.upenn.edu/nll/?p=62150",
+          "author": "Victor Mair",
+          "description": "Sign at a hotel in Japan: According to Nathan Hopson, the Japanese actually says: お願い この先は危険ですので、これ以上前へ行かないようお願い致します。 Onegai Kono saki wa kiken desu no de, kore ijō mae e ikanai yō onegai itashimasu Request The area beyond this [sign] is dangerous. Please do not proceed farther. A more natural translation might be: Notice Danger! Do not enter. […]",
+          "link": "https://languagelog.ldc.upenn.edu/nll/?p=62150&utm_source=rss&utm_medium=rss&utm_campaign=the-future-is-dangerous-anglo-nipponica",
+          "publishedOn": "2024-01-12T00:43:55.000Z",
+          "wordCount": 2191,
+          "title": "The future is dangerous: Anglo-Nipponica",
+          "imageUrl": null
+        },
+        {
+          "id": "https://languagelog.ldc.upenn.edu/nll/?p=62181",
+          "author": "Victor Mair",
+          "description": "From Nick Kaldis: This article begins with a brief reference to the chanting of ‘frozen garlic’ (\"凍蒜\" dongsuan, Taiwanese pronunciation for \"當選\" dangxuan \"to get elected\") in campaign rallies for Taiwan's presidential and legislative elections in two days. —- ‘Frozen Garlic!’ Taiwan Likes Its Democracy Loud and Proud At the island’s election rallies, warming up […]",
+          "link": "https://languagelog.ldc.upenn.edu/nll/?p=62181&utm_source=rss&utm_medium=rss&utm_campaign=the-politics-of-frozen-garlic-in-taiwan",
+          "publishedOn": "2024-01-12T00:35:58.000Z",
+          "wordCount": 2329,
+          "title": "The politics of frozen garlic in Taiwan",
+          "imageUrl": null
+        },
         {
           "id": "https://languagelog.ldc.upenn.edu/nll/?p=62166",
           "author": "Mark Liberman",
@@ -3090,16 +3140,6 @@
           "publishedOn": "2023-12-14T02:06:04.000Z",
           "wordCount": 2292,
           "title": "Franglais freaks Quebec",
-          "imageUrl": null
-        },
-        {
-          "id": "https://languagelog.ldc.upenn.edu/nll/?p=61675",
-          "author": "Victor Mair",
-          "description": "The name \"Tibet\" has been outlawed in the PRC.  Henceforth, Tibet (the name by which it has been known to the world for centuries) is to be called by its newer Chinese name, Xizang (\"West Zang\") — even in English.  Chinese state media drops ‘Tibet’ for ‘Xizang’ after release of Beijing white paper     Use […]",
-          "link": "https://languagelog.ldc.upenn.edu/nll/?p=61675&utm_source=rss&utm_medium=rss&utm_campaign=tibet-obliterated",
-          "publishedOn": "2023-12-13T11:33:24.000Z",
-          "wordCount": 2732,
-          "title": "\"Tibet\" obliterated",
           "imageUrl": null
         }
       ]
