@@ -2428,6 +2428,16 @@
       "siteUrl": "http://blog.research.google/",
       "articles": [
         {
+          "id": "http://blog.research.google/2024/01/amie-research-ai-system-for-diagnostic_12.html",
+          "author": null,
+          "description": "Posted by Alan Karthikesalingam and Vivek Natarajan, Research Leads, Google Research\n\n\n\n\nThe physician-patient conversation is a cornerstone of medicine, in which skilled and intentional communication drives diagnosis, management, empathy and trust. AI systems capable of such diagnostic dialogues could increase availability, accessibility, quality and consistency of care by being useful conversational partners to clinicians and patients alike. But approximating clinicians’ considerable expertise is a significant challenge. \n\n\n\n\n\nRecent progress in large language models (LLMs) outside the medical domain has shown that they can plan, reason, and use relevant context to hold rich conversations. However, there are many aspects of good diagnostic dialogue that are unique to the medical domain. …",
+          "link": "http://blog.research.google/2024/01/amie-research-ai-system-for-diagnostic_12.html",
+          "publishedOn": "2024-01-12T17:04:00.000Z",
+          "wordCount": 28177,
+          "title": "AMIE: A research AI system for diagnostic medical reasoning and conversations",
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgr_wfWpw2CVBYDc3Mlk879CUecv4uGlq36Fxe0GEnVcK2kJnzAyRkPRb8vO5jJVqrd_zvQ6W8suHyp1xhFhNFJuUj8nTNRp3TsZP7Z5uWlqw22hZZKVJJ33X5NWmT0UTkOdC4raONlnSbR8E616Mi_lJVE3DvbWYB-19eR2wpCgwAaykkquUV3DOLRY6c/w1200-h630-p-k-no-nu/AMIE.gif"
+        },
+        {
           "id": "http://blog.research.google/2024/01/amie-research-ai-system-for-diagnostic.html",
           "author": null,
           "description": "Posted by Alan Karthikesalingam and Vivek Natarajan, Research Leads, Google Research\n\n\n\n\nThe physician-patient conversation is a cornerstone of medicine, in which skilled and intentional communication drives diagnosis, management, empathy and trust. AI systems capable of such diagnostic dialogues could increase availability, accessibility, quality and consistency of care by being useful conversational partners to clinicians and patients alike. But approximating clinicians’ considerable expertise is a significant challenge. \n\n\n\n\n\nRecent progress in large language models (LLMs) outside the medical domain has shown that they can plan, reason, and use relevant context to hold rich conversations. However, there are many aspects of good diagnostic dialogue that are unique to the medical domain. …",
