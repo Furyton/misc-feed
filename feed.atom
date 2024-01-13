@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-12T23:14:37.701Z</updated>
+    <updated>2024-01-13T01:08:53.724Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[futuristic statistical science [editorial]]]></title>
+        <id>http://xianblog.wordpress.com/?p=54690</id>
+        <link href="https://xianblog.wordpress.com/2024/01/13/futuristic-statistical-science-editorial/"/>
+        <updated>2024-01-12T23:24:23.000Z</updated>
+        <summary type="html"><![CDATA[This special issue of Statistical Science is devoted to the future of Bayesian computational statistics, from several perspectives. It involves a large group of researchers who contributed to collective articles, bringing their own perspectives and research interests into these surveys. Somewhat paradoxically, it starts with the past—and a conference on a Gold Coast beach. Martin, […]]]></summary>
+        <author>
+            <name>xi'an</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AMIE: A research AI system for diagnostic medical reasoning and conversations]]></title>
         <id>http://blog.research.google/2024/01/amie-research-ai-system-for-diagnostic_12.html</id>
