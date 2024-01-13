@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-13T16:18:40.332Z</updated>
+    <updated>2024-01-13T17:12:54.116Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -2969,49 +2969,6 @@ When we …]]></summary>
         <summary type="html"><![CDATA[Introduction]]></summary>
         <author>
             <name>PyTorch Website</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lagrangian Flow Networks for Conservation Laws]]></title>
-        <id>http://arxiv.org/abs/2305.16846</id>
-        <link href="http://arxiv.org/abs/2305.16846"/>
-        <updated>2023-12-15T04:18:50.122Z</updated>
-        <summary type="html"><![CDATA[F. Arend Torres, Marcello Massimo Negri, Marco Inversi, Jonathan
-  Aellen, Volker Roth]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DeepSaDe: Learning Neural Networks that Guarantee Domain Constraint
-  Satisfaction]]></title>
-        <id>http://arxiv.org/abs/2303.01141</id>
-        <link href="http://arxiv.org/abs/2303.01141"/>
-        <updated>2023-12-15T04:18:50.113Z</updated>
-        <summary type="html"><![CDATA[Kshitij Goyal, Sebastijan Dumancic, Hendrik Blockeel]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The impact of memory on learning sequence-to-sequence tasks]]></title>
-        <id>http://arxiv.org/abs/2205.14683</id>
-        <link href="http://arxiv.org/abs/2205.14683"/>
-        <updated>2023-12-15T04:18:48.712Z</updated>
-        <summary type="html"><![CDATA[Alireza Seif, Sarah A.M. Loos, Gennaro Tucci, \'Edgar Rold\'an,
-  Sebastian Goldt]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Physics-informed neural networks for pathloss prediction]]></title>
-        <id>http://arxiv.org/abs/2211.12986</id>
-        <link href="http://arxiv.org/abs/2211.12986"/>
-        <updated>2023-12-15T04:18:48.705Z</updated>
-        <summary type="html"><![CDATA[Steffen Limmer, Alberto Martinez Alba, Nicola Michailow]]></summary>
-        <author>
-            <name>arxivist feed</name>
         </author>
     </entry>
 </feed>
