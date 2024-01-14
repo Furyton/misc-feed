@@ -2008,6 +2008,16 @@
       "siteUrl": "https://xianblog.wordpress.com",
       "articles": [
         {
+          "id": "http://xianblog.wordpress.com/?p=54822",
+          "author": "xi'an",
+          "description": "A challenge interesting enough for a sunny New Year morn, found on X validated, namely the simulation of a bivariate exponential distribution proposed by Gumbel in 1960, with density over the positive quadrant in IR² Although there exists a direct approach based on the fact that the marginals are Exponential distributions and the conditionals signed […]",
+          "link": "https://xianblog.wordpress.com/2024/01/14/simulating-gumbels-bivariate-exponential-distribution/",
+          "publishedOn": "2024-01-13T23:24:53.000Z",
+          "wordCount": 2467,
+          "title": "simulating Gumbel’s bivariate exponential distribution",
+          "imageUrl": "https://xianblog.files.wordpress.com/2024/01/isvsmc.png"
+        },
+        {
           "id": "http://xianblog.wordpress.com/?p=54690",
           "author": "xi'an",
           "description": "This special issue of Statistical Science is devoted to the future of Bayesian computational statistics, from several perspectives. It involves a large group of researchers who contributed to collective articles, bringing their own perspectives and research interests into these surveys. Somewhat paradoxically, it starts with the past—and a conference on a Gold Coast beach. Martin, […]",
@@ -3038,16 +3048,6 @@
             "length": "1165078",
             "type": "audio/wav"
           },
-          "imageUrl": null
-        },
-        {
-          "id": "https://languagelog.ldc.upenn.edu/nll/?p=61684",
-          "author": "Victor Mair",
-          "description": "[This is a guest post by Michael Bates.  It is about the place in Pakistan where Osama Bin Laden was killed on May 2, 2011 and where, a scant five months earlier, on January 25, 2011, Indonesian terrorist Umar Patek was arrested.] Via Google search, I found your post about the etymology of \"-ābād\" (\"Abbott's […]",
-          "link": "https://languagelog.ldc.upenn.edu/nll/?p=61684&utm_source=rss&utm_medium=rss&utm_campaign=abbotts-abode-part-2",
-          "publishedOn": "2023-12-15T12:52:23.000Z",
-          "wordCount": 2655,
-          "title": "Abbott's Abode, part 2",
           "imageUrl": null
         }
       ]
