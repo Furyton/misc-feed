@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-14T15:14:33.563Z</updated>
+    <updated>2024-01-14T16:18:43.818Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Translating from Classical Chinese / Literary Sinitic to Mandarin]]></title>
+        <id>https://languagelog.ldc.upenn.edu/nll/?p=62230</id>
+        <link href="https://languagelog.ldc.upenn.edu/nll/?p=62230&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=translating-from-classical-chinese-literary-sinitic-to-mandarin"/>
+        <updated>2024-01-14T15:29:52.000Z</updated>
+        <summary type="html"><![CDATA[For those who are unfamiliar with Classical Chinese (CC) / Literary Sinitic (LS), what I am about to demonstrate in this post may be completely revelatory.  Many outsiders to CC / LS operate under the misapprehension that — because they are both written with hanzi  漢字 / 汉字 ("Chinese characters / sinoglyphs") — anyone who […]]]></summary>
+        <author>
+            <name>Victor Mair</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[旁门左道之如何让Python的重试代码更加优雅]]></title>
         <id>https://kexue.fm/archives/9938</id>
