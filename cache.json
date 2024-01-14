@@ -1454,6 +1454,16 @@
       "siteUrl": "https://kexue.fm/",
       "articles": [
         {
+          "id": "https://kexue.fm/archives/9938",
+          "author": "苏剑林",
+          "description": "这篇文章我们讨论一个编程题：如何更优雅地在Python中实现重试。在文章《新年快乐！记录一下 Cool Papers 的开发体验》中，笔者分享了开发Cool Papers的一些经验，其中就提到了...",
+          "link": "https://kexue.fm/archives/9938",
+          "publishedOn": "2024-01-14T02:31:00.000Z",
+          "wordCount": 1731,
+          "title": "旁门左道之如何让Python的重试代码更加优雅",
+          "imageUrl": null
+        },
+        {
           "id": "https://kexue.fm/archives/9931",
           "author": "苏剑林",
           "description": "在分析模型的参数时，有些情况下我们会将模型的所有参数当成一个整体的向量，有些情况下我们则会将不同的参数拆开来看。比如，一个7B大小的LLAMA模型所拥有的70亿参数量，有时候我们会将它当成“一个...",

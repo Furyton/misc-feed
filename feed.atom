@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-14T01:14:29.352Z</updated>
+    <updated>2024-01-14T02:32:11.565Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[旁门左道之如何让Python的重试代码更加优雅]]></title>
+        <id>https://kexue.fm/archives/9938</id>
+        <link href="https://kexue.fm/archives/9938"/>
+        <updated>2024-01-14T02:31:00.000Z</updated>
+        <summary type="html"><![CDATA[这篇文章我们讨论一个编程题：如何更优雅地在Python中实现重试。在文章《新年快乐！记录一下 Cool Papers 的开发体验》中，笔者分享了开发Cool Papers的一些经验，其中就提到了...]]></summary>
+        <author>
+            <name>苏剑林</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[simulating Gumbel’s bivariate exponential distribution]]></title>
         <id>http://xianblog.wordpress.com/?p=54822</id>
