@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-14T10:15:38.497Z</updated>
+    <updated>2024-01-14T11:12:40.725Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -2902,22 +2902,6 @@ Read more...]]></summary>
         <summary type="html"><![CDATA[Visit the post for more.]]></summary>
         <author>
             <name>xi'an</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Advancements in machine learning for machine learning]]></title>
-        <id>http://blog.research.google/2023/12/advancements-in-machine-learning-for.html</id>
-        <link href="http://blog.research.google/2023/12/advancements-in-machine-learning-for.html"/>
-        <updated>2023-12-15T22:34:00.000Z</updated>
-        <summary type="html"><![CDATA[Posted by Phitchaya Mangpo Phothilimthana, Staff Research Scientist, Google DeepMind, and Bryan Perozzi, Senior Staff Research Scientist, Google Research
-
-
-
-
-
-With the recent and accelerated advances in machine learning (ML), machines can understand natural language, engage in conversations, draw images, create videos and more. Modern ML models are programmed and trained using ML programming frameworks, such as TensorFlow, JAX, PyTorch, among many others. These libraries provide high-level instructions to ML practitioners, such as linear algebra operations (e.g., matrix multiplication, convolution, etc.) and neural network layers (e.g., 2D convolution layers, transformer layers). Importantly, practitioners need not worry about how to make their models run efficiently on hardware because an…]]></summary>
-        <author>
-            <name>Google AI Blog</name>
         </author>
     </entry>
 </feed>
