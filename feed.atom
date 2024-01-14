@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-14T07:13:48.234Z</updated>
+    <updated>2024-01-14T08:18:18.780Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -2916,27 +2916,6 @@ Read more...]]></summary>
 
 
 With the recent and accelerated advances in machine learning (ML), machines can understand natural language, engage in conversations, draw images, create videos and more. Modern ML models are programmed and trained using ML programming frameworks, such as TensorFlow, JAX, PyTorch, among many others. These libraries provide high-level instructions to ML practitioners, such as linear algebra operations (e.g., matrix multiplication, convolution, etc.) and neural network layers (e.g., 2D convolution layers, transformer layers). Importantly, practitioners need not worry about how to make their models run efficiently on hardware because an…]]></summary>
-        <author>
-            <name>Google AI Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[StyleDrop: Text-to-image generation in any style]]></title>
-        <id>http://blog.research.google/2023/12/styledrop-text-to-image-generation-in.html</id>
-        <link href="http://blog.research.google/2023/12/styledrop-text-to-image-generation-in.html"/>
-        <updated>2023-12-15T19:40:00.000Z</updated>
-        <summary type="html"><![CDATA[Posted by Kihyuk Sohn and Dilip Krishnan, Research Scientists, Google Research
-
-
-
-
-Text-to-image models trained on large volumes of image-text pairs have enabled the creation of rich and diverse images encompassing many genres and themes. Moreover, popular styles such as “anime” or “steampunk”, when added to the input text prompt, may translate to specific visual outputs. While many efforts have been put into prompt engineering, a wide range of styles are simply hard to describe in text form due to the nuances of color schemes, illumination, and other characteristics. As an example, “watercolor painting” may refer to various styles, and using a text prompt that simply says “watercolor painting style” may either result in one specific style or an unpredictable mix of several.
- 
-
-
-
-
-When we …]]></summary>
         <author>
             <name>Google AI Blog</name>
         </author>
