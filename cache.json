@@ -6,6 +6,56 @@
       "siteUrl": "https://www.arxivist.com",
       "articles": [
         {
+          "id": "http://arxiv.org/abs/2206.04891",
+          "author": null,
+          "description": "Sascha Marton, Stefan L\\\"udtke, Christian Bartelt, Andrej Tschalzev,\n  Heiner Stuckenschmidt",
+          "link": "http://arxiv.org/abs/2206.04891",
+          "publishedOn": "2024-01-15T06:21:31.054Z",
+          "wordCount": 675,
+          "title": "Explaining Neural Networks without Access to Training Data",
+          "imageUrl": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2211.05408",
+          "author": null,
+          "description": "Heishiro Kanagawa, Alessandro Barp, Arthur Gretton, Lester\n  Mackey",
+          "link": "http://arxiv.org/abs/2211.05408",
+          "publishedOn": "2024-01-15T06:21:25.314Z",
+          "wordCount": 646,
+          "title": "Controlling Moments with Kernel Stein Discrepancies",
+          "imageUrl": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2007.12882",
+          "author": null,
+          "description": "Emmanuel Caron, Stephane Chretien",
+          "link": "http://arxiv.org/abs/2007.12882",
+          "publishedOn": "2024-01-15T06:21:25.279Z",
+          "wordCount": 805,
+          "title": "A finite sample analysis of the benign overfitting phenomenon for ridge\n  function estimation",
+          "imageUrl": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2303.16372",
+          "author": null,
+          "description": "Prateeti Mukherjee, Satya Lokam",
+          "link": "http://arxiv.org/abs/2303.16372",
+          "publishedOn": "2024-01-15T06:21:25.162Z",
+          "wordCount": 756,
+          "title": "On the Query Complexity of Training Data Reconstruction in Private\n  Learning",
+          "imageUrl": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2210.06015",
+          "author": null,
+          "description": "Pedram Bakhtiarifard, Christian Igel, Raghavendra Selvan",
+          "link": "http://arxiv.org/abs/2210.06015",
+          "publishedOn": "2024-01-15T06:21:25.152Z",
+          "wordCount": 735,
+          "title": "EC-NAS: Energy Consumption Aware Tabular Benchmarks for Neural\n  Architecture Search",
+          "imageUrl": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
           "id": "http://arxiv.org/abs/2203.09438",
           "author": null,
           "description": "S\\\"oren Schleibaum, J\\\"org P. M\\\"uller, Monika Sester",

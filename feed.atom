@@ -2,10 +2,65 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-15T05:16:09.208Z</updated>
+    <updated>2024-01-15T06:21:40.382Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Explaining Neural Networks without Access to Training Data]]></title>
+        <id>http://arxiv.org/abs/2206.04891</id>
+        <link href="http://arxiv.org/abs/2206.04891"/>
+        <updated>2024-01-15T06:21:31.054Z</updated>
+        <summary type="html"><![CDATA[Sascha Marton, Stefan L\"udtke, Christian Bartelt, Andrej Tschalzev,
+  Heiner Stuckenschmidt]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Controlling Moments with Kernel Stein Discrepancies]]></title>
+        <id>http://arxiv.org/abs/2211.05408</id>
+        <link href="http://arxiv.org/abs/2211.05408"/>
+        <updated>2024-01-15T06:21:25.314Z</updated>
+        <summary type="html"><![CDATA[Heishiro Kanagawa, Alessandro Barp, Arthur Gretton, Lester
+  Mackey]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A finite sample analysis of the benign overfitting phenomenon for ridge
+  function estimation]]></title>
+        <id>http://arxiv.org/abs/2007.12882</id>
+        <link href="http://arxiv.org/abs/2007.12882"/>
+        <updated>2024-01-15T06:21:25.279Z</updated>
+        <summary type="html"><![CDATA[Emmanuel Caron, Stephane Chretien]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[On the Query Complexity of Training Data Reconstruction in Private
+  Learning]]></title>
+        <id>http://arxiv.org/abs/2303.16372</id>
+        <link href="http://arxiv.org/abs/2303.16372"/>
+        <updated>2024-01-15T06:21:25.162Z</updated>
+        <summary type="html"><![CDATA[Prateeti Mukherjee, Satya Lokam]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EC-NAS: Energy Consumption Aware Tabular Benchmarks for Neural
+  Architecture Search]]></title>
+        <id>http://arxiv.org/abs/2210.06015</id>
+        <link href="http://arxiv.org/abs/2210.06015"/>
+        <updated>2024-01-15T06:21:25.152Z</updated>
+        <summary type="html"><![CDATA[Pedram Bakhtiarifard, Christian Igel, Raghavendra Selvan]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[inhomogeneous random systems [Institut Henri Poincaré, 23-24 Jan 2024]]]></title>
         <id>http://xianblog.wordpress.com/?p=54911</id>
