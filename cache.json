@@ -1986,6 +1986,16 @@
       "siteUrl": "https://xianblog.wordpress.com",
       "articles": [
         {
+          "id": "http://xianblog.wordpress.com/?p=54911",
+          "author": "xi'an",
+          "description": "Visit the post for more.",
+          "link": "https://xianblog.wordpress.com/2024/01/15/inhomogeneous-random-systems-institut-henri-poincare-23-41-jan-2024/",
+          "publishedOn": "2024-01-14T23:24:04.000Z",
+          "wordCount": 2306,
+          "title": "inhomogeneous random systems [Institut Henri Poincaré, 23-24 Jan 2024]",
+          "imageUrl": "https://xianblog.files.wordpress.com/2024/01/temp-4.png"
+        },
+        {
           "id": "http://xianblog.wordpress.com/?p=54822",
           "author": "xi'an",
           "description": "A challenge interesting enough for a sunny New Year morn, found on X validated, namely the simulation of a bivariate exponential distribution proposed by Gumbel in 1960, with density over the positive quadrant in IR² Although there exists a direct approach based on the fact that the marginals are Exponential distributions and the conditionals signed […]",
@@ -2981,16 +2991,6 @@
             "length": "96604792",
             "type": "video/mp4"
           },
-          "imageUrl": null
-        },
-        {
-          "id": "https://languagelog.ldc.upenn.edu/nll/?p=61695",
-          "author": "Victor Mair",
-          "description": "There has been considerable concern that AI (e.g., ChatGPT and other LLM-enabled devices) would unduly influence sensitive sectors of society (e.g., the law, health care, education, etc.).  Some of the anti-AI rhetoric has bordered on alarmist (I will write a post about that within a few days. For now, here's an example of how humans […]",
-          "link": "https://languagelog.ldc.upenn.edu/nll/?p=61695&utm_source=rss&utm_medium=rss&utm_campaign=ai-percolates-down-through-the-legal-system",
-          "publishedOn": "2023-12-16T12:50:59.000Z",
-          "wordCount": 2474,
-          "title": "AI percolates down through the legal system",
           "imageUrl": null
         }
       ]

@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-14T23:16:02.379Z</updated>
+    <updated>2024-01-15T01:11:42.477Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[inhomogeneous random systems [Institut Henri Poincaré, 23-24 Jan 2024]]]></title>
+        <id>http://xianblog.wordpress.com/?p=54911</id>
+        <link href="https://xianblog.wordpress.com/2024/01/15/inhomogeneous-random-systems-institut-henri-poincare-23-41-jan-2024/"/>
+        <updated>2024-01-14T23:24:04.000Z</updated>
+        <summary type="html"><![CDATA[Visit the post for more.]]></summary>
+        <author>
+            <name>xi'an</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Translating from Classical Chinese / Literary Sinitic to Mandarin]]></title>
         <id>https://languagelog.ldc.upenn.edu/nll/?p=62230</id>
@@ -2892,16 +2902,6 @@ Read more...]]></summary>
         <summary type="html"><![CDATA[Back in the fall of 2022, I asked "What happened to all the, like, prescriptivists?". I still don't have any actual counts, but I continue to find fewer instances of prescriptivist peeving in my various media feeds and foraging. So when I stumbled on this skit, from Series 1 Episode 6 of Walliams and Friend, […]]]></summary>
         <author>
             <name>Mark Liberman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI percolates down through the legal system]]></title>
-        <id>https://languagelog.ldc.upenn.edu/nll/?p=61695</id>
-        <link href="https://languagelog.ldc.upenn.edu/nll/?p=61695&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=ai-percolates-down-through-the-legal-system"/>
-        <updated>2023-12-16T12:50:59.000Z</updated>
-        <summary type="html"><![CDATA[There has been considerable concern that AI (e.g., ChatGPT and other LLM-enabled devices) would unduly influence sensitive sectors of society (e.g., the law, health care, education, etc.).  Some of the anti-AI rhetoric has bordered on alarmist (I will write a post about that within a few days. For now, here's an example of how humans […]]]></summary>
-        <author>
-            <name>Victor Mair</name>
         </author>
     </entry>
 </feed>
