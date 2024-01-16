@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-16T19:12:52.062Z</updated>
+    <updated>2024-01-16T20:16:58.766Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -2825,16 +2825,6 @@ But of course, exiting the arena is only the first step. Next, people must navig
         <summary type="html"><![CDATA[One of the hard parts of learning a new language is figuring out what preposition to use when (or what postposition, or what case, or etc.). This can be tricky even for simple locative expressions: I live in France. J'habite en France. I live in Paris J'habite à Paris. I live in Japan. J'habite au […]]]></summary>
         <author>
             <name>Mark Liberman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Training Production AI Models with PyTorch 2.0]]></title>
-        <id>https://pytorch.org/blog/training-production-ai-models/</id>
-        <link href="https://pytorch.org/blog/training-production-ai-models/"/>
-        <updated>2023-12-18T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[1. Introduction]]></summary>
-        <author>
-            <name>PyTorch Website</name>
         </author>
     </entry>
 </feed>
