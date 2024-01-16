@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-16T17:14:06.929Z</updated>
+    <updated>2024-01-16T18:19:21.860Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[TYI 54: A Variant of Elchanan Mossel’s Amazing Dice Paradox]]></title>
+        <id>http://gilkalai.wordpress.com/?p=25492</id>
+        <link href="https://gilkalai.wordpress.com/2024/01/16/tyi-54-a-variant-of-elchanan-mossels-amazing-dice-paradox/"/>
+        <updated>2024-01-16T17:56:45.000Z</updated>
+        <summary type="html"><![CDATA[The following question was inspired by recent comments to the post on Elchanan Mossel’s amazing Dice Paradox. A fair dice is a dice that when thrown you get each of the six possibilities with probability 1/6. A random dice is … Continue reading →]]></summary>
+        <author>
+            <name>Gil Kalai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TYI 54: A Variant of Elchanan Mossel’s Amazing Dice Paradox]]></title>
+        <id>http://gilkalai.wordpress.com/?p=25492</id>
+        <link href="https://gilkalai.wordpress.com/2024/01/16/tyi-54-a-variant-of-elchanan-mossels-amazing-dice-paradox/"/>
+        <updated>2024-01-16T17:56:45.000Z</updated>
+        <summary type="html"><![CDATA[The following question was inspired by recent comments to the post on Elchanan Mossel’s amazing Dice Paradox. A fair dice is a dice that when thrown you get each of the six possibilities with probability 1/6. A random dice is … Continue reading →]]></summary>
+        <author>
+            <name>Gil Kalai</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bayesian model averaging with exact inference of likelihood- free scoring rule posteriors [23/01/2024, PariSanté campus]]]></title>
         <id>http://xianblog.wordpress.com/?p=54882</id>
