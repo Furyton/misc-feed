@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-16T15:16:42.301Z</updated>
+    <updated>2024-01-16T16:20:15.620Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -2815,59 +2815,6 @@ But of course, exiting the arena is only the first step. Next, people must navig
         <summary type="html"><![CDATA[1. Introduction]]></summary>
         <author>
             <name>PyTorch Website</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Debiased Machine Learning and Network Cohesion for Doubly-Robust
-  Differential Reward Models in Contextual Bandits]]></title>
-        <id>http://arxiv.org/abs/2312.06403</id>
-        <link href="http://arxiv.org/abs/2312.06403"/>
-        <updated>2023-12-18T04:19:01.105Z</updated>
-        <summary type="html"><![CDATA[Easton K. Huch, Jieru Shi, Madeline R. Abbott, Jessica R. Golbus,
-  Alexander Moreno, Walter H. Dempsey]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rethinking Causal Relationships Learning in Graph Neural Networks]]></title>
-        <id>http://arxiv.org/abs/2312.09613</id>
-        <link href="http://arxiv.org/abs/2312.09613"/>
-        <updated>2023-12-18T04:19:00.787Z</updated>
-        <summary type="html"><![CDATA[Hang Gao, Chengyu Yao, Jiangmeng Li, Lingyu Si, Yifan Jin, Fengge Wu,
-  Changwen Zheng, Huaping Liu]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Reliable Prediction Intervals with Regression Neural Networks]]></title>
-        <id>http://arxiv.org/abs/2312.09606</id>
-        <link href="http://arxiv.org/abs/2312.09606"/>
-        <updated>2023-12-18T04:19:00.778Z</updated>
-        <summary type="html"><![CDATA[Harris Papadopoulos, Haris Haralambous]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nonlinear Meta-Learning Can Guarantee Faster Rates]]></title>
-        <id>http://arxiv.org/abs/2307.10870</id>
-        <link href="http://arxiv.org/abs/2307.10870"/>
-        <updated>2023-12-18T04:19:00.773Z</updated>
-        <summary type="html"><![CDATA[Dimitri Meunier, Zhu Li, Arthur Gretton, Samory Kpotufe]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Distributed Learning of Mixtures of Experts]]></title>
-        <id>http://arxiv.org/abs/2312.09877</id>
-        <link href="http://arxiv.org/abs/2312.09877"/>
-        <updated>2023-12-18T04:19:00.769Z</updated>
-        <summary type="html"><![CDATA[Fa\"icel Chamroukhi, Nhat Thien Pham]]></summary>
-        <author>
-            <name>arxivist feed</name>
         </author>
     </entry>
 </feed>
