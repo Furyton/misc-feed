@@ -1643,16 +1643,6 @@
           "wordCount": 1359,
           "title": "NumPy 2 is coming: preventing breakage, updating your code",
           "imageUrl": "https://pythonspeed.com/assets/titles/numpy-2.png"
-        },
-        {
-          "id": "https://pythonspeed.com/articles/cpu-thread-pool-size/",
-          "author": null,
-          "description": "When you’re running a CPU-intensive parallel program, you often want to have a thread or process pool sized by the number of CPU cores on your machine.\nFewer threads and you’re not taking advantage of all the cores, more than that and your program will start running slower as multiple threads compete for the same core.\nOr that’s the theory, anyway.\nSo how do you check how many cores your computer has?\nAnd is this actually good advice?\nIt turns out to be surprisingly tricky to nail down how many threads to run:\nThe Python standard library provides multiple APIs to get this info, but none are sufficient.\nEven worse, because of CPU features like instruction-level parallelism and simultaneous threading (aka Hyper-threading on Intel CPUs), the number of cores you can effectively use depends on the code you have written!\nLet’s see why it’s so difficult to figure out how many CPU cores your program can use, and then consider a potential solution.\nRead more...",
-          "link": "https://pythonspeed.com/articles/cpu-thread-pool-size/",
-          "publishedOn": "2023-12-18T00:00:00.000Z",
-          "wordCount": 1733,
-          "title": "How many CPU cores can you actually use in parallel?",
-          "imageUrl": "https://pythonspeed.com/assets/titles/cpu-thread-pool-size.png"
         }
       ]
     },
@@ -2325,16 +2315,6 @@
           "wordCount": 2091,
           "title": "data extraction Irpin",
           "imageUrl": "https://www.galleriacontinua.com/assets/artists_images/KVH_Zhanna%20Kadyrova_Data%20Extraction%20Irpin_2023_photo_Andre%20Germar_001.jpg"
-        },
-        {
-          "id": "http://xianblog.wordpress.com/?p=53316",
-          "author": "xi'an",
-          "description": "Over the weekend, I came across a X validated question asking for clarification about our 2012 Vanilla Rao-Blackwellisation paper with Randal. Question written in a somewhat formal style that made our work difficult to recognise… At least for yours truly. Interestingly this led another (major) contributor to X validation to work out an uncompleted illustration […]",
-          "link": "https://xianblog.wordpress.com/2023/12/18/reheated-vanilla-rao-blackwellisation/",
-          "publishedOn": "2023-12-17T23:23:41.000Z",
-          "wordCount": 2201,
-          "title": "reheated vanilla Rao-Blackwellisation",
-          "imageUrl": "https://i.stack.imgur.com/iXHSQ.png"
         }
       ]
     },

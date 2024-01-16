@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-16T11:13:11.431Z</updated>
+    <updated>2024-01-16T12:30:31.656Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -2878,35 +2878,6 @@ But of course, exiting the arena is only the first step. Next, people must navig
         <summary type="html"><![CDATA[This amounts to an afterword to this post:  "Hype over AI and Classical Chinese / Literary Sinitic" (11/9/23) Four decades ago, when I was trying to determine what type of language Sinitic was (synthetic, analytic, inflected, isolating, agglutinative, fusional, polysynthetic, etc.), from a survey of all the world's languages that I could get a grasp […]]]></summary>
         <author>
             <name>Victor Mair</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How many CPU cores can you actually use in parallel?]]></title>
-        <id>https://pythonspeed.com/articles/cpu-thread-pool-size/</id>
-        <link href="https://pythonspeed.com/articles/cpu-thread-pool-size/"/>
-        <updated>2023-12-18T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[When you’re running a CPU-intensive parallel program, you often want to have a thread or process pool sized by the number of CPU cores on your machine.
-Fewer threads and you’re not taking advantage of all the cores, more than that and your program will start running slower as multiple threads compete for the same core.
-Or that’s the theory, anyway.
-So how do you check how many cores your computer has?
-And is this actually good advice?
-It turns out to be surprisingly tricky to nail down how many threads to run:
-The Python standard library provides multiple APIs to get this info, but none are sufficient.
-Even worse, because of CPU features like instruction-level parallelism and simultaneous threading (aka Hyper-threading on Intel CPUs), the number of cores you can effectively use depends on the code you have written!
-Let’s see why it’s so difficult to figure out how many CPU cores your program can use, and then consider a potential solution.
-Read more...]]></summary>
-        <author>
-            <name>Python⇒Speed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[reheated vanilla Rao-Blackwellisation]]></title>
-        <id>http://xianblog.wordpress.com/?p=53316</id>
-        <link href="https://xianblog.wordpress.com/2023/12/18/reheated-vanilla-rao-blackwellisation/"/>
-        <updated>2023-12-17T23:23:41.000Z</updated>
-        <summary type="html"><![CDATA[Over the weekend, I came across a X validated question asking for clarification about our 2012 Vanilla Rao-Blackwellisation paper with Randal. Question written in a somewhat formal style that made our work difficult to recognise… At least for yours truly. Interestingly this led another (major) contributor to X validation to work out an uncompleted illustration […]]]></summary>
-        <author>
-            <name>xi'an</name>
         </author>
     </entry>
 </feed>
