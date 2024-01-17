@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-17T13:19:13.606Z</updated>
+    <updated>2024-01-17T14:15:23.565Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Parsing RNA vaccines]]></title>
+        <id>https://languagelog.ldc.upenn.edu/nll/?p=62247</id>
+        <link href="https://languagelog.ldc.upenn.edu/nll/?p=62247&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=parsing-rna-vaccines"/>
+        <updated>2024-01-17T14:06:41.000Z</updated>
+        <summary type="html"><![CDATA[A recent LinkedIn post by Liang Huang lists some of his recent achievements, experiences, and honors. This work is all connected with the project of creating better algorithms for predicting the secondary structure of macromolecules, initially by analogy to algorithms developed for efficient parsing. This all began more than 20 years ago, based on work […]]]></summary>
+        <author>
+            <name>Mark Liberman</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bug Thread]]></title>
         <id>https://languagelog.ldc.upenn.edu/nll/?p=62244</id>
