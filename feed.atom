@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-17T14:15:23.565Z</updated>
+    <updated>2024-01-17T15:16:35.561Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -2942,16 +2942,6 @@ But of course, exiting the arena is only the first step. Next, people must navig
         <summary type="html"><![CDATA[Kexuan Li, Fangfang Wang, Lingli Yang, Ruiqi Liu]]></summary>
         <author>
             <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[让炼丹更科学一些（一）：SGD的平均收敛趋势]]></title>
-        <id>https://kexue.fm/archives/9902</id>
-        <link href="https://kexue.fm/archives/9902"/>
-        <updated>2023-12-19T02:55:00.000Z</updated>
-        <summary type="html"><![CDATA[很多时候我们将深度学习模型的训练过程戏称为“炼丹”，因为整个过程跟古代的炼丹术一样，看上去有一定的科学依据，但整体却给人一种“玄之又玄”的感觉。尽管本站之前也关注过一些优化器相关的工作，甚至也写...]]></summary>
-        <author>
-            <name>苏剑林</name>
         </author>
     </entry>
 </feed>
