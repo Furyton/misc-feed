@@ -1842,6 +1842,16 @@
       "siteUrl": "https://pytorch.org/",
       "articles": [
         {
+          "id": "https://pytorch.org/blog/accelerating-triton/",
+          "author": null,
+          "description": "TL;DR",
+          "link": "https://pytorch.org/blog/accelerating-triton/",
+          "publishedOn": "2024-01-16T08:00:00.000Z",
+          "wordCount": 2903,
+          "title": "Accelerating Triton Dequantization Kernels for GPTQ",
+          "imageUrl": "https://pytorch.org/assets/images/social-share.jpg"
+        },
+        {
           "id": "https://pytorch.org/blog/finetune-llms/",
           "author": null,
           "description": "We demonstrate how to finetune a 7B parameter model on a typical consumer GPU (NVIDIA T4 16GB) with LoRA and tools from the PyTorch and Hugging Face ecosystem with complete reproducible Google Colab notebook.",
