@@ -6,6 +6,56 @@
       "siteUrl": "https://www.arxivist.com",
       "articles": [
         {
+          "id": "http://arxiv.org/abs/2008.05825",
+          "author": null,
+          "description": "Thorsten Gl\\\"usenkamp",
+          "link": "http://arxiv.org/abs/2008.05825",
+          "publishedOn": "2024-01-17T04:19:15.881Z",
+          "wordCount": 872,
+          "title": "Unifying supervised learning and VAEs -- coverage, systematics and\n  goodness-of-fit in normalizing-flow based neural network models for\n  astro-particle reconstructions",
+          "imageUrl": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2304.09221",
+          "author": null,
+          "description": "Jing An, Jianfeng Lu",
+          "link": "http://arxiv.org/abs/2304.09221",
+          "publishedOn": "2024-01-17T04:19:15.786Z",
+          "wordCount": 650,
+          "title": "Convergence of stochastic gradient descent under a local Lojasiewicz\n  condition for deep neural networks",
+          "imageUrl": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2308.06399",
+          "author": null,
+          "description": "Lorenzo Valleggi, Marco Scutari, Federico Mattia Stefanini",
+          "link": "http://arxiv.org/abs/2308.06399",
+          "publishedOn": "2024-01-17T04:19:15.639Z",
+          "wordCount": 778,
+          "title": "Learning Bayesian Networks with Heterogeneous Agronomic Data Sets via\n  Mixed-Effect Models and Hierarchical Clustering",
+          "imageUrl": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2306.04746",
+          "author": null,
+          "description": "Naoki Egami, Musashi Hinck, Brandon M. Stewart, Hanying Wei",
+          "link": "http://arxiv.org/abs/2306.04746",
+          "publishedOn": "2024-01-17T04:19:15.613Z",
+          "wordCount": 811,
+          "title": "Using Imperfect Surrogates for Downstream Inference: Design-based\n  Supervised Learning for Social Science Applications of Large Language Models",
+          "imageUrl": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2401.06925",
+          "author": null,
+          "description": "Leihao Chen, Onno Zoeter, Joris M. Mooij",
+          "link": "http://arxiv.org/abs/2401.06925",
+          "publishedOn": "2024-01-17T04:19:15.198Z",
+          "wordCount": 662,
+          "title": "Modeling Latent Selection with Structural Causal Models",
+          "imageUrl": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
           "id": "http://arxiv.org/abs/2206.04891",
           "author": null,
           "description": "Sascha Marton, Stefan L\\\"udtke, Christian Bartelt, Andrej Tschalzev,\n  Heiner Stuckenschmidt",

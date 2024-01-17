@@ -2,10 +2,65 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-17T03:17:53.235Z</updated>
+    <updated>2024-01-17T04:19:23.904Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Unifying supervised learning and VAEs -- coverage, systematics and
+  goodness-of-fit in normalizing-flow based neural network models for
+  astro-particle reconstructions]]></title>
+        <id>http://arxiv.org/abs/2008.05825</id>
+        <link href="http://arxiv.org/abs/2008.05825"/>
+        <updated>2024-01-17T04:19:15.881Z</updated>
+        <summary type="html"><![CDATA[Thorsten Gl\"usenkamp]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Convergence of stochastic gradient descent under a local Lojasiewicz
+  condition for deep neural networks]]></title>
+        <id>http://arxiv.org/abs/2304.09221</id>
+        <link href="http://arxiv.org/abs/2304.09221"/>
+        <updated>2024-01-17T04:19:15.786Z</updated>
+        <summary type="html"><![CDATA[Jing An, Jianfeng Lu]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learning Bayesian Networks with Heterogeneous Agronomic Data Sets via
+  Mixed-Effect Models and Hierarchical Clustering]]></title>
+        <id>http://arxiv.org/abs/2308.06399</id>
+        <link href="http://arxiv.org/abs/2308.06399"/>
+        <updated>2024-01-17T04:19:15.639Z</updated>
+        <summary type="html"><![CDATA[Lorenzo Valleggi, Marco Scutari, Federico Mattia Stefanini]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Using Imperfect Surrogates for Downstream Inference: Design-based
+  Supervised Learning for Social Science Applications of Large Language Models]]></title>
+        <id>http://arxiv.org/abs/2306.04746</id>
+        <link href="http://arxiv.org/abs/2306.04746"/>
+        <updated>2024-01-17T04:19:15.613Z</updated>
+        <summary type="html"><![CDATA[Naoki Egami, Musashi Hinck, Brandon M. Stewart, Hanying Wei]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Modeling Latent Selection with Structural Causal Models]]></title>
+        <id>http://arxiv.org/abs/2401.06925</id>
+        <link href="http://arxiv.org/abs/2401.06925"/>
+        <updated>2024-01-17T04:19:15.198Z</updated>
+        <summary type="html"><![CDATA[Leihao Chen, Onno Zoeter, Joris M. Mooij]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Resuscitating  a moribund language]]></title>
         <id>https://languagelog.ldc.upenn.edu/nll/?p=62235</id>
