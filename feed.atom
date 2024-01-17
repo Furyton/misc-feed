@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-17T12:30:31.582Z</updated>
+    <updated>2024-01-17T13:19:13.606Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Bug Thread]]></title>
+        <id>https://languagelog.ldc.upenn.edu/nll/?p=62244</id>
+        <link href="https://languagelog.ldc.upenn.edu/nll/?p=62244&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=bug-thread"/>
+        <updated>2024-01-17T12:34:56.000Z</updated>
+        <summary type="html"><![CDATA[Today's xkcd: Mouseover title: "After some account issues, we've added 6 new people from the beach house rental website support forum." A lot of scholarship works this way — in science and engineering as well as in the humanities. The weekend beach house is more of a metaphor than a reality, but the conference workshops…]]></summary>
+        <author>
+            <name>Mark Liberman</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Tangent functor on microformal morphisms, and non-linear pullbacks for
   forms and cohomology]]></title>
