@@ -2,10 +2,62 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-17T05:14:59.183Z</updated>
+    <updated>2024-01-17T06:20:28.515Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Tangent functor on microformal morphisms, and non-linear pullbacks for
+  forms and cohomology]]></title>
+        <id>http://arxiv.org/abs/1710.04335</id>
+        <link href="http://arxiv.org/abs/1710.04335"/>
+        <updated>2024-01-17T06:20:25.299Z</updated>
+        <summary type="html"><![CDATA[Theodore Th. Voronov]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Universal transient behavior in large dynamical systems on networks]]></title>
+        <id>http://arxiv.org/abs/1906.10634</id>
+        <link href="http://arxiv.org/abs/1906.10634"/>
+        <updated>2024-01-17T06:20:24.477Z</updated>
+        <summary type="html"><![CDATA[Wojciech Tarnowski, Izaak Neri, Pierpaolo Vivo]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Geometric analysis of 1+1 dimensional quasilinear wave equations]]></title>
+        <id>http://arxiv.org/abs/1912.04692</id>
+        <link href="http://arxiv.org/abs/1912.04692"/>
+        <updated>2024-01-17T06:20:24.467Z</updated>
+        <summary type="html"><![CDATA[Leonardo Enrique Abbrescia, Willie Wai Yeung Wong]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Global Optimization of Gaussian processes]]></title>
+        <id>http://arxiv.org/abs/2005.10902</id>
+        <link href="http://arxiv.org/abs/2005.10902"/>
+        <updated>2024-01-17T06:20:24.301Z</updated>
+        <summary type="html"><![CDATA[Artur M. Schweidtmann, Dominik Bongartz, Daniel Grothe, Tim
+  Kerkenhoff, Xiaopeng Lin, Jaromil Najman, Alexander Mitsos]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Ramanujan-Petersson ans Selberg conjectures for Maass forms]]></title>
+        <id>http://arxiv.org/abs/2001.10956</id>
+        <link href="http://arxiv.org/abs/2001.10956"/>
+        <updated>2024-01-17T06:20:24.275Z</updated>
+        <summary type="html"><![CDATA[Andr'e Unterberger]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Unifying supervised learning and VAEs -- coverage, systematics and
   goodness-of-fit in normalizing-flow based neural network models for
