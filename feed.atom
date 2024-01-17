@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-17T15:16:35.561Z</updated>
+    <updated>2024-01-17T16:20:32.901Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[AlphaGeometry: An Olympiad-level AI system for geometry]]></title>
+        <id>https://deepmind.google/discover/blog/alphageometry-an-olympiad-level-ai-system-for-geometry/</id>
+        <link href="https://deepmind.google/discover/blog/alphageometry-an-olympiad-level-ai-system-for-geometry/"/>
+        <updated>2024-01-17T16:04:32.000Z</updated>
+        <summary type="html"><![CDATA[AlphaGeometry: An Olympiad-level AI system for geometry]]></summary>
+        <author>
+            <name>Google DeepMind Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[When Past Performance Is Indicative Of Future Returns]]></title>
+        <id>https://www.argmin.net/p/when-past-performance-is-indicative</id>
+        <link href="https://www.argmin.net/p/when-past-performance-is-indicative"/>
+        <updated>2024-01-17T15:16:13.000Z</updated>
+        <summary type="html"><![CDATA[External validity is a modeling decision]]></summary>
+        <author>
+            <name>Ben Recht</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[When Past Performance Is Indicative Of Future Returns]]></title>
+        <id>https://www.argmin.net/p/when-past-performance-is-indicative</id>
+        <link href="https://www.argmin.net/p/when-past-performance-is-indicative"/>
+        <updated>2024-01-17T15:16:13.000Z</updated>
+        <summary type="html"><![CDATA[External validity is a modeling decision]]></summary>
+        <author>
+            <name>Ben Recht</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Parsing RNA vaccines]]></title>
         <id>https://languagelog.ldc.upenn.edu/nll/?p=62247</id>
@@ -141,6 +171,21 @@
         <summary type="html"><![CDATA[One Man’s Mission to Revive an Indigenous Language in Argentina This Language Was Long Believed Extinct. Then One Man Spoke Up.  Blas Jaime has spent nearly two decades resurrecting Chaná, an Indigenous language in Argentina that he learned from his mother. Blas Omar Jaime has, in many ways, placed the Chaná Indigenous group back on […]]]></summary>
         <author>
             <name>Victor Mair</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Beware of misleading GPU vs CPU benchmarks]]></title>
+        <id>https://pythonspeed.com/articles/gpu-vs-cpu/</id>
+        <link href="https://pythonspeed.com/articles/gpu-vs-cpu/"/>
+        <updated>2024-01-17T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Do you use NumPy, Pandas, or scikit-learn and want to get faster results?
+Nvidia has created GPU-based replacements for each of these with the shared promise of extra speed.
+For example, if you visit the front page of NVidia’s RAPIDS project, you’ll see benchmarks showing cuDF, a GPU-based Pandas replacement, is 15× to 80× faster than Pandas!
+Unfortunately, while those speed-ups are impressive, they are also misleading.
+GPU-based libraries might be the answer to your performance problems… or they might be an an unnecessary and expensive distraction.
+Read more...]]></summary>
+        <author>
+            <name>Python⇒Speed</name>
         </author>
     </entry>
     <entry>
@@ -2899,49 +2944,6 @@ But of course, exiting the arena is only the first step. Next, people must navig
         <summary type="html"><![CDATA[This is part 2 of the Understanding GPU Memory blog series. Our first post Understanding GPU Memory 1: Visualizing All Allocations over Time shows how to use the memory snapshot tool. In this part, we will use the Memory Snapshot to visualize a GPU memory leak caused by reference cycles, and then locate and remove them in our code using the Reference Cycle Detector.]]></summary>
         <author>
             <name>PyTorch Website</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Two-Layer Neural Networks Learn, One (Giant) Step at a Time]]></title>
-        <id>http://arxiv.org/abs/2305.18270</id>
-        <link href="http://arxiv.org/abs/2305.18270"/>
-        <updated>2023-12-19T04:18:27.944Z</updated>
-        <summary type="html"><![CDATA[Yatin Dandi, Florent Krzakala, Bruno Loureiro, Luca Pesce, Ludovic
-  Stephan]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Geometric structure of Deep Learning networks and construction of global
-  ${\mathcal L}^2$ minimizers]]></title>
-        <id>http://arxiv.org/abs/2309.10639</id>
-        <link href="http://arxiv.org/abs/2309.10639"/>
-        <updated>2023-12-19T04:18:27.940Z</updated>
-        <summary type="html"><![CDATA[Thomas Chen, Patricia Mu\~noz Ewald]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Proximal Mean Field Learning in Shallow Neural Networks]]></title>
-        <id>http://arxiv.org/abs/2210.13879</id>
-        <link href="http://arxiv.org/abs/2210.13879"/>
-        <updated>2023-12-19T04:18:27.937Z</updated>
-        <summary type="html"><![CDATA[Alexis Teter, Iman Nodozi, Abhishek Halder]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Deep Feature Screening: Feature Selection for Ultra High-Dimensional
-  Data via Deep Neural Networks]]></title>
-        <id>http://arxiv.org/abs/2204.01682</id>
-        <link href="http://arxiv.org/abs/2204.01682"/>
-        <updated>2023-12-19T04:18:27.794Z</updated>
-        <summary type="html"><![CDATA[Kexuan Li, Fangfang Wang, Lingli Yang, Ruiqi Liu]]></summary>
-        <author>
-            <name>arxivist feed</name>
         </author>
     </entry>
 </feed>

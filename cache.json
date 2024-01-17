@@ -1344,46 +1344,6 @@
           "wordCount": 744,
           "title": "Efficient Conditionally Invariant Representation Learning",
           "imageUrl": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
-        },
-        {
-          "id": "http://arxiv.org/abs/2305.18270",
-          "author": null,
-          "description": "Yatin Dandi, Florent Krzakala, Bruno Loureiro, Luca Pesce, Ludovic\n  Stephan",
-          "link": "http://arxiv.org/abs/2305.18270",
-          "publishedOn": "2023-12-19T04:18:27.944Z",
-          "wordCount": 839,
-          "title": "How Two-Layer Neural Networks Learn, One (Giant) Step at a Time",
-          "imageUrl": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
-        },
-        {
-          "id": "http://arxiv.org/abs/2309.10639",
-          "author": null,
-          "description": "Thomas Chen, Patricia Mu\\~noz Ewald",
-          "link": "http://arxiv.org/abs/2309.10639",
-          "publishedOn": "2023-12-19T04:18:27.940Z",
-          "wordCount": 755,
-          "title": "Geometric structure of Deep Learning networks and construction of global\n  ${\\mathcal L}^2$ minimizers",
-          "imageUrl": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
-        },
-        {
-          "id": "http://arxiv.org/abs/2210.13879",
-          "author": null,
-          "description": "Alexis Teter, Iman Nodozi, Abhishek Halder",
-          "link": "http://arxiv.org/abs/2210.13879",
-          "publishedOn": "2023-12-19T04:18:27.937Z",
-          "wordCount": 704,
-          "title": "Proximal Mean Field Learning in Shallow Neural Networks",
-          "imageUrl": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
-        },
-        {
-          "id": "http://arxiv.org/abs/2204.01682",
-          "author": null,
-          "description": "Kexuan Li, Fangfang Wang, Lingli Yang, Ruiqi Liu",
-          "link": "http://arxiv.org/abs/2204.01682",
-          "publishedOn": "2023-12-19T04:18:27.794Z",
-          "wordCount": 731,
-          "title": "Deep Feature Screening: Feature Selection for Ultra High-Dimensional\n  Data via Deep Neural Networks",
-          "imageUrl": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
         }
       ]
     },
@@ -1598,6 +1558,22 @@
       "siteUrl": "https://www.argmin.net",
       "articles": [
         {
+          "id": "https://www.argmin.net/p/when-past-performance-is-indicative",
+          "author": "Ben Recht",
+          "description": "External validity is a modeling decision",
+          "link": "https://www.argmin.net/p/when-past-performance-is-indicative",
+          "publishedOn": "2024-01-17T15:16:13.000Z",
+          "wordCount": null,
+          "title": "When Past Performance Is Indicative Of Future Returns",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substack-post-media.s3.amazonaws.com/public/images/1b21d757-2198-4295-9feb-33efb13177b4_446x300.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substack-post-media.s3.amazonaws.com/public/images/1b21d757-2198-4295-9feb-33efb13177b4_446x300.png"
+        },
+        {
           "id": "https://www.argmin.net/p/unfollow-the-science",
           "author": "Ben Recht",
           "description": "Scientists have always lamented the state of scientific communication.",
@@ -1685,6 +1661,16 @@
       "siteUrl": "https://pythonspeed.com/atom.xml",
       "articles": [
         {
+          "id": "https://pythonspeed.com/articles/gpu-vs-cpu/",
+          "author": null,
+          "description": "Do you use NumPy, Pandas, or scikit-learn and want to get faster results?\nNvidia has created GPU-based replacements for each of these with the shared promise of extra speed.\nFor example, if you visit the front page of NVidia’s RAPIDS project, you’ll see benchmarks showing cuDF, a GPU-based Pandas replacement, is 15× to 80× faster than Pandas!\nUnfortunately, while those speed-ups are impressive, they are also misleading.\nGPU-based libraries might be the answer to your performance problems… or they might be an an unnecessary and expensive distraction.\nRead more...",
+          "link": "https://pythonspeed.com/articles/gpu-vs-cpu/",
+          "publishedOn": "2024-01-17T00:00:00.000Z",
+          "wordCount": 923,
+          "title": "Beware of misleading GPU vs CPU benchmarks",
+          "imageUrl": "https://pythonspeed.com/assets/titles/gpu-vs-cpu.png"
+        },
+        {
           "id": "https://pythonspeed.com/articles/numpy-2/",
           "author": null,
           "description": "If you’re writing scientific or data science code with Python, there’s a good chance you’re using NumPy, directly or indirectly.\nPandas, Scikit-Image, SciPy, Scikit-Learn, AstroPy… these and many other packages depend on NumPy.\nNumPy 2 is a new major release, with a release candidate coming out February 1st 2024, and a final release a month or two later.\nImportantly, it’s backwards incompatible; not in a major way, but enough that some work might be required to upgrade.\nAnd that means you need to make sure your application doesn’t break when NumPy 2 comes out.\nIn this article we’ll cover:\nThe different ways the new release might break your application.\nA quick reminder about the importance of pinning packages.\nHow to ensure your application doesn’t install NumPy 2 until you’re ready.\nHow to easily upgrade your code to support NumPy 2.\nRead more...",
@@ -1766,6 +1752,16 @@
       "feedUrl": "https://deepmind.com/blog/feed/basic/",
       "siteUrl": "https://deepmind.google/discover/blog/",
       "articles": [
+        {
+          "id": "https://deepmind.google/discover/blog/alphageometry-an-olympiad-level-ai-system-for-geometry/",
+          "author": null,
+          "description": "AlphaGeometry: An Olympiad-level AI system for geometry",
+          "link": "https://deepmind.google/discover/blog/alphageometry-an-olympiad-level-ai-system-for-geometry/",
+          "publishedOn": "2024-01-17T16:04:32.000Z",
+          "wordCount": 1659,
+          "title": "AlphaGeometry: An Olympiad-level AI system for geometry",
+          "imageUrl": "https://lh3.googleusercontent.com/tVTh_ZCW5Qozy4vOCpMH06B7Ac_eF7fmEULMMTwDellOh6hnOMUtf28toD68N527IHQTlBWfBCHcZykYPMdrS48yvuEcJKMJG8rU3YRM3u5Ojn3JXnc=w1200-h630-n-nu"
+        },
         {
           "id": "https://deepmind.google/discover/blog/shaping-the-future-of-advanced-robotics/",
           "author": null,
@@ -1916,6 +1912,22 @@
       "feedUrl": "https://www.argmin.net/feed.xml",
       "siteUrl": "https://www.argmin.net",
       "articles": [
+        {
+          "id": "https://www.argmin.net/p/when-past-performance-is-indicative",
+          "author": "Ben Recht",
+          "description": "External validity is a modeling decision",
+          "link": "https://www.argmin.net/p/when-past-performance-is-indicative",
+          "publishedOn": "2024-01-17T15:16:13.000Z",
+          "wordCount": null,
+          "title": "When Past Performance Is Indicative Of Future Returns",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substack-post-media.s3.amazonaws.com/public/images/1b21d757-2198-4295-9feb-33efb13177b4_446x300.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substack-post-media.s3.amazonaws.com/public/images/1b21d757-2198-4295-9feb-33efb13177b4_446x300.png"
+        },
         {
           "id": "https://www.argmin.net/p/unfollow-the-science",
           "author": "Ben Recht",
