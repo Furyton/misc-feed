@@ -1852,6 +1852,16 @@
       "siteUrl": "https://pytorch.org/",
       "articles": [
         {
+          "id": "https://pytorch.org/blog/accelerate-pytorch-models/",
+          "author": null,
+          "description": "Overview",
+          "link": "https://pytorch.org/blog/accelerate-pytorch-models/",
+          "publishedOn": "2024-01-18T08:00:00.000Z",
+          "wordCount": 1688,
+          "title": "Accelerate PyTorch Models Using Quantization Techniques with Intel Extension for PyTorch",
+          "imageUrl": "https://pytorch.org/assets/images/social-share.jpg"
+        },
+        {
           "id": "https://pytorch.org/blog/accelerating-triton/",
           "author": null,
           "description": "TL;DR",
