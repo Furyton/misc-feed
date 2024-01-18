@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-18T05:15:13.674Z</updated>
+    <updated>2024-01-18T06:20:53.931Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Expected Utility Networks]]></title>
+        <id>http://arxiv.org/abs/1301.6714</id>
+        <link href="http://arxiv.org/abs/1301.6714"/>
+        <updated>2024-01-18T06:20:34.795Z</updated>
+        <summary type="html"><![CDATA[Pierfrancesco La Mura, Yoav Shoham]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Game Networks]]></title>
         <id>http://arxiv.org/abs/1301.3870</id>
