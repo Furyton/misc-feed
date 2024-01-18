@@ -6,6 +6,56 @@
       "siteUrl": "https://www.arxivist.com",
       "articles": [
         {
+          "id": "http://arxiv.org/abs/1301.3870",
+          "author": null,
+          "description": "Pierfrancesco La Mura",
+          "link": "http://arxiv.org/abs/1301.3870",
+          "publishedOn": "2024-01-18T05:15:04.471Z",
+          "wordCount": 643,
+          "title": "Game Networks",
+          "imageUrl": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/0802.3300",
+          "author": null,
+          "description": "Pierfrancesco La Mura",
+          "link": "http://arxiv.org/abs/0802.3300",
+          "publishedOn": "2024-01-18T05:15:04.466Z",
+          "wordCount": 582,
+          "title": "Projective Expected Utility",
+          "imageUrl": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/1107.0237",
+          "author": null,
+          "description": "Adam Brandenburger, Pierfrancesco La Mura",
+          "link": "http://arxiv.org/abs/1107.0237",
+          "publishedOn": "2024-01-18T05:15:04.455Z",
+          "wordCount": 721,
+          "title": "Team Decision Problems with Classical and Quantum Signals",
+          "imageUrl": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/1406.6532",
+          "author": null,
+          "description": "Tran Vu Khanh, Andrew Raich",
+          "link": "http://arxiv.org/abs/1406.6532",
+          "publishedOn": "2024-01-18T05:15:04.451Z",
+          "wordCount": 641,
+          "title": "Local regularity of the Bergman projection on a class of pseudoconvex\n  domains of finite type",
+          "imageUrl": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/1406.1777",
+          "author": null,
+          "description": "N. Krivulin",
+          "link": "http://arxiv.org/abs/1406.1777",
+          "publishedOn": "2024-01-18T05:15:04.446Z",
+          "wordCount": 654,
+          "title": "Algebraic solutions of tropical optimization problems",
+          "imageUrl": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
           "id": "http://arxiv.org/abs/1710.04335",
           "author": null,
           "description": "Theodore Th. Voronov",
