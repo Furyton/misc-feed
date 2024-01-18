@@ -2495,16 +2495,6 @@
           "wordCount": 31180,
           "title": "2023: A year of groundbreaking advances in AI and computing",
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiU12G_p2DZO4gQ-P95aP2IFvtKRHRG5Oik9VzJ4WtT_VznggjUrL4tTzqto-C8yx6ULgvugKgH9usiZxnKGk97pOFyHWnu-1S4sSbR2Jjq5T36tQRbZucTAP7gmXkGw77xN6s39IKxPaxbo5tw_Cq52ZfPWOCBkWL-2XTuzsIh6viRIqgGcdUdNq-pHjzl/w1200-h630-p-k-no-nu/year_in_review-hero.jpg"
-        },
-        {
-          "id": "http://blog.research.google/2023/12/videopoet-large-language-model-for-zero.html",
-          "author": null,
-          "description": "Posted by Dan Kondratyuk and David Ross, Software Engineers, Google Research\n\n\n\n\nA recent wave of video generation models has burst onto the scene, in many cases showcasing stunning picturesque quality. One of the current bottlenecks in video generation is in the ability to produce coherent large motions. In many cases, even the current leading models either generate small motion or, when producing larger motions, exhibit noticeable artifacts.\n \n\nTo explore the application of language models in video generation, we introduce VideoPoet, a large language model (LLM) that is capable of a wide variety of video generation tasks, including text-to-video, image-to-video, video stylization, video inpainting and outpainting, and video-to-audio. One notable observation is that the leading video gene…",
-          "link": "http://blog.research.google/2023/12/videopoet-large-language-model-for-zero.html",
-          "publishedOn": "2023-12-19T21:08:00.000Z",
-          "wordCount": 28021,
-          "title": "VideoPoet: A large language model for zero-shot video generation",
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFG8pxLk-uvJVPesDUxU7Ox7Tb0VR4lB4jNygxiiIl9gyeX-rgtCb5jhWbPDKGad4d5GkPFr7-uzdZOngFtnPbmV6IurKEd5vHTiLesCvx8RDzBy_5u31e6C93kuirOG8pKcwEBkBrw4TBTzh3WIoX1TZYzYM3M4aj4zYD2r_p5FflI7ntpqoD9fsGQhwO/w1200-h630-p-k-no-nu/videopoetpreview.gif"
         }
       ]
     },

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-18T08:19:18.997Z</updated>
+    <updated>2024-01-18T09:16:07.089Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -2944,24 +2944,6 @@ As ongoing research pushes AI even farther, we look back to our perspective publ
         <summary type="html"><![CDATA[Visit the post for more.]]></summary>
         <author>
             <name>xi'an</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[VideoPoet: A large language model for zero-shot video generation]]></title>
-        <id>http://blog.research.google/2023/12/videopoet-large-language-model-for-zero.html</id>
-        <link href="http://blog.research.google/2023/12/videopoet-large-language-model-for-zero.html"/>
-        <updated>2023-12-19T21:08:00.000Z</updated>
-        <summary type="html"><![CDATA[Posted by Dan Kondratyuk and David Ross, Software Engineers, Google Research
-
-
-
-
-A recent wave of video generation models has burst onto the scene, in many cases showcasing stunning picturesque quality. One of the current bottlenecks in video generation is in the ability to produce coherent large motions. In many cases, even the current leading models either generate small motion or, when producing larger motions, exhibit noticeable artifacts.
- 
-
-To explore the application of language models in video generation, we introduce VideoPoet, a large language model (LLM) that is capable of a wide variety of video generation tasks, including text-to-video, image-to-video, video stylization, video inpainting and outpainting, and video-to-audio. One notable observation is that the leading video gene…]]></summary>
-        <author>
-            <name>Google AI Blog</name>
         </author>
     </entry>
 </feed>
