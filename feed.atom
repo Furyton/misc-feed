@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-19T13:19:12.252Z</updated>
+    <updated>2024-01-19T14:15:16.806Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Language and consciousness]]></title>
+        <id>https://languagelog.ldc.upenn.edu/nll/?p=62258</id>
+        <link href="https://languagelog.ldc.upenn.edu/nll/?p=62258&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=language-and-consciousness"/>
+        <updated>2024-01-19T13:27:54.000Z</updated>
+        <summary type="html"><![CDATA[The current SMBC presents a new (and alarmingly persuasive) theory about the origins of consciousness, in order to explain why Large Language Models are not (yet) conscious: The details of the process: And only the fit survive: So we can predict the path to AI consciousnes: One of the comments: I get it! When Jaynes […]]]></summary>
+        <author>
+            <name>Mark Liberman</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Labeling Neural Representations with Inverse Recognition]]></title>
         <id>http://arxiv.org/abs/2311.13594</id>
