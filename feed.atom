@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-19T21:13:46.091Z</updated>
+    <updated>2024-01-19T22:15:00.779Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -14,6 +14,16 @@
         <summary type="html"><![CDATA[Masterful essay by the Music Director of Symphony Nova Scotia. "Maestro, Maestra, or Holly?" We asked our Music Director Holly Mathieson how she prefers to be referred to on the podium! Her reply may surprise you — or not: The earliest record we have of the Italian term Maestro in connection to music is from […]]]></summary>
         <author>
             <name>Victor Mair</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Deriving the Fokker-Planck equation]]></title>
+        <id>https://parsiad.ca/blog/2024/deriving_the_fokker_planck_equation/</id>
+        <link href="https://parsiad.ca/blog/2024/deriving_the_fokker_planck_equation/"/>
+        <updated>2024-01-19T20:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Motivation]]></summary>
+        <author>
+            <name>Parsiad Azimzadeh</name>
         </author>
     </entry>
     <entry>

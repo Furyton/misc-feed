@@ -1461,7 +1461,18 @@
       "title": "Parsiad Azimzadeh",
       "feedUrl": "http://parsiad.ca/feed.xml",
       "siteUrl": "https://parsiad.ca/",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://parsiad.ca/blog/2024/deriving_the_fokker_planck_equation/",
+          "author": null,
+          "description": "Motivation",
+          "link": "https://parsiad.ca/blog/2024/deriving_the_fokker_planck_equation/",
+          "publishedOn": "2024-01-19T20:00:00.000Z",
+          "wordCount": 269,
+          "title": "Deriving the Fokker-Planck equation",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "Windows On Theory",
