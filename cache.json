@@ -6,6 +6,56 @@
       "siteUrl": "https://www.arxivist.com",
       "articles": [
         {
+          "id": "http://arxiv.org/abs/2311.13594",
+          "author": null,
+          "description": "Kirill Bykov, Laura Kopf, Shinichi Nakajima, Marius Kloft, Marina\n  M.-C. H\\\"ohne",
+          "link": "http://arxiv.org/abs/2311.13594",
+          "publishedOn": "2024-01-19T07:14:24.212Z",
+          "wordCount": 701,
+          "title": "Labeling Neural Representations with Inverse Recognition",
+          "imageUrl": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2311.01356",
+          "author": null,
+          "description": "Paul Geuchen, Thomas Heindl, Dominik St\\\"oger, Felix Voigtlaender",
+          "link": "http://arxiv.org/abs/2311.01356",
+          "publishedOn": "2024-01-19T07:14:24.178Z",
+          "wordCount": 680,
+          "title": "Upper and lower bounds for the Lipschitz constant of random neural\n  networks",
+          "imageUrl": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2303.17045",
+          "author": null,
+          "description": "Vincent Froese, Christoph Hertrich",
+          "link": "http://arxiv.org/abs/2303.17045",
+          "publishedOn": "2024-01-19T07:14:24.163Z",
+          "wordCount": 691,
+          "title": "Training Neural Networks is NP-Hard in Fixed Dimension",
+          "imageUrl": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2306.00788",
+          "author": null,
+          "description": "Runtian Zhai, Bingbin Liu, Andrej Risteski, Zico Kolter, Pradeep\n  Ravikumar",
+          "link": "http://arxiv.org/abs/2306.00788",
+          "publishedOn": "2024-01-19T07:14:24.148Z",
+          "wordCount": 765,
+          "title": "Understanding Augmentation-based Self-Supervised Representation Learning\n  via RKHS Approximation and Regression",
+          "imageUrl": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2401.09787",
+          "author": null,
+          "description": "Seong Jin Cho, Gwangsu Kim, Junghyun Lee, Jinwoo Shin, Chang D.\n  Yoo",
+          "link": "http://arxiv.org/abs/2401.09787",
+          "publishedOn": "2024-01-19T07:14:24.107Z",
+          "wordCount": 703,
+          "title": "Querying Easily Flip-flopped Samples for Deep Active Learning",
+          "imageUrl": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
           "id": "http://arxiv.org/abs/1301.6714",
           "author": null,
           "description": "Pierfrancesco La Mura, Yoav Shoham",

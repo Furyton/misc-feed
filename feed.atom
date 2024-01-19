@@ -2,10 +2,65 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-19T06:20:33.722Z</updated>
+    <updated>2024-01-19T07:14:33.837Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Labeling Neural Representations with Inverse Recognition]]></title>
+        <id>http://arxiv.org/abs/2311.13594</id>
+        <link href="http://arxiv.org/abs/2311.13594"/>
+        <updated>2024-01-19T07:14:24.212Z</updated>
+        <summary type="html"><![CDATA[Kirill Bykov, Laura Kopf, Shinichi Nakajima, Marius Kloft, Marina
+  M.-C. H\"ohne]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Upper and lower bounds for the Lipschitz constant of random neural
+  networks]]></title>
+        <id>http://arxiv.org/abs/2311.01356</id>
+        <link href="http://arxiv.org/abs/2311.01356"/>
+        <updated>2024-01-19T07:14:24.178Z</updated>
+        <summary type="html"><![CDATA[Paul Geuchen, Thomas Heindl, Dominik St\"oger, Felix Voigtlaender]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Training Neural Networks is NP-Hard in Fixed Dimension]]></title>
+        <id>http://arxiv.org/abs/2303.17045</id>
+        <link href="http://arxiv.org/abs/2303.17045"/>
+        <updated>2024-01-19T07:14:24.163Z</updated>
+        <summary type="html"><![CDATA[Vincent Froese, Christoph Hertrich]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Understanding Augmentation-based Self-Supervised Representation Learning
+  via RKHS Approximation and Regression]]></title>
+        <id>http://arxiv.org/abs/2306.00788</id>
+        <link href="http://arxiv.org/abs/2306.00788"/>
+        <updated>2024-01-19T07:14:24.148Z</updated>
+        <summary type="html"><![CDATA[Runtian Zhai, Bingbin Liu, Andrej Risteski, Zico Kolter, Pradeep
+  Ravikumar]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Querying Easily Flip-flopped Samples for Deep Active Learning]]></title>
+        <id>http://arxiv.org/abs/2401.09787</id>
+        <link href="http://arxiv.org/abs/2401.09787"/>
+        <updated>2024-01-19T07:14:24.107Z</updated>
+        <summary type="html"><![CDATA[Seong Jin Cho, Gwangsu Kim, Junghyun Lee, Jinwoo Shin, Chang D.
+  Yoo]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[last exams]]></title>
         <id>http://xianblog.wordpress.com/?p=54965</id>
