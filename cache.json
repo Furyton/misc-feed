@@ -1445,18 +1445,7 @@
       "title": "UCSD Machine Learning Group",
       "feedUrl": "https://ucsdml.github.io//feed.xml",
       "siteUrl": "https://ucsdml.github.io//",
-      "articles": [
-        {
-          "id": "https://ucsdml.github.io//2023/12/22/dyffusion.html",
-          "author": null,
-          "description": "DYffusion forecasts a sequence of $h$ snapshots $\\mathbf{x}_1, \\mathbf{x}_2, \\ldots, \\mathbf{x}_h$ given the initial conditions $\\mathbf{x}_0$ similarly to how standard diffusion models are used to sample from a distribution.",
-          "link": "https://ucsdml.github.io//2023/12/22/dyffusion.html",
-          "publishedOn": "2023-12-22T00:00:00.000Z",
-          "wordCount": 3608,
-          "title": "DYffusion: A Dynamics-informed Diffusion Model for Spatiotemporal Forecasting",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "科学空间|Scientific Spaces",
@@ -1641,18 +1630,7 @@
       "title": "统计之都",
       "feedUrl": "https://cosx.org/index.xml",
       "siteUrl": "https://cosx.org/",
-      "articles": [
-        {
-          "id": "https://cosx.org/2023/12/rehline-for-fastest-svm/",
-          "author": null,
-          "description": "本文由邱怡轩主笔，内容素材源自邱怡轩和戴奔共同讨论的结果。 武林至尊，宝刀屠龙。长久以来，机器学习江湖中一直流传着两件神器——LibSVM 和 L",
-          "link": "https://cosx.org/2023/12/rehline-for-fastest-svm/",
-          "publishedOn": "2023-12-22T00:00:00.000Z",
-          "wordCount": 643,
-          "title": "挑战最快 SVM！ReHLine 算法诞生记",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Sander Dieleman",
@@ -2296,16 +2274,6 @@
           "wordCount": 2185,
           "title": "the suicidal consequences of the immigration law on research and higher education",
           "imageUrl": "https://xianblog.files.wordpress.com/2023/12/demission.png"
-        },
-        {
-          "id": "http://xianblog.wordpress.com/?p=50823",
-          "author": "xi'an",
-          "description": "Gabriel Cardoso and coauthors (among whom Éric Moulines and Achille Thin, with whom I collaborated on the inFINE/NEO algorithm), have arXived a nice entry on a cheap way to reduce bias in the famously biased self-normalised importance sampling estimator. Which is a standard solution when the target density is not normalised. They reconsider a 2004 […]",
-          "link": "https://xianblog.wordpress.com/2023/12/22/bias-reduction-in-self-normalised-importance-sampling/",
-          "publishedOn": "2023-12-21T23:23:16.000Z",
-          "wordCount": 2260,
-          "title": "bias reduction in self-normalised importance sampling",
-          "imageUrl": "https://secure.gravatar.com/blavatar/eee7e3d9c2da9d5b5ec1465920a1fe024c186e86c5cee173529bd882e372fe0c?s=200&ts=1703207185"
         }
       ]
     },

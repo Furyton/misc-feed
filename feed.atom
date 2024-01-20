@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-20T11:12:10.188Z</updated>
+    <updated>2024-01-20T12:27:25.278Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -2780,36 +2780,6 @@ As ongoing research pushes AI even farther, we look back to our perspective publ
         <summary type="html"><![CDATA[Sino-Platonic Papers is pleased to announce the publication of its three-hundred-and-thirty-seventh issue: “Tocharian Bilingualism, Language Shift, and Language Death in the Old Turkic Context,” by Hakan Aydemir. pdf ABSTRACT The death of a language is a sad and dramatic event. It is, however, a fact that many languages died out in the past and are […]]]></summary>
         <author>
             <name>Victor Mair</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DYffusion: A Dynamics-informed Diffusion Model for Spatiotemporal Forecasting]]></title>
-        <id>https://ucsdml.github.io//2023/12/22/dyffusion.html</id>
-        <link href="https://ucsdml.github.io//2023/12/22/dyffusion.html"/>
-        <updated>2023-12-22T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[DYffusion forecasts a sequence of $h$ snapshots $\mathbf{x}_1, \mathbf{x}_2, \ldots, \mathbf{x}_h$ given the initial conditions $\mathbf{x}_0$ similarly to how standard diffusion models are used to sample from a distribution.]]></summary>
-        <author>
-            <name>UCSD Machine Learning Group</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[挑战最快 SVM！ReHLine 算法诞生记]]></title>
-        <id>https://cosx.org/2023/12/rehline-for-fastest-svm/</id>
-        <link href="https://cosx.org/2023/12/rehline-for-fastest-svm/"/>
-        <updated>2023-12-22T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[本文由邱怡轩主笔，内容素材源自邱怡轩和戴奔共同讨论的结果。 武林至尊，宝刀屠龙。长久以来，机器学习江湖中一直流传着两件神器——LibSVM 和 L]]></summary>
-        <author>
-            <name>统计之都</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[bias reduction in self-normalised importance sampling]]></title>
-        <id>http://xianblog.wordpress.com/?p=50823</id>
-        <link href="https://xianblog.wordpress.com/2023/12/22/bias-reduction-in-self-normalised-importance-sampling/"/>
-        <updated>2023-12-21T23:23:16.000Z</updated>
-        <summary type="html"><![CDATA[Gabriel Cardoso and coauthors (among whom Éric Moulines and Achille Thin, with whom I collaborated on the inFINE/NEO algorithm), have arXived a nice entry on a cheap way to reduce bias in the famously biased self-normalised importance sampling estimator. Which is a standard solution when the target density is not normalised. They reconsider a 2004 […]]]></summary>
-        <author>
-            <name>xi'an</name>
         </author>
     </entry>
 </feed>
