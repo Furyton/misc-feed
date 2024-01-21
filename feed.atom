@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-21T15:14:47.464Z</updated>
+    <updated>2024-01-21T16:18:47.211Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[On the Limit of the Linear Programming Bound for Codes and Packing]]></title>
+        <id>http://gilkalai.wordpress.com/?p=24984</id>
+        <link href="https://gilkalai.wordpress.com/2024/01/21/on-the-limit-of-the-linear-programming-bound-for-codes-and-packing/"/>
+        <updated>2024-01-21T15:56:54.000Z</updated>
+        <summary type="html"><![CDATA[Alex Samorodnitsky The most powerful general method for proving upper bounds for the size of error correcting codes and of spherical codes (and sphere packing) is the linear programming method that goes back to Philippe Delsarte. There are very interesting … Continue reading →]]></summary>
+        <author>
+            <name>Gil Kalai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[On the Limit of the Linear Programming Bound for Codes and Packing]]></title>
+        <id>http://gilkalai.wordpress.com/?p=24984</id>
+        <link href="https://gilkalai.wordpress.com/2024/01/21/on-the-limit-of-the-linear-programming-bound-for-codes-and-packing/"/>
+        <updated>2024-01-21T15:56:54.000Z</updated>
+        <summary type="html"><![CDATA[Alex Samorodnitsky The most powerful general method for proving upper bounds for the size of error correcting codes and of spherical codes (and sphere packing) is the linear programming method that goes back to Philippe Delsarte. There are very interesting … Continue reading →]]></summary>
+        <author>
+            <name>Gil Kalai</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Garden path of the day]]></title>
         <id>https://languagelog.ldc.upenn.edu/nll/?p=62294</id>
