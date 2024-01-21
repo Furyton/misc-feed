@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-21T13:17:52.565Z</updated>
+    <updated>2024-01-21T14:13:27.296Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -2645,26 +2645,6 @@ Intel 做手机芯片被拒绝，再加上一系列其他的决策失误，Intel
         <summary type="html"><![CDATA[Visit the post for more.]]></summary>
         <author>
             <name>xi'an</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Emergent abilities and grokking: Fundamental, Mirage, or both?]]></title>
-        <id>http://windowsontheory.org/?p=8731</id>
-        <link href="https://windowsontheory.org/2023/12/22/emergent-abilities-and-grokking-fundamental-mirage-or-both/"/>
-        <updated>2023-12-23T01:41:22.000Z</updated>
-        <summary type="html"><![CDATA[One of the lessons we have seen in language modeling is the power of scale. The original GPT paper of Radford et al. noted that at some point during training, the model “acquired” the ability to do sentiment analysis of a sentence X by predicting whether it is more likely to be followed by “very … Continue reading Emergent abilities and grokking: Fundamental, Mirage, or both?]]></summary>
-        <author>
-            <name>Boaz Barak</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Emergent abilities and grokking: Fundamental, Mirage, or both?]]></title>
-        <id>http://windowsontheory.org/?p=8731</id>
-        <link href="https://windowsontheory.org/2023/12/22/emergent-abilities-and-grokking-fundamental-mirage-or-both/"/>
-        <updated>2023-12-23T01:41:22.000Z</updated>
-        <summary type="html"><![CDATA[One of the lessons we have seen in language modeling is the power of scale. The original GPT paper of Radford et al. noted that at some point during training, the model “acquired” the ability to do sentiment analysis of a sentence X by predicting whether it is more likely to be followed by “very … Continue reading Emergent abilities and grokking: Fundamental, Mirage, or both?]]></summary>
-        <author>
-            <name>Boaz Barak</name>
         </author>
     </entry>
 </feed>
