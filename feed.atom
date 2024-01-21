@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-21T18:19:00.387Z</updated>
+    <updated>2024-01-21T19:12:15.967Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Another garden path]]></title>
+        <id>https://languagelog.ldc.upenn.edu/nll/?p=62297</id>
+        <link href="https://languagelog.ldc.upenn.edu/nll/?p=62297&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=another-garden-path"/>
+        <updated>2024-01-21T18:55:04.000Z</updated>
+        <summary type="html"><![CDATA[…this one in a headline — Toby Helm, "Sadiq Khan: 'Free young people from Brexit work and travel ban", The Guardian 1/20/2024. Philip Taylor, who sent in the link, wrote: I read it five times as ‘Free young people from (Brexit work) and (travel ban)’ before finally realising that it had to be parsed as […]]]></summary>
+        <author>
+            <name>Mark Liberman</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[On the Limit of the Linear Programming Bound for Codes and Packing]]></title>
         <id>http://gilkalai.wordpress.com/?p=24984</id>
