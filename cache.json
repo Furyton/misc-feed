@@ -1690,7 +1690,18 @@
       "title": "Andrej Karpathy blog",
       "feedUrl": "https://karpathy.github.io/feed.xml",
       "siteUrl": "http://karpathy.github.io/",
-      "articles": []
+      "articles": [
+        {
+          "id": "http://karpathy.github.io/2024/01/21/selfdriving-agi/",
+          "author": null,
+          "description": "Sparked by progress in Large Language Models (LLMs), there’s a lot of chatter recently about AGI, its timelines, and what it might look like. Some of it is hopeful and optimistic, but a lot of it is fearful and doomy, to put it mildly. Unfortunately, a lot of it is also very abstract, which causes people to speak past each other in circles. Therefore, I’m always on a lookout for concrete analogies and historical precedents that can help explore the topic in more grounded terms. In particular, when I am asked about what I think AGI will look like, I personally like to point to self-driving. In this post, I’d like to explain why. Let’s start with one common definition of AGI:\nAGI: An autonomous system that surpasses human capabilities in the majority of economically valuable work.\nNote that …",
+          "link": "http://karpathy.github.io/2024/01/21/selfdriving-agi/",
+          "publishedOn": "2024-01-21T05:00:00.000Z",
+          "wordCount": 2349,
+          "title": "Self-driving as a case study for AGI",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "colah's blog",
@@ -1934,6 +1945,16 @@
       "feedUrl": "https://xianblog.wordpress.com/feed/",
       "siteUrl": "https://xianblog.wordpress.com",
       "articles": [
+        {
+          "id": "http://xianblog.wordpress.com/?p=54983",
+          "author": "xi'an",
+          "description": "The next [on-line] One World Approximate Bayesian Computation (ABC) Seminar will be delivered by Antoine Luciano, currently writing his PhD with Robin Ryder and I. It will take place at 9am, UK/GMT time, on Thursday 25 January, with members of the stats lab here in CEREMADE attending Antoine’s lecture live at the PariSanté campus. Here […]",
+          "link": "https://xianblog.wordpress.com/2024/01/22/insufficient-gibbs-at-one-world-abc-25-01/",
+          "publishedOn": "2024-01-21T23:24:52.000Z",
+          "wordCount": 2436,
+          "title": "insufficient Gibbs at One World ABC [25/01]",
+          "imageUrl": "https://xianblog.files.wordpress.com/2022/08/1661752522669-e1661752656324.jpg?w=768"
+        },
         {
           "id": "http://xianblog.wordpress.com/?p=54817",
           "author": "xi'an",
