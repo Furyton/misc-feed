@@ -1936,6 +1936,16 @@
       "siteUrl": "https://xianblog.wordpress.com",
       "articles": [
         {
+          "id": "http://xianblog.wordpress.com/?p=54996",
+          "author": "xi'an",
+          "description": "My PhD student Charly Andral [presented at the mostly Monte Carlo seminar and] arXived a new preprint yesterday, on training a normalizing flow network as an importance sampler (as in Gabrié et al.) or an independent Metropolis proposal, and exploiting its invertibility to call quasi-Monte Carlo low discrepancy sequences to boost its efficiency. (Training the […]",
+          "link": "https://xianblog.wordpress.com/2024/01/23/combining-normalizing-flows-and-qmc/",
+          "publishedOn": "2024-01-22T23:24:38.000Z",
+          "wordCount": 2523,
+          "title": "combining normalizing flows and QMC",
+          "imageUrl": "https://xianblog.files.wordpress.com/2024/01/temp-8.png"
+        },
+        {
           "id": "http://xianblog.wordpress.com/?p=54983",
           "author": "xi'an",
           "description": "The next [on-line] One World Approximate Bayesian Computation (ABC) Seminar will be delivered by Antoine Luciano, currently writing his PhD with Robin Ryder and I. It will take place at 9am, UK/GMT time, on Thursday 25 January, with members of the stats lab here in CEREMADE attending Antoine’s lecture live at the PariSanté campus. Here […]",
