@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-23T19:12:37.245Z</updated>
+    <updated>2024-01-23T20:17:02.731Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -34,6 +34,16 @@
         <summary type="html"><![CDATA[A matter that requires nuancing: Language matters: how normative expressions shape norm perception and affect norm compliance Jinyi Kuang and Cristina Bicchieri Philosophical Transactions of the Royal Society B: Biological Sciences Published: 22 January 2024  https://doi.org/10.1098/rstb.2023.0037 Here's the Abstract of this thought-provoking paper: Previous studies have used various normative expressions such as ‘should’, ‘appropriate’ and […]]]></summary>
         <author>
             <name>Victor Mair</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Accelerating Generative AI with PyTorch IV: Seamless M4T, fast]]></title>
+        <id>https://pytorch.org/blog/accelerating-generative-ai-4/</id>
+        <link href="https://pytorch.org/blog/accelerating-generative-ai-4/"/>
+        <updated>2024-01-23T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[This post is the fourth part of a multi-series blog focused on how to accelerate generative AI models with pure, native PyTorch. To skip to the code, check out our github (seamless_communication, fairseq2). We are excited to share a breadth of newly released PyTorch performance features alongside practical examples to see how far we can push PyTorch native performance. In part one, we showed how to accelerate Segment Anything over 8x using only pure, native PyTorch. In part two, we showed how to accelerate Llama-7B by almost 10x using only native PyTorch optimizations. In part three, we showed how to accelerate text-to-image diffusion models up to 3x using only native Pytorch optimizations.]]></summary>
+        <author>
+            <name>PyTorch Website</name>
         </author>
     </entry>
     <entry>
