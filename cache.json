@@ -6,6 +6,56 @@
       "siteUrl": "https://www.arxivist.com",
       "articles": [
         {
+          "id": "http://arxiv.org/abs/2401.12923",
+          "author": null,
+          "description": "Christian Yeo",
+          "link": "http://arxiv.org/abs/2401.12923",
+          "publishedOn": "2024-01-24T05:15:11.783Z",
+          "wordCount": 629,
+          "title": "Deep multitask neural networks for solving some stochastic optimal\n  control problems",
+          "imageUrl": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2401.12476",
+          "author": null,
+          "description": "Nicholas Galioto, Harsh Sharma, Boris Kramer, Alex Arkady Gorodetsky",
+          "link": "http://arxiv.org/abs/2401.12476",
+          "publishedOn": "2024-01-24T05:15:10.802Z",
+          "wordCount": 732,
+          "title": "Bayesian identification of nonseparable Hamiltonians with multiplicative\n  noise using deep learning and reduced-order modeling",
+          "imageUrl": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2310.18304",
+          "author": null,
+          "description": "Chengpiao Huang, Kaizheng Wang",
+          "link": "http://arxiv.org/abs/2310.18304",
+          "publishedOn": "2024-01-24T05:15:10.793Z",
+          "wordCount": 649,
+          "title": "A Stability Principle for Learning under Non-Stationarity",
+          "imageUrl": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2401.12708",
+          "author": null,
+          "description": "Andrea Pugnana, Lorenzo Perini, Jesse Davis, Salvatore\n  Ruggieri",
+          "link": "http://arxiv.org/abs/2401.12708",
+          "publishedOn": "2024-01-24T05:15:10.783Z",
+          "wordCount": 744,
+          "title": "Deep Neural Network Benchmarks for Selective Classification",
+          "imageUrl": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2401.12340",
+          "author": null,
+          "description": "Shoaib Meraj Sami, Md Mahedi Hasan, Nasser M. Nasrabadi, Raghuveer Rao",
+          "link": "http://arxiv.org/abs/2401.12340",
+          "publishedOn": "2024-01-24T05:15:10.779Z",
+          "wordCount": 817,
+          "title": "Contrastive Learning and Cycle Consistency-based Transductive Transfer\n  Learning for Target Annotation",
+          "imageUrl": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
           "id": "http://arxiv.org/abs/1007.2538",
           "author": null,
           "description": "Vladan Pankovic",
