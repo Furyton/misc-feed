@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-24T22:15:06.211Z</updated>
+    <updated>2024-01-24T23:15:39.479Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -2755,17 +2755,6 @@ Intel 做手机芯片被拒绝，再加上一系列其他的决策失误，Intel
         <updated>2023-12-26T23:23:39.000Z</updated>
         <author>
             <name>xi'an</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Convergence Analysis of Sequential Federated Learning on Heterogeneous
-  Data]]></title>
-        <id>http://arxiv.org/abs/2311.03154</id>
-        <link href="http://arxiv.org/abs/2311.03154"/>
-        <updated>2023-12-26T03:15:57.071Z</updated>
-        <summary type="html"><![CDATA[Yipeng Li, Xinchen Lyu]]></summary>
-        <author>
-            <name>arxivist feed</name>
         </author>
     </entry>
 </feed>
