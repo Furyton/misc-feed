@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-24T11:13:54.860Z</updated>
+    <updated>2024-01-24T12:30:38.677Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Back to Bacon]]></title>
+        <id>https://languagelog.ldc.upenn.edu/nll/?p=62325</id>
+        <link href="https://languagelog.ldc.upenn.edu/nll/?p=62325&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=back-to-bacon"/>
+        <updated>2024-01-24T12:27:14.000Z</updated>
+        <summary type="html"><![CDATA[The implicit slogan of language-model research is J.R. Firth's dictum, "You shall know a word by the company it keeps", from his 1957 paper "A synopsis of linguistic theory, 1930-1955": As the Wikipedia article explains, His theory that "you shall know a word by the company it keeps" / "a word is characterized by the […]]]></summary>
+        <author>
+            <name>Mark Liberman</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[the academic integrity flow chart]]></title>
         <id>http://xianblog.wordpress.com/?p=54229</id>
@@ -2736,16 +2746,6 @@ Intel 做手机芯片被拒绝，再加上一系列其他的决策失误，Intel
         <summary type="html"><![CDATA[Yipeng Li, Xinchen Lyu]]></summary>
         <author>
             <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[simulating the maximum of Rayleigh variates]]></title>
-        <id>http://xianblog.wordpress.com/?p=54529</id>
-        <link href="https://xianblog.wordpress.com/2023/12/26/simulating-the-maximum-of-rayleigh-variates/"/>
-        <updated>2023-12-25T23:23:56.000Z</updated>
-        <summary type="html"><![CDATA[An X validated question on an efficient way to simulate the largest order statistics of a Rayleigh (large) sample. Named after the 1904 Nobel recipient, John Strutt. This is not a commonly used distribution in statistics, since it coincides with the χ2 distribution. Anyway, thanks to its compact, closed form cdf, the largest order statistics […]]]></summary>
-        <author>
-            <name>xi'an</name>
         </author>
     </entry>
 </feed>

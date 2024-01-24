@@ -2306,16 +2306,6 @@
           "wordCount": 2181,
           "title": "36 hours in Oaxaca [for a future workshop]",
           "imageUrl": "https://xianblog.files.wordpress.com/2021/11/oaxaca271163-e1638060092721.jpg"
-        },
-        {
-          "id": "http://xianblog.wordpress.com/?p=54529",
-          "author": "xi'an",
-          "description": "An X validated question on an efficient way to simulate the largest order statistics of a Rayleigh (large) sample. Named after the 1904 Nobel recipient, John Strutt. This is not a commonly used distribution in statistics, since it coincides with the χ2 distribution. Anyway, thanks to its compact, closed form cdf, the largest order statistics […]",
-          "link": "https://xianblog.wordpress.com/2023/12/26/simulating-the-maximum-of-rayleigh-variates/",
-          "publishedOn": "2023-12-25T23:23:56.000Z",
-          "wordCount": 2183,
-          "title": "simulating the maximum of Rayleigh variates",
-          "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Lord_Rayleigh_Vanity_Fair_21_December_1899.jpg/800px-Lord_Rayleigh_Vanity_Fair_21_December_1899.jpg"
         }
       ]
     },
@@ -2389,6 +2379,16 @@
       "feedUrl": "https://languagelog.ldc.upenn.edu/nll/?feed=rss2",
       "siteUrl": "https://languagelog.ldc.upenn.edu/nll",
       "articles": [
+        {
+          "id": "https://languagelog.ldc.upenn.edu/nll/?p=62325",
+          "author": "Mark Liberman",
+          "description": "The implicit slogan of language-model research is J.R. Firth's dictum, \"You shall know a word by the company it keeps\", from his 1957 paper \"A synopsis of linguistic theory, 1930-1955\": As the Wikipedia article explains, His theory that \"you shall know a word by the company it keeps\" / \"a word is characterized by the […]",
+          "link": "https://languagelog.ldc.upenn.edu/nll/?p=62325&utm_source=rss&utm_medium=rss&utm_campaign=back-to-bacon",
+          "publishedOn": "2024-01-24T12:27:14.000Z",
+          "wordCount": 2170,
+          "title": "Back to Bacon",
+          "imageUrl": null
+        },
         {
           "id": "https://languagelog.ldc.upenn.edu/nll/?p=62311",
           "author": "Victor Mair",
