@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-24T08:20:32.496Z</updated>
+    <updated>2024-01-24T09:16:20.300Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -2746,16 +2746,6 @@ Intel 做手机芯片被拒绝，再加上一系列其他的决策失误，Intel
         <summary type="html"><![CDATA[An X validated question on an efficient way to simulate the largest order statistics of a Rayleigh (large) sample. Named after the 1904 Nobel recipient, John Strutt. This is not a commonly used distribution in statistics, since it coincides with the χ2 distribution. Anyway, thanks to its compact, closed form cdf, the largest order statistics […]]]></summary>
         <author>
             <name>xi'an</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Declining English in the Land of the Rising Sun]]></title>
-        <id>https://languagelog.ldc.upenn.edu/nll/?p=61910</id>
-        <link href="https://languagelog.ldc.upenn.edu/nll/?p=61910&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=declining-english-in-the-land-of-the-rising-sun"/>
-        <updated>2023-12-25T21:05:39.000Z</updated>
-        <summary type="html"><![CDATA[Shocking (to me) news: "Japan’s English Proficiency Continues to Drop Among Non-English-Speaking Countries" nippon.com (Dec 4, 2023) A survey found that Japan currently ranks eighty-seventh out of 113 non-English-speaking countries and regions for English language abilities. This is a fall of seven places from last year and relatively low among Asian countries. I'm dubious that […]]]></summary>
-        <author>
-            <name>Victor Mair</name>
         </author>
     </entry>
 </feed>
