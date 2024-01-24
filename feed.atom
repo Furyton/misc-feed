@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-24T07:15:06.343Z</updated>
+    <updated>2024-01-24T08:20:32.496Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[the academic integrity flow chart]]></title>
+        <id>http://xianblog.wordpress.com/?p=54229</id>
+        <link href="https://xianblog.wordpress.com/2024/01/24/the-academic-integrity-flow-chart/"/>
+        <updated>2024-01-24T07:24:16.000Z</updated>
+        <summary type="html"><![CDATA[This year, I received a summer project dissertation at Warwick (among several I supervised) that was a direct aggregation of three main papers on the project topic, including advanced simulations that were clearly beyond the reach of a summer project. Especially when the perpetrator only attended a very few supervision sessions among those I proposed.With […]]]></summary>
+        <author>
+            <name>xi'an</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Deep multitask neural networks for solving some stochastic optimal
   control problems]]></title>

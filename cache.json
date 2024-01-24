@@ -2018,6 +2018,16 @@
       "siteUrl": "https://xianblog.wordpress.com",
       "articles": [
         {
+          "id": "http://xianblog.wordpress.com/?p=54229",
+          "author": "xi'an",
+          "description": "This year, I received a summer project dissertation at Warwick (among several I supervised) that was a direct aggregation of three main papers on the project topic, including advanced simulations that were clearly beyond the reach of a summer project. Especially when the perpetrator only attended a very few supervision sessions among those I proposed.With […]",
+          "link": "https://xianblog.wordpress.com/2024/01/24/the-academic-integrity-flow-chart/",
+          "publishedOn": "2024-01-24T07:24:16.000Z",
+          "wordCount": 2467,
+          "title": "the academic integrity flow chart",
+          "imageUrl": "https://xianblog.files.wordpress.com/2023/10/warwinteg4.png"
+        },
+        {
           "id": "http://xianblog.wordpress.com/?p=54996",
           "author": "xi'an",
           "description": "My PhD student Charly Andral [presented at the mostly Monte Carlo seminar and] arXived a new preprint yesterday, on training a normalizing flow network as an importance sampler (as in Gabrié et al.) or an independent Metropolis proposal, and exploiting its invertibility to call quasi-Monte Carlo low discrepancy sequences to boost its efficiency. (Training the […]",
