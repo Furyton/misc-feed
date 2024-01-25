@@ -2,10 +2,73 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-25T03:16:24.848Z</updated>
+    <updated>2024-01-25T04:19:46.830Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Probabilistic Demand Forecasting with Graph Neural Networks]]></title>
+        <id>http://arxiv.org/abs/2401.13096</id>
+        <link href="http://arxiv.org/abs/2401.13096"/>
+        <updated>2024-01-25T04:19:46.798Z</updated>
+        <summary type="html"><![CDATA[Nikita Kozodoi, Elizaveta Zinovyeva, Simon Valentin, Jo\~ao Pereira,
+  Rodrigo Agundez]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Deep Latent Force Models: ODE-based Process Convolutions for Bayesian
+  Deep Learning]]></title>
+        <id>http://arxiv.org/abs/2311.14828</id>
+        <link href="http://arxiv.org/abs/2311.14828"/>
+        <updated>2024-01-25T04:19:46.668Z</updated>
+        <summary type="html"><![CDATA[Thomas Baldwin-McDonald, Mauricio A. \'Alvarez]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Differentially Private Distributed Estimation and Learning]]></title>
+        <id>http://arxiv.org/abs/2306.15865</id>
+        <link href="http://arxiv.org/abs/2306.15865"/>
+        <updated>2024-01-25T04:19:46.664Z</updated>
+        <summary type="html"><![CDATA[Marios Papachristou, M. Amin Rahimian]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Can overfitted deep neural networks in adversarial training generalize?
+  -- An approximation viewpoint]]></title>
+        <id>http://arxiv.org/abs/2401.13624</id>
+        <link href="http://arxiv.org/abs/2401.13624"/>
+        <updated>2024-01-25T04:19:46.538Z</updated>
+        <summary type="html"><![CDATA[Zhongjie Shi, Fanghui Liu, Yuan Cao, Johan A.K. Suykens]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Full Bayesian Significance Testing for Neural Networks]]></title>
+        <id>http://arxiv.org/abs/2401.13335</id>
+        <link href="http://arxiv.org/abs/2401.13335"/>
+        <updated>2024-01-25T04:19:46.528Z</updated>
+        <summary type="html"><![CDATA[Zehua Liu, Zimeng Li, Jingyuan Wang, Yue He]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Inclusivity]]></title>
+        <id>https://languagelog.ldc.upenn.edu/nll/?p=62314</id>
+        <link href="https://languagelog.ldc.upenn.edu/nll/?p=62314&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=inclusivity"/>
+        <updated>2024-01-25T03:21:18.000Z</updated>
+        <summary type="html"><![CDATA[From Jess DeMarco: This is the de Young Museum in San Francisco, doubling down the -x construction for Spanish: Bienvenidxs. Are most Spanish speakers ok with this? I also note that none of the Chinese language materials use simplified characters (viz., huānyíng 歡迎 but not 欢迎).  Is this a snub against the mainland? They do feature […]]]></summary>
+        <author>
+            <name>Victor Mair</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Mental health prevention]]></title>
         <id>https://languagelog.ldc.upenn.edu/nll/?p=62308</id>

@@ -6,6 +6,56 @@
       "siteUrl": "https://www.arxivist.com",
       "articles": [
         {
+          "id": "http://arxiv.org/abs/2401.13096",
+          "author": null,
+          "description": "Nikita Kozodoi, Elizaveta Zinovyeva, Simon Valentin, Jo\\~ao Pereira,\n  Rodrigo Agundez",
+          "link": "http://arxiv.org/abs/2401.13096",
+          "publishedOn": "2024-01-25T04:19:46.798Z",
+          "wordCount": 677,
+          "title": "Probabilistic Demand Forecasting with Graph Neural Networks",
+          "imageUrl": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2311.14828",
+          "author": null,
+          "description": "Thomas Baldwin-McDonald, Mauricio A. \\'Alvarez",
+          "link": "http://arxiv.org/abs/2311.14828",
+          "publishedOn": "2024-01-25T04:19:46.668Z",
+          "wordCount": 709,
+          "title": "Deep Latent Force Models: ODE-based Process Convolutions for Bayesian\n  Deep Learning",
+          "imageUrl": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2306.15865",
+          "author": null,
+          "description": "Marios Papachristou, M. Amin Rahimian",
+          "link": "http://arxiv.org/abs/2306.15865",
+          "publishedOn": "2024-01-25T04:19:46.664Z",
+          "wordCount": 810,
+          "title": "Differentially Private Distributed Estimation and Learning",
+          "imageUrl": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2401.13624",
+          "author": null,
+          "description": "Zhongjie Shi, Fanghui Liu, Yuan Cao, Johan A.K. Suykens",
+          "link": "http://arxiv.org/abs/2401.13624",
+          "publishedOn": "2024-01-25T04:19:46.538Z",
+          "wordCount": 761,
+          "title": "Can overfitted deep neural networks in adversarial training generalize?\n  -- An approximation viewpoint",
+          "imageUrl": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2401.13335",
+          "author": null,
+          "description": "Zehua Liu, Zimeng Li, Jingyuan Wang, Yue He",
+          "link": "http://arxiv.org/abs/2401.13335",
+          "publishedOn": "2024-01-25T04:19:46.528Z",
+          "wordCount": 657,
+          "title": "Full Bayesian Significance Testing for Neural Networks",
+          "imageUrl": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
           "id": "http://arxiv.org/abs/2401.12923",
           "author": null,
           "description": "Christian Yeo",
@@ -2411,6 +2461,16 @@
       "feedUrl": "https://languagelog.ldc.upenn.edu/nll/?feed=rss2",
       "siteUrl": "https://languagelog.ldc.upenn.edu/nll",
       "articles": [
+        {
+          "id": "https://languagelog.ldc.upenn.edu/nll/?p=62314",
+          "author": "Victor Mair",
+          "description": "From Jess DeMarco: This is the de Young Museum in San Francisco, doubling down the -x construction for Spanish: Bienvenidxs. Are most Spanish speakers ok with this? I also note that none of the Chinese language materials use simplified characters (viz., huānyíng 歡迎 but not 欢迎).  Is this a snub against the mainland? They do feature […]",
+          "link": "https://languagelog.ldc.upenn.edu/nll/?p=62314&utm_source=rss&utm_medium=rss&utm_campaign=inclusivity",
+          "publishedOn": "2024-01-25T03:21:18.000Z",
+          "wordCount": 2210,
+          "title": "Inclusivity",
+          "imageUrl": null
+        },
         {
           "id": "https://languagelog.ldc.upenn.edu/nll/?p=62308",
           "author": "Victor Mair",
