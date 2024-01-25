@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-25T14:15:30.355Z</updated>
+    <updated>2024-01-25T15:17:15.388Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Euphemism satire]]></title>
+        <id>https://languagelog.ldc.upenn.edu/nll/?p=62342</id>
+        <link href="https://languagelog.ldc.upenn.edu/nll/?p=62342&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=euphemism-satire"/>
+        <updated>2024-01-25T15:08:00.000Z</updated>
+        <summary type="html"><![CDATA[On today's NPR Morning Edition, there was segment about a new TV show that parodies NPR :"New Peacock comedy 'In the Know' parodies NPR". And the featured aspect involves 41 seconds of dueling euphemisms: Your browser does not support the audio element. For some useful linguistic background, see John McWhorter's 2016 essay "Euphemize this". There […]]]></summary>
+        <author>
+            <name>Mark Liberman</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Probabilistic Demand Forecasting with Graph Neural Networks]]></title>
         <id>http://arxiv.org/abs/2401.13096</id>
