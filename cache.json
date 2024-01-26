@@ -6,6 +6,56 @@
       "siteUrl": "https://www.arxivist.com",
       "articles": [
         {
+          "id": "http://arxiv.org/abs/1904.10850",
+          "author": null,
+          "description": "Jurek Czyzowicz, Dariusz Dereniowski, Andrzej Pelc",
+          "link": "http://arxiv.org/abs/1904.10850",
+          "publishedOn": "2024-01-26T08:17:51.498Z",
+          "wordCount": 725,
+          "title": "Building a Nest by an Automaton",
+          "imageUrl": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/1704.00431",
+          "author": null,
+          "description": "Or Hershkovits, Brian White",
+          "link": "http://arxiv.org/abs/1704.00431",
+          "publishedOn": "2024-01-26T08:17:51.482Z",
+          "wordCount": 665,
+          "title": "Non-fattening of mean curvature flow at singularities of mean convex\n  type",
+          "imageUrl": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/hep-th/0509037",
+          "author": null,
+          "description": "Varghese Mathai, David Roberts",
+          "link": "http://arxiv.org/abs/hep-th/0509037",
+          "publishedOn": "2024-01-26T08:17:51.177Z",
+          "wordCount": 657,
+          "title": "RETRACTED: Yang-Mills theory for bundle gerbes",
+          "imageUrl": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/1907.09917",
+          "author": null,
+          "description": "C. Baumgarten",
+          "link": "http://arxiv.org/abs/1907.09917",
+          "publishedOn": "2024-01-26T08:17:50.952Z",
+          "wordCount": 552,
+          "title": "A Two-Page \"Derivation\" of Schroedinger's Equation",
+          "imageUrl": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/1912.04647",
+          "author": null,
+          "description": "Yoshinosuke Hirakawa",
+          "link": "http://arxiv.org/abs/1912.04647",
+          "publishedOn": "2024-01-26T08:17:50.919Z",
+          "wordCount": 660,
+          "title": "Quadratic fields, Artin-Schreier extensions, and Bell numbers",
+          "imageUrl": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
           "id": "http://arxiv.org/abs/2401.14109",
           "author": null,
           "description": "Andrei Tomut, Saeed S. Jahromi, Sukhbinder Singh, Faysal Ishtiaq,\n  Cesar Mu\\~noz, Prabdeep Singh Bajaj, Ali Elborady, Gianni del Bimbo, Mehrazin\n  Alizadeh, David Montero, Pablo Martin-Ramiro, Muhammad Ibrahim, Oussama\n  Tahiri Alaoui, John Malcolm, Samuel Mugel, Roman Orus",
@@ -1481,6 +1531,16 @@
       "feedUrl": "https://kexue.fm/feed/",
       "siteUrl": "https://kexue.fm/",
       "articles": [
+        {
+          "id": "https://kexue.fm/archives/9948",
+          "author": "苏剑林",
+          "description": "回过头来看，才发现从第7篇《Transformer升级之路：7、长度外推性与局部注意力》开始，“Transformer升级之路”这个系列就跟长度外推“杠”上了，接连9篇文章（不算本文）都是围绕长...",
+          "link": "https://kexue.fm/archives/9948",
+          "publishedOn": "2024-01-26T08:09:00.000Z",
+          "wordCount": 2157,
+          "title": "Transformer升级之路：16、长度外推方法的“复盘”",
+          "imageUrl": null
+        },
         {
           "id": "https://kexue.fm/archives/9938",
           "author": "苏剑林",

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-26T07:13:08.250Z</updated>
+    <updated>2024-01-26T08:18:02.379Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -13,6 +13,67 @@
         <updated>2024-01-26T14:00:00.000Z</updated>
         <author>
             <name>Harvard ML Foundations</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building a Nest by an Automaton]]></title>
+        <id>http://arxiv.org/abs/1904.10850</id>
+        <link href="http://arxiv.org/abs/1904.10850"/>
+        <updated>2024-01-26T08:17:51.498Z</updated>
+        <summary type="html"><![CDATA[Jurek Czyzowicz, Dariusz Dereniowski, Andrzej Pelc]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Non-fattening of mean curvature flow at singularities of mean convex
+  type]]></title>
+        <id>http://arxiv.org/abs/1704.00431</id>
+        <link href="http://arxiv.org/abs/1704.00431"/>
+        <updated>2024-01-26T08:17:51.482Z</updated>
+        <summary type="html"><![CDATA[Or Hershkovits, Brian White]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RETRACTED: Yang-Mills theory for bundle gerbes]]></title>
+        <id>http://arxiv.org/abs/hep-th/0509037</id>
+        <link href="http://arxiv.org/abs/hep-th/0509037"/>
+        <updated>2024-01-26T08:17:51.177Z</updated>
+        <summary type="html"><![CDATA[Varghese Mathai, David Roberts]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Two-Page "Derivation" of Schroedinger's Equation]]></title>
+        <id>http://arxiv.org/abs/1907.09917</id>
+        <link href="http://arxiv.org/abs/1907.09917"/>
+        <updated>2024-01-26T08:17:50.952Z</updated>
+        <summary type="html"><![CDATA[C. Baumgarten]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Quadratic fields, Artin-Schreier extensions, and Bell numbers]]></title>
+        <id>http://arxiv.org/abs/1912.04647</id>
+        <link href="http://arxiv.org/abs/1912.04647"/>
+        <updated>2024-01-26T08:17:50.919Z</updated>
+        <summary type="html"><![CDATA[Yoshinosuke Hirakawa]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Transformer升级之路：16、长度外推方法的“复盘”]]></title>
+        <id>https://kexue.fm/archives/9948</id>
+        <link href="https://kexue.fm/archives/9948"/>
+        <updated>2024-01-26T08:09:00.000Z</updated>
+        <summary type="html"><![CDATA[回过头来看，才发现从第7篇《Transformer升级之路：7、长度外推性与局部注意力》开始，“Transformer升级之路”这个系列就跟长度外推“杠”上了，接连9篇文章（不算本文）都是围绕长...]]></summary>
+        <author>
+            <name>苏剑林</name>
         </author>
     </entry>
     <entry>
