@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-26T03:16:17.244Z</updated>
+    <updated>2024-01-26T04:18:57.379Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -13,6 +13,63 @@
         <updated>2024-01-26T14:00:00.000Z</updated>
         <author>
             <name>Harvard ML Foundations</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CompactifAI: Extreme Compression of Large Language Models using
+  Quantum-Inspired Tensor Networks]]></title>
+        <id>http://arxiv.org/abs/2401.14109</id>
+        <link href="http://arxiv.org/abs/2401.14109"/>
+        <updated>2024-01-26T04:18:48.455Z</updated>
+        <summary type="html"><![CDATA[Andrei Tomut, Saeed S. Jahromi, Sukhbinder Singh, Faysal Ishtiaq,
+  Cesar Mu\~noz, Prabdeep Singh Bajaj, Ali Elborady, Gianni del Bimbo, Mehrazin
+  Alizadeh, David Montero, Pablo Martin-Ramiro, Muhammad Ibrahim, Oussama
+  Tahiri Alaoui, John Malcolm, Samuel Mugel, Roman Orus]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Transfer Learning for Contextual Multi-armed Bandits]]></title>
+        <id>http://arxiv.org/abs/2211.12612</id>
+        <link href="http://arxiv.org/abs/2211.12612"/>
+        <updated>2024-01-26T04:18:48.334Z</updated>
+        <summary type="html"><![CDATA[Changxiao Cai, T. Tony Cai, Hongzhe Li]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[At the junction between deep learning and statistics of extremes:
+  formalizing the landslide hazard definition]]></title>
+        <id>http://arxiv.org/abs/2401.14210</id>
+        <link href="http://arxiv.org/abs/2401.14210"/>
+        <updated>2024-01-26T04:18:48.330Z</updated>
+        <summary type="html"><![CDATA[Ashok Dahal, Rapha\"el Huser, Luigi Lombardo]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Systematic Approach to Robustness Modelling for Deep Convolutional
+  Neural Networks]]></title>
+        <id>http://arxiv.org/abs/2401.13751</id>
+        <link href="http://arxiv.org/abs/2401.13751"/>
+        <updated>2024-01-26T04:18:48.313Z</updated>
+        <summary type="html"><![CDATA[Charles Meyers, Mohammad Reza Saleh Sedghpour, Tommy L\"ofstedt, Erik
+  Elmroth]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A V2X-based Privacy Preserving Federated Measuring and Learning System]]></title>
+        <id>http://arxiv.org/abs/2401.13848</id>
+        <link href="http://arxiv.org/abs/2401.13848"/>
+        <updated>2024-01-26T04:18:48.310Z</updated>
+        <summary type="html"><![CDATA[Levente Alekszejenk\'o, Tadeusz Dobrowiecki]]></summary>
+        <author>
+            <name>arxivist feed</name>
         </author>
     </entry>
     <entry>
