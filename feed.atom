@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-27T11:11:13.921Z</updated>
+    <updated>2024-01-27T12:24:07.541Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Butter chicken]]></title>
+        <id>https://languagelog.ldc.upenn.edu/nll/?p=62334</id>
+        <link href="https://languagelog.ldc.upenn.edu/nll/?p=62334&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=butter-chicken"/>
+        <updated>2024-01-27T11:44:15.000Z</updated>
+        <summary type="html"><![CDATA[Who owns it? It's sort of like who owns kimchee, Koreans (of course!) or Chinese — we've been through that many times — except that the question of who has the rights to claim they invented butter chicken is ostensibly internecine / intranational rather than international (but maybe not [see below]), as is the case […]]]></summary>
+        <author>
+            <name>Victor Mair</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Saint-Chély d’Aubrac [jatp]]]></title>
         <id>http://xianblog.wordpress.com/?p=54802</id>
@@ -2876,47 +2886,6 @@ PhD
         <summary type="html"><![CDATA[The following buzzwords from social media show that, when they get out from under the thumb / heel of the CCP, the Chinese people have a lot of lively spunk and clever wit.  Contrast "Chinese buzzwords for 2023" (12/6/23), the official ones — mostly deadly dull. The Language of Now: China’s Best Internet Slang in […]]]></summary>
         <author>
             <name>Victor Mair</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2023 年度游戏总结]]></title>
-        <id>http://freemind.pluskid.org/misc/2023-games</id>
-        <link href="http://freemind.pluskid.org/misc/2023-games"/>
-        <updated>2023-12-29T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[今年通关的游戏总共只有 5 款，相比于去年的 23 款似乎是大幅下降，但考虑到去年是完全宅家，而今年出了好几趟远门，另外从总时长来看，相比于去年的
-682 小时，今年的 511 小时也并不算少（这个数字在年末最后几天假期还在因博德之门
-3
-而持续飞升中）。所以其实今年玩游戏的热情一点也没有减少，幸运的是市面上的好游戏也在持续不断地推出。并且今年这几款通关的作品都是全程与
-N 一起玩的。
-我个人今年的年度最佳游戏要颁给《境界天火》，感觉给我打开了新世界的大门，体验到了机甲和射击游戏的乐趣；同样让人打开新世界大门体验到以前未曾接触过的游戏类型的游戏是今年
-The Game Awards
-官方的年度最佳游戏《博德之门
-3》，但是鉴于通关还有一段时间，就放到明年的列表上吧。此外《王国之泪》虽然由于上一作过于优秀导致新鲜感没有那么强，但是依旧是做出了非常厉害的创新和超越！
- 
-《Armored
-Core VI: Fires of Rubicon》，TGA 2023 年最佳动作游戏。这是 FromSoftware
-的最新作品，并不属于魂系列游戏，但事实上裝甲核心（繁体译名是機戰傭兵）系列是
-FromSoftware 的老牌游戏，早在第一部魂系列游戏《Demon’s
-Souls》出现之前，宫崎英高刚入社的时候参与的游戏就是裝甲核心。
-借来的翅膀，一不留神就飞过了三周目。
-这是一个体量没有很大但是质量非常高的游戏，第一遍通关大概 34
-小时，三周目通关一共 45 小时左右，希望 AC6
-的成功让游戏开发商们认识到内容的质量比数量更重要（当然预算够的话，能像《博德之门
-3》那样两者兼得更好）。非常感谢 FromSoftware
-带我进入机战游戏的世界，之前唯一玩过的算得上机甲游戏的就只有 Titanfall 2
-了，但是里面的机甲笨重又缓慢，并没有留下好印象，所以抱着捧捧场的态度试了一下，结…]]></summary>
-        <author>
-            <name>Free Mind</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[simulation based composite likelihood]]></title>
-        <id>http://xianblog.wordpress.com/?p=54626</id>
-        <link href="https://xianblog.wordpress.com/2023/12/29/simulation-based-composite-likelihood/"/>
-        <updated>2023-12-28T23:23:30.000Z</updated>
-        <summary type="html"><![CDATA[Lorenzo Rimella, Chris Jewell, and Paul Fearnhead have recently arXived a paper entitled Simulation Based Composite Likelihood, where they consider a composite likelihood approximation for running inference on HMM parameters under the specific scenario of HMMs on finite, high-dimension N, state spaces X with huge cost of order card (Χ)2N when computing the likelihood  by […]]]></summary>
-        <author>
-            <name>xi'an</name>
         </author>
     </entry>
 </feed>
