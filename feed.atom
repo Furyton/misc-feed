@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-28T23:15:33.894Z</updated>
+    <updated>2024-01-29T01:04:59.897Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[terrible graph and chilies [not a book review]]]></title>
+        <id>http://xianblog.wordpress.com/?p=54904</id>
+        <link href="https://xianblog.wordpress.com/2024/01/29/terrible-graph-and-chilies-not-a-book-review/"/>
+        <updated>2024-01-28T23:24:43.000Z</updated>
+        <summary type="html"><![CDATA[A question on X validated led me to this Bayesian book with a chill cover (except that it first made me seek a word from the chili sequence!), because of a graph within that confused the OP for that question. Here is the graph: It represents three *prior* densities at once, namely the (uniform) prior […]]]></summary>
+        <author>
+            <name>xi'an</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[burn baby burn…]]></title>
         <id>http://xianblog.wordpress.com/?p=55013</id>
@@ -2824,16 +2834,6 @@ PhD
         <link href="https://languagelog.ldc.upenn.edu/nll/?p=61967&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=retrospective-censorship-of-uyghur-texts"/>
         <updated>2023-12-30T14:13:50.000Z</updated>
         <summary type="html"><![CDATA[From a memoir by Uyghur poet Tamir Hamut Izgil, Waiting to Be Arrested at Night, Bruce Humes posted on his Ethnic ChinaLit blog (12/30/23) this brief excerpt about how content, once commissioned and approved by the Chinese state, became grounds for incarceration of researchers, writers and editors: Huítóu kàn gōngchéng 回头看工程 — Xinjiang’s Ominous “Looking Back […]]]></summary>
-        <author>
-            <name>Victor Mair</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The consequences of interpreting:  the Qianlong Emperor, Lord Macartney, George Staunton, and Li Zibiao]]></title>
-        <id>https://languagelog.ldc.upenn.edu/nll/?p=61949</id>
-        <link href="https://languagelog.ldc.upenn.edu/nll/?p=61949&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=the-consequences-of-interpreting-the-qianlong-emperor-lord-macartney-george-staunton-and-li-zibiao"/>
-        <updated>2023-12-30T11:54:01.000Z</updated>
-        <summary type="html"><![CDATA[I'm led to this topic by a consideration of one of the six books that made the short list for the Wolfson History Prize, which is the UK's most prestigious history book prize, as introduced by Sudhir Hazareesingh, who is interviewed by Sophie Roell, in "The Best History Books of 2023", Five Books (11/12/23). Because […]]]></summary>
         <author>
             <name>Victor Mair</name>
         </author>
