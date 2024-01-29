@@ -2,10 +2,63 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-29T06:19:35.783Z</updated>
+    <updated>2024-01-29T07:13:48.191Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Signature Methods in Machine Learning]]></title>
+        <id>http://arxiv.org/abs/2206.14674</id>
+        <link href="http://arxiv.org/abs/2206.14674"/>
+        <updated>2024-01-29T07:13:36.380Z</updated>
+        <summary type="html"><![CDATA[Terry Lyons, Andrew D. McLeod]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ECoFLaP: Efficient Coarse-to-Fine Layer-Wise Pruning for Vision-Language
+  Models]]></title>
+        <id>http://arxiv.org/abs/2310.02998</id>
+        <link href="http://arxiv.org/abs/2310.02998"/>
+        <updated>2024-01-29T07:13:36.376Z</updated>
+        <summary type="html"><![CDATA[Yi-Lin Sung, Jaehong Yoon, Mohit Bansal]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A multiobjective continuation method to compute the regularization path
+  of deep neural networks]]></title>
+        <id>http://arxiv.org/abs/2308.12044</id>
+        <link href="http://arxiv.org/abs/2308.12044"/>
+        <updated>2024-01-29T07:13:36.372Z</updated>
+        <summary type="html"><![CDATA[Augustina C. Amakor, Konstantin Sonntag, Sebastian Peitz]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Understanding Disparities in Post Hoc Machine Learning Explanation]]></title>
+        <id>http://arxiv.org/abs/2401.14539</id>
+        <link href="http://arxiv.org/abs/2401.14539"/>
+        <updated>2024-01-29T07:13:36.368Z</updated>
+        <summary type="html"><![CDATA[Vishwali Mhasawade, Salman Rahman, Zoe Haskell-Craig, Rumi Chunara]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[High-dimensional Functional Graphical Model Structure Learning via
+  Neighborhood Selection Approach]]></title>
+        <id>http://arxiv.org/abs/2105.02487</id>
+        <link href="http://arxiv.org/abs/2105.02487"/>
+        <updated>2024-01-29T07:13:36.360Z</updated>
+        <summary type="html"><![CDATA[Boxin Zhao, Percy S. Zhai, Y. Samuel Wang, Mladen Kolar]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[terrible graph and chilies [not a book review]]]></title>
         <id>http://xianblog.wordpress.com/?p=54904</id>

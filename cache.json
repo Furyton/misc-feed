@@ -6,6 +6,56 @@
       "siteUrl": "https://www.arxivist.com",
       "articles": [
         {
+          "id": "http://arxiv.org/abs/2206.14674",
+          "author": null,
+          "description": "Terry Lyons, Andrew D. McLeod",
+          "link": "http://arxiv.org/abs/2206.14674",
+          "publishedOn": "2024-01-29T07:13:36.380Z",
+          "wordCount": 852,
+          "title": "Signature Methods in Machine Learning",
+          "imageUrl": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2310.02998",
+          "author": null,
+          "description": "Yi-Lin Sung, Jaehong Yoon, Mohit Bansal",
+          "link": "http://arxiv.org/abs/2310.02998",
+          "publishedOn": "2024-01-29T07:13:36.376Z",
+          "wordCount": 751,
+          "title": "ECoFLaP: Efficient Coarse-to-Fine Layer-Wise Pruning for Vision-Language\n  Models",
+          "imageUrl": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2308.12044",
+          "author": null,
+          "description": "Augustina C. Amakor, Konstantin Sonntag, Sebastian Peitz",
+          "link": "http://arxiv.org/abs/2308.12044",
+          "publishedOn": "2024-01-29T07:13:36.372Z",
+          "wordCount": 772,
+          "title": "A multiobjective continuation method to compute the regularization path\n  of deep neural networks",
+          "imageUrl": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2401.14539",
+          "author": null,
+          "description": "Vishwali Mhasawade, Salman Rahman, Zoe Haskell-Craig, Rumi Chunara",
+          "link": "http://arxiv.org/abs/2401.14539",
+          "publishedOn": "2024-01-29T07:13:36.368Z",
+          "wordCount": 718,
+          "title": "Understanding Disparities in Post Hoc Machine Learning Explanation",
+          "imageUrl": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2105.02487",
+          "author": null,
+          "description": "Boxin Zhao, Percy S. Zhai, Y. Samuel Wang, Mladen Kolar",
+          "link": "http://arxiv.org/abs/2105.02487",
+          "publishedOn": "2024-01-29T07:13:36.360Z",
+          "wordCount": 757,
+          "title": "High-dimensional Functional Graphical Model Structure Learning via\n  Neighborhood Selection Approach",
+          "imageUrl": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
           "id": "http://arxiv.org/abs/1904.10850",
           "author": null,
           "description": "Jurek Czyzowicz, Dariusz Dereniowski, Andrzej Pelc",
