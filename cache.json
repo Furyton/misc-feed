@@ -6,6 +6,56 @@
       "siteUrl": "https://www.arxivist.com",
       "articles": [
         {
+          "id": "http://arxiv.org/abs/2107.09166",
+          "author": null,
+          "description": "Lea Beneish, Debanjana Kundu, Anwesh Ray",
+          "link": "http://arxiv.org/abs/2107.09166",
+          "publishedOn": "2024-01-29T08:18:11.026Z",
+          "wordCount": 652,
+          "title": "Rank Jumps and Growth of Shafarevich--Tate Groups for Elliptic Curves in\n  $\\mathbb{Z}/p\\mathbb{Z}$-Extensions",
+          "imageUrl": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2006.01705",
+          "author": null,
+          "description": "Julian Holstein, Andrey Lazarev",
+          "link": "http://arxiv.org/abs/2006.01705",
+          "publishedOn": "2024-01-29T08:18:10.638Z",
+          "wordCount": 688,
+          "title": "Categorical Koszul duality",
+          "imageUrl": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2010.11454",
+          "author": null,
+          "description": "Mohammad M. Jalalzai, Jianyu Niu, Chen Feng, Fangyu Gai",
+          "link": "http://arxiv.org/abs/2010.11454",
+          "publishedOn": "2024-01-29T08:18:10.634Z",
+          "wordCount": 746,
+          "title": "Fast-HotStuff: A Fast and Resilient HotStuff Protocol",
+          "imageUrl": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/1709.09524",
+          "author": null,
+          "description": "\\'Italo Dowell, Sergio Roma\\~na",
+          "link": "http://arxiv.org/abs/1709.09524",
+          "publishedOn": "2024-01-29T08:18:10.622Z",
+          "wordCount": 613,
+          "title": "Some Rigidity Theorem for Anosov Geodesic Flows",
+          "imageUrl": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/1711.09712",
+          "author": null,
+          "description": "Sourav Ghosh, Nicolaus Treib",
+          "link": "http://arxiv.org/abs/1711.09712",
+          "publishedOn": "2024-01-29T08:18:10.618Z",
+          "wordCount": 616,
+          "title": "Affine Anosov representations and proper actions",
+          "imageUrl": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
           "id": "http://arxiv.org/abs/2206.14674",
           "author": null,
           "description": "Terry Lyons, Andrew D. McLeod",
@@ -2563,6 +2613,36 @@
       "feedUrl": "http://feeds.feedburner.com/blogspot/gJZg",
       "siteUrl": "http://blog.research.google/",
       "articles": [
+        {
+          "id": "http://blog.research.google/2024/01/mixed-input-matrix-multiplication.html",
+          "author": null,
+          "description": "Posted by Manish Gupta, Staff Software Engineer, Google Research\n\n\n\n\nAI-driven technologies are weaving themselves into the fabric of our daily routines, with the potential to enhance our access to knowledge and boost our overall productivity. The backbone of these applications lies in large language models (LLMs).  LLMs are memory-intensive and typically require specialized hardware accelerators to efficiently deliver tens of exaflops of computing power. This blog post shows how we can start addressing the computational challenges by utilizing memory more effectively.\n\n\n\nThe bulk of an LLM’s memory and compute are consumed by weights in matrix multiplication operations. Using narrower data types reduces memory consumption. For example, storing weights in the 8-bit integer (i.e., U8 or S8)…",
+          "link": "http://blog.research.google/2024/01/mixed-input-matrix-multiplication.html",
+          "publishedOn": "2024-01-26T19:56:00.000Z",
+          "wordCount": 27947,
+          "title": "Mixed-input matrix multiplication performance optimizations",
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhEKJJf1R773hab0veY6zffF2Nf_yfV2mk8YU9yRnuBDD3ak1o0iXecWlJw2x7bL-Ez2MX1c21MXk65VMK5IsoLpJ1H6BTC6k7BvVWl_gHJpJIOG2cm3BwP4V-HCScGHYIynuskbhvu1uorQGprHGbOFmfGI7E5UWemJcZ0xSC3tC5DolBYgyBwugl6OOLr/w1200-h630-p-k-no-nu/matrixhero.png"
+        },
+        {
+          "id": "http://blog.research.google/2024/01/exphormer-scaling-transformers-for.html",
+          "author": null,
+          "description": "Posted by Ameya Velingker, Research Scientist, Google Research, and Balaji Venkatachalam, Software Engineer, Google\n\n\n\n\nGraphs, in which objects and their relations are represented as nodes (or vertices) and edges (or links) between pairs of nodes, are ubiquitous in computing and machine learning (ML). For example, social networks, road networks, and molecular structure and interactions are all domains in which underlying datasets have a natural graph structure. ML can be used to learn the properties of nodes, edges, or entire graphs. \n\n\n\n\nA common approach to learning on graphs are graph neural networks (GNNs), which operate on graph data by applying an optimizable transformation on node, edge, and global attributes. The most typical class of GNNs operates via a message-passing framework,…",
+          "link": "http://blog.research.google/2024/01/exphormer-scaling-transformers-for.html",
+          "publishedOn": "2024-01-23T22:27:00.000Z",
+          "wordCount": 27895,
+          "title": "Exphormer: Scaling transformers for graph-structured data",
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhbovKreBr7RlKc4L36E6rLqiZBZzJSq5GLijCkomHREon5tYXd-7C2pppMXnL5Mj2d82kZGnPlarrrMzQOfRnN8kVvqDh1GnadIJ-hbaaS8VjYzCpaD-DgYor5cKx-OhTGZk9iCy5MjtwG2Q9eTyQiipDr5ViMdl2vkxfbLzWnB3wmLb8YfvVsTJ1FnOmw/w1200-h630-p-k-no-nu/EXPHORMER%2005large.gif"
+        },
+        {
+          "id": "http://blog.research.google/2024/01/introducing-aspire-for-selective.html",
+          "author": null,
+          "description": "Posted by Jiefeng Chen, Student Researcher, and Jinsung Yoon, Research Scientist, Cloud AI Team\n\n\n\n\n\nIn the fast-evolving landscape of artificial intelligence, large language models (LLMs) have revolutionized the way we interact with machines, pushing the boundaries of natural language understanding and generation to unprecedented heights. Yet, the leap into high-stakes decision-making applications remains a chasm too wide, primarily due to the inherent uncertainty of model predictions. Traditional LLMs generate responses recursively, yet they lack an intrinsic mechanism to assign a confidence score to these responses. Although one can derive a confidence score by summing up the probabilities of individual tokens in the sequence, traditional approaches typically fall short in reliably dist…",
+          "link": "http://blog.research.google/2024/01/introducing-aspire-for-selective.html",
+          "publishedOn": "2024-01-18T18:03:00.000Z",
+          "wordCount": 27602,
+          "title": "Introducing ASPIRE for selective prediction in LLMs",
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMaqP9dd9YDXh04PEWHSFquEToz6U5M4YUxzfExokjfteUfuGAKhqs1LV5DUMJOBoiF3GjGxg7NqezNazuTeWePMsuH_OW7NM4z4ooMPhWnR22iyzENgpmG2-xJDbRbeeyyLbG-3dIdgYjl2IxX0K-bFvpbrAJsQA7Mu70MqxEuVFJXvwnP_-o4sPK8wYe/w1200-h630-p-k-no-nu/ASPIRE%20hero.jpg"
+        },
         {
           "id": "http://blog.research.google/2024/01/amie-research-ai-system-for-diagnostic_12.html",
           "author": null,
