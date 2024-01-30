@@ -1858,6 +1858,16 @@
       "siteUrl": "https://pythonspeed.com/atom.xml",
       "articles": [
         {
+          "id": "https://pythonspeed.com/articles/numba-profiling/",
+          "author": null,
+          "description": "pre {\n    font-size: 90% !important;\n}\n\n\nIf you’re writing numeric Python code, Numba can be a great way to speed up your program.\nBy compiling a subset of Python to machine code, Numba lets you write for loops and other constructs that would be too slow in normal Python.\nIn other words, it’s similar to Cython, C, or Rust, in that it lets you write compiled extensions for Python.\nNumba code isn’t always as fast as it could be, however.\nThis is where profiling is useful: it can find at least some of the bottlenecks in your code.\nIn this article we’ll cover:\nProfila, a new profiler I’ve released that is specifically designed for Numba code.\nThe limits of profiling.\nThere are many potential performance enhancements that a profiler can’t and won’t help you discover.\nRead more...",
+          "link": "https://pythonspeed.com/articles/numba-profiling/",
+          "publishedOn": "2024-01-30T00:00:00.000Z",
+          "wordCount": 2095,
+          "title": "Profiling your Numba code",
+          "imageUrl": "https://pythonspeed.com/assets/titles/numba-profiling.png"
+        },
+        {
           "id": "https://pythonspeed.com/articles/gpu-vs-cpu/",
           "author": null,
           "description": "Do you use NumPy, Pandas, or scikit-learn and want to get faster results?\nNvidia has created GPU-based replacements for each of these with the shared promise of extra speed.\nFor example, if you visit the front page of NVidia’s RAPIDS project, you’ll see benchmarks showing cuDF, a GPU-based Pandas replacement, is 15× to 80× faster than Pandas!\nUnfortunately, while those speed-ups are impressive, they are also misleading.\nGPU-based libraries might be the answer to your performance problems… or they might be an an unnecessary and expensive distraction.\nRead more...",
