@@ -2,10 +2,72 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-31T09:14:38.712Z</updated>
+    <updated>2024-01-31T10:15:33.166Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The Lieb-Thirring inequality revisited]]></title>
+        <id>http://arxiv.org/abs/1808.09017</id>
+        <link href="http://arxiv.org/abs/1808.09017"/>
+        <updated>2024-01-31T10:15:33.140Z</updated>
+        <summary type="html"><![CDATA[Rupert L. Frank, Dirk Hundertmark, Michal Jex, Phan Th\`anh Nam]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Algebraic approximations of compact K\"ahler threefolds]]></title>
+        <id>http://arxiv.org/abs/1710.01083</id>
+        <link href="http://arxiv.org/abs/1710.01083"/>
+        <updated>2024-01-31T10:15:32.979Z</updated>
+        <summary type="html"><![CDATA[Hsueh-Yung Lin]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[On the dual positive cones and the algebraicity of a compact K\"ahler
+  manifold]]></title>
+        <id>http://arxiv.org/abs/2001.10654</id>
+        <link href="http://arxiv.org/abs/2001.10654"/>
+        <updated>2024-01-31T10:15:32.974Z</updated>
+        <summary type="html"><![CDATA[Hsueh-Yung Lin]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Branching process descriptions of information cascades on Twitter]]></title>
+        <id>http://arxiv.org/abs/2007.08916</id>
+        <link href="http://arxiv.org/abs/2007.08916"/>
+        <updated>2024-01-31T10:15:32.960Z</updated>
+        <summary type="html"><![CDATA[James P. Gleeson, Tomokatsu Onaga, Peter Fennell, James Cotter,
+  Raymond Burke, David J. P. O'Sullivan]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tautological classes and symmetry in Khovanov-Rozansky homology]]></title>
+        <id>http://arxiv.org/abs/2103.01212</id>
+        <link href="http://arxiv.org/abs/2103.01212"/>
+        <updated>2024-01-31T10:15:32.955Z</updated>
+        <summary type="html"><![CDATA[Eugene Gorsky, Matthew Hogancamp, Anton Mellit]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[幂等生成网络IGN：试图将判别和生成合二为一的GAN]]></title>
+        <id>https://kexue.fm/archives/9969</id>
+        <link href="https://kexue.fm/archives/9969"/>
+        <updated>2024-01-31T09:36:00.000Z</updated>
+        <summary type="html"><![CDATA[前段时间，一个名为“幂等生成网络（Idempotent Generative Network，IGN）”的生成模型引起了一定的关注。它自称是一种独立于已有的VAE、GAN、flow、Diffus...]]></summary>
+        <author>
+            <name>苏剑林</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Neural networks for geospatial data]]></title>
         <id>http://arxiv.org/abs/2304.09157</id>

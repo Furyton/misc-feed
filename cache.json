@@ -6,6 +6,56 @@
       "siteUrl": "https://www.arxivist.com",
       "articles": [
         {
+          "id": "http://arxiv.org/abs/1808.09017",
+          "author": null,
+          "description": "Rupert L. Frank, Dirk Hundertmark, Michal Jex, Phan Th\\`anh Nam",
+          "link": "http://arxiv.org/abs/1808.09017",
+          "publishedOn": "2024-01-31T10:15:33.140Z",
+          "wordCount": 531,
+          "title": "The Lieb-Thirring inequality revisited",
+          "imageUrl": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/1710.01083",
+          "author": null,
+          "description": "Hsueh-Yung Lin",
+          "link": "http://arxiv.org/abs/1710.01083",
+          "publishedOn": "2024-01-31T10:15:32.979Z",
+          "wordCount": 571,
+          "title": "Algebraic approximations of compact K\\\"ahler threefolds",
+          "imageUrl": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2001.10654",
+          "author": null,
+          "description": "Hsueh-Yung Lin",
+          "link": "http://arxiv.org/abs/2001.10654",
+          "publishedOn": "2024-01-31T10:15:32.974Z",
+          "wordCount": 631,
+          "title": "On the dual positive cones and the algebraicity of a compact K\\\"ahler\n  manifold",
+          "imageUrl": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2007.08916",
+          "author": null,
+          "description": "James P. Gleeson, Tomokatsu Onaga, Peter Fennell, James Cotter,\n  Raymond Burke, David J. P. O'Sullivan",
+          "link": "http://arxiv.org/abs/2007.08916",
+          "publishedOn": "2024-01-31T10:15:32.960Z",
+          "wordCount": 629,
+          "title": "Branching process descriptions of information cascades on Twitter",
+          "imageUrl": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2103.01212",
+          "author": null,
+          "description": "Eugene Gorsky, Matthew Hogancamp, Anton Mellit",
+          "link": "http://arxiv.org/abs/2103.01212",
+          "publishedOn": "2024-01-31T10:15:32.955Z",
+          "wordCount": 574,
+          "title": "Tautological classes and symmetry in Khovanov-Rozansky homology",
+          "imageUrl": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
           "id": "http://arxiv.org/abs/2304.09157",
           "author": null,
           "description": "Wentao Zhan, Abhirup Datta",
@@ -1580,6 +1630,16 @@
       "feedUrl": "https://kexue.fm/feed/",
       "siteUrl": "https://kexue.fm/",
       "articles": [
+        {
+          "id": "https://kexue.fm/archives/9969",
+          "author": "苏剑林",
+          "description": "前段时间，一个名为“幂等生成网络（Idempotent Generative Network，IGN）”的生成模型引起了一定的关注。它自称是一种独立于已有的VAE、GAN、flow、Diffus...",
+          "link": "https://kexue.fm/archives/9969",
+          "publishedOn": "2024-01-31T09:36:00.000Z",
+          "wordCount": 1482,
+          "title": "幂等生成网络IGN：试图将判别和生成合二为一的GAN",
+          "imageUrl": null
+        },
         {
           "id": "https://kexue.fm/archives/9948",
           "author": "苏剑林",
