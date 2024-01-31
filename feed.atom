@@ -2,10 +2,63 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-31T06:19:33.380Z</updated>
+    <updated>2024-01-31T07:14:16.176Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Neural networks for geospatial data]]></title>
+        <id>http://arxiv.org/abs/2304.09157</id>
+        <link href="http://arxiv.org/abs/2304.09157"/>
+        <updated>2024-01-31T07:14:01.684Z</updated>
+        <summary type="html"><![CDATA[Wentao Zhan, Abhirup Datta]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Multi-modal Molecule Structure-text Model for Text-based Retrieval and
+  Editing]]></title>
+        <id>http://arxiv.org/abs/2212.10789</id>
+        <link href="http://arxiv.org/abs/2212.10789"/>
+        <updated>2024-01-31T07:14:01.662Z</updated>
+        <summary type="html"><![CDATA[Shengchao Liu, Weili Nie, Chengpeng Wang, Jiarui Lu, Zhuoran Qiao,
+  Ling Liu, Jian Tang, Chaowei Xiao, Anima Anandkumar]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Effect of Weight Quantization on Learning Models by Typical Case
+  Analysis]]></title>
+        <id>http://arxiv.org/abs/2401.17269</id>
+        <link href="http://arxiv.org/abs/2401.17269"/>
+        <updated>2024-01-31T07:14:01.629Z</updated>
+        <summary type="html"><![CDATA[Shuhei Kashiwamura, Ayaka Sakata, Masaaki Imaizumi]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Multiple Yield Curve Modeling and Forecasting using Deep Learning]]></title>
+        <id>http://arxiv.org/abs/2401.16985</id>
+        <link href="http://arxiv.org/abs/2401.16985"/>
+        <updated>2024-01-31T07:14:01.626Z</updated>
+        <summary type="html"><![CDATA[Ronald Richman, Salvatore Scognamiglio]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Unified Transfer Learning Models in High-Dimensional Linear Regression]]></title>
+        <id>http://arxiv.org/abs/2307.00238</id>
+        <link href="http://arxiv.org/abs/2307.00238"/>
+        <updated>2024-01-31T07:14:01.579Z</updated>
+        <summary type="html"><![CDATA[Shuo Shuo Liu]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[repulsive sampling]]></title>
         <id>http://xianblog.wordpress.com/?p=54916</id>
