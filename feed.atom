@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-01T03:16:31.966Z</updated>
+    <updated>2024-02-01T04:19:12.871Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -2909,16 +2909,6 @@ First, the UX part. We are a multi-disciplinary team of product design experts: 
         <summary type="html"><![CDATA[Excerpt from Ambassador Robert Lighthizer’s recent book, No Trade is Free, on the use of "yīng" 应 or "jiāng" 将 to translate "shall" in official trade agreements: «We relied primarily on these USTR [United States Trade Representative] officials in the Office of China, Affairs, the Office of Innovation and Intellectual Property, the Interagency Center on […]]]></summary>
         <author>
             <name>Victor Mair</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Images altered to trick machine vision can influence humans too]]></title>
-        <id>https://deepmind.google/discover/blog/images-altered-to-trick-machine-vision-can-influence-humans-too/</id>
-        <link href="https://deepmind.google/discover/blog/images-altered-to-trick-machine-vision-can-influence-humans-too/"/>
-        <updated>2024-01-02T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In a series of experiments published in Nature Communications, we found evidence that human judgments are indeed systematically influenced by adversarial perturbations.]]></summary>
-        <author>
-            <name>Google DeepMind Blog</name>
         </author>
     </entry>
 </feed>
