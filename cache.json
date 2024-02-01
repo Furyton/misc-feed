@@ -6,6 +6,36 @@
       "siteUrl": "https://www.arxivist.com",
       "articles": [
         {
+          "id": "http://arxiv.org/abs/1203.1691",
+          "author": null,
+          "description": "Susumu Oda",
+          "link": "http://arxiv.org/abs/1203.1691",
+          "publishedOn": "2024-02-01T03:16:01.870Z",
+          "wordCount": 970,
+          "title": "A Purely Algebraic Approach to The Generalized Jacobian Conjecture",
+          "imageUrl": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/1704.07832",
+          "author": null,
+          "description": "Nicolas B. Cowan, Yuka Fujii",
+          "link": "http://arxiv.org/abs/1704.07832",
+          "publishedOn": "2024-02-01T03:16:01.537Z",
+          "wordCount": 717,
+          "title": "Mapping Exoplanets",
+          "imageUrl": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/1611.05392",
+          "author": null,
+          "description": "Mubarak Ali",
+          "link": "http://arxiv.org/abs/1611.05392",
+          "publishedOn": "2024-02-01T03:16:00.531Z",
+          "wordCount": 1040,
+          "title": "Atoms of None of the Elements Ionize While Atoms of Inert Behavior Split\n  by Photonic Current",
+          "imageUrl": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
           "id": "http://arxiv.org/abs/1808.09017",
           "author": null,
           "description": "Rupert L. Frank, Dirk Hundertmark, Michal Jex, Phan Th\\`anh Nam",
@@ -1443,56 +1473,6 @@
           "publishedOn": "2024-01-03T03:16:27.650Z",
           "wordCount": 794,
           "title": "Self-Play Fine-Tuning Converts Weak Language Models to Strong Language\n  Models",
-          "imageUrl": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
-        },
-        {
-          "id": "http://arxiv.org/abs/1906.08246",
-          "author": null,
-          "description": "J. Malo, J.J. Esteve-Taboada, M. Bertalm\\'io",
-          "link": "http://arxiv.org/abs/1906.08246",
-          "publishedOn": "2024-01-02T15:15:38.636Z",
-          "wordCount": 810,
-          "title": "Cortical Divisive Normalization from Wilson-Cowan Neural Dynamics",
-          "imageUrl": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
-        },
-        {
-          "id": "http://arxiv.org/abs/1805.08047",
-          "author": null,
-          "description": "Charlie Beil",
-          "link": "http://arxiv.org/abs/1805.08047",
-          "publishedOn": "2024-01-02T15:15:38.190Z",
-          "wordCount": 611,
-          "title": "Noetherian criteria for dimer algebras",
-          "imageUrl": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
-        },
-        {
-          "id": "http://arxiv.org/abs/1906.10069",
-          "author": null,
-          "description": "Giovanni Gallavotti",
-          "link": "http://arxiv.org/abs/1906.10069",
-          "publishedOn": "2024-01-02T15:15:38.147Z",
-          "wordCount": 563,
-          "title": "Nonequilibrium and Fluctuation Relation",
-          "imageUrl": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
-        },
-        {
-          "id": "http://arxiv.org/abs/1906.04223",
-          "author": null,
-          "description": "Soo Go, Qi Luan, Victor Y. Pan",
-          "link": "http://arxiv.org/abs/1906.04223",
-          "publishedOn": "2024-01-02T15:15:38.109Z",
-          "wordCount": 664,
-          "title": "Superfast Low Rank Approximation of a Matrix",
-          "imageUrl": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
-        },
-        {
-          "id": "http://arxiv.org/abs/1901.06548",
-          "author": null,
-          "description": "Oksana Firman, Philipp Kindermann, Alexander Ravsky, Alexander Wolff,\n  Johannes Zink",
-          "link": "http://arxiv.org/abs/1901.06548",
-          "publishedOn": "2024-01-02T15:15:38.092Z",
-          "wordCount": 797,
-          "title": "Computing Height-Optimal Tangles Faster",
           "imageUrl": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
         }
       ]

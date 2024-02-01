@@ -2,10 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-01T02:24:54.209Z</updated>
+    <updated>2024-02-01T03:16:31.966Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[A Purely Algebraic Approach to The Generalized Jacobian Conjecture]]></title>
+        <id>http://arxiv.org/abs/1203.1691</id>
+        <link href="http://arxiv.org/abs/1203.1691"/>
+        <updated>2024-02-01T03:16:01.870Z</updated>
+        <summary type="html"><![CDATA[Susumu Oda]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mapping Exoplanets]]></title>
+        <id>http://arxiv.org/abs/1704.07832</id>
+        <link href="http://arxiv.org/abs/1704.07832"/>
+        <updated>2024-02-01T03:16:01.537Z</updated>
+        <summary type="html"><![CDATA[Nicolas B. Cowan, Yuka Fujii]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Atoms of None of the Elements Ionize While Atoms of Inert Behavior Split
+  by Photonic Current]]></title>
+        <id>http://arxiv.org/abs/1611.05392</id>
+        <link href="http://arxiv.org/abs/1611.05392"/>
+        <updated>2024-02-01T03:16:00.531Z</updated>
+        <summary type="html"><![CDATA[Mubarak Ali]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The whimsicality of names for Erythrina trees in southeast China]]></title>
         <id>https://languagelog.ldc.upenn.edu/nll/?p=62358</id>
@@ -2888,57 +2919,6 @@ First, the UX part. We are a multi-disciplinary team of product design experts: 
         <summary type="html"><![CDATA[In a series of experiments published in Nature Communications, we found evidence that human judgments are indeed systematically influenced by adversarial perturbations.]]></summary>
         <author>
             <name>Google DeepMind Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cortical Divisive Normalization from Wilson-Cowan Neural Dynamics]]></title>
-        <id>http://arxiv.org/abs/1906.08246</id>
-        <link href="http://arxiv.org/abs/1906.08246"/>
-        <updated>2024-01-02T15:15:38.636Z</updated>
-        <summary type="html"><![CDATA[J. Malo, J.J. Esteve-Taboada, M. Bertalm\'io]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Noetherian criteria for dimer algebras]]></title>
-        <id>http://arxiv.org/abs/1805.08047</id>
-        <link href="http://arxiv.org/abs/1805.08047"/>
-        <updated>2024-01-02T15:15:38.190Z</updated>
-        <summary type="html"><![CDATA[Charlie Beil]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nonequilibrium and Fluctuation Relation]]></title>
-        <id>http://arxiv.org/abs/1906.10069</id>
-        <link href="http://arxiv.org/abs/1906.10069"/>
-        <updated>2024-01-02T15:15:38.147Z</updated>
-        <summary type="html"><![CDATA[Giovanni Gallavotti]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Superfast Low Rank Approximation of a Matrix]]></title>
-        <id>http://arxiv.org/abs/1906.04223</id>
-        <link href="http://arxiv.org/abs/1906.04223"/>
-        <updated>2024-01-02T15:15:38.109Z</updated>
-        <summary type="html"><![CDATA[Soo Go, Qi Luan, Victor Y. Pan]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Computing Height-Optimal Tangles Faster]]></title>
-        <id>http://arxiv.org/abs/1901.06548</id>
-        <link href="http://arxiv.org/abs/1901.06548"/>
-        <updated>2024-01-02T15:15:38.092Z</updated>
-        <summary type="html"><![CDATA[Oksana Firman, Philipp Kindermann, Alexander Ravsky, Alexander Wolff,
-  Johannes Zink]]></summary>
-        <author>
-            <name>arxivist feed</name>
         </author>
     </entry>
 </feed>
