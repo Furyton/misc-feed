@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-31T23:15:48.955Z</updated>
+    <updated>2024-02-01T01:07:55.932Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Bye’ ometrika]]></title>
+        <id>http://xianblog.wordpress.com/?p=54927</id>
+        <link href="https://xianblog.wordpress.com/2024/02/01/bye-ometrika/"/>
+        <updated>2024-01-31T23:24:48.000Z</updated>
+        <summary type="html"><![CDATA[Visit the post for more.]]></summary>
+        <author>
+            <name>xi'an</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[MobileDiffusion: Rapid text-to-image generation on-device]]></title>
         <id>http://blog.research.google/2024/01/mobilediffusion-rapid-text-to-image.html</id>
@@ -2939,60 +2949,6 @@ First, the UX part. We are a multi-disciplinary team of product design experts: 
         <summary type="html"><![CDATA[Two months ago I presented five riddles and here, in this post, you will find a few more. (These types of riddles are called by Maya Bar-Hillel “stumpers”.) This time, we will have a discussion about how riddles are related … Continue reading →]]></summary>
         <author>
             <name>Gil Kalai</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Compact Representation for Bayesian Neural Networks By Removing
-  Permutation Symmetry]]></title>
-        <id>http://arxiv.org/abs/2401.00611</id>
-        <link href="http://arxiv.org/abs/2401.00611"/>
-        <updated>2024-01-02T07:13:48.850Z</updated>
-        <summary type="html"><![CDATA[Tim Z. Xiao, Weiyang Liu, Robert Bamler]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Byzantines can also Learn from History: Fall of Centered Clipping in
-  Federated Learning]]></title>
-        <id>http://arxiv.org/abs/2208.09894</id>
-        <link href="http://arxiv.org/abs/2208.09894"/>
-        <updated>2024-01-02T07:13:48.832Z</updated>
-        <summary type="html"><![CDATA[Kerem Ozfatura, Emre Ozfatura, Alptekin Kupcu, Deniz Gunduz]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Global $\mathcal{L}^2$ minimization at uniform exponential rate via
-  geometrically adapted gradient descent in Deep Learning]]></title>
-        <id>http://arxiv.org/abs/2311.15487</id>
-        <link href="http://arxiv.org/abs/2311.15487"/>
-        <updated>2024-01-02T07:13:48.828Z</updated>
-        <summary type="html"><![CDATA[Thomas Chen]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Optimizing Inventory Routing: A Decision-Focused Learning Approach using
-  Neural Networks]]></title>
-        <id>http://arxiv.org/abs/2311.00983</id>
-        <link href="http://arxiv.org/abs/2311.00983"/>
-        <updated>2024-01-02T07:13:48.825Z</updated>
-        <summary type="html"><![CDATA[MD Shafikul Islam, Azmine Toushik Wasi]]></summary>
-        <author>
-            <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Transfer Learning for Causal Effect Estimation]]></title>
-        <id>http://arxiv.org/abs/2305.09126</id>
-        <link href="http://arxiv.org/abs/2305.09126"/>
-        <updated>2024-01-02T07:13:48.820Z</updated>
-        <summary type="html"><![CDATA[Song Wei, Hanyu Zhang, Ronald Moore, Rishikesan Kamaleswaran, Yao Xie]]></summary>
-        <author>
-            <name>arxivist feed</name>
         </author>
     </entry>
 </feed>
