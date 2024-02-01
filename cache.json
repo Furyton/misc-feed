@@ -1889,6 +1889,16 @@
       "siteUrl": "https://pytorch.org/",
       "articles": [
         {
+          "id": "https://pytorch.org/blog/new-in-docs/",
+          "author": null,
+          "description": "Greetings to the PyTorch community! Here is a quick update on PyTorch docs.",
+          "link": "https://pytorch.org/blog/new-in-docs/",
+          "publishedOn": "2024-02-01T08:00:00.000Z",
+          "wordCount": 882,
+          "title": "What’s New in PyTorch Documentation",
+          "imageUrl": "https://pytorch.org/assets/images/social-share.jpg"
+        },
+        {
           "id": "https://pytorch.org/blog/pytorch2-2-lib-updates/",
           "author": null,
           "description": "Summary",

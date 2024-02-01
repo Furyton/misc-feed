@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-01T17:15:30.489Z</updated>
+    <updated>2024-02-01T18:17:55.895Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[What’s New in PyTorch Documentation]]></title>
+        <id>https://pytorch.org/blog/new-in-docs/</id>
+        <link href="https://pytorch.org/blog/new-in-docs/"/>
+        <updated>2024-02-01T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Greetings to the PyTorch community! Here is a quick update on PyTorch docs.]]></summary>
+        <author>
+            <name>PyTorch Website</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[A Purely Algebraic Approach to The Generalized Jacobian Conjecture]]></title>
         <id>http://arxiv.org/abs/1203.1691</id>
