@@ -1491,6 +1491,16 @@
       "siteUrl": "https://kexue.fm/",
       "articles": [
         {
+          "id": "https://kexue.fm/archives/9978",
+          "author": "苏剑林",
+          "description": "一些铺垫自Cool Papers上线以来，很多用户就建议笔者加入搜索功能，后面也确实在前端用JS简单做了个页面内搜索，解决了部分用户的需求，但仍有读者希望引入更完整的全局搜索。诚然，笔者理解这个...",
+          "link": "https://kexue.fm/archives/9978",
+          "publishedOn": "2024-02-02T02:06:00.000Z",
+          "wordCount": 1430,
+          "title": "更便捷的Cool Papers打开方式：Chrome重定向扩展",
+          "imageUrl": null
+        },
+        {
           "id": "https://kexue.fm/archives/9969",
           "author": "苏剑林",
           "description": "前段时间，一个名为“幂等生成网络（Idempotent Generative Network，IGN）”的生成模型引起了一定的关注。它自称是一种独立于已有的VAE、GAN、flow、Diffus...",
@@ -1543,6 +1553,16 @@
       "feedUrl": "https://mlfoundations.org/index.xml",
       "siteUrl": "https://mlfoundations.org/",
       "articles": [
+        {
+          "id": "https://mlfoundations.org/talk/abbott/",
+          "author": null,
+          "description": "",
+          "link": "https://mlfoundations.org/talk/abbott/",
+          "publishedOn": "2024-02-02T14:00:00.000Z",
+          "wordCount": 51,
+          "title": "Larry Abbott",
+          "imageUrl": "https://mlfoundations.org/img/icon-192.png"
+        },
         {
           "id": "https://mlfoundations.org/talk/noam/",
           "author": null,

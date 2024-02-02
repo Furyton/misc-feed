@@ -2,10 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-02T01:04:28.255Z</updated>
+    <updated>2024-02-02T02:20:05.569Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Larry Abbott]]></title>
+        <id>https://mlfoundations.org/talk/abbott/</id>
+        <link href="https://mlfoundations.org/talk/abbott/"/>
+        <updated>2024-02-02T14:00:00.000Z</updated>
+        <author>
+            <name>Harvard ML Foundations</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[更便捷的Cool Papers打开方式：Chrome重定向扩展]]></title>
+        <id>https://kexue.fm/archives/9978</id>
+        <link href="https://kexue.fm/archives/9978"/>
+        <updated>2024-02-02T02:06:00.000Z</updated>
+        <summary type="html"><![CDATA[一些铺垫自Cool Papers上线以来，很多用户就建议笔者加入搜索功能，后面也确实在前端用JS简单做了个页面内搜索，解决了部分用户的需求，但仍有读者希望引入更完整的全局搜索。诚然，笔者理解这个...]]></summary>
+        <author>
+            <name>苏剑林</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[simulating signed mixtures]]></title>
         <id>http://xianblog.wordpress.com/?p=55064</id>
