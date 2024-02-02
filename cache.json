@@ -6,6 +6,46 @@
       "siteUrl": "https://www.arxivist.com",
       "articles": [
         {
+          "id": "http://arxiv.org/abs/2312.12839",
+          "author": null,
+          "description": "Hannah Blocher, Georg Schollmeyer, Malte Nalenz, Christoph Jansen",
+          "link": "http://arxiv.org/abs/2312.12839",
+          "publishedOn": "2024-02-02T05:15:03.576Z",
+          "wordCount": 680,
+          "title": "Comparing Machine Learning Algorithms by Union-Free Generic Depth",
+          "imageUrl": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2402.00809",
+          "author": null,
+          "description": "Theodore Papamarkou, Maria Skoularidou, Konstantina Palla, Laurence\n  Aitchison, Julyan Arbel, David Dunson, Maurizio Filippone, Vincent Fortuin,\n  Philipp Hennig, Aliaksandr Hubin, Alexander Immer, Theofanis Karaletsos,\n  Mohammad Emtiyaz Khan, Agustinus Kristiadi, Yingzhen Li, Jose Miguel\n  Hernandez Lobato, Stephan Mandt, Christopher Nemeth, Michael A. Osborne, Tim\n  G. J. Rudner, David R\\\"ugamer, Yee Whye Teh, Max Welling, Andrew Gordon\n  Wilson, Ruqi Zhang",
+          "link": "http://arxiv.org/abs/2402.00809",
+          "publishedOn": "2024-02-02T05:15:02.951Z",
+          "wordCount": 686,
+          "title": "Position Paper: Bayesian Deep Learning in the Age of Large-Scale AI",
+          "imageUrl": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2402.00743",
+          "author": null,
+          "description": "Yue Xing, Xiaofeng Lin, Namjoon Suh, Qifan Song, Guang Cheng",
+          "link": "http://arxiv.org/abs/2402.00743",
+          "publishedOn": "2024-02-02T05:15:02.714Z",
+          "wordCount": 701,
+          "title": "Benefits of Transformer: In-Context Learning in Linear Regression Tasks\n  with Unstructured Data",
+          "imageUrl": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2402.00396",
+          "author": null,
+          "description": "Vikranth Dwaracherla, Seyed Mohammad Asghari, Botao Hao, Benjamin Van\n  Roy",
+          "link": "http://arxiv.org/abs/2402.00396",
+          "publishedOn": "2024-02-02T05:15:02.704Z",
+          "wordCount": 582,
+          "title": "Efficient Exploration for LLMs",
+          "imageUrl": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
           "id": "http://arxiv.org/abs/1203.1691",
           "author": null,
           "description": "Susumu Oda",

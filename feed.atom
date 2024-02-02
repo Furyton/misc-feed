@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-02T04:18:45.906Z</updated>
+    <updated>2024-02-02T05:15:12.822Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -13,6 +13,54 @@
         <updated>2024-02-02T14:00:00.000Z</updated>
         <author>
             <name>Harvard ML Foundations</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Comparing Machine Learning Algorithms by Union-Free Generic Depth]]></title>
+        <id>http://arxiv.org/abs/2312.12839</id>
+        <link href="http://arxiv.org/abs/2312.12839"/>
+        <updated>2024-02-02T05:15:03.576Z</updated>
+        <summary type="html"><![CDATA[Hannah Blocher, Georg Schollmeyer, Malte Nalenz, Christoph Jansen]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Position Paper: Bayesian Deep Learning in the Age of Large-Scale AI]]></title>
+        <id>http://arxiv.org/abs/2402.00809</id>
+        <link href="http://arxiv.org/abs/2402.00809"/>
+        <updated>2024-02-02T05:15:02.951Z</updated>
+        <summary type="html"><![CDATA[Theodore Papamarkou, Maria Skoularidou, Konstantina Palla, Laurence
+  Aitchison, Julyan Arbel, David Dunson, Maurizio Filippone, Vincent Fortuin,
+  Philipp Hennig, Aliaksandr Hubin, Alexander Immer, Theofanis Karaletsos,
+  Mohammad Emtiyaz Khan, Agustinus Kristiadi, Yingzhen Li, Jose Miguel
+  Hernandez Lobato, Stephan Mandt, Christopher Nemeth, Michael A. Osborne, Tim
+  G. J. Rudner, David R\"ugamer, Yee Whye Teh, Max Welling, Andrew Gordon
+  Wilson, Ruqi Zhang]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Benefits of Transformer: In-Context Learning in Linear Regression Tasks
+  with Unstructured Data]]></title>
+        <id>http://arxiv.org/abs/2402.00743</id>
+        <link href="http://arxiv.org/abs/2402.00743"/>
+        <updated>2024-02-02T05:15:02.714Z</updated>
+        <summary type="html"><![CDATA[Yue Xing, Xiaofeng Lin, Namjoon Suh, Qifan Song, Guang Cheng]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Efficient Exploration for LLMs]]></title>
+        <id>http://arxiv.org/abs/2402.00396</id>
+        <link href="http://arxiv.org/abs/2402.00396"/>
+        <updated>2024-02-02T05:15:02.704Z</updated>
+        <summary type="html"><![CDATA[Vikranth Dwaracherla, Seyed Mohammad Asghari, Botao Hao, Benjamin Van
+  Roy]]></summary>
+        <author>
+            <name>arxivist feed</name>
         </author>
     </entry>
     <entry>
