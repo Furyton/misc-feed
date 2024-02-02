@@ -2184,6 +2184,16 @@
       "siteUrl": "https://xianblog.wordpress.com",
       "articles": [
         {
+          "id": "http://xianblog.wordpress.com/?p=55064",
+          "author": "xi'an",
+          "description": "While simulating from a mixture of standard densities is relatively straightforward, when the component densities are easily simulated, to the point that many simulation methods exploit an intermediary mixture construction to speed up the production of pseudo-random samples from more challenging distributions (see Devroye, 1986), things get surprisingly more complicated when the mixture weights can […]",
+          "link": "https://xianblog.wordpress.com/2024/02/02/simulating-signed-mixtures/",
+          "publishedOn": "2024-02-01T23:24:31.000Z",
+          "wordCount": 2622,
+          "title": "simulating signed mixtures",
+          "imageUrl": "https://xianblog.files.wordpress.com/2024/01/fig4.png"
+        },
+        {
           "id": "http://xianblog.wordpress.com/?p=54927",
           "author": "xi'an",
           "description": "Visit the post for more.",
