@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-02T19:14:29.104Z</updated>
+    <updated>2024-02-02T20:15:01.052Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[A decoder-only foundation model for time-series forecasting]]></title>
+        <id>http://blog.research.google/2024/02/a-decoder-only-foundation-model-for.html</id>
+        <link href="http://blog.research.google/2024/02/a-decoder-only-foundation-model-for.html"/>
+        <updated>2024-02-02T19:07:00.000Z</updated>
+        <summary type="html"><![CDATA[Posted by Rajat Sen and Yichen Zhou, Google Research
+
+
+
+
+
+Time-series forecasting is ubiquitous in various domains, such as retail, finance, manufacturing, healthcare and natural sciences. In retail use cases, for example, it has been observed that improving demand forecasting accuracy can meaningfully reduce inventory costs and increase revenue. Deep learning (DL) models have emerged as a popular approach for forecasting rich, multivariate, time-series data because they have proven to perform well in a variety of settings (e.g., DL models dominated the M5 competition leaderboard).
+
+
+
+At the same time, there has been rapid progress in large foundation language models used for natural language processing (NLP) tasks, such as translation, retrieval-augmented generation, and code completion. …]]></summary>
+        <author>
+            <name>Google AI Blog</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Intervening on early readouts for mitigating spurious features and simplicity bias]]></title>
         <id>http://blog.research.google/2024/02/intervening-on-early-readouts-for.html</id>
