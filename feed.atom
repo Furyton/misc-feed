@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-02T15:15:38.265Z</updated>
+    <updated>2024-02-02T16:17:45.705Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The non-culpability of ChatGPT in legal cases]]></title>
+        <id>https://languagelog.ldc.upenn.edu/nll/?p=62366</id>
+        <link href="https://languagelog.ldc.upenn.edu/nll/?p=62366&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=the-non-culpability-of-chatgpt-in-legal-cases"/>
+        <updated>2024-02-02T15:51:48.000Z</updated>
+        <summary type="html"><![CDATA["Second Circuit Refers Lawyer for Disciplinary Proceedings Based on AI-Hallucinated Case in Brief", by Eugene Volokh, The Volokh Conspiracy, reason | 1.30.2024 From Park v. Kim, decided today by the Second Circuit (Judges Barrington Parker, Allison Nathan, and Sarah Merriam); this is the 13th case I've seen in the last year in which AI-hallucinated citations were […]]]></summary>
+        <author>
+            <name>Victor Mair</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Larry Abbott]]></title>
         <id>https://mlfoundations.org/talk/abbott/</id>
@@ -2882,16 +2892,6 @@ First, the UX part. We are a multi-disciplinary team of product design experts: 
         <summary type="html"><![CDATA[Md Musfiqur Rahman, Murat Kocaoglu]]></summary>
         <author>
             <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Auld Lang Syne in Cantonese]]></title>
-        <id>https://languagelog.ldc.upenn.edu/nll/?p=62019</id>
-        <link href="https://languagelog.ldc.upenn.edu/nll/?p=62019&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=auld-lang-syne-in-cantonese"/>
-        <updated>2024-01-04T03:16:49.000Z</updated>
-        <summary type="html"><![CDATA[[from a long-time Language Log reader] One of the well known Cantonese versions of Auld Lang Syne: 友誼萬歲 jau5 ji4 maan6 seoi3 “Long Live Friendship” from Hong Kong:   朋友 再見聲聲 往昔歡笑 來日記取   pang4 jau5  zoi3 gin3 seng1 seng1  wong5 sik1 fun1 siu3  loi4 jat6 gei3 ceoi2   Farewell friends, happy memories of the […]]]></summary>
-        <author>
-            <name>Victor Mair</name>
         </author>
     </entry>
 </feed>
