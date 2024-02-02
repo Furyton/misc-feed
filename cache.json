@@ -2553,6 +2553,16 @@
       "siteUrl": "http://blog.research.google/",
       "articles": [
         {
+          "id": "http://blog.research.google/2024/02/intervening-on-early-readouts-for.html",
+          "author": null,
+          "description": "Posted by Rishabh Tiwari, Pre-doctoral Researcher, and Pradeep Shenoy, Research Scientist, Google Research\n\n\n\n\nMachine learning models in the real world are often trained on limited data that may contain unintended statistical biases. For example, in the CELEBA celebrity image dataset, a disproportionate number of female celebrities have blond hair, leading to classifiers incorrectly predicting “blond” as the hair color for most female faces — here, gender is a spurious feature for predicting hair color. Such unfair biases could have significant consequences in critical applications such as medical diagnosis. \n\n\n\n\n\nSurprisingly, recent work has also discovered an inherent tendency of deep networks to amplify such statistical biases, through the so-called simplicity bias of deep learning. T…",
+          "link": "http://blog.research.google/2024/02/intervening-on-early-readouts-for.html",
+          "publishedOn": "2024-02-02T17:49:00.000Z",
+          "wordCount": 27761,
+          "title": "Intervening on early readouts for mitigating spurious features and simplicity bias",
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgdBd5rMRA2U1nd8fetuEweTgmHncn49ASMQtPlm6dfsr5V29RwsoUR8UtK4B7oSE1eiIdW-vD-gjCUK4tGZTbsY4XdO0adL2YtAjpgbF1S3mL_Jw3f31SwLKYUtCOLJ807gdXdRmD5iVsrtc_Ii-BiqQacv89vbtRbNAIINa9PhKAF_sDAZu09FLs4599T/w1200-h630-p-k-no-nu/SiFer%20Hero.png"
+        },
+        {
           "id": "http://blog.research.google/2024/01/mobilediffusion-rapid-text-to-image.html",
           "author": null,
           "description": "Posted by Yang Zhao, Senior Software Engineer, and Tingbo Hou, Senior Staff Software Engineer, Core ML\n\n\n\n\nText-to-image diffusion models have shown exceptional capabilities in generating high-quality images from text prompts. However, leading models feature billions of parameters and are consequently expensive to run, requiring powerful desktops or servers (e.g., Stable Diffusion, DALL·E, and Imagen). While recent advancements in inference solutions on Android via MediaPipe and iOS via Core ML have been made in the past year, rapid (sub-second) text-to-image generation on mobile devices has remained out of reach.\n \n\nTo that end, in “MobileDiffusion: Subsecond Text-to-Image Generation on Mobile Devices”, we introduce a novel approach with the potential for rapid text-to-image generation on…",

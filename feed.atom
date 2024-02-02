@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-02T18:19:30.197Z</updated>
+    <updated>2024-02-02T19:14:29.104Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Intervening on early readouts for mitigating spurious features and simplicity bias]]></title>
+        <id>http://blog.research.google/2024/02/intervening-on-early-readouts-for.html</id>
+        <link href="http://blog.research.google/2024/02/intervening-on-early-readouts-for.html"/>
+        <updated>2024-02-02T17:49:00.000Z</updated>
+        <summary type="html"><![CDATA[Posted by Rishabh Tiwari, Pre-doctoral Researcher, and Pradeep Shenoy, Research Scientist, Google Research
+
+
+
+
+Machine learning models in the real world are often trained on limited data that may contain unintended statistical biases. For example, in the CELEBA celebrity image dataset, a disproportionate number of female celebrities have blond hair, leading to classifiers incorrectly predicting “blond” as the hair color for most female faces — here, gender is a spurious feature for predicting hair color. Such unfair biases could have significant consequences in critical applications such as medical diagnosis. 
+
+
+
+
+
+Surprisingly, recent work has also discovered an inherent tendency of deep networks to amplify such statistical biases, through the so-called simplicity bias of deep learning. T…]]></summary>
+        <author>
+            <name>Google AI Blog</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The non-culpability of ChatGPT in legal cases]]></title>
         <id>https://languagelog.ldc.upenn.edu/nll/?p=62366</id>
