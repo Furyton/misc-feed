@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-02T23:14:26.608Z</updated>
+    <updated>2024-02-03T01:03:11.926Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[and at the end, EUcology always loses…]]></title>
+        <id>http://xianblog.wordpress.com/?p=55115</id>
+        <link href="https://xianblog.wordpress.com/2024/02/03/and-at-the-end-eucology-always-looses/"/>
+        <updated>2024-02-02T23:24:22.000Z</updated>
+        <summary type="html"><![CDATA[Visit the post for more.]]></summary>
+        <author>
+            <name>xi'an</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[A decoder-only foundation model for time-series forecasting]]></title>
         <id>http://blog.research.google/2024/02/a-decoder-only-foundation-model-for.html</id>
@@ -2814,16 +2824,6 @@ First, the UX part. We are a multi-disciplinary team of product design experts: 
         <summary type="html"><![CDATA["The Times Sues OpenAI and Microsoft Over A.I. Use of Copyrighted Work", NYT 12/27/2023: The New York Times sued OpenAI and Microsoft for copyright infringement on Wednesday, opening a new front in the increasingly intense legal battle over the unauthorized use of published work to train artificial intelligence technologies. The Times is the first major […]]]></summary>
         <author>
             <name>Mark Liberman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Shaping the future of advanced robotics]]></title>
-        <id>https://deepmind.google/discover/blog/shaping-the-future-of-advanced-robotics/</id>
-        <link href="https://deepmind.google/discover/blog/shaping-the-future-of-advanced-robotics/"/>
-        <updated>2024-01-04T11:39:00.000Z</updated>
-        <summary type="html"><![CDATA[AutoRT, SARA-RT, and RT-Trajectory build on our historic Robotics Transformers work to help robots make decisions faster, and better understand and navigate their environments.]]></summary>
-        <author>
-            <name>Google DeepMind Blog</name>
         </author>
     </entry>
 </feed>
