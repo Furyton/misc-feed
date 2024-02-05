@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-05T15:14:42.646Z</updated>
+    <updated>2024-02-05T16:18:17.809Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Guess and check]]></title>
+        <id>https://www.argmin.net/p/guess-and-check</id>
+        <link href="https://www.argmin.net/p/guess-and-check"/>
+        <updated>2024-02-05T15:28:20.000Z</updated>
+        <summary type="html"><![CDATA[Unpacking the logic of the prediction interval]]></summary>
+        <author>
+            <name>Ben Recht</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Guess and check]]></title>
+        <id>https://www.argmin.net/p/guess-and-check</id>
+        <link href="https://www.argmin.net/p/guess-and-check"/>
+        <updated>2024-02-05T15:28:20.000Z</updated>
+        <summary type="html"><![CDATA[Unpacking the logic of the prediction interval]]></summary>
+        <author>
+            <name>Ben Recht</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[From geometry to invertibility preservers]]></title>
         <id>http://arxiv.org/abs/1304.0232</id>
