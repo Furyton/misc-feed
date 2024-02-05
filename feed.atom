@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-04T23:14:07.314Z</updated>
+    <updated>2024-02-05T01:06:10.144Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[a mere £1,500 dinner]]></title>
+        <id>http://xianblog.wordpress.com/?p=54870</id>
+        <link href="https://xianblog.wordpress.com/2024/02/05/a-mere-1500-dinner/"/>
+        <updated>2024-02-04T23:24:13.000Z</updated>
+        <summary type="html"><![CDATA[As a one-time patron of the X on Kenilworth, I received an invitation to join the fundraising Bocuse d’Or UK gala diner, at a mere £1,500 each (with the helpful addition that 10 tickets would cost £10,500!]. Despite being partial to foie gras, buckwheat, scallops, Jerusalem artichokes, and vin jaune, methinks I will pass the […]]]></summary>
+        <author>
+            <name>xi'an</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Handsome court — translation / transcription hybrid]]></title>
         <id>https://languagelog.ldc.upenn.edu/nll/?p=62376</id>
@@ -2621,26 +2631,6 @@ First, the UX part. We are a multi-disciplinary team of product design experts: 
         <summary type="html"><![CDATA[Visit the post for more.]]></summary>
         <author>
             <name>xi'an</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The plagiarism circus]]></title>
-        <id>https://languagelog.ldc.upenn.edu/nll/?p=62059</id>
-        <link href="https://languagelog.ldc.upenn.edu/nll/?p=62059&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=the-plagiarism-circus"/>
-        <updated>2024-01-06T12:29:41.000Z</updated>
-        <summary type="html"><![CDATA[The plagiarism circus has added second and third rings, and a sideshow. Ring #1: This all started on 12/10/2023, with politically-motivated accusations of plagiarism against the former Harvard president, Claudine Gay. For details and a timeline, see "The plagiarism allegations against ex-Harvard president Claudine Gay, explained", WaPo 1/4/2024. Bill Ackman and others used those charges […]]]></summary>
-        <author>
-            <name>Mark Liberman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The language of spices]]></title>
-        <id>https://languagelog.ldc.upenn.edu/nll/?p=62054</id>
-        <link href="https://languagelog.ldc.upenn.edu/nll/?p=62054&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=the-language-of-spices"/>
-        <updated>2024-01-06T11:49:02.000Z</updated>
-        <summary type="html"><![CDATA[Sino-Platonic Papers is pleased to announce the publication of its three-hundred-and-thirty-eighth issue: “Mapping the Language of Spices: A Corpus-Based, Philological Study on the Words of the Spice Domain,” by Gábor Parti. ABSTRACT Most of the existing literature on spices is to be found in the areas of gastronomy, botany, and history. This study instead investigates […]]]></summary>
-        <author>
-            <name>Victor Mair</name>
         </author>
     </entry>
 </feed>
