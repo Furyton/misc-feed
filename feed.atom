@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-06T19:12:23.948Z</updated>
+    <updated>2024-02-06T20:15:29.622Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Graph neural networks in TensorFlow]]></title>
+        <id>http://blog.research.google/2024/02/graph-neural-networks-in-tensorflow.html</id>
+        <link href="http://blog.research.google/2024/02/graph-neural-networks-in-tensorflow.html"/>
+        <updated>2024-02-06T19:17:00.000Z</updated>
+        <summary type="html"><![CDATA[Posted by Dustin Zelle, Software Engineer, Google Research, and Arno Eigenwillig, Software Engineer, CoreML
+
+
+
+
+Objects and their relationships are ubiquitous in the world around us, and relationships can be as important to understanding an object as its own attributes viewed in isolation — take for example transportation networks, production networks, knowledge graphs, or social networks. Discrete mathematics and computer science have a long history of formalizing such networks as graphs, consisting of nodes connected by edges in various irregular ways. Yet most machine learning (ML) algorithms allow only for regular and uniform relations between input objects, such as a grid of pixels, a sequence of words, or no relation at all. 
+
+
+
+
+Graph neural networks, or GNNs for short, have emerged…]]></summary>
+        <author>
+            <name>Google AI Blog</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[When is the future the same as the past?]]></title>
         <id>https://www.argmin.net/p/when-is-the-future-the-same-as-the</id>
