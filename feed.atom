@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-07T15:14:21.416Z</updated>
+    <updated>2024-02-07T16:19:49.164Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[From coin tosses to option pricing]]></title>
+        <id>https://www.argmin.net/p/from-coin-tosses-to-option-pricing</id>
+        <link href="https://www.argmin.net/p/from-coin-tosses-to-option-pricing"/>
+        <updated>2024-02-07T15:23:27.000Z</updated>
+        <summary type="html"><![CDATA[Building prediction intervals using what we know about confidence intervals]]></summary>
+        <author>
+            <name>Ben Recht</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[From coin tosses to option pricing]]></title>
+        <id>https://www.argmin.net/p/from-coin-tosses-to-option-pricing</id>
+        <link href="https://www.argmin.net/p/from-coin-tosses-to-option-pricing"/>
+        <updated>2024-02-07T15:23:27.000Z</updated>
+        <summary type="html"><![CDATA[Building prediction intervals using what we know about confidence intervals]]></summary>
+        <author>
+            <name>Ben Recht</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Classical Verification of Quantum Learning]]></title>
         <id>http://arxiv.org/abs/2306.04843</id>
@@ -2773,16 +2793,6 @@ This has led to a surge in methods related to self-correction, where an LLM is u
         <link href="https://languagelog.ldc.upenn.edu/nll/?p=62094&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=tea-in-glasgow"/>
         <updated>2024-01-09T04:41:37.000Z</updated>
         <summary type="html"><![CDATA[WSJ Opinion (1/7/24) by Nicholas Tomaino The Most Spoken Words in Glasgow When someone says, ‘Would anyone like a cup of tea,’ he isn’t offering the best-tasting thing one’s ever had. But that isn’t the point. The author begins: I was 23 when I drank my first cup of tea. As an Italian-American, I was […]]]></summary>
-        <author>
-            <name>Victor Mair</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pelvic floor wrench]]></title>
-        <id>https://languagelog.ldc.upenn.edu/nll/?p=62024</id>
-        <link href="https://languagelog.ldc.upenn.edu/nll/?p=62024&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=pelvic-floor-wrench"/>
-        <updated>2024-01-09T04:07:34.000Z</updated>
-        <summary type="html"><![CDATA[Victor Steinbok said that he found this on Wish: When VS sends me mysterious English specimens like this, I can usually immediately feel it in my bones that they come from a mangled Chinese original.  However, they often come without a trace of Chinese to sink my teeth into, leading me to lament, oy vey, […]]]></summary>
         <author>
             <name>Victor Mair</name>
         </author>
