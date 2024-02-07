@@ -6,6 +6,56 @@
       "siteUrl": "https://www.arxivist.com",
       "articles": [
         {
+          "id": "http://arxiv.org/abs/2306.04843",
+          "author": null,
+          "description": "Matthias C. Caro, Marcel Hinsche, Marios Ioannou, Alexander Nietner,\n  Ryan Sweke",
+          "link": "http://arxiv.org/abs/2306.04843",
+          "publishedOn": "2024-02-07T15:14:09.456Z",
+          "wordCount": 818,
+          "title": "Classical Verification of Quantum Learning",
+          "imageUrl": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2310.10143",
+          "author": null,
+          "description": "Makoto Yamada, Yuki Takezawa, Guillaume Houry, Kira Michaela\n  Dusterwald, Deborah Sulem, Han Zhao, Yao-Hung Hubert Tsai",
+          "link": "http://arxiv.org/abs/2310.10143",
+          "publishedOn": "2024-02-07T15:14:08.881Z",
+          "wordCount": 784,
+          "title": "An Empirical Study of Self-supervised Learning with Wasserstein Distance",
+          "imageUrl": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2209.07481",
+          "author": null,
+          "description": "Rob Brekelmans, Frank Nielsen",
+          "link": "http://arxiv.org/abs/2209.07481",
+          "publishedOn": "2024-02-07T15:14:08.806Z",
+          "wordCount": 723,
+          "title": "Variational Representations of Annealing Paths: Bregman Information\n  under Monotonic Embedding",
+          "imageUrl": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2307.00405",
+          "author": null,
+          "description": "Ruiquan Huang, Yingbin Liang, Jing Yang",
+          "link": "http://arxiv.org/abs/2307.00405",
+          "publishedOn": "2024-02-07T15:14:08.617Z",
+          "wordCount": 737,
+          "title": "Provably Efficient UCB-type Algorithms For Learning Predictive State\n  Representations",
+          "imageUrl": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2005.09218",
+          "author": null,
+          "description": "Jia-Fong Yeh, Hsin-Ying Lee, Bing-Chen Tsai, Yi-Rong Chen and\n  Ping-Chia Huang, Winston H. Hsu",
+          "link": "http://arxiv.org/abs/2005.09218",
+          "publishedOn": "2024-02-07T15:14:08.613Z",
+          "wordCount": 745,
+          "title": "Large Margin Mechanism and Pseudo Query Set on Cross-Domain Few-Shot\n  Learning",
+          "imageUrl": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
           "id": "http://arxiv.org/abs/1205.0772",
           "author": null,
           "description": "Hiram H. Lopez, Rafael H. Villarreal",

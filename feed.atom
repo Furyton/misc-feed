@@ -2,10 +2,66 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-07T14:13:15.643Z</updated>
+    <updated>2024-02-07T15:14:21.416Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Classical Verification of Quantum Learning]]></title>
+        <id>http://arxiv.org/abs/2306.04843</id>
+        <link href="http://arxiv.org/abs/2306.04843"/>
+        <updated>2024-02-07T15:14:09.456Z</updated>
+        <summary type="html"><![CDATA[Matthias C. Caro, Marcel Hinsche, Marios Ioannou, Alexander Nietner,
+  Ryan Sweke]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[An Empirical Study of Self-supervised Learning with Wasserstein Distance]]></title>
+        <id>http://arxiv.org/abs/2310.10143</id>
+        <link href="http://arxiv.org/abs/2310.10143"/>
+        <updated>2024-02-07T15:14:08.881Z</updated>
+        <summary type="html"><![CDATA[Makoto Yamada, Yuki Takezawa, Guillaume Houry, Kira Michaela
+  Dusterwald, Deborah Sulem, Han Zhao, Yao-Hung Hubert Tsai]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Variational Representations of Annealing Paths: Bregman Information
+  under Monotonic Embedding]]></title>
+        <id>http://arxiv.org/abs/2209.07481</id>
+        <link href="http://arxiv.org/abs/2209.07481"/>
+        <updated>2024-02-07T15:14:08.806Z</updated>
+        <summary type="html"><![CDATA[Rob Brekelmans, Frank Nielsen]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Provably Efficient UCB-type Algorithms For Learning Predictive State
+  Representations]]></title>
+        <id>http://arxiv.org/abs/2307.00405</id>
+        <link href="http://arxiv.org/abs/2307.00405"/>
+        <updated>2024-02-07T15:14:08.617Z</updated>
+        <summary type="html"><![CDATA[Ruiquan Huang, Yingbin Liang, Jing Yang]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Large Margin Mechanism and Pseudo Query Set on Cross-Domain Few-Shot
+  Learning]]></title>
+        <id>http://arxiv.org/abs/2005.09218</id>
+        <link href="http://arxiv.org/abs/2005.09218"/>
+        <updated>2024-02-07T15:14:08.613Z</updated>
+        <summary type="html"><![CDATA[Jia-Fong Yeh, Hsin-Ying Lee, Bing-Chen Tsai, Yi-Rong Chen and
+  Ping-Chia Huang, Winston H. Hsu]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Taiwanese pun on a curry shop sign]]></title>
         <id>https://languagelog.ldc.upenn.edu/nll/?p=62392</id>
