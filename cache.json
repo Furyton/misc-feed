@@ -1851,6 +1851,16 @@
       "siteUrl": "https://pytorch.org/",
       "articles": [
         {
+          "id": "https://pytorch.org/blog/pytorch-2-paper-tutorial/",
+          "author": null,
+          "description": "The PyTorch team is excited to share that our paper on PyTorch 2 has been accepted for presentation at the ACM International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS), scheduled to take place from April 27 to May 1, 2024, in San Diego, CA, USA.",
+          "link": "https://pytorch.org/blog/pytorch-2-paper-tutorial/",
+          "publishedOn": "2024-02-06T08:00:00.000Z",
+          "wordCount": 1009,
+          "title": "PyTorch 2 paper and tutorial @ ASPLOS 2024",
+          "imageUrl": "https://pytorch.org/assets/images/social-share.jpg"
+        },
+        {
           "id": "https://pytorch.org/blog/new-in-docs/",
           "author": null,
           "description": "Greetings to the PyTorch community! Here is a quick update on PyTorch docs.",
@@ -2992,16 +3002,6 @@
           "publishedOn": "2024-01-09T15:33:34.000Z",
           "wordCount": 2950,
           "title": "Mushroom language?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://languagelog.ldc.upenn.edu/nll/?p=62094",
-          "author": "Victor Mair",
-          "description": "WSJ Opinion (1/7/24) by Nicholas Tomaino The Most Spoken Words in Glasgow When someone says, ‘Would anyone like a cup of tea,’ he isn’t offering the best-tasting thing one’s ever had. But that isn’t the point. The author begins: I was 23 when I drank my first cup of tea. As an Italian-American, I was […]",
-          "link": "https://languagelog.ldc.upenn.edu/nll/?p=62094&utm_source=rss&utm_medium=rss&utm_campaign=tea-in-glasgow",
-          "publishedOn": "2024-01-09T04:41:37.000Z",
-          "wordCount": 2749,
-          "title": "Tea in Glasgow",
           "imageUrl": null
         }
       ]
