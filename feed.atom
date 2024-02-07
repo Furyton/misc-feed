@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-07T03:16:18.779Z</updated>
+    <updated>2024-02-07T04:17:55.524Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Complete intersections in binomial and lattice ideals]]></title>
+        <id>http://arxiv.org/abs/1205.0772</id>
+        <link href="http://arxiv.org/abs/1205.0772"/>
+        <updated>2024-02-07T04:17:40.507Z</updated>
+        <summary type="html"><![CDATA[Hiram H. Lopez, Rafael H. Villarreal]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Projective nested cartesian codes]]></title>
+        <id>http://arxiv.org/abs/1411.6819</id>
+        <link href="http://arxiv.org/abs/1411.6819"/>
+        <updated>2024-02-07T04:17:40.503Z</updated>
+        <summary type="html"><![CDATA[Cicero Carvalho, V. G. Lopez Neumann, Hiram H. Lopez]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Affine cartesian codes]]></title>
         <id>http://arxiv.org/abs/1202.0085</id>
