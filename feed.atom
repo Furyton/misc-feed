@@ -2,10 +2,62 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-07T02:19:29.100Z</updated>
+    <updated>2024-02-07T03:16:18.779Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Affine cartesian codes]]></title>
+        <id>http://arxiv.org/abs/1202.0085</id>
+        <link href="http://arxiv.org/abs/1202.0085"/>
+        <updated>2024-02-07T03:16:09.633Z</updated>
+        <summary type="html"><![CDATA[Hiram H. Lopez, Carlos Renteria, Rafael H. Villarreal]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Parameterized affine codes]]></title>
+        <id>http://arxiv.org/abs/1109.2353</id>
+        <link href="http://arxiv.org/abs/1109.2353"/>
+        <updated>2024-02-07T03:16:09.580Z</updated>
+        <summary type="html"><![CDATA[Hiram H. Lopez, Eliseo Sarmiento, Maria Vaz Pinto, Rafael H.
+  Villarreal]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Computing the degree of a lattice ideal of dimension one]]></title>
+        <id>http://arxiv.org/abs/1206.1892</id>
+        <link href="http://arxiv.org/abs/1206.1892"/>
+        <updated>2024-02-07T03:16:09.403Z</updated>
+        <summary type="html"><![CDATA[Hiram H. Lopez, Rafael H. Villarreal]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Complete intersection vanishing ideals on degenerate tori over finite
+  fields]]></title>
+        <id>http://arxiv.org/abs/1207.0244</id>
+        <link href="http://arxiv.org/abs/1207.0244"/>
+        <updated>2024-02-07T03:16:09.392Z</updated>
+        <summary type="html"><![CDATA[Hiram H. Lopez, Rafael H. Villarreal, Leticia Zarate]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rank distribution of Delsarte codes]]></title>
+        <id>http://arxiv.org/abs/1510.01008</id>
+        <link href="http://arxiv.org/abs/1510.01008"/>
+        <updated>2024-02-07T03:16:09.388Z</updated>
+        <summary type="html"><![CDATA[Javier de la Cruz, Elisa Gorla, Hiram H. Lopez, Alberto Ravagnani]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[a journal of the conquest, war, famine, and death [definitely new] year]]></title>
         <id>http://xianblog.wordpress.com/?p=54860</id>
@@ -2676,26 +2728,6 @@ Google’s Responsible AI User Experience (Responsible AI UX) team is a product-
 First, the UX part. We are a multi-disciplinary team of product design experts: designers, engineers, researchers, and strategists who manage the user-centered UX design process from early-…]]></summary>
         <author>
             <name>Google AI Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Is the reproducibility crisis reproducible?]]></title>
-        <id>https://www.argmin.net/p/is-the-reproducibility-crisis-reproducible</id>
-        <link href="https://www.argmin.net/p/is-the-reproducibility-crisis-reproducible"/>
-        <updated>2024-01-08T15:08:21.000Z</updated>
-        <summary type="html"><![CDATA[Rekindling the war on p-values in 2024.]]></summary>
-        <author>
-            <name>Ben Recht</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Is the reproducibility crisis reproducible?]]></title>
-        <id>https://www.argmin.net/p/is-the-reproducibility-crisis-reproducible</id>
-        <link href="https://www.argmin.net/p/is-the-reproducibility-crisis-reproducible"/>
-        <updated>2024-01-08T15:08:21.000Z</updated>
-        <summary type="html"><![CDATA[Rekindling the war on p-values in 2024.]]></summary>
-        <author>
-            <name>Ben Recht</name>
         </author>
     </entry>
 </feed>

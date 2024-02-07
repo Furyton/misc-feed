@@ -6,6 +6,56 @@
       "siteUrl": "https://www.arxivist.com",
       "articles": [
         {
+          "id": "http://arxiv.org/abs/1202.0085",
+          "author": null,
+          "description": "Hiram H. Lopez, Carlos Renteria, Rafael H. Villarreal",
+          "link": "http://arxiv.org/abs/1202.0085",
+          "publishedOn": "2024-02-07T03:16:09.633Z",
+          "wordCount": 617,
+          "title": "Affine cartesian codes",
+          "imageUrl": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/1109.2353",
+          "author": null,
+          "description": "Hiram H. Lopez, Eliseo Sarmiento, Maria Vaz Pinto, Rafael H.\n  Villarreal",
+          "link": "http://arxiv.org/abs/1109.2353",
+          "publishedOn": "2024-02-07T03:16:09.580Z",
+          "wordCount": 641,
+          "title": "Parameterized affine codes",
+          "imageUrl": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/1206.1892",
+          "author": null,
+          "description": "Hiram H. Lopez, Rafael H. Villarreal",
+          "link": "http://arxiv.org/abs/1206.1892",
+          "publishedOn": "2024-02-07T03:16:09.403Z",
+          "wordCount": 613,
+          "title": "Computing the degree of a lattice ideal of dimension one",
+          "imageUrl": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/1207.0244",
+          "author": null,
+          "description": "Hiram H. Lopez, Rafael H. Villarreal, Leticia Zarate",
+          "link": "http://arxiv.org/abs/1207.0244",
+          "publishedOn": "2024-02-07T03:16:09.392Z",
+          "wordCount": 665,
+          "title": "Complete intersection vanishing ideals on degenerate tori over finite\n  fields",
+          "imageUrl": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/1510.01008",
+          "author": null,
+          "description": "Javier de la Cruz, Elisa Gorla, Hiram H. Lopez, Alberto Ravagnani",
+          "link": "http://arxiv.org/abs/1510.01008",
+          "publishedOn": "2024-02-07T03:16:09.388Z",
+          "wordCount": 680,
+          "title": "Rank distribution of Delsarte codes",
+          "imageUrl": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
           "id": "http://arxiv.org/abs/1609.09407",
           "author": null,
           "description": "Eduardo Hitomi, Felipe Yasumura",
@@ -1545,22 +1595,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substack-post-media.s3.amazonaws.com/public/images/f5bb3acf-2d41-4afc-9ea8-60aa914237bc_441x300.png"
-        },
-        {
-          "id": "https://www.argmin.net/p/is-the-reproducibility-crisis-reproducible",
-          "author": "Ben Recht",
-          "description": "Rekindling the war on p-values in 2024.",
-          "link": "https://www.argmin.net/p/is-the-reproducibility-crisis-reproducible",
-          "publishedOn": "2024-01-08T15:08:21.000Z",
-          "wordCount": null,
-          "title": "Is the reproducibility crisis reproducible?",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substack-post-media.s3.amazonaws.com/public/images/ef55412e-679e-4d49-8fd9-e2d47910476d_452x300.png",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substack-post-media.s3.amazonaws.com/public/images/ef55412e-679e-4d49-8fd9-e2d47910476d_452x300.png"
         }
       ]
     },
@@ -2000,22 +2034,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substack-post-media.s3.amazonaws.com/public/images/f5bb3acf-2d41-4afc-9ea8-60aa914237bc_441x300.png"
-        },
-        {
-          "id": "https://www.argmin.net/p/is-the-reproducibility-crisis-reproducible",
-          "author": "Ben Recht",
-          "description": "Rekindling the war on p-values in 2024.",
-          "link": "https://www.argmin.net/p/is-the-reproducibility-crisis-reproducible",
-          "publishedOn": "2024-01-08T15:08:21.000Z",
-          "wordCount": null,
-          "title": "Is the reproducibility crisis reproducible?",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substack-post-media.s3.amazonaws.com/public/images/ef55412e-679e-4d49-8fd9-e2d47910476d_452x300.png",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substack-post-media.s3.amazonaws.com/public/images/ef55412e-679e-4d49-8fd9-e2d47910476d_452x300.png"
         }
       ]
     },
