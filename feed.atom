@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-07T11:12:58.693Z</updated>
+    <updated>2024-02-07T12:26:25.603Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -2699,36 +2699,6 @@ This has led to a surge in methods related to self-correction, where an LLM is u
         <summary type="html"><![CDATA[Victor Steinbok said that he found this on Wish: When VS sends me mysterious English specimens like this, I can usually immediately feel it in my bones that they come from a mangled Chinese original.  However, they often come without a trace of Chinese to sink my teeth into, leading me to lament, oy vey, […]]]></summary>
         <author>
             <name>Victor Mair</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NumPy 2 is coming: preventing breakage, updating your code]]></title>
-        <id>https://pythonspeed.com/articles/numpy-2/</id>
-        <link href="https://pythonspeed.com/articles/numpy-2/"/>
-        <updated>2024-01-09T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[If you’re writing scientific or data science code with Python, there’s a good chance you’re using NumPy, directly or indirectly.
-Pandas, Scikit-Image, SciPy, Scikit-Learn, AstroPy… these and many other packages depend on NumPy.
-NumPy 2 is a new major release, with a release candidate coming out February 1st 2024, and a final release a month or two later.
-Importantly, it’s backwards incompatible; not in a major way, but enough that some work might be required to upgrade.
-And that means you need to make sure your application doesn’t break when NumPy 2 comes out.
-In this article we’ll cover:
-The different ways the new release might break your application.
-A quick reminder about the importance of pinning packages.
-How to ensure your application doesn’t install NumPy 2 until you’re ready.
-How to easily upgrade your code to support NumPy 2.
-Read more...]]></summary>
-        <author>
-            <name>Python⇒Speed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[a journal of the conquest, war, famine, and death [almost new] year]]></title>
-        <id>http://xianblog.wordpress.com/?p=54727</id>
-        <link href="https://xianblog.wordpress.com/2024/01/09/a-journal-of-the-conquest-war-famine-and-death-new-year/"/>
-        <updated>2024-01-08T23:24:02.000Z</updated>
-        <summary type="html"><![CDATA[Read the fabulous Exhaltation over the trip to Australia [which deserved a post of its own!] and not much more, as I tried House of Earth and Blood. A terrible book I fortunately bought second-hand and which I returned to the seller at the South Melbourne market after one evening reading thru the first 100+ […]]]></summary>
-        <author>
-            <name>xi'an</name>
         </author>
     </entry>
 </feed>

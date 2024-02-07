@@ -1642,16 +1642,6 @@
           "wordCount": 923,
           "title": "Beware of misleading GPU vs CPU benchmarks",
           "imageUrl": "https://pythonspeed.com/assets/titles/gpu-vs-cpu.png"
-        },
-        {
-          "id": "https://pythonspeed.com/articles/numpy-2/",
-          "author": null,
-          "description": "If you’re writing scientific or data science code with Python, there’s a good chance you’re using NumPy, directly or indirectly.\nPandas, Scikit-Image, SciPy, Scikit-Learn, AstroPy… these and many other packages depend on NumPy.\nNumPy 2 is a new major release, with a release candidate coming out February 1st 2024, and a final release a month or two later.\nImportantly, it’s backwards incompatible; not in a major way, but enough that some work might be required to upgrade.\nAnd that means you need to make sure your application doesn’t break when NumPy 2 comes out.\nIn this article we’ll cover:\nThe different ways the new release might break your application.\nA quick reminder about the importance of pinning packages.\nHow to ensure your application doesn’t install NumPy 2 until you’re ready.\nHow to easily upgrade your code to support NumPy 2.\nRead more...",
-          "link": "https://pythonspeed.com/articles/numpy-2/",
-          "publishedOn": "2024-01-09T00:00:00.000Z",
-          "wordCount": 1359,
-          "title": "NumPy 2 is coming: preventing breakage, updating your code",
-          "imageUrl": "https://pythonspeed.com/assets/titles/numpy-2.png"
         }
       ]
     },
@@ -2384,16 +2374,6 @@
           "wordCount": 2473,
           "title": "24 PhD fellowships in Mathematical Sciences partly in Paris",
           "imageUrl": "https://xianblog.files.wordpress.com/2012/12/img_3000.jpg"
-        },
-        {
-          "id": "http://xianblog.wordpress.com/?p=54727",
-          "author": "xi'an",
-          "description": "Read the fabulous Exhaltation over the trip to Australia [which deserved a post of its own!] and not much more, as I tried House of Earth and Blood. A terrible book I fortunately bought second-hand and which I returned to the seller at the South Melbourne market after one evening reading thru the first 100+ […]",
-          "link": "https://xianblog.wordpress.com/2024/01/09/a-journal-of-the-conquest-war-famine-and-death-new-year/",
-          "publishedOn": "2024-01-08T23:24:02.000Z",
-          "wordCount": 2561,
-          "title": "a journal of the conquest, war, famine, and death [almost new] year",
-          "imageUrl": "https://xianblog.files.wordpress.com/2023/12/1702931946721-e1702932124314.jpg"
         }
       ]
     },
