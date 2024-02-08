@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-08T12:27:24.085Z</updated>
+    <updated>2024-02-08T13:16:30.517Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The next chapter of our Gemini era]]></title>
+        <id>https://deepmind.google/discover/blog/google-gemini-update-sundar-pichai-2024/</id>
+        <link href="https://deepmind.google/discover/blog/google-gemini-update-sundar-pichai-2024/"/>
+        <updated>2024-02-08T13:00:55.000Z</updated>
+        <summary type="html"><![CDATA[We're bringing Gemini to more Google products.]]></summary>
+        <author>
+            <name>Google DeepMind Blog</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Can neural networks do arithmetic? A survey on the elementary numerical
   skills of state-of-the-art deep learning models]]></title>
