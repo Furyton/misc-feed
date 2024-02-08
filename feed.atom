@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-07T23:15:01.872Z</updated>
+    <updated>2024-02-08T01:03:12.588Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[histories of sign languages]]></title>
+        <id>http://xianblog.wordpress.com/?p=55128</id>
+        <link href="https://xianblog.wordpress.com/2024/02/08/55128/"/>
+        <updated>2024-02-07T23:24:31.000Z</updated>
+        <summary type="html"><![CDATA[Congrats to Grégoire Clarté (now in Edinburgh) and Robin Ryder who, along with coauthors from several instutions, published an article in Science this week about the philogenetic tree of (Asian and European) sign languages for the deaf people. Part of Grégoire’s thesis contained preliminary work on this problem. Abstract Sign languages are naturally occurring languages. […]]]></summary>
+        <author>
+            <name>xi'an</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[From coin tosses to option pricing]]></title>
         <id>https://www.argmin.net/p/from-coin-tosses-to-option-pricing</id>
