@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-08T19:12:38.461Z</updated>
+    <updated>2024-02-08T20:15:12.406Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -2721,16 +2721,6 @@ This has led to a surge in methods related to self-correction, where an LLM is u
   Lu\'is C. Lamb]]></summary>
         <author>
             <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Finetune LLMs on your own consumer hardware using tools from PyTorch and Hugging Face ecosystem]]></title>
-        <id>https://pytorch.org/blog/finetune-llms/</id>
-        <link href="https://pytorch.org/blog/finetune-llms/"/>
-        <updated>2024-01-10T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[We demonstrate how to finetune a 7B parameter model on a typical consumer GPU (NVIDIA T4 16GB) with LoRA and tools from the PyTorch and Hugging Face ecosystem with complete reproducible Google Colab notebook.]]></summary>
-        <author>
-            <name>PyTorch Website</name>
         </author>
     </entry>
     <entry>
