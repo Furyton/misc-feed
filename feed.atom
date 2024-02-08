@@ -2,10 +2,62 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-08T03:16:07.750Z</updated>
+    <updated>2024-02-08T04:18:10.055Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Can neural networks do arithmetic? A survey on the elementary numerical
+  skills of state-of-the-art deep learning models]]></title>
+        <id>http://arxiv.org/abs/2303.07735</id>
+        <link href="http://arxiv.org/abs/2303.07735"/>
+        <updated>2024-02-08T04:17:54.327Z</updated>
+        <summary type="html"><![CDATA[Alberto Testolin]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Statistical Guarantees for Link Prediction using Graph Neural Networks]]></title>
+        <id>http://arxiv.org/abs/2402.02692</id>
+        <link href="http://arxiv.org/abs/2402.02692"/>
+        <updated>2024-02-08T04:17:54.104Z</updated>
+        <summary type="html"><![CDATA[Alan Chung, Amin Saberi, Morgane Austern]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learning from Time Series under Temporal Label Noise]]></title>
+        <id>http://arxiv.org/abs/2402.04398</id>
+        <link href="http://arxiv.org/abs/2402.04398"/>
+        <updated>2024-02-08T04:17:53.662Z</updated>
+        <summary type="html"><![CDATA[Sujay Nagaraj, Walter Gerych, Sana Tonekaboni, Anna Goldenberg, Berk
+  Ustun, Thomas Hartvigsen]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Scaling laws for learning with real and surrogate data]]></title>
+        <id>http://arxiv.org/abs/2402.04376</id>
+        <link href="http://arxiv.org/abs/2402.04376"/>
+        <updated>2024-02-08T04:17:53.629Z</updated>
+        <summary type="html"><![CDATA[Ayush Jain, Andrea Montanari, Eren Sasoglu]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Simple online learning with consistent oracle]]></title>
+        <id>http://arxiv.org/abs/2308.08055</id>
+        <link href="http://arxiv.org/abs/2308.08055"/>
+        <updated>2024-02-08T04:17:53.560Z</updated>
+        <summary type="html"><![CDATA[Alexander Kozachinskiy, Tomasz Steifer]]></summary>
+        <author>
+            <name>arxivist feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[histories of sign languages]]></title>
         <id>http://xianblog.wordpress.com/?p=55128</id>
@@ -2723,16 +2775,6 @@ This has led to a surge in methods related to self-correction, where an LLM is u
         <summary type="html"><![CDATA[[Several days ago, I had prepared a post on this topic, but Mark scooped me with his "Mushroom language?" (1/9/24).  His coverage of the counterposed Adamatzky and Blatt, et al. papers is superior to mine, so I will just strip out that part of my post and leave the remaining observations with which I had […]]]></summary>
         <author>
             <name>Victor Mair</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mushroom language?]]></title>
-        <id>https://languagelog.ldc.upenn.edu/nll/?p=62109</id>
-        <link href="https://languagelog.ldc.upenn.edu/nll/?p=62109&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=mushroom-language"/>
-        <updated>2024-01-09T15:33:34.000Z</updated>
-        <summary type="html"><![CDATA[Michael Blatt, Geoffrey Pullum, Andreas Draguhn, Barry Bowman, David Robinson, and Lincoln Taiz , "Does electrical activity in fungi function as a language?", Fungal Ecology 2024: Abstract: All cells generate electrical energy derived from the movements of ions across membranes. In animal neurons, action potentials play an essential role in the central nervous system. Plants […]]]></summary>
-        <author>
-            <name>Mark Liberman</name>
         </author>
     </entry>
 </feed>

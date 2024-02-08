@@ -6,6 +6,56 @@
       "siteUrl": "https://www.arxivist.com",
       "articles": [
         {
+          "id": "http://arxiv.org/abs/2303.07735",
+          "author": null,
+          "description": "Alberto Testolin",
+          "link": "http://arxiv.org/abs/2303.07735",
+          "publishedOn": "2024-02-08T04:17:54.327Z",
+          "wordCount": 673,
+          "title": "Can neural networks do arithmetic? A survey on the elementary numerical\n  skills of state-of-the-art deep learning models",
+          "imageUrl": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2402.02692",
+          "author": null,
+          "description": "Alan Chung, Amin Saberi, Morgane Austern",
+          "link": "http://arxiv.org/abs/2402.02692",
+          "publishedOn": "2024-02-08T04:17:54.104Z",
+          "wordCount": 637,
+          "title": "Statistical Guarantees for Link Prediction using Graph Neural Networks",
+          "imageUrl": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2402.04398",
+          "author": null,
+          "description": "Sujay Nagaraj, Walter Gerych, Sana Tonekaboni, Anna Goldenberg, Berk\n  Ustun, Thomas Hartvigsen",
+          "link": "http://arxiv.org/abs/2402.04398",
+          "publishedOn": "2024-02-08T04:17:53.662Z",
+          "wordCount": 637,
+          "title": "Learning from Time Series under Temporal Label Noise",
+          "imageUrl": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2402.04376",
+          "author": null,
+          "description": "Ayush Jain, Andrea Montanari, Eren Sasoglu",
+          "link": "http://arxiv.org/abs/2402.04376",
+          "publishedOn": "2024-02-08T04:17:53.629Z",
+          "wordCount": 667,
+          "title": "Scaling laws for learning with real and surrogate data",
+          "imageUrl": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "http://arxiv.org/abs/2308.08055",
+          "author": null,
+          "description": "Alexander Kozachinskiy, Tomasz Steifer",
+          "link": "http://arxiv.org/abs/2308.08055",
+          "publishedOn": "2024-02-08T04:17:53.560Z",
+          "wordCount": 683,
+          "title": "Simple online learning with consistent oracle",
+          "imageUrl": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
           "id": "http://arxiv.org/abs/2306.04843",
           "author": null,
           "description": "Matthias C. Caro, Marcel Hinsche, Marios Ioannou, Alexander Nietner,\n  Ryan Sweke",
@@ -2932,16 +2982,6 @@
           "publishedOn": "2024-01-09T22:48:43.000Z",
           "wordCount": 2881,
           "title": "Fungal language",
-          "imageUrl": null
-        },
-        {
-          "id": "https://languagelog.ldc.upenn.edu/nll/?p=62109",
-          "author": "Mark Liberman",
-          "description": "Michael Blatt, Geoffrey Pullum, Andreas Draguhn, Barry Bowman, David Robinson, and Lincoln Taiz , \"Does electrical activity in fungi function as a language?\", Fungal Ecology 2024: Abstract: All cells generate electrical energy derived from the movements of ions across membranes. In animal neurons, action potentials play an essential role in the central nervous system. Plants […]",
-          "link": "https://languagelog.ldc.upenn.edu/nll/?p=62109&utm_source=rss&utm_medium=rss&utm_campaign=mushroom-language",
-          "publishedOn": "2024-01-09T15:33:34.000Z",
-          "wordCount": 2950,
-          "title": "Mushroom language?",
           "imageUrl": null
         }
       ]
