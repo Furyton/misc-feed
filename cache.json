@@ -1409,16 +1409,6 @@
           "wordCount": 1731,
           "title": "旁门左道之如何让Python的重试代码更加优雅",
           "imageUrl": null
-        },
-        {
-          "id": "https://kexue.fm/archives/9931",
-          "author": "苏剑林",
-          "description": "在分析模型的参数时，有些情况下我们会将模型的所有参数当成一个整体的向量，有些情况下我们则会将不同的参数拆开来看。比如，一个7B大小的LLAMA模型所拥有的70亿参数量，有时候我们会将它当成“一个...",
-          "link": "https://kexue.fm/archives/9931",
-          "publishedOn": "2024-01-09T14:28:00.000Z",
-          "wordCount": 1501,
-          "title": "局部余弦相似度大，全局余弦相似度一定也大吗？",
-          "imageUrl": null
         }
       ]
     },
