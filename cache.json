@@ -1739,7 +1739,18 @@
       "title": "Lil'Log",
       "feedUrl": "https://lilianweng.github.io/index.xml",
       "siteUrl": "https://lilianweng.github.io/",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://lilianweng.github.io/posts/2024-02-05-human-data-quality/",
+          "author": null,
+          "description": "High-quality data is the fuel for modern data deep learning model training. Most of task-specific labeled data comes from human annotation, such as classification task or RLHF labeling (which can be constructed as classification format) for LLM alignment training. Lots of ML techniques in the post can help with data quality, but fundamentally human data collection involves attention to details and careful execution. The community knows the value of high quality data, but somehow we have this subtle impression that “Everyone wants to do the model work, not the data work” (Sambasivan et al.",
+          "link": "https://lilianweng.github.io/posts/2024-02-05-human-data-quality/",
+          "publishedOn": "2024-02-05T00:00:00.000Z",
+          "wordCount": 8866,
+          "title": "Thinking about High-Quality Human Data",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "Amit Chaudhary",

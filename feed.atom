@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-09T08:17:55.053Z</updated>
+    <updated>2024-02-09T09:15:59.215Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -518,6 +518,16 @@ Graph neural networks, or GNNs for short, have emerged…]]></summary>
         <summary type="html"><![CDATA[Andrea Blunck, Hans Havlicek, Corrado Zanella]]></summary>
         <author>
             <name>arxivist feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Thinking about High-Quality Human Data]]></title>
+        <id>https://lilianweng.github.io/posts/2024-02-05-human-data-quality/</id>
+        <link href="https://lilianweng.github.io/posts/2024-02-05-human-data-quality/"/>
+        <updated>2024-02-05T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[High-quality data is the fuel for modern data deep learning model training. Most of task-specific labeled data comes from human annotation, such as classification task or RLHF labeling (which can be constructed as classification format) for LLM alignment training. Lots of ML techniques in the post can help with data quality, but fundamentally human data collection involves attention to details and careful execution. The community knows the value of high quality data, but somehow we have this subtle impression that “Everyone wants to do the model work, not the data work” (Sambasivan et al.]]></summary>
+        <author>
+            <name>Lil'Log</name>
         </author>
     </entry>
     <entry>
