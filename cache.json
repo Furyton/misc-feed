@@ -1392,6 +1392,16 @@
       "siteUrl": "https://parsiad.ca/",
       "articles": [
         {
+          "id": "https://parsiad.ca/blog/2024/maximum_likelihood_and_Bayesian_estimators_for_Bayesian_networks/",
+          "author": null,
+          "description": "Motivation",
+          "link": "https://parsiad.ca/blog/2024/maximum_likelihood_and_Bayesian_estimators_for_Bayesian_networks/",
+          "publishedOn": "2024-02-09T20:00:00.000Z",
+          "wordCount": 1616,
+          "title": "Maximum likelihood and Bayesian estimators for Bayesian networks",
+          "imageUrl": null
+        },
+        {
           "id": "https://parsiad.ca/blog/2024/deriving_the_fokker_planck_equation/",
           "author": null,
           "description": "Motivation",
@@ -2221,6 +2231,36 @@
       "siteUrl": "https://xianblog.wordpress.com",
       "articles": [
         {
+          "id": "http://xianblog.wordpress.com/?p=55045",
+          "author": "xi'an",
+          "description": "Within a few days of the online appearance of the programme of the Workshop on Functional Inference and Machine Intelligence (FIMI) at the University of Bristol, which I am attending, I received the following email about accommodation, which did not sound right despite the focus on the right conference at the right time. After contacting […]",
+          "link": "https://xianblog.wordpress.com/2024/02/12/yet-another-conference-scam/",
+          "publishedOn": "2024-02-11T23:24:34.000Z",
+          "wordCount": 2583,
+          "title": "yet another conference scam",
+          "imageUrl": "https://xianblog.files.wordpress.com/2012/09/img_2500-e1348590069243.jpg"
+        },
+        {
+          "id": "http://xianblog.wordpress.com/?p=55038",
+          "author": "xi'an",
+          "description": "Visit the post for more.",
+          "link": "https://xianblog.wordpress.com/2024/02/11/gaming-with-abortion-rights/",
+          "publishedOn": "2024-02-10T23:24:47.000Z",
+          "wordCount": 2374,
+          "title": "gaming with abortion rights?!",
+          "imageUrl": "https://xianblog.files.wordpress.com/2024/01/temp-10.png"
+        },
+        {
+          "id": "http://xianblog.wordpress.com/?p=55250",
+          "author": "xi'an",
+          "description": "Visit the post for more.",
+          "link": "https://xianblog.wordpress.com/2024/02/10/robert-badinter-1928-2023-total-respect/",
+          "publishedOn": "2024-02-09T23:24:07.000Z",
+          "wordCount": 2305,
+          "title": "Robert Badinter, 1928-2023 [total respect]",
+          "imageUrl": "https://www.liberation.fr/resizer/Rt8Jbd6UNMINgYndWyI9GDqZwKM=/1024x0/filters:format(jpg):quality(70):focal(1435x1635:1445x1645)/cloudfront-eu-central-1.images.arcpublishing.com/liberation/KRSDUAAUY5G5TAUBS4OSZJVS3U.jpg"
+        },
+        {
           "id": "http://xianblog.wordpress.com/?p=55196",
           "author": "xi'an",
           "description": "For all Bayesians and sympathisers in the Paris area, an incoming All about that Bayes seminars¹ by Elisabeth Gassiat (Institut de Mathématiques d’Orsay) on 13 February, 16h00, on Campus Pierre & Marie Curie, SCAI: A stroll through hidden Markov models Hidden Markov models are latent variables models producing dependent sequences. I will survey recent results […]",
@@ -2489,26 +2529,6 @@
           "wordCount": 2467,
           "title": "simulating Gumbel’s bivariate exponential distribution",
           "imageUrl": "https://xianblog.files.wordpress.com/2024/01/isvsmc.png"
-        },
-        {
-          "id": "http://xianblog.wordpress.com/?p=54690",
-          "author": "xi'an",
-          "description": "This special issue of Statistical Science is devoted to the future of Bayesian computational statistics, from several perspectives. It involves a large group of researchers who contributed to collective articles, bringing their own perspectives and research interests into these surveys. Somewhat paradoxically, it starts with the past—and a conference on a Gold Coast beach. Martin, […]",
-          "link": "https://xianblog.wordpress.com/2024/01/13/futuristic-statistical-science-editorial/",
-          "publishedOn": "2024-01-12T23:24:23.000Z",
-          "wordCount": 2993,
-          "title": "futuristic statistical science [editorial]",
-          "imageUrl": "https://xianblog.files.wordpress.com/2023/12/statsci.gif"
-        },
-        {
-          "id": "http://xianblog.wordpress.com/?p=54895",
-          "author": "xi'an",
-          "description": "Dreadful numbers that reveal the extent of the destruction in Gaza as listed by The Guardian at least 22,835 Palestinians had been killed, with an estimated 70% fraction of women and children one in a hundred of Gaza’s total population has died 250 people are killed per day, out of which at least 160 are […]",
-          "link": "https://xianblog.wordpress.com/2024/01/12/the-plight-of-gazaouis-in-numbers-on-08-jan-2023/",
-          "publishedOn": "2024-01-11T23:24:03.000Z",
-          "wordCount": 2382,
-          "title": "the plight of Gazaouis in numbers [on 08 Jan 2023]",
-          "imageUrl": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/afp/2023/10/11/11/1697016216177.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.1500.844.jpeg"
         }
       ]
     },
@@ -2598,36 +2618,6 @@
           "wordCount": 27602,
           "title": "Introducing ASPIRE for selective prediction in LLMs",
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMaqP9dd9YDXh04PEWHSFquEToz6U5M4YUxzfExokjfteUfuGAKhqs1LV5DUMJOBoiF3GjGxg7NqezNazuTeWePMsuH_OW7NM4z4ooMPhWnR22iyzENgpmG2-xJDbRbeeyyLbG-3dIdgYjl2IxX0K-bFvpbrAJsQA7Mu70MqxEuVFJXvwnP_-o4sPK8wYe/w1200-h630-p-k-no-nu/ASPIRE%20hero.jpg"
-        },
-        {
-          "id": "http://blog.research.google/2024/01/amie-research-ai-system-for-diagnostic_12.html",
-          "author": null,
-          "description": "Posted by Alan Karthikesalingam and Vivek Natarajan, Research Leads, Google Research\n\n\n\n\nThe physician-patient conversation is a cornerstone of medicine, in which skilled and intentional communication drives diagnosis, management, empathy and trust. AI systems capable of such diagnostic dialogues could increase availability, accessibility, quality and consistency of care by being useful conversational partners to clinicians and patients alike. But approximating clinicians’ considerable expertise is a significant challenge. \n\n\n\n\n\nRecent progress in large language models (LLMs) outside the medical domain has shown that they can plan, reason, and use relevant context to hold rich conversations. However, there are many aspects of good diagnostic dialogue that are unique to the medical domain. …",
-          "link": "http://blog.research.google/2024/01/amie-research-ai-system-for-diagnostic_12.html",
-          "publishedOn": "2024-01-12T17:04:00.000Z",
-          "wordCount": 28177,
-          "title": "AMIE: A research AI system for diagnostic medical reasoning and conversations",
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgr_wfWpw2CVBYDc3Mlk879CUecv4uGlq36Fxe0GEnVcK2kJnzAyRkPRb8vO5jJVqrd_zvQ6W8suHyp1xhFhNFJuUj8nTNRp3TsZP7Z5uWlqw22hZZKVJJ33X5NWmT0UTkOdC4raONlnSbR8E616Mi_lJVE3DvbWYB-19eR2wpCgwAaykkquUV3DOLRY6c/w1200-h630-p-k-no-nu/AMIE.gif"
-        },
-        {
-          "id": "http://blog.research.google/2024/01/amie-research-ai-system-for-diagnostic.html",
-          "author": null,
-          "description": "Posted by Alan Karthikesalingam and Vivek Natarajan, Research Leads, Google Research\n\n\n\n\nThe physician-patient conversation is a cornerstone of medicine, in which skilled and intentional communication drives diagnosis, management, empathy and trust. AI systems capable of such diagnostic dialogues could increase availability, accessibility, quality and consistency of care by being useful conversational partners to clinicians and patients alike. But approximating clinicians’ considerable expertise is a significant challenge. \n\n\n\n\n\nRecent progress in large language models (LLMs) outside the medical domain has shown that they can plan, reason, and use relevant context to hold rich conversations. However, there are many aspects of good diagnostic dialogue that are unique to the medical domain. …",
-          "link": "http://blog.research.google/2024/01/amie-research-ai-system-for-diagnostic.html",
-          "publishedOn": "2024-01-12T16:04:00.000Z",
-          "wordCount": null,
-          "title": "AMIE: A research AI system for diagnostic medical reasoning and conversations",
-          "imageUrl": null
-        },
-        {
-          "id": "http://blog.research.google/2024/01/can-large-language-models-identify-and.html",
-          "author": null,
-          "description": "Posted by Gladys Tyen, Intern, Google Research\n\n\n\n\nLLMs are increasingly popular for reasoning tasks, such as multi-turn QA, task completion, code generation, or mathematics. Yet much like people, they do not always solve problems correctly on the first try, especially on tasks for which they were not trained. Therefore, for such systems to be most useful, they should be able to 1) identify where their reasoning went wrong and 2) backtrack to find another solution.\n\n\n\nThis has led to a surge in methods related to self-correction, where an LLM is used to identify problems in its own output, and then produce improved results based on the feedback. Self-correction is generally thought of as a single process, but we decided to break it down into two components, mistake finding and output corre…",
-          "link": "http://blog.research.google/2024/01/can-large-language-models-identify-and.html",
-          "publishedOn": "2024-01-11T22:42:00.000Z",
-          "wordCount": 27886,
-          "title": "Can large language models identify and correct their mistakes?",
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhaRCK2QC8HmH0lzm2lPjqVOxFPZDoyTAPq9icazR1vrsFUTDr5OJdTIZNMDgut_ylOOmeZmA4n0BTIgFCsksZ_xATbJDnQegxWMpdqv2kyGBWKMTV9E2k3WybhBzhL3-oQnpNUWWTKURxt5y8f7gGwUkPTExml1QD2U-UqW0hglZ-cXXCkznmufJIfyPAR/w1200-h630-p-k-no-nu/Backtracking.jpg"
         }
       ]
     },
@@ -2642,6 +2632,46 @@
       "feedUrl": "https://languagelog.ldc.upenn.edu/nll/?feed=rss2",
       "siteUrl": "https://languagelog.ldc.upenn.edu/nll",
       "articles": [
+        {
+          "id": "https://languagelog.ldc.upenn.edu/nll/?p=62431",
+          "author": "Victor Mair",
+          "description": "Christian tombstone with Syriac inscription from Quanzhou, Fujian, SE China, from the Mongol (Yuan) period. I’d be exceedingly grateful if anyone could decipher the text. pic.twitter.com/iN2oBCCMOp — Iskandar Ding (@iskdin) February 11, 2024 The photograph has to be rotated 90º counterclockwise to be read. Iskandar Ding describes himself as a PhD candidate in Yaghnbobi and […]",
+          "link": "https://languagelog.ldc.upenn.edu/nll/?p=62431&utm_source=rss&utm_medium=rss&utm_campaign=ask-language-log-syriac-christian-tombstone-inscription-from-mongol-period-east-asia",
+          "publishedOn": "2024-02-11T17:51:14.000Z",
+          "wordCount": 2740,
+          "title": "Ask Language Log:  Syriac Christian tombstone inscription from Mongol period East Asia",
+          "imageUrl": null
+        },
+        {
+          "id": "https://languagelog.ldc.upenn.edu/nll/?p=62406",
+          "author": "Victor Mair",
+          "description": "Sign on the door of a Pizza Hut eatery in Timmins, Ontario: (source) Of course, it's easy to see how \"circumstances\" can morph into \"circumcisions\", but Chau Wu has taken the investigation one step further to propose the following as a contributing / initiating trigger for the error: My hypothesis for the misfiring of neural […]",
+          "link": "https://languagelog.ldc.upenn.edu/nll/?p=62406&utm_source=rss&utm_medium=rss&utm_campaign=unforeseen-circumcisions-dual-misfirings",
+          "publishedOn": "2024-02-10T14:03:48.000Z",
+          "wordCount": 2890,
+          "title": "Unforeseen circumcisions:  dual misfirings",
+          "imageUrl": null
+        },
+        {
+          "id": "https://languagelog.ldc.upenn.edu/nll/?p=62409",
+          "author": "Victor Mair",
+          "description": "Note from François Lang:  \"This is not photoshopped. I took this photo this afternoon in Rockville MD.\" Until 2020, I did not know this word (except as a gardening / agricultural implement, but that is not what is meant here).  I still am not very familiar with it, but I've been hearing / seeing it […]",
+          "link": "https://languagelog.ldc.upenn.edu/nll/?p=62409&utm_source=rss&utm_medium=rss&utm_campaign=not-quite-clothing-shoes",
+          "publishedOn": "2024-02-10T13:57:36.000Z",
+          "wordCount": 2489,
+          "title": "Not quite \"CLOTHING & SHOES\"",
+          "imageUrl": null
+        },
+        {
+          "id": "https://languagelog.ldc.upenn.edu/nll/?p=62412",
+          "author": "Victor Mair",
+          "description": "Today is the Lunar New Year's Day, and it's the Year of the Dragon / /lʊŋ³⁵/ . As such, a kerfuffle is stirring in China and the English-speaking world regarding the English translation of lóng ⿓ / 龙 / 竜 (J), which is usually \"dragon\". I will begin with the pronunciation of the word.  In […]",
+          "link": "https://languagelog.ldc.upenn.edu/nll/?p=62412&utm_source=rss&utm_medium=rss&utm_campaign=what-is-the-difference-between-a-dragon-and-a-l%25ca%258an%25c2%25b3%25e2%2581%25b5",
+          "publishedOn": "2024-02-10T05:15:07.000Z",
+          "wordCount": 5840,
+          "title": "What is the difference between a dragon and a /lʊŋ³⁵/?",
+          "imageUrl": null
+        },
         {
           "id": "https://languagelog.ldc.upenn.edu/nll/?p=62399",
           "author": "Victor Mair",
@@ -2905,86 +2935,6 @@
           "publishedOn": "2024-01-14T15:29:52.000Z",
           "wordCount": 2882,
           "title": "Translating from Classical Chinese / Literary Sinitic to Mandarin",
-          "imageUrl": null
-        },
-        {
-          "id": "https://languagelog.ldc.upenn.edu/nll/?p=62186",
-          "author": "Victor Mair",
-          "description": "No sooner have we addressed \"The politics of frozen garlic in Taiwan\" (1/11/24) than we now must look at the implications of dried mango for the current election in that island nation.  Here we will not be studying the obscene usage (gàn) that \"dry\" (gān) often gets mixed up with.  For those who are interested […]",
-          "link": "https://languagelog.ldc.upenn.edu/nll/?p=62186&utm_source=rss&utm_medium=rss&utm_campaign=the-politics-of-dried-mango-in-taiwan",
-          "publishedOn": "2024-01-13T01:30:36.000Z",
-          "wordCount": 2351,
-          "title": "The politics of dried mango in Taiwan",
-          "imageUrl": null
-        },
-        {
-          "id": "https://languagelog.ldc.upenn.edu/nll/?p=62216",
-          "author": "Mark Liberman",
-          "description": "According to Toyin Falola, \"No Gree for Anybody!\", HeartOfArts 1/12/2024: I am writing this piece from Lagos. “No Gree” is what you now hear at every moment, every corner. […] No Gree for Anybody seems to be a personal avowal to not compromise or concede and to maintain unwavering determination against factors and people that […]",
-          "link": "https://languagelog.ldc.upenn.edu/nll/?p=62216&utm_source=rss&utm_medium=rss&utm_campaign=no-gree-for-anybody",
-          "publishedOn": "2024-01-12T15:56:35.000Z",
-          "wordCount": 2186,
-          "title": "\"No gree for anybody!\"",
-          "imageUrl": null
-        },
-        {
-          "id": "https://languagelog.ldc.upenn.edu/nll/?p=62203",
-          "author": "Mark Liberman",
-          "description": "The issues discussed in \"AI plagiarism\" (1/4/2024) are rapidly coming to a boil. But somehow I missed Margaret Atwood's take on the topic, published last summer — \"Murdered by my replica\", The Atlantic 8/26/2023: Remember The Stepford Wives? Maybe not. In that 1975 horror film, the human wives of Stepford, Connecticut, are having their identities […]",
-          "link": "https://languagelog.ldc.upenn.edu/nll/?p=62203&utm_source=rss&utm_medium=rss&utm_campaign=stepford-authors",
-          "publishedOn": "2024-01-12T11:41:04.000Z",
-          "wordCount": 3069,
-          "title": "Stepford authors",
-          "imageUrl": null
-        },
-        {
-          "id": "https://languagelog.ldc.upenn.edu/nll/?p=62178",
-          "author": "Victor Mair",
-          "description": "Photograph taken outside a shop in Hong Kong: This one almost tricked me.  The expression \"mǐxiàn zhèn 米線陣\" literally means \"rice noodle array / formation\".  There are many occasions where \"mǐxiàn 米線\" should be rendered as \"[one] meter line\", with \"mǐ 米\" serving as a phonetic transcription for \"meter\".  Even though this is one of the older, widespread […]",
-          "link": "https://languagelog.ldc.upenn.edu/nll/?p=62178&utm_source=rss&utm_medium=rss&utm_campaign=rice-noodle-sense-sino-anglo-nipponica",
-          "publishedOn": "2024-01-12T00:53:02.000Z",
-          "wordCount": 2631,
-          "title": "Rice noodle sense; Sino-Anglo-Nipponica",
-          "imageUrl": null
-        },
-        {
-          "id": "https://languagelog.ldc.upenn.edu/nll/?p=62150",
-          "author": "Victor Mair",
-          "description": "Sign at a hotel in Japan: According to Nathan Hopson, the Japanese actually says: お願い この先は危険ですので、これ以上前へ行かないようお願い致します。 Onegai Kono saki wa kiken desu no de, kore ijō mae e ikanai yō onegai itashimasu Request The area beyond this [sign] is dangerous. Please do not proceed farther. A more natural translation might be: Notice Danger! Do not enter. […]",
-          "link": "https://languagelog.ldc.upenn.edu/nll/?p=62150&utm_source=rss&utm_medium=rss&utm_campaign=the-future-is-dangerous-anglo-nipponica",
-          "publishedOn": "2024-01-12T00:43:55.000Z",
-          "wordCount": 2191,
-          "title": "The future is dangerous: Anglo-Nipponica",
-          "imageUrl": null
-        },
-        {
-          "id": "https://languagelog.ldc.upenn.edu/nll/?p=62181",
-          "author": "Victor Mair",
-          "description": "From Nick Kaldis: This article begins with a brief reference to the chanting of ‘frozen garlic’ (\"凍蒜\" dongsuan, Taiwanese pronunciation for \"當選\" dangxuan \"to get elected\") in campaign rallies for Taiwan's presidential and legislative elections in two days. —- ‘Frozen Garlic!’ Taiwan Likes Its Democracy Loud and Proud At the island’s election rallies, warming up […]",
-          "link": "https://languagelog.ldc.upenn.edu/nll/?p=62181&utm_source=rss&utm_medium=rss&utm_campaign=the-politics-of-frozen-garlic-in-taiwan",
-          "publishedOn": "2024-01-12T00:35:58.000Z",
-          "wordCount": 2329,
-          "title": "The politics of frozen garlic in Taiwan",
-          "imageUrl": null
-        },
-        {
-          "id": "https://languagelog.ldc.upenn.edu/nll/?p=62166",
-          "author": "Mark Liberman",
-          "description": "Today's xkcd: That list names objects of research rather than fields of research, I think, though some may disagree with this quibble. As a point of linguistic interest, there's a sort of Gricean constraint on deictic appropriateness here. It seems to me that \"conversations\" works better than \"galaxies\" — though \"habitable worlds\" does seem to […]",
-          "link": "https://languagelog.ldc.upenn.edu/nll/?p=62166&utm_source=rss&utm_medium=rss&utm_campaign=like-this-one",
-          "publishedOn": "2024-01-11T14:27:10.000Z",
-          "wordCount": 2105,
-          "title": "\"…like this one\"",
-          "imageUrl": null
-        },
-        {
-          "id": "https://languagelog.ldc.upenn.edu/nll/?p=62152",
-          "author": "Mark Liberman",
-          "description": "From A.F.: I’m re-reading Asimov's Foundation novels after nearly 35 years and I came across this example in Book 1, which just seems like a mess: “I don’t say, though,” added Barr, “that there aren’t cases where tech-men haven’t been bribed.” Obviously, the intended message is that there are cases where tech-men have been bribed, […]",
-          "link": "https://languagelog.ldc.upenn.edu/nll/?p=62152&utm_source=rss&utm_medium=rss&utm_campaign=62152",
-          "publishedOn": "2024-01-11T10:40:34.000Z",
-          "wordCount": 2159,
-          "title": "Foundation misnegation",
           "imageUrl": null
         }
       ]
