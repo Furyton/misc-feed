@@ -2,10 +2,169 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-12T03:15:47.172Z</updated>
+    <updated>2024-02-15T09:17:33.721Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[a journal of the conquest, war, famine, death, and chaos year]]></title>
+        <id>http://xianblog.wordpress.com/?p=54990</id>
+        <link href="https://xianblog.wordpress.com/2024/02/15/a-journal-of-the-conquest-war-famine-death-and-chaos-year/"/>
+        <updated>2024-02-14T23:24:32.000Z</updated>
+        <summary type="html"><![CDATA[Had to find a fifth horseman of the Apocalypse for 2024, and figured out that Terry Pratchett was the ultimate expert on these characters, witness “The Four Horsemen whose Ride presages the end of the world are known to be Death, War, Famine, and Pestilence. But even less significant events have their own Horsemen. For […]]]></summary>
+        <author>
+            <name>xi'an</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Malaprop(er nouns)?]]></title>
+        <id>https://languagelog.ldc.upenn.edu/nll/?p=62467</id>
+        <link href="https://languagelog.ldc.upenn.edu/nll/?p=62467&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=malaproper-nouns"/>
+        <updated>2024-02-14T19:49:43.000Z</updated>
+        <summary type="html"><![CDATA[Joe Biden recently said "the president of Mexico" when he meant "the president of Egypt". A couple of days earlier, he said "Mitterand" when he meant "Macron". Of course this fed into the flurry about his age, which was both-siderized by references to Donald Trump's calling Victor Orbán "the great leader of Turkey" when he […]]]></summary>
+        <author>
+            <name>Mark Liberman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learning the importance of training data under concept drift]]></title>
+        <id>http://blog.research.google/2024/02/learning-importance-of-training-data.html</id>
+        <link href="http://blog.research.google/2024/02/learning-importance-of-training-data.html"/>
+        <updated>2024-02-14T18:32:00.000Z</updated>
+        <summary type="html"><![CDATA[Posted by Nishant Jain, Pre-doctoral Researcher, and Pradeep Shenoy, Research Scientist, Google Research
+
+
+
+
+The constantly changing nature of the world around us poses a significant challenge for the development of AI models. Often, models are trained on longitudinal data with the hope that the training data used will accurately represent inputs the model may receive in the future. More generally, the default assumption that all training data are equally relevant often breaks in practice. For example, the figure below shows images from the CLEAR nonstationary learning benchmark, and it illustrates how visual features of objects evolve significantly over a 10 year span (a phenomenon we refer to as slow concept drift), posing a challenge for object categorization models. 
+
+
+
+
+
+
+
+
+Sample ima…]]></summary>
+        <author>
+            <name>Google AI Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ask Language Log:  Manchu Blue Dragon]]></title>
+        <id>https://languagelog.ldc.upenn.edu/nll/?p=62434</id>
+        <link href="https://languagelog.ldc.upenn.edu/nll/?p=62434&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=ask-language-log-manchu-blue-dragon"/>
+        <updated>2024-02-14T04:11:07.000Z</updated>
+        <summary type="html"><![CDATA[Continuing our series on dragons, this note and illustration come from Juha Janhunen, the Finnish linguist: Happy Blue Dragon Year to everybody! Below is the official flag (1889-1912) of the Manchu Empire (in the west misleadingly known as "China"), which happens to have a blue dragon on it. Manchu muduri 'dragon' still seems to lack an external etymology. […]]]></summary>
+        <author>
+            <name>Victor Mair</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Not quite Chinglish]]></title>
+        <id>https://languagelog.ldc.upenn.edu/nll/?p=62415</id>
+        <link href="https://languagelog.ldc.upenn.edu/nll/?p=62415&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=not-quite-chinglish"/>
+        <updated>2024-02-14T03:52:06.000Z</updated>
+        <summary type="html"><![CDATA[Signs in a Chinese park: Because none of these signs (more to come) are flagrantly wrong, I will not do a usual LL-style explication cum word-for-word transcription, translation, and explication.  Nonetheless, by and large they are awkward and unidiomatic, though some are rather charming in their own way.. In recent months, I've noticed that the […]]]></summary>
+        <author>
+            <name>Victor Mair</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[another scam “conference”]]></title>
+        <id>http://xianblog.wordpress.com/?p=54841</id>
+        <link href="https://xianblog.wordpress.com/2024/02/14/another-scam-conference/"/>
+        <updated>2024-02-13T23:24:29.000Z</updated>
+        <summary type="html"><![CDATA[Visit the post for more.]]></summary>
+        <author>
+            <name>xi'an</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DP-Auditorium: A flexible library for auditing differential privacy]]></title>
+        <id>http://blog.research.google/2024/02/dp-auditorium-flexible-library-for.html</id>
+        <link href="http://blog.research.google/2024/02/dp-auditorium-flexible-library-for.html"/>
+        <updated>2024-02-13T22:11:00.000Z</updated>
+        <summary type="html"><![CDATA[Posted by Mónica Ribero Díaz, Research Scientist, Google Research
+
+
+
+
+
+Differential privacy (DP) is a property of randomized mechanisms that limit the influence of any individual user’s information while processing and analyzing data. DP offers a robust solution to address growing concerns about data protection, enabling technologies across industries and government applications (e.g., the US census) without compromising individual user identities.  As its adoption increases, it’s important to identify the potential risks of developing mechanisms with faulty implementations. Researchers have recently found errors in the mathematical proofs of private mechanisms, and their implementations. For example, researchers compared six sparse vector technique (SVT) variations and found that only two…]]></summary>
+        <author>
+            <name>Google AI Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Predictions and actions redux]]></title>
+        <id>https://www.argmin.net/p/predictions-and-actions-redux</id>
+        <link href="https://www.argmin.net/p/predictions-and-actions-redux"/>
+        <updated>2024-02-13T15:38:46.000Z</updated>
+        <summary type="html"><![CDATA[On the complex interactions between uncertainty quantification and recourse.]]></summary>
+        <author>
+            <name>Ben Recht</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Predictions and actions redux]]></title>
+        <id>https://www.argmin.net/p/predictions-and-actions-redux</id>
+        <link href="https://www.argmin.net/p/predictions-and-actions-redux"/>
+        <updated>2024-02-13T15:38:46.000Z</updated>
+        <summary type="html"><![CDATA[On the complex interactions between uncertainty quantification and recourse.]]></summary>
+        <author>
+            <name>Ben Recht</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Not just NVIDIA: GPU programming that runs everywhere]]></title>
+        <id>https://pythonspeed.com/articles/gpu-without-cuda/</id>
+        <link href="https://pythonspeed.com/articles/gpu-without-cuda/"/>
+        <updated>2024-02-13T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[If you’re doing computations on a GPU, NVIDIA is the default, alongside its CUDA libraries.
+Some libraries like PyTorch support do support AMD GPUs and Macs.
+But from the re-implementations of NumPy, SciPy, and Pandas in the RAPIDS project, to Numba’s GPU support, NVIDIA has best software support in the Python world.
+Sticking to NVIDIA-specific software has some downsides, however:
+It won’t run on modern Mac laptops.
+Testing in CI is more difficult: you need custom runners that have NVIDIA GPUs.
+You can’t use any other GPUs you might have access to, like AMD GPUs.
+What can you do if you want to use GPUs in a portable manner?
+In this article we’ll cover one option, the wgpu-py library.
+Read more...]]></summary>
+        <author>
+            <name>Python⇒Speed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[poor graph [and not so poor agribusiness]]]></title>
+        <id>http://xianblog.wordpress.com/?p=55051</id>
+        <link href="https://xianblog.wordpress.com/2024/02/13/poor-graph-and-not-so-poor-agribusiness/"/>
+        <updated>2024-02-12T23:24:52.000Z</updated>
+        <summary type="html"><![CDATA[Visit the post for more.]]></summary>
+        <author>
+            <name>xi'an</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Goody-2 and the Luddite Bots]]></title>
+        <id>https://languagelog.ldc.upenn.edu/nll/?p=62448</id>
+        <link href="https://languagelog.ldc.upenn.edu/nll/?p=62448&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=goody-2-and-the-luddite-bots"/>
+        <updated>2024-02-12T18:52:28.000Z</updated>
+        <summary type="html"><![CDATA[Will Knight, "Meet the Pranksters Behind Goody-2, the World’s ‘Most Responsible’ AI Chatbot", Wired 2/9/2024: A new chatbot called Goody-2 takes AI safety to the next level: It refuses every request, responding with an explanation of how doing so might cause harm or breach ethical boundaries. Goody-2 declined to generate an essay on the American […]]]></summary>
+        <author>
+            <name>Mark Liberman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Super Bowl rhoticism]]></title>
+        <id>https://languagelog.ldc.upenn.edu/nll/?p=62439</id>
+        <link href="https://languagelog.ldc.upenn.edu/nll/?p=62439&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=super-bowl-rhoticism"/>
+        <updated>2024-02-12T13:59:10.000Z</updated>
+        <summary type="html"><![CDATA[The most linguistically focused of this year's Super Bowl commercials: The NYT critic was not impressed. Mike Hale ("The Super Bowl Ads, Ranked", 2/11/2024) listed it under the heading "Inoffensive but Forgettable: They tried. Nobody got hurt", with the specific comment As the movie hero Agent State Farm, Arnold Schwarzenegger sends up his film persona […]]]></summary>
+        <author>
+            <name>Mark Liberman</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[yet another conference scam]]></title>
         <id>http://xianblog.wordpress.com/?p=55045</id>
@@ -2318,66 +2477,6 @@ Read more...]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[TYI 54: A Variant of Elchanan Mossel’s Amazing Dice Paradox]]></title>
-        <id>http://gilkalai.wordpress.com/?p=25492</id>
-        <link href="https://gilkalai.wordpress.com/2024/01/16/tyi-54-a-variant-of-elchanan-mossels-amazing-dice-paradox/"/>
-        <updated>2024-01-16T17:56:45.000Z</updated>
-        <summary type="html"><![CDATA[The following question was inspired by recent comments to the post on Elchanan Mossel’s amazing Dice Paradox. A fair dice is a dice that when thrown you get each of the six possibilities with probability 1/6. A random dice is … Continue reading →]]></summary>
-        <author>
-            <name>Gil Kalai</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TYI 54: A Variant of Elchanan Mossel’s Amazing Dice Paradox]]></title>
-        <id>http://gilkalai.wordpress.com/?p=25492</id>
-        <link href="https://gilkalai.wordpress.com/2024/01/16/tyi-54-a-variant-of-elchanan-mossels-amazing-dice-paradox/"/>
-        <updated>2024-01-16T17:56:45.000Z</updated>
-        <summary type="html"><![CDATA[The following question was inspired by recent comments to the post on Elchanan Mossel’s amazing Dice Paradox. A fair dice is a dice that when thrown you get each of the six possibilities with probability 1/6. A random dice is … Continue reading →]]></summary>
-        <author>
-            <name>Gil Kalai</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Accelerating Triton Dequantization Kernels for GPTQ]]></title>
-        <id>https://pytorch.org/blog/accelerating-triton/</id>
-        <link href="https://pytorch.org/blog/accelerating-triton/"/>
-        <updated>2024-01-16T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[TL;DR]]></summary>
-        <author>
-            <name>PyTorch Website</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bayesian model averaging with exact inference of likelihood- free scoring rule posteriors [23/01/2024, PariSanté campus]]]></title>
-        <id>http://xianblog.wordpress.com/?p=54882</id>
-        <link href="https://xianblog.wordpress.com/2024/01/16/bayesian-model-averaging-with-exact-inference-of-likelihood-free-scoring-rule-posteriors-23-01-2024-parisante-campus/"/>
-        <updated>2024-01-15T23:24:48.000Z</updated>
-        <summary type="html"><![CDATA[A special “All about that Bayes” seminar in Paris (PariSanté campus, 23/01, 16:00-17:00) next week by my Warwick collegue and friend Rito: Bayesian Model Averaging with exact inference of likelihood- free Scoring Rule Posteriors Ritabrata Dutta, University of Warwick A novel application of Bayesian Model Averaging to generative models parameterized with neural networks (GNN) characterized […]]]></summary>
-        <author>
-            <name>xi'an</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Unfollow The Science]]></title>
-        <id>https://www.argmin.net/p/unfollow-the-science</id>
-        <link href="https://www.argmin.net/p/unfollow-the-science"/>
-        <updated>2024-01-15T15:14:20.000Z</updated>
-        <summary type="html"><![CDATA[Scientists have always lamented the state of scientific communication.]]></summary>
-        <author>
-            <name>Ben Recht</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Unfollow The Science]]></title>
-        <id>https://www.argmin.net/p/unfollow-the-science</id>
-        <link href="https://www.argmin.net/p/unfollow-the-science"/>
-        <updated>2024-01-15T15:14:20.000Z</updated>
-        <summary type="html"><![CDATA[Scientists have always lamented the state of scientific communication.]]></summary>
-        <author>
-            <name>Ben Recht</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Explaining Neural Networks without Access to Training Data]]></title>
         <id>http://arxiv.org/abs/2206.04891</id>
         <link href="http://arxiv.org/abs/2206.04891"/>
@@ -2430,46 +2529,6 @@ Read more...]]></summary>
         <summary type="html"><![CDATA[Pedram Bakhtiarifard, Christian Igel, Raghavendra Selvan]]></summary>
         <author>
             <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[inhomogeneous random systems [Institut Henri Poincaré, 23-24 Jan 2024]]]></title>
-        <id>http://xianblog.wordpress.com/?p=54911</id>
-        <link href="https://xianblog.wordpress.com/2024/01/15/inhomogeneous-random-systems-institut-henri-poincare-23-41-jan-2024/"/>
-        <updated>2024-01-14T23:24:04.000Z</updated>
-        <summary type="html"><![CDATA[Visit the post for more.]]></summary>
-        <author>
-            <name>xi'an</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Translating from Classical Chinese / Literary Sinitic to Mandarin]]></title>
-        <id>https://languagelog.ldc.upenn.edu/nll/?p=62230</id>
-        <link href="https://languagelog.ldc.upenn.edu/nll/?p=62230&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=translating-from-classical-chinese-literary-sinitic-to-mandarin"/>
-        <updated>2024-01-14T15:29:52.000Z</updated>
-        <summary type="html"><![CDATA[For those who are unfamiliar with Classical Chinese (CC) / Literary Sinitic (LS), what I am about to demonstrate in this post may be completely revelatory.  Many outsiders to CC / LS operate under the misapprehension that — because they are both written with hanzi  漢字 / 汉字 ("Chinese characters / sinoglyphs") — anyone who […]]]></summary>
-        <author>
-            <name>Victor Mair</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[旁门左道之如何让Python的重试代码更加优雅]]></title>
-        <id>https://kexue.fm/archives/9938</id>
-        <link href="https://kexue.fm/archives/9938"/>
-        <updated>2024-01-14T02:31:00.000Z</updated>
-        <summary type="html"><![CDATA[这篇文章我们讨论一个编程题：如何更优雅地在Python中实现重试。在文章《新年快乐！记录一下 Cool Papers 的开发体验》中，笔者分享了开发Cool Papers的一些经验，其中就提到了...]]></summary>
-        <author>
-            <name>苏剑林</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[simulating Gumbel’s bivariate exponential distribution]]></title>
-        <id>http://xianblog.wordpress.com/?p=54822</id>
-        <link href="https://xianblog.wordpress.com/2024/01/14/simulating-gumbels-bivariate-exponential-distribution/"/>
-        <updated>2024-01-13T23:24:53.000Z</updated>
-        <summary type="html"><![CDATA[A challenge interesting enough for a sunny New Year morn, found on X validated, namely the simulation of a bivariate exponential distribution proposed by Gumbel in 1960, with density over the positive quadrant in IR² Although there exists a direct approach based on the fact that the marginals are Exponential distributions and the conditionals signed […]]]></summary>
-        <author>
-            <name>xi'an</name>
         </author>
     </entry>
     <entry>

@@ -1373,16 +1373,6 @@
           "wordCount": 5450,
           "title": "On the Limit of the Linear Programming Bound for Codes and Packing",
           "imageUrl": "https://gilkalai.files.wordpress.com/2023/11/samorodnitsky.jpg"
-        },
-        {
-          "id": "http://gilkalai.wordpress.com/?p=25492",
-          "author": "Gil Kalai",
-          "description": "The following question was inspired by recent comments to the post on Elchanan Mossel’s amazing Dice Paradox. A fair dice is a dice that when thrown you get each of the six possibilities with probability 1/6. A random dice is … Continue reading →",
-          "link": "https://gilkalai.wordpress.com/2024/01/16/tyi-54-a-variant-of-elchanan-mossels-amazing-dice-paradox/",
-          "publishedOn": "2024-01-16T17:56:45.000Z",
-          "wordCount": 3800,
-          "title": "TYI 54: A Variant of Elchanan Mossel’s Amazing Dice Paradox",
-          "imageUrl": "https://gilkalai.files.wordpress.com/2024/01/rd.png"
         }
       ]
     },
@@ -1459,16 +1449,6 @@
           "wordCount": 2157,
           "title": "Transformer升级之路：16、长度外推方法的“复盘”",
           "imageUrl": null
-        },
-        {
-          "id": "https://kexue.fm/archives/9938",
-          "author": "苏剑林",
-          "description": "这篇文章我们讨论一个编程题：如何更优雅地在Python中实现重试。在文章《新年快乐！记录一下 Cool Papers 的开发体验》中，笔者分享了开发Cool Papers的一些经验，其中就提到了...",
-          "link": "https://kexue.fm/archives/9938",
-          "publishedOn": "2024-01-14T02:31:00.000Z",
-          "wordCount": 1731,
-          "title": "旁门左道之如何让Python的重试代码更加优雅",
-          "imageUrl": null
         }
       ]
     },
@@ -1516,6 +1496,22 @@
       "feedUrl": "https://www.argmin.net/feed.xml",
       "siteUrl": "https://www.argmin.net",
       "articles": [
+        {
+          "id": "https://www.argmin.net/p/predictions-and-actions-redux",
+          "author": "Ben Recht",
+          "description": "On the complex interactions between uncertainty quantification and recourse.",
+          "link": "https://www.argmin.net/p/predictions-and-actions-redux",
+          "publishedOn": "2024-02-13T15:38:46.000Z",
+          "wordCount": null,
+          "title": "Predictions and actions redux",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substack-post-media.s3.amazonaws.com/public/images/00fe67ff-1133-479d-b2a0-83925559be88_440x353.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substack-post-media.s3.amazonaws.com/public/images/00fe67ff-1133-479d-b2a0-83925559be88_440x353.png"
+        },
         {
           "id": "https://www.argmin.net/p/cover-songs",
           "author": "Ben Recht",
@@ -1691,22 +1687,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substack-post-media.s3.amazonaws.com/public/images/1b21d757-2198-4295-9feb-33efb13177b4_446x300.png"
-        },
-        {
-          "id": "https://www.argmin.net/p/unfollow-the-science",
-          "author": "Ben Recht",
-          "description": "Scientists have always lamented the state of scientific communication.",
-          "link": "https://www.argmin.net/p/unfollow-the-science",
-          "publishedOn": "2024-01-15T15:14:20.000Z",
-          "wordCount": null,
-          "title": "Unfollow The Science",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substack-post-media.s3.amazonaws.com/public/images/2ef7a1d7-a64b-448a-8d0b-a19f379a69fb_440x300.png",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substack-post-media.s3.amazonaws.com/public/images/2ef7a1d7-a64b-448a-8d0b-a19f379a69fb_440x300.png"
         }
       ]
     },
@@ -1715,6 +1695,16 @@
       "feedUrl": "https://pythonspeed.com/atom.xml",
       "siteUrl": "https://pythonspeed.com/atom.xml",
       "articles": [
+        {
+          "id": "https://pythonspeed.com/articles/gpu-without-cuda/",
+          "author": null,
+          "description": "If you’re doing computations on a GPU, NVIDIA is the default, alongside its CUDA libraries.\nSome libraries like PyTorch support do support AMD GPUs and Macs.\nBut from the re-implementations of NumPy, SciPy, and Pandas in the RAPIDS project, to Numba’s GPU support, NVIDIA has best software support in the Python world.\nSticking to NVIDIA-specific software has some downsides, however:\nIt won’t run on modern Mac laptops.\nTesting in CI is more difficult: you need custom runners that have NVIDIA GPUs.\nYou can’t use any other GPUs you might have access to, like AMD GPUs.\nWhat can you do if you want to use GPUs in a portable manner?\nIn this article we’ll cover one option, the wgpu-py library.\nRead more...",
+          "link": "https://pythonspeed.com/articles/gpu-without-cuda/",
+          "publishedOn": "2024-02-13T00:00:00.000Z",
+          "wordCount": 1140,
+          "title": "Not just NVIDIA: GPU programming that runs everywhere",
+          "imageUrl": "https://pythonspeed.com/assets/titles/gpu-without-cuda.png"
+        },
         {
           "id": "https://pythonspeed.com/articles/numba-profiling/",
           "author": null,
@@ -1946,16 +1936,6 @@
           "wordCount": 1688,
           "title": "Accelerate PyTorch Models Using Quantization Techniques with Intel Extension for PyTorch",
           "imageUrl": "https://pytorch.org/assets/images/social-share.jpg"
-        },
-        {
-          "id": "https://pytorch.org/blog/accelerating-triton/",
-          "author": null,
-          "description": "TL;DR",
-          "link": "https://pytorch.org/blog/accelerating-triton/",
-          "publishedOn": "2024-01-16T08:00:00.000Z",
-          "wordCount": 2903,
-          "title": "Accelerating Triton Dequantization Kernels for GPTQ",
-          "imageUrl": "https://pytorch.org/assets/images/social-share.jpg"
         }
       ]
     },
@@ -1988,6 +1968,22 @@
       "feedUrl": "https://www.argmin.net/feed.xml",
       "siteUrl": "https://www.argmin.net",
       "articles": [
+        {
+          "id": "https://www.argmin.net/p/predictions-and-actions-redux",
+          "author": "Ben Recht",
+          "description": "On the complex interactions between uncertainty quantification and recourse.",
+          "link": "https://www.argmin.net/p/predictions-and-actions-redux",
+          "publishedOn": "2024-02-13T15:38:46.000Z",
+          "wordCount": null,
+          "title": "Predictions and actions redux",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substack-post-media.s3.amazonaws.com/public/images/00fe67ff-1133-479d-b2a0-83925559be88_440x353.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substack-post-media.s3.amazonaws.com/public/images/00fe67ff-1133-479d-b2a0-83925559be88_440x353.png"
+        },
         {
           "id": "https://www.argmin.net/p/cover-songs",
           "author": "Ben Recht",
@@ -2163,22 +2159,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substack-post-media.s3.amazonaws.com/public/images/1b21d757-2198-4295-9feb-33efb13177b4_446x300.png"
-        },
-        {
-          "id": "https://www.argmin.net/p/unfollow-the-science",
-          "author": "Ben Recht",
-          "description": "Scientists have always lamented the state of scientific communication.",
-          "link": "https://www.argmin.net/p/unfollow-the-science",
-          "publishedOn": "2024-01-15T15:14:20.000Z",
-          "wordCount": null,
-          "title": "Unfollow The Science",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substack-post-media.s3.amazonaws.com/public/images/2ef7a1d7-a64b-448a-8d0b-a19f379a69fb_440x300.png",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substack-post-media.s3.amazonaws.com/public/images/2ef7a1d7-a64b-448a-8d0b-a19f379a69fb_440x300.png"
         }
       ]
     },
@@ -2206,16 +2186,6 @@
           "wordCount": 5450,
           "title": "On the Limit of the Linear Programming Bound for Codes and Packing",
           "imageUrl": "https://gilkalai.files.wordpress.com/2023/11/samorodnitsky.jpg"
-        },
-        {
-          "id": "http://gilkalai.wordpress.com/?p=25492",
-          "author": "Gil Kalai",
-          "description": "The following question was inspired by recent comments to the post on Elchanan Mossel’s amazing Dice Paradox. A fair dice is a dice that when thrown you get each of the six possibilities with probability 1/6. A random dice is … Continue reading →",
-          "link": "https://gilkalai.wordpress.com/2024/01/16/tyi-54-a-variant-of-elchanan-mossels-amazing-dice-paradox/",
-          "publishedOn": "2024-01-16T17:56:45.000Z",
-          "wordCount": 3800,
-          "title": "TYI 54: A Variant of Elchanan Mossel’s Amazing Dice Paradox",
-          "imageUrl": "https://gilkalai.files.wordpress.com/2024/01/rd.png"
         }
       ]
     },
@@ -2230,6 +2200,36 @@
       "feedUrl": "https://xianblog.wordpress.com/feed/",
       "siteUrl": "https://xianblog.wordpress.com",
       "articles": [
+        {
+          "id": "http://xianblog.wordpress.com/?p=54990",
+          "author": "xi'an",
+          "description": "Had to find a fifth horseman of the Apocalypse for 2024, and figured out that Terry Pratchett was the ultimate expert on these characters, witness “The Four Horsemen whose Ride presages the end of the world are known to be Death, War, Famine, and Pestilence. But even less significant events have their own Horsemen. For […]",
+          "link": "https://xianblog.wordpress.com/2024/02/15/a-journal-of-the-conquest-war-famine-death-and-chaos-year/",
+          "publishedOn": "2024-02-14T23:24:32.000Z",
+          "wordCount": 2825,
+          "title": "a journal of the conquest, war, famine, death, and chaos year",
+          "imageUrl": "https://brewminate.com/wp-content/uploads/2020/04/041220-32-History-Daniel-Defoe-Literature-Plague-Disease.jpg"
+        },
+        {
+          "id": "http://xianblog.wordpress.com/?p=54841",
+          "author": "xi'an",
+          "description": "Visit the post for more.",
+          "link": "https://xianblog.wordpress.com/2024/02/14/another-scam-conference/",
+          "publishedOn": "2024-02-13T23:24:29.000Z",
+          "wordCount": 2369,
+          "title": "another scam “conference”",
+          "imageUrl": "https://xianblog.files.wordpress.com/2024/01/scam.png"
+        },
+        {
+          "id": "http://xianblog.wordpress.com/?p=55051",
+          "author": "xi'an",
+          "description": "Visit the post for more.",
+          "link": "https://xianblog.wordpress.com/2024/02/13/poor-graph-and-not-so-poor-agribusiness/",
+          "publishedOn": "2024-02-12T23:24:52.000Z",
+          "wordCount": 2382,
+          "title": "poor graph [and not so poor agribusiness]",
+          "imageUrl": "https://xianblog.files.wordpress.com/2024/01/temp.jpeg"
+        },
         {
           "id": "http://xianblog.wordpress.com/?p=55045",
           "author": "xi'an",
@@ -2499,36 +2499,6 @@
           "wordCount": 2518,
           "title": "unscrambling Scottish eggs for wildcats",
           "imageUrl": "https://xianblog.files.wordpress.com/2012/09/dsc_2591-e1347800597459.jpg"
-        },
-        {
-          "id": "http://xianblog.wordpress.com/?p=54882",
-          "author": "xi'an",
-          "description": "A special “All about that Bayes” seminar in Paris (PariSanté campus, 23/01, 16:00-17:00) next week by my Warwick collegue and friend Rito: Bayesian Model Averaging with exact inference of likelihood- free Scoring Rule Posteriors Ritabrata Dutta, University of Warwick A novel application of Bayesian Model Averaging to generative models parameterized with neural networks (GNN) characterized […]",
-          "link": "https://xianblog.wordpress.com/2024/01/16/bayesian-model-averaging-with-exact-inference-of-likelihood-free-scoring-rule-posteriors-23-01-2024-parisante-campus/",
-          "publishedOn": "2024-01-15T23:24:48.000Z",
-          "wordCount": 2409,
-          "title": "Bayesian model averaging with exact inference of likelihood- free scoring rule posteriors [23/01/2024, PariSanté campus]",
-          "imageUrl": "https://xianblog.files.wordpress.com/2022/08/1661752522669-e1661752656324.jpg"
-        },
-        {
-          "id": "http://xianblog.wordpress.com/?p=54911",
-          "author": "xi'an",
-          "description": "Visit the post for more.",
-          "link": "https://xianblog.wordpress.com/2024/01/15/inhomogeneous-random-systems-institut-henri-poincare-23-41-jan-2024/",
-          "publishedOn": "2024-01-14T23:24:04.000Z",
-          "wordCount": 2306,
-          "title": "inhomogeneous random systems [Institut Henri Poincaré, 23-24 Jan 2024]",
-          "imageUrl": "https://xianblog.files.wordpress.com/2024/01/temp-4.png"
-        },
-        {
-          "id": "http://xianblog.wordpress.com/?p=54822",
-          "author": "xi'an",
-          "description": "A challenge interesting enough for a sunny New Year morn, found on X validated, namely the simulation of a bivariate exponential distribution proposed by Gumbel in 1960, with density over the positive quadrant in IR² Although there exists a direct approach based on the fact that the marginals are Exponential distributions and the conditionals signed […]",
-          "link": "https://xianblog.wordpress.com/2024/01/14/simulating-gumbels-bivariate-exponential-distribution/",
-          "publishedOn": "2024-01-13T23:24:53.000Z",
-          "wordCount": 2467,
-          "title": "simulating Gumbel’s bivariate exponential distribution",
-          "imageUrl": "https://xianblog.files.wordpress.com/2024/01/isvsmc.png"
         }
       ]
     },
@@ -2549,6 +2519,26 @@
       "feedUrl": "http://feeds.feedburner.com/blogspot/gJZg",
       "siteUrl": "http://blog.research.google/",
       "articles": [
+        {
+          "id": "http://blog.research.google/2024/02/learning-importance-of-training-data.html",
+          "author": null,
+          "description": "Posted by Nishant Jain, Pre-doctoral Researcher, and Pradeep Shenoy, Research Scientist, Google Research\n\n\n\n\nThe constantly changing nature of the world around us poses a significant challenge for the development of AI models. Often, models are trained on longitudinal data with the hope that the training data used will accurately represent inputs the model may receive in the future. More generally, the default assumption that all training data are equally relevant often breaks in practice. For example, the figure below shows images from the CLEAR nonstationary learning benchmark, and it illustrates how visual features of objects evolve significantly over a 10 year span (a phenomenon we refer to as slow concept drift), posing a challenge for object categorization models. \n\n\n\n\n\n\n\n\nSample ima…",
+          "link": "http://blog.research.google/2024/02/learning-importance-of-training-data.html",
+          "publishedOn": "2024-02-14T18:32:00.000Z",
+          "wordCount": 27743,
+          "title": "Learning the importance of training data under concept drift",
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgUeskw4YD6cFTpLaRnv7OwMsljyeipfAb1riYxIuBsiWd6TBmUXMJ4QoI9tlvUzWX9NzBbEjz3-P2Zl2kuXe5BrVclmqQFrLButoya5phiEELq1azrhsIaGaCz-ov_jXaMsFrGRDE0EjotyRQPOX3xV5MAkVJfKp9xecX4t2CoLBiZ8r2RpZ25Y5KRitFG/w1200-h630-p-k-no-nu/temporalreweightinghero.png"
+        },
+        {
+          "id": "http://blog.research.google/2024/02/dp-auditorium-flexible-library-for.html",
+          "author": null,
+          "description": "Posted by Mónica Ribero Díaz, Research Scientist, Google Research\n\n\n\n\n\nDifferential privacy (DP) is a property of randomized mechanisms that limit the influence of any individual user’s information while processing and analyzing data. DP offers a robust solution to address growing concerns about data protection, enabling technologies across industries and government applications (e.g., the US census) without compromising individual user identities.  As its adoption increases, it’s important to identify the potential risks of developing mechanisms with faulty implementations. Researchers have recently found errors in the mathematical proofs of private mechanisms, and their implementations. For example, researchers compared six sparse vector technique (SVT) variations and found that only two…",
+          "link": "http://blog.research.google/2024/02/dp-auditorium-flexible-library-for.html",
+          "publishedOn": "2024-02-13T22:11:00.000Z",
+          "wordCount": 27935,
+          "title": "DP-Auditorium: A flexible library for auditing differential privacy",
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhNVpxjk-jj1rIYQ8AM3A-Syqxd3d8L8-wIy8NWwyobCXmTRK7mY9h94aJYgFCiC0gnehVFFoM8-in8HsOZjfhoNce03nbsrN5fxY07wADV6ULPC0POGmCc-8eL3OqA9KrDyzQxN38JKvh6xCmLV6FZ1g0UfaXtKORhtTy0WuJexlPqV6P2c9rPdg_W_5zP/w1200-h630-p-k-no-nu/hero.jpg"
+        },
         {
           "id": "http://blog.research.google/2024/02/graph-neural-networks-in-tensorflow.html",
           "author": null,
@@ -2632,6 +2622,56 @@
       "feedUrl": "https://languagelog.ldc.upenn.edu/nll/?feed=rss2",
       "siteUrl": "https://languagelog.ldc.upenn.edu/nll",
       "articles": [
+        {
+          "id": "https://languagelog.ldc.upenn.edu/nll/?p=62467",
+          "author": "Mark Liberman",
+          "description": "Joe Biden recently said \"the president of Mexico\" when he meant \"the president of Egypt\". A couple of days earlier, he said \"Mitterand\" when he meant \"Macron\". Of course this fed into the flurry about his age, which was both-siderized by references to Donald Trump's calling Victor Orbán \"the great leader of Turkey\" when he […]",
+          "link": "https://languagelog.ldc.upenn.edu/nll/?p=62467&utm_source=rss&utm_medium=rss&utm_campaign=malaproper-nouns",
+          "publishedOn": "2024-02-14T19:49:43.000Z",
+          "wordCount": 4131,
+          "title": "Malaprop(er nouns)?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://languagelog.ldc.upenn.edu/nll/?p=62434",
+          "author": "Victor Mair",
+          "description": "Continuing our series on dragons, this note and illustration come from Juha Janhunen, the Finnish linguist: Happy Blue Dragon Year to everybody! Below is the official flag (1889-1912) of the Manchu Empire (in the west misleadingly known as \"China\"), which happens to have a blue dragon on it. Manchu muduri 'dragon' still seems to lack an external etymology. […]",
+          "link": "https://languagelog.ldc.upenn.edu/nll/?p=62434&utm_source=rss&utm_medium=rss&utm_campaign=ask-language-log-manchu-blue-dragon",
+          "publishedOn": "2024-02-14T04:11:07.000Z",
+          "wordCount": 3297,
+          "title": "Ask Language Log:  Manchu Blue Dragon",
+          "imageUrl": null
+        },
+        {
+          "id": "https://languagelog.ldc.upenn.edu/nll/?p=62415",
+          "author": "Victor Mair",
+          "description": "Signs in a Chinese park: Because none of these signs (more to come) are flagrantly wrong, I will not do a usual LL-style explication cum word-for-word transcription, translation, and explication.  Nonetheless, by and large they are awkward and unidiomatic, though some are rather charming in their own way.. In recent months, I've noticed that the […]",
+          "link": "https://languagelog.ldc.upenn.edu/nll/?p=62415&utm_source=rss&utm_medium=rss&utm_campaign=not-quite-chinglish",
+          "publishedOn": "2024-02-14T03:52:06.000Z",
+          "wordCount": 2279,
+          "title": "Not quite Chinglish",
+          "imageUrl": null
+        },
+        {
+          "id": "https://languagelog.ldc.upenn.edu/nll/?p=62448",
+          "author": "Mark Liberman",
+          "description": "Will Knight, \"Meet the Pranksters Behind Goody-2, the World’s ‘Most Responsible’ AI Chatbot\", Wired 2/9/2024: A new chatbot called Goody-2 takes AI safety to the next level: It refuses every request, responding with an explanation of how doing so might cause harm or breach ethical boundaries. Goody-2 declined to generate an essay on the American […]",
+          "link": "https://languagelog.ldc.upenn.edu/nll/?p=62448&utm_source=rss&utm_medium=rss&utm_campaign=goody-2-and-the-luddite-bots",
+          "publishedOn": "2024-02-12T18:52:28.000Z",
+          "wordCount": 3158,
+          "title": "Goody-2 and the Luddite Bots",
+          "imageUrl": null
+        },
+        {
+          "id": "https://languagelog.ldc.upenn.edu/nll/?p=62439",
+          "author": "Mark Liberman",
+          "description": "The most linguistically focused of this year's Super Bowl commercials: The NYT critic was not impressed. Mike Hale (\"The Super Bowl Ads, Ranked\", 2/11/2024) listed it under the heading \"Inoffensive but Forgettable: They tried. Nobody got hurt\", with the specific comment As the movie hero Agent State Farm, Arnold Schwarzenegger sends up his film persona […]",
+          "link": "https://languagelog.ldc.upenn.edu/nll/?p=62439&utm_source=rss&utm_medium=rss&utm_campaign=super-bowl-rhoticism",
+          "publishedOn": "2024-02-12T13:59:10.000Z",
+          "wordCount": 3019,
+          "title": "Super Bowl rhoticism",
+          "imageUrl": null
+        },
         {
           "id": "https://languagelog.ldc.upenn.edu/nll/?p=62431",
           "author": "Victor Mair",
@@ -2925,16 +2965,6 @@
           "publishedOn": "2024-01-17T02:35:53.000Z",
           "wordCount": 2747,
           "title": "Resuscitating  a moribund language",
-          "imageUrl": null
-        },
-        {
-          "id": "https://languagelog.ldc.upenn.edu/nll/?p=62230",
-          "author": "Victor Mair",
-          "description": "For those who are unfamiliar with Classical Chinese (CC) / Literary Sinitic (LS), what I am about to demonstrate in this post may be completely revelatory.  Many outsiders to CC / LS operate under the misapprehension that — because they are both written with hanzi  漢字 / 汉字 (\"Chinese characters / sinoglyphs\") — anyone who […]",
-          "link": "https://languagelog.ldc.upenn.edu/nll/?p=62230&utm_source=rss&utm_medium=rss&utm_campaign=translating-from-classical-chinese-literary-sinitic-to-mandarin",
-          "publishedOn": "2024-01-14T15:29:52.000Z",
-          "wordCount": 2882,
-          "title": "Translating from Classical Chinese / Literary Sinitic to Mandarin",
           "imageUrl": null
         }
       ]
