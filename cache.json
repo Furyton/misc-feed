@@ -1401,6 +1401,16 @@
       "siteUrl": "https://kexue.fm/",
       "articles": [
         {
+          "id": "https://kexue.fm/archives/9984",
+          "author": "苏剑林",
+          "description": "这篇文章分享一下笔者关于多模态模型架构的一些闭门造车的想法，或者说一些猜测。最近Google的Gemini 1.5和OpenAI的Sora再次点燃了不少人对多模态的热情，只言片语的技术报告也引起...",
+          "link": "https://kexue.fm/archives/9984",
+          "publishedOn": "2024-02-21T08:15:00.000Z",
+          "wordCount": 1494,
+          "title": "“闭门造车”之多模态模型方案浅谈",
+          "imageUrl": null
+        },
+        {
           "id": "https://kexue.fm/archives/9978",
           "author": "苏剑林",
           "description": "一些铺垫自Cool Papers上线以来，很多用户就建议笔者加入搜索功能，后面也确实在前端用JS简单做了个页面内搜索，解决了部分用户的需求，但仍有读者希望引入更完整的全局搜索。诚然，笔者理解这个...",

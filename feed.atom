@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-21T08:19:45.596Z</updated>
+    <updated>2024-02-21T09:17:20.969Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[“闭门造车”之多模态模型方案浅谈]]></title>
+        <id>https://kexue.fm/archives/9984</id>
+        <link href="https://kexue.fm/archives/9984"/>
+        <updated>2024-02-21T08:15:00.000Z</updated>
+        <summary type="html"><![CDATA[这篇文章分享一下笔者关于多模态模型架构的一些闭门造车的想法，或者说一些猜测。最近Google的Gemini 1.5和OpenAI的Sora再次点燃了不少人对多模态的热情，只言片语的技术报告也引起...]]></summary>
+        <author>
+            <name>苏剑林</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Jumbled pinyin]]></title>
         <id>https://languagelog.ldc.upenn.edu/nll/?p=62565</id>
