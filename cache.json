@@ -1932,16 +1932,6 @@
           "wordCount": 1237,
           "title": "PyTorch 2.2: FlashAttention-v2 integration, AOTInductor",
           "imageUrl": "https://pytorch.org/assets/images/social-share.jpg"
-        },
-        {
-          "id": "https://pytorch.org/blog/accelerating-generative-ai-4/",
-          "author": null,
-          "description": "This post is the fourth part of a multi-series blog focused on how to accelerate generative AI models with pure, native PyTorch. To skip to the code, check out our github (seamless_communication, fairseq2). We are excited to share a breadth of newly released PyTorch performance features alongside practical examples to see how far we can push PyTorch native performance. In part one, we showed how to accelerate Segment Anything over 8x using only pure, native PyTorch. In part two, we showed how to accelerate Llama-7B by almost 10x using only native PyTorch optimizations. In part three, we showed how to accelerate text-to-image diffusion models up to 3x using only native Pytorch optimizations.",
-          "link": "https://pytorch.org/blog/accelerating-generative-ai-4/",
-          "publishedOn": "2024-01-23T08:00:00.000Z",
-          "wordCount": 2988,
-          "title": "Accelerating Generative AI with PyTorch IV: Seamless M4T, fast",
-          "imageUrl": "https://pytorch.org/assets/images/social-share.jpg"
         }
       ]
     },
