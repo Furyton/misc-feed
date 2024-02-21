@@ -2491,16 +2491,6 @@
           "wordCount": 2467,
           "title": "the academic integrity flow chart",
           "imageUrl": "https://xianblog.files.wordpress.com/2023/10/warwinteg4.png"
-        },
-        {
-          "id": "http://xianblog.wordpress.com/?p=54996",
-          "author": "xi'an",
-          "description": "My PhD student Charly Andral [presented at the mostly Monte Carlo seminar and] arXived a new preprint yesterday, on training a normalizing flow network as an importance sampler (as in Gabrié et al.) or an independent Metropolis proposal, and exploiting its invertibility to call quasi-Monte Carlo low discrepancy sequences to boost its efficiency. (Training the […]",
-          "link": "https://xianblog.wordpress.com/2024/01/23/combining-normalizing-flows-and-qmc/",
-          "publishedOn": "2024-01-22T23:24:38.000Z",
-          "wordCount": 2523,
-          "title": "combining normalizing flows and QMC",
-          "imageUrl": "https://xianblog.files.wordpress.com/2024/01/temp-8.png"
         }
       ]
     },

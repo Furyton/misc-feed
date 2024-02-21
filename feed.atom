@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-21T11:12:44.605Z</updated>
+    <updated>2024-02-21T12:27:15.863Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -2258,16 +2258,6 @@ A common approach to learning on graphs are graph neural networks (GNNs), which 
         <summary type="html"><![CDATA[Takao Yamaguchi]]></summary>
         <author>
             <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[combining normalizing flows and QMC]]></title>
-        <id>http://xianblog.wordpress.com/?p=54996</id>
-        <link href="https://xianblog.wordpress.com/2024/01/23/combining-normalizing-flows-and-qmc/"/>
-        <updated>2024-01-22T23:24:38.000Z</updated>
-        <summary type="html"><![CDATA[My PhD student Charly Andral [presented at the mostly Monte Carlo seminar and] arXived a new preprint yesterday, on training a normalizing flow network as an importance sampler (as in Gabrié et al.) or an independent Metropolis proposal, and exploiting its invertibility to call quasi-Monte Carlo low discrepancy sequences to boost its efficiency. (Training the […]]]></summary>
-        <author>
-            <name>xi'an</name>
         </author>
     </entry>
     <entry>
