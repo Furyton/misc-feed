@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-21T12:27:15.863Z</updated>
+    <updated>2024-02-21T13:16:26.233Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Gemma: Introducing new state-of-the-art open models]]></title>
+        <id>https://deepmind.google/discover/blog/gemma-introducing-new-state-of-the-art-open-models/</id>
+        <link href="https://deepmind.google/discover/blog/gemma-introducing-new-state-of-the-art-open-models/"/>
+        <updated>2024-02-21T13:06:16.000Z</updated>
+        <summary type="html"><![CDATA[Gemma is built for responsible AI development from the same research and technology used to create Gemini models.]]></summary>
+        <author>
+            <name>Google DeepMind Blog</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“闭门造车”之多模态模型方案浅谈]]></title>
         <id>https://kexue.fm/archives/9984</id>
