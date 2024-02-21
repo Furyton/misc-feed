@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-21T03:15:31.241Z</updated>
+    <updated>2024-02-21T04:17:40.283Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -2258,16 +2258,6 @@ A common approach to learning on graphs are graph neural networks (GNNs), which 
         <summary type="html"><![CDATA[My PhD student Charly Andral [presented at the mostly Monte Carlo seminar and] arXived a new preprint yesterday, on training a normalizing flow network as an importance sampler (as in Gabrié et al.) or an independent Metropolis proposal, and exploiting its invertibility to call quasi-Monte Carlo low discrepancy sequences to boost its efficiency. (Training the […]]]></summary>
         <author>
             <name>xi'an</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Garden paths galore]]></title>
-        <id>https://languagelog.ldc.upenn.edu/nll/?p=62273</id>
-        <link href="https://languagelog.ldc.upenn.edu/nll/?p=62273&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=garden-paths-galore"/>
-        <updated>2024-01-22T15:27:34.000Z</updated>
-        <summary type="html"><![CDATA[In two successive comments on different posts (here and here), Jarek Weckwerth asserts that this garden path post is "a timely follow-up" to the exuberant discussion on the parsing of a Classical Chinese / Literary Sinitic (CC/LS) book title that took place in this post and the plethora of readers' remarks that followed it.  This is […]]]></summary>
-        <author>
-            <name>Victor Mair</name>
         </author>
     </entry>
     <entry>
