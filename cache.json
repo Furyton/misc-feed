@@ -2568,16 +2568,6 @@
           "wordCount": 27947,
           "title": "Mixed-input matrix multiplication performance optimizations",
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhEKJJf1R773hab0veY6zffF2Nf_yfV2mk8YU9yRnuBDD3ak1o0iXecWlJw2x7bL-Ez2MX1c21MXk65VMK5IsoLpJ1H6BTC6k7BvVWl_gHJpJIOG2cm3BwP4V-HCScGHYIynuskbhvu1uorQGprHGbOFmfGI7E5UWemJcZ0xSC3tC5DolBYgyBwugl6OOLr/w1200-h630-p-k-no-nu/matrixhero.png"
-        },
-        {
-          "id": "http://blog.research.google/2024/01/exphormer-scaling-transformers-for.html",
-          "author": null,
-          "description": "Posted by Ameya Velingker, Research Scientist, Google Research, and Balaji Venkatachalam, Software Engineer, Google\n\n\n\n\nGraphs, in which objects and their relations are represented as nodes (or vertices) and edges (or links) between pairs of nodes, are ubiquitous in computing and machine learning (ML). For example, social networks, road networks, and molecular structure and interactions are all domains in which underlying datasets have a natural graph structure. ML can be used to learn the properties of nodes, edges, or entire graphs. \n\n\n\n\nA common approach to learning on graphs are graph neural networks (GNNs), which operate on graph data by applying an optimizable transformation on node, edge, and global attributes. The most typical class of GNNs operates via a message-passing framework,…",
-          "link": "http://blog.research.google/2024/01/exphormer-scaling-transformers-for.html",
-          "publishedOn": "2024-01-23T22:27:00.000Z",
-          "wordCount": 27895,
-          "title": "Exphormer: Scaling transformers for graph-structured data",
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhbovKreBr7RlKc4L36E6rLqiZBZzJSq5GLijCkomHREon5tYXd-7C2pppMXnL5Mj2d82kZGnPlarrrMzQOfRnN8kVvqDh1GnadIJ-hbaaS8VjYzCpaD-DgYor5cKx-OhTGZk9iCy5MjtwG2Q9eTyQiipDr5ViMdl2vkxfbLzWnB3wmLb8YfvVsTJ1FnOmw/w1200-h630-p-k-no-nu/EXPHORMER%2005large.gif"
         }
       ]
     },

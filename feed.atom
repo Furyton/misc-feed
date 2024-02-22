@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-22T10:15:24.569Z</updated>
+    <updated>2024-02-22T11:12:19.027Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -2221,26 +2221,6 @@ The bulk of an LLM’s memory and compute are consumed by weights in matrix mult
         <summary type="html"><![CDATA[Shoaib Meraj Sami, Md Mahedi Hasan, Nasser M. Nasrabadi, Raghuveer Rao]]></summary>
         <author>
             <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Exphormer: Scaling transformers for graph-structured data]]></title>
-        <id>http://blog.research.google/2024/01/exphormer-scaling-transformers-for.html</id>
-        <link href="http://blog.research.google/2024/01/exphormer-scaling-transformers-for.html"/>
-        <updated>2024-01-23T22:27:00.000Z</updated>
-        <summary type="html"><![CDATA[Posted by Ameya Velingker, Research Scientist, Google Research, and Balaji Venkatachalam, Software Engineer, Google
-
-
-
-
-Graphs, in which objects and their relations are represented as nodes (or vertices) and edges (or links) between pairs of nodes, are ubiquitous in computing and machine learning (ML). For example, social networks, road networks, and molecular structure and interactions are all domains in which underlying datasets have a natural graph structure. ML can be used to learn the properties of nodes, edges, or entire graphs. 
-
-
-
-
-A common approach to learning on graphs are graph neural networks (GNNs), which operate on graph data by applying an optimizable transformation on node, edge, and global attributes. The most typical class of GNNs operates via a message-passing framework,…]]></summary>
-        <author>
-            <name>Google AI Blog</name>
         </author>
     </entry>
     <entry>
