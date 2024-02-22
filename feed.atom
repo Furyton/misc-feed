@@ -2,10 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-22T20:15:04.748Z</updated>
+    <updated>2024-02-22T21:12:52.620Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[VideoPrism: A foundational visual encoder for video understanding]]></title>
+        <id>http://blog.research.google/2024/02/videoprism-foundational-visual-encoder.html</id>
+        <link href="http://blog.research.google/2024/02/videoprism-foundational-visual-encoder.html"/>
+        <updated>2024-02-22T20:05:00.000Z</updated>
+        <summary type="html"><![CDATA[Posted by Long Zhao, Senior Research Scientist, and Ting Liu, Senior Staff Software Engineer, Google Research
+
+
+
+
+An astounding number of videos are available on the Web, covering a variety of content from everyday moments people share to historical moments to scientific observations, each of which contains a unique record of the world. The right tools could help researchers analyze these videos, transforming how we understand the world around us.
+
+ 
+
+Videos offer dynamic visual content far more rich than static images, capturing movement, changes, and dynamic relationships between entities. Analyzing this complexity, along with the immense diversity of publicly available video data, demands models that go beyond traditional image understanding. Consequently, many of the approaches that be…]]></summary>
+        <author>
+            <name>Google AI Blog</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bayesian score calibration at One World ABC’minar [only comes every 1462 days]]]></title>
         <id>http://xianblog.wordpress.com/?p=55332</id>
