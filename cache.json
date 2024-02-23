@@ -1696,6 +1696,16 @@
       "siteUrl": "https://pythonspeed.com/atom.xml",
       "articles": [
         {
+          "id": "https://pythonspeed.com/articles/climate-change/",
+          "author": null,
+          "description": "Climate change is impacting the whole planet, and getting worse every year.\nSo you want to do something—but you’re not sure what.\nIf you do some research you might encounter an essay by Bret Victor—What can a technologist do about climate change?\nThere’s a whole pile of good ideas in there, and it’s worth reading, but the short version is that you can use technology to “create options for policy-makers.”\nAnd working on clean energy or efficiency is definitely a great way to spend your time.\nThing is, policy-makers are doing far less than they should.\nAs a result, this essay isn’t about technology, even though that’s what I mostly write about on this site, because I’m not so certain that technology is the bottleneck right now.\nInstead, I’m writing about policy and politics, and what you can do about it.\nKeep in mind that my perspective is heavily influenced by living in the US, but the big picture issues are likely universal.\nRead more...",
+          "link": "https://pythonspeed.com/articles/climate-change/",
+          "publishedOn": "2024-02-22T00:00:00.000Z",
+          "wordCount": 2907,
+          "title": "What can you do about climate change?",
+          "imageUrl": "https://pythonspeed.com/assets/titles/climate-change.png"
+        },
+        {
           "id": "https://pythonspeed.com/articles/gpu-without-cuda/",
           "author": null,
           "description": "If you’re doing computations on a GPU, NVIDIA is the default, alongside its CUDA libraries.\nSome libraries like PyTorch support do support AMD GPUs and Macs.\nBut from the re-implementations of NumPy, SciPy, and Pandas in the RAPIDS project, to Numba’s GPU support, NVIDIA has best software support in the Python world.\nSticking to NVIDIA-specific software has some downsides, however:\nIt won’t run on modern Mac laptops.\nTesting in CI is more difficult: you need custom runners that have NVIDIA GPUs.\nYou can’t use any other GPUs you might have access to, like AMD GPUs.\nWhat can you do if you want to use GPUs in a portable manner?\nIn this article we’ll cover one option, the wgpu-py library.\nRead more...",
