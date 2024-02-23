@@ -1497,6 +1497,22 @@
       "siteUrl": "https://www.argmin.net",
       "articles": [
         {
+          "id": "https://www.argmin.net/p/all-models-are-wrong-but-some-are",
+          "author": "Ben Recht",
+          "description": "Doyle's counterexample and the paradox of prediction in optimal control.",
+          "link": "https://www.argmin.net/p/all-models-are-wrong-but-some-are",
+          "publishedOn": "2024-02-23T15:36:02.000Z",
+          "wordCount": null,
+          "title": "All models are wrong, but some are dangerous",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substack-post-media.s3.amazonaws.com/public/images/8f63f6d6-eba5-4ab9-9785-6ad1bcb78e9a_464x300.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substack-post-media.s3.amazonaws.com/public/images/8f63f6d6-eba5-4ab9-9785-6ad1bcb78e9a_464x300.png"
+        },
+        {
           "id": "https://www.argmin.net/p/bracing-for-impact",
           "author": "Ben Recht",
           "description": "What is the role of uncertainty quantification in feedback systems?",
@@ -1932,6 +1948,22 @@
       "feedUrl": "https://www.argmin.net/feed.xml",
       "siteUrl": "https://www.argmin.net",
       "articles": [
+        {
+          "id": "https://www.argmin.net/p/all-models-are-wrong-but-some-are",
+          "author": "Ben Recht",
+          "description": "Doyle's counterexample and the paradox of prediction in optimal control.",
+          "link": "https://www.argmin.net/p/all-models-are-wrong-but-some-are",
+          "publishedOn": "2024-02-23T15:36:02.000Z",
+          "wordCount": null,
+          "title": "All models are wrong, but some are dangerous",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substack-post-media.s3.amazonaws.com/public/images/8f63f6d6-eba5-4ab9-9785-6ad1bcb78e9a_464x300.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substack-post-media.s3.amazonaws.com/public/images/8f63f6d6-eba5-4ab9-9785-6ad1bcb78e9a_464x300.png"
+        },
         {
           "id": "https://www.argmin.net/p/bracing-for-impact",
           "author": "Ben Recht",
@@ -2978,16 +3010,6 @@
             "length": "0",
             "type": "audio/mpeg"
           },
-          "imageUrl": null
-        },
-        {
-          "id": "https://languagelog.ldc.upenn.edu/nll/?p=62314",
-          "author": "Victor Mair",
-          "description": "From Jess DeMarco: This is the de Young Museum in San Francisco, doubling down the -x construction for Spanish: Bienvenidxs. Are most Spanish speakers ok with this? I also note that none of the Chinese language materials use simplified characters (viz., huānyíng 歡迎 but not 欢迎).  Is this a snub against the mainland? They do feature […]",
-          "link": "https://languagelog.ldc.upenn.edu/nll/?p=62314&utm_source=rss&utm_medium=rss&utm_campaign=inclusivity",
-          "publishedOn": "2024-01-25T03:21:18.000Z",
-          "wordCount": 2210,
-          "title": "Inclusivity",
           "imageUrl": null
         }
       ]

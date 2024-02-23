@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-23T15:17:34.479Z</updated>
+    <updated>2024-02-23T16:18:11.560Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[All models are wrong, but some are dangerous]]></title>
+        <id>https://www.argmin.net/p/all-models-are-wrong-but-some-are</id>
+        <link href="https://www.argmin.net/p/all-models-are-wrong-but-some-are"/>
+        <updated>2024-02-23T15:36:02.000Z</updated>
+        <summary type="html"><![CDATA[Doyle's counterexample and the paradox of prediction in optimal control.]]></summary>
+        <author>
+            <name>Ben Recht</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[All models are wrong, but some are dangerous]]></title>
+        <id>https://www.argmin.net/p/all-models-are-wrong-but-some-are</id>
+        <link href="https://www.argmin.net/p/all-models-are-wrong-but-some-are"/>
+        <updated>2024-02-23T15:36:02.000Z</updated>
+        <summary type="html"><![CDATA[Doyle's counterexample and the paradox of prediction in optimal control.]]></summary>
+        <author>
+            <name>Ben Recht</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA["It crosses the i's and dots the t's"]]></title>
         <id>https://languagelog.ldc.upenn.edu/nll/?p=62643</id>
@@ -2146,16 +2166,6 @@ The bulk of an LLM’s memory and compute are consumed by weights in matrix mult
         <summary type="html"><![CDATA[Zehua Liu, Zimeng Li, Jingyuan Wang, Yue He]]></summary>
         <author>
             <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Inclusivity]]></title>
-        <id>https://languagelog.ldc.upenn.edu/nll/?p=62314</id>
-        <link href="https://languagelog.ldc.upenn.edu/nll/?p=62314&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=inclusivity"/>
-        <updated>2024-01-25T03:21:18.000Z</updated>
-        <summary type="html"><![CDATA[From Jess DeMarco: This is the de Young Museum in San Francisco, doubling down the -x construction for Spanish: Bienvenidxs. Are most Spanish speakers ok with this? I also note that none of the Chinese language materials use simplified characters (viz., huānyíng 歡迎 but not 欢迎).  Is this a snub against the mainland? They do feature […]]]></summary>
-        <author>
-            <name>Victor Mair</name>
         </author>
     </entry>
     <entry>
