@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-22T23:18:40.188Z</updated>
+    <updated>2024-02-23T01:02:45.803Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Hugo[red] Awards 2023]]></title>
+        <id>http://xianblog.wordpress.com/?p=55026</id>
+        <link href="https://xianblog.wordpress.com/2024/02/23/hugo-awards-2023/"/>
+        <updated>2024-02-22T23:23:43.000Z</updated>
+        <summary type="html"><![CDATA[Here are the 2023 awards [connected to my read smd to-read lists]. As the votes were made by participants to the 2023 Chengdu Worldcon, Chengdu, China, censorship later came to light, regarding authors critical of the Chinese government, like Kuang, Zhao, and Gaiman, who did not make it to the shortlist… Best Novel Nettle & […]]]></summary>
+        <author>
+            <name>xi'an</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[VideoPrism: A foundational visual encoder for video understanding]]></title>
         <id>http://blog.research.google/2024/02/videoprism-foundational-visual-encoder.html</id>
@@ -2166,16 +2176,6 @@ The bulk of an LLM’s memory and compute are consumed by weights in matrix mult
         <summary type="html"><![CDATA[Getting back to my attempt to make statistics algorithmic.]]></summary>
         <author>
             <name>Ben Recht</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Back to Bacon]]></title>
-        <id>https://languagelog.ldc.upenn.edu/nll/?p=62325</id>
-        <link href="https://languagelog.ldc.upenn.edu/nll/?p=62325&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=back-to-bacon"/>
-        <updated>2024-01-24T12:27:14.000Z</updated>
-        <summary type="html"><![CDATA[The implicit slogan of language-model research is J.R. Firth's dictum, "You shall know a word by the company it keeps", from his 1957 paper "A synopsis of linguistic theory, 1930-1955": As the Wikipedia article explains, His theory that "you shall know a word by the company it keeps" / "a word is characterized by the […]]]></summary>
-        <author>
-            <name>Mark Liberman</name>
         </author>
     </entry>
     <entry>
