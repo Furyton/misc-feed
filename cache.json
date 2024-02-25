@@ -2494,16 +2494,6 @@
           "wordCount": 27727,
           "title": "MobileDiffusion: Rapid text-to-image generation on-device",
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgOndf55Pc7tkXJektbVBEYRsOlxbUVui2uwOdXvuHj9cNpoNw2One4-68fqFNl2_fvv11CcgYfoI1XVQIkpjA9DosaOeqdkIRj9aZZJNoDy8KqB_XCVDtDd_EvT5UGL2ZhXvL2PU3RjN8XBjI0eQe8VIJCKI0-20AG0TKGK58mO9tBZa80P58KSjTU_liK/w1200-h630-p-k-no-nu/InstantTIGO%20hero.png"
-        },
-        {
-          "id": "http://blog.research.google/2024/01/mixed-input-matrix-multiplication.html",
-          "author": null,
-          "description": "Posted by Manish Gupta, Staff Software Engineer, Google Research\n\n\n\n\nAI-driven technologies are weaving themselves into the fabric of our daily routines, with the potential to enhance our access to knowledge and boost our overall productivity. The backbone of these applications lies in large language models (LLMs).  LLMs are memory-intensive and typically require specialized hardware accelerators to efficiently deliver tens of exaflops of computing power. This blog post shows how we can start addressing the computational challenges by utilizing memory more effectively.\n\n\n\nThe bulk of an LLM’s memory and compute are consumed by weights in matrix multiplication operations. Using narrower data types reduces memory consumption. For example, storing weights in the 8-bit integer (i.e., U8 or S8)…",
-          "link": "http://blog.research.google/2024/01/mixed-input-matrix-multiplication.html",
-          "publishedOn": "2024-01-26T19:56:00.000Z",
-          "wordCount": 27947,
-          "title": "Mixed-input matrix multiplication performance optimizations",
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhEKJJf1R773hab0veY6zffF2Nf_yfV2mk8YU9yRnuBDD3ak1o0iXecWlJw2x7bL-Ez2MX1c21MXk65VMK5IsoLpJ1H6BTC6k7BvVWl_gHJpJIOG2cm3BwP4V-HCScGHYIynuskbhvu1uorQGprHGbOFmfGI7E5UWemJcZ0xSC3tC5DolBYgyBwugl6OOLr/w1200-h630-p-k-no-nu/matrixhero.png"
         }
       ]
     },
