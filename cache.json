@@ -2139,6 +2139,16 @@
       "siteUrl": "https://xianblog.wordpress.com",
       "articles": [
         {
+          "id": "http://xianblog.wordpress.com/?p=55176",
+          "author": "xi'an",
+          "description": "For any positive, base-10 integer N, define f(N) as the number of times you have to add up its digits until you get a one-digit number. Find the smallest whole number N such that f(N) = 4. Fiddler on the Proof Although I first gave in to the R brute force attempt, it failed to […]",
+          "link": "https://xianblog.wordpress.com/2024/02/25/merely-fiddlin/",
+          "publishedOn": "2024-02-24T23:24:41.000Z",
+          "wordCount": 2479,
+          "title": "merely fiddlin",
+          "imageUrl": "https://xianblog.files.wordpress.com/2024/02/temp-2.png"
+        },
+        {
           "id": "http://xianblog.wordpress.com/?p=55217",
           "author": "xi'an",
           "description": "Visit the post for more.",
@@ -2973,16 +2983,6 @@
           "publishedOn": "2024-01-27T11:44:15.000Z",
           "wordCount": 2699,
           "title": "Butter chicken",
-          "imageUrl": null
-        },
-        {
-          "id": "https://languagelog.ldc.upenn.edu/nll/?p=62344",
-          "author": "Mark Liberman",
-          "description": "Oliver Millman, \"Biden hits pause on natural gas projects amid thread of carbon ‘mega bombs’\", The Guardian 1/26/2024. Or maybe that should be The Grauniad? B.L., who sent in the link, commented: The same typo (or is it a typo??) appeared in the summary on the home page. I can't decide whether this is some […]",
-          "link": "https://languagelog.ldc.upenn.edu/nll/?p=62344&utm_source=rss&utm_medium=rss&utm_campaign=bomb-thread-in-the-guardian",
-          "publishedOn": "2024-01-26T12:56:01.000Z",
-          "wordCount": 2315,
-          "title": "Bomb thread in the Guardian",
           "imageUrl": null
         }
       ]

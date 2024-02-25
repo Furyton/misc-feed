@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-24T23:15:56.543Z</updated>
+    <updated>2024-02-25T01:08:05.993Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[merely fiddlin]]></title>
+        <id>http://xianblog.wordpress.com/?p=55176</id>
+        <link href="https://xianblog.wordpress.com/2024/02/25/merely-fiddlin/"/>
+        <updated>2024-02-24T23:24:41.000Z</updated>
+        <summary type="html"><![CDATA[For any positive, base-10 integer N, define f(N) as the number of times you have to add up its digits until you get a one-digit number. Find the smallest whole number N such that f(N) = 4. Fiddler on the Proof Although I first gave in to the R brute force attempt, it failed to […]]]></summary>
+        <author>
+            <name>xi'an</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Thought panzers]]></title>
         <id>https://languagelog.ldc.upenn.edu/nll/?p=62638</id>
@@ -1994,16 +2004,6 @@ The bulk of an LLM’s memory and compute are consumed by weights in matrix mult
         <updated>2024-01-26T14:00:00.000Z</updated>
         <author>
             <name>Harvard ML Foundations</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bomb thread in the Guardian]]></title>
-        <id>https://languagelog.ldc.upenn.edu/nll/?p=62344</id>
-        <link href="https://languagelog.ldc.upenn.edu/nll/?p=62344&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=bomb-thread-in-the-guardian"/>
-        <updated>2024-01-26T12:56:01.000Z</updated>
-        <summary type="html"><![CDATA[Oliver Millman, "Biden hits pause on natural gas projects amid thread of carbon ‘mega bombs’", The Guardian 1/26/2024. Or maybe that should be The Grauniad? B.L., who sent in the link, commented: The same typo (or is it a typo??) appeared in the summary on the home page. I can't decide whether this is some […]]]></summary>
-        <author>
-            <name>Mark Liberman</name>
         </author>
     </entry>
     <entry>
