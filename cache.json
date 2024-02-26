@@ -2097,6 +2097,16 @@
       "siteUrl": "https://xianblog.wordpress.com",
       "articles": [
         {
+          "id": "http://xianblog.wordpress.com/?p=55364",
+          "author": "xi'an",
+          "description": "Our importance Markov chain paper (with Charly Andral (PhD, Paris Dauphine), Randal Douc, and Hugo Marival (PhD, Telecom SudParis) has been published (on-line) by stochastic processes and their applications (SPA). Incidentally, my first publication in this journal. To paraphrase its abstract, it sort of bridges the (unsuspected?) gap between rejection sampling and importance sampling, moving […]",
+          "link": "https://xianblog.wordpress.com/2024/02/26/important-and-published-markov-chains/",
+          "publishedOn": "2024-02-25T23:24:34.000Z",
+          "wordCount": 2573,
+          "title": "important and published [Markov chains]",
+          "imageUrl": "https://xianblog.files.wordpress.com/2024/02/temp-10.png"
+        },
+        {
           "id": "http://xianblog.wordpress.com/?p=55176",
           "author": "xi'an",
           "description": "For any positive, base-10 integer N, define f(N) as the number of times you have to add up its digits until you get a one-digit number. Find the smallest whole number N such that f(N) = 4. Fiddler on the Proof Although I first gave in to the R brute force attempt, it failed to […]",
@@ -2931,16 +2941,6 @@
           "publishedOn": "2024-01-29T17:52:01.000Z",
           "wordCount": 2412,
           "title": "Viral pushback against the imperial dragon in a dragon year",
-          "imageUrl": null
-        },
-        {
-          "id": "https://languagelog.ldc.upenn.edu/nll/?p=62334",
-          "author": "Victor Mair",
-          "description": "Who owns it? It's sort of like who owns kimchee, Koreans (of course!) or Chinese — we've been through that many times — except that the question of who has the rights to claim they invented butter chicken is ostensibly internecine / intranational rather than international (but maybe not [see below]), as is the case […]",
-          "link": "https://languagelog.ldc.upenn.edu/nll/?p=62334&utm_source=rss&utm_medium=rss&utm_campaign=butter-chicken",
-          "publishedOn": "2024-01-27T11:44:15.000Z",
-          "wordCount": 2699,
-          "title": "Butter chicken",
           "imageUrl": null
         }
       ]
