@@ -1680,6 +1680,16 @@
       "siteUrl": "https://pythonspeed.com/atom.xml",
       "articles": [
         {
+          "id": "https://pythonspeed.com/articles/software-jevons-paradox/",
+          "author": null,
+          "description": "When it comes to fighting climate change, I strongly believe that getting involved in politics is one of the most useful things you can do.\nBut given how energy-intensive software is these days, writing more efficient software also seems worth doing, especially if your software is used at scale.\nHowever, whenever efficiency is brought up, Jevons Paradox rears its head.\nWriting in the 19th century, Jevons pointed out that increased efficiency in the use of coal didn’t decrease the amount of coal used, it actually increased it.\nAs it became more cost-effective and more useful, coal ended up being used in far more places.\nSo what about software: will faster software result in more usage, completely undoing the energy-consumption benefits of efficiency?\nRead more...",
+          "link": "https://pythonspeed.com/articles/software-jevons-paradox/",
+          "publishedOn": "2024-02-27T00:00:00.000Z",
+          "wordCount": 1736,
+          "title": "Jevons Paradox doesn't always apply to software",
+          "imageUrl": "https://pythonspeed.com/assets/titles/software-jevons-paradox.png"
+        },
+        {
           "id": "https://pythonspeed.com/articles/climate-change/",
           "author": null,
           "description": "Climate change is impacting the whole planet, and getting worse every year.\nSo you want to do something—but you’re not sure what.\nIf you do some research you might encounter an essay by Bret Victor—What can a technologist do about climate change?\nThere’s a whole pile of good ideas in there, and it’s worth reading, but the short version is that you can use technology to “create options for policy-makers.”\nAnd working on clean energy or efficiency is definitely a great way to spend your time.\nThing is, policy-makers are doing far less than they should.\nAs a result, this essay isn’t about technology, even though that’s what I mostly write about on this site, because I’m not so certain that technology is the bottleneck right now.\nInstead, I’m writing about policy and politics, and what you can do about it.\nKeep in mind that my perspective is heavily influenced by living in the US, but the big picture issues are likely universal.\nRead more...",
