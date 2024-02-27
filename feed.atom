@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-27T08:18:07.176Z</updated>
+    <updated>2024-02-27T09:15:17.482Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[配置不同的学习率，LoRA还能再涨一点？]]></title>
+        <id>https://kexue.fm/archives/10001</id>
+        <link href="https://kexue.fm/archives/10001"/>
+        <updated>2024-02-27T08:46:00.000Z</updated>
+        <summary type="html"><![CDATA[LoRA（Low-Rank Adaptation）是当前LLM的参数高效微调手段之一，此前我们在《梯度视角下的LoRA：简介、分析、猜测及推广》也有过简单讨论。这篇文章我们来学习LoRA的一个新...]]></summary>
+        <author>
+            <name>苏剑林</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[mostly M[ar]C[h]]]></title>
         <id>http://xianblog.wordpress.com/?p=55368</id>

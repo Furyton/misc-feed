@@ -1401,6 +1401,16 @@
       "siteUrl": "https://kexue.fm/",
       "articles": [
         {
+          "id": "https://kexue.fm/archives/10001",
+          "author": "苏剑林",
+          "description": "LoRA（Low-Rank Adaptation）是当前LLM的参数高效微调手段之一，此前我们在《梯度视角下的LoRA：简介、分析、猜测及推广》也有过简单讨论。这篇文章我们来学习LoRA的一个新...",
+          "link": "https://kexue.fm/archives/10001",
+          "publishedOn": "2024-02-27T08:46:00.000Z",
+          "wordCount": 1588,
+          "title": "配置不同的学习率，LoRA还能再涨一点？",
+          "imageUrl": null
+        },
+        {
           "id": "https://kexue.fm/archives/9984",
           "author": "苏剑林",
           "description": "这篇文章分享一下笔者关于多模态模型架构的一些闭门造车的想法，或者说一些猜测。最近Google的Gemini 1.5和OpenAI的Sora再次点燃了不少人对多模态的热情，只言片语的技术报告也引起...",
