@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-27T12:25:59.563Z</updated>
+    <updated>2024-02-27T13:15:40.399Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Three Remarkable Quantum Events at the Simons Institute for the Theory of Computing in Berkeley]]></title>
+        <id>http://gilkalai.wordpress.com/?p=25655</id>
+        <link href="https://gilkalai.wordpress.com/2024/02/27/three-remarkable-quantum-events-at-the-simons-institute-for-the-theory-of-computing-in-berkeley/"/>
+        <updated>2024-02-27T12:56:18.000Z</updated>
+        <summary type="html"><![CDATA[In the picture (compare it to this picture in this  post) you can see David DiVincenzo’s famous 7-steps road map (from 2000) to quantum computers, with one additional step “quantum supremacy on NISQ computers” that has proposed around 2010. Step … Continue reading →]]></summary>
+        <author>
+            <name>Gil Kalai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Three Remarkable Quantum Events at the Simons Institute for the Theory of Computing in Berkeley]]></title>
+        <id>http://gilkalai.wordpress.com/?p=25655</id>
+        <link href="https://gilkalai.wordpress.com/2024/02/27/three-remarkable-quantum-events-at-the-simons-institute-for-the-theory-of-computing-in-berkeley/"/>
+        <updated>2024-02-27T12:56:18.000Z</updated>
+        <summary type="html"><![CDATA[In the picture (compare it to this picture in this  post) you can see David DiVincenzo’s famous 7-steps road map (from 2000) to quantum computers, with one additional step “quantum supremacy on NISQ computers” that has proposed around 2010. Step … Continue reading →]]></summary>
+        <author>
+            <name>Gil Kalai</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[配置不同的学习率，LoRA还能再涨一点？]]></title>
         <id>https://kexue.fm/archives/10001</id>
