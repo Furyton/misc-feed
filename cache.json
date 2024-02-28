@@ -1890,26 +1890,6 @@
           "wordCount": 882,
           "title": "What’s New in PyTorch Documentation",
           "imageUrl": "https://pytorch.org/assets/images/social-share.jpg"
-        },
-        {
-          "id": "https://pytorch.org/blog/pytorch2-2-lib-updates/",
-          "author": null,
-          "description": "Summary",
-          "link": "https://pytorch.org/blog/pytorch2-2-lib-updates/",
-          "publishedOn": "2024-01-30T08:00:00.000Z",
-          "wordCount": 1607,
-          "title": "New Library Updates in PyTorch 2.2",
-          "imageUrl": "https://pytorch.org/assets/images/social-share.jpg"
-        },
-        {
-          "id": "https://pytorch.org/blog/pytorch2-2/",
-          "author": null,
-          "description": "We are excited to announce the release of PyTorch® 2.2 (release note)! PyTorch 2.2 offers ~2x performance improvements to scaled_dot_product_attention via FlashAttention-v2 integration, as well as AOTInductor, a new ahead-of-time compilation and deployment tool built for non-python server-side deployments.",
-          "link": "https://pytorch.org/blog/pytorch2-2/",
-          "publishedOn": "2024-01-30T08:00:00.000Z",
-          "wordCount": 1237,
-          "title": "PyTorch 2.2: FlashAttention-v2 integration, AOTInductor",
-          "imageUrl": "https://pytorch.org/assets/images/social-share.jpg"
         }
       ]
     },

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-28T19:13:07.930Z</updated>
+    <updated>2024-02-28T20:15:46.749Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -1849,26 +1849,6 @@ To that end, in “MobileDiffusion: Subsecond Text-to-Image Generation on Mobile
         <summary type="html"><![CDATA[After a long absence from the monthly Séminaire Parisien de Statistique I attended one today at IHP, including a talk by Diala Hawat on repelled point processes for numerical integration by Hawat et al. The goal is to get (and prove) a universal variance improvement for numerical integration by applying a form of determinantal processes […]]]></summary>
         <author>
             <name>xi'an</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Library Updates in PyTorch 2.2]]></title>
-        <id>https://pytorch.org/blog/pytorch2-2-lib-updates/</id>
-        <link href="https://pytorch.org/blog/pytorch2-2-lib-updates/"/>
-        <updated>2024-01-30T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Summary]]></summary>
-        <author>
-            <name>PyTorch Website</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PyTorch 2.2: FlashAttention-v2 integration, AOTInductor]]></title>
-        <id>https://pytorch.org/blog/pytorch2-2/</id>
-        <link href="https://pytorch.org/blog/pytorch2-2/"/>
-        <updated>2024-01-30T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[We are excited to announce the release of PyTorch® 2.2 (release note)! PyTorch 2.2 offers ~2x performance improvements to scaled_dot_product_attention via FlashAttention-v2 integration, as well as AOTInductor, a new ahead-of-time compilation and deployment tool built for non-python server-side deployments.]]></summary>
-        <author>
-            <name>PyTorch Website</name>
         </author>
     </entry>
     <entry>
