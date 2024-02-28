@@ -1708,16 +1708,6 @@
           "wordCount": 1140,
           "title": "Not just NVIDIA: GPU programming that runs everywhere",
           "imageUrl": "https://pythonspeed.com/assets/titles/gpu-without-cuda.png"
-        },
-        {
-          "id": "https://pythonspeed.com/articles/numba-profiling/",
-          "author": null,
-          "description": "pre {\n    font-size: 90% !important;\n}\n\n\nIf you’re writing numeric Python code, Numba can be a great way to speed up your program.\nBy compiling a subset of Python to machine code, Numba lets you write for loops and other constructs that would be too slow in normal Python.\nIn other words, it’s similar to Cython, C, or Rust, in that it lets you write compiled extensions for Python.\nNumba code isn’t always as fast as it could be, however.\nThis is where profiling is useful: it can find at least some of the bottlenecks in your code.\nIn this article we’ll cover:\nProfila, a new profiler I’ve released that is specifically designed for Numba code.\nThe limits of profiling.\nThere are many potential performance enhancements that a profiler can’t and won’t help you discover.\nRead more...",
-          "link": "https://pythonspeed.com/articles/numba-profiling/",
-          "publishedOn": "2024-01-30T00:00:00.000Z",
-          "wordCount": 2095,
-          "title": "Profiling your Numba code",
-          "imageUrl": "https://pythonspeed.com/assets/titles/numba-profiling.png"
         }
       ]
     },
@@ -2457,16 +2447,6 @@
           "wordCount": 2586,
           "title": "repulsive sampling",
           "imageUrl": "https://xianblog.files.wordpress.com/2024/01/1705326807693-e1705328785778.jpg"
-        },
-        {
-          "id": "http://xianblog.wordpress.com/?p=54890",
-          "author": "xi'an",
-          "description": "Visit the post for more.",
-          "link": "https://xianblog.wordpress.com/2024/01/30/lapsang-madness/",
-          "publishedOn": "2024-01-29T23:24:00.000Z",
-          "wordCount": 2333,
-          "title": "Lapsang madness",
-          "imageUrl": "https://xianblog.files.wordpress.com/2024/01/temp-3.png"
         }
       ]
     },

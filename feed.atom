@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-28T11:13:48.508Z</updated>
+    <updated>2024-02-28T12:26:03.841Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -1924,40 +1924,6 @@ To that end, in “MobileDiffusion: Subsecond Text-to-Image Generation on Mobile
   Zhang, Hongxia Yang, Liwei Wang]]></summary>
         <author>
             <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Profiling your Numba code]]></title>
-        <id>https://pythonspeed.com/articles/numba-profiling/</id>
-        <link href="https://pythonspeed.com/articles/numba-profiling/"/>
-        <updated>2024-01-30T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[pre {
-    font-size: 90% !important;
-}
-
-
-If you’re writing numeric Python code, Numba can be a great way to speed up your program.
-By compiling a subset of Python to machine code, Numba lets you write for loops and other constructs that would be too slow in normal Python.
-In other words, it’s similar to Cython, C, or Rust, in that it lets you write compiled extensions for Python.
-Numba code isn’t always as fast as it could be, however.
-This is where profiling is useful: it can find at least some of the bottlenecks in your code.
-In this article we’ll cover:
-Profila, a new profiler I’ve released that is specifically designed for Numba code.
-The limits of profiling.
-There are many potential performance enhancements that a profiler can’t and won’t help you discover.
-Read more...]]></summary>
-        <author>
-            <name>Python⇒Speed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lapsang madness]]></title>
-        <id>http://xianblog.wordpress.com/?p=54890</id>
-        <link href="https://xianblog.wordpress.com/2024/01/30/lapsang-madness/"/>
-        <updated>2024-01-29T23:24:00.000Z</updated>
-        <summary type="html"><![CDATA[Visit the post for more.]]></summary>
-        <author>
-            <name>xi'an</name>
         </author>
     </entry>
     <entry>
