@@ -2438,16 +2438,6 @@
           "wordCount": 2318,
           "title": "Bye’ ometrika",
           "imageUrl": "https://xianblog.files.wordpress.com/2019/08/m_biomet_106_2cover.png"
-        },
-        {
-          "id": "http://xianblog.wordpress.com/?p=54916",
-          "author": "xi'an",
-          "description": "After a long absence from the monthly Séminaire Parisien de Statistique I attended one today at IHP, including a talk by Diala Hawat on repelled point processes for numerical integration by Hawat et al. The goal is to get (and prove) a universal variance improvement for numerical integration by applying a form of determinantal processes […]",
-          "link": "https://xianblog.wordpress.com/2024/01/31/54916/",
-          "publishedOn": "2024-01-30T23:24:19.000Z",
-          "wordCount": 2586,
-          "title": "repulsive sampling",
-          "imageUrl": "https://xianblog.files.wordpress.com/2024/01/1705326807693-e1705328785778.jpg"
         }
       ]
     },
@@ -2561,6 +2551,21 @@
       "feedUrl": "https://languagelog.ldc.upenn.edu/nll/?feed=rss2",
       "siteUrl": "https://languagelog.ldc.upenn.edu/nll",
       "articles": [
+        {
+          "id": "https://languagelog.ldc.upenn.edu/nll/?p=62710",
+          "author": "Mark Liberman",
+          "description": "EMO, by Linrui Tian, Qi Wang, Bang Zhang, and Liefeng Bo from Alibaba's Institute for Intelligent Computing, is \"an expressive audio-driven portrait-video generation framework. Input a single reference image and the vocal audio, e.g. talking and singing, our method can generate vocal avatar videos with expressive facial expressions, and various head poses\". As far as […]",
+          "link": "https://languagelog.ldc.upenn.edu/nll/?p=62710&utm_source=rss&utm_medium=rss&utm_campaign=emote-portrait-alive",
+          "publishedOn": "2024-02-29T11:40:02.000Z",
+          "wordCount": 2525,
+          "title": "\"Emote Portrait Alive\"",
+          "enclosure": {
+            "url": "http://languagelog.ldc.upenn.edu/myl/AlibabaSong1.mp4",
+            "length": "7210849",
+            "type": "video/mp4"
+          },
+          "imageUrl": null
+        },
         {
           "id": "https://languagelog.ldc.upenn.edu/nll/?p=62698",
           "author": "Victor Mair",

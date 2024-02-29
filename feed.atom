@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-29T11:12:57.031Z</updated>
+    <updated>2024-02-29T12:27:28.095Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA["Emote Portrait Alive"]]></title>
+        <id>https://languagelog.ldc.upenn.edu/nll/?p=62710</id>
+        <link href="https://languagelog.ldc.upenn.edu/nll/?p=62710&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=emote-portrait-alive"/>
+        <updated>2024-02-29T11:40:02.000Z</updated>
+        <summary type="html"><![CDATA[EMO, by Linrui Tian, Qi Wang, Bang Zhang, and Liefeng Bo from Alibaba's Institute for Intelligent Computing, is "an expressive audio-driven portrait-video generation framework. Input a single reference image and the vocal audio, e.g. talking and singing, our method can generate vocal avatar videos with expressive facial expressions, and various head poses". As far as […]]]></summary>
+        <author>
+            <name>Mark Liberman</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[telescope on evidence for graphical models]]></title>
         <id>http://xianblog.wordpress.com/?p=55210</id>
@@ -1859,16 +1869,6 @@ To that end, in “MobileDiffusion: Subsecond Text-to-Image Generation on Mobile
         <summary type="html"><![CDATA[Shuo Shuo Liu]]></summary>
         <author>
             <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[repulsive sampling]]></title>
-        <id>http://xianblog.wordpress.com/?p=54916</id>
-        <link href="https://xianblog.wordpress.com/2024/01/31/54916/"/>
-        <updated>2024-01-30T23:24:19.000Z</updated>
-        <summary type="html"><![CDATA[After a long absence from the monthly Séminaire Parisien de Statistique I attended one today at IHP, including a talk by Diala Hawat on repelled point processes for numerical integration by Hawat et al. The goal is to get (and prove) a universal variance improvement for numerical integration by applying a form of determinantal processes […]]]></summary>
-        <author>
-            <name>xi'an</name>
         </author>
     </entry>
     <entry>
