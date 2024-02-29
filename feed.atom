@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-29T21:15:26.001Z</updated>
+    <updated>2024-02-29T22:13:31.911Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -1826,16 +1826,6 @@ To that end, in “MobileDiffusion: Subsecond Text-to-Image Generation on Mobile
         <summary type="html"><![CDATA[Eugene Gorsky, Matthew Hogancamp, Anton Mellit]]></summary>
         <author>
             <name>arxivist feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[幂等生成网络IGN：试图将判别和生成合二为一的GAN]]></title>
-        <id>https://kexue.fm/archives/9969</id>
-        <link href="https://kexue.fm/archives/9969"/>
-        <updated>2024-01-31T09:36:00.000Z</updated>
-        <summary type="html"><![CDATA[前段时间，一个名为“幂等生成网络（Idempotent Generative Network，IGN）”的生成模型引起了一定的关注。它自称是一种独立于已有的VAE、GAN、flow、Diffus...]]></summary>
-        <author>
-            <name>苏剑林</name>
         </author>
     </entry>
     <entry>
