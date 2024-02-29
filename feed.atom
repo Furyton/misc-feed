@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-28T23:17:31.039Z</updated>
+    <updated>2024-02-29T01:03:20.745Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[telescope on evidence for graphical models]]></title>
+        <id>http://xianblog.wordpress.com/?p=55210</id>
+        <link href="https://xianblog.wordpress.com/2024/02/29/telescope-on-evidence-for-graphical-models/"/>
+        <updated>2024-02-28T23:24:29.000Z</updated>
+        <summary type="html"><![CDATA[A recent paper on evidence by Anindya Bhadra, Ksheera Sagar, Sayantan Banerjee (whom I met during Rito’s seminar, since he was also visiting Ismael in Paris, and who mentioned this work), and Jyotishka Datta, on computing the evidence for graphical models. Obtaining an approximation of the evidence attached with a model and a prior on […]]]></summary>
+        <author>
+            <name>xi'an</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[A Video Game Decoding Ancient Languages]]></title>
         <id>https://languagelog.ldc.upenn.edu/nll/?p=62698</id>
