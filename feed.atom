@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-01T19:12:36.026Z</updated>
+    <updated>2024-03-01T20:16:04.146Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -1735,16 +1735,6 @@ Surprisingly, recent work has also discovered an inherent tendency of deep netwo
         <summary type="html"><![CDATA[While simulating from a mixture of standard densities is relatively straightforward, when the component densities are easily simulated, to the point that many simulation methods exploit an intermediary mixture construction to speed up the production of pseudo-random samples from more challenging distributions (see Devroye, 1986), things get surprisingly more complicated when the mixture weights can […]]]></summary>
         <author>
             <name>xi'an</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What’s New in PyTorch Documentation]]></title>
-        <id>https://pytorch.org/blog/new-in-docs/</id>
-        <link href="https://pytorch.org/blog/new-in-docs/"/>
-        <updated>2024-02-01T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Greetings to the PyTorch community! Here is a quick update on PyTorch docs.]]></summary>
-        <author>
-            <name>PyTorch Website</name>
         </author>
     </entry>
     <entry>
