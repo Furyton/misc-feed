@@ -2559,16 +2559,6 @@
           "wordCount": 27761,
           "title": "Intervening on early readouts for mitigating spurious features and simplicity bias",
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgdBd5rMRA2U1nd8fetuEweTgmHncn49ASMQtPlm6dfsr5V29RwsoUR8UtK4B7oSE1eiIdW-vD-gjCUK4tGZTbsY4XdO0adL2YtAjpgbF1S3mL_Jw3f31SwLKYUtCOLJ807gdXdRmD5iVsrtc_Ii-BiqQacv89vbtRbNAIINa9PhKAF_sDAZu09FLs4599T/w1200-h630-p-k-no-nu/SiFer%20Hero.png"
-        },
-        {
-          "id": "http://blog.research.google/2024/01/mobilediffusion-rapid-text-to-image.html",
-          "author": null,
-          "description": "Posted by Yang Zhao, Senior Software Engineer, and Tingbo Hou, Senior Staff Software Engineer, Core ML\n\n\n\n\nText-to-image diffusion models have shown exceptional capabilities in generating high-quality images from text prompts. However, leading models feature billions of parameters and are consequently expensive to run, requiring powerful desktops or servers (e.g., Stable Diffusion, DALL·E, and Imagen). While recent advancements in inference solutions on Android via MediaPipe and iOS via Core ML have been made in the past year, rapid (sub-second) text-to-image generation on mobile devices has remained out of reach.\n \n\nTo that end, in “MobileDiffusion: Subsecond Text-to-Image Generation on Mobile Devices”, we introduce a novel approach with the potential for rapid text-to-image generation on…",
-          "link": "http://blog.research.google/2024/01/mobilediffusion-rapid-text-to-image.html",
-          "publishedOn": "2024-01-31T21:59:00.000Z",
-          "wordCount": 27727,
-          "title": "MobileDiffusion: Rapid text-to-image generation on-device",
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgOndf55Pc7tkXJektbVBEYRsOlxbUVui2uwOdXvuHj9cNpoNw2One4-68fqFNl2_fvv11CcgYfoI1XVQIkpjA9DosaOeqdkIRj9aZZJNoDy8KqB_XCVDtDd_EvT5UGL2ZhXvL2PU3RjN8XBjI0eQe8VIJCKI0-20AG0TKGK58mO9tBZa80P58KSjTU_liK/w1200-h630-p-k-no-nu/InstantTIGO%20hero.png"
         }
       ]
     },
