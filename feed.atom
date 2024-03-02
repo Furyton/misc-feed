@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-02T11:13:22.183Z</updated>
+    <updated>2024-03-02T12:24:33.938Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -1745,16 +1745,6 @@ Surprisingly, recent work has also discovered an inherent tendency of deep netwo
         <summary type="html"><![CDATA[一些铺垫自Cool Papers上线以来，很多用户就建议笔者加入搜索功能，后面也确实在前端用JS简单做了个页面内搜索，解决了部分用户的需求，但仍有读者希望引入更完整的全局搜索。诚然，笔者理解这个...]]></summary>
         <author>
             <name>苏剑林</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[simulating signed mixtures]]></title>
-        <id>http://xianblog.wordpress.com/?p=55064</id>
-        <link href="https://xianblog.wordpress.com/2024/02/02/simulating-signed-mixtures/"/>
-        <updated>2024-02-01T23:24:31.000Z</updated>
-        <summary type="html"><![CDATA[While simulating from a mixture of standard densities is relatively straightforward, when the component densities are easily simulated, to the point that many simulation methods exploit an intermediary mixture construction to speed up the production of pseudo-random samples from more challenging distributions (see Devroye, 1986), things get surprisingly more complicated when the mixture weights can […]]]></summary>
-        <author>
-            <name>xi'an</name>
         </author>
     </entry>
     <entry>
