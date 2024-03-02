@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-01T23:14:37.323Z</updated>
+    <updated>2024-03-02T01:02:23.035Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Language extinction and language creation]]></title>
+        <id>https://languagelog.ldc.upenn.edu/nll/?p=62737</id>
+        <link href="https://languagelog.ldc.upenn.edu/nll/?p=62737&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=language-extinction-and-language-creation"/>
+        <updated>2024-03-01T23:57:24.000Z</updated>
+        <summary type="html"><![CDATA[I just thought of a (not so) funny phenomenon that amounts to a linguistic paradox.  Namely, as languages die out, one after another, so do they arise at a steady rate. This has been a verity throughout human history.  So inexorable are these trajectories that a clever mathematician might be able to work out an […]]]></summary>
+        <author>
+            <name>Victor Mair</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[safe Bayes & e-values & least favourable priors]]></title>
+        <id>http://xianblog.wordpress.com/?p=54936</id>
+        <link href="https://xianblog.wordpress.com/2024/03/02/safe-bayes-e-values-least-favourable-priors/"/>
+        <updated>2024-03-01T23:24:42.000Z</updated>
+        <summary type="html"><![CDATA[The paper by Peter Grünwald, Rianne de Heide and Wouter Koolen on safe testing was read before The Royal Statistical Society at a meeting organized by the Research Section on Wednesday, 24th January, 2024, after many years in the making, to the point that several papers based on this initial one have appeared in the […]]]></summary>
+        <author>
+            <name>xi'an</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA["Languages nobody speaks"]]></title>
         <id>https://languagelog.ldc.upenn.edu/nll/?p=62746</id>
