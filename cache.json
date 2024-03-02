@@ -1429,16 +1429,6 @@
           "wordCount": 1494,
           "title": "“闭门造车”之多模态模型方案浅谈",
           "imageUrl": null
-        },
-        {
-          "id": "https://kexue.fm/archives/9978",
-          "author": "苏剑林",
-          "description": "一些铺垫自Cool Papers上线以来，很多用户就建议笔者加入搜索功能，后面也确实在前端用JS简单做了个页面内搜索，解决了部分用户的需求，但仍有读者希望引入更完整的全局搜索。诚然，笔者理解这个...",
-          "link": "https://kexue.fm/archives/9978",
-          "publishedOn": "2024-02-02T02:06:00.000Z",
-          "wordCount": 1430,
-          "title": "更便捷的Cool Papers打开方式：Chrome重定向扩展",
-          "imageUrl": null
         }
       ]
     },
@@ -2553,6 +2543,21 @@
       "feedUrl": "https://languagelog.ldc.upenn.edu/nll/?feed=rss2",
       "siteUrl": "https://languagelog.ldc.upenn.edu/nll",
       "articles": [
+        {
+          "id": "https://languagelog.ldc.upenn.edu/nll/?p=62740",
+          "author": "Mark Liberman",
+          "description": "Years ago, Jerry Goldman (then at Northwestern) created the oyez.org website as  a multimedia archive devoted to making the Supreme Court of the United States accessible to everyone. It is the most complete and authoritative source for all of the Court’s audio since the installation of a recording system in October 1955. Oyez offers transcript-synchronized […]",
+          "link": "https://languagelog.ldc.upenn.edu/nll/?p=62740&utm_source=rss&utm_medium=rss&utm_campaign=spontaneous-scotus",
+          "publishedOn": "2024-03-02T13:35:03.000Z",
+          "wordCount": 3597,
+          "title": "Spontaneous SCOTUS",
+          "enclosure": {
+            "url": "https://languagelog.ldc.upenn.edu/myl/ClarenceThomasX3.wav",
+            "length": "626374",
+            "type": "audio/wav"
+          },
+          "imageUrl": null
+        },
         {
           "id": "https://languagelog.ldc.upenn.edu/nll/?p=62737",
           "author": "Victor Mair",
