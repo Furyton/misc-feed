@@ -2519,16 +2519,6 @@
           "wordCount": 27781,
           "title": "Graph neural networks in TensorFlow",
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhcnTwrjg8cyZhVY1c-qi2ZEenIrDlkmlKlX0GsAuiKiIoxUu6i-phANh8tsCG4mUm5i-7t3zdLwuwn5DCcuQI5FKq-C3eibPnuqfoLuKFUsx-I3Ovim1Teps_JKiKZH7XqgHupnsOa2Y3peUgWcPNYG4ZIqA2_KQwxJpflo0WM6gNW8tXg5eDndiWx_dKK/w1200-h630-p-k-no-nu/TFGNN%20hero.gif"
-        },
-        {
-          "id": "http://blog.research.google/2024/02/a-decoder-only-foundation-model-for.html",
-          "author": null,
-          "description": "Posted by Rajat Sen and Yichen Zhou, Google Research\n\n\n\n\n\nTime-series forecasting is ubiquitous in various domains, such as retail, finance, manufacturing, healthcare and natural sciences. In retail use cases, for example, it has been observed that improving demand forecasting accuracy can meaningfully reduce inventory costs and increase revenue. Deep learning (DL) models have emerged as a popular approach for forecasting rich, multivariate, time-series data because they have proven to perform well in a variety of settings (e.g., DL models dominated the M5 competition leaderboard).\n\n\n\nAt the same time, there has been rapid progress in large foundation language models used for natural language processing (NLP) tasks, such as translation, retrieval-augmented generation, and code completion. …",
-          "link": "http://blog.research.google/2024/02/a-decoder-only-foundation-model-for.html",
-          "publishedOn": "2024-02-02T19:07:00.000Z",
-          "wordCount": 27723,
-          "title": "A decoder-only foundation model for time-series forecasting",
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgjLAVI4q3e6yNyTPTCFiLZVQfFm71GOX1TosHg_Sb8M6tVSO1hyphenhyphenZccOlufnqSuXP1rVWHmqHcely6fgW1vex4JdxenniJcaJ7TOomZolUFut8RUdxnOFZDrbt0hrIHkcrK7rl6cq5-kUuWGrOYqIirPAKtnf4vMDauPX4lFAz2PQjiqzqHxMna7eja9gOF/w1200-h630-p-k-no-nu/hero.jpg"
         }
       ]
     },

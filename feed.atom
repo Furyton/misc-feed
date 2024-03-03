@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-03T06:18:35.390Z</updated>
+    <updated>2024-03-03T07:12:36.750Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -1677,26 +1677,6 @@ Graph neural networks, or GNNs for short, have emerged…]]></summary>
         <summary type="html"><![CDATA[Visit the post for more.]]></summary>
         <author>
             <name>xi'an</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A decoder-only foundation model for time-series forecasting]]></title>
-        <id>http://blog.research.google/2024/02/a-decoder-only-foundation-model-for.html</id>
-        <link href="http://blog.research.google/2024/02/a-decoder-only-foundation-model-for.html"/>
-        <updated>2024-02-02T19:07:00.000Z</updated>
-        <summary type="html"><![CDATA[Posted by Rajat Sen and Yichen Zhou, Google Research
-
-
-
-
-
-Time-series forecasting is ubiquitous in various domains, such as retail, finance, manufacturing, healthcare and natural sciences. In retail use cases, for example, it has been observed that improving demand forecasting accuracy can meaningfully reduce inventory costs and increase revenue. Deep learning (DL) models have emerged as a popular approach for forecasting rich, multivariate, time-series data because they have proven to perform well in a variety of settings (e.g., DL models dominated the M5 competition leaderboard).
-
-
-
-At the same time, there has been rapid progress in large foundation language models used for natural language processing (NLP) tasks, such as translation, retrieval-augmented generation, and code completion. …]]></summary>
-        <author>
-            <name>Google AI Blog</name>
         </author>
     </entry>
     <entry>
