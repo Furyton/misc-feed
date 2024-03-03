@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-03T02:21:59.303Z</updated>
+    <updated>2024-03-03T03:15:01.246Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[That mystifying, baffling Mid-Atlantic / TransAtlantic Accent]]></title>
+        <id>https://languagelog.ldc.upenn.edu/nll/?p=62768</id>
+        <link href="https://languagelog.ldc.upenn.edu/nll/?p=62768&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=that-mystifying-baffling-mid-atlantic-transatlantic-accent"/>
+        <updated>2024-03-03T02:24:28.000Z</updated>
+        <summary type="html"><![CDATA[The same as Gideon, the legendary LetThemTalkTV presenter of this edifying video, as a child I too was deeply puzzled by how some of these famous American actors sounded so British. Learn the Transatlantic Accent | Half British, Half American 100% Wonderful Summary The Transatlantic or mid-Atlantic accent is half British half American. It was […]]]></summary>
+        <author>
+            <name>Victor Mair</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[insufficient Gibbs sampling bridges as well!]]></title>
         <id>http://xianblog.wordpress.com/?p=55381</id>
@@ -360,6 +370,16 @@ Read more...]]></summary>
         <summary type="html"><![CDATA[Doyle's counterexample and the paradox of prediction in optimal control.]]></summary>
         <author>
             <name>Ben Recht</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Larry Abbott - Modeling the Navigational Circuitry of the Fly]]></title>
+        <id>https://mlfoundations.org/talk/abbott/</id>
+        <link href="https://mlfoundations.org/talk/abbott/"/>
+        <updated>2024-02-23T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Navigation requires orienting oneself relative to landmarks in the environment, evaluating relevant sensory data, remembering goals, and convert all this information into motor commands that direct locomotion. I will present models, highly constrained by connectomic, physiological and behavioral data, for how these functions are accomplished in the fly brain.]]></summary>
+        <author>
+            <name>Harvard ML Foundations</name>
         </author>
     </entry>
     <entry>
