@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-04T15:16:16.795Z</updated>
+    <updated>2024-03-04T16:19:59.085Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The same but different]]></title>
+        <id>https://www.argmin.net/p/the-same-but-different</id>
+        <link href="https://www.argmin.net/p/the-same-but-different"/>
+        <updated>2024-03-04T15:29:25.000Z</updated>
+        <summary type="html"><![CDATA[Yet another example of where good predictions still lead to bad outcomes.]]></summary>
+        <author>
+            <name>Ben Recht</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The same but different]]></title>
+        <id>https://www.argmin.net/p/the-same-but-different</id>
+        <link href="https://www.argmin.net/p/the-same-but-different"/>
+        <updated>2024-03-04T15:29:25.000Z</updated>
+        <summary type="html"><![CDATA[Yet another example of where good predictions still lead to bad outcomes.]]></summary>
+        <author>
+            <name>Ben Recht</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Google at APS 2024]]></title>
         <id>http://blog.research.google/2024/03/google-at-aps-2024.html</id>
