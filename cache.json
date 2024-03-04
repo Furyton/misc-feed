@@ -2152,6 +2152,16 @@
       "siteUrl": "https://xianblog.wordpress.com",
       "articles": [
         {
+          "id": "http://xianblog.wordpress.com/?p=55407",
+          "author": "xi'an",
+          "description": "Visit the post for more.",
+          "link": "https://xianblog.wordpress.com/2024/03/04/30000-deads-and-counting/",
+          "publishedOn": "2024-03-03T23:24:32.000Z",
+          "wordCount": 2371,
+          "title": "30,000 deads and counting",
+          "imageUrl": "https://xianblog.files.wordpress.com/2024/02/gaza.png"
+        },
+        {
           "id": "http://xianblog.wordpress.com/?p=55381",
           "author": "xi'an",
           "description": "Antoine Luciano, Robin Ryder and I posted a revised version of our insufficient Gibbs sampler on arXiv last week (along with three other revisions or new deposits of mine’s!), following comments and suggestions from referees. Thanks to this revision, we realised that the evidence based on an (insufficient) statistic was also available for approximation by […]",
@@ -2523,6 +2533,16 @@
       "feedUrl": "https://languagelog.ldc.upenn.edu/nll/?feed=rss2",
       "siteUrl": "https://languagelog.ldc.upenn.edu/nll",
       "articles": [
+        {
+          "id": "https://languagelog.ldc.upenn.edu/nll/?p=62820",
+          "author": "Mark Liberman",
+          "description": "From \"Why Does Everyone Hate Nickelback?\", Medium 4/15/2021: This was before Netflix, or even taping shows to watch later, so people were being repeatedly told that Nickelback is awful for three years, which boroughed its way into many people’s subconscious. A quick web search didn't turn up any other examples of burrowed spelled \"boroughed\" — […]",
+          "link": "https://languagelog.ldc.upenn.edu/nll/?p=62820&utm_source=rss&utm_medium=rss&utm_campaign=boroughing-into-our-subconscious",
+          "publishedOn": "2024-03-03T23:24:20.000Z",
+          "wordCount": 2461,
+          "title": "Boroughing into our subconscious",
+          "imageUrl": null
+        },
         {
           "id": "https://languagelog.ldc.upenn.edu/nll/?p=62816",
           "author": "Mark Liberman",
