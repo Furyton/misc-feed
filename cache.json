@@ -1762,18 +1762,7 @@
       "title": "Lil'Log",
       "feedUrl": "https://lilianweng.github.io/index.xml",
       "siteUrl": "https://lilianweng.github.io/",
-      "articles": [
-        {
-          "id": "https://lilianweng.github.io/posts/2024-02-05-human-data-quality/",
-          "author": null,
-          "description": "High-quality data is the fuel for modern data deep learning model training. Most of task-specific labeled data comes from human annotation, such as classification task or RLHF labeling (which can be constructed as classification format) for LLM alignment training. Lots of ML techniques in the post can help with data quality, but fundamentally human data collection involves attention to details and careful execution. The community knows the value of high quality data, but somehow we have this subtle impression that “Everyone wants to do the model work, not the data work” (Sambasivan et al.",
-          "link": "https://lilianweng.github.io/posts/2024-02-05-human-data-quality/",
-          "publishedOn": "2024-02-05T00:00:00.000Z",
-          "wordCount": 8866,
-          "title": "Thinking about High-Quality Human Data",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Amit Chaudhary",
@@ -2184,6 +2173,16 @@
       "siteUrl": "https://xianblog.wordpress.com",
       "articles": [
         {
+          "id": "http://xianblog.wordpress.com/?p=55401",
+          "author": "xi'an",
+          "description": "Visit the post for more.",
+          "link": "https://xianblog.wordpress.com/2024/03/05/iias-2024-conference-in-kochi-27-31-dec/",
+          "publishedOn": "2024-03-04T23:24:27.000Z",
+          "wordCount": 2382,
+          "title": "IIAS 2024 conference in Kochi [27-31 Dec]",
+          "imageUrl": "https://xianblog.files.wordpress.com/2024/02/cochin.jpeg"
+        },
+        {
           "id": "http://xianblog.wordpress.com/?p=55407",
           "author": "xi'an",
           "description": "Visit the post for more.",
@@ -2462,16 +2461,6 @@
           "wordCount": 2857,
           "title": "how many migrants died trying to reach Europe?",
           "imageUrl": "https://xianblog.files.wordpress.com/2024/01/temp2.png"
-        },
-        {
-          "id": "http://xianblog.wordpress.com/?p=54870",
-          "author": "xi'an",
-          "description": "As a one-time patron of the X on Kenilworth, I received an invitation to join the fundraising Bocuse d’Or UK gala diner, at a mere £1,500 each (with the helpful addition that 10 tickets would cost £10,500!]. Despite being partial to foie gras, buckwheat, scallops, Jerusalem artichokes, and vin jaune, methinks I will pass the […]",
-          "link": "https://xianblog.wordpress.com/2024/02/05/a-mere-1500-dinner/",
-          "publishedOn": "2024-02-04T23:24:13.000Z",
-          "wordCount": 2610,
-          "title": "a mere £1,500 dinner",
-          "imageUrl": "https://xianblog.files.wordpress.com/2018/06/scotland062218761.jpg"
         }
       ]
     },
