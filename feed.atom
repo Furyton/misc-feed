@@ -2,10 +2,33 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-06T18:19:02.417Z</updated>
+    <updated>2024-03-06T19:10:19.531Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Croissant: a metadata format for ML-ready datasets]]></title>
+        <id>http://blog.research.google/2024/03/croissant-metadata-format-for-ml-ready.html</id>
+        <link href="http://blog.research.google/2024/03/croissant-metadata-format-for-ml-ready.html"/>
+        <updated>2024-03-06T18:26:00.000Z</updated>
+        <summary type="html"><![CDATA[Posted by Omar Benjelloun, Software Engineer, Google Research, and Peter Mattson, Software Engineer, Google Core ML and President, MLCommons Association
+
+
+
+
+
+
+Machine learning (ML) practitioners looking to reuse existing datasets to train an ML model often spend a lot of time understanding the data, making sense of its organization, or figuring out what subset to use as features. So much time, in fact, that progress in the field of ML is hampered by a fundamental obstacle: the wide variety of data representations. 
+
+
+
+
+
+ML datasets cover a broad range of content types, from text and structured data to images, audio, and video. Even within datasets that cover the same types of content, every dataset has a unique ad hoc arrangement of files and data formats. This challenge reduces productivi…]]></summary>
+        <author>
+            <name>Google AI Blog</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Past Futures]]></title>
         <id>https://languagelog.ldc.upenn.edu/nll/?p=62879</id>

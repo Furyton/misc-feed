@@ -2514,6 +2514,16 @@
       "siteUrl": "http://blog.research.google/",
       "articles": [
         {
+          "id": "http://blog.research.google/2024/03/croissant-metadata-format-for-ml-ready.html",
+          "author": null,
+          "description": "Posted by Omar Benjelloun, Software Engineer, Google Research, and Peter Mattson, Software Engineer, Google Core ML and President, MLCommons Association\n\n\n\n\n\n\nMachine learning (ML) practitioners looking to reuse existing datasets to train an ML model often spend a lot of time understanding the data, making sense of its organization, or figuring out what subset to use as features. So much time, in fact, that progress in the field of ML is hampered by a fundamental obstacle: the wide variety of data representations. \n\n\n\n\n\nML datasets cover a broad range of content types, from text and structured data to images, audio, and video. Even within datasets that cover the same types of content, every dataset has a unique ad hoc arrangement of files and data formats. This challenge reduces productivi…",
+          "link": "http://blog.research.google/2024/03/croissant-metadata-format-for-ml-ready.html",
+          "publishedOn": "2024-03-06T18:26:00.000Z",
+          "wordCount": 27414,
+          "title": "Croissant: a metadata format for ML-ready datasets",
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj09uSTHgWmPgOkD9W1nZZj5i8uW_-pgxm-T1O5PSacF-EKvHIeIwhMr7Rgft7O3A2Rk94GWe8WboO3dUlxrqt1xz9x4I2aMKJxCUtUkR2eukbsIa8xVyAAN_LJJyMABxRqJuktFkyfhoWPDMQK3O-XgbQNJXzAILlWl3su0fd-Q_uZ-8r5r_uAU2P4srnP/w1200-h630-p-k-no-nu/CroissantHero.png"
+        },
+        {
           "id": "http://blog.research.google/2024/03/google-at-aps-2024.html",
           "author": null,
           "description": "Posted by Kate Weber and Shannon Leon, Google Research, Quantum AI Team\n\n\n\n\nToday the 2024 March Meeting of the American Physical Society (APS) kicks off in Minneapolis, MN. A premier conference on topics ranging across physics and related fields, APS 2024 brings together researchers, students, and industry professionals to share their discoveries and build partnerships with the goal of realizing fundamental advances in physics-related sciences and technology. \n\n\n\nThis year, Google has a strong presence at APS with a booth hosted by the Google Quantum AI team, 50+ talks throughout the conference, and participation in conference organizing activities, special sessions and events. Attending APS 2024 in person? Come visit Google’s Quantum AI booth to learn more about the exciting work we’re d…",
