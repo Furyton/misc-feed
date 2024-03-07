@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-07T19:11:09.329Z</updated>
+    <updated>2024-03-07T20:14:46.254Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -14,6 +14,26 @@
         <summary type="html"><![CDATA[Barry Collins, "The 5 Weirdest Things Elon Musk Told Britain’s Prime Minister About AI", Forbes 11/3/2023: 5. Our New Digital Gods Are Giant Spreadsheets Musk and Sunak spent some time discussing the difficulties of regulating AI and how it differs from other branches of technology. And that led to a rather strange discussion about the […]]]></summary>
         <author>
             <name>Mark Liberman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Social learning: Collaborative learning with large language models]]></title>
+        <id>http://blog.research.google/2024/03/social-learning-collaborative-learning.html</id>
+        <link href="http://blog.research.google/2024/03/social-learning-collaborative-learning.html"/>
+        <updated>2024-03-07T18:15:00.000Z</updated>
+        <summary type="html"><![CDATA[Posted by Amirkeivan Mohtashami, Research Intern, and Florian Hartmann, Software Engineer, Google Research
+
+
+
+
+Large language models (LLMs) have significantly improved the state of the art for solving tasks specified using natural language, often reaching performance close to that of people. As these models increasingly enable assistive agents, it could be beneficial for them to learn effectively from each other, much like people do in social settings, which would allow LLM-based agents to improve each other’s performance. 
+
+ 
+
+
+To discuss the learning processes of humans, Bandura and Walters described the concept of social learning in 1977, outlining different models of observational learning used by people. One common method of learning from others is through a verbal instruction (e.g., …]]></summary>
+        <author>
+            <name>Google AI Blog</name>
         </author>
     </entry>
     <entry>
