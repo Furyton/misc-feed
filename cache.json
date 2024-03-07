@@ -1411,6 +1411,16 @@
       "siteUrl": "https://kexue.fm/",
       "articles": [
         {
+          "id": "https://kexue.fm/archives/10007",
+          "author": "苏剑林",
+          "description": "在《“闭门造车”之多模态模型方案浅谈》中我们曾提到，图像生成的本质困难是没有一个连续型概率密度的万能拟合器。当然，也不能说完全没有，比如高斯混合模型（GMM）理论上就是可以拟合任意概率密度，就连...",
+          "link": "https://kexue.fm/archives/10007",
+          "publishedOn": "2024-03-07T04:02:00.000Z",
+          "wordCount": 1729,
+          "title": "用傅立叶级数拟合一维概率密度函数",
+          "imageUrl": null
+        },
+        {
           "id": "https://kexue.fm/archives/10001",
           "author": "苏剑林",
           "description": "LoRA（Low-Rank Adaptation）是当前LLM的参数高效微调手段之一，此前我们在《梯度视角下的LoRA：简介、分析、猜测及推广》也有过简单讨论。这篇文章我们来学习LoRA的一个新...",

@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-07T03:13:35.387Z</updated>
+    <updated>2024-03-07T04:16:42.914Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[用傅立叶级数拟合一维概率密度函数]]></title>
+        <id>https://kexue.fm/archives/10007</id>
+        <link href="https://kexue.fm/archives/10007"/>
+        <updated>2024-03-07T04:02:00.000Z</updated>
+        <summary type="html"><![CDATA[在《“闭门造车”之多模态模型方案浅谈》中我们曾提到，图像生成的本质困难是没有一个连续型概率密度的万能拟合器。当然，也不能说完全没有，比如高斯混合模型（GMM）理论上就是可以拟合任意概率密度，就连...]]></summary>
+        <author>
+            <name>苏剑林</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[postdoctoral research positions at PariSanté]]></title>
         <id>http://xianblog.wordpress.com/?p=55449</id>
