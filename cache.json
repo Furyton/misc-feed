@@ -2549,16 +2549,6 @@
           "wordCount": 27935,
           "title": "DP-Auditorium: A flexible library for auditing differential privacy",
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhNVpxjk-jj1rIYQ8AM3A-Syqxd3d8L8-wIy8NWwyobCXmTRK7mY9h94aJYgFCiC0gnehVFFoM8-in8HsOZjfhoNce03nbsrN5fxY07wADV6ULPC0POGmCc-8eL3OqA9KrDyzQxN38JKvh6xCmLV6FZ1g0UfaXtKORhtTy0WuJexlPqV6P2c9rPdg_W_5zP/w1200-h630-p-k-no-nu/hero.jpg"
-        },
-        {
-          "id": "http://blog.research.google/2024/02/graph-neural-networks-in-tensorflow.html",
-          "author": null,
-          "description": "Posted by Dustin Zelle, Software Engineer, Google Research, and Arno Eigenwillig, Software Engineer, CoreML\n\n\n\n\nObjects and their relationships are ubiquitous in the world around us, and relationships can be as important to understanding an object as its own attributes viewed in isolation — take for example transportation networks, production networks, knowledge graphs, or social networks. Discrete mathematics and computer science have a long history of formalizing such networks as graphs, consisting of nodes connected by edges in various irregular ways. Yet most machine learning (ML) algorithms allow only for regular and uniform relations between input objects, such as a grid of pixels, a sequence of words, or no relation at all. \n\n\n\n\nGraph neural networks, or GNNs for short, have emerged…",
-          "link": "http://blog.research.google/2024/02/graph-neural-networks-in-tensorflow.html",
-          "publishedOn": "2024-02-06T19:17:00.000Z",
-          "wordCount": 27781,
-          "title": "Graph neural networks in TensorFlow",
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhcnTwrjg8cyZhVY1c-qi2ZEenIrDlkmlKlX0GsAuiKiIoxUu6i-phANh8tsCG4mUm5i-7t3zdLwuwn5DCcuQI5FKq-C3eibPnuqfoLuKFUsx-I3Ovim1Teps_JKiKZH7XqgHupnsOa2Y3peUgWcPNYG4ZIqA2_KQwxJpflo0WM6gNW8tXg5eDndiWx_dKK/w1200-h630-p-k-no-nu/TFGNN%20hero.gif"
         }
       ]
     },
