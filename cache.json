@@ -1477,6 +1477,22 @@
       "siteUrl": "https://www.argmin.net",
       "articles": [
         {
+          "id": "https://www.argmin.net/p/respect-the-unstable",
+          "author": "Ben Recht",
+          "description": "Gunter Stein's timeless lessons on the design of decision systems.",
+          "link": "https://www.argmin.net/p/respect-the-unstable",
+          "publishedOn": "2024-03-08T15:03:44.000Z",
+          "wordCount": null,
+          "title": "Respect the Unstable",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substack-post-media.s3.amazonaws.com/public/images/36c94969-e75a-4838-8d60-8d4608dd7325_449x300.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substack-post-media.s3.amazonaws.com/public/images/36c94969-e75a-4838-8d60-8d4608dd7325_449x300.png"
+        },
+        {
           "id": "https://www.argmin.net/p/complex-sensitivity-analysis",
           "author": "Ben Recht",
           "description": "How frequency domain control highlights robustness and uncertainty quantification.",
@@ -1897,6 +1913,22 @@
       "feedUrl": "https://www.argmin.net/feed.xml",
       "siteUrl": "https://www.argmin.net",
       "articles": [
+        {
+          "id": "https://www.argmin.net/p/respect-the-unstable",
+          "author": "Ben Recht",
+          "description": "Gunter Stein's timeless lessons on the design of decision systems.",
+          "link": "https://www.argmin.net/p/respect-the-unstable",
+          "publishedOn": "2024-03-08T15:03:44.000Z",
+          "wordCount": null,
+          "title": "Respect the Unstable",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substack-post-media.s3.amazonaws.com/public/images/36c94969-e75a-4838-8d60-8d4608dd7325_449x300.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substack-post-media.s3.amazonaws.com/public/images/36c94969-e75a-4838-8d60-8d4608dd7325_449x300.png"
+        },
         {
           "id": "https://www.argmin.net/p/complex-sensitivity-analysis",
           "author": "Ben Recht",
@@ -2511,6 +2543,21 @@
       "feedUrl": "https://languagelog.ldc.upenn.edu/nll/?feed=rss2",
       "siteUrl": "https://languagelog.ldc.upenn.edu/nll",
       "articles": [
+        {
+          "id": "https://languagelog.ldc.upenn.edu/nll/?p=62930",
+          "author": "Mark Liberman",
+          "description": "My original interest in the conversation behind yesterday's post \"Our digital god is a CSV file?\" was a sociophonetic one. As often noted, spontaneous speech often strays far from dictionary pronunciations, and Elon Musk's side of that conversation is full of interesting examples. A few are documented below. Let's start with an aspect of this […]",
+          "link": "https://languagelog.ldc.upenn.edu/nll/?p=62930&utm_source=rss&utm_medium=rss&utm_campaign=english-allophonies-of-the-day",
+          "publishedOn": "2024-03-08T14:37:47.000Z",
+          "wordCount": 2769,
+          "title": "English allophonies of the day",
+          "enclosure": {
+            "url": "https://languagelog.ldc.upenn.edu/myl/MuskSunakInterviewX1b.wav",
+            "length": "110930",
+            "type": "audio/wav"
+          },
+          "imageUrl": null
+        },
         {
           "id": "https://languagelog.ldc.upenn.edu/nll/?p=62887",
           "author": "Mark Liberman",
