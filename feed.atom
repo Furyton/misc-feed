@@ -2,10 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-08T20:13:32.266Z</updated>
+    <updated>2024-03-08T21:13:21.397Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Health-specific embedding tools for dermatology and pathology]]></title>
+        <id>http://blog.research.google/2024/03/health-specific-embedding-tools-for.html</id>
+        <link href="http://blog.research.google/2024/03/health-specific-embedding-tools-for.html"/>
+        <updated>2024-03-08T19:33:00.000Z</updated>
+        <summary type="html"><![CDATA[Posted by Dave Steiner, Clinical Research Scientist, Google Health, and Rory Pilgrim, Product Manager Google Research
+
+
+
+
+There’s a worldwide shortage of access to medical imaging expert interpretation across specialties including radiology, dermatology and pathology. Machine learning (ML) technology can help ease this burden by powering tools that enable doctors to interpret these images more accurately and efficiently. However, the development and implementation of such ML tools are often limited by the availability of high-quality data, ML expertise, and computational resources. 
+
+
+
+One way to catalyze the use of ML for medical imaging is via domain-specific models that utilize deep learning (DL) to capture the information in medical images as compressed numerical vectors (called embedd…]]></summary>
+        <author>
+            <name>Google AI Blog</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Unnatural audibles]]></title>
         <id>https://languagelog.ldc.upenn.edu/nll/?p=62905</id>
