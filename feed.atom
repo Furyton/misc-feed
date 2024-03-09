@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-09T05:17:00.910Z</updated>
+    <updated>2024-03-09T06:20:16.505Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Tabletop Games Based on Math Problems]]></title>
+        <id>https://www.jeremykun.com/2024/03/08/tabletop-games-based-on-math-problems/</id>
+        <link href="https://www.jeremykun.com/2024/03/08/tabletop-games-based-on-math-problems/"/>
+        <updated>2024-03-09T04:06:19.000Z</updated>
+        <summary type="html"><![CDATA[There’s a family of tabletop games that are based directly on a nontrivial mathematics problem. As a casual and fun way to inaugurate my new blog (migrated from Wordpress to Hugo, after my work on getting better LaTeX mathmode support in Hugo), I thought I’d write a short listicle about them, so that I have a place to add more as I find them, as well as give the shortest canonical description of the associated math problem.]]></summary>
+        <author>
+            <name>Math ∩ Programming</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[oceanographers in Les Houches]]></title>
         <id>http://xianblog.wordpress.com/?p=55485</id>

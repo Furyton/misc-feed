@@ -1867,8 +1867,19 @@
     {
       "title": "Math ∩ Programming",
       "feedUrl": "https://jeremykun.com/feed/",
-      "siteUrl": "https://jeremykun.com",
-      "articles": []
+      "siteUrl": "https://www.jeremykun.com/",
+      "articles": [
+        {
+          "id": "https://www.jeremykun.com/2024/03/08/tabletop-games-based-on-math-problems/",
+          "author": null,
+          "description": "There’s a family of tabletop games that are based directly on a nontrivial mathematics problem. As a casual and fun way to inaugurate my new blog (migrated from Wordpress to Hugo, after my work on getting better LaTeX mathmode support in Hugo), I thought I’d write a short listicle about them, so that I have a place to add more as I find them, as well as give the shortest canonical description of the associated math problem.",
+          "link": "https://www.jeremykun.com/2024/03/08/tabletop-games-based-on-math-problems/",
+          "publishedOn": "2024-03-09T04:06:19.000Z",
+          "wordCount": 686,
+          "title": "Tabletop Games Based on Math Problems",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "Jonty Sinai",
