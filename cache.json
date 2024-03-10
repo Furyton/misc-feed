@@ -2121,6 +2121,16 @@
       "siteUrl": "https://xianblog.wordpress.com",
       "articles": [
         {
+          "id": "http://xianblog.wordpress.com/?p=55234",
+          "author": "xi'an",
+          "description": "Visit the post for more.",
+          "link": "https://xianblog.wordpress.com/2024/03/10/computing-bayes-with-some-approximations/",
+          "publishedOn": "2024-03-09T23:24:49.000Z",
+          "wordCount": 2376,
+          "title": "computing Bayes, with some approximations",
+          "imageUrl": "https://xianblog.files.wordpress.com/2024/02/temp-4.png"
+        },
+        {
           "id": "http://xianblog.wordpress.com/?p=55485",
           "author": "xi'an",
           "description": "Þe first internal research workshop of our ERC Synergy project OCEAN is taking place in Les Houches, French Alps, this coming week with 15 researchers gathering for brain-storming on some of the themes at the core of the project, like algorithmic tools for multiple decision-making agents, along with Bayesian uncertainty quantification and Bayesian learning under […]",
