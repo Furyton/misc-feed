@@ -2387,6 +2387,16 @@
       "siteUrl": "http://blog.research.google/",
       "articles": [
         {
+          "id": "http://blog.research.google/2024/03/chain-of-table-evolving-tables-in.html",
+          "author": null,
+          "description": "Posted by Zilong Wang, Student Researcher, and Chen-Yu Lee, Research Scientist, Cloud AI Team\n\n\n\n\nPeople use tables every day to organize and interpret complex information in a structured, easily accessible format. Due to the ubiquity of such tables, reasoning over tabular data has long been a central topic in natural language processing (NLP). Researchers in this field have aimed to leverage language models to help users answer questions, verify statements, and analyze data based on tables. However, language models are trained over large amounts of plain text, so the inherently structured nature of tabular data can be difficult for language models to fully comprehend and utilize.\n\n\n\nRecently, large language models (LLMs) have achieved outstanding performance across diverse natural languag…",
+          "link": "http://blog.research.google/2024/03/chain-of-table-evolving-tables-in.html",
+          "publishedOn": "2024-03-11T19:08:00.000Z",
+          "wordCount": 27816,
+          "title": "Chain-of-table: Evolving tables in the reasoning chain for table understanding",
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg1smBN07qkS32Aop4if0AeINQQea0Grv8dw7GiRFBNoHBlgkkftynVBNjO6BckpF4vq8d0VqC1v0LoeFAVFqOLrBGlqvMNiCMUtIhHxVvsBjbPxvZLcNcD_Sa1sI_bDlqDLWn_C39MbPNm8VUjr2vhTBuaL4qCc1LUB1VH5iM0UVsswIWWq_uQg88YRWmb/w1200-h630-p-k-no-nu/Chain-of-Table.png"
+        },
+        {
           "id": "http://blog.research.google/2024/03/health-specific-embedding-tools-for.html",
           "author": null,
           "description": "Posted by Dave Steiner, Clinical Research Scientist, Google Health, and Rory Pilgrim, Product Manager Google Research\n\n\n\n\nThere’s a worldwide shortage of access to medical imaging expert interpretation across specialties including radiology, dermatology and pathology. Machine learning (ML) technology can help ease this burden by powering tools that enable doctors to interpret these images more accurately and efficiently. However, the development and implementation of such ML tools are often limited by the availability of high-quality data, ML expertise, and computational resources. \n\n\n\nOne way to catalyze the use of ML for medical imaging is via domain-specific models that utilize deep learning (DL) to capture the information in medical images as compressed numerical vectors (called embedd…",
