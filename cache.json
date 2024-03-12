@@ -2397,6 +2397,16 @@
       "siteUrl": "http://blog.research.google/",
       "articles": [
         {
+          "id": "http://blog.research.google/2024/03/talk-like-graph-encoding-graphs-for.html",
+          "author": null,
+          "description": "Posted by Bahare Fatemi, Research Scientist, Google Research, and Bryan Perozzi, Research Scientist, Google Research\n\n\n\n\nImagine all the things around you — your friends, tools in your kitchen, or even the parts of your bike. They are all connected in different ways. In computer science, the term graph is used to describe connections between objects. Graphs consist of nodes (the objects themselves) and edges (connections between two nodes, indicating a  relationship between them). Graphs are everywhere now. The internet itself is a giant graph of websites linked together. Even the knowledge search engines use is organized in a graph-like way.\n\n\n\n\n\nFurthermore, consider the remarkable advancements in artificial intelligence — such as chatbots that can write stories in seconds, and even soft…",
+          "link": "http://blog.research.google/2024/03/talk-like-graph-encoding-graphs-for.html",
+          "publishedOn": "2024-03-12T21:15:00.000Z",
+          "wordCount": 27982,
+          "title": "Talk like a graph: Encoding graphs for large language models",
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg8L7r_SCzFsKsWegtrn8_EOoO2imefs-V_GVHzbM0Xw7GmAxoXIIX0RtpJ2JvloeenxcKCNmhCH_VXRMpu8b5dJP39UkhMJS0wP86TUftZtUi-hfj6tZdVEn30MZAeQEx762q1vN-q4DWP2EdOBIHy_CgNFMcliaJYnzxZHjnuifbVWy52zlls20m4BkyJ/w1200-h630-p-k-no-nu/Screenshot%202024-03-12%20at%202.18.27%E2%80%AFPM.png"
+        },
+        {
           "id": "http://blog.research.google/2024/03/chain-of-table-evolving-tables-in.html",
           "author": null,
           "description": "Posted by Zilong Wang, Student Researcher, and Chen-Yu Lee, Research Scientist, Cloud AI Team\n\n\n\n\nPeople use tables every day to organize and interpret complex information in a structured, easily accessible format. Due to the ubiquity of such tables, reasoning over tabular data has long been a central topic in natural language processing (NLP). Researchers in this field have aimed to leverage language models to help users answer questions, verify statements, and analyze data based on tables. However, language models are trained over large amounts of plain text, so the inherently structured nature of tabular data can be difficult for language models to fully comprehend and utilize.\n\n\n\nRecently, large language models (LLMs) have achieved outstanding performance across diverse natural languag…",
