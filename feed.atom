@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-13T14:13:56.570Z</updated>
+    <updated>2024-03-13T16:18:12.673Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Purpose Driven Uncertainty Quantification]]></title>
+        <id>https://www.argmin.net/p/purpose-driven-uncertainty-quantification</id>
+        <link href="https://www.argmin.net/p/purpose-driven-uncertainty-quantification"/>
+        <updated>2024-03-13T14:29:10.000Z</updated>
+        <summary type="html"><![CDATA[Summarizing a much longer than intended blog series.]]></summary>
+        <author>
+            <name>Ben Recht</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Purpose Driven Uncertainty Quantification]]></title>
+        <id>https://www.argmin.net/p/purpose-driven-uncertainty-quantification</id>
+        <link href="https://www.argmin.net/p/purpose-driven-uncertainty-quantification"/>
+        <updated>2024-03-13T14:29:10.000Z</updated>
+        <summary type="html"><![CDATA[Summarizing a much longer than intended blog series.]]></summary>
+        <author>
+            <name>Ben Recht</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SIMA generalist AI agent for 3D virtual environments]]></title>
         <id>https://deepmind.google/discover/blog/sima-generalist-ai-agent-for-3d-virtual-environments/</id>
@@ -34,6 +54,16 @@
         <summary type="html"><![CDATA[Forthcoming from De Gruyter, July 14, 2024 (ISBN: 9783111382746): Vernacular Chinese-Character Manuscripts from East and Southeast Asia, edited by: David Holm. Volume 40 in the series Studies in Manuscript Cultures Keywords: Asia; vernacular; ritual; library collections; recitation Topics:  Asian Literature; Asian and Pacific Studies; Dialectology; Linguistics and Semiotics; Literary Studies; Literature of other Nations and […]]]></summary>
         <author>
             <name>Victor Mair</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Maximizing training throughput using PyTorch FSDP]]></title>
+        <id>https://pytorch.org/blog/maximizing-training/</id>
+        <link href="https://pytorch.org/blog/maximizing-training/"/>
+        <updated>2024-03-13T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In this blog, we demonstrate the scalability of FSDP with a pre-training exemplar, a 7B model trained for 2T tokens, and share various techniques we used to achieve a rapid training speed of 3,700 tokens/sec/GPU, or 40B tokens/day on 128 A100 GPUs. This translates to a model FLOPS utilization (MFU) and hardware FLOPS utilization (HFU) of 57%. Additionally, we have observed near linear scaling of FSDP to 512 GPUs, implying that training a 7B model on 512 GPUs to 2T tokens using this method would take just under two weeks.]]></summary>
+        <author>
+            <name>PyTorch Website</name>
         </author>
     </entry>
     <entry>

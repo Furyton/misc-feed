@@ -1466,6 +1466,22 @@
       "siteUrl": "https://www.argmin.net",
       "articles": [
         {
+          "id": "https://www.argmin.net/p/purpose-driven-uncertainty-quantification",
+          "author": "Ben Recht",
+          "description": "Summarizing a much longer than intended blog series.",
+          "link": "https://www.argmin.net/p/purpose-driven-uncertainty-quantification",
+          "publishedOn": "2024-03-13T14:29:10.000Z",
+          "wordCount": null,
+          "title": "Purpose Driven Uncertainty Quantification",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substack-post-media.s3.amazonaws.com/public/images/ab8c5c4e-585e-4f15-b5e8-b22c9c135f0e_458x300.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substack-post-media.s3.amazonaws.com/public/images/ab8c5c4e-585e-4f15-b5e8-b22c9c135f0e_458x300.png"
+        },
+        {
           "id": "https://www.argmin.net/p/respect-the-unstable",
           "author": "Ben Recht",
           "description": "Gunter Stein's timeless lessons on the design of decision systems.",
@@ -1839,7 +1855,18 @@
       "title": "PyTorch Website",
       "feedUrl": "https://pytorch.org/feed",
       "siteUrl": "https://pytorch.org/",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://pytorch.org/blog/maximizing-training/",
+          "author": null,
+          "description": "In this blog, we demonstrate the scalability of FSDP with a pre-training exemplar, a 7B model trained for 2T tokens, and share various techniques we used to achieve a rapid training speed of 3,700 tokens/sec/GPU, or 40B tokens/day on 128 A100 GPUs. This translates to a model FLOPS utilization (MFU) and hardware FLOPS utilization (HFU) of 57%. Additionally, we have observed near linear scaling of FSDP to 512 GPUs, implying that training a 7B model on 512 GPUs to 2T tokens using this method would take just under two weeks.",
+          "link": "https://pytorch.org/blog/maximizing-training/",
+          "publishedOn": "2024-03-13T07:00:00.000Z",
+          "wordCount": 2626,
+          "title": "Maximizing training throughput using PyTorch FSDP",
+          "imageUrl": "https://pytorch.org/assets/images/social-share.jpg"
+        }
+      ]
     },
     {
       "title": "Guillaume Genthial blog",
@@ -1881,6 +1908,22 @@
       "feedUrl": "https://www.argmin.net/feed.xml",
       "siteUrl": "https://www.argmin.net",
       "articles": [
+        {
+          "id": "https://www.argmin.net/p/purpose-driven-uncertainty-quantification",
+          "author": "Ben Recht",
+          "description": "Summarizing a much longer than intended blog series.",
+          "link": "https://www.argmin.net/p/purpose-driven-uncertainty-quantification",
+          "publishedOn": "2024-03-13T14:29:10.000Z",
+          "wordCount": null,
+          "title": "Purpose Driven Uncertainty Quantification",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substack-post-media.s3.amazonaws.com/public/images/ab8c5c4e-585e-4f15-b5e8-b22c9c135f0e_458x300.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substack-post-media.s3.amazonaws.com/public/images/ab8c5c4e-585e-4f15-b5e8-b22c9c135f0e_458x300.png"
+        },
         {
           "id": "https://www.argmin.net/p/respect-the-unstable",
           "author": "Ben Recht",
