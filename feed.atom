@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-13T11:15:04.581Z</updated>
+    <updated>2024-03-13T12:27:25.253Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -1527,35 +1527,6 @@ Differential privacy (DP) is a property of randomized mechanisms that limit the 
         <summary type="html"><![CDATA[On the complex interactions between uncertainty quantification and recourse.]]></summary>
         <author>
             <name>Ben Recht</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Not just NVIDIA: GPU programming that runs everywhere]]></title>
-        <id>https://pythonspeed.com/articles/gpu-without-cuda/</id>
-        <link href="https://pythonspeed.com/articles/gpu-without-cuda/"/>
-        <updated>2024-02-13T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[If you’re doing computations on a GPU, NVIDIA is the default, alongside its CUDA libraries.
-Some libraries like PyTorch support do support AMD GPUs and Macs.
-But from the re-implementations of NumPy, SciPy, and Pandas in the RAPIDS project, to Numba’s GPU support, NVIDIA has best software support in the Python world.
-Sticking to NVIDIA-specific software has some downsides, however:
-It won’t run on modern Mac laptops.
-Testing in CI is more difficult: you need custom runners that have NVIDIA GPUs.
-You can’t use any other GPUs you might have access to, like AMD GPUs.
-What can you do if you want to use GPUs in a portable manner?
-In this article we’ll cover one option, the wgpu-py library.
-Read more...]]></summary>
-        <author>
-            <name>Python⇒Speed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[poor graph [and not so poor agribusiness]]]></title>
-        <id>http://xianblog.wordpress.com/?p=55051</id>
-        <link href="https://xianblog.wordpress.com/2024/02/13/poor-graph-and-not-so-poor-agribusiness/"/>
-        <updated>2024-02-12T23:24:52.000Z</updated>
-        <summary type="html"><![CDATA[Visit the post for more.]]></summary>
-        <author>
-            <name>xi'an</name>
         </author>
     </entry>
     <entry>

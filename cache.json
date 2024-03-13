@@ -1667,16 +1667,6 @@
           "wordCount": 2907,
           "title": "What can you do about climate change?",
           "imageUrl": "https://pythonspeed.com/assets/titles/climate-change.png"
-        },
-        {
-          "id": "https://pythonspeed.com/articles/gpu-without-cuda/",
-          "author": null,
-          "description": "If you’re doing computations on a GPU, NVIDIA is the default, alongside its CUDA libraries.\nSome libraries like PyTorch support do support AMD GPUs and Macs.\nBut from the re-implementations of NumPy, SciPy, and Pandas in the RAPIDS project, to Numba’s GPU support, NVIDIA has best software support in the Python world.\nSticking to NVIDIA-specific software has some downsides, however:\nIt won’t run on modern Mac laptops.\nTesting in CI is more difficult: you need custom runners that have NVIDIA GPUs.\nYou can’t use any other GPUs you might have access to, like AMD GPUs.\nWhat can you do if you want to use GPUs in a portable manner?\nIn this article we’ll cover one option, the wgpu-py library.\nRead more...",
-          "link": "https://pythonspeed.com/articles/gpu-without-cuda/",
-          "publishedOn": "2024-02-13T00:00:00.000Z",
-          "wordCount": 1140,
-          "title": "Not just NVIDIA: GPU programming that runs everywhere",
-          "imageUrl": "https://pythonspeed.com/assets/titles/gpu-without-cuda.png"
         }
       ]
     },
@@ -2376,16 +2366,6 @@
           "wordCount": 2369,
           "title": "another scam “conference”",
           "imageUrl": "https://xianblog.files.wordpress.com/2024/01/scam.png"
-        },
-        {
-          "id": "http://xianblog.wordpress.com/?p=55051",
-          "author": "xi'an",
-          "description": "Visit the post for more.",
-          "link": "https://xianblog.wordpress.com/2024/02/13/poor-graph-and-not-so-poor-agribusiness/",
-          "publishedOn": "2024-02-12T23:24:52.000Z",
-          "wordCount": 2382,
-          "title": "poor graph [and not so poor agribusiness]",
-          "imageUrl": "https://xianblog.files.wordpress.com/2024/01/temp.jpeg"
         }
       ]
     },
