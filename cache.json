@@ -2541,6 +2541,16 @@
       "siteUrl": "http://blog.research.google/",
       "articles": [
         {
+          "id": "http://blog.research.google/2024/03/cappy-outperforming-and-boosting-large.html",
+          "author": null,
+          "description": "Posted by Yun Zhu and Lijuan Liu, Software Engineers, Google Research\n\n\n\n\n\nLarge language model (LLM) advancements have led to a new paradigm that unifies various natural language processing (NLP) tasks within an instruction-following framework. This paradigm is exemplified by recent multi-task LLMs, such as T0, FLAN, and OPT-IML. First, multi-task data is gathered with each task following a task-specific template, where each labeled example is converted into an instruction (e.g., \"Put the concepts together to form a sentence: ski, mountain, skier”) paired with a corresponding response (e.g., \"Skier skis down the mountain\"). These instruction-response pairs are used to train the LLM, resulting in a conditional generation model that takes an instruction as input and generates a response. Mo…",
+          "link": "http://blog.research.google/2024/03/cappy-outperforming-and-boosting-large.html",
+          "publishedOn": "2024-03-14T19:38:00.000Z",
+          "wordCount": 27917,
+          "title": "Cappy: Outperforming and boosting large multi-task language models with a small scorer",
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiFNlqVAnwoYdZ97LvC4-ipR6FeOc4o9udsTUtNBBWl5Y4XHclcrz3kTCibizteSBc_xsVLh-pyRiCCNfIzTDHEs7VsJcUMCk0EjUxzvKITKCncdx1y7u9JXGkXM6TyoZY5RhUt2l_up-Us0yIV-0-EUvHsjOlFNSSNgNHlpwK1PAliqcj4gSoLsYXhIi18/w1200-h630-p-k-no-nu/Cappy%20hero.jpg"
+        },
+        {
           "id": "http://blog.research.google/2024/03/talk-like-graph-encoding-graphs-for.html",
           "author": null,
           "description": "Posted by Bahare Fatemi, Research Scientist, Google Research, and Bryan Perozzi, Research Scientist, Google Research\n\n\n\n\nImagine all the things around you — your friends, tools in your kitchen, or even the parts of your bike. They are all connected in different ways. In computer science, the term graph is used to describe connections between objects. Graphs consist of nodes (the objects themselves) and edges (connections between two nodes, indicating a  relationship between them). Graphs are everywhere now. The internet itself is a giant graph of websites linked together. Even the knowledge search engines use is organized in a graph-like way.\n\n\n\n\n\nFurthermore, consider the remarkable advancements in artificial intelligence — such as chatbots that can write stories in seconds, and even soft…",
