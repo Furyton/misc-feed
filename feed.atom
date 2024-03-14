@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-13T23:15:16.242Z</updated>
+    <updated>2024-03-14T01:03:58.804Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[my life as an obstetrician [spam]]]></title>
+        <id>http://xianblog.wordpress.com/?p=54507</id>
+        <link href="https://xianblog.wordpress.com/2024/03/14/my-life-as-an-obstetrician-spam/"/>
+        <updated>2024-03-13T23:24:04.000Z</updated>
+        <summary type="html"><![CDATA[An hilarious invitation I received this day: 11th International Congress of Gynaecology and Obstetrics June 12-14, 2024 Budapest, Hungary Dear Christian P. Robert, On behalf of organizing committee, we are very honoured to invite you to participate in the 11th International Congress of Gynaecology and Obstetrics (ICGO), which will take place on June 12-14, 2024 at Budapest, Hungary, […]]]></summary>
+        <author>
+            <name>xi'an</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Purpose Driven Uncertainty Quantification]]></title>
         <id>https://www.argmin.net/p/purpose-driven-uncertainty-quantification</id>
