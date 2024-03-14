@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-14T03:16:35.809Z</updated>
+    <updated>2024-03-14T04:17:24.939Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -1557,26 +1557,6 @@ Sample ima…]]></summary>
 Differential privacy (DP) is a property of randomized mechanisms that limit the influence of any individual user’s information while processing and analyzing data. DP offers a robust solution to address growing concerns about data protection, enabling technologies across industries and government applications (e.g., the US census) without compromising individual user identities.  As its adoption increases, it’s important to identify the potential risks of developing mechanisms with faulty implementations. Researchers have recently found errors in the mathematical proofs of private mechanisms, and their implementations. For example, researchers compared six sparse vector technique (SVT) variations and found that only two…]]></summary>
         <author>
             <name>Google AI Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Predictions and actions redux]]></title>
-        <id>https://www.argmin.net/p/predictions-and-actions-redux</id>
-        <link href="https://www.argmin.net/p/predictions-and-actions-redux"/>
-        <updated>2024-02-13T15:38:46.000Z</updated>
-        <summary type="html"><![CDATA[On the complex interactions between uncertainty quantification and recourse.]]></summary>
-        <author>
-            <name>Ben Recht</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Predictions and actions redux]]></title>
-        <id>https://www.argmin.net/p/predictions-and-actions-redux</id>
-        <link href="https://www.argmin.net/p/predictions-and-actions-redux"/>
-        <updated>2024-02-13T15:38:46.000Z</updated>
-        <summary type="html"><![CDATA[On the complex interactions between uncertainty quantification and recourse.]]></summary>
-        <author>
-            <name>Ben Recht</name>
         </author>
     </entry>
     <entry>
