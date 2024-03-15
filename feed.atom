@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-15T06:19:08.064Z</updated>
+    <updated>2024-03-15T07:14:04.324Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -1705,30 +1705,6 @@ For example, Google’s AlphaCode 2 set state-of-the-art results in programming 
         <summary type="html"><![CDATA[Joe Biden recently said "the president of Mexico" when he meant "the president of Egypt". A couple of days earlier, he said "Mitterand" when he meant "Macron". Of course this fed into the flurry about his age, which was both-siderized by references to Donald Trump's calling Victor Orbán "the great leader of Turkey" when he […]]]></summary>
         <author>
             <name>Mark Liberman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learning the importance of training data under concept drift]]></title>
-        <id>http://blog.research.google/2024/02/learning-importance-of-training-data.html</id>
-        <link href="http://blog.research.google/2024/02/learning-importance-of-training-data.html"/>
-        <updated>2024-02-14T18:32:00.000Z</updated>
-        <summary type="html"><![CDATA[Posted by Nishant Jain, Pre-doctoral Researcher, and Pradeep Shenoy, Research Scientist, Google Research
-
-
-
-
-The constantly changing nature of the world around us poses a significant challenge for the development of AI models. Often, models are trained on longitudinal data with the hope that the training data used will accurately represent inputs the model may receive in the future. More generally, the default assumption that all training data are equally relevant often breaks in practice. For example, the figure below shows images from the CLEAR nonstationary learning benchmark, and it illustrates how visual features of objects evolve significantly over a 10 year span (a phenomenon we refer to as slow concept drift), posing a challenge for object categorization models. 
-
-
-
-
-
-
-
-
-Sample ima…]]></summary>
-        <author>
-            <name>Google AI Blog</name>
         </author>
     </entry>
     <entry>
