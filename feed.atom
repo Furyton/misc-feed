@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-15T01:04:43.676Z</updated>
+    <updated>2024-03-15T02:21:11.502Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Tom Griffiths]]></title>
+        <id>https://mlfoundations.org/talk/griffith/</id>
+        <link href="https://mlfoundations.org/talk/griffith/"/>
+        <updated>2024-03-15T14:00:00.000Z</updated>
+        <author>
+            <name>Harvard ML Foundations</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[significant otters [cover]]]></title>
         <id>http://xianblog.wordpress.com/?p=55260</id>
