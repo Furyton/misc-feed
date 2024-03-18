@@ -1390,6 +1390,16 @@
       "siteUrl": "https://kexue.fm/",
       "articles": [
         {
+          "id": "https://kexue.fm/archives/10017",
+          "author": "苏剑林",
+          "description": "近年来，RNN由于其线性的训练和推理效率，重新吸引了不少研究人员和用户的兴趣，隐约有“文艺复兴”之势，其代表作有RWKV、RetNet、Mamba等。当将RNN用于语言模型时，其典型特点就是每步...",
+          "link": "https://kexue.fm/archives/10017",
+          "publishedOn": "2024-03-18T06:52:00.000Z",
+          "wordCount": 1477,
+          "title": "时空之章：将Attention视为平方复杂度的RNN",
+          "imageUrl": null
+        },
+        {
           "id": "https://kexue.fm/archives/10007",
           "author": "苏剑林",
           "description": "在《“闭门造车”之多模态模型方案浅谈》中我们曾提到，图像生成的本质困难是没有一个连续型概率密度的万能拟合器。当然，也不能说完全没有，比如高斯混合模型（GMM）理论上就是可以拟合任意概率密度，就连...",
@@ -2147,6 +2157,16 @@
       "feedUrl": "https://xianblog.wordpress.com/feed/",
       "siteUrl": "https://xianblog.wordpress.com",
       "articles": [
+        {
+          "id": "http://xianblog.wordpress.com/?p=55538",
+          "author": "xi'an",
+          "description": "The next One World ABC seminar is taking place (on-line, requiring pre-registration) on Thursday 21 March, 9:00am UK time, with Desi Ivanova (University of Oxford), speaking about Step-DAD: Semi-Amortized Policy-Based Bayesian Experimental Design: We develop a semi-amortized, policy-based, approach to Bayesian experimental design (BED) called Step-wise Deep Adaptive Design (Step-DAD). Like existing, fully amortized, policy-based […]",
+          "link": "https://xianblog.wordpress.com/2024/03/18/step-dads-with-bayesian-design-one-world-abcminar-21-march/",
+          "publishedOn": "2024-03-17T23:24:58.000Z",
+          "wordCount": 2511,
+          "title": "step-dads with Bayesian design [One World ABC’minar, 21 March]",
+          "imageUrl": "https://xianblog.files.wordpress.com/2010/06/img_6930.jpg"
+        },
         {
           "id": "http://xianblog.wordpress.com/?p=55538",
           "author": "xi'an",

@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-18T06:19:46.824Z</updated>
+    <updated>2024-03-18T07:14:52.244Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[时空之章：将Attention视为平方复杂度的RNN]]></title>
+        <id>https://kexue.fm/archives/10017</id>
+        <link href="https://kexue.fm/archives/10017"/>
+        <updated>2024-03-18T06:52:00.000Z</updated>
+        <summary type="html"><![CDATA[近年来，RNN由于其线性的训练和推理效率，重新吸引了不少研究人员和用户的兴趣，隐约有“文艺复兴”之势，其代表作有RWKV、RetNet、Mamba等。当将RNN用于语言模型时，其典型特点就是每步...]]></summary>
+        <author>
+            <name>苏剑林</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[step-dads with Bayesian design [One World ABC’minar, 21 March]]]></title>
+        <id>http://xianblog.wordpress.com/?p=55538</id>
+        <link href="https://xianblog.wordpress.com/2024/03/18/step-dads-with-bayesian-design-one-world-abcminar-21-march/"/>
+        <updated>2024-03-17T23:24:58.000Z</updated>
+        <summary type="html"><![CDATA[The next One World ABC seminar is taking place (on-line, requiring pre-registration) on Thursday 21 March, 9:00am UK time, with Desi Ivanova (University of Oxford), speaking about Step-DAD: Semi-Amortized Policy-Based Bayesian Experimental Design: We develop a semi-amortized, policy-based, approach to Bayesian experimental design (BED) called Step-wise Deep Adaptive Design (Step-DAD). Like existing, fully amortized, policy-based […]]]></summary>
+        <author>
+            <name>xi'an</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[step-dads with design [One World ABC’minar, 21 March]]]></title>
         <id>http://xianblog.wordpress.com/?p=55538</id>
