@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-17T23:16:14.757Z</updated>
+    <updated>2024-03-18T01:05:24.019Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[step-dads with design [One World ABC’minar, 21 March]]]></title>
+        <id>http://xianblog.wordpress.com/?p=55538</id>
+        <link href="https://xianblog.wordpress.com/2024/03/18/step-dads-with-design-one-world-abcminar-21-march/"/>
+        <updated>2024-03-17T23:24:58.000Z</updated>
+        <summary type="html"><![CDATA[The next One World ABC seminar is taking place (on-line, requiring pre-registration) on Thursday 21 March, 9:00am UK time, with Desi Ivanova (University of Oxford), speaking about Step-DAD: Semi-Amortized Policy-Based Bayesian Experimental Design: We develop a semi-amortized, policy-based, approach to Bayesian experimental design (BED) called Step-wise Deep Adaptive Design (Step-DAD). Like existing, fully amortized, policy-based […]]]></summary>
+        <author>
+            <name>xi'an</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Wikileech]]></title>
         <id>http://xianblog.wordpress.com/?p=55414</id>
