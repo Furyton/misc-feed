@@ -2487,6 +2487,16 @@
       "siteUrl": "http://blog.research.google/",
       "articles": [
         {
+          "id": "http://blog.research.google/2024/03/melon-reconstructing-3d-objects-from.html",
+          "author": null,
+          "description": "Posted by Mark Matthews, Senior Software Engineer, and Dmitry Lagun, Research Scientist, Google Research\n\n\n\n\n\nA person's prior experience and understanding of the world generally enables them to easily infer what an object looks like in whole, even if only looking at a few 2D pictures of it. Yet the capacity for a computer to reconstruct the shape of an object in 3D given only a few images has remained a difficult algorithmic problem for years. This fundamental computer vision task has applications ranging from the creation of e-commerce 3D models to autonomous vehicle navigation. \n\n\n\nA key part of the problem is how to determine the exact positions from which images were taken, known as pose inference. If camera poses are known, a range of successful techniques — such as neural radiance f…",
+          "link": "http://blog.research.google/2024/03/melon-reconstructing-3d-objects-from.html",
+          "publishedOn": "2024-03-18T18:41:00.000Z",
+          "wordCount": 27666,
+          "title": "MELON: Reconstructing 3D objects from images with unknown poses",
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8LjCbKjfNXVUyCpGiZysx_pNF5BK8p5VBCJXXPaz_Bb75CW-33weoMh0YaNcn4AdmGN-Pufd_XlsRzo2MWZLQxqgtri7Nip9tXoGX0CritvRKF-63StOWxp_gVaY-MTnOk9IvJdVt_CczVR6Ip_R8Yv32MHTw2-FckCTF4UOFrgMyq3PCPCkZaZ-nyMcE/w1200-h630-p-k-no-nu/MELON%20HERO.jpg"
+        },
+        {
           "id": "http://blog.research.google/2024/03/heal-framework-for-health-equity.html",
           "author": null,
           "description": "Posted by Mike Schaekermann, Research Scientist, Google Research, and Ivor Horn, Chief Health Equity Officer & Director, Google Core\n\n\n\n\nHealth equity is a major societal concern worldwide with disparities having many causes. These sources include limitations in access to healthcare, differences in clinical treatment, and even fundamental differences in the diagnostic technology. In dermatology for example, skin cancer outcomes are worse for populations such as minorities, those with lower socioeconomic status, or individuals with limited healthcare access. While there is great promise in recent advances in machine learning (ML) and artificial intelligence (AI) to help improve healthcare, this transition from research to bedside must be accompanied by a careful understanding of whether and…",
