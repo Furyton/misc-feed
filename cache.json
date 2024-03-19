@@ -1853,6 +1853,16 @@
       "siteUrl": "https://deepmind.google/discover/blog/",
       "articles": [
         {
+          "id": "https://deepmind.google/discover/blog/tacticai-ai-assistant-for-football-tactics/",
+          "author": null,
+          "description": "As part of our multi-year collaboration with Liverpool FC, we develop a full AI system that can advise coaches on corner kicks",
+          "link": "https://deepmind.google/discover/blog/tacticai-ai-assistant-for-football-tactics/",
+          "publishedOn": "2024-03-19T16:03:00.000Z",
+          "wordCount": 1659,
+          "title": "TacticAI: an AI assistant for football tactics",
+          "imageUrl": "https://lh3.googleusercontent.com/pPa45NPPYrOc4QHbcLIsmueJXi9hKNFdB0rbnRMdiRH0Gf3fgIc_g26-UbFxHVzqUT85QA-N3IvPpQaDevlp3OeF3RIiLQjmuONVRVyX1et0WYEKTQ=w1200-h630-n-nu"
+        },
+        {
           "id": "https://deepmind.google/discover/blog/sima-generalist-ai-agent-for-3d-virtual-environments/",
           "author": null,
           "description": "Introducing SIMA, a Scalable Instructable Multiworld Agent",
@@ -2508,6 +2518,16 @@
       "feedUrl": "http://feeds.feedburner.com/blogspot/gJZg",
       "siteUrl": "http://blog.research.google/",
       "articles": [
+        {
+          "id": "http://blog.research.google/2024/03/scin-new-resource-for-representative.html",
+          "author": null,
+          "description": "Posted by Pooja Rao, Research Scientist, Google Research\n\n\n\n\nHealth datasets play a crucial role in research and medical education, but it can be challenging to create a dataset that represents the real world. For example, dermatology conditions are diverse in their appearance and severity and manifest differently across skin tones. Yet, existing dermatology image datasets often lack representation of everyday conditions (like rashes, allergies and infections) and skew towards lighter skin tones. Furthermore, race and ethnicity information is frequently missing, hindering our ability to assess disparities or create solutions.\n\n\n\n\n\nTo address these limitations, we are releasing the Skin Condition Image Network (SCIN) dataset in collaboration with physicians at Stanford Medicine. We designed…",
+          "link": "http://blog.research.google/2024/03/scin-new-resource-for-representative.html",
+          "publishedOn": "2024-03-19T15:00:00.000Z",
+          "wordCount": 27491,
+          "title": "SCIN: A new resource for representative dermatology images",
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_fSTMFxLAMHLJ0rw7OAddGSPMW2tRl8kmTr2mWiiJunKxB8ZflMJeWkBmB5IqCD2LvRoikpN7OYnZO3CdKpArGn32b4o-T8ZD6XCPxmUBtE1-sPBi6J05y5_UrfbWSMTjNpldKYzM3xjXoC0iWU7q_a7Ktfi2S1hVHLY8uq1986yp_pgEjQn3elNuSUbJ/w1200-h630-p-k-no-nu/SCINHero.png"
+        },
         {
           "id": "http://blog.research.google/2024/03/melon-reconstructing-3d-objects-from.html",
           "author": null,
