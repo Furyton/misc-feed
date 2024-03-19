@@ -2519,6 +2519,16 @@
       "siteUrl": "http://blog.research.google/",
       "articles": [
         {
+          "id": "http://blog.research.google/2024/03/screenai-visual-language-model-for-ui.html",
+          "author": null,
+          "description": "Posted by Srinivas Sunkara and Gilles Baechler, Software Engineers, Google Research\n\n\n\n\n\nScreen user interfaces (UIs) and infographics, such as charts, diagrams and tables, play important roles in human communication and human-machine interaction as they facilitate rich and interactive user experiences. UIs and infographics share similar design principles and visual language (e.g., icons and layouts), that offer an opportunity to build a single model that can understand, reason, and interact with these interfaces. However, because of their complexity and varied presentation formats, infographics and UIs present a unique modeling challenge.\n\n\n\nTo that end, we introduce “ScreenAI: A Vision-Language Model for UI and Infographics Understanding”. ScreenAI improves upon the PaLI architecture wit…",
+          "link": "http://blog.research.google/2024/03/screenai-visual-language-model-for-ui.html",
+          "publishedOn": "2024-03-19T20:15:00.000Z",
+          "wordCount": 27748,
+          "title": "ScreenAI: A visual language model for UI and visually-situated language understanding",
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhoXlMR7pAKRRnyKZT8C40i6mPX0KKNGT6AFNvFOFIhZ7BD0rXaU3NS_aqISTGq9S_d0zozgcO0HR_v3R6Msm4uUDkaBFsFVx-miaDL6L0UhSz1Is8_L_iFjtvNE5OX9HX98t92b3r-rLQfJG1RrzVW354NdVUlIJVRLdQ_l4dFYa1773J-tJligdvh7QsX/w1200-h630-p-k-no-nu/ScreenAI%20-%20hero.jpeg"
+        },
+        {
           "id": "http://blog.research.google/2024/03/scin-new-resource-for-representative.html",
           "author": null,
           "description": "Posted by Pooja Rao, Research Scientist, Google Research\n\n\n\n\nHealth datasets play a crucial role in research and medical education, but it can be challenging to create a dataset that represents the real world. For example, dermatology conditions are diverse in their appearance and severity and manifest differently across skin tones. Yet, existing dermatology image datasets often lack representation of everyday conditions (like rashes, allergies and infections) and skew towards lighter skin tones. Furthermore, race and ethnicity information is frequently missing, hindering our ability to assess disparities or create solutions.\n\n\n\n\n\nTo address these limitations, we are releasing the Skin Condition Image Network (SCIN) dataset in collaboration with physicians at Stanford Medicine. We designed…",

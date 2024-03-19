@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-19T20:16:00.013Z</updated>
+    <updated>2024-03-19T21:12:50.794Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ScreenAI: A visual language model for UI and visually-situated language understanding]]></title>
+        <id>http://blog.research.google/2024/03/screenai-visual-language-model-for-ui.html</id>
+        <link href="http://blog.research.google/2024/03/screenai-visual-language-model-for-ui.html"/>
+        <updated>2024-03-19T20:15:00.000Z</updated>
+        <summary type="html"><![CDATA[Posted by Srinivas Sunkara and Gilles Baechler, Software Engineers, Google Research
+
+
+
+
+
+Screen user interfaces (UIs) and infographics, such as charts, diagrams and tables, play important roles in human communication and human-machine interaction as they facilitate rich and interactive user experiences. UIs and infographics share similar design principles and visual language (e.g., icons and layouts), that offer an opportunity to build a single model that can understand, reason, and interact with these interfaces. However, because of their complexity and varied presentation formats, infographics and UIs present a unique modeling challenge.
+
+
+
+To that end, we introduce “ScreenAI: A Vision-Language Model for UI and Infographics Understanding”. ScreenAI improves upon the PaLI architecture wit…]]></summary>
+        <author>
+            <name>Google AI Blog</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[TacticAI: an AI assistant for football tactics]]></title>
         <id>https://deepmind.google/discover/blog/tacticai-ai-assistant-for-football-tactics/</id>
