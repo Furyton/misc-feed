@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-18T23:15:11.857Z</updated>
+    <updated>2024-03-19T01:06:05.668Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Musée Guimet]]></title>
+        <id>http://xianblog.wordpress.com/?p=55138</id>
+        <link href="https://xianblog.wordpress.com/2024/03/19/musee-guimet/"/>
+        <updated>2024-03-18T23:24:03.000Z</updated>
+        <summary type="html"><![CDATA[Being next to Musée [national des arts asiatiques] Guimet by a cold Saturday afternoon made us stop by and check on the ongoing exhibit, which happened to be around Genji Monogatari (The Tales of the Genji), the classic work of Japanese literature (and the first psychological novel) written in the 11th Century by Murasaki Shikibu. […]]]></summary>
+        <author>
+            <name>xi'an</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[MELON: Reconstructing 3D objects from images with unknown poses]]></title>
         <id>http://blog.research.google/2024/03/melon-reconstructing-3d-objects-from.html</id>
