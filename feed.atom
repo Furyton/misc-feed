@@ -2,10 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-20T15:16:41.829Z</updated>
+    <updated>2024-03-20T16:19:47.474Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Using AI to expand global access to reliable flood forecasts]]></title>
+        <id>http://blog.research.google/2024/03/using-ai-to-expand-global-access-to.html</id>
+        <link href="http://blog.research.google/2024/03/using-ai-to-expand-global-access-to.html"/>
+        <updated>2024-03-20T16:06:00.000Z</updated>
+        <summary type="html"><![CDATA[Posted by Yossi Matias, VP Engineering & Research, and Grey Nearing, Research Scientist, Google Research
+
+
+
+
+Floods are the most common natural disaster, and are responsible for roughly $50 billion in annual financial damages worldwide. The rate of flood-related disasters has more than doubled since the year 2000 partly due to climate change. Nearly 1.5 billion people, making up 19% of the world’s population, are exposed to substantial risks from severe flood events. Upgrading early warning systems to make accurate and timely information accessible to these populations can save thousands of lives per year. 
+
+
+
+Driven by the potential impact of reliable flood forecasting on people’s lives globally, we started our flood forecasting effort in 2017. Through this multi-year journey, we advanced…]]></summary>
+        <author>
+            <name>Google AI Blog</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Updates and Plans IV]]></title>
         <id>http://gilkalai.wordpress.com/?p=17482</id>

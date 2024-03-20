@@ -2539,6 +2539,16 @@
       "siteUrl": "http://blog.research.google/",
       "articles": [
         {
+          "id": "http://blog.research.google/2024/03/using-ai-to-expand-global-access-to.html",
+          "author": null,
+          "description": "Posted by Yossi Matias, VP Engineering & Research, and Grey Nearing, Research Scientist, Google Research\n\n\n\n\nFloods are the most common natural disaster, and are responsible for roughly $50 billion in annual financial damages worldwide. The rate of flood-related disasters has more than doubled since the year 2000 partly due to climate change. Nearly 1.5 billion people, making up 19% of the world’s population, are exposed to substantial risks from severe flood events. Upgrading early warning systems to make accurate and timely information accessible to these populations can save thousands of lives per year. \n\n\n\nDriven by the potential impact of reliable flood forecasting on people’s lives globally, we started our flood forecasting effort in 2017. Through this multi-year journey, we advanced…",
+          "link": "http://blog.research.google/2024/03/using-ai-to-expand-global-access-to.html",
+          "publishedOn": "2024-03-20T16:06:00.000Z",
+          "wordCount": 28058,
+          "title": "Using AI to expand global access to reliable flood forecasts",
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgABDUlqCHMxNY-QfEftM_9yPy1z4jr1odB-_kSP79yjk6igtpPJNFIocQOKDRnZ3VLmqrI9tqX-dCHpcYtnSx96y9X9V9knp1CiAREvfgZX71D0XpWZNgPdZOI7aMW3POigHJ2rLeA1G1asaAPO3KIB3j0WzUr5C707I7p0L_itspYYEhYDhDTzd39tNUD/w1200-h630-p-k-no-nu/Flood%20forecasting%20hero%20image.jpg"
+        },
+        {
           "id": "http://blog.research.google/2024/03/screenai-visual-language-model-for-ui.html",
           "author": null,
           "description": "Posted by Srinivas Sunkara and Gilles Baechler, Software Engineers, Google Research\n\n\n\n\n\nScreen user interfaces (UIs) and infographics, such as charts, diagrams and tables, play important roles in human communication and human-machine interaction as they facilitate rich and interactive user experiences. UIs and infographics share similar design principles and visual language (e.g., icons and layouts), that offer an opportunity to build a single model that can understand, reason, and interact with these interfaces. However, because of their complexity and varied presentation formats, infographics and UIs present a unique modeling challenge.\n\n\n\nTo that end, we introduce “ScreenAI: A Vision-Language Model for UI and Infographics Understanding”. ScreenAI improves upon the PaLI architecture wit…",
