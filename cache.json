@@ -2549,6 +2549,16 @@
       "siteUrl": "http://blog.research.google/",
       "articles": [
         {
+          "id": "http://blog.research.google/2024/03/computer-aided-diagnosis-for-lung.html",
+          "author": null,
+          "description": "Posted by Atilla Kiraly, Software Engineer, and Rory Pilgrim, Product Manager, Google Research \n\n\n\n\n\nLung cancer is the leading cause of cancer-related deaths globally with 1.8 million deaths reported in 2020. Late diagnosis dramatically reduces the chances of survival. Lung cancer screening via computed tomography (CT), which provides a detailed 3D image of the lungs, has been shown to reduce mortality in high-risk populations by at least 20% by detecting potential signs of cancers earlier. In the US, screening involves annual scans, with some countries or cases recommending more or less frequent scans. \n\n\n\nThe United States Preventive Services Task Force recently expanded lung cancer screening recommendations by roughly 80%, which is expected to increase screening access for women and ra…",
+          "link": "http://blog.research.google/2024/03/computer-aided-diagnosis-for-lung.html",
+          "publishedOn": "2024-03-20T20:54:00.000Z",
+          "wordCount": 27786,
+          "title": "Computer-aided diagnosis for lung cancer screening",
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFpuCd82OUmuS2oG2cVir_ZgeOyUpFndr-kCq8V4pDv6fzxeyViBJymfVt5FFUqgkM_X57msxNv84XBtaXs2FsD7R8_tNqtH6D8X_KiMtZRaJ37JphQsvM35_gIk-4Tn2eEYvrInjMLV5ouwhRJv3Oqb30Z71P546NszeURINBoJnlWnzgASn-6D9YFwZo/w1200-h630-p-k-no-nu/PULMA%20hero.jpg"
+        },
+        {
           "id": "http://blog.research.google/2024/03/using-ai-to-expand-global-access-to.html",
           "author": null,
           "description": "Posted by Yossi Matias, VP Engineering & Research, and Grey Nearing, Research Scientist, Google Research\n\n\n\n\nFloods are the most common natural disaster, and are responsible for roughly $50 billion in annual financial damages worldwide. The rate of flood-related disasters has more than doubled since the year 2000 partly due to climate change. Nearly 1.5 billion people, making up 19% of the world’s population, are exposed to substantial risks from severe flood events. Upgrading early warning systems to make accurate and timely information accessible to these populations can save thousands of lives per year. \n\n\n\nDriven by the potential impact of reliable flood forecasting on people’s lives globally, we started our flood forecasting effort in 2017. Through this multi-year journey, we advanced…",
