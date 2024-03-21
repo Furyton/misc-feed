@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-21T13:18:15.298Z</updated>
+    <updated>2024-03-21T14:14:32.976Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Maximum Fisherhood]]></title>
+        <id>https://www.argmin.net/p/maximum-fisherhood</id>
+        <link href="https://www.argmin.net/p/maximum-fisherhood"/>
+        <updated>2024-03-21T14:01:56.000Z</updated>
+        <summary type="html"><![CDATA[Ronald Fisher's shapeshifting conceptions of probability.]]></summary>
+        <author>
+            <name>Ben Recht</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Maximum Fisherhood]]></title>
+        <id>https://www.argmin.net/p/maximum-fisherhood</id>
+        <link href="https://www.argmin.net/p/maximum-fisherhood"/>
+        <updated>2024-03-21T14:01:56.000Z</updated>
+        <summary type="html"><![CDATA[Ronald Fisher's shapeshifting conceptions of probability.]]></summary>
+        <author>
+            <name>Ben Recht</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Modeling Extremely Large Images with xT]]></title>
         <id>http://localhost:4000/blog/2024/03/21/xt/</id>
@@ -1682,26 +1702,6 @@ Gboard features powe…]]></summary>
         <summary type="html"><![CDATA[这篇文章分享一下笔者关于多模态模型架构的一些闭门造车的想法，或者说一些猜测。最近Google的Gemini 1.5和OpenAI的Sora再次点燃了不少人对多模态的热情，只言片语的技术报告也引起...]]></summary>
         <author>
             <name>苏剑林</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Jumbled pinyin]]></title>
-        <id>https://languagelog.ldc.upenn.edu/nll/?p=62565</id>
-        <link href="https://languagelog.ldc.upenn.edu/nll/?p=62565&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=jumbled-pinyin"/>
-        <updated>2024-02-21T02:06:03.000Z</updated>
-        <summary type="html"><![CDATA[I spotted this not-too-old post on Stephen Jones: a blog, "Interpreting pinyin" (10/9/17). Steve writes: Another irreverent exploration of the wonders of the Chinese language: At least until it caught on as an input method for texting, the pinyin system of transliteration was slow to catch on in China, at least in the countryside. I took this mystifying picture of […]]]></summary>
-        <author>
-            <name>Victor Mair</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[More AI humor]]></title>
-        <id>https://languagelog.ldc.upenn.edu/nll/?p=62557</id>
-        <link href="https://languagelog.ldc.upenn.edu/nll/?p=62557&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=more-ai-humor"/>
-        <updated>2024-02-21T01:51:49.000Z</updated>
-        <summary type="html"><![CDATA[Pearls Before Swine, Feb. 18, 2024:  Maybe AI has finally met its match / media. Can AI do humor / irony / satire / sarcasm? Selected readings "More AI shenanigans" (10/21/23) "ChatGPT has a sense of humor (sort of)" (6/10/23) "Don't joke the monkeys" (10/20/11) "Don't joke the monkeys" (10/20/11) "Chinese language jokes" (6/3/19) "Is irony universal?" (10/22/09) Xiang Li, "A Cross-Cultural Exploration of Situational […]]]></summary>
-        <author>
-            <name>Victor Mair</name>
         </author>
     </entry>
     <entry>
