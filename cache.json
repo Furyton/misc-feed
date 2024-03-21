@@ -1815,8 +1815,28 @@
     {
       "title": "The Berkeley Artificial Intelligence Research Blog",
       "feedUrl": "https://bair.berkeley.edu/blog/feed",
-      "siteUrl": "http://bair.berkeley.edu/blog/",
+      "siteUrl": "http://localhost:4000/blog/",
       "articles": [
+        {
+          "id": "http://localhost:4000/blog/2024/03/21/xt/",
+          "author": null,
+          "description": "As computer vision researchers, we believe that every pixel can tell a story. However, there seems to be a writer’s block settling into the field when it comes to dealing with large images. Large images are no longer rare—the cameras we carry in our pockets and those orbiting our planet snap pictures so big and detailed that they stretch our current best models and hardware to their breaking points when handling them. Generally, we face a quadratic increase in memory usage as a function of image size.\nToday, we make one of two sub-optimal choices when handling large images: down-sampling or cropping. These two methods incur significant losses in the amount of information and context present in an image. We take another look at these approaches and introduce $x$T, a new framework to model l…",
+          "link": "http://localhost:4000/blog/2024/03/21/xt/",
+          "publishedOn": "2024-03-21T09:00:00.000Z",
+          "wordCount": null,
+          "title": "Modeling Extremely Large Images with xT",
+          "imageUrl": null
+        },
+        {
+          "id": "http://localhost:4000/blog/2024/03/11/grads-2024/",
+          "author": null,
+          "description": "Every year, the Berkeley Artificial Intelligence Research (BAIR) Lab graduates some of the most talented and innovative minds in artificial intelligence and machine learning. Our Ph.D. graduates have each expanded the frontiers of AI research and are now ready to embark on new adventures in academia, industry, and beyond.\nThese fantastic individuals bring with them a wealth of knowledge, fresh ideas, and a drive to continue contributing to the advancement of AI. Their work at BAIR, ranging from deep learning, robotics, and natural language processing to computer vision, security, and much more, has contributed significantly to their fields and has had transformative impacts on society.\nThis website is dedicated to showcasing our colleagues, making it easier for academic institutions, resea…",
+          "link": "http://localhost:4000/blog/2024/03/11/grads-2024/",
+          "publishedOn": "2024-03-11T09:00:00.000Z",
+          "wordCount": null,
+          "title": "2024 BAIR Graduate Directory",
+          "imageUrl": null
+        },
         {
           "id": "http://bair.berkeley.edu/blog/2024/03/11/grads-2024/",
           "author": null,

@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-21T06:19:20.074Z</updated>
+    <updated>2024-03-21T07:14:06.332Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Modeling Extremely Large Images with xT]]></title>
+        <id>http://localhost:4000/blog/2024/03/21/xt/</id>
+        <link href="http://localhost:4000/blog/2024/03/21/xt/"/>
+        <updated>2024-03-21T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[As computer vision researchers, we believe that every pixel can tell a story. However, there seems to be a writer’s block settling into the field when it comes to dealing with large images. Large images are no longer rare—the cameras we carry in our pockets and those orbiting our planet snap pictures so big and detailed that they stretch our current best models and hardware to their breaking points when handling them. Generally, we face a quadratic increase in memory usage as a function of image size.
+Today, we make one of two sub-optimal choices when handling large images: down-sampling or cropping. These two methods incur significant losses in the amount of information and context present in an image. We take another look at these approaches and introduce $x$T, a new framework to model l…]]></summary>
+        <author>
+            <name>The Berkeley Artificial Intelligence Research Blog</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Sino-Iranica and Sino-Arabica]]></title>
         <id>https://languagelog.ldc.upenn.edu/nll/?p=63130</id>
@@ -687,6 +698,18 @@ Recently, large language models (LLMs) have achieved outstanding performance acr
         <summary type="html"><![CDATA[A fun interview about acting, contact, accommodation, and identity: @max_balegde My favourite interview of all time. She was so sweet and she can talk however she wants!!!! Damsel is out now! @Netflix #milliebobbybrown ♬ original sound – Max_Balegde There's been quite a bit of media coverage of MBB's accent and the reaction to this interview. […]]]></summary>
         <author>
             <name>Mark Liberman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2024 BAIR Graduate Directory]]></title>
+        <id>http://localhost:4000/blog/2024/03/11/grads-2024/</id>
+        <link href="http://localhost:4000/blog/2024/03/11/grads-2024/"/>
+        <updated>2024-03-11T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Every year, the Berkeley Artificial Intelligence Research (BAIR) Lab graduates some of the most talented and innovative minds in artificial intelligence and machine learning. Our Ph.D. graduates have each expanded the frontiers of AI research and are now ready to embark on new adventures in academia, industry, and beyond.
+These fantastic individuals bring with them a wealth of knowledge, fresh ideas, and a drive to continue contributing to the advancement of AI. Their work at BAIR, ranging from deep learning, robotics, and natural language processing to computer vision, security, and much more, has contributed significantly to their fields and has had transformative impacts on society.
+This website is dedicated to showcasing our colleagues, making it easier for academic institutions, resea…]]></summary>
+        <author>
+            <name>The Berkeley Artificial Intelligence Research Blog</name>
         </author>
     </entry>
     <entry>
