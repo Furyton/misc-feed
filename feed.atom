@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-21T15:16:41.841Z</updated>
+    <updated>2024-03-21T16:20:53.214Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -56,6 +56,26 @@ Today, we make one of two sub-optimal choices when handling large images: down-s
         <summary type="html"><![CDATA[Coming soon. https://t.co/mHuBzXyGrx pic.twitter.com/V2dTUkbAWt — Jeffrey Kotyk (@JeffreyKotyk) March 20, 2024 New book from Brill: Sino-Iranian and Sino-Arabian Relations in Late AntiquityChina and the Parthians, Sasanians, and Arabs in the First MillenniumSeries:     Crossroads – History of Interactions across the Silk Routes, Volume: 8 Author: Jeffrey Kotyk What type of exchanges occurred between West and […]]]></summary>
         <author>
             <name>Victor Mair</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The wrong way to speed up your code with Numba]]></title>
+        <id>https://pythonspeed.com/articles/slow-numba/</id>
+        <link href="https://pythonspeed.com/articles/slow-numba/"/>
+        <updated>2024-03-21T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[If your NumPy-based code is too slow, you can sometimes use Numba to
+speed it up. Numba is a compiled language that uses the same syntax as
+Python, and it compiles at runtime, so it’s very easy to write. And
+because it re-implements a large part of the NumPy APIs, it can also
+easily be used with existing NumPy-based code.
+However, Numba’s NumPy support can be a trap: it can lead you to missing
+huge optimization opportunities by sticking to NumPy-style code. So in
+this article we’ll show an example of:
+The wrong way to use Numba, writing NumPy-style full array transforms.
+The right way to use Numba, namely for loops.
+Read more...]]></summary>
+        <author>
+            <name>Python⇒Speed</name>
         </author>
     </entry>
     <entry>

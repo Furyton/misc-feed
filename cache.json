@@ -1760,6 +1760,16 @@
       "siteUrl": "https://pythonspeed.com/atom.xml",
       "articles": [
         {
+          "id": "https://pythonspeed.com/articles/slow-numba/",
+          "author": null,
+          "description": "If your NumPy-based code is too slow, you can sometimes use Numba to\nspeed it up. Numba is a compiled language that uses the same syntax as\nPython, and it compiles at runtime, so it’s very easy to write. And\nbecause it re-implements a large part of the NumPy APIs, it can also\neasily be used with existing NumPy-based code.\nHowever, Numba’s NumPy support can be a trap: it can lead you to missing\nhuge optimization opportunities by sticking to NumPy-style code. So in\nthis article we’ll show an example of:\nThe wrong way to use Numba, writing NumPy-style full array transforms.\nThe right way to use Numba, namely for loops.\nRead more...",
+          "link": "https://pythonspeed.com/articles/slow-numba/",
+          "publishedOn": "2024-03-21T00:00:00.000Z",
+          "wordCount": null,
+          "title": "The wrong way to speed up your code with Numba",
+          "imageUrl": null
+        },
+        {
           "id": "https://pythonspeed.com/articles/software-jevons-paradox/",
           "author": null,
           "description": "When it comes to fighting climate change, I strongly believe that getting involved in politics is one of the most useful things you can do.\nBut given how energy-intensive software is these days, writing more efficient software also seems worth doing, especially if your software is used at scale.\nHowever, whenever efficiency is brought up, Jevons Paradox rears its head.\nWriting in the 19th century, Jevons pointed out that increased efficiency in the use of coal didn’t decrease the amount of coal used, it actually increased it.\nAs it became more cost-effective and more useful, coal ended up being used in far more places.\nSo what about software: will faster software result in more usage, completely undoing the energy-consumption benefits of efficiency?\nRead more...",
