@@ -1831,8 +1831,18 @@
     {
       "title": "The Berkeley Artificial Intelligence Research Blog",
       "feedUrl": "https://bair.berkeley.edu/blog/feed",
-      "siteUrl": "http://localhost:4000/blog/",
+      "siteUrl": "http://bair.berkeley.edu/blog/",
       "articles": [
+        {
+          "id": "http://bair.berkeley.edu/blog/2024/03/21/xt/",
+          "author": null,
+          "description": "As computer vision researchers, we believe that every pixel can tell a story. However, there seems to be a writer’s block settling into the field when it comes to dealing with large images. Large images are no longer rare—the cameras we carry in our pockets and those orbiting our planet snap pictures so big and detailed that they stretch our current best models and hardware to their breaking points when handling them. Generally, we face a quadratic increase in memory usage as a function of image size.\nToday, we make one of two sub-optimal choices when handling large images: down-sampling or cropping. These two methods incur significant losses in the amount of information and context present in an image. We take another look at these approaches and introduce $x$T, a new framework to model l…",
+          "link": "http://bair.berkeley.edu/blog/2024/03/21/xt/",
+          "publishedOn": "2024-03-21T09:00:00.000Z",
+          "wordCount": null,
+          "title": "Modeling Extremely Large Images with xT",
+          "imageUrl": null
+        },
         {
           "id": "http://localhost:4000/blog/2024/03/21/xt/",
           "author": null,
