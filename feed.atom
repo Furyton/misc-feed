@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-22T07:14:46.615Z</updated>
+    <updated>2024-03-22T08:19:12.834Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -1716,31 +1716,6 @@ Read more...]]></summary>
         <summary type="html"><![CDATA[ICYMI — Maxwell Zeff, "ChatGPT Went Berserk, Giving Nonsensical Responses All Night", Gizmodo 2/21024: ChatGPT started throwing out “unexpected responses” on Tuesday night according to OpenAI’s status page. Users posted screenshots of their ChatGPT conversations full of wild, nonsensical answers from the AI chatbot. chatgpt is apparently going off the rails right now and no […]]]></summary>
         <author>
             <name>Mark Liberman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Advances in private training for production on-device language models]]></title>
-        <id>http://blog.research.google/2024/02/advances-in-private-training-for.html</id>
-        <link href="http://blog.research.google/2024/02/advances-in-private-training-for.html"/>
-        <updated>2024-02-21T20:15:00.000Z</updated>
-        <summary type="html"><![CDATA[Posted by Zheng Xu, Research Scientist, and Yanxiang Zhang, Software Engineer, Google
-
-
-
-
-Language models (LMs) trained to predict the next word given input text are the key technology for many applications [1, 2]. In Gboard, LMs are used to improve users’ typing experience by supporting features like next word prediction (NWP), Smart Compose, smart completion and suggestion, slide to type, and proofread. Deploying models on users’ devices rather than enterprise servers has advantages like lower latency and better privacy for model usage. While training on-device models directly from user data effectively improves the utility performance for applications such as NWP and smart text selection, protecting the privacy of user data for model training is important. 
-
-
-
-
-
-
-
-
-
-Gboard features powe…]]></summary>
-        <author>
-            <name>Google AI Blog</name>
         </author>
     </entry>
     <entry>
