@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-22T04:17:53.348Z</updated>
+    <updated>2024-03-22T05:16:45.439Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -13,6 +13,26 @@
         <updated>2024-03-22T14:00:00.000Z</updated>
         <author>
             <name>Harvard ML Foundations</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How AI affects the environment:  electricity]]></title>
+        <id>https://languagelog.ldc.upenn.edu/nll/?p=63133</id>
+        <link href="https://languagelog.ldc.upenn.edu/nll/?p=63133&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=how-ai-affects-the-environment-electricity"/>
+        <updated>2024-03-22T05:05:37.000Z</updated>
+        <summary type="html"><![CDATA["The complex environmental toll of Artificial Intelligence:AI is very much mostly not green technology"Devika Rao, The Week US (21 March 2024) I do not mean to be an alarmist or a negativist, but this is something that people are talking / concerned about, so we should take a look at it too. Artificial intelligence (AI) technology […]]]></summary>
+        <author>
+            <name>Victor Mair</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI-assisted substitute vocal cords]]></title>
+        <id>https://languagelog.ldc.upenn.edu/nll/?p=63127</id>
+        <link href="https://languagelog.ldc.upenn.edu/nll/?p=63127&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=ai-assisted-substitute-vocal-cords"/>
+        <updated>2024-03-22T04:58:23.000Z</updated>
+        <summary type="html"><![CDATA[This is what the device looks like and how it is made: Jun Chen Lab/UCLA The two components — and five layers — of the device allow it to turn muscle movement into electrical signals which, with the help of machine learning, are ultimately converted into speech signals and audible vocal expression. "Speaking without vocal […]]]></summary>
+        <author>
+            <name>Victor Mair</name>
         </author>
     </entry>
     <entry>
