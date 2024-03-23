@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-23T07:15:06.674Z</updated>
+    <updated>2024-03-23T08:16:50.870Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -1678,25 +1678,6 @@ Read more...]]></summary>
         <summary type="html"><![CDATA[Here are the 2023 awards [connected to my read smd to-read lists]. As the votes were made by participants to the 2023 Chengdu Worldcon, Chengdu, China, censorship later came to light, regarding authors critical of the Chinese government, like Kuang, Zhao, and Gaiman, who did not make it to the shortlist… Best Novel Nettle & […]]]></summary>
         <author>
             <name>xi'an</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[VideoPrism: A foundational visual encoder for video understanding]]></title>
-        <id>http://blog.research.google/2024/02/videoprism-foundational-visual-encoder.html</id>
-        <link href="http://blog.research.google/2024/02/videoprism-foundational-visual-encoder.html"/>
-        <updated>2024-02-22T20:05:00.000Z</updated>
-        <summary type="html"><![CDATA[Posted by Long Zhao, Senior Research Scientist, and Ting Liu, Senior Staff Software Engineer, Google Research
-
-
-
-
-An astounding number of videos are available on the Web, covering a variety of content from everyday moments people share to historical moments to scientific observations, each of which contains a unique record of the world. The right tools could help researchers analyze these videos, transforming how we understand the world around us.
-
- 
-
-Videos offer dynamic visual content far more rich than static images, capturing movement, changes, and dynamic relationships between entities. Analyzing this complexity, along with the immense diversity of publicly available video data, demands models that go beyond traditional image understanding. Consequently, many of the approaches that be…]]></summary>
-        <author>
-            <name>Google AI Blog</name>
         </author>
     </entry>
     <entry>
