@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-25T11:13:49.816Z</updated>
+    <updated>2024-03-25T12:27:18.552Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -1648,16 +1648,6 @@ Read more...]]></summary>
         <summary type="html"><![CDATA[Let's start with the last four panels of today's Doonesbury: Then today's Tank McNamara: And we'll close with @ellecordova on Inventions Hanging Out:]]></summary>
         <author>
             <name>Mark Liberman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[merely fiddlin]]></title>
-        <id>http://xianblog.wordpress.com/?p=55176</id>
-        <link href="https://xianblog.wordpress.com/2024/02/25/merely-fiddlin/"/>
-        <updated>2024-02-24T23:24:41.000Z</updated>
-        <summary type="html"><![CDATA[For any positive, base-10 integer N, define f(N) as the number of times you have to add up its digits until you get a one-digit number. Find the smallest whole number N such that f(N) = 4. Fiddler on the Proof Although I first gave in to the R brute force attempt, it failed to […]]]></summary>
-        <author>
-            <name>xi'an</name>
         </author>
     </entry>
     <entry>
