@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-24T23:17:15.114Z</updated>
+    <updated>2024-03-25T01:06:25.451Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[All about that Bayes seminar [27 March, Paris Dauphine]]]></title>
+        <id>http://xianblog.wordpress.com/?p=55640</id>
+        <link href="https://xianblog.wordpress.com/2024/03/25/all-about-that-bayes-seminar-27-march-paris-dauphine/"/>
+        <updated>2024-03-24T23:24:42.000Z</updated>
+        <summary type="html"><![CDATA[The next All about that Bayes seminar will take place in Paris Dauphine, next Wednesday 27 March, at 2:00 p.m. (Room B Bis, 3rd floor) and will be delivered by François Caron (Oxford, visiting Paris Dauphine over the next two weeks) on Deep Neural Networks with Dependent Weights: Gaussian Process Mixture Limit, Heavy Tails, Sparsity […]]]></summary>
+        <author>
+            <name>xi'an</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA["Gentle onsets" are everywhere]]></title>
         <id>https://languagelog.ldc.upenn.edu/nll/?p=63181</id>
@@ -1648,16 +1658,6 @@ Read more...]]></summary>
         <summary type="html"><![CDATA[Vacillating Chinese terminology for think tanks Mark Metcalf wrote to tell me: Global Times*just ran an article that might be of interest regarding PRC think tanks and a new book related to this topic: “Researchers, scholars explore methods to boost China’s influence of thoughts”. *an appendage of People's Daily I was caught up short by […]]]></summary>
         <author>
             <name>Victor Mair</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Legally binding hallucinations]]></title>
-        <id>https://languagelog.ldc.upenn.edu/nll/?p=62661</id>
-        <link href="https://languagelog.ldc.upenn.edu/nll/?p=62661&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=legally-binding-hallucinations"/>
-        <updated>2024-02-24T12:57:47.000Z</updated>
-        <summary type="html"><![CDATA[I missed this story when it happened 10 days ago, and caught up with it yesterday because the BBC also got the word — Maria Yagoda, "Airline held liable for its chatbot giving passenger bad advice – what this means for travellers", BBC 2/23/2024: In 2022, Air Canada's chatbot promised a discount that wasn't available […]]]></summary>
-        <author>
-            <name>Mark Liberman</name>
         </author>
     </entry>
     <entry>
