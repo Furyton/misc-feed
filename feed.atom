@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-27T11:12:31.777Z</updated>
+    <updated>2024-03-27T12:28:00.274Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -1622,32 +1622,6 @@ This year, Google has a strong presence at APS with a booth hosted by the Google
         <summary type="html"><![CDATA[LoRA（Low-Rank Adaptation）是当前LLM的参数高效微调手段之一，此前我们在《梯度视角下的LoRA：简介、分析、猜测及推广》也有过简单讨论。这篇文章我们来学习LoRA的一个新...]]></summary>
         <author>
             <name>苏剑林</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Jevons Paradox doesn't always apply to software]]></title>
-        <id>https://pythonspeed.com/articles/software-jevons-paradox/</id>
-        <link href="https://pythonspeed.com/articles/software-jevons-paradox/"/>
-        <updated>2024-02-27T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[When it comes to fighting climate change, I strongly believe that getting involved in politics is one of the most useful things you can do.
-But given how energy-intensive software is these days, writing more efficient software also seems worth doing, especially if your software is used at scale.
-However, whenever efficiency is brought up, Jevons Paradox rears its head.
-Writing in the 19th century, Jevons pointed out that increased efficiency in the use of coal didn’t decrease the amount of coal used, it actually increased it.
-As it became more cost-effective and more useful, coal ended up being used in far more places.
-So what about software: will faster software result in more usage, completely undoing the energy-consumption benefits of efficiency?
-Read more...]]></summary>
-        <author>
-            <name>Python⇒Speed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[mostly M[ar]C[h]]]></title>
-        <id>http://xianblog.wordpress.com/?p=55368</id>
-        <link href="https://xianblog.wordpress.com/2024/02/27/mostly-march/"/>
-        <updated>2024-02-26T23:24:14.000Z</updated>
-        <summary type="html"><![CDATA[Visit the post for more.]]></summary>
-        <author>
-            <name>xi'an</name>
         </author>
     </entry>
     <entry>
