@@ -2508,6 +2508,16 @@
       "siteUrl": "http://blog.research.google/",
       "articles": [
         {
+          "id": "http://blog.research.google/2024/03/autobnn-probabilistic-time-series.html",
+          "author": null,
+          "description": "Posted by Urs Köster, Software Engineer, Google Research\n\n\n\n\nTime series problems are ubiquitous, from forecasting weather and traffic patterns to understanding economic trends. Bayesian approaches start with an assumption about the data's patterns (prior probability), collecting evidence (e.g., new time series data), and continuously updating that assumption to form a posterior probability distribution. Traditional Bayesian approaches like Gaussian processes (GPs) and Structural Time Series are extensively used for modeling time series data, e.g., the commonly used Mauna Loa CO2 dataset. However, they often rely on domain experts to painstakingly select appropriate model components and may be computationally expensive. Alternatives such as neural networks lack interpretability, making it …",
+          "link": "http://blog.research.google/2024/03/autobnn-probabilistic-time-series.html",
+          "publishedOn": "2024-03-28T20:53:00.000Z",
+          "wordCount": 27868,
+          "title": "AutoBNN: Probabilistic time series forecasting with compositional bayesian neural networks",
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgd5Wc54p1HvgIokpazxDsMo1u6i9wg3ovpNOiFc4-wYwebETvjs9-hm2wxZ4osNbBAxhet8To3hwGg-whFScksHQB_BP1kS4Z8Cu7FQT2bjVtJl4trPid-OxCyYocwyRTN66tuvAedu9z0FepBg4zZvmLbLxY6uuib8p5jVH2kfb3RxT_HMABsKMXuSFXr/w1200-h630-p-k-no-nu/AutoBNN.jpg"
+        },
+        {
           "id": "http://blog.research.google/2024/03/computer-aided-diagnosis-for-lung.html",
           "author": null,
           "description": "Posted by Atilla Kiraly, Software Engineer, and Rory Pilgrim, Product Manager, Google Research \n\n\n\n\n\nLung cancer is the leading cause of cancer-related deaths globally with 1.8 million deaths reported in 2020. Late diagnosis dramatically reduces the chances of survival. Lung cancer screening via computed tomography (CT), which provides a detailed 3D image of the lungs, has been shown to reduce mortality in high-risk populations by at least 20% by detecting potential signs of cancers earlier. In the US, screening involves annual scans, with some countries or cases recommending more or less frequent scans. \n\n\n\nThe United States Preventive Services Task Force recently expanded lung cancer screening recommendations by roughly 80%, which is expected to increase screening access for women and ra…",
