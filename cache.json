@@ -1363,16 +1363,6 @@
           "wordCount": 6888,
           "title": "Updates and Plans IV",
           "imageUrl": "https://gilkalai.files.wordpress.com/2022/02/red-flowers.jpg"
-        },
-        {
-          "id": "http://gilkalai.wordpress.com/?p=25655",
-          "author": "Gil Kalai",
-          "description": "In the picture (compare it to this picture in this  post) you can see David DiVincenzo’s famous 7-steps road map (from 2000) to quantum computers, with one additional step “quantum supremacy on NISQ computers” that has proposed around 2010. Step … Continue reading →",
-          "link": "https://gilkalai.wordpress.com/2024/02/27/three-remarkable-quantum-events-at-the-simons-institute-for-the-theory-of-computing-in-berkeley/",
-          "publishedOn": "2024-02-27T12:56:18.000Z",
-          "wordCount": 5155,
-          "title": "Three Remarkable Quantum Events at the Simons Institute for the Theory of Computing in Berkeley",
-          "imageUrl": "https://gilkalai.files.wordpress.com/2024/02/simons.jpg"
         }
       ]
     },
@@ -2175,16 +2165,6 @@
           "wordCount": 6888,
           "title": "Updates and Plans IV",
           "imageUrl": "https://gilkalai.files.wordpress.com/2022/02/red-flowers.jpg"
-        },
-        {
-          "id": "http://gilkalai.wordpress.com/?p=25655",
-          "author": "Gil Kalai",
-          "description": "In the picture (compare it to this picture in this  post) you can see David DiVincenzo’s famous 7-steps road map (from 2000) to quantum computers, with one additional step “quantum supremacy on NISQ computers” that has proposed around 2010. Step … Continue reading →",
-          "link": "https://gilkalai.wordpress.com/2024/02/27/three-remarkable-quantum-events-at-the-simons-institute-for-the-theory-of-computing-in-berkeley/",
-          "publishedOn": "2024-02-27T12:56:18.000Z",
-          "wordCount": 5155,
-          "title": "Three Remarkable Quantum Events at the Simons Institute for the Theory of Computing in Berkeley",
-          "imageUrl": "https://gilkalai.files.wordpress.com/2024/02/simons.jpg"
         }
       ]
     },
@@ -2199,6 +2179,26 @@
       "feedUrl": "https://xianblog.wordpress.com/feed/",
       "siteUrl": "https://xianblog.wordpress.com",
       "articles": [
+        {
+          "id": "http://xianblog.wordpress.com/?p=55502",
+          "author": "xi'an",
+          "description": "A few weeks ago I gave a seminar on ABC (and its asymptotics) in the beautiful amphitheatre Marguerite de Navarre (a writer, a thinker, and a protector of writers like Rabelais and of reformist catholics, as well as th sister of the Collège founder, François I) of Collège de France, as complement of the lecture of […]",
+          "link": "https://xianblog.wordpress.com/2024/03/28/lecturing-in-college/",
+          "publishedOn": "2024-03-27T23:24:10.000Z",
+          "wordCount": 2542,
+          "title": "lecturing in Collège",
+          "imageUrl": "http://img.youtube.com/vi/cnFyHtept-0/0.jpg"
+        },
+        {
+          "id": "http://xianblog.wordpress.com/?p=55427",
+          "author": "xi'an",
+          "description": "“In recent years, the Rejection Monte Carlo (RMC) algorithm has emerged sporadically in literature under alternative names such as screening sampling or reject-accept sampling algorithms” First, I was intrigued enough by a new arXival spotted in the Thalys train from Brussels to take a deeper look at it, but soon realised there was nothing of […]",
+          "link": "https://xianblog.wordpress.com/2024/03/28/very-simple-rejection-monte-carlo/",
+          "publishedOn": "2024-03-27T23:24:03.000Z",
+          "wordCount": 2596,
+          "title": "[very] simple rejection Monte Carlo",
+          "imageUrl": "https://xianblog.files.wordpress.com/2024/03/ar_uni.jpg"
+        },
         {
           "id": "http://xianblog.wordpress.com/?p=54813",
           "author": "xi'an",

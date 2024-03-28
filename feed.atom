@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-27T23:14:28.975Z</updated>
+    <updated>2024-03-28T01:04:45.726Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[lecturing in Collège]]></title>
+        <id>http://xianblog.wordpress.com/?p=55502</id>
+        <link href="https://xianblog.wordpress.com/2024/03/28/lecturing-in-college/"/>
+        <updated>2024-03-27T23:24:10.000Z</updated>
+        <summary type="html"><![CDATA[A few weeks ago I gave a seminar on ABC (and its asymptotics) in the beautiful amphitheatre Marguerite de Navarre (a writer, a thinker, and a protector of writers like Rabelais and of reformist catholics, as well as th sister of the Collège founder, François I) of Collège de France, as complement of the lecture of […]]]></summary>
+        <author>
+            <name>xi'an</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[very] simple rejection Monte Carlo]]></title>
+        <id>http://xianblog.wordpress.com/?p=55427</id>
+        <link href="https://xianblog.wordpress.com/2024/03/28/very-simple-rejection-monte-carlo/"/>
+        <updated>2024-03-27T23:24:03.000Z</updated>
+        <summary type="html"><![CDATA[“In recent years, the Rejection Monte Carlo (RMC) algorithm has emerged sporadically in literature under alternative names such as screening sampling or reject-accept sampling algorithms” First, I was intrigued enough by a new arXival spotted in the Thalys train from Brussels to take a deeper look at it, but soon realised there was nothing of […]]]></summary>
+        <author>
+            <name>xi'an</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Codices of Tetepilco]]></title>
         <id>https://languagelog.ldc.upenn.edu/nll/?p=63221</id>
@@ -1602,26 +1622,6 @@ This year, Google has a strong presence at APS with a booth hosted by the Google
         <summary type="html"><![CDATA[I wanted to take a moment to surface some of the great feedback I’ve received on the current blog series. Though I’ve avoided writing too many equations, I’ve gotten in some academic weeds, and folks are sending me fascinating connections to other work I haven’t discussed yet. Let me pause regularly scheduled programming and share a few of these.]]></summary>
         <author>
             <name>Ben Recht</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Three Remarkable Quantum Events at the Simons Institute for the Theory of Computing in Berkeley]]></title>
-        <id>http://gilkalai.wordpress.com/?p=25655</id>
-        <link href="https://gilkalai.wordpress.com/2024/02/27/three-remarkable-quantum-events-at-the-simons-institute-for-the-theory-of-computing-in-berkeley/"/>
-        <updated>2024-02-27T12:56:18.000Z</updated>
-        <summary type="html"><![CDATA[In the picture (compare it to this picture in this  post) you can see David DiVincenzo’s famous 7-steps road map (from 2000) to quantum computers, with one additional step “quantum supremacy on NISQ computers” that has proposed around 2010. Step … Continue reading →]]></summary>
-        <author>
-            <name>Gil Kalai</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Three Remarkable Quantum Events at the Simons Institute for the Theory of Computing in Berkeley]]></title>
-        <id>http://gilkalai.wordpress.com/?p=25655</id>
-        <link href="https://gilkalai.wordpress.com/2024/02/27/three-remarkable-quantum-events-at-the-simons-institute-for-the-theory-of-computing-in-berkeley/"/>
-        <updated>2024-02-27T12:56:18.000Z</updated>
-        <summary type="html"><![CDATA[In the picture (compare it to this picture in this  post) you can see David DiVincenzo’s famous 7-steps road map (from 2000) to quantum computers, with one additional step “quantum supremacy on NISQ computers” that has proposed around 2010. Step … Continue reading →]]></summary>
-        <author>
-            <name>Gil Kalai</name>
         </author>
     </entry>
     <entry>
