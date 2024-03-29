@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-29T11:14:15.778Z</updated>
+    <updated>2024-03-29T12:28:11.382Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Transformer升级之路：17、多模态编码位置的简单思考]]></title>
+        <id>https://kexue.fm/archives/10040</id>
+        <link href="https://kexue.fm/archives/10040"/>
+        <updated>2024-03-29T12:04:00.000Z</updated>
+        <summary type="html"><![CDATA[在这个系列的第二篇文章《Transformer升级之路：2、博采众长的旋转式位置编码》中，笔者提出了旋转位置编码（RoPE）——通过绝对位置的形式实现相对位置编码的方案。一开始RoPE是针对一维...]]></summary>
+        <author>
+            <name>苏剑林</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[STOC/Theory fest 2024]]></title>
         <id>http://windowsontheory.org/?p=8769</id>
@@ -1647,16 +1657,6 @@ This year, Google has a strong presence at APS with a booth hosted by the Google
         <summary type="html"><![CDATA[EMO, by Linrui Tian, Qi Wang, Bang Zhang, and Liefeng Bo from Alibaba's Institute for Intelligent Computing, is "an expressive audio-driven portrait-video generation framework. Input a single reference image and the vocal audio, e.g. talking and singing, our method can generate vocal avatar videos with expressive facial expressions, and various head poses". As far as […]]]></summary>
         <author>
             <name>Mark Liberman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[telescope on evidence for graphical models]]></title>
-        <id>http://xianblog.wordpress.com/?p=55210</id>
-        <link href="https://xianblog.wordpress.com/2024/02/29/telescope-on-evidence-for-graphical-models/"/>
-        <updated>2024-02-28T23:24:29.000Z</updated>
-        <summary type="html"><![CDATA[A recent paper on evidence by Anindya Bhadra, Ksheera Sagar, Sayantan Banerjee (whom I met during Rito’s seminar, since he was also visiting Ismael in Paris, and who mentioned this work), and Jyotishka Datta, on computing the evidence for graphical models. Obtaining an approximation of the evidence attached with a model and a prior on […]]]></summary>
-        <author>
-            <name>xi'an</name>
         </author>
     </entry>
     <entry>

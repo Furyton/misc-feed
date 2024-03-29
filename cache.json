@@ -1401,6 +1401,16 @@
       "siteUrl": "https://kexue.fm/",
       "articles": [
         {
+          "id": "https://kexue.fm/archives/10040",
+          "author": "苏剑林",
+          "description": "在这个系列的第二篇文章《Transformer升级之路：2、博采众长的旋转式位置编码》中，笔者提出了旋转位置编码（RoPE）——通过绝对位置的形式实现相对位置编码的方案。一开始RoPE是针对一维...",
+          "link": "https://kexue.fm/archives/10040",
+          "publishedOn": "2024-03-29T12:04:00.000Z",
+          "wordCount": 1841,
+          "title": "Transformer升级之路：17、多模态编码位置的简单思考",
+          "imageUrl": null
+        },
+        {
           "id": "https://kexue.fm/archives/10017",
           "author": "苏剑林",
           "description": "近年来，RNN由于其线性的训练和推理效率，重新吸引了不少研究人员和用户的兴趣，隐约有“文艺复兴”之势，其代表作有RWKV、RetNet、Mamba等。当将RNN用于语言模型时，其典型特点就是每步...",
@@ -2498,16 +2508,6 @@
           "wordCount": 2723,
           "title": "and it only gets worse [the return?!]",
           "imageUrl": "https://xianblog.files.wordpress.com/2019/06/trumpcliffed-e1560450069103.jpg?w=450"
-        },
-        {
-          "id": "http://xianblog.wordpress.com/?p=55210",
-          "author": "xi'an",
-          "description": "A recent paper on evidence by Anindya Bhadra, Ksheera Sagar, Sayantan Banerjee (whom I met during Rito’s seminar, since he was also visiting Ismael in Paris, and who mentioned this work), and Jyotishka Datta, on computing the evidence for graphical models. Obtaining an approximation of the evidence attached with a model and a prior on […]",
-          "link": "https://xianblog.wordpress.com/2024/02/29/telescope-on-evidence-for-graphical-models/",
-          "publishedOn": "2024-02-28T23:24:29.000Z",
-          "wordCount": 2709,
-          "title": "telescope on evidence for graphical models",
-          "imageUrl": "https://xianblog.files.wordpress.com/2024/02/temp-3.png"
         }
       ]
     },
