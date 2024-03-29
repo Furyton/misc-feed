@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-29T10:16:18.749Z</updated>
+    <updated>2024-03-29T11:14:15.778Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -24,6 +24,16 @@
         <summary type="html"><![CDATA[STOC/TheoryFest 2024 is in Vancouver, British Columbia this year, during the week of June 24-28. The registration website is now open at http://acm-stoc.org/stoc2024/registration.html In addition to the STOC 2024 paper talks, the program features keynote talks by Michal Feldman, Jakub Pachocki, and Tim Roughgarden, and workshops on Algorithmic Problems in Modern LLMs, Extremal Combinatorics, Length-Constrained Expanders, Online … Continue reading STOC/Theory fest 2024]]></summary>
         <author>
             <name>Boaz Barak</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[very] simple rejection Monte Carlo]]></title>
+        <id>http://xianblog.wordpress.com/?p=55427</id>
+        <link href="https://xianblog.wordpress.com/2024/03/29/very-simple-rejection-monte-carlo/"/>
+        <updated>2024-03-28T23:24:03.000Z</updated>
+        <summary type="html"><![CDATA[“In recent years, the Rejection Monte Carlo (RMC) algorithm has emerged sporadically in literature under alternative names such as screening sampling or reject-accept sampling algorithms” First, I was intrigued enough by a new arXival spotted in the Thalys train from Brussels to take a deeper look at it, but soon realised there was nothing of […]]]></summary>
+        <author>
+            <name>xi'an</name>
         </author>
     </entry>
     <entry>
