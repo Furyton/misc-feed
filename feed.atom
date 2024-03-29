@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-29T02:20:39.542Z</updated>
+    <updated>2024-03-29T03:15:46.613Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[STOC/Theory fest 2024]]></title>
+        <id>http://windowsontheory.org/?p=8769</id>
+        <link href="https://windowsontheory.org/2024/03/28/stoc-theory-fest-2024/"/>
+        <updated>2024-03-29T02:26:36.000Z</updated>
+        <summary type="html"><![CDATA[STOC/TheoryFest 2024 is in Vancouver, British Columbia this year, during the week of June 24-28. The registration website is now open at http://acm-stoc.org/stoc2024/registration.html In addition to the STOC 2024 paper talks, the program features keynote talks by Michal Feldman, Jakub Pachocki, and Tim Roughgarden, and workshops on Algorithmic Problems in Modern LLMs, Extremal Combinatorics, Length-Constrained Expanders, Online … Continue reading STOC/Theory fest 2024]]></summary>
+        <author>
+            <name>Boaz Barak</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[STOC/Theory fest 2024]]></title>
+        <id>http://windowsontheory.org/?p=8769</id>
+        <link href="https://windowsontheory.org/2024/03/28/stoc-theory-fest-2024/"/>
+        <updated>2024-03-29T02:26:36.000Z</updated>
+        <summary type="html"><![CDATA[STOC/TheoryFest 2024 is in Vancouver, British Columbia this year, during the week of June 24-28. The registration website is now open at http://acm-stoc.org/stoc2024/registration.html In addition to the STOC 2024 paper talks, the program features keynote talks by Michal Feldman, Jakub Pachocki, and Tim Roughgarden, and workshops on Algorithmic Problems in Modern LLMs, Extremal Combinatorics, Length-Constrained Expanders, Online … Continue reading STOC/Theory fest 2024]]></summary>
+        <author>
+            <name>Boaz Barak</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AutoBNN: Probabilistic time series forecasting with compositional bayesian neural networks]]></title>
         <id>http://blog.research.google/2024/03/autobnn-probabilistic-time-series.html</id>
