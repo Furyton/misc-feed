@@ -2190,6 +2190,16 @@
       "siteUrl": "https://xianblog.wordpress.com",
       "articles": [
         {
+          "id": "http://xianblog.wordpress.com/?p=55523",
+          "author": "xi'an",
+          "description": "Visit the post for more.",
+          "link": "https://xianblog.wordpress.com/2024/03/30/borderline-call-to-voters-registration/",
+          "publishedOn": "2024-03-29T23:24:58.000Z",
+          "wordCount": 2294,
+          "title": "borderline call to voters’ registration",
+          "imageUrl": "https://linsoumission.fr/wp-content/uploads/2024/02/photo_2024-02-01_19-14-28-e1707822036423-1536x864.jpg"
+        },
+        {
           "id": "http://xianblog.wordpress.com/?p=55427",
           "author": "xi'an",
           "description": "“In recent years, the Rejection Monte Carlo (RMC) algorithm has emerged sporadically in literature under alternative names such as screening sampling or reject-accept sampling algorithms” First, I was intrigued enough by a new arXival spotted in the Thalys train from Brussels to take a deeper look at it, but soon realised there was nothing of […]",
@@ -2702,6 +2712,16 @@
       "feedUrl": "https://languagelog.ldc.upenn.edu/nll/?feed=rss2",
       "siteUrl": "https://languagelog.ldc.upenn.edu/nll",
       "articles": [
+        {
+          "id": "https://languagelog.ldc.upenn.edu/nll/?p=63247",
+          "author": "Victor Mair",
+          "description": "The Archaeology of Ancient Southwest Asia: Investigating the Human Past in the Vedi River Valley of Armenia Professor Peter CobbSchool of HumanitiesThe University of Hong Kong Date and Time: April 9, 2024 | 12:30-1:30 pm (HKT) / April 8, 2024 | 9:30-10:30 pm (PDT)Venue: Lecture Hall at May Hall, HKU Join us in person at […]",
+          "link": "https://languagelog.ldc.upenn.edu/nll/?p=63247&utm_source=rss&utm_medium=rss&utm_campaign=bronze-writing-and-communication-in-the-ancient-caucasus",
+          "publishedOn": "2024-03-30T00:06:50.000Z",
+          "wordCount": 2669,
+          "title": "Bronze, writing, and communication in the ancient Caucasus",
+          "imageUrl": null
+        },
         {
           "id": "https://languagelog.ldc.upenn.edu/nll/?p=63249",
           "author": "Mark Liberman",
@@ -3225,21 +3245,6 @@
           "publishedOn": "2024-02-29T22:18:39.000Z",
           "wordCount": 2447,
           "title": "\"Who's for POONSH?\"",
-          "imageUrl": null
-        },
-        {
-          "id": "https://languagelog.ldc.upenn.edu/nll/?p=62710",
-          "author": "Mark Liberman",
-          "description": "EMO, by Linrui Tian, Qi Wang, Bang Zhang, and Liefeng Bo from Alibaba's Institute for Intelligent Computing, is \"an expressive audio-driven portrait-video generation framework. Input a single reference image and the vocal audio, e.g. talking and singing, our method can generate vocal avatar videos with expressive facial expressions, and various head poses\". As far as […]",
-          "link": "https://languagelog.ldc.upenn.edu/nll/?p=62710&utm_source=rss&utm_medium=rss&utm_campaign=emote-portrait-alive",
-          "publishedOn": "2024-02-29T11:40:02.000Z",
-          "wordCount": 2525,
-          "title": "\"Emote Portrait Alive\"",
-          "enclosure": {
-            "url": "http://languagelog.ldc.upenn.edu/myl/AlibabaSong1.mp4",
-            "length": "7210849",
-            "type": "video/mp4"
-          },
           "imageUrl": null
         }
       ]
