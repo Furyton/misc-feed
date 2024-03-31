@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-30T23:13:48.983Z</updated>
+    <updated>2024-03-31T01:11:02.300Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[When "irrelevant" is not "not relevant"]]></title>
+        <id>https://languagelog.ldc.upenn.edu/nll/?p=63268</id>
+        <link href="https://languagelog.ldc.upenn.edu/nll/?p=63268&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=when-irrelevant-is-not-not-relevant"/>
+        <updated>2024-03-31T00:14:14.000Z</updated>
+        <summary type="html"><![CDATA[Evan Boehs, "Everything I Know About the Xz Backdoor", 3/29/2024: In April 2022, Jia Tan submits a patch via a mailing list. The patch is irrelevant, but the events that follow are. [h/t Jonathan Lundell] If you're not already aware, you can learn about the xz backdoor on reddit or on OpenSSF — from the […]]]></summary>
+        <author>
+            <name>Mark Liberman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bayes and the Fiddler]]></title>
+        <id>http://xianblog.wordpress.com/?p=55169</id>
+        <link href="https://xianblog.wordpress.com/2024/03/31/bayes-and-the-fiddler/"/>
+        <updated>2024-03-30T23:24:45.000Z</updated>
+        <summary type="html"><![CDATA[An ex se intellegitur from The Fiddler You are given an urn containing 100 balls. N of them are red, and 100−N green, where N is chosen uniformly at random between 0 and 100 (inclusive). You take a random ball out of the urn—it just so happens to be red—and discard it. Is the next […]]]></summary>
+        <author>
+            <name>xi'an</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Plans and Updates: Complementary Pictures]]></title>
         <id>http://gilkalai.wordpress.com/?p=25948</id>
