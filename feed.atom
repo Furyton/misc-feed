@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-01T11:14:16.089Z</updated>
+    <updated>2024-04-01T12:29:56.038Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Don't keep apologizing for your poor L2]]></title>
+        <id>https://languagelog.ldc.upenn.edu/nll/?p=63277</id>
+        <link href="https://languagelog.ldc.upenn.edu/nll/?p=63277&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=dont-keep-apologizing-for-your-poor-l2"/>
+        <updated>2024-04-01T12:22:17.000Z</updated>
+        <summary type="html"><![CDATA[Ying Reinhardt wisely advises us in this delightful article: "I stopped apologising for my poor German, and something wonderful happened: After a decade in Germany, I was still anxious talking to native speakers – then I realised my language skills weren’t the problem" The Guardian (4/1/24 What Ying Reinhardt says about German as a second […]]]></summary>
+        <author>
+            <name>Victor Mair</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Everything's Fine]]></title>
+        <id>https://languagelog.ldc.upenn.edu/nll/?p=63279</id>
+        <link href="https://languagelog.ldc.upenn.edu/nll/?p=63279&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=everythings-fine"/>
+        <updated>2024-04-01T12:07:46.000Z</updated>
+        <summary type="html"><![CDATA[Eve Armstrong's latest — "Everything's Fine", arXiv.org 3/29/2024: I investigate the peculiar situation in which I find myself healthy and strong, with a darling family, stimulating job, top-notch dental plan, and living far from active war and wildfire zones — yet perpetually ill at ease and prone to sudden-onset exasperation when absolutely nothing has happened. […]]]></summary>
+        <author>
+            <name>Mark Liberman</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Sound over symbol (and meaning)]]></title>
         <id>https://languagelog.ldc.upenn.edu/nll/?p=63264</id>
@@ -1642,16 +1662,6 @@ This year, Google has a strong presence at APS with a booth hosted by the Google
         <summary type="html"><![CDATA[The same as Gideon, the legendary LetThemTalkTV presenter of this edifying video, as a child I too was deeply puzzled by how some of these famous American actors sounded so British. Learn the Transatlantic Accent | Half British, Half American 100% Wonderful Summary The Transatlantic or mid-Atlantic accent is half British half American. It was […]]]></summary>
         <author>
             <name>Victor Mair</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[insufficient Gibbs sampling bridges as well!]]></title>
-        <id>http://xianblog.wordpress.com/?p=55381</id>
-        <link href="https://xianblog.wordpress.com/2024/03/03/insufficient-gibbs-sampling-bridges-as-well/"/>
-        <updated>2024-03-02T23:24:28.000Z</updated>
-        <summary type="html"><![CDATA[Antoine Luciano, Robin Ryder and I posted a revised version of our insufficient Gibbs sampler on arXiv last week (along with three other revisions or new deposits of mine’s!), following comments and suggestions from referees. Thanks to this revision, we realised that the evidence based on an (insufficient) statistic was also available for approximation by […]]]></summary>
-        <author>
-            <name>xi'an</name>
         </author>
     </entry>
     <entry>
