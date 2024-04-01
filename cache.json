@@ -1578,6 +1578,22 @@
       "siteUrl": "https://www.argmin.net",
       "articles": [
         {
+          "id": "https://www.argmin.net/p/your-cunning-attempt-to-trick-me",
+          "author": "Ben Recht",
+          "description": "von Neumann and cryptographic randomness",
+          "link": "https://www.argmin.net/p/your-cunning-attempt-to-trick-me",
+          "publishedOn": "2024-04-01T14:02:40.000Z",
+          "wordCount": null,
+          "title": "Your cunning attempt to trick me.",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substack-post-media.s3.amazonaws.com/public/images/d34b50cd-d847-4351-929e-dba253447e19_840x599.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substack-post-media.s3.amazonaws.com/public/images/d34b50cd-d847-4351-929e-dba253447e19_840x599.jpeg"
+        },
+        {
           "id": "https://www.argmin.net/p/is-a-statistician-smarter-than-a",
           "author": "Ben Recht",
           "description": "Take this quiz to find out.",
@@ -1949,6 +1965,16 @@
       "siteUrl": "https://www.jeremykun.com/",
       "articles": [
         {
+          "id": "https://www.jeremykun.com/2024/04/01/unusual-tips-for-parenting-toddlers/",
+          "author": null,
+          "description": "It’s April Cools! Last year I wrote about friendship bracelets and the year before about cocktails. This year it’s parenting.\nParenting articles are a dime a dozen and always bury the lede behind a long story. I’ll skip that.\nHow to think about your child and your role as a parent These are framing devices. Concrete things to do to work toward these are in the next section. I will refer to the numbers for each action to show what principle it is applying.",
+          "link": "https://www.jeremykun.com/2024/04/01/unusual-tips-for-parenting-toddlers/",
+          "publishedOn": "2024-04-01T07:00:00.000Z",
+          "wordCount": 2992,
+          "title": "Unusual Tips for Parenting Toddlers",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.jeremykun.com/2024/03/08/tabletop-games-based-on-math-problems/",
           "author": null,
           "description": "There’s a family of tabletop games that are based directly on a nontrivial mathematics problem. As a casual and fun way to inaugurate my new blog (migrated from Wordpress to Hugo, after my work on getting better LaTeX mathmode support in Hugo), I thought I’d write a short listicle about them, so that I have a place to add more as I find them, as well as give the shortest canonical description of the associated math problem.",
@@ -1977,6 +2003,22 @@
       "feedUrl": "https://www.argmin.net/feed.xml",
       "siteUrl": "https://www.argmin.net",
       "articles": [
+        {
+          "id": "https://www.argmin.net/p/your-cunning-attempt-to-trick-me",
+          "author": "Ben Recht",
+          "description": "von Neumann and cryptographic randomness",
+          "link": "https://www.argmin.net/p/your-cunning-attempt-to-trick-me",
+          "publishedOn": "2024-04-01T14:02:40.000Z",
+          "wordCount": null,
+          "title": "Your cunning attempt to trick me.",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substack-post-media.s3.amazonaws.com/public/images/d34b50cd-d847-4351-929e-dba253447e19_840x599.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substack-post-media.s3.amazonaws.com/public/images/d34b50cd-d847-4351-929e-dba253447e19_840x599.jpeg"
+        },
         {
           "id": "https://www.argmin.net/p/is-a-statistician-smarter-than-a",
           "author": "Ben Recht",
