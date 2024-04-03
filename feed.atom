@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-03T03:16:53.197Z</updated>
+    <updated>2024-04-03T04:18:57.886Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -1705,26 +1705,6 @@ ML datasets cover a broad range of content types, from text and structured data 
         <summary type="html"><![CDATA[Visit the post for more.]]></summary>
         <author>
             <name>xi'an</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The same but different]]></title>
-        <id>https://www.argmin.net/p/the-same-but-different</id>
-        <link href="https://www.argmin.net/p/the-same-but-different"/>
-        <updated>2024-03-04T15:29:25.000Z</updated>
-        <summary type="html"><![CDATA[Yet another example of where good predictions still lead to bad outcomes.]]></summary>
-        <author>
-            <name>Ben Recht</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The same but different]]></title>
-        <id>https://www.argmin.net/p/the-same-but-different</id>
-        <link href="https://www.argmin.net/p/the-same-but-different"/>
-        <updated>2024-03-04T15:29:25.000Z</updated>
-        <summary type="html"><![CDATA[Yet another example of where good predictions still lead to bad outcomes.]]></summary>
-        <author>
-            <name>Ben Recht</name>
         </author>
     </entry>
     <entry>
