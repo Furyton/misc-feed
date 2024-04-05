@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-05T15:15:22.694Z</updated>
+    <updated>2024-04-05T16:20:19.297Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Kalmyk-German glossary]]></title>
+        <id>https://languagelog.ldc.upenn.edu/nll/?p=63327</id>
+        <link href="https://languagelog.ldc.upenn.edu/nll/?p=63327&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=kalmyk-german-glossary"/>
+        <updated>2024-04-05T15:44:46.000Z</updated>
+        <summary type="html"><![CDATA[[Basic information about Kalmyk (Mongolic language) and Julius Klaproth (1783-1835) below.] For researchers of Julius Klaproth or those interested in Kalmyk language, I'm preparing to catalogue this Kalmyk-German glossary believed to have belonged to Klaproth. Any suggestions as to which book it is a glossary of? pic.twitter.com/SfSPyvZR3W — Royal Asiatic Society (@RAS_Soc) April 4, 2024 […]]]></summary>
+        <author>
+            <name>Victor Mair</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Stefano Ermon]]></title>
         <id>https://mlfoundations.org/talk/ermon/</id>
@@ -1641,16 +1651,6 @@ To discuss the learning processes of humans, Bandura and Walters described the c
         <summary type="html"><![CDATA[Mark Metcalf learned something new this Monday morning: YouTube not only provides subtitles, but if the subtitles haven't been created in English, it can generate/translate them on the fly – at least for German. Doesn't seem to be available for Chinese yet. Select 'CC' at the bottom left of the right side of the video […]]]></summary>
         <author>
             <name>Victor Mair</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用傅立叶级数拟合一维概率密度函数]]></title>
-        <id>https://kexue.fm/archives/10007</id>
-        <link href="https://kexue.fm/archives/10007"/>
-        <updated>2024-03-07T04:02:00.000Z</updated>
-        <summary type="html"><![CDATA[在《“闭门造车”之多模态模型方案浅谈》中我们曾提到，图像生成的本质困难是没有一个连续型概率密度的万能拟合器。当然，也不能说完全没有，比如高斯混合模型（GMM）理论上就是可以拟合任意概率密度，就连...]]></summary>
-        <author>
-            <name>苏剑林</name>
         </author>
     </entry>
     <entry>

@@ -1439,16 +1439,6 @@
           "wordCount": 1477,
           "title": "时空之章：将Attention视为平方复杂度的RNN",
           "imageUrl": null
-        },
-        {
-          "id": "https://kexue.fm/archives/10007",
-          "author": "苏剑林",
-          "description": "在《“闭门造车”之多模态模型方案浅谈》中我们曾提到，图像生成的本质困难是没有一个连续型概率密度的万能拟合器。当然，也不能说完全没有，比如高斯混合模型（GMM）理论上就是可以拟合任意概率密度，就连...",
-          "link": "https://kexue.fm/archives/10007",
-          "publishedOn": "2024-03-07T04:02:00.000Z",
-          "wordCount": 1729,
-          "title": "用傅立叶级数拟合一维概率密度函数",
-          "imageUrl": null
         }
       ]
     },
@@ -2688,6 +2678,16 @@
       "feedUrl": "https://languagelog.ldc.upenn.edu/nll/?feed=rss2",
       "siteUrl": "https://languagelog.ldc.upenn.edu/nll",
       "articles": [
+        {
+          "id": "https://languagelog.ldc.upenn.edu/nll/?p=63327",
+          "author": "Victor Mair",
+          "description": "[Basic information about Kalmyk (Mongolic language) and Julius Klaproth (1783-1835) below.] For researchers of Julius Klaproth or those interested in Kalmyk language, I'm preparing to catalogue this Kalmyk-German glossary believed to have belonged to Klaproth. Any suggestions as to which book it is a glossary of? pic.twitter.com/SfSPyvZR3W — Royal Asiatic Society (@RAS_Soc) April 4, 2024 […]",
+          "link": "https://languagelog.ldc.upenn.edu/nll/?p=63327&utm_source=rss&utm_medium=rss&utm_campaign=kalmyk-german-glossary",
+          "publishedOn": "2024-04-05T15:44:46.000Z",
+          "wordCount": 2435,
+          "title": "Kalmyk-German glossary",
+          "imageUrl": null
+        },
         {
           "id": "https://languagelog.ldc.upenn.edu/nll/?p=63317",
           "author": "Victor Mair",
