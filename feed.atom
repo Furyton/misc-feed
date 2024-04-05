@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-05T11:12:49.140Z</updated>
+    <updated>2024-04-05T12:26:58.109Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -1651,16 +1651,6 @@ To discuss the learning processes of humans, Bandura and Walters described the c
         <summary type="html"><![CDATA[在《“闭门造车”之多模态模型方案浅谈》中我们曾提到，图像生成的本质困难是没有一个连续型概率密度的万能拟合器。当然，也不能说完全没有，比如高斯混合模型（GMM）理论上就是可以拟合任意概率密度，就连...]]></summary>
         <author>
             <name>苏剑林</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[postdoctoral research positions at PariSanté]]></title>
-        <id>http://xianblog.wordpress.com/?p=55449</id>
-        <link href="https://xianblog.wordpress.com/2024/03/07/postdoctoral-research-positions/"/>
-        <updated>2024-03-06T23:24:24.000Z</updated>
-        <summary type="html"><![CDATA[Thanks to the 2023-2029 ERC Synergy grant OCEAN (On intelligenCE And Networks: Synergistic research in Bayesian Statistics, Microeconomics and Computer Sciences), I am seeking one or two postdoctoral researchers with an interest in Bayesian federated learning, distributed MCMC, approximate Bayesian inference and computing, and data privacy. The project is based at Université Paris Dauphine, on the […]]]></summary>
-        <author>
-            <name>xi'an</name>
         </author>
     </entry>
     <entry>
