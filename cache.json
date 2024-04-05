@@ -2684,16 +2684,6 @@
           "wordCount": 27681,
           "title": "Social learning: Collaborative learning with large language models",
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEicN2GYOp9oUj5x0F20i550WuF5KmpD8iRqrdHmJFU_HmkdFY3RBF4mfn_99q8jtEPVm56a4NfjMGFJ79y3rygqjX46h23tlzSDde7iEbp8ytHsPa5-IsNKFFituSoPmtGk666gjyypTvVhhuin8FahZfhWPyDWqF5yWBIQ-Cf_DxQ7vrmTWIkA_tAJtm4v/w1200-h630-p-k-no-nu/image2.png"
-        },
-        {
-          "id": "http://blog.research.google/2024/03/croissant-metadata-format-for-ml-ready.html",
-          "author": null,
-          "description": "Posted by Omar Benjelloun, Software Engineer, Google Research, and Peter Mattson, Software Engineer, Google Core ML and President, MLCommons Association\n\n\n\n\n\n\nMachine learning (ML) practitioners looking to reuse existing datasets to train an ML model often spend a lot of time understanding the data, making sense of its organization, or figuring out what subset to use as features. So much time, in fact, that progress in the field of ML is hampered by a fundamental obstacle: the wide variety of data representations. \n\n\n\n\n\nML datasets cover a broad range of content types, from text and structured data to images, audio, and video. Even within datasets that cover the same types of content, every dataset has a unique ad hoc arrangement of files and data formats. This challenge reduces productivi…",
-          "link": "http://blog.research.google/2024/03/croissant-metadata-format-for-ml-ready.html",
-          "publishedOn": "2024-03-06T18:26:00.000Z",
-          "wordCount": 27414,
-          "title": "Croissant: a metadata format for ML-ready datasets",
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj09uSTHgWmPgOkD9W1nZZj5i8uW_-pgxm-T1O5PSacF-EKvHIeIwhMr7Rgft7O3A2Rk94GWe8WboO3dUlxrqt1xz9x4I2aMKJxCUtUkR2eukbsIa8xVyAAN_LJJyMABxRqJuktFkyfhoWPDMQK3O-XgbQNJXzAILlWl3su0fd-Q_uZ-8r5r_uAU2P4srnP/w1200-h630-p-k-no-nu/CroissantHero.png"
         }
       ]
     },

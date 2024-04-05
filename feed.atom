@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-05T06:19:31.723Z</updated>
+    <updated>2024-04-05T07:14:20.035Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -1661,29 +1661,6 @@ To discuss the learning processes of humans, Bandura and Walters described the c
         <summary type="html"><![CDATA[Thanks to the 2023-2029 ERC Synergy grant OCEAN (On intelligenCE And Networks: Synergistic research in Bayesian Statistics, Microeconomics and Computer Sciences), I am seeking one or two postdoctoral researchers with an interest in Bayesian federated learning, distributed MCMC, approximate Bayesian inference and computing, and data privacy. The project is based at Université Paris Dauphine, on the […]]]></summary>
         <author>
             <name>xi'an</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Croissant: a metadata format for ML-ready datasets]]></title>
-        <id>http://blog.research.google/2024/03/croissant-metadata-format-for-ml-ready.html</id>
-        <link href="http://blog.research.google/2024/03/croissant-metadata-format-for-ml-ready.html"/>
-        <updated>2024-03-06T18:26:00.000Z</updated>
-        <summary type="html"><![CDATA[Posted by Omar Benjelloun, Software Engineer, Google Research, and Peter Mattson, Software Engineer, Google Core ML and President, MLCommons Association
-
-
-
-
-
-
-Machine learning (ML) practitioners looking to reuse existing datasets to train an ML model often spend a lot of time understanding the data, making sense of its organization, or figuring out what subset to use as features. So much time, in fact, that progress in the field of ML is hampered by a fundamental obstacle: the wide variety of data representations. 
-
-
-
-
-
-ML datasets cover a broad range of content types, from text and structured data to images, audio, and video. Even within datasets that cover the same types of content, every dataset has a unique ad hoc arrangement of files and data formats. This challenge reduces productivi…]]></summary>
-        <author>
-            <name>Google AI Blog</name>
         </author>
     </entry>
     <entry>
