@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-07T11:13:09.658Z</updated>
+    <updated>2024-04-07T12:25:27.052Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Another "variant" character]]></title>
+        <id>https://languagelog.ldc.upenn.edu/nll/?p=63349</id>
+        <link href="https://languagelog.ldc.upenn.edu/nll/?p=63349&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=another-variant-character"/>
+        <updated>2024-04-07T11:35:03.000Z</updated>
+        <summary type="html"><![CDATA[If we come upon a glyph that we don't recognize and can't find in any dictionary, especially if we have half an idea what it might mean or what it might sound like, we are apt to call it a "variant character" (yìtǐzì 異體字) or calligraphic form of some standard glyph.  It happens all the […]]]></summary>
+        <author>
+            <name>Victor Mair</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[More on Mongolian and Kalmyk Studies]]></title>
         <id>https://languagelog.ldc.upenn.edu/nll/?p=63346</id>
@@ -1562,16 +1572,6 @@ This website is dedicated to showcasing our colleagues, making it easier for aca
         <summary type="html"><![CDATA[There’s a family of tabletop games that are based directly on a nontrivial mathematics problem. As a casual and fun way to inaugurate my new blog (migrated from Wordpress to Hugo, after my work on getting better LaTeX mathmode support in Hugo), I thought I’d write a short listicle about them, so that I have a place to add more as I find them, as well as give the shortest canonical description of the associated math problem.]]></summary>
         <author>
             <name>Math ∩ Programming</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[oceanographers in Les Houches]]></title>
-        <id>http://xianblog.wordpress.com/?p=55485</id>
-        <link href="https://xianblog.wordpress.com/2024/03/09/oceanographers-in-les-houches/"/>
-        <updated>2024-03-08T23:24:03.000Z</updated>
-        <summary type="html"><![CDATA[Þe first internal research workshop of our ERC Synergy project OCEAN is taking place in Les Houches, French Alps, this coming week with 15 researchers gathering for brain-storming on some of the themes at the core of the project, like algorithmic tools for multiple decision-making agents, along with Bayesian uncertainty quantification and Bayesian learning under […]]]></summary>
-        <author>
-            <name>xi'an</name>
         </author>
     </entry>
     <entry>
