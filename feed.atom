@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-07T07:12:49.550Z</updated>
+    <updated>2024-04-07T08:19:56.767Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -1572,35 +1572,6 @@ This website is dedicated to showcasing our colleagues, making it easier for aca
         <summary type="html"><![CDATA[Þe first internal research workshop of our ERC Synergy project OCEAN is taking place in Les Houches, French Alps, this coming week with 15 researchers gathering for brain-storming on some of the themes at the core of the project, like algorithmic tools for multiple decision-making agents, along with Bayesian uncertainty quantification and Bayesian learning under […]]]></summary>
         <author>
             <name>xi'an</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Health-specific embedding tools for dermatology and pathology]]></title>
-        <id>http://blog.research.google/2024/03/health-specific-embedding-tools-for.html</id>
-        <link href="http://blog.research.google/2024/03/health-specific-embedding-tools-for.html"/>
-        <updated>2024-03-08T19:33:00.000Z</updated>
-        <summary type="html"><![CDATA[Posted by Dave Steiner, Clinical Research Scientist, Google Health, and Rory Pilgrim, Product Manager Google Research
-
-
-
-
-There’s a worldwide shortage of access to medical imaging expert interpretation across specialties including radiology, dermatology and pathology. Machine learning (ML) technology can help ease this burden by powering tools that enable doctors to interpret these images more accurately and efficiently. However, the development and implementation of such ML tools are often limited by the availability of high-quality data, ML expertise, and computational resources. 
-
-
-
-One way to catalyze the use of ML for medical imaging is via domain-specific models that utilize deep learning (DL) to capture the information in medical images as compressed numerical vectors (called embedd…]]></summary>
-        <author>
-            <name>Google AI Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Unnatural audibles]]></title>
-        <id>https://languagelog.ldc.upenn.edu/nll/?p=62905</id>
-        <link href="https://languagelog.ldc.upenn.edu/nll/?p=62905&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=unnatural-audibles"/>
-        <updated>2024-03-08T19:21:44.000Z</updated>
-        <summary type="html"><![CDATA[I'm so far behind the times with gadgets and trinkets and services that I have never listened to a single audiobook, and I never even heard of Audible until yesterday when Gene Hill told me that his wife, Marri, listens to tons of Audibles because she writes reviews, and as a result they give her […]]]></summary>
-        <author>
-            <name>Victor Mair</name>
         </author>
     </entry>
     <entry>
