@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-08T07:15:55.479Z</updated>
+    <updated>2024-04-08T08:19:25.104Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[生成扩散模型漫谈（二十二）：信噪比与大图生成]]></title>
+        <id>https://kexue.fm/archives/10047</id>
+        <link href="https://kexue.fm/archives/10047"/>
+        <updated>2024-04-08T08:01:00.000Z</updated>
+        <summary type="html"><![CDATA[盘点主流的图像扩散模型作品，我们会发现一个特点：当前多数做高分辨率图像生成（下面简称“大图生成”）的工作，都是先通过Encoder变换到Latent空间进行的（即LDM，Latent Diffu...]]></summary>
+        <author>
+            <name>苏剑林</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Claire Voisin interviewed in Nature]]></title>
         <id>http://xianblog.wordpress.com/?p=55614</id>

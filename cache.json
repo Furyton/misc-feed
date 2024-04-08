@@ -1421,6 +1421,16 @@
       "siteUrl": "https://kexue.fm/",
       "articles": [
         {
+          "id": "https://kexue.fm/archives/10047",
+          "author": "苏剑林",
+          "description": "盘点主流的图像扩散模型作品，我们会发现一个特点：当前多数做高分辨率图像生成（下面简称“大图生成”）的工作，都是先通过Encoder变换到Latent空间进行的（即LDM，Latent Diffu...",
+          "link": "https://kexue.fm/archives/10047",
+          "publishedOn": "2024-04-08T08:01:00.000Z",
+          "wordCount": 1562,
+          "title": "生成扩散模型漫谈（二十二）：信噪比与大图生成",
+          "imageUrl": null
+        },
+        {
           "id": "https://kexue.fm/archives/10040",
           "author": "苏剑林",
           "description": "在这个系列的第二篇文章《Transformer升级之路：2、博采众长的旋转式位置编码》中，笔者提出了旋转位置编码（RoPE）——通过绝对位置的形式实现相对位置编码的方案。一开始RoPE是针对一维...",
