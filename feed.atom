@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-10T22:16:31.839Z</updated>
+    <updated>2024-04-10T23:16:25.140Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[MCMC without evaluating the target [aatB-mMC joint seminar, 24 April]]]></title>
+        <id>http://xianblog.wordpress.com/?p=55648</id>
+        <link href="https://xianblog.wordpress.com/2024/04/11/mcmc-without-evaluating-the-target-aatb-mmc-joint-seminar-24-april/"/>
+        <updated>2024-04-10T22:24:01.000Z</updated>
+        <summary type="html"><![CDATA[On 24 April 2024, Guanyang Wang (Rutgers University, visiting ESSEC) will give a joint All about that Bayes – mostly Monte Carlo seminar on MCMC when you do not want to evaluate the target distribution In sampling tasks, it is common for target distributions to be known up to a normalizing constant. However, in many […]]]></summary>
+        <author>
+            <name>xi'an</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The E-V22 haplogroup and its East Asian congeners, ancient and modern]]></title>
         <id>https://languagelog.ldc.upenn.edu/nll/?p=63375</id>
@@ -1489,16 +1499,6 @@ Furthermore, consider the remarkable advancements in artificial intelligence —
         <summary type="html"><![CDATA["Water", "water", everywhere — and it's pronounced differently wherever you go. See the dozen or so US and UK phonetic and phonemic transcriptions and audio clips provided by Wiktionary here.  The last of the US audio clips even has the trace of an initial "h", as some people pronounce "wh-" interrogatives. ——————- From Marc Sarrel […]]]></summary>
         <author>
             <name>Victor Mair</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[When is research "deemed not research", and why?]]></title>
-        <id>https://languagelog.ldc.upenn.edu/nll/?p=63055</id>
-        <link href="https://languagelog.ldc.upenn.edu/nll/?p=63055&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=when-is-research-deemed-not-research-and-why"/>
-        <updated>2024-03-12T11:07:19.000Z</updated>
-        <summary type="html"><![CDATA[This post is going to delve into one aspect of a recently-published article from the Centers for Disease Contol: DeCuir J, Payne AB, Self WH, et al. Interim Effectiveness of Updated 2023–2024 (Monovalent XBB.1.5) COVID-19 Vaccines Against COVID-19–Associated Emergency Department and Urgent Care Encounters and Hospitalization Among Immunocompetent Adults Aged ≥18 Years — VISION and […]]]></summary>
-        <author>
-            <name>Mark Liberman</name>
         </author>
     </entry>
     <entry>

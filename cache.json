@@ -2134,6 +2134,16 @@
       "siteUrl": "https://xianblog.wordpress.com",
       "articles": [
         {
+          "id": "http://xianblog.wordpress.com/?p=55648",
+          "author": "xi'an",
+          "description": "On 24 April 2024, Guanyang Wang (Rutgers University, visiting ESSEC) will give a joint All about that Bayes – mostly Monte Carlo seminar on MCMC when you do not want to evaluate the target distribution In sampling tasks, it is common for target distributions to be known up to a normalizing constant. However, in many […]",
+          "link": "https://xianblog.wordpress.com/2024/04/11/mcmc-without-evaluating-the-target-aatb-mmc-joint-seminar-24-april/",
+          "publishedOn": "2024-04-10T22:24:01.000Z",
+          "wordCount": 2472,
+          "title": "MCMC without evaluating the target [aatB-mMC joint seminar, 24 April]",
+          "imageUrl": "https://xianblog.files.wordpress.com/2022/08/1661752522669-e1661752656324.jpg?w=900"
+        },
+        {
           "id": "http://xianblog.wordpress.com/?p=55376",
           "author": "xi'an",
           "description": "Read John Scalzi’s Head On, which is set in the same future America as Lock In, involving again the Halden syndrome patients forced to live by remotely operating robots (threeps) and introducing an extreme form of American football adapted to these patients, since they cannot be injured when their threep is. (Not as in the […]",
@@ -3034,16 +3044,6 @@
           "publishedOn": "2024-03-12T12:15:17.000Z",
           "wordCount": 3193,
           "title": "Words for Water Being Sent to the Moon Europa",
-          "imageUrl": null
-        },
-        {
-          "id": "https://languagelog.ldc.upenn.edu/nll/?p=63055",
-          "author": "Mark Liberman",
-          "description": "This post is going to delve into one aspect of a recently-published article from the Centers for Disease Contol: DeCuir J, Payne AB, Self WH, et al. Interim Effectiveness of Updated 2023–2024 (Monovalent XBB.1.5) COVID-19 Vaccines Against COVID-19–Associated Emergency Department and Urgent Care Encounters and Hospitalization Among Immunocompetent Adults Aged ≥18 Years — VISION and […]",
-          "link": "https://languagelog.ldc.upenn.edu/nll/?p=63055&utm_source=rss&utm_medium=rss&utm_campaign=when-is-research-deemed-not-research-and-why",
-          "publishedOn": "2024-03-12T11:07:19.000Z",
-          "wordCount": 3094,
-          "title": "When is research \"deemed not research\", and why?",
           "imageUrl": null
         }
       ]
