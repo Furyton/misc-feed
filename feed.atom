@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-11T08:20:38.371Z</updated>
+    <updated>2024-04-11T09:15:54.044Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -1468,27 +1468,6 @@ Where: MS.03, Zeeman]]></summary>
         <summary type="html"><![CDATA[Visit the post for more.]]></summary>
         <author>
             <name>xi'an</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Talk like a graph: Encoding graphs for large language models]]></title>
-        <id>http://blog.research.google/2024/03/talk-like-graph-encoding-graphs-for.html</id>
-        <link href="http://blog.research.google/2024/03/talk-like-graph-encoding-graphs-for.html"/>
-        <updated>2024-03-12T21:15:00.000Z</updated>
-        <summary type="html"><![CDATA[Posted by Bahare Fatemi, Research Scientist, Google Research, and Bryan Perozzi, Research Scientist, Google Research
-
-
-
-
-Imagine all the things around you — your friends, tools in your kitchen, or even the parts of your bike. They are all connected in different ways. In computer science, the term graph is used to describe connections between objects. Graphs consist of nodes (the objects themselves) and edges (connections between two nodes, indicating a  relationship between them). Graphs are everywhere now. The internet itself is a giant graph of websites linked together. Even the knowledge search engines use is organized in a graph-like way.
-
-
-
-
-
-Furthermore, consider the remarkable advancements in artificial intelligence — such as chatbots that can write stories in seconds, and even soft…]]></summary>
-        <author>
-            <name>Google AI Blog</name>
         </author>
     </entry>
     <entry>
