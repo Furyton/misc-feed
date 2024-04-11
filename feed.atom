@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-11T11:13:56.771Z</updated>
+    <updated>2024-04-11T12:27:43.626Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Chinese (il)logic from inside]]></title>
+        <id>https://languagelog.ldc.upenn.edu/nll/?p=63387</id>
+        <link href="https://languagelog.ldc.upenn.edu/nll/?p=63387&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=chinese-illogic-from-inside"/>
+        <updated>2024-04-11T12:04:06.000Z</updated>
+        <summary type="html"><![CDATA[[Prefatory note:  The Chinese author of this guest post, TCI (encrypted acronym to protect her identity) holds a humanities M.A. from a top tier American research university which she attended from 2016 to 2018.  She has been employed for several years as an adviser to  students in China who desire to study abroad (especially the USA) […]]]></summary>
+        <author>
+            <name>Victor Mair</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[MCMC without evaluating the target [aatB-mMC joint seminar, 24 April]]]></title>
         <id>http://xianblog.wordpress.com/?p=55648</id>
@@ -1458,16 +1468,6 @@ Where: MS.03, Zeeman]]></summary>
         <summary type="html"><![CDATA[In this blog, we demonstrate the scalability of FSDP with a pre-training exemplar, a 7B model trained for 2T tokens, and share various techniques we used to achieve a rapid training speed of 3,700 tokens/sec/GPU, or 40B tokens/day on 128 A100 GPUs. This translates to a model FLOPS utilization (MFU) and hardware FLOPS utilization (HFU) of 57%. Additionally, we have observed near linear scaling of FSDP to 512 GPUs, implying that training a 7B model on 512 GPUs to 2T tokens using this method would take just under two weeks.]]></summary>
         <author>
             <name>PyTorch Website</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Active Statistics: Stories, Games, Problems, and Hands-on Demonstrations [it’s out now!]]]></title>
-        <id>http://xianblog.wordpress.com/?p=55435</id>
-        <link href="https://xianblog.wordpress.com/2024/03/13/active-statistics-stories-games-problems-and-hands-on-demonstrations-its-out/"/>
-        <updated>2024-03-12T23:24:37.000Z</updated>
-        <summary type="html"><![CDATA[Visit the post for more.]]></summary>
-        <author>
-            <name>xi'an</name>
         </author>
     </entry>
     <entry>
