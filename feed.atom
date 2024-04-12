@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-12T01:06:09.871Z</updated>
+    <updated>2024-04-12T02:26:29.064Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Kim Stachenfeld]]></title>
+        <id>https://mlfoundations.org/talk/stachenfeld/</id>
+        <link href="https://mlfoundations.org/talk/stachenfeld/"/>
+        <updated>2024-04-12T14:00:00.000Z</updated>
+        <author>
+            <name>Harvard ML Foundations</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“the most intense famine since WW II”]]></title>
         <id>http://xianblog.wordpress.com/?p=55750</id>
@@ -1488,16 +1497,6 @@ Where: MS.03, Zeeman]]></summary>
         <summary type="html"><![CDATA[Summarizing a much longer than intended blog series.]]></summary>
         <author>
             <name>Ben Recht</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SIMA generalist AI agent for 3D virtual environments]]></title>
-        <id>https://deepmind.google/discover/blog/sima-generalist-ai-agent-for-3d-virtual-environments/</id>
-        <link href="https://deepmind.google/discover/blog/sima-generalist-ai-agent-for-3d-virtual-environments/"/>
-        <updated>2024-03-13T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Introducing SIMA, a Scalable Instructable Multiworld Agent]]></summary>
-        <author>
-            <name>Google DeepMind Blog</name>
         </author>
     </entry>
     <entry>
