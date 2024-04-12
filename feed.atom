@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-12T11:15:37.145Z</updated>
+    <updated>2024-04-12T12:27:55.688Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -13,6 +13,16 @@
         <updated>2024-04-12T14:00:00.000Z</updated>
         <author>
             <name>Harvard ML Foundations</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Feeling wet]]></title>
+        <id>https://languagelog.ldc.upenn.edu/nll/?p=63390</id>
+        <link href="https://languagelog.ldc.upenn.edu/nll/?p=63390&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=feeling-wet"/>
+        <updated>2024-04-12T12:01:51.000Z</updated>
+        <summary type="html"><![CDATA[Yesterday in one of my classes, a female student from China said that she didn't like to exercise in the morning because she felt "wet".  At first, I couldn't believe my ears, so I asked her, "Did you say 'wet'?"  "Yes," she said, "wet".  I couldn't understand in what way she would feel "wet" in […]]]></summary>
+        <author>
+            <name>Victor Mair</name>
         </author>
     </entry>
     <entry>
@@ -1465,16 +1475,6 @@ Where: MS.03, Zeeman]]></summary>
         <link href="https://xianblog.wordpress.com/2024/03/14/support-arxiv-on-%cf%80/"/>
         <updated>2024-03-14T07:16:57.000Z</updated>
         <summary type="html"><![CDATA[Visit the post for more.]]></summary>
-        <author>
-            <name>xi'an</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[my life as an obstetrician [spam]]]></title>
-        <id>http://xianblog.wordpress.com/?p=54507</id>
-        <link href="https://xianblog.wordpress.com/2024/03/14/my-life-as-an-obstetrician-spam/"/>
-        <updated>2024-03-13T23:24:04.000Z</updated>
-        <summary type="html"><![CDATA[An hilarious invitation I received this day: 11th International Congress of Gynaecology and Obstetrics June 12-14, 2024 Budapest, Hungary Dear Christian P. Robert, On behalf of organizing committee, we are very honoured to invite you to participate in the 11th International Congress of Gynaecology and Obstetrics (ICGO), which will take place on June 12-14, 2024 at Budapest, Hungary, […]]]></summary>
         <author>
             <name>xi'an</name>
         </author>
