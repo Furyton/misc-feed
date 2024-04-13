@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-13T01:33:40.006Z</updated>
+    <updated>2024-04-13T02:13:57.885Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -1324,26 +1324,6 @@ Health equity is a major societal concern worldwide with disparities having many
 Large language model (LLM) advancements have led to a new paradigm that unifies various natural language processing (NLP) tasks within an instruction-following framework. This paradigm is exemplified by recent multi-task LLMs, such as T0, FLAN, and OPT-IML. First, multi-task data is gathered with each task following a task-specific template, where each labeled example is converted into an instruction (e.g., "Put the concepts together to form a sentence: ski, mountain, skier”) paired with a corresponding response (e.g., "Skier skis down the mountain"). These instruction-response pairs are used to train the LLM, resulting in a conditional generation model that takes an instruction as input and generates a response. Mo…]]></summary>
         <author>
             <name>Google AI Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Math in Substack]]></title>
-        <id>https://www.argmin.net/p/math-in-substack</id>
-        <link href="https://www.argmin.net/p/math-in-substack"/>
-        <updated>2024-03-14T14:09:57.000Z</updated>
-        <summary type="html"><![CDATA[A dreaded process post]]></summary>
-        <author>
-            <name>Ben Recht</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Math in Substack]]></title>
-        <id>https://www.argmin.net/p/math-in-substack</id>
-        <link href="https://www.argmin.net/p/math-in-substack"/>
-        <updated>2024-03-14T14:09:57.000Z</updated>
-        <summary type="html"><![CDATA[A dreaded process post]]></summary>
-        <author>
-            <name>Ben Recht</name>
         </author>
     </entry>
     <entry>
