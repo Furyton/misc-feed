@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-13T07:13:57.662Z</updated>
+    <updated>2024-04-13T08:14:41.838Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -1308,22 +1308,6 @@ Health equity is a major societal concern worldwide with disparities having many
         <summary type="html"><![CDATA[Visit the post for more.]]></summary>
         <author>
             <name>xi'an</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cappy: Outperforming and boosting large multi-task language models with a small scorer]]></title>
-        <id>http://blog.research.google/2024/03/cappy-outperforming-and-boosting-large.html</id>
-        <link href="http://blog.research.google/2024/03/cappy-outperforming-and-boosting-large.html"/>
-        <updated>2024-03-14T19:38:00.000Z</updated>
-        <summary type="html"><![CDATA[Posted by Yun Zhu and Lijuan Liu, Software Engineers, Google Research
-
-
-
-
-
-Large language model (LLM) advancements have led to a new paradigm that unifies various natural language processing (NLP) tasks within an instruction-following framework. This paradigm is exemplified by recent multi-task LLMs, such as T0, FLAN, and OPT-IML. First, multi-task data is gathered with each task following a task-specific template, where each labeled example is converted into an instruction (e.g., "Put the concepts together to form a sentence: ski, mountain, skier”) paired with a corresponding response (e.g., "Skier skis down the mountain"). These instruction-response pairs are used to train the LLM, resulting in a conditional generation model that takes an instruction as input and generates a response. Mo…]]></summary>
-        <author>
-            <name>Google AI Blog</name>
         </author>
     </entry>
     <entry>

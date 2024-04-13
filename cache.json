@@ -2471,16 +2471,6 @@
           "wordCount": 28114,
           "title": "HEAL: A framework for health equity assessment of machine learning performance",
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhYi3V0CsXup8WA6SSjPagoMWfkIpbr9oRWEaUM1vIWOX8_TsZs6ikqOn6qIGbqUzAPhOxwhEPNfWSkECIxRz5fJ629cRGScLraFn2CSw53Sr5_li8Fe7A9I1nMShys_15IiUZNhNiPh_ueFVcu_7f34A-A0pMXXVdDaSoSAf2h0jETJ1PemIR5I6o9pIIW/w1200-h630-p-k-no-nu/HEAL-Hero.png"
-        },
-        {
-          "id": "http://blog.research.google/2024/03/cappy-outperforming-and-boosting-large.html",
-          "author": null,
-          "description": "Posted by Yun Zhu and Lijuan Liu, Software Engineers, Google Research\n\n\n\n\n\nLarge language model (LLM) advancements have led to a new paradigm that unifies various natural language processing (NLP) tasks within an instruction-following framework. This paradigm is exemplified by recent multi-task LLMs, such as T0, FLAN, and OPT-IML. First, multi-task data is gathered with each task following a task-specific template, where each labeled example is converted into an instruction (e.g., \"Put the concepts together to form a sentence: ski, mountain, skier”) paired with a corresponding response (e.g., \"Skier skis down the mountain\"). These instruction-response pairs are used to train the LLM, resulting in a conditional generation model that takes an instruction as input and generates a response. Mo…",
-          "link": "http://blog.research.google/2024/03/cappy-outperforming-and-boosting-large.html",
-          "publishedOn": "2024-03-14T19:38:00.000Z",
-          "wordCount": 27917,
-          "title": "Cappy: Outperforming and boosting large multi-task language models with a small scorer",
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiFNlqVAnwoYdZ97LvC4-ipR6FeOc4o9udsTUtNBBWl5Y4XHclcrz3kTCibizteSBc_xsVLh-pyRiCCNfIzTDHEs7VsJcUMCk0EjUxzvKITKCncdx1y7u9JXGkXM6TyoZY5RhUt2l_up-Us0yIV-0-EUvHsjOlFNSSNgNHlpwK1PAliqcj4gSoLsYXhIi18/w1200-h630-p-k-no-nu/Cappy%20hero.jpg"
         }
       ]
     },
