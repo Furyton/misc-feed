@@ -2373,16 +2373,6 @@
           "wordCount": 2886,
           "title": "Wikileech",
           "imageUrl": "https://xianblog.files.wordpress.com/2024/02/temp-13.png"
-        },
-        {
-          "id": "http://xianblog.wordpress.com/?p=55555",
-          "author": "xi'an",
-          "description": "While running a “kitchen” workshop on Bayesian privacy in Les Houches, Le Monde published on π day a recap of a recent report on AI commanded by the French Government. Among other things, it contains recommendations on alleviating the administrative blocks in accessing personal data, based on a model for data protection created decades earlier […]",
-          "link": "https://xianblog.wordpress.com/2024/03/16/data-protection-not-from-les-houches/",
-          "publishedOn": "2024-03-15T23:24:32.000Z",
-          "wordCount": 2483,
-          "title": "data protection [not from Les Houches]",
-          "imageUrl": "https://xianblog.files.wordpress.com/2024/03/lemonde1403.jpg"
         }
       ]
     },
@@ -2507,6 +2497,16 @@
       "feedUrl": "https://languagelog.ldc.upenn.edu/nll/?feed=rss2",
       "siteUrl": "https://languagelog.ldc.upenn.edu/nll",
       "articles": [
+        {
+          "id": "https://languagelog.ldc.upenn.edu/nll/?p=63478",
+          "author": "Mark Liberman",
+          "description": "Continuing my anecdotal exploration of \"focus\"-like phenomena in French, I dove into a random point in the middle of a random Radio France podcast (\"Libre Pensée – L’Europe, l’Union européenne et les élections européennes\", 4/14/2024). And within a few seconds, I heard this, where the apparent \"focus\" on là caught my attention: Euh mais pour bien […]",
+          "link": "https://languagelog.ldc.upenn.edu/nll/?p=63478&utm_source=rss&utm_medium=rss&utm_campaign=la-encore",
+          "publishedOn": "2024-04-14T14:01:29.000Z",
+          "wordCount": 2525,
+          "title": "LÀ encore…",
+          "imageUrl": null
+        },
         {
           "id": "https://languagelog.ldc.upenn.edu/nll/?p=63406",
           "author": "Victor Mair",
