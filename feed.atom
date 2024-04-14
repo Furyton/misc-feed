@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-14T05:57:20.259Z</updated>
+    <updated>2024-04-14T07:57:05.166Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -1344,21 +1344,6 @@ A key part of the problem is how to determine the exact positions from which ima
         <summary type="html"><![CDATA[While running a “kitchen” workshop on Bayesian privacy in Les Houches, Le Monde published on π day a recap of a recent report on AI commanded by the French Government. Among other things, it contains recommendations on alleviating the administrative blocks in accessing personal data, based on a model for data protection created decades earlier […]]]></summary>
         <author>
             <name>xi'an</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HEAL: A framework for health equity assessment of machine learning performance]]></title>
-        <id>http://blog.research.google/2024/03/heal-framework-for-health-equity.html</id>
-        <link href="http://blog.research.google/2024/03/heal-framework-for-health-equity.html"/>
-        <updated>2024-03-15T18:22:00.000Z</updated>
-        <summary type="html"><![CDATA[Posted by Mike Schaekermann, Research Scientist, Google Research, and Ivor Horn, Chief Health Equity Officer & Director, Google Core
-
-
-
-
-Health equity is a major societal concern worldwide with disparities having many causes. These sources include limitations in access to healthcare, differences in clinical treatment, and even fundamental differences in the diagnostic technology. In dermatology for example, skin cancer outcomes are worse for populations such as minorities, those with lower socioeconomic status, or individuals with limited healthcare access. While there is great promise in recent advances in machine learning (ML) and artificial intelligence (AI) to help improve healthcare, this transition from research to bedside must be accompanied by a careful understanding of whether and…]]></summary>
-        <author>
-            <name>Google AI Blog</name>
         </author>
     </entry>
     <entry>
