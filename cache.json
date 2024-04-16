@@ -1459,16 +1459,6 @@
           "wordCount": 1841,
           "title": "Transformer升级之路：17、多模态编码位置的简单思考",
           "imageUrl": null
-        },
-        {
-          "id": "https://kexue.fm/archives/10017",
-          "author": "苏剑林",
-          "description": "近年来，RNN由于其线性的训练和推理效率，重新吸引了不少研究人员和用户的兴趣，隐约有“文艺复兴”之势，其代表作有RWKV、RetNet、Mamba等。当将RNN用于语言模型时，其典型特点就是每步...",
-          "link": "https://kexue.fm/archives/10017",
-          "publishedOn": "2024-03-18T06:52:00.000Z",
-          "wordCount": 1477,
-          "title": "时空之章：将Attention视为平方复杂度的RNN",
-          "imageUrl": null
         }
       ]
     },

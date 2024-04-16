@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-16T18:17:49.199Z</updated>
+    <updated>2024-04-16T19:12:13.138Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -1497,16 +1497,6 @@ A person's prior experience and understanding of the world generally enables the
 A key part of the problem is how to determine the exact positions from which images were taken, known as pose inference. If camera poses are known, a range of successful techniques — such as neural radiance f…]]></summary>
         <author>
             <name>Google AI Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[时空之章：将Attention视为平方复杂度的RNN]]></title>
-        <id>https://kexue.fm/archives/10017</id>
-        <link href="https://kexue.fm/archives/10017"/>
-        <updated>2024-03-18T06:52:00.000Z</updated>
-        <summary type="html"><![CDATA[近年来，RNN由于其线性的训练和推理效率，重新吸引了不少研究人员和用户的兴趣，隐约有“文艺复兴”之势，其代表作有RWKV、RetNet、Mamba等。当将RNN用于语言模型时，其典型特点就是每步...]]></summary>
-        <author>
-            <name>苏剑林</name>
         </author>
     </entry>
     <entry>
