@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-17T14:14:42.326Z</updated>
+    <updated>2024-04-17T15:18:33.899Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Mix and match Japanese orthography]]></title>
+        <id>https://languagelog.ldc.upenn.edu/nll/?p=63501</id>
+        <link href="https://languagelog.ldc.upenn.edu/nll/?p=63501&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=mix-and-match-japanese-orthography"/>
+        <updated>2024-04-17T14:24:39.000Z</updated>
+        <summary type="html"><![CDATA[Most Language Log readers are aware that the Japanese writing system consists of three major components — kanji (sinoglyhs), hiragana (cursive syllabary), and katakana (block syllabary).  I would argue that rōmaji (roman letters) are a fourth component, as they are in the Chinese writing system. How do people decide when to switch among the different […]]]></summary>
+        <author>
+            <name>Victor Mair</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[生成扩散模型漫谈（二十三）：信噪比与大图生成（下）]]></title>
         <id>https://kexue.fm/archives/10055</id>
