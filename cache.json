@@ -2289,6 +2289,16 @@
       "siteUrl": "https://xianblog.wordpress.com",
       "articles": [
         {
+          "id": "http://xianblog.wordpress.com/?p=55773",
+          "author": "xi'an",
+          "description": "Sirio Legramanti, Daniele Durante, and Pierre Alquier just arXived a massive paper on the concentration of discrepancy–based ABC posteriors via Rademacher complexity, which includes MMD and Wasserstein distance-based ABC methods. The paper provides sufficient conditions under which a discrepancy within the integral probability semimetrics class guarantees uniform convergence and concentration of the induced ABC posterior, […]",
+          "link": "https://xianblog.wordpress.com/2024/04/18/discrepancy-based-abc-posteriors-via-rademacher-complexity/",
+          "publishedOn": "2024-04-17T22:24:26.000Z",
+          "wordCount": 2723,
+          "title": "discrepancy–based ABC posteriors via Rademacher complexity",
+          "imageUrl": "https://opc.mfo.de/photoNormal?id=10197"
+        },
+        {
           "id": "http://xianblog.wordpress.com/?p=55674",
           "author": "xi'an",
           "description": "arXiv is now testing a new display of papers in html format to increase accessibility [for those with no pdf reader?] Hopefully, this will not induce further constraints on the LaTeX format of arXiv submissions, at a time when it got easier for off-the-shelf files to be immediately accepted, but the fact that the site […]",
