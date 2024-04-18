@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-18T07:15:03.914Z</updated>
+    <updated>2024-04-18T08:19:39.206Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -1579,26 +1579,6 @@ Driven by the potential impact of reliable flood forecasting on people’s lives
         <summary type="html"><![CDATA[A carpet of flowers in Shokeda, near Gaza, a few years ago. This is the fourth post of this type (I (2008); II(2011); III(2015).) I started planning this post in 2019 but as it turned out, earlier drafts have quickly … Continue reading →]]></summary>
         <author>
             <name>Gil Kalai</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ScreenAI: A visual language model for UI and visually-situated language understanding]]></title>
-        <id>http://blog.research.google/2024/03/screenai-visual-language-model-for-ui.html</id>
-        <link href="http://blog.research.google/2024/03/screenai-visual-language-model-for-ui.html"/>
-        <updated>2024-03-19T20:15:00.000Z</updated>
-        <summary type="html"><![CDATA[Posted by Srinivas Sunkara and Gilles Baechler, Software Engineers, Google Research
-
-
-
-
-
-Screen user interfaces (UIs) and infographics, such as charts, diagrams and tables, play important roles in human communication and human-machine interaction as they facilitate rich and interactive user experiences. UIs and infographics share similar design principles and visual language (e.g., icons and layouts), that offer an opportunity to build a single model that can understand, reason, and interact with these interfaces. However, because of their complexity and varied presentation formats, infographics and UIs present a unique modeling challenge.
-
-
-
-To that end, we introduce “ScreenAI: A Vision-Language Model for UI and Infographics Understanding”. ScreenAI improves upon the PaLI architecture wit…]]></summary>
-        <author>
-            <name>Google AI Blog</name>
         </author>
     </entry>
     <entry>
