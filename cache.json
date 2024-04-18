@@ -2655,16 +2655,6 @@
           "wordCount": 27748,
           "title": "ScreenAI: A visual language model for UI and visually-situated language understanding",
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhoXlMR7pAKRRnyKZT8C40i6mPX0KKNGT6AFNvFOFIhZ7BD0rXaU3NS_aqISTGq9S_d0zozgcO0HR_v3R6Msm4uUDkaBFsFVx-miaDL6L0UhSz1Is8_L_iFjtvNE5OX9HX98t92b3r-rLQfJG1RrzVW354NdVUlIJVRLdQ_l4dFYa1773J-tJligdvh7QsX/w1200-h630-p-k-no-nu/ScreenAI%20-%20hero.jpeg"
-        },
-        {
-          "id": "http://blog.research.google/2024/03/scin-new-resource-for-representative.html",
-          "author": null,
-          "description": "Posted by Pooja Rao, Research Scientist, Google Research\n\n\n\n\nHealth datasets play a crucial role in research and medical education, but it can be challenging to create a dataset that represents the real world. For example, dermatology conditions are diverse in their appearance and severity and manifest differently across skin tones. Yet, existing dermatology image datasets often lack representation of everyday conditions (like rashes, allergies and infections) and skew towards lighter skin tones. Furthermore, race and ethnicity information is frequently missing, hindering our ability to assess disparities or create solutions.\n\n\n\n\n\nTo address these limitations, we are releasing the Skin Condition Image Network (SCIN) dataset in collaboration with physicians at Stanford Medicine. We designed…",
-          "link": "http://blog.research.google/2024/03/scin-new-resource-for-representative.html",
-          "publishedOn": "2024-03-19T15:00:00.000Z",
-          "wordCount": 27491,
-          "title": "SCIN: A new resource for representative dermatology images",
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_fSTMFxLAMHLJ0rw7OAddGSPMW2tRl8kmTr2mWiiJunKxB8ZflMJeWkBmB5IqCD2LvRoikpN7OYnZO3CdKpArGn32b4o-T8ZD6XCPxmUBtE1-sPBi6J05y5_UrfbWSMTjNpldKYzM3xjXoC0iWU7q_a7Ktfi2S1hVHLY8uq1986yp_pgEjQn3elNuSUbJ/w1200-h630-p-k-no-nu/SCINHero.png"
         }
       ]
     },
