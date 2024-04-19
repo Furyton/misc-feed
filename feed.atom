@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-19T08:19:19.148Z</updated>
+    <updated>2024-04-19T09:16:40.308Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -1559,26 +1559,6 @@ Read more...]]></summary>
         <summary type="html"><![CDATA[Visit the post for more.]]></summary>
         <author>
             <name>xi'an</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Computer-aided diagnosis for lung cancer screening]]></title>
-        <id>http://blog.research.google/2024/03/computer-aided-diagnosis-for-lung.html</id>
-        <link href="http://blog.research.google/2024/03/computer-aided-diagnosis-for-lung.html"/>
-        <updated>2024-03-20T20:54:00.000Z</updated>
-        <summary type="html"><![CDATA[Posted by Atilla Kiraly, Software Engineer, and Rory Pilgrim, Product Manager, Google Research 
-
-
-
-
-
-Lung cancer is the leading cause of cancer-related deaths globally with 1.8 million deaths reported in 2020. Late diagnosis dramatically reduces the chances of survival. Lung cancer screening via computed tomography (CT), which provides a detailed 3D image of the lungs, has been shown to reduce mortality in high-risk populations by at least 20% by detecting potential signs of cancers earlier. In the US, screening involves annual scans, with some countries or cases recommending more or less frequent scans. 
-
-
-
-The United States Preventive Services Task Force recently expanded lung cancer screening recommendations by roughly 80%, which is expected to increase screening access for women and ra…]]></summary>
-        <author>
-            <name>Google AI Blog</name>
         </author>
     </entry>
     <entry>
