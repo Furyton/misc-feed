@@ -1946,7 +1946,18 @@
       "title": "Google DeepMind Blog",
       "feedUrl": "https://deepmind.com/blog/feed/basic/",
       "siteUrl": "https://deepmind.google/discover/blog/",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://deepmind.google/discover/blog/the-ethics-of-advanced-ai-assistants/",
+          "author": null,
+          "description": "The ethics of advanced AI assistants\r\nExploring the promise and risks of a future with more capable AI",
+          "link": "https://deepmind.google/discover/blog/the-ethics-of-advanced-ai-assistants/",
+          "publishedOn": "2024-04-19T10:00:00.000Z",
+          "wordCount": 1508,
+          "title": "The ethics of advanced AI assistants",
+          "imageUrl": "https://lh3.googleusercontent.com/28MrwSZMny-Gf_FVYJS0z3JbnfLXzRLNAF2BA0YQ7rbcrZWdNNwddfFsWVh_n7C31N8oXBmWexFbyce4jzaX3FSNt3EXG6mSLSlXaSx70Mc7Q0s7FF4=w1200-h630-n-nu"
+        }
+      ]
     },
     {
       "title": "Distill",
