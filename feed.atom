@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-19T20:15:41.418Z</updated>
+    <updated>2024-04-19T21:14:03.746Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -1538,28 +1538,6 @@ Time series problems are ubiquitous, from forecasting weather and traffic patter
         <summary type="html"><![CDATA[Ronald Fisher's shapeshifting conceptions of probability.]]></summary>
         <author>
             <name>Ben Recht</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Modeling Extremely Large Images with xT]]></title>
-        <id>http://bair.berkeley.edu/blog/2024/03/21/xt/</id>
-        <link href="http://bair.berkeley.edu/blog/2024/03/21/xt/"/>
-        <updated>2024-03-21T09:00:00.000Z</updated>
-        <summary type="html"><![CDATA[As computer vision researchers, we believe that every pixel can tell a story. However, there seems to be a writer’s block settling into the field when it comes to dealing with large images. Large images are no longer rare—the cameras we carry in our pockets and those orbiting our planet snap pictures so big and detailed that they stretch our current best models and hardware to their breaking points when handling them. Generally, we face a quadratic increase in memory usage as a function of image size.
-Today, we make one of two sub-optimal choices when handling large images: down-sampling or cropping. These two methods incur significant losses in the amount of information and context present in an image. We take another look at these approaches and introduce $x$T, a new framework to model l…]]></summary>
-        <author>
-            <name>The Berkeley Artificial Intelligence Research Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Modeling Extremely Large Images with xT]]></title>
-        <id>http://localhost:4000/blog/2024/03/21/xt/</id>
-        <link href="http://localhost:4000/blog/2024/03/21/xt/"/>
-        <updated>2024-03-21T09:00:00.000Z</updated>
-        <summary type="html"><![CDATA[As computer vision researchers, we believe that every pixel can tell a story. However, there seems to be a writer’s block settling into the field when it comes to dealing with large images. Large images are no longer rare—the cameras we carry in our pockets and those orbiting our planet snap pictures so big and detailed that they stretch our current best models and hardware to their breaking points when handling them. Generally, we face a quadratic increase in memory usage as a function of image size.
-Today, we make one of two sub-optimal choices when handling large images: down-sampling or cropping. These two methods incur significant losses in the amount of information and context present in an image. We take another look at these approaches and introduce $x$T, a new framework to model l…]]></summary>
-        <author>
-            <name>The Berkeley Artificial Intelligence Research Blog</name>
         </author>
     </entry>
     <entry>
