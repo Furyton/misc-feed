@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-19T11:13:05.857Z</updated>
+    <updated>2024-04-19T12:27:46.564Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -13,6 +13,16 @@
         <updated>2024-04-19T14:00:00.000Z</updated>
         <author>
             <name>Harvard ML Foundations</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Get around]]></title>
+        <id>https://languagelog.ldc.upenn.edu/nll/?p=63526</id>
+        <link href="https://languagelog.ldc.upenn.edu/nll/?p=63526&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=get-around"/>
+        <updated>2024-04-19T11:17:29.000Z</updated>
+        <summary type="html"><![CDATA[One needs to be careful when using a phrasal verb that has a wide range of possible meanings.  For example, if you're corresponding with a woman who travels a lot and you comment, wishing to commend her mobility, "You sure do get around a lot", she may be offended and retort, "Are you saying that […]]]></summary>
+        <author>
+            <name>Victor Mair</name>
         </author>
     </entry>
     <entry>
@@ -1540,36 +1550,6 @@ Today, we make one of two sub-optimal choices when handling large images: down-s
         <summary type="html"><![CDATA[Coming soon. https://t.co/mHuBzXyGrx pic.twitter.com/V2dTUkbAWt — Jeffrey Kotyk (@JeffreyKotyk) March 20, 2024 New book from Brill: Sino-Iranian and Sino-Arabian Relations in Late AntiquityChina and the Parthians, Sasanians, and Arabs in the First MillenniumSeries:     Crossroads – History of Interactions across the Silk Routes, Volume: 8 Author: Jeffrey Kotyk What type of exchanges occurred between West and […]]]></summary>
         <author>
             <name>Victor Mair</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The wrong way to speed up your code with Numba]]></title>
-        <id>https://pythonspeed.com/articles/slow-numba/</id>
-        <link href="https://pythonspeed.com/articles/slow-numba/"/>
-        <updated>2024-03-21T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[If your NumPy-based code is too slow, you can sometimes use Numba to
-speed it up. Numba is a compiled language that uses the same syntax as
-Python, and it compiles at runtime, so it’s very easy to write. And
-because it re-implements a large part of the NumPy APIs, it can also
-easily be used with existing NumPy-based code.
-However, Numba’s NumPy support can be a trap: it can lead you to missing
-huge optimization opportunities by sticking to NumPy-style code. So in
-this article we’ll show an example of:
-The wrong way to use Numba, writing NumPy-style full array transforms.
-The right way to use Numba, namely for loops.
-Read more...]]></summary>
-        <author>
-            <name>Python⇒Speed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[the sky [isn’t] the limit]]></title>
-        <id>http://xianblog.wordpress.com/?p=55570</id>
-        <link href="https://xianblog.wordpress.com/2024/03/21/the-sky-isnt-the-limit/"/>
-        <updated>2024-03-20T23:24:54.000Z</updated>
-        <summary type="html"><![CDATA[Visit the post for more.]]></summary>
-        <author>
-            <name>xi'an</name>
         </author>
     </entry>
     <entry>

@@ -1843,18 +1843,7 @@
       "title": "Python⇒Speed",
       "feedUrl": "https://pythonspeed.com/atom.xml",
       "siteUrl": "https://pythonspeed.com/atom.xml",
-      "articles": [
-        {
-          "id": "https://pythonspeed.com/articles/slow-numba/",
-          "author": null,
-          "description": "If your NumPy-based code is too slow, you can sometimes use Numba to\nspeed it up. Numba is a compiled language that uses the same syntax as\nPython, and it compiles at runtime, so it’s very easy to write. And\nbecause it re-implements a large part of the NumPy APIs, it can also\neasily be used with existing NumPy-based code.\nHowever, Numba’s NumPy support can be a trap: it can lead you to missing\nhuge optimization opportunities by sticking to NumPy-style code. So in\nthis article we’ll show an example of:\nThe wrong way to use Numba, writing NumPy-style full array transforms.\nThe right way to use Numba, namely for loops.\nRead more...",
-          "link": "https://pythonspeed.com/articles/slow-numba/",
-          "publishedOn": "2024-03-21T00:00:00.000Z",
-          "wordCount": null,
-          "title": "The wrong way to speed up your code with Numba",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "统计之都",
@@ -2577,16 +2566,6 @@
           "wordCount": null,
           "title": "Pr[AI]rie Scientific Workshop 2024",
           "imageUrl": null
-        },
-        {
-          "id": "http://xianblog.wordpress.com/?p=55570",
-          "author": "xi'an",
-          "description": "Visit the post for more.",
-          "link": "https://xianblog.wordpress.com/2024/03/21/the-sky-isnt-the-limit/",
-          "publishedOn": "2024-03-20T23:24:54.000Z",
-          "wordCount": 2368,
-          "title": "the sky [isn’t] the limit",
-          "imageUrl": "https://xianblog.files.wordpress.com/2024/03/leshou2411.jpg"
         }
       ]
     },
@@ -2661,6 +2640,16 @@
       "feedUrl": "https://languagelog.ldc.upenn.edu/nll/?feed=rss2",
       "siteUrl": "https://languagelog.ldc.upenn.edu/nll",
       "articles": [
+        {
+          "id": "https://languagelog.ldc.upenn.edu/nll/?p=63526",
+          "author": "Victor Mair",
+          "description": "One needs to be careful when using a phrasal verb that has a wide range of possible meanings.  For example, if you're corresponding with a woman who travels a lot and you comment, wishing to commend her mobility, \"You sure do get around a lot\", she may be offended and retort, \"Are you saying that […]",
+          "link": "https://languagelog.ldc.upenn.edu/nll/?p=63526&utm_source=rss&utm_medium=rss&utm_campaign=get-around",
+          "publishedOn": "2024-04-19T11:17:29.000Z",
+          "wordCount": 2313,
+          "title": "Get around",
+          "imageUrl": null
+        },
         {
           "id": "https://languagelog.ldc.upenn.edu/nll/?p=63535",
           "author": "Mark Liberman",
