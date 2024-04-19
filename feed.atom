@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-19T01:06:07.893Z</updated>
+    <updated>2024-04-19T02:25:42.833Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Ev Fedorenko]]></title>
+        <id>https://mlfoundations.org/talk/fedorenko/</id>
+        <link href="https://mlfoundations.org/talk/fedorenko/"/>
+        <updated>2024-04-19T14:00:00.000Z</updated>
+        <author>
+            <name>Harvard ML Foundations</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[python [book review]]]></title>
         <id>http://xianblog.wordpress.com/?p=55686</id>
