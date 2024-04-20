@@ -2215,6 +2215,16 @@
       "siteUrl": "https://xianblog.wordpress.com",
       "articles": [
         {
+          "id": "http://xianblog.wordpress.com/?p=54579",
+          "author": "xi'an",
+          "description": "Visit the post for more.",
+          "link": "https://xianblog.wordpress.com/2024/04/20/mas-foulaquier/",
+          "publishedOn": "2024-04-20T18:20:20.000Z",
+          "wordCount": 2351,
+          "title": "Mas Foulaquier",
+          "imageUrl": "https://xianblog.files.wordpress.com/2023/11/1701067103442-e1701358058959.jpg"
+        },
+        {
           "id": "http://xianblog.wordpress.com/?p=55686",
           "author": "xi'an",
           "description": "A fellow coder shared with me this recent manual (in French) entitled python (for the computer language, not the snake) written by Nathalie Azoulai  as he found it an interesting literary (if not computer) program. It parses rather quickly and I compiled it in one single run on my way to Bristol [Mecca of punched […]",
@@ -2577,6 +2587,16 @@
       "feedUrl": "https://languagelog.ldc.upenn.edu/nll/?feed=rss2",
       "siteUrl": "https://languagelog.ldc.upenn.edu/nll",
       "articles": [
+        {
+          "id": "https://languagelog.ldc.upenn.edu/nll/?p=63610",
+          "author": "Mark Liberman",
+          "description": "Worries about future applications of AI technology focus on many things, including new forms of automation replacing human workers, realistic deepfake media spreading disinformation, and mass killing by autonomous military machines. But there's something happening already that hasn't gotten as much commentary: chatbots designed to be pals or romantic connections. In fact, 70 years ago, ELIZA […]",
+          "link": "https://languagelog.ldc.upenn.edu/nll/?p=63610&utm_source=rss&utm_medium=rss&utm_campaign=yay-newfriend",
+          "publishedOn": "2024-04-20T18:32:25.000Z",
+          "wordCount": 2687,
+          "title": "Yay Newfriend",
+          "imageUrl": null
+        },
         {
           "id": "https://languagelog.ldc.upenn.edu/nll/?p=63580",
           "author": "Victor Mair",
