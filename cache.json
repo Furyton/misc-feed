@@ -2205,6 +2205,16 @@
       "siteUrl": "https://xianblog.wordpress.com",
       "articles": [
         {
+          "id": "http://xianblog.wordpress.com/?p=55701",
+          "author": "xi'an",
+          "description": "Flip a fair coin 100 times, resulting in a sequence of heads (H) and tails (T). For each HH in the sequence, Alice gets a point; for each HT, Bob does, so e.g. for the subsequence THHHT Alice gets 2 points and Bob gets 1 point. Who is most likely to win? An interesting conundrum […]",
+          "link": "https://xianblog.wordpress.com/2024/04/22/joint-fiddlin/",
+          "publishedOn": "2024-04-21T22:24:05.000Z",
+          "wordCount": 2458,
+          "title": "joint fiddlin",
+          "imageUrl": "https://i.stack.imgur.com/2VkPE.png"
+        },
+        {
           "id": "http://xianblog.wordpress.com/?p=55908",
           "author": "xi'an",
           "description": "The registration for BAYSM 2024 is now officially open. The Bayesian Young Statistician Meeting will take place in Ca’Foscari on 29 and 30 June, 2024, prior to the ISBA meeting. Early bird registration is available till 10 May and for a very low fee that includes lunches and a reception, terrificò! (Note that dedicated childcare […]",
@@ -2577,6 +2587,16 @@
       "feedUrl": "https://languagelog.ldc.upenn.edu/nll/?feed=rss2",
       "siteUrl": "https://languagelog.ldc.upenn.edu/nll",
       "articles": [
+        {
+          "id": "https://languagelog.ldc.upenn.edu/nll/?p=63647",
+          "author": "Mark Liberman",
+          "description": "David Deutsch wrote: I had to read this headline a couple of times. \"The pandemic cost 7 million lives, but talks to prevent a repeat stall\" Is the pandemic talking? Is it trying to prevent a repeat stall? That garden path failed to tempt me, perhaps because of the fact that the word \"talks\" in […]",
+          "link": "https://languagelog.ldc.upenn.edu/nll/?p=63647&utm_source=rss&utm_medium=rss&utm_campaign=that-talkative-pandemic",
+          "publishedOn": "2024-04-21T22:56:29.000Z",
+          "wordCount": 2144,
+          "title": "That talkative pandemic…",
+          "imageUrl": null
+        },
         {
           "id": "https://languagelog.ldc.upenn.edu/nll/?p=63636",
           "author": "Mark Liberman",
