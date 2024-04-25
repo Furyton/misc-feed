@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-25T22:14:03.170Z</updated>
+    <updated>2024-04-25T23:16:44.833Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[mind the gap [jatp]]]></title>
+        <id>http://xianblog.wordpress.com/?p=54855</id>
+        <link href="https://xianblog.wordpress.com/2024/04/26/mind-the-gap-jatp/"/>
+        <updated>2024-04-25T22:24:53.000Z</updated>
+        <summary type="html"><![CDATA[Visit the post for more.]]></summary>
+        <author>
+            <name>xi'an</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Non-defined flower]]></title>
         <id>https://languagelog.ldc.upenn.edu/nll/?p=63710</id>
@@ -1620,16 +1630,6 @@ Time series problems are ubiquitous, from forecasting weather and traffic patter
         <summary type="html"><![CDATA[From Tlacuilolli*, the blog about Mesoamerican writing systems, by Alonso Zamora, on March 21, 2024: *At the top left of the home page of this blog, there is a tiny seated figure (click to embiggen) with a sharp instrument held vertically in his right hand carving a glyph on a square block held in his left hand.  […]]]></summary>
         <author>
             <name>Victor Mair</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kabbalistic phonetics]]></title>
-        <id>https://languagelog.ldc.upenn.edu/nll/?p=63233</id>
-        <link href="https://languagelog.ldc.upenn.edu/nll/?p=63233&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=kabbalistic-phonetics"/>
-        <updated>2024-03-27T11:03:26.000Z</updated>
-        <summary type="html"><![CDATA[From Francis Mercury van Helmont, Alphabeti verè naturalis Hebraici brevissima delineatio : quae simul methodum suppeditat, juxta quam qui surdi nati sunt sic informari possunt, ut non alios saltem loquentes intelligant, sed & ipsi ad sermonis usum perveniant, 1667: That image is scanned from Allison P. Coudert, The Impact of the Kabbalah in the Seventeenth […]]]></summary>
-        <author>
-            <name>Mark Liberman</name>
         </author>
     </entry>
     <entry>
