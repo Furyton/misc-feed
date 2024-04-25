@@ -1688,6 +1688,22 @@
       "siteUrl": "https://www.argmin.net",
       "articles": [
         {
+          "id": "https://www.argmin.net/p/popperian-falsification",
+          "author": "Ben Recht",
+          "description": "Meehl's Philosophical Psychology, Lecture 2, Part 1",
+          "link": "https://www.argmin.net/p/popperian-falsification",
+          "publishedOn": "2024-04-24T14:25:42.000Z",
+          "wordCount": null,
+          "title": "Popperian Falsification",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substack-post-media.s3.amazonaws.com/public/images/f5fe30d9-e766-4470-8f81-f6f5f973e908_840x599.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substack-post-media.s3.amazonaws.com/public/images/f5fe30d9-e766-4470-8f81-f6f5f973e908_840x599.jpeg"
+        },
+        {
           "id": "https://www.argmin.net/p/everything-inherently-meta",
           "author": "Ben Recht",
           "description": "Meehl's Philosophical Psychology, Lecture 1",
@@ -1846,22 +1862,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substack-post-media.s3.amazonaws.com/public/images/097e421c-f8e3-4539-a852-dd807c2d0367_840x600.jpeg"
-        },
-        {
-          "id": "https://www.argmin.net/p/sounds-like-noise-to-me",
-          "author": "Ben Recht",
-          "description": "Computational randomness in the 1920s",
-          "link": "https://www.argmin.net/p/sounds-like-noise-to-me",
-          "publishedOn": "2024-03-26T14:32:38.000Z",
-          "wordCount": null,
-          "title": "Sounds Like Noise to Me",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substack-post-media.s3.amazonaws.com/public/images/125281b8-5926-4722-8f17-a07521e85098_440x301.png",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substack-post-media.s3.amazonaws.com/public/images/125281b8-5926-4722-8f17-a07521e85098_440x301.png"
         }
       ]
     },
@@ -2001,6 +2001,16 @@
       "siteUrl": "https://pytorch.org/",
       "articles": [
         {
+          "id": "https://pytorch.org/blog/pytorch2-3/",
+          "author": null,
+          "description": "We are excited to announce the release of PyTorch® 2.3 (release note)! PyTorch 2.3 offers support for user-defined Triton kernels in torch.compile, allowing for users to migrate their own Triton kernels from eager without experiencing performance regressions or graph breaks. Tensor Parallelism improves the experience for training Large Language Models using native PyTorch functions, which has been validated on training runs for 100B parameter models. As well, semi-structured sparsity implements semi-structured sparsity as a Tensor subclass, with observed speedups of up to 1.6 over dense matrix multiplication.",
+          "link": "https://pytorch.org/blog/pytorch2-3/",
+          "publishedOn": "2024-04-24T07:00:00.000Z",
+          "wordCount": 1153,
+          "title": "PyTorch 2.3 Release Blog",
+          "imageUrl": "https://pytorch.org/assets/images/social-share.jpg"
+        },
+        {
           "id": "https://pytorch.org/blog/torchtune-fine-tune-llms/",
           "author": null,
           "description": "We’re pleased to announce the alpha release of torchtune, a PyTorch-native library for easily fine-tuning large language models.",
@@ -2062,6 +2072,22 @@
       "feedUrl": "https://www.argmin.net/feed.xml",
       "siteUrl": "https://www.argmin.net",
       "articles": [
+        {
+          "id": "https://www.argmin.net/p/popperian-falsification",
+          "author": "Ben Recht",
+          "description": "Meehl's Philosophical Psychology, Lecture 2, Part 1",
+          "link": "https://www.argmin.net/p/popperian-falsification",
+          "publishedOn": "2024-04-24T14:25:42.000Z",
+          "wordCount": null,
+          "title": "Popperian Falsification",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substack-post-media.s3.amazonaws.com/public/images/f5fe30d9-e766-4470-8f81-f6f5f973e908_840x599.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substack-post-media.s3.amazonaws.com/public/images/f5fe30d9-e766-4470-8f81-f6f5f973e908_840x599.jpeg"
+        },
         {
           "id": "https://www.argmin.net/p/everything-inherently-meta",
           "author": "Ben Recht",
@@ -2221,22 +2247,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substack-post-media.s3.amazonaws.com/public/images/097e421c-f8e3-4539-a852-dd807c2d0367_840x600.jpeg"
-        },
-        {
-          "id": "https://www.argmin.net/p/sounds-like-noise-to-me",
-          "author": "Ben Recht",
-          "description": "Computational randomness in the 1920s",
-          "link": "https://www.argmin.net/p/sounds-like-noise-to-me",
-          "publishedOn": "2024-03-26T14:32:38.000Z",
-          "wordCount": null,
-          "title": "Sounds Like Noise to Me",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substack-post-media.s3.amazonaws.com/public/images/125281b8-5926-4722-8f17-a07521e85098_440x301.png",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substack-post-media.s3.amazonaws.com/public/images/125281b8-5926-4722-8f17-a07521e85098_440x301.png"
         }
       ]
     },
@@ -2298,6 +2308,16 @@
       "feedUrl": "https://xianblog.wordpress.com/feed/",
       "siteUrl": "https://xianblog.wordpress.com",
       "articles": [
+        {
+          "id": "http://xianblog.wordpress.com/?p=56042",
+          "author": "xi'an",
+          "description": "Visit the post for more.",
+          "link": "https://xianblog.wordpress.com/2024/04/25/air-shame-cover/",
+          "publishedOn": "2024-04-24T22:24:41.000Z",
+          "wordCount": 2428,
+          "title": "air shame [cover]",
+          "imageUrl": "https://xianblog.files.wordpress.com/2024/04/temp.jpeg"
+        },
         {
           "id": "http://xianblog.wordpress.com/?p=55576",
           "author": "xi'an",
@@ -2671,6 +2691,26 @@
       "feedUrl": "https://languagelog.ldc.upenn.edu/nll/?feed=rss2",
       "siteUrl": "https://languagelog.ldc.upenn.edu/nll",
       "articles": [
+        {
+          "id": "https://languagelog.ldc.upenn.edu/nll/?p=63700",
+          "author": "Victor Mair",
+          "description": "Really happy to announce our new (open access) paper was finally published today in @LinguisticsJ! \"Geographic structure of Chinese dialects: A computational dialectometric approach\"https://t.co/oyNPabq0CN with He Huang (lead author), Lei Jia and Zhuo Chi A short … pic.twitter.com/ldXwh3FDCU — Jack Grieve (@JWGrieve) April 23, 2024 This is the cited paper: \"Geographic structure of Chinese dialects: […]",
+          "link": "https://languagelog.ldc.upenn.edu/nll/?p=63700&utm_source=rss&utm_medium=rss&utm_campaign=chinese-dialectometry-fundamental-flaws",
+          "publishedOn": "2024-04-24T23:51:15.000Z",
+          "wordCount": 3712,
+          "title": "Chinese dialectometry: fundamental flaws",
+          "imageUrl": null
+        },
+        {
+          "id": "https://languagelog.ldc.upenn.edu/nll/?p=63706",
+          "author": "Mark Liberman",
+          "description": "Jennifer Rubin, \"Has Trump’s family abandoned him? I’m answering your questions\", WaPo 4/24/2024: Q: Are Republicans the party of no? Why can't Republicans say yes? Instead of getting a border deal in exchange for Ukraine funding, they got nothing. A (Jennifer Rubin, Opinion Columnist): Yup. They are the masters at cutting off their noses despite […]",
+          "link": "https://languagelog.ldc.upenn.edu/nll/?p=63706&utm_source=rss&utm_medium=rss&utm_campaign=despite-their-faces",
+          "publishedOn": "2024-04-24T19:08:55.000Z",
+          "wordCount": 2521,
+          "title": "Despite their faces…",
+          "imageUrl": null
+        },
         {
           "id": "https://languagelog.ldc.upenn.edu/nll/?p=63695",
           "author": "Victor Mair",
@@ -3214,16 +3254,6 @@
           "publishedOn": "2024-03-27T11:03:26.000Z",
           "wordCount": 2134,
           "title": "Kabbalistic phonetics",
-          "imageUrl": null
-        },
-        {
-          "id": "https://languagelog.ldc.upenn.edu/nll/?p=63227",
-          "author": "Victor Mair",
-          "description": "My basement is full of unpublished manuscripts.  I call it the \"Dungeon\", because it is dark, dank, and crowded with books and papers — much worse than my office, which has achieved a fabled reputation for its crampedness — and very cold in the winter, though it does have a wonderful bay window on the […]",
-          "link": "https://languagelog.ldc.upenn.edu/nll/?p=63227&utm_source=rss&utm_medium=rss&utm_campaign=china-babel",
-          "publishedOn": "2024-03-26T13:12:42.000Z",
-          "wordCount": 3874,
-          "title": "China Babel",
           "imageUrl": null
         }
       ]

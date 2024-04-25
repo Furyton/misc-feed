@@ -2,10 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-24T13:21:46.295Z</updated>
+    <updated>2024-04-25T09:16:08.026Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Chinese dialectometry: fundamental flaws]]></title>
+        <id>https://languagelog.ldc.upenn.edu/nll/?p=63700</id>
+        <link href="https://languagelog.ldc.upenn.edu/nll/?p=63700&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=chinese-dialectometry-fundamental-flaws"/>
+        <updated>2024-04-24T23:51:15.000Z</updated>
+        <summary type="html"><![CDATA[Really happy to announce our new (open access) paper was finally published today in @LinguisticsJ! "Geographic structure of Chinese dialects: A computational dialectometric approach"https://t.co/oyNPabq0CN with He Huang (lead author), Lei Jia and Zhuo Chi A short … pic.twitter.com/ldXwh3FDCU — Jack Grieve (@JWGrieve) April 23, 2024 This is the cited paper: "Geographic structure of Chinese dialects: […]]]></summary>
+        <author>
+            <name>Victor Mair</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[air shame [cover]]]></title>
+        <id>http://xianblog.wordpress.com/?p=56042</id>
+        <link href="https://xianblog.wordpress.com/2024/04/25/air-shame-cover/"/>
+        <updated>2024-04-24T22:24:41.000Z</updated>
+        <summary type="html"><![CDATA[Visit the post for more.]]></summary>
+        <author>
+            <name>xi'an</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Despite their faces…]]></title>
+        <id>https://languagelog.ldc.upenn.edu/nll/?p=63706</id>
+        <link href="https://languagelog.ldc.upenn.edu/nll/?p=63706&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=despite-their-faces"/>
+        <updated>2024-04-24T19:08:55.000Z</updated>
+        <summary type="html"><![CDATA[Jennifer Rubin, "Has Trump’s family abandoned him? I’m answering your questions", WaPo 4/24/2024: Q: Are Republicans the party of no? Why can't Republicans say yes? Instead of getting a border deal in exchange for Ukraine funding, they got nothing. A (Jennifer Rubin, Opinion Columnist): Yup. They are the masters at cutting off their noses despite […]]]></summary>
+        <author>
+            <name>Mark Liberman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Popperian Falsification]]></title>
+        <id>https://www.argmin.net/p/popperian-falsification</id>
+        <link href="https://www.argmin.net/p/popperian-falsification"/>
+        <updated>2024-04-24T14:25:42.000Z</updated>
+        <summary type="html"><![CDATA[Meehl's Philosophical Psychology, Lecture 2, Part 1]]></summary>
+        <author>
+            <name>Ben Recht</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Popperian Falsification]]></title>
+        <id>https://www.argmin.net/p/popperian-falsification</id>
+        <link href="https://www.argmin.net/p/popperian-falsification"/>
+        <updated>2024-04-24T14:25:42.000Z</updated>
+        <summary type="html"><![CDATA[Meehl's Philosophical Psychology, Lecture 2, Part 1]]></summary>
+        <author>
+            <name>Ben Recht</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AI and real-time translation in Korea]]></title>
         <id>https://languagelog.ldc.upenn.edu/nll/?p=63695</id>
@@ -14,6 +64,16 @@
         <summary type="html"><![CDATA[Speaking of Korean translation and AI, as we did in recent posts (see "Selected readings"), let us take a look at the latest developments in Korea: New AI-based translation tools make their way into everyday life in Korea AI equipped with natural language processing software, which allows it to interpret human language in various contexts, […]]]></summary>
         <author>
             <name>Victor Mair</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PyTorch 2.3 Release Blog]]></title>
+        <id>https://pytorch.org/blog/pytorch2-3/</id>
+        <link href="https://pytorch.org/blog/pytorch2-3/"/>
+        <updated>2024-04-24T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[We are excited to announce the release of PyTorch® 2.3 (release note)! PyTorch 2.3 offers support for user-defined Triton kernels in torch.compile, allowing for users to migrate their own Triton kernels from eager without experiencing performance regressions or graph breaks. Tensor Parallelism improves the experience for training Large Language Models using native PyTorch functions, which has been validated on training runs for 100B parameter models. As well, semi-structured sparsity implements semi-structured sparsity as a Tensor subclass, with observed speedups of up to 1.6 over dense matrix multiplication.]]></summary>
+        <author>
+            <name>PyTorch Website</name>
         </author>
     </entry>
     <entry>
@@ -1570,36 +1630,6 @@ Time series problems are ubiquitous, from forecasting weather and traffic patter
         <summary type="html"><![CDATA[Visit the post for more.]]></summary>
         <author>
             <name>xi'an</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sounds Like Noise to Me]]></title>
-        <id>https://www.argmin.net/p/sounds-like-noise-to-me</id>
-        <link href="https://www.argmin.net/p/sounds-like-noise-to-me"/>
-        <updated>2024-03-26T14:32:38.000Z</updated>
-        <summary type="html"><![CDATA[Computational randomness in the 1920s]]></summary>
-        <author>
-            <name>Ben Recht</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sounds Like Noise to Me]]></title>
-        <id>https://www.argmin.net/p/sounds-like-noise-to-me</id>
-        <link href="https://www.argmin.net/p/sounds-like-noise-to-me"/>
-        <updated>2024-03-26T14:32:38.000Z</updated>
-        <summary type="html"><![CDATA[Computational randomness in the 1920s]]></summary>
-        <author>
-            <name>Ben Recht</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[China Babel]]></title>
-        <id>https://languagelog.ldc.upenn.edu/nll/?p=63227</id>
-        <link href="https://languagelog.ldc.upenn.edu/nll/?p=63227&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=china-babel"/>
-        <updated>2024-03-26T13:12:42.000Z</updated>
-        <summary type="html"><![CDATA[My basement is full of unpublished manuscripts.  I call it the "Dungeon", because it is dark, dank, and crowded with books and papers — much worse than my office, which has achieved a fabled reputation for its crampedness — and very cold in the winter, though it does have a wonderful bay window on the […]]]></summary>
-        <author>
-            <name>Victor Mair</name>
         </author>
     </entry>
     <entry>
