@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-26T11:12:53.338Z</updated>
+    <updated>2024-04-26T12:28:40.025Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -1600,26 +1600,6 @@ Time series problems are ubiquitous, from forecasting weather and traffic patter
         <summary type="html"><![CDATA[From Philip Taylor: A nice pun on Wikipedia’s ubiquitous "citation needed" Wikipedia's list of cetaceans, which reads (in part): Tamanend's bottlenose dolphin Tursiops erebennus Cope, 1865 NE Unknown     [cetacean needed] Lovely pun indeed! Tamanend's bottlenose dolphin (Tursiops erebennus) is a species of bottlenose dolphin that inhabits coastal waters in the eastern United States. […]]]></summary>
         <author>
             <name>Victor Mair</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[lecturing in Collège]]></title>
-        <id>http://xianblog.wordpress.com/?p=55502</id>
-        <link href="https://xianblog.wordpress.com/2024/03/28/lecturing-in-college/"/>
-        <updated>2024-03-27T23:24:10.000Z</updated>
-        <summary type="html"><![CDATA[A few weeks ago I gave a seminar on ABC (and its asymptotics) in the beautiful amphitheatre Marguerite de Navarre (a writer, a thinker, and a protector of writers like Rabelais and of reformist catholics, as well as th sister of the Collège founder, François I) of Collège de France, as complement of the lecture of […]]]></summary>
-        <author>
-            <name>xi'an</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[very] simple rejection Monte Carlo]]></title>
-        <id>http://xianblog.wordpress.com/?p=55427</id>
-        <link href="https://xianblog.wordpress.com/2024/03/28/very-simple-rejection-monte-carlo/"/>
-        <updated>2024-03-27T23:24:03.000Z</updated>
-        <summary type="html"><![CDATA[“In recent years, the Rejection Monte Carlo (RMC) algorithm has emerged sporadically in literature under alternative names such as screening sampling or reject-accept sampling algorithms” First, I was intrigued enough by a new arXival spotted in the Thalys train from Brussels to take a deeper look at it, but soon realised there was nothing of […]]]></summary>
-        <author>
-            <name>xi'an</name>
         </author>
     </entry>
     <entry>
