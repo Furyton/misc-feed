@@ -1688,6 +1688,22 @@
       "siteUrl": "https://www.argmin.net",
       "articles": [
         {
+          "id": "https://www.argmin.net/p/inconvenient-facts",
+          "author": "Ben Recht",
+          "description": "Meehl's Philosophical Psychology, Lecture 2, Part 2",
+          "link": "https://www.argmin.net/p/inconvenient-facts",
+          "publishedOn": "2024-04-26T14:00:14.000Z",
+          "wordCount": null,
+          "title": "Inconvenient Facts",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substack-post-media.s3.amazonaws.com/public/images/8ed291a5-8729-48aa-b32b-bb759c7eea4b_840x598.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substack-post-media.s3.amazonaws.com/public/images/8ed291a5-8729-48aa-b32b-bb759c7eea4b_840x598.jpeg"
+        },
+        {
           "id": "https://www.argmin.net/p/popperian-falsification",
           "author": "Ben Recht",
           "description": "Meehl's Philosophical Psychology, Lecture 2, Part 1",
@@ -2072,6 +2088,22 @@
       "feedUrl": "https://www.argmin.net/feed.xml",
       "siteUrl": "https://www.argmin.net",
       "articles": [
+        {
+          "id": "https://www.argmin.net/p/inconvenient-facts",
+          "author": "Ben Recht",
+          "description": "Meehl's Philosophical Psychology, Lecture 2, Part 2",
+          "link": "https://www.argmin.net/p/inconvenient-facts",
+          "publishedOn": "2024-04-26T14:00:14.000Z",
+          "wordCount": null,
+          "title": "Inconvenient Facts",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substack-post-media.s3.amazonaws.com/public/images/8ed291a5-8729-48aa-b32b-bb759c7eea4b_840x598.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substack-post-media.s3.amazonaws.com/public/images/8ed291a5-8729-48aa-b32b-bb759c7eea4b_840x598.jpeg"
+        },
         {
           "id": "https://www.argmin.net/p/popperian-falsification",
           "author": "Ben Recht",
@@ -3214,16 +3246,6 @@
           "publishedOn": "2024-03-28T19:29:35.000Z",
           "wordCount": 2225,
           "title": "PP attachment ambiguity of the day",
-          "imageUrl": null
-        },
-        {
-          "id": "https://languagelog.ldc.upenn.edu/nll/?p=63230",
-          "author": "Victor Mair",
-          "description": "From Philip Taylor: A nice pun on Wikipedia’s ubiquitous \"citation needed\" Wikipedia's list of cetaceans, which reads (in part): Tamanend's bottlenose dolphin Tursiops erebennus Cope, 1865 NE Unknown     [cetacean needed] Lovely pun indeed! Tamanend's bottlenose dolphin (Tursiops erebennus) is a species of bottlenose dolphin that inhabits coastal waters in the eastern United States. […]",
-          "link": "https://languagelog.ldc.upenn.edu/nll/?p=63230&utm_source=rss&utm_medium=rss&utm_campaign=cetacean-needed",
-          "publishedOn": "2024-03-28T01:26:53.000Z",
-          "wordCount": 2113,
-          "title": "Cetacean needed",
           "imageUrl": null
         }
       ]
