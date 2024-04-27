@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-27T22:14:23.612Z</updated>
+    <updated>2024-04-27T23:15:23.866Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[fast and curious]]></title>
+        <id>http://xianblog.wordpress.com/?p=55826</id>
+        <link href="https://xianblog.wordpress.com/2024/04/28/fast-and-curious/"/>
+        <updated>2024-04-27T22:24:42.000Z</updated>
+        <summary type="html"><![CDATA[A paper in Frontiers attempted modelling the optimization of world-class 400 m and 1,500 m running performances using high-resolution data. “In the present study, rather than using statistical analyses of 100-m split times or big data, we choose to analyze a select sample of World-class athletes individually using high-resolution data and ﬁt a mathematical model to their […]]]></summary>
+        <author>
+            <name>xi'an</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[My Notices AMS Paper on Quantum Computers – Eight Years Later,  a Lecture by Dorit Aharonov, and a Toast to Michael Ben-Or]]></title>
         <id>http://gilkalai.wordpress.com/?p=26118</id>
