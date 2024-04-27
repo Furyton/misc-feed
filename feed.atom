@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-27T07:12:52.302Z</updated>
+    <updated>2024-04-27T08:19:02.784Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -1610,16 +1610,6 @@ Accurate weather forecasts can have a direct impact on people’s lives, from he
 Time series problems are ubiquitous, from forecasting weather and traffic patterns to understanding economic trends. Bayesian approaches start with an assumption about the data's patterns (prior probability), collecting evidence (e.g., new time series data), and continuously updating that assumption to form a posterior probability distribution. Traditional Bayesian approaches like Gaussian processes (GPs) and Structural Time Series are extensively used for modeling time series data, e.g., the commonly used Mauna Loa CO2 dataset. However, they often rely on domain experts to painstakingly select appropriate model components and may be computationally expensive. Alternatives such as neural networks lack interpretability, making it …]]></summary>
         <author>
             <name>Google AI Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PP attachment ambiguity of the day]]></title>
-        <id>https://languagelog.ldc.upenn.edu/nll/?p=63249</id>
-        <link href="https://languagelog.ldc.upenn.edu/nll/?p=63249&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=pp-attachment-ambiguity-of-the-day"/>
-        <updated>2024-03-28T19:29:35.000Z</updated>
-        <summary type="html"><![CDATA[Chrisma Madarang, "Man Accusing CPAC Chair Matt Schlapp of Sexual Assault Was Paid $480,000: Report", Rolling Stone 3/27/2024: Huffman claimed Mrs. Schlapp attempted to “impugn” his character in her response to the allegations against her husband, calling him a “troubled individual,” and alleged he had been dismissed from the campaign after lying on his resume […]]]></summary>
-        <author>
-            <name>Mark Liberman</name>
         </author>
     </entry>
     <entry>
