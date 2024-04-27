@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-27T14:12:36.773Z</updated>
+    <updated>2024-04-27T15:14:32.018Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -1575,26 +1575,6 @@ Accurate weather forecasts can have a direct impact on people’s lives, from he
         <summary type="html"><![CDATA[在这个系列的第二篇文章《Transformer升级之路：2、博采众长的旋转式位置编码》中，笔者提出了旋转位置编码（RoPE）——通过绝对位置的形式实现相对位置编码的方案。一开始RoPE是针对一维...]]></summary>
         <author>
             <name>苏剑林</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[STOC/Theory fest 2024]]></title>
-        <id>http://windowsontheory.org/?p=8769</id>
-        <link href="https://windowsontheory.org/2024/03/28/stoc-theory-fest-2024/"/>
-        <updated>2024-03-29T02:26:36.000Z</updated>
-        <summary type="html"><![CDATA[STOC/TheoryFest 2024 is in Vancouver, British Columbia this year, during the week of June 24-28. The registration website is now open at http://acm-stoc.org/stoc2024/registration.html In addition to the STOC 2024 paper talks, the program features keynote talks by Michal Feldman, Jakub Pachocki, and Tim Roughgarden, and workshops on Algorithmic Problems in Modern LLMs, Extremal Combinatorics, Length-Constrained Expanders, Online … Continue reading STOC/Theory fest 2024]]></summary>
-        <author>
-            <name>Boaz Barak</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[STOC/Theory fest 2024]]></title>
-        <id>http://windowsontheory.org/?p=8769</id>
-        <link href="https://windowsontheory.org/2024/03/28/stoc-theory-fest-2024/"/>
-        <updated>2024-03-29T02:26:36.000Z</updated>
-        <summary type="html"><![CDATA[STOC/TheoryFest 2024 is in Vancouver, British Columbia this year, during the week of June 24-28. The registration website is now open at http://acm-stoc.org/stoc2024/registration.html In addition to the STOC 2024 paper talks, the program features keynote talks by Michal Feldman, Jakub Pachocki, and Tim Roughgarden, and workshops on Algorithmic Problems in Modern LLMs, Extremal Combinatorics, Length-Constrained Expanders, Online … Continue reading STOC/Theory fest 2024]]></summary>
-        <author>
-            <name>Boaz Barak</name>
         </author>
     </entry>
     <entry>
