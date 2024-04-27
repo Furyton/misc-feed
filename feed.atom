@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-27T08:19:02.784Z</updated>
+    <updated>2024-04-27T09:14:28.046Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -1595,21 +1595,6 @@ Accurate weather forecasts can have a direct impact on people’s lives, from he
         <summary type="html"><![CDATA[“In recent years, the Rejection Monte Carlo (RMC) algorithm has emerged sporadically in literature under alternative names such as screening sampling or reject-accept sampling algorithms” First, I was intrigued enough by a new arXival spotted in the Thalys train from Brussels to take a deeper look at it, but soon realised there was nothing of […]]]></summary>
         <author>
             <name>xi'an</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AutoBNN: Probabilistic time series forecasting with compositional bayesian neural networks]]></title>
-        <id>http://blog.research.google/2024/03/autobnn-probabilistic-time-series.html</id>
-        <link href="http://blog.research.google/2024/03/autobnn-probabilistic-time-series.html"/>
-        <updated>2024-03-28T20:53:00.000Z</updated>
-        <summary type="html"><![CDATA[Posted by Urs Köster, Software Engineer, Google Research
-
-
-
-
-Time series problems are ubiquitous, from forecasting weather and traffic patterns to understanding economic trends. Bayesian approaches start with an assumption about the data's patterns (prior probability), collecting evidence (e.g., new time series data), and continuously updating that assumption to form a posterior probability distribution. Traditional Bayesian approaches like Gaussian processes (GPs) and Structural Time Series are extensively used for modeling time series data, e.g., the commonly used Mauna Loa CO2 dataset. However, they often rely on domain experts to painstakingly select appropriate model components and may be computationally expensive. Alternatives such as neural networks lack interpretability, making it …]]></summary>
-        <author>
-            <name>Google AI Blog</name>
         </author>
     </entry>
     <entry>
