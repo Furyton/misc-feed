@@ -1469,16 +1469,6 @@
           "wordCount": 1562,
           "title": "生成扩散模型漫谈（二十二）：信噪比与大图生成",
           "imageUrl": null
-        },
-        {
-          "id": "https://kexue.fm/archives/10040",
-          "author": "苏剑林",
-          "description": "在这个系列的第二篇文章《Transformer升级之路：2、博采众长的旋转式位置编码》中，笔者提出了旋转位置编码（RoPE）——通过绝对位置的形式实现相对位置编码的方案。一开始RoPE是针对一维...",
-          "link": "https://kexue.fm/archives/10040",
-          "publishedOn": "2024-03-29T12:04:00.000Z",
-          "wordCount": 1841,
-          "title": "Transformer升级之路：17、多模态编码位置的简单思考",
-          "imageUrl": null
         }
       ]
     },
