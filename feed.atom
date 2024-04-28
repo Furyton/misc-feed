@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-28T05:15:28.236Z</updated>
+    <updated>2024-04-28T06:20:12.114Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -1580,21 +1580,6 @@ How to think about your child and your role as a parent These are framing device
         <summary type="html"><![CDATA[Visit the post for more.]]></summary>
         <author>
             <name>xi'an</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Generative AI to quantify uncertainty in weather forecasting]]></title>
-        <id>http://blog.research.google/2024/03/generative-ai-to-quantify-uncertainty.html</id>
-        <link href="http://blog.research.google/2024/03/generative-ai-to-quantify-uncertainty.html"/>
-        <updated>2024-03-29T18:03:00.000Z</updated>
-        <summary type="html"><![CDATA[Posted by Lizao (Larry) Li, Software Engineer, and Rob Carver, Research Scientist, Google Research
-
-
-
-
-Accurate weather forecasts can have a direct impact on people’s lives, from helping make routine decisions, like what to pack for a day’s activities, to informing urgent actions, for example, protecting people in the face of hazardous weather conditions. The importance of accurate and timely weather forecasts will only increase as the climate changes. Recognizing this, we at Google have been investing in weather and climate research to help ensure that the forecasting technology of tomorrow can meet the demand for reliable weather information. Some of our recent innovations include MetNet-3, Google's high-resolution forecasts up to 24-hours into the future, and GraphCast, a weather model …]]></summary>
-        <author>
-            <name>Google AI Blog</name>
         </author>
     </entry>
     <entry>
