@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-30T16:20:11.735Z</updated>
+    <updated>2024-04-30T17:13:39.827Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -14,6 +14,16 @@
         <summary type="html"><![CDATA["They are known as one of archaeology’s great enigmas – hollow 12-sided objects from the Roman era with no known purpose or use." So begins this article by Jessica Murray in The Guardian (4/29/24): Mysterious Roman dodecahedron to go on display in Lincoln There are no known descriptions or drawings of object in Roman literature, […]]]></summary>
         <author>
             <name>Victor Mair</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ExecuTorch Alpha: Taking LLMs and AI to the Edge with Our Community and Partners]]></title>
+        <id>https://pytorch.org/blog/executorch-alpha/</id>
+        <link href="https://pytorch.org/blog/executorch-alpha/"/>
+        <updated>2024-04-30T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[We are excited to announce the release of ExecuTorch alpha, focused on deploying large language models (LLMs) and large ML models to the edge, stabilizing the API surface, and improving our installation processes. It has been an exciting few months from our 0.1 (preview) release in collaboration with our partners at Arm, Apple, and Qualcomm Technologies, Inc.]]></summary>
+        <author>
+            <name>PyTorch Website</name>
         </author>
     </entry>
     <entry>
