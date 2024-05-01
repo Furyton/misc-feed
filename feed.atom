@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-05-01T07:18:04.953Z</updated>
+    <updated>2024-05-01T08:22:47.488Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[以蒸馏的名义：“从去噪自编码器到生成模型”重出江湖]]></title>
+        <id>https://kexue.fm/archives/10085</id>
+        <link href="https://kexue.fm/archives/10085"/>
+        <updated>2024-05-01T07:23:00.000Z</updated>
+        <summary type="html"><![CDATA[今天我们分享一下论文《Score identity Distillation: Exponentially Fast Distillation of Pretrained Diffusion M...]]></summary>
+        <author>
+            <name>苏剑林</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[thou shalt not slice thine spaghetti]]></title>
         <id>http://xianblog.wordpress.com/?p=55842</id>

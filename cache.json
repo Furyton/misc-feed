@@ -1431,6 +1431,16 @@
       "siteUrl": "https://kexue.fm/",
       "articles": [
         {
+          "id": "https://kexue.fm/archives/10085",
+          "author": "苏剑林",
+          "description": "今天我们分享一下论文《Score identity Distillation: Exponentially Fast Distillation of Pretrained Diffusion M...",
+          "link": "https://kexue.fm/archives/10085",
+          "publishedOn": "2024-05-01T07:23:00.000Z",
+          "wordCount": 1684,
+          "title": "以蒸馏的名义：“从去噪自编码器到生成模型”重出江湖",
+          "imageUrl": null
+        },
+        {
           "id": "https://kexue.fm/archives/10077",
           "author": "苏剑林",
           "description": "如何减少采样步数同时保证生成质量，是扩散模型应用层面的一个关键问题。其中，《生成扩散模型漫谈（四）：DDIM = 高观点DDPM》介绍的DDIM可谓是加速采样的第一次尝试。后来，《生成扩散模型漫...",
