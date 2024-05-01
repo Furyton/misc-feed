@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-05-01T12:29:35.060Z</updated>
+    <updated>2024-05-01T13:16:45.055Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[An editorial dialog with GPT-4]]></title>
+        <id>https://languagelog.ldc.upenn.edu/nll/?p=63800</id>
+        <link href="https://languagelog.ldc.upenn.edu/nll/?p=63800&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=an-editorial-dialog-with-gpt-4"/>
+        <updated>2024-05-01T12:40:24.000Z</updated>
+        <summary type="html"><![CDATA[Let's set the stage. A writer has drafted an essay for a publication that has specified a maximum word count of 5,000, and a preferred range of 1350 to 2700. The draft totaled 4,869 words, so it was within the limit, but not in the preferred range. Facing an imminent deadline, and knowing that I […]]]></summary>
+        <author>
+            <name>Mark Liberman</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Languageness]]></title>
         <id>https://languagelog.ldc.upenn.edu/nll/?p=63791</id>
