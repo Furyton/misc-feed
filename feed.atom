@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-05-03T18:19:30.243Z</updated>
+    <updated>2024-05-03T19:12:47.159Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -1627,16 +1627,6 @@ It has extra requirements on temporal consistency across frames, which naturally
         <summary type="html"><![CDATA[The inevitability of uncertainty in measurement]]></summary>
         <author>
             <name>Ben Recht</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Accelerating MoE model inference with Locality-Aware Kernel Design]]></title>
-        <id>https://pytorch.org/blog/accelerating-moe-model/</id>
-        <link href="https://pytorch.org/blog/accelerating-moe-model/"/>
-        <updated>2024-04-04T07:00:00.000Z</updated>
-        <summary type="html"><![CDATA[1.0 Summary]]></summary>
-        <author>
-            <name>PyTorch Website</name>
         </author>
     </entry>
     <entry>
