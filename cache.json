@@ -1985,7 +1985,18 @@
       "title": "scikit-learn Blog",
       "feedUrl": "https://blog.scikit-learn.org/feed",
       "siteUrl": "https://blog.scikit-learn.org/",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://blog.scikit-learn.org/updates/authorship-info/",
+          "author": null,
+          "description": "Author: Adrin Jalali",
+          "link": "https://blog.scikit-learn.org/updates/authorship-info/",
+          "publishedOn": "2024-05-04T00:00:00.000Z",
+          "wordCount": 410,
+          "title": "Note on Inline Authorship Information in scikit-learn",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "Machine Learning (Theory)",

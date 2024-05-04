@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-05-04T09:15:59.079Z</updated>
+    <updated>2024-05-04T10:14:38.204Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -14,6 +14,16 @@
         <summary type="html"><![CDATA[Today's xkcd: Mouseover title: "The company tried to document how often employees were celebrating Software Testing Day, but their recordkeeping system kept mysteriously crashing." Caroline Davies, "‘They thought I was a child’: US airline repeatedly registers 101-year-old as baby", The Guardian 4/28/2024: A 101-year-old woman has been frequently mistaken for an infant because an airline’s […]]]></summary>
         <author>
             <name>Mark Liberman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Note on Inline Authorship Information in scikit-learn]]></title>
+        <id>https://blog.scikit-learn.org/updates/authorship-info/</id>
+        <link href="https://blog.scikit-learn.org/updates/authorship-info/"/>
+        <updated>2024-05-04T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author: Adrin Jalali]]></summary>
+        <author>
+            <name>scikit-learn Blog</name>
         </author>
     </entry>
     <entry>
