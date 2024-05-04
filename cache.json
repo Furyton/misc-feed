@@ -2105,7 +2105,18 @@
       "title": "Math ∩ Programming",
       "feedUrl": "https://jeremykun.com/feed/",
       "siteUrl": "https://www.jeremykun.com/",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://www.jeremykun.com/2024/05/04/fhe-overview/",
+          "author": null,
+          "description": "About two years ago, I switched teams at Google to focus on fully homomorphic encryption (abbreviated FHE, or sometimes HE). Since then I’ve got to work on a lot of interesting projects, learning along the way about post-quantum cryptography, compiler design, and the ins and outs of fully homomorphic encryption.\nIf you’ve heard about FHE and you’re a software person, you’ve probably heard two things: it lets you run programs directly on encrypted data without ever decrypting it; and it’s still too slow to be useful for anything.",
+          "link": "https://www.jeremykun.com/2024/05/04/fhe-overview/",
+          "publishedOn": "2024-05-04T15:30:00.000Z",
+          "wordCount": 8382,
+          "title": "A High-Level Technical Overview of Fully Homomorphic Encryption",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "Jonty Sinai",
@@ -2382,6 +2393,16 @@
       "feedUrl": "https://xianblog.wordpress.com/feed/",
       "siteUrl": "https://xianblog.wordpress.com",
       "articles": [
+        {
+          "id": "http://xianblog.wordpress.com/?p=55594",
+          "author": "xi'an",
+          "description": "Visit the post for more.",
+          "link": "https://xianblog.wordpress.com/2024/05/05/winter-sun-cover/",
+          "publishedOn": "2024-05-04T22:24:25.000Z",
+          "wordCount": 2347,
+          "title": "winter sun [cover]",
+          "imageUrl": "https://media.newyorker.com/photos/659f1d1820fa0af867fec718/master/w_2240,c_limit/CoverStory-STORY_campion_winter_sun.jpg"
+        },
         {
           "id": "http://xianblog.wordpress.com/?p=55766",
           "author": "xi'an",
