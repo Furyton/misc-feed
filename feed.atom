@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-05-05T13:16:09.607Z</updated>
+    <updated>2024-05-05T14:14:05.287Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[New frontiers in dataset corruption]]></title>
+        <id>https://languagelog.ldc.upenn.edu/nll/?p=63868</id>
+        <link href="https://languagelog.ldc.upenn.edu/nll/?p=63868&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=new-frontiers-in-dataset-corruption"/>
+        <updated>2024-05-05T14:06:33.000Z</updated>
+        <summary type="html"><![CDATA[In a comment on yesterday's "Software testing day" post, ernie in berkeley offered a nice "QA Engineer walks into a bar" joke, and pointed us to its origin in an old xkcd comic "Exploits of a Mom": …which in turn reminded me of an old problem, discussed in "Excel invents genes", 8/26/2016: Mark Ziemann, Yotam […]]]></summary>
+        <author>
+            <name>Mark Liberman</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[From Chariot to Carriage]]></title>
         <id>https://languagelog.ldc.upenn.edu/nll/?p=63839</id>
