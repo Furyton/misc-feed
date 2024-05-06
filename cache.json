@@ -2113,6 +2113,16 @@
       "siteUrl": "https://www.jeremykun.com/",
       "articles": [
         {
+          "id": "https://www.jeremykun.com/shortform/2024-05-06-1018/",
+          "author": null,
+          "description": "I’ve been learning recently about how to approximate functions by low-degree polynomials. This is useful in FHE in the context of “arithmetic FHE” (see my FHE overview article), where the computational model makes low-degree polynomials cheap to evaluate and non-polynomial functions expensive or impossible.\nIn browsing the state of the art I came across two interesting things. The first is the software package lolremez that implements polynomial (and rational polynomial $f(x) / g(x)$) function approximation using the so-called Remez algorithm.",
+          "link": "https://www.jeremykun.com/shortform/2024-05-06-1018/",
+          "publishedOn": "2024-05-06T17:18:29.000Z",
+          "wordCount": 513,
+          "title": "Remez and function approximations",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.jeremykun.com/2024/05/04/fhe-overview/",
           "author": null,
           "description": "About two years ago, I switched teams at Google to focus on fully homomorphic encryption (abbreviated FHE, or sometimes HE). Since then I’ve got to work on a lot of interesting projects, learning along the way about post-quantum cryptography, compiler design, and the ins and outs of fully homomorphic encryption.\nIf you’ve heard about FHE and you’re a software person, you’ve probably heard two things: it lets you run programs directly on encrypted data without ever decrypting it; and it’s still too slow to be useful for anything.",

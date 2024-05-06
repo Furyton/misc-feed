@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-05-06T18:22:58.991Z</updated>
+    <updated>2024-05-06T19:13:08.053Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Remez and function approximations]]></title>
+        <id>https://www.jeremykun.com/shortform/2024-05-06-1018/</id>
+        <link href="https://www.jeremykun.com/shortform/2024-05-06-1018/"/>
+        <updated>2024-05-06T17:18:29.000Z</updated>
+        <summary type="html"><![CDATA[I’ve been learning recently about how to approximate functions by low-degree polynomials. This is useful in FHE in the context of “arithmetic FHE” (see my FHE overview article), where the computational model makes low-degree polynomials cheap to evaluate and non-polynomial functions expensive or impossible.
+In browsing the state of the art I came across two interesting things. The first is the software package lolremez that implements polynomial (and rational polynomial $f(x) / g(x)$) function approximation using the so-called Remez algorithm.]]></summary>
+        <author>
+            <name>Math ∩ Programming</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Overhead Projections]]></title>
         <id>https://www.argmin.net/p/overhead-projections</id>
