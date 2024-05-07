@@ -1459,16 +1459,6 @@
           "wordCount": null,
           "title": "生成扩散模型漫谈（二十三）：信噪比与大图生成（下）",
           "imageUrl": null
-        },
-        {
-          "id": "https://kexue.fm/archives/10047",
-          "author": "苏剑林",
-          "description": "盘点主流的图像扩散模型作品，我们会发现一个特点：当前多数做高分辨率图像生成（下面简称“大图生成”）的工作，都是先通过Encoder变换到Latent空间进行的（即LDM，Latent Diffu...",
-          "link": "https://kexue.fm/archives/10047",
-          "publishedOn": "2024-04-08T08:01:00.000Z",
-          "wordCount": 1562,
-          "title": "生成扩散模型漫谈（二十二）：信噪比与大图生成",
-          "imageUrl": null
         }
       ]
     },
