@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-05-07T01:08:34.557Z</updated>
+    <updated>2024-05-07T02:32:02.079Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Cool Papers更新：简单搭建了一个站内检索系统]]></title>
+        <id>https://kexue.fm/archives/10088</id>
+        <link href="https://kexue.fm/archives/10088"/>
+        <updated>2024-05-07T02:12:00.000Z</updated>
+        <summary type="html"><![CDATA[自从《更便捷的Cool Papers打开方式：Chrome重定向扩展》之后，Cool Papers有两次比较大的变化，一次是引入了venue分支，逐步收录了一些会议历年的论文集，如ICLR、IC...]]></summary>
+        <author>
+            <name>苏剑林</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Le Havre New York[er]]]></title>
         <id>http://xianblog.wordpress.com/?p=55705</id>
