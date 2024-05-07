@@ -1501,6 +1501,46 @@
       "siteUrl": "https://warwick.ac.uk/fac/sci/statistics/event_diary/",
       "articles": [
         {
+          "id": "8a17841b8f342e08018f554737c0101b",
+          "author": "Statistics",
+          "description": "When:\r\n\t\r\n  \t\t13:00\r\n\t\t-\r\n\t\t14:00, Mon, 17 Jun '24\r\n\r\n\t\nWhere: MB0.07, MSB\n\r\n\t\nby Dr. Francis Bach, Departement d'Informatique de l'Ecole Normale Superieure, PSL Research University, Centre de Recherche INRIA de Paris.\n\r\nAbstract: TBD",
+          "link": "https://warwick.ac.uk/fac/sci/statistics/event_diary/?calendarItem=8a17841b8f342e08018f554737c0101a",
+          "publishedOn": "2024-05-07T22:58:01.000Z",
+          "wordCount": 338,
+          "title": "17/06 1pm-2pm: Statistics Seminar - TBD",
+          "imageUrl": null
+        },
+        {
+          "id": "8a1785d88f3430db018f55460a8d3cc1",
+          "author": "Statistics",
+          "description": "When:\r\n\t\r\n  \t\t13:00\r\n\t\t-\r\n\t\t14:00, Mon, 10 Jun '24\r\n\r\n\t\nWhere: MB0.07, MSB\n\r\n\t\nby Professor Fabrice Rossi, (Université Paris Dauphine, France)\n\r\nAbstract: TBD",
+          "link": "https://warwick.ac.uk/fac/sci/statistics/event_diary/?calendarItem=8a1785d88f3430db018f55460a8d3cc0",
+          "publishedOn": "2024-05-07T22:56:44.000Z",
+          "wordCount": 327,
+          "title": "10/06 1pm-2pm: Statistics Seminar - TBD",
+          "imageUrl": null
+        },
+        {
+          "id": "8a1785d78f342dfe018f554453ec0bfe",
+          "author": "Statistics",
+          "description": "When:\r\n\t\r\n  \t\t13:00\r\n\t\t-\r\n\t\t14:00, Mon, 03 Jun '24\r\n\r\n\t\nWhere: MB0.07, MSB\n\r\n\t\nby Dr. Sam Olesker-Taylor, (University of Warwick)\n\r\nAbstract: TBD",
+          "link": "https://warwick.ac.uk/fac/sci/statistics/event_diary/?calendarItem=8a1785d78f342dfe018f554453ec0bfd",
+          "publishedOn": "2024-05-07T22:54:52.000Z",
+          "wordCount": 339,
+          "title": "03/06 1pm-2pm: Statistics Seminar - An Analysis of Elo Rating Systems via Markov Chains: MCMC Convergence and Tournament Design",
+          "imageUrl": null
+        },
+        {
+          "id": "8a17841b8f342e08018f554296f61018",
+          "author": "Statistics",
+          "description": "When:\r\n\t\r\n  \t\t13:00\r\n\t\t-\r\n\t\t14:00, Mon, 20 May '24\r\n\r\n\t\nWhere: MB0.07, MSB\n\r\n\t\nby Professor Fabrizio Leisen, (University of Nottingham)\n\r\nAbstract: TBD",
+          "link": "https://warwick.ac.uk/fac/sci/statistics/event_diary/?calendarItem=8a1785d78f342dfe018f553945190bf9",
+          "publishedOn": "2024-05-07T22:52:58.000Z",
+          "wordCount": 326,
+          "title": "20/05 1pm-2pm: Statistics Seminar - TBD",
+          "imageUrl": null
+        },
+        {
           "id": "8a17841b8f342e08018f551b8f58100c",
           "author": "Statistics",
           "description": "When:\r\n\t\r\n  \t\t13:00\r\n\t\t-\r\n\t\t14:00, Mon, 13 May '24\r\n\r\n\t\nWhere: MB0.07, MSB\n\r\n\t\nA major challenge in statistical learning involves developing models that can effectively leverage the structure of a problem and generalise well. Achieving this goal critically depends on the precise selection and application of suitable regularisation methods. Although there have been significant advancements in understanding explicit regularisation techniques, such as Lasso and nuclear norm minimisation, which have profoundly impacted the field in recent years, the development of regularisation approaches—especially those that are implicit or algorithmic—remains a difficult task. In this talk, we will address this challenge by exploring mirror descent, a family of first-order methods that generalise gradient descent. Using tools from probability and optimisation, we will introduce a structured framework for designing mirror maps and Bregman divergences. This framework enables mirror descent to attain optimal statistical rates in some settings in linear and kernel regression. If time permits, we will also briefly showcase the application of mirror descent in reinforcement learning, specifically focusing on the use of neural networks to learn mirror maps for policy optimisation.",
@@ -2435,6 +2475,16 @@
       "feedUrl": "https://xianblog.wordpress.com/feed/",
       "siteUrl": "https://xianblog.wordpress.com",
       "articles": [
+        {
+          "id": "http://xianblog.wordpress.com/?p=55880",
+          "author": "xi'an",
+          "description": "Visit the post for more.",
+          "link": "https://xianblog.wordpress.com/2024/05/08/xuriouser-xuriouser/",
+          "publishedOn": "2024-05-07T22:24:02.000Z",
+          "wordCount": 2374,
+          "title": "Xuriouser & Xuriouser",
+          "imageUrl": "https://xianblog.files.wordpress.com/2024/04/screenshot_20240415_201345.png"
+        },
         {
           "id": "http://xianblog.wordpress.com/?p=55705",
           "author": "xi'an",
