@@ -1708,6 +1708,22 @@
       "siteUrl": "https://www.argmin.net",
       "articles": [
         {
+          "id": "https://www.argmin.net/p/scholar-or-publicist",
+          "author": "Ben Recht",
+          "description": "Meehl's Philosophical Psychology, Lecture 3, Part 5/5.",
+          "link": "https://www.argmin.net/p/scholar-or-publicist",
+          "publishedOn": "2024-05-08T14:01:43.000Z",
+          "wordCount": null,
+          "title": "Scholar or Publicist",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substack-post-media.s3.amazonaws.com/public/images/770c023a-5aa1-4acc-80fb-a48c6e9cda49_840x599.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substack-post-media.s3.amazonaws.com/public/images/770c023a-5aa1-4acc-80fb-a48c6e9cda49_840x599.jpeg"
+        },
+        {
           "id": "https://www.argmin.net/p/overhead-projections",
           "author": "Ben Recht",
           "description": "Meehl's Philosophical Psychology, Lecture 3, Part 4.",
@@ -2010,6 +2026,16 @@
       "siteUrl": "https://deepmind.google/discover/blog/",
       "articles": [
         {
+          "id": "https://deepmind.google/discover/blog/alphafold-3-predicts-the-structure-and-interactions-of-all-lifes-molecules/",
+          "author": null,
+          "description": "Introducing AlphaFold 3, a new AI model developed by Google DeepMind and Isomorphic Labs.",
+          "link": "https://deepmind.google/discover/blog/alphafold-3-predicts-the-structure-and-interactions-of-all-lifes-molecules/",
+          "publishedOn": "2024-05-08T16:00:00.000Z",
+          "wordCount": 2619,
+          "title": "AlphaFold 3 predicts the structure and interactions of all of life’s molecules",
+          "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AF_social_share.width-1300.jpg"
+        },
+        {
           "id": "https://deepmind.google/discover/blog/google-deepmind-at-iclr-2024/",
           "author": null,
           "description": "",
@@ -2201,6 +2227,22 @@
       "feedUrl": "https://www.argmin.net/feed.xml",
       "siteUrl": "https://www.argmin.net",
       "articles": [
+        {
+          "id": "https://www.argmin.net/p/scholar-or-publicist",
+          "author": "Ben Recht",
+          "description": "Meehl's Philosophical Psychology, Lecture 3, Part 5/5.",
+          "link": "https://www.argmin.net/p/scholar-or-publicist",
+          "publishedOn": "2024-05-08T14:01:43.000Z",
+          "wordCount": null,
+          "title": "Scholar or Publicist",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substack-post-media.s3.amazonaws.com/public/images/770c023a-5aa1-4acc-80fb-a48c6e9cda49_840x599.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substack-post-media.s3.amazonaws.com/public/images/770c023a-5aa1-4acc-80fb-a48c6e9cda49_840x599.jpeg"
+        },
         {
           "id": "https://www.argmin.net/p/overhead-projections",
           "author": "Ben Recht",
