@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-05-10T10:16:50.902Z</updated>
+    <updated>2024-05-10T11:13:54.538Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -1798,16 +1798,6 @@ It has extra requirements on temporal consistency across frames, which naturally
         <summary type="html"><![CDATA[[Prefatory note:  The Chinese author of this guest post, TCI (encrypted acronym to protect her identity) holds a humanities M.A. from a top tier American research university which she attended from 2016 to 2018.  She has been employed for several years as an adviser to  students in China who desire to study abroad (especially the USA) […]]]></summary>
         <author>
             <name>Victor Mair</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MCMC without evaluating the target [aatB-mMC joint seminar, 24 April]]]></title>
-        <id>http://xianblog.wordpress.com/?p=55648</id>
-        <link href="https://xianblog.wordpress.com/2024/04/11/mcmc-without-evaluating-the-target-aatb-mmc-joint-seminar-24-april/"/>
-        <updated>2024-04-10T22:24:01.000Z</updated>
-        <summary type="html"><![CDATA[On 24 April 2024, Guanyang Wang (Rutgers University, visiting ESSEC) will give a joint All about that Bayes – mostly Monte Carlo seminar on MCMC when you do not want to evaluate the target distribution In sampling tasks, it is common for target distributions to be known up to a normalizing constant. However, in many […]]]></summary>
-        <author>
-            <name>xi'an</name>
         </author>
     </entry>
     <entry>
