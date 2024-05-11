@@ -1972,18 +1972,7 @@
       "title": "Lil'Log",
       "feedUrl": "https://lilianweng.github.io/index.xml",
       "siteUrl": "https://lilianweng.github.io/",
-      "articles": [
-        {
-          "id": "https://lilianweng.github.io/posts/2024-04-12-diffusion-video/",
-          "author": null,
-          "description": "Diffusion models have demonstrated strong results on image synthesis in past years. Now the research community has started working on a harder task—using it for video generation. The task itself is a superset of the image case, since an image is a video of 1 frame, and it is much more challenging because\nIt has extra requirements on temporal consistency across frames, which naturally demand more world knowledge to be encoded into the model.",
-          "link": "https://lilianweng.github.io/posts/2024-04-12-diffusion-video/",
-          "publishedOn": "2024-04-12T00:00:00.000Z",
-          "wordCount": 8731,
-          "title": "Diffusion Models for Video Generation",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Amit Chaudhary",

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-05-11T11:12:17.676Z</updated>
+    <updated>2024-05-11T12:27:26.216Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -1777,17 +1777,6 @@ More information to follow.]]></summary>
         <summary type="html"><![CDATA[Yesterday in one of my classes, a female student from China said that she didn't like to exercise in the morning because she felt "wet".  At first, I couldn't believe my ears, so I asked her, "Did you say 'wet'?"  "Yes," she said, "wet".  I couldn't understand in what way she would feel "wet" in […]]]></summary>
         <author>
             <name>Victor Mair</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Diffusion Models for Video Generation]]></title>
-        <id>https://lilianweng.github.io/posts/2024-04-12-diffusion-video/</id>
-        <link href="https://lilianweng.github.io/posts/2024-04-12-diffusion-video/"/>
-        <updated>2024-04-12T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Diffusion models have demonstrated strong results on image synthesis in past years. Now the research community has started working on a harder task—using it for video generation. The task itself is a superset of the image case, since an image is a video of 1 frame, and it is much more challenging because
-It has extra requirements on temporal consistency across frames, which naturally demand more world knowledge to be encoded into the model.]]></summary>
-        <author>
-            <name>Lil'Log</name>
         </author>
     </entry>
     <entry>
