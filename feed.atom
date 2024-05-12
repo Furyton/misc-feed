@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-05-12T22:13:31.626Z</updated>
+    <updated>2024-05-12T23:15:57.563Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Privacy-preserving Computing [book review]]]></title>
+        <id>http://xianblog.wordpress.com/?p=56002</id>
+        <link href="https://xianblog.wordpress.com/2024/05/13/privacy-preserving-computing-book-review/"/>
+        <updated>2024-05-12T22:24:06.000Z</updated>
+        <summary type="html"><![CDATA[Privacy-preserving Computing for Big Data Analytics and AI, by Kai Chen and Qiang Yang, is a rather short 2024 CUP book translated from the 2022 Chinese version (by the authors).  It covers secret sharing, homomorphic encryption, oblivious transfer, garbled circuit, differential privacy, trusted execution environment, federated learning, privacy-preserving computing platforms, and case studies. The style […]]]></summary>
+        <author>
+            <name>xi'an</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Roman dodecahedra between Southeast Asia and England, part 2]]></title>
         <id>https://languagelog.ldc.upenn.edu/nll/?p=63960</id>
