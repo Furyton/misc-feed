@@ -2504,6 +2504,16 @@
       "siteUrl": "https://xianblog.wordpress.com",
       "articles": [
         {
+          "id": "http://xianblog.wordpress.com/?p=55905",
+          "author": "xi'an",
+          "description": "During a recent working session, some Oceanerc (incl. me) went reading Privacy-Preserving Parametric Inference: A Case for Robust Statistics by Marco Avella-Medina (JASA, 2022), where robust criteria are advanced as efficient statistical tools in private settings. In this paper, robustness means using M-estimators T—as function of the empirical cdf—with basis score functions Ψ, defined as […]",
+          "link": "https://xianblog.wordpress.com/2024/05/14/robust-privacy/",
+          "publishedOn": "2024-05-13T22:24:50.000Z",
+          "wordCount": 2767,
+          "title": "robust privacy",
+          "imageUrl": "https://arxiv.org/html/2103.11003v4/extracted/5292582/dampednewton_vs_ngd_sc_march.png"
+        },
+        {
           "id": "http://xianblog.wordpress.com/?p=56002",
           "author": "xi'an",
           "description": "Privacy-preserving Computing for Big Data Analytics and AI, by Kai Chen and Qiang Yang, is a rather short 2024 CUP book translated from the 2022 Chinese version (by the authors).  It covers secret sharing, homomorphic encryption, oblivious transfer, garbled circuit, differential privacy, trusted execution environment, federated learning, privacy-preserving computing platforms, and case studies. The style […]",
