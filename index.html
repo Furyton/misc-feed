@@ -22,11 +22,45 @@
             data-action="toggle-accordions"
             title="Click to toggle the day, Ctrl + click to toggle all."
           >
-            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2024-05-13 datetime="2024-05-13T03:15:00.000Z">2024-05-13</time>
-            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2024-05-13 datetime="2024-05-13T03:15:00.000Z"></time>
+            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2024-05-13 datetime="2024-05-13T03:28:54.000Z">2024-05-13</time>
+            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2024-05-13 datetime="2024-05-13T03:28:54.000Z"></time>
           </button>
         </h2>
         <ul class="sources card">
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >Math ∩ Programming</button>
+                  <a class="source-heading__link" href="https://www.jeremykun.com/">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://www.jeremykun.com/shortform/2024-05-12-2028/"
+                        open
+                      >
+                        <summary class="article-expander__title">Experiments with POSSE</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://www.jeremykun.com/shortform/2024-05-12-2028/">
+                          <div class="article-summary-box-inner media-object">
+                            <span class="media-object__text">
+                              <span>Inspired by POSSE (Publish (on your) Own Site, Syndicate Elsewhere), which I first heard about from Cory Doctorow, I’m experimenting with automation to convert posts tagged shortform into Mastodon threads (I’m mathstodon.xyz/@j2kun).
+I’m using Hugo as a static site generator, with the source a (private) GitHub repository, and Netlify for deployments. After a deployment, Netlify calls a serverless function that hits the GitHub API with a POST request to trigger a GitHub action workflow.</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;1
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
             <li class="card__section">
               <section class="js-toggle-accordions-scope">
                 <h3 class="source-heading">
@@ -8525,8 +8559,8 @@ More information to follow.</span>
       </section>
 
     <footer>
-      <a class="footer-link" href="https://github.com/Furyton/misc-feed/actions/runs/9056701140">
-        <time id="build-timestamp" datetime="2024-05-13T03:17:15.729Z">2024-05-13T03:17:15.729Z</time>
+      <a class="footer-link" href="https://github.com/Furyton/misc-feed/actions/runs/9057161306">
+        <time id="build-timestamp" datetime="2024-05-13T04:19:49.091Z">2024-05-13T04:19:49.091Z</time>
       </a>
       <a class="footer-link" href="https://github.com/osmoscraft/osmosfeed">osmosfeed 1.15.1</a>
     </footer>

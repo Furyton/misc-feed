@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-05-13T03:17:15.757Z</updated>
+    <updated>2024-05-13T04:19:49.124Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Experiments with POSSE]]></title>
+        <id>https://www.jeremykun.com/shortform/2024-05-12-2028/</id>
+        <link href="https://www.jeremykun.com/shortform/2024-05-12-2028/"/>
+        <updated>2024-05-13T03:28:54.000Z</updated>
+        <summary type="html"><![CDATA[Inspired by POSSE (Publish (on your) Own Site, Syndicate Elsewhere), which I first heard about from Cory Doctorow, I’m experimenting with automation to convert posts tagged shortform into Mastodon threads (I’m mathstodon.xyz/@j2kun).
+I’m using Hugo as a static site generator, with the source a (private) GitHub repository, and Netlify for deployments. After a deployment, Netlify calls a serverless function that hits the GitHub API with a POST request to trigger a GitHub action workflow.]]></summary>
+        <author>
+            <name>Math ∩ Programming</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[缓存与效果的极限拉扯：从MHA、MQA、GQA到MLA]]></title>
         <id>https://kexue.fm/archives/10091</id>

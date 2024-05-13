@@ -2135,6 +2135,16 @@
       "siteUrl": "https://www.jeremykun.com/",
       "articles": [
         {
+          "id": "https://www.jeremykun.com/shortform/2024-05-12-2028/",
+          "author": null,
+          "description": "Inspired by POSSE (Publish (on your) Own Site, Syndicate Elsewhere), which I first heard about from Cory Doctorow, I’m experimenting with automation to convert posts tagged shortform into Mastodon threads (I’m mathstodon.xyz/@j2kun).\nI’m using Hugo as a static site generator, with the source a (private) GitHub repository, and Netlify for deployments. After a deployment, Netlify calls a serverless function that hits the GitHub API with a POST request to trigger a GitHub action workflow.",
+          "link": "https://www.jeremykun.com/shortform/2024-05-12-2028/",
+          "publishedOn": "2024-05-13T03:28:54.000Z",
+          "wordCount": 397,
+          "title": "Experiments with POSSE",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.jeremykun.com/shortform/2024-05-06-1018/",
           "author": null,
           "description": "I’ve been learning recently about how to approximate functions by low-degree polynomials. This is useful in FHE in the context of “arithmetic FHE” (see my FHE overview article), where the computational model makes low-degree polynomials cheap to evaluate and non-polynomial functions expensive or impossible.\nIn browsing the state of the art I came across two interesting things. The first is the software package lolremez that implements polynomial (and rational polynomial $f(x) / g(x)$) function approximation using the so-called Remez algorithm.",
