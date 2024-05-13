@@ -1410,6 +1410,16 @@
       "siteUrl": "https://kexue.fm/",
       "articles": [
         {
+          "id": "https://kexue.fm/archives/10091",
+          "author": "苏剑林",
+          "description": "前几天，幻方发布的DeepSeek-V2引起了大家的热烈讨论。首先，最让人哗然的是1块钱100万token的价格，普遍比现有的各种竞品API便宜了两个数量级，以至于有人调侃“这个价格哪怕它输出乱...",
+          "link": "https://kexue.fm/archives/10091",
+          "publishedOn": "2024-05-13T03:15:00.000Z",
+          "wordCount": 1956,
+          "title": "缓存与效果的极限拉扯：从MHA、MQA、GQA到MLA",
+          "imageUrl": null
+        },
+        {
           "id": "https://kexue.fm/archives/10088",
           "author": "苏剑林",
           "description": "自从《更便捷的Cool Papers打开方式：Chrome重定向扩展》之后，Cool Papers有两次比较大的变化，一次是引入了venue分支，逐步收录了一些会议历年的论文集，如ICLR、IC...",
@@ -1893,22 +1903,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substack-post-media.s3.amazonaws.com/public/images/4976b380-6f76-4d05-8104-9357e015dff5_880x612.png"
-        },
-        {
-          "id": "https://www.argmin.net/p/the-real-imitation-game",
-          "author": "Ben Recht",
-          "description": "AI and the art of the cover song",
-          "link": "https://www.argmin.net/p/the-real-imitation-game",
-          "publishedOn": "2024-04-13T14:59:23.000Z",
-          "wordCount": null,
-          "title": "The Real Imitation Game",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substack-post-media.s3.amazonaws.com/public/images/e0cd6649-18ed-4efd-a0fa-e0a0955a5e9b_884x600.png",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substack-post-media.s3.amazonaws.com/public/images/e0cd6649-18ed-4efd-a0fa-e0a0955a5e9b_884x600.png"
         }
       ]
     },
@@ -2386,22 +2380,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substack-post-media.s3.amazonaws.com/public/images/4976b380-6f76-4d05-8104-9357e015dff5_880x612.png"
-        },
-        {
-          "id": "https://www.argmin.net/p/the-real-imitation-game",
-          "author": "Ben Recht",
-          "description": "AI and the art of the cover song",
-          "link": "https://www.argmin.net/p/the-real-imitation-game",
-          "publishedOn": "2024-04-13T14:59:23.000Z",
-          "wordCount": null,
-          "title": "The Real Imitation Game",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substack-post-media.s3.amazonaws.com/public/images/e0cd6649-18ed-4efd-a0fa-e0a0955a5e9b_884x600.png",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substack-post-media.s3.amazonaws.com/public/images/e0cd6649-18ed-4efd-a0fa-e0a0955a5e9b_884x600.png"
         }
       ]
     },

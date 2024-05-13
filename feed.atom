@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-05-13T02:30:15.619Z</updated>
+    <updated>2024-05-13T03:17:15.757Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[缓存与效果的极限拉扯：从MHA、MQA、GQA到MLA]]></title>
+        <id>https://kexue.fm/archives/10091</id>
+        <link href="https://kexue.fm/archives/10091"/>
+        <updated>2024-05-13T03:15:00.000Z</updated>
+        <summary type="html"><![CDATA[前几天，幻方发布的DeepSeek-V2引起了大家的热烈讨论。首先，最让人哗然的是1块钱100万token的价格，普遍比现有的各种竞品API便宜了两个数量级，以至于有人调侃“这个价格哪怕它输出乱...]]></summary>
+        <author>
+            <name>苏剑林</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Privacy-preserving Computing [book review]]]></title>
         <id>http://xianblog.wordpress.com/?p=56002</id>
@@ -1768,26 +1778,6 @@ More information to follow.]]></summary>
         <summary type="html"><![CDATA[Visit the post for more.]]></summary>
         <author>
             <name>xi'an</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Real Imitation Game]]></title>
-        <id>https://www.argmin.net/p/the-real-imitation-game</id>
-        <link href="https://www.argmin.net/p/the-real-imitation-game"/>
-        <updated>2024-04-13T14:59:23.000Z</updated>
-        <summary type="html"><![CDATA[AI and the art of the cover song]]></summary>
-        <author>
-            <name>Ben Recht</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Real Imitation Game]]></title>
-        <id>https://www.argmin.net/p/the-real-imitation-game</id>
-        <link href="https://www.argmin.net/p/the-real-imitation-game"/>
-        <updated>2024-04-13T14:59:23.000Z</updated>
-        <summary type="html"><![CDATA[AI and the art of the cover song]]></summary>
-        <author>
-            <name>Ben Recht</name>
         </author>
     </entry>
     <entry>
