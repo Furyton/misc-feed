@@ -1944,6 +1944,36 @@
       "siteUrl": "https://deepmind.google/discover/blog/",
       "articles": [
         {
+          "id": "https://deepmind.google/discover/blog/gemini-breaks-new-ground-a-faster-model-longer-context-and-ai-agents/",
+          "author": null,
+          "description": "We’re introducing a series of updates across the Gemini family of models, including the new 1.5 Flash, our lightweight model for speed and efficiency, and Project Astra, our vision for the future of AI assistants.",
+          "link": "https://deepmind.google/discover/blog/gemini-breaks-new-ground-a-faster-model-longer-context-and-ai-agents/",
+          "publishedOn": "2024-05-14T17:58:00.000Z",
+          "wordCount": 2403,
+          "title": "Gemini breaks new ground: a faster model, longer context and AI agents",
+          "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_Blog_Social_Share.width-1300.png"
+        },
+        {
+          "id": "https://deepmind.google/discover/blog/new-generative-media-models-and-tools-built-with-and-for-creators/",
+          "author": null,
+          "description": "We’re introducing Veo, our most capable model for generating high-definition video, and Imagen 3, our highest quality text-to-image model. We’re also sharing new demo recordings created with our Music AI Sandbox.",
+          "link": "https://deepmind.google/discover/blog/new-generative-media-models-and-tools-built-with-and-for-creators/",
+          "publishedOn": "2024-05-14T17:57:00.000Z",
+          "wordCount": 3066,
+          "title": "New generative media models and tools, built with and for creators",
+          "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/IO24_Gen_Media_Header_1.width-1300.png"
+        },
+        {
+          "id": "https://deepmind.google/discover/blog/watermarking-ai-generated-text-and-video-with-synthid/",
+          "author": null,
+          "description": "Announcing our novel watermarking method for AI-generated text and video, and how we’re bringing SynthID to key Google products",
+          "link": "https://deepmind.google/discover/blog/watermarking-ai-generated-text-and-video-with-synthid/",
+          "publishedOn": "2024-05-14T17:56:49.000Z",
+          "wordCount": 1597,
+          "title": "Watermarking AI-generated text and video with SynthID",
+          "imageUrl": "https://lh3.googleusercontent.com/I6bH75hNf57977cub27rFEsgxhcmkLrcINfCmGUaBCr7Q1bFTIl552R_6kuqlSkUjRtsTh929u6NoQmtHcwIG-GnjvPqMeynVLY0Rc9RRvezPQS0=w1200-h630-n-nu"
+        },
+        {
           "id": "https://deepmind.google/discover/blog/alphafold-3-predicts-the-structure-and-interactions-of-all-lifes-molecules/",
           "author": null,
           "description": "Introducing AlphaFold 3, a new AI model developed by Google DeepMind and Isomorphic Labs.",
@@ -2033,6 +2063,16 @@
       "feedUrl": "https://pytorch.org/feed",
       "siteUrl": "https://pytorch.org/",
       "articles": [
+        {
+          "id": "https://pytorch.org/blog/speeding-up-vits/",
+          "author": null,
+          "description": "TLDR: We show promising results of up to a 1.46x speedup with &lt;2% drop in accuracy on float32 Vision Transformers on A100 GPUs by applying block sparsity on MLP module’s weights. This approach can potentially be applied to other types of transformers including large language models. Our implementation and benchmarks to reproduce our results are available at https://github.com/pytorch-labs/superblock.",
+          "link": "https://pytorch.org/blog/speeding-up-vits/",
+          "publishedOn": "2024-05-14T07:00:00.000Z",
+          "wordCount": 1907,
+          "title": "Speeding up ViTs using Block Sparsity",
+          "imageUrl": "https://pytorch.org/assets/images/social-share.jpg"
+        },
         {
           "id": "https://pytorch.org/blog/enhancing-deep-learning/",
           "author": null,
