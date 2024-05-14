@@ -2496,6 +2496,16 @@
       "siteUrl": "https://xianblog.wordpress.com",
       "articles": [
         {
+          "id": "http://xianblog.wordpress.com/?p=55991",
+          "author": "xi'an",
+          "description": "Visit the post for more.",
+          "link": "https://xianblog.wordpress.com/2024/05/15/war-is-personnal/",
+          "publishedOn": "2024-05-14T22:24:59.000Z",
+          "wordCount": 2313,
+          "title": "war is personnal",
+          "imageUrl": "https://www.worldpressphoto.org/getmedia/be85cf12-0932-49b4-bfa6-9f8944ed8902/WPP-2024Contest-OPFA-JuliaKochetova.jpg"
+        },
+        {
           "id": "http://xianblog.wordpress.com/?p=55905",
           "author": "xi'an",
           "description": "During a recent working session, some Oceanerc (incl. me) went reading Privacy-Preserving Parametric Inference: A Case for Robust Statistics by Marco Avella-Medina (JASA, 2022), where robust criteria are advanced as efficient statistical tools in private settings. In this paper, robustness means using M-estimators T—as function of the empirical cdf—with basis score functions Ψ, defined as […]",
