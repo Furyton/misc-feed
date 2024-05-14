@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-05-14T21:14:02.708Z</updated>
+    <updated>2024-05-14T22:16:43.248Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[An assessment of AI in China]]></title>
+        <id>https://languagelog.ldc.upenn.edu/nll/?p=64017</id>
+        <link href="https://languagelog.ldc.upenn.edu/nll/?p=64017&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=an-assessment-of-ai-in-china"/>
+        <updated>2024-05-14T21:56:31.000Z</updated>
+        <summary type="html"><![CDATA[For those who are interested in the development of AI in the PRC, the following article is probably the most complete and forthcoming report on the state of the field.  Drawbacks are that is excessively lengthy and machine translated, with some parts awkward or difficult to understand. Where Does China Stand in the AI Wave?China’s […]]]></summary>
+        <author>
+            <name>Victor Mair</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Gemini breaks new ground: a faster model, longer context and AI agents]]></title>
         <id>https://deepmind.google/discover/blog/gemini-breaks-new-ground-a-faster-model-longer-context-and-ai-agents/</id>
