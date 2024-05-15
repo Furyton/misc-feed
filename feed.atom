@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-05-15T18:20:28.606Z</updated>
+    <updated>2024-05-15T19:13:13.432Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -1777,16 +1777,6 @@ Where: MS.03, Zeeman]]></summary>
         <summary type="html"><![CDATA[arXiv is now testing a new display of papers in html format to increase accessibility [for those with no pdf reader?] Hopefully, this will not induce further constraints on the LaTeX format of arXiv submissions, at a time when it got easier for off-the-shelf files to be immediately accepted, but the fact that the site […]]]></summary>
         <author>
             <name>xi'an</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[torchtune: Easily fine-tune LLMs using PyTorch]]></title>
-        <id>https://pytorch.org/blog/torchtune-fine-tune-llms/</id>
-        <link href="https://pytorch.org/blog/torchtune-fine-tune-llms/"/>
-        <updated>2024-04-16T07:00:00.000Z</updated>
-        <summary type="html"><![CDATA[We’re pleased to announce the alpha release of torchtune, a PyTorch-native library for easily fine-tuning large language models.]]></summary>
-        <author>
-            <name>PyTorch Website</name>
         </author>
     </entry>
     <entry>
