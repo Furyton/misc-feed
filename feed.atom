@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-05-15T15:15:39.743Z</updated>
+    <updated>2024-05-15T16:19:49.471Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Brown Revisited]]></title>
+        <id>https://languagelog.ldc.upenn.edu/nll/?p=64052</id>
+        <link href="https://languagelog.ldc.upenn.edu/nll/?p=64052&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=brown-revisited"/>
+        <updated>2024-05-15T15:59:04.000Z</updated>
+        <summary type="html"><![CDATA[A couple of months ago, I told you about a project to recreate the Supreme Court oral arguments associated with Brown v. Board of Education ("Spontaneous SCOTUS", 3/2/2024): Years ago, Jerry Goldman (then at Northwestern) created the oyez.org website as  a multimedia archive devoted to making the Supreme Court of the United States accessible to […]]]></summary>
+        <author>
+            <name>Mark Liberman</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[My First Paper with Dr. Z. : Bijective and Automated Approaches to Abel Sums]]></title>
         <id>http://gilkalai.wordpress.com/?p=26192</id>
