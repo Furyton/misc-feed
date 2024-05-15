@@ -2048,6 +2048,16 @@
       "siteUrl": "https://pytorch.org/",
       "articles": [
         {
+          "id": "https://pytorch.org/blog/achieving-sustainability-goals/",
+          "author": null,
+          "description": "This post was contributed by Intel AI in partnership with the PyTorch Foundation.",
+          "link": "https://pytorch.org/blog/achieving-sustainability-goals/",
+          "publishedOn": "2024-05-15T07:00:00.000Z",
+          "wordCount": 1651,
+          "title": "Achieving Sustainability Goals with PyTorch and Intel AI",
+          "imageUrl": "https://pytorch.org/assets/images/social-share.jpg"
+        },
+        {
           "id": "https://pytorch.org/blog/speeding-up-vits/",
           "author": null,
           "description": "TLDR: We show promising results of up to a 1.46x speedup with &lt;2% drop in accuracy on float32 Vision Transformers on A100 GPUs by applying block sparsity on MLP module’s weights. This approach can potentially be applied to other types of transformers including large language models. Our implementation and benchmarks to reproduce our results are available at https://github.com/pytorch-labs/superblock.",
