@@ -1448,16 +1448,6 @@
           "wordCount": 1468,
           "title": "生成扩散模型漫谈（二十四）：少走捷径，更快到达",
           "imageUrl": null
-        },
-        {
-          "id": "https://kexue.fm/archives/10055",
-          "author": "苏剑林",
-          "description": "上一篇文章《生成扩散模型漫谈（二十二）：信噪比与大图生成（上）》中，我们介绍了通过对齐低分辨率的信噪比来改进noise schedule，从而改善直接在像素空间训练的高分辨率图像生成（大图生成）...",
-          "link": "https://kexue.fm/archives/10055",
-          "publishedOn": "2024-04-17T08:59:00.000Z",
-          "wordCount": null,
-          "title": "生成扩散模型漫谈（二十三）：信噪比与大图生成（下）",
-          "imageUrl": null
         }
       ]
     },

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-05-16T20:16:26.035Z</updated>
+    <updated>2024-05-16T21:15:50.729Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -1644,16 +1644,6 @@ Exploring the promise and risks of a future with more capable AI]]></summary>
         <summary type="html"><![CDATA[Most Language Log readers are aware that the Japanese writing system consists of three major components — kanji (sinoglyhs), hiragana (cursive syllabary), and katakana (block syllabary).  I would argue that rōmaji (roman letters) are a fourth component, as they are in the Chinese writing system. How do people decide when to switch among the different […]]]></summary>
         <author>
             <name>Victor Mair</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[生成扩散模型漫谈（二十三）：信噪比与大图生成（下）]]></title>
-        <id>https://kexue.fm/archives/10055</id>
-        <link href="https://kexue.fm/archives/10055"/>
-        <updated>2024-04-17T08:59:00.000Z</updated>
-        <summary type="html"><![CDATA[上一篇文章《生成扩散模型漫谈（二十二）：信噪比与大图生成（上）》中，我们介绍了通过对齐低分辨率的信噪比来改进noise schedule，从而改善直接在像素空间训练的高分辨率图像生成（大图生成）...]]></summary>
-        <author>
-            <name>苏剑林</name>
         </author>
     </entry>
     <entry>
