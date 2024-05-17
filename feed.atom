@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-05-17T01:10:33.180Z</updated>
+    <updated>2024-05-17T02:27:34.686Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Brian DePasquale]]></title>
+        <id>https://mlfoundations.org/talk/depasquale/</id>
+        <link href="https://mlfoundations.org/talk/depasquale/"/>
+        <updated>2024-05-17T14:00:00.000Z</updated>
+        <author>
+            <name>Harvard ML Foundations</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Marc Beaumont on One World ABC webinar [30 May, 9am]]]></title>
         <id>http://xianblog.wordpress.com/?p=56175</id>
@@ -1644,16 +1653,6 @@ Exploring the promise and risks of a future with more capable AI]]></summary>
         <summary type="html"><![CDATA[Sirio Legramanti, Daniele Durante, and Pierre Alquier just arXived a massive paper on the concentration of discrepancy–based ABC posteriors via Rademacher complexity, which includes MMD and Wasserstein distance-based ABC methods. The paper provides sufficient conditions under which a discrepancy within the integral probability semimetrics class guarantees uniform convergence and concentration of the induced ABC posterior, […]]]></summary>
         <author>
             <name>xi'an</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mix and match Japanese orthography]]></title>
-        <id>https://languagelog.ldc.upenn.edu/nll/?p=63501</id>
-        <link href="https://languagelog.ldc.upenn.edu/nll/?p=63501&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=mix-and-match-japanese-orthography"/>
-        <updated>2024-04-17T14:24:39.000Z</updated>
-        <summary type="html"><![CDATA[Most Language Log readers are aware that the Japanese writing system consists of three major components — kanji (sinoglyhs), hiragana (cursive syllabary), and katakana (block syllabary).  I would argue that rōmaji (roman letters) are a fourth component, as they are in the Chinese writing system. How do people decide when to switch among the different […]]]></summary>
-        <author>
-            <name>Victor Mair</name>
         </author>
     </entry>
     <entry>
