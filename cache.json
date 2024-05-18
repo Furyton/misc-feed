@@ -2097,6 +2097,16 @@
       "siteUrl": "https://www.jeremykun.com/",
       "articles": [
         {
+          "id": "https://www.jeremykun.com/shortform/2024-05-17-1555/",
+          "author": null,
+          "description": "Steven Clontz informed me of an effort he’s involved in called code4math.\nIt’s described as a professional organization for the advancement of mathematical research through building non-research software infrastructure. By that he means, for example, writing software packages like Macaulay2 or databases of mathematical objects that other researchers can use to do their research.\nClontz recently gave a talk on the topic, with ample discussion of the evaluation material they can provide to justify the academic value of this sort of work.",
+          "link": "https://www.jeremykun.com/shortform/2024-05-17-1555/",
+          "publishedOn": "2024-05-17T22:55:50.000Z",
+          "wordCount": 260,
+          "title": "Math databases",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.jeremykun.com/shortform/2024-05-12-2028/",
           "author": null,
           "description": "Inspired by POSSE (Publish (on your) Own Site, Syndicate Elsewhere), which I first heard about from Cory Doctorow, I’m experimenting with automation to convert posts tagged shortform into Mastodon threads (I’m mathstodon.xyz/@j2kun).\nI’m using Hugo as a static site generator, with the source a (private) GitHub repository, and Netlify for deployments. After a deployment, Netlify calls a serverless function that hits the GitHub API with a POST request to trigger a GitHub action workflow.",
