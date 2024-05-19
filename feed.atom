@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-05-19T14:14:00.501Z</updated>
+    <updated>2024-05-19T15:15:36.198Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Google AI Overview has a ways to go]]></title>
+        <id>https://languagelog.ldc.upenn.edu/nll/?p=64094</id>
+        <link href="https://languagelog.ldc.upenn.edu/nll/?p=64094&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=google-ai-overview-has-a-ways-to-go"/>
+        <updated>2024-05-19T14:55:14.000Z</updated>
+        <summary type="html"><![CDATA[…or maybe I should say, "is deeply stupid, so far". At least, that's the verdict from my first encounter with this heralded innovation. I updated a Chromebook, re-installed Linux, and thought (incorrectly) that I might need to add repositories in order to install some non-standard apps like R and Octave and Emacs. (Never mind if […]]]></summary>
+        <author>
+            <name>Mark Liberman</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Linguistic evidence for migration to the Americas from Siberia]]></title>
         <id>https://languagelog.ldc.upenn.edu/nll/?p=64074</id>
