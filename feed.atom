@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-05-20T19:12:27.626Z</updated>
+    <updated>2024-05-20T20:16:43.567Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Bloom filters]]></title>
+        <id>https://languagelog.ldc.upenn.edu/nll/?p=64118</id>
+        <link href="https://languagelog.ldc.upenn.edu/nll/?p=64118&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=bloom-filters"/>
+        <updated>2024-05-20T19:55:47.000Z</updated>
+        <summary type="html"><![CDATA[Today's xkcd: According to Wikipedia, A Bloom filter is a space-efficient probabilistic data structure, conceived by Burton Howard Bloom in 1970, that is used to test whether an element is a member of a set. False positive matches are possible, but false negatives are not – in other words, a query returns either "possibly in […]]]></summary>
+        <author>
+            <name>Mark Liberman</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Domaine Courbis [Saint-Joseph]]]></title>
         <id>http://xianblog.wordpress.com/?p=55159</id>

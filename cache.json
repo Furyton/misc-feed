@@ -2777,6 +2777,16 @@
       "siteUrl": "https://languagelog.ldc.upenn.edu/nll",
       "articles": [
         {
+          "id": "https://languagelog.ldc.upenn.edu/nll/?p=64118",
+          "author": "Mark Liberman",
+          "description": "Today's xkcd: According to Wikipedia, A Bloom filter is a space-efficient probabilistic data structure, conceived by Burton Howard Bloom in 1970, that is used to test whether an element is a member of a set. False positive matches are possible, but false negatives are not – in other words, a query returns either \"possibly in […]",
+          "link": "https://languagelog.ldc.upenn.edu/nll/?p=64118&utm_source=rss&utm_medium=rss&utm_campaign=bloom-filters",
+          "publishedOn": "2024-05-20T19:55:47.000Z",
+          "wordCount": 2133,
+          "title": "Bloom filters",
+          "imageUrl": null
+        },
+        {
           "id": "https://languagelog.ldc.upenn.edu/nll/?p=64101",
           "author": "Mark Liberman",
           "description": "Back in 2008, Arnold Zwicky described a category of typos that he called  \"completion errors\": …a \"completion error\", a typo that results you start writing or typing a word and then drift part-way in to another word.  I do this all too often with -ation and -ating words — starting the verb COOPERATING but ending […]",
