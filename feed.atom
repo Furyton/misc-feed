@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-05-20T05:17:25.015Z</updated>
+    <updated>2024-05-20T06:22:12.724Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Looking ahead to the AI Seoul Summit]]></title>
+        <id>https://deepmind.google/discover/blog/looking-ahead-to-the-ai-seoul-summit/</id>
+        <link href="https://deepmind.google/discover/blog/looking-ahead-to-the-ai-seoul-summit/"/>
+        <updated>2024-05-20T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[How summits in Seoul, France and beyond can galvanize international cooperation on frontier AI safety]]></summary>
+        <author>
+            <name>Google DeepMind Blog</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Google AI Overview has a ways to go]]></title>
         <id>https://languagelog.ldc.upenn.edu/nll/?p=64094</id>
@@ -1655,16 +1665,6 @@ If you’ve heard about FHE and you’re a software person, you’ve probably he
         <summary type="html"><![CDATA[Worries about future applications of AI technology focus on many things, including new forms of automation replacing human workers, realistic deepfake media spreading disinformation, and mass killing by autonomous military machines. But there's something happening already that hasn't gotten as much commentary: chatbots designed to be pals or romantic connections. In fact, 70 years ago, ELIZA […]]]></summary>
         <author>
             <name>Mark Liberman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mas Foulaquier]]></title>
-        <id>http://xianblog.wordpress.com/?p=54579</id>
-        <link href="https://xianblog.wordpress.com/2024/04/20/mas-foulaquier/"/>
-        <updated>2024-04-20T18:20:20.000Z</updated>
-        <summary type="html"><![CDATA[Visit the post for more.]]></summary>
-        <author>
-            <name>xi'an</name>
         </author>
     </entry>
     <entry>
