@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-05-20T23:16:12.367Z</updated>
+    <updated>2024-05-21T01:09:37.391Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -1695,26 +1695,6 @@ If you’ve heard about FHE and you’re a software person, you’ve probably he
         <summary type="html"><![CDATA[Flip a fair coin 100 times, resulting in a sequence of heads (H) and tails (T). For each HH in the sequence, Alice gets a point; for each HT, Bob does, so e.g. for the subsequence THHHT Alice gets 2 points and Bob gets 1 point. Who is most likely to win? An interesting conundrum […]]]></summary>
         <author>
             <name>xi'an</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ask Dalí]]></title>
-        <id>https://languagelog.ldc.upenn.edu/nll/?p=63636</id>
-        <link href="https://languagelog.ldc.upenn.edu/nll/?p=63636&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=ask-dali"/>
-        <updated>2024-04-21T11:35:52.000Z</updated>
-        <summary type="html"><![CDATA[A new feature at the Dalí Museum in St. Petersburg FL: According to an NPR story (Chloe Veltman, "An AI Salvador Dalí will answer any question when called on his famous 'lobster phone'"), The underlying model is OpenAI's GPT-4. Because GPT-4 is trained on almost all publicly available text, this model includes extensive information about […]]]></summary>
-        <author>
-            <name>Mark Liberman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Once again the Voynich manuscript]]></title>
-        <id>https://languagelog.ldc.upenn.edu/nll/?p=63603</id>
-        <link href="https://languagelog.ldc.upenn.edu/nll/?p=63603&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=once-again-the-voynich-manuscript"/>
-        <updated>2024-04-21T11:20:18.000Z</updated>
-        <summary type="html"><![CDATA[This is one of the most novel theories on the Voynich manuscript (Beinecke MS408; early 15th c.) that I've ever encountered, and there are many. The Voynich Manuscript, Dr Johannes Hartlieb and the Encipherment of Women’s Secrets, by Keagan Brewer and Michelle L Lewis, Social History of Medicine, hkad099 (22 March 2024) https://doi.org/10.1093/shm/hkad099 Keywords:  Voynich […]]]></summary>
-        <author>
-            <name>Victor Mair</name>
         </author>
     </entry>
     <entry>
