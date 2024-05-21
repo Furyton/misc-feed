@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-05-21T22:15:04.536Z</updated>
+    <updated>2024-05-21T23:17:11.791Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[mostly M[ay]C]]></title>
+        <id>http://xianblog.wordpress.com/?p=56256</id>
+        <link href="https://xianblog.wordpress.com/2024/05/22/mostly-mayc/"/>
+        <updated>2024-05-21T22:24:04.000Z</updated>
+        <summary type="html"><![CDATA[With the details from the second speaker: Adaptive MCMC sampling using a Metropolized PDMP sampler combined with a No-U-Turn criterion Augustin Chevallier, Université de Strasbourg Adaptivity in MCMC algorithms is hard to achieve. In Hamiltonian Monte Carlo, for example, it is possible to tune the path length using the No-U-Turn sampler, but the numerical step […]]]></summary>
+        <author>
+            <name>xi'an</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AI based on Xi Jinping Thought]]></title>
         <id>https://languagelog.ldc.upenn.edu/nll/?p=64128</id>
