@@ -1984,6 +1984,16 @@
       "siteUrl": "https://pytorch.org/",
       "articles": [
         {
+          "id": "https://pytorch.org/blog/maximizing-training-throughput/",
+          "author": null,
+          "description": "Recently, we demonstrated how FSDP and selective activation checkpointing can be used to achieve 57% MFU (Model Flops Utilization) for training a 7B model on A100 GPUs. We also demonstrated how it can train a high quality model, which we open sourced as Granite 7B base model on Hugging Face Hub under the Apache v2.0 license.",
+          "link": "https://pytorch.org/blog/maximizing-training-throughput/",
+          "publishedOn": "2024-05-21T07:00:00.000Z",
+          "wordCount": 2021,
+          "title": "Maximizing Training Throughput Using PyTorch FSDP and Torch.compile",
+          "imageUrl": "https://pytorch.org/assets/images/social-share.jpg"
+        },
+        {
           "id": "https://pytorch.org/blog/achieving-sustainability-goals/",
           "author": null,
           "description": "This post was contributed by Intel AI in partnership with the PyTorch Foundation.",
@@ -2776,6 +2786,16 @@
       "feedUrl": "https://languagelog.ldc.upenn.edu/nll/?feed=rss2",
       "siteUrl": "https://languagelog.ldc.upenn.edu/nll",
       "articles": [
+        {
+          "id": "https://languagelog.ldc.upenn.edu/nll/?p=64134",
+          "author": "Mark Liberman",
+          "description": "From André Vítor Camargo De Toledo: Original: \"Ideia de Jerico\" (An arse's idea) Eggcorn: \"Ideia de Girino\" (A tadpole's idea) Why it happened: \"Jerico\" is almost a fossil word, and, to most people, only ever shows up when used in that idiom. It's an old word for \"arse\", which, as an animal, is associated with […]",
+          "link": "https://languagelog.ldc.upenn.edu/nll/?p=64134&utm_source=rss&utm_medium=rss&utm_campaign=brazilian-eggcorns",
+          "publishedOn": "2024-05-21T12:26:13.000Z",
+          "wordCount": 2177,
+          "title": "Brazilian eggcorns",
+          "imageUrl": null
+        },
         {
           "id": "https://languagelog.ldc.upenn.edu/nll/?p=64126",
           "author": "Victor Mair",
