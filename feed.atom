@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-05-22T10:16:55.430Z</updated>
+    <updated>2024-05-22T11:14:28.606Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -1655,16 +1655,6 @@ If you’ve heard about FHE and you’re a software person, you’ve probably he
         <summary type="html"><![CDATA[如何减少采样步数同时保证生成质量，是扩散模型应用层面的一个关键问题。其中，《生成扩散模型漫谈（四）：DDIM = 高观点DDPM》介绍的DDIM可谓是加速采样的第一次尝试。后来，《生成扩散模型漫...]]></summary>
         <author>
             <name>苏剑林</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[d≥3 strikes again]]></title>
-        <id>http://xianblog.wordpress.com/?p=55727</id>
-        <link href="https://xianblog.wordpress.com/2024/04/23/d%e2%89%a53-strikes-again/"/>
-        <updated>2024-04-22T22:24:27.000Z</updated>
-        <summary type="html"><![CDATA[Yesterday, Bálint Tóth (University of Bristol and Alfréd Rényi Institute of Mathematics) came to Paris Dauphine for a seminar on the Botlzmann-Grad limit and the existence of a central (double) limit theory. Which was somewhat related with the above video of an earlier seminar, albeit without the first part on the historical roots of the […]]]></summary>
-        <author>
-            <name>xi'an</name>
         </author>
     </entry>
     <entry>
