@@ -2434,6 +2434,16 @@
       "siteUrl": "https://xianblog.wordpress.com",
       "articles": [
         {
+          "id": "http://xianblog.wordpress.com/?p=56271",
+          "author": "xi'an",
+          "description": "Visit the post for more.",
+          "link": "https://xianblog.wordpress.com/2024/05/23/prairie-part-of-new-france-ai-cluster-plan/",
+          "publishedOn": "2024-05-22T22:24:47.000Z",
+          "wordCount": 2480,
+          "title": "pr[AI]rie part of new France AI Cluster plan",
+          "imageUrl": "https://xianblog.wordpress.com/wp-content/uploads/2024/05/temp-5.png"
+        },
+        {
           "id": "http://xianblog.wordpress.com/?p=56256",
           "author": "xi'an",
           "description": "With the details from the second speaker: Adaptive MCMC sampling using a Metropolized PDMP sampler combined with a No-U-Turn criterion Augustin Chevallier, Université de Strasbourg Adaptivity in MCMC algorithms is hard to achieve. In Hamiltonian Monte Carlo, for example, it is possible to tune the path length using the No-U-Turn sampler, but the numerical step […]",
