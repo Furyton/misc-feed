@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-05-23T22:15:20.224Z</updated>
+    <updated>2024-05-23T23:16:32.987Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[special issue of Statistica Sinica on sequential Monte Carlo]]></title>
+        <id>http://xianblog.wordpress.com/?p=56070</id>
+        <link href="https://xianblog.wordpress.com/2024/05/24/special-issue-of-statistica-sinica-on-sequential-monte-carl/"/>
+        <updated>2024-05-23T22:24:28.000Z</updated>
+        <summary type="html"><![CDATA[Visit the post for more.]]></summary>
+        <author>
+            <name>xi'an</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Nine quid for two?]]></title>
         <id>https://languagelog.ldc.upenn.edu/nll/?p=64162</id>
@@ -1625,16 +1635,6 @@ If you’ve heard about FHE and you’re a software person, you’ve probably he
         <summary type="html"><![CDATA[Meehl's Philosophical Psychology, Lecture 2, Part 1]]></summary>
         <author>
             <name>Ben Recht</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI and real-time translation in Korea]]></title>
-        <id>https://languagelog.ldc.upenn.edu/nll/?p=63695</id>
-        <link href="https://languagelog.ldc.upenn.edu/nll/?p=63695&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=ai-and-real-time-translation-in-korea"/>
-        <updated>2024-04-24T10:23:21.000Z</updated>
-        <summary type="html"><![CDATA[Speaking of Korean translation and AI, as we did in recent posts (see "Selected readings"), let us take a look at the latest developments in Korea: New AI-based translation tools make their way into everyday life in Korea AI equipped with natural language processing software, which allows it to interpret human language in various contexts, […]]]></summary>
-        <author>
-            <name>Victor Mair</name>
         </author>
     </entry>
     <entry>
