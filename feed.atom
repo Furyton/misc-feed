@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-05-23T10:18:42.703Z</updated>
+    <updated>2024-05-23T11:15:26.746Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[A crack in the hegemonic edifice of hanzi]]></title>
+        <id>https://languagelog.ldc.upenn.edu/nll/?p=64145</id>
+        <link href="https://languagelog.ldc.upenn.edu/nll/?p=64145&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=a-crack-in-the-hegemonic-edifice-of-hanzi"/>
+        <updated>2024-05-23T11:01:43.000Z</updated>
+        <summary type="html"><![CDATA[Stunning report from Pinyin News: "Chinese characters no longer required for Taiwan Aborigine names" (5/21/24) Last week Taiwan’s legislature passed an amendment stating that members of Taiwan’s tribes will no longer be forced to adopt names written in Chinese characters. Instead, their names can be presented solely in romanization if so desired. Thus, at least […]]]></summary>
+        <author>
+            <name>Victor Mair</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[pr[AI]rie part of new France AI Cluster plan]]></title>
         <id>http://xianblog.wordpress.com/?p=56271</id>
@@ -1605,16 +1615,6 @@ If you’ve heard about FHE and you’re a software person, you’ve probably he
         <summary type="html"><![CDATA[We are excited to announce the release of PyTorch® 2.3 (release note)! PyTorch 2.3 offers support for user-defined Triton kernels in torch.compile, allowing for users to migrate their own Triton kernels from eager without experiencing performance regressions or graph breaks. Tensor Parallelism improves the experience for training Large Language Models using native PyTorch functions, which has been validated on training runs for 100B parameter models. As well, semi-structured sparsity implements semi-structured sparsity as a Tensor subclass, with observed speedups of up to 1.6 over dense matrix multiplication.]]></summary>
         <author>
             <name>PyTorch Website</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[a journal of the conquest, war, [snow] famine, and death year]]></title>
-        <id>http://xianblog.wordpress.com/?p=55576</id>
-        <link href="https://xianblog.wordpress.com/2024/04/24/a-journal-of-the-conquest-war-snow-famine-and-death-year/"/>
-        <updated>2024-04-23T22:24:21.000Z</updated>
-        <summary type="html"><![CDATA[Read yet another novelette by Aliette de Bodard, The citadel of weeping pearls, set in the same universe of a Viêt Nam inspired galactic civilisation, which proved somewhat equal to the previous ones,  with the plus of digging into mother-daughter and sibling relations and the slight minus of involving time travel [which, surprisingly, rarely fails […]]]></summary>
-        <author>
-            <name>xi'an</name>
         </author>
     </entry>
     <entry>
