@@ -2046,16 +2046,6 @@
           "wordCount": 1392,
           "title": "ExecuTorch Alpha: Taking LLMs and AI to the Edge with Our Community and Partners",
           "imageUrl": "https://pytorch.org/assets/images/social-share.jpg"
-        },
-        {
-          "id": "https://pytorch.org/blog/pytorch2-3/",
-          "author": null,
-          "description": "We are excited to announce the release of PyTorch® 2.3 (release note)! PyTorch 2.3 offers support for user-defined Triton kernels in torch.compile, allowing for users to migrate their own Triton kernels from eager without experiencing performance regressions or graph breaks. Tensor Parallelism improves the experience for training Large Language Models using native PyTorch functions, which has been validated on training runs for 100B parameter models. As well, semi-structured sparsity implements semi-structured sparsity as a Tensor subclass, with observed speedups of up to 1.6 over dense matrix multiplication.",
-          "link": "https://pytorch.org/blog/pytorch2-3/",
-          "publishedOn": "2024-04-24T07:00:00.000Z",
-          "wordCount": 1153,
-          "title": "PyTorch 2.3 Release Blog",
-          "imageUrl": "https://pytorch.org/assets/images/social-share.jpg"
         }
       ]
     },
