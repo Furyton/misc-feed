@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-05-23T01:09:25.747Z</updated>
+    <updated>2024-05-23T02:28:52.051Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -1655,36 +1655,6 @@ If you’ve heard about FHE and you’re a software person, you’ve probably he
         <summary type="html"><![CDATA[Happy Passover to all our readers On the way from Cambridge to Tel Aviv I had a splendid three hour visit to London (from Kings Cross to UCL and back), where I met my graduate student Gabriel Gendler and Freddie … Continue reading →]]></summary>
         <author>
             <name>Gil Kalai</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Everything Inherently Meta]]></title>
-        <id>https://www.argmin.net/p/everything-inherently-meta</id>
-        <link href="https://www.argmin.net/p/everything-inherently-meta"/>
-        <updated>2024-04-23T13:59:06.000Z</updated>
-        <summary type="html"><![CDATA[Meehl's Philosophical Psychology, Lecture 1]]></summary>
-        <author>
-            <name>Ben Recht</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Everything Inherently Meta]]></title>
-        <id>https://www.argmin.net/p/everything-inherently-meta</id>
-        <link href="https://www.argmin.net/p/everything-inherently-meta"/>
-        <updated>2024-04-23T13:59:06.000Z</updated>
-        <summary type="html"><![CDATA[Meehl's Philosophical Psychology, Lecture 1]]></summary>
-        <author>
-            <name>Ben Recht</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[生成扩散模型漫谈（二十四）：少走捷径，更快到达]]></title>
-        <id>https://kexue.fm/archives/10077</id>
-        <link href="https://kexue.fm/archives/10077"/>
-        <updated>2024-04-23T13:39:00.000Z</updated>
-        <summary type="html"><![CDATA[如何减少采样步数同时保证生成质量，是扩散模型应用层面的一个关键问题。其中，《生成扩散模型漫谈（四）：DDIM = 高观点DDPM》介绍的DDIM可谓是加速采样的第一次尝试。后来，《生成扩散模型漫...]]></summary>
-        <author>
-            <name>苏剑林</name>
         </author>
     </entry>
     <entry>
