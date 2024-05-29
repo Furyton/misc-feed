@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-05-29T10:19:13.390Z</updated>
+    <updated>2024-05-29T11:14:09.690Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Transformer升级之路：18、RoPE的底数设计原则]]></title>
+        <id>https://kexue.fm/archives/10122</id>
+        <link href="https://kexue.fm/archives/10122"/>
+        <updated>2024-05-29T10:29:00.000Z</updated>
+        <summary type="html"><![CDATA[我们知道，在RoPE中频率的计算公式为$\theta_i = b^{-2i/d}$，底数$b$默认值为10000。目前Long Context的主流做法之一是，先在$b=10000$上用短文本预...]]></summary>
+        <author>
+            <name>苏剑林</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The perception and construction of Hong Kong identity via the quotation of non-standard Cantonese]]></title>
         <id>https://languagelog.ldc.upenn.edu/nll/?p=64240</id>
@@ -1615,16 +1625,6 @@ If you’ve heard about FHE and you’re a software person, you’ve probably he
         <summary type="html"><![CDATA[We are excited to announce the release of ExecuTorch alpha, focused on deploying large language models (LLMs) and large ML models to the edge, stabilizing the API surface, and improving our installation processes. It has been an exciting few months from our 0.1 (preview) release in collaboration with our partners at Arm, Apple, and Qualcomm Technologies, Inc.]]></summary>
         <author>
             <name>PyTorch Website</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[connection between tempering & entropic mirror descent]]></title>
-        <id>http://xianblog.wordpress.com/?p=56075</id>
-        <link href="https://xianblog.wordpress.com/2024/04/30/connection-between-tempering-entropic-mirror-descent/"/>
-        <updated>2024-04-29T22:24:02.000Z</updated>
-        <summary type="html"><![CDATA[The next One World ABC webinar is this  Thursday,  the 2nd May, at 9am UK time, with Francesca Crucinio (King’s College London, formerly CREST and even more formerly Warwick) presenting “A connection between Tempering and Entropic Mirror Descent”. a joint work with Nicolas Chopin and Anna Korba (both from CREST) whose abstract follows: This work […]]]></summary>
-        <author>
-            <name>xi'an</name>
         </author>
     </entry>
     <entry>
