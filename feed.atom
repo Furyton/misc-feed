@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-05-29T14:15:52.145Z</updated>
+    <updated>2024-05-29T15:18:07.378Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Obfuscating Factors]]></title>
+        <id>https://www.argmin.net/p/obfuscating-factors</id>
+        <link href="https://www.argmin.net/p/obfuscating-factors"/>
+        <updated>2024-05-29T14:21:49.000Z</updated>
+        <summary type="html"><![CDATA[Meehl's Philosophical Psychology, Lecture 6, part 1.]]></summary>
+        <author>
+            <name>Ben Recht</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Obfuscating Factors]]></title>
+        <id>https://www.argmin.net/p/obfuscating-factors</id>
+        <link href="https://www.argmin.net/p/obfuscating-factors"/>
+        <updated>2024-05-29T14:21:49.000Z</updated>
+        <summary type="html"><![CDATA[Meehl's Philosophical Psychology, Lecture 6, part 1.]]></summary>
+        <author>
+            <name>Ben Recht</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Transformer升级之路：18、RoPE的底数设计原则]]></title>
         <id>https://kexue.fm/archives/10122</id>
