@@ -2030,16 +2030,6 @@
           "wordCount": 1935,
           "title": "Accelerating Llama3 FP8 Inference with Triton Kernels",
           "imageUrl": "https://pytorch.org/assets/images/social-share.jpg"
-        },
-        {
-          "id": "https://pytorch.org/blog/executorch-alpha/",
-          "author": null,
-          "description": "We are excited to announce the release of ExecuTorch alpha, focused on deploying large language models (LLMs) and large ML models to the edge, stabilizing the API surface, and improving our installation processes. It has been an exciting few months from our 0.1 (preview) release in collaboration with our partners at Arm, Apple, and Qualcomm Technologies, Inc.",
-          "link": "https://pytorch.org/blog/executorch-alpha/",
-          "publishedOn": "2024-04-30T07:00:00.000Z",
-          "wordCount": 1392,
-          "title": "ExecuTorch Alpha: Taking LLMs and AI to the Edge with Our Community and Partners",
-          "imageUrl": "https://pytorch.org/assets/images/social-share.jpg"
         }
       ]
     },
@@ -2682,6 +2672,16 @@
       "feedUrl": "https://languagelog.ldc.upenn.edu/nll/?feed=rss2",
       "siteUrl": "https://languagelog.ldc.upenn.edu/nll",
       "articles": [
+        {
+          "id": "https://languagelog.ldc.upenn.edu/nll/?p=64263",
+          "author": "Victor Mair",
+          "description": "[This is a guest post by Kirinputra] To take a step or two back towards the Sad Cripples theme, I had the TV on the other day and the show host — echoing the guest, a dietitian — said this: “Lán Tâi-oân lâng kóng ‘tāu-leng’; gōa-kok lâng kóng ‘tó͘⁺-nài.’” (Can't remember if he used Tone […]",
+          "link": "https://languagelog.ldc.upenn.edu/nll/?p=64263&utm_source=rss&utm_medium=rss&utm_campaign=mixed-script-writing-in-taiwan-part-2",
+          "publishedOn": "2024-05-29T18:51:49.000Z",
+          "wordCount": 3180,
+          "title": "Mixed script writing in Taiwan, part 2",
+          "imageUrl": null
+        },
         {
           "id": "https://languagelog.ldc.upenn.edu/nll/?p=64240",
           "author": "Victor Mair",
