@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-05-29T22:16:27.454Z</updated>
+    <updated>2024-05-29T23:16:27.138Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[we do need more EU [reposted]]]></title>
+        <id>http://xianblog.wordpress.com/?p=56312</id>
+        <link href="https://xianblog.wordpress.com/2024/05/30/we-do-need-more-eu-reposted/"/>
+        <updated>2024-05-29T22:24:57.000Z</updated>
+        <summary type="html"><![CDATA[My colleague from Paris Dauphine, Dominique Meda, wrote the following in her Le Monde weekly column of 26 May (translated mostly by ChatGP) which, despite points of disagreement (about singling out Germany), I wish to repost as a call to votes for more Europe. Despite [the imperfections and limitations of the EU governance], there have […]]]></summary>
+        <author>
+            <name>xi'an</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Mixed script writing in Taiwan, part 2]]></title>
         <id>https://languagelog.ldc.upenn.edu/nll/?p=64263</id>
@@ -1635,16 +1645,6 @@ If you’ve heard about FHE and you’re a software person, you’ve probably he
         <summary type="html"><![CDATA[This 2023 work on Slice sampler on manifolds, as presented in the algorithms seminar in Warwick during a recent visit of by Mareike Hasenpflug, consists in designing and validating slice samplers for distributions on manifolds. It is mildly connected to some current work on MCMC algorithms on manifolds through coupling techniques by [my friends & […]]]></summary>
         <author>
             <name>xi'an</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Roman dodecahedra between Southeast Asia and England]]></title>
-        <id>https://languagelog.ldc.upenn.edu/nll/?p=63770</id>
-        <link href="https://languagelog.ldc.upenn.edu/nll/?p=63770&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=roman-dodecahedra-between-southeast-asia-and-england"/>
-        <updated>2024-04-30T10:56:21.000Z</updated>
-        <summary type="html"><![CDATA["They are known as one of archaeology’s great enigmas – hollow 12-sided objects from the Roman era with no known purpose or use." So begins this article by Jessica Murray in The Guardian (4/29/24): Mysterious Roman dodecahedron to go on display in Lincoln There are no known descriptions or drawings of object in Roman literature, […]]]></summary>
-        <author>
-            <name>Victor Mair</name>
         </author>
     </entry>
     <entry>
