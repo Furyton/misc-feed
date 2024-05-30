@@ -1792,7 +1792,18 @@
       "title": "The Berkeley Artificial Intelligence Research Blog",
       "feedUrl": "https://bair.berkeley.edu/blog/feed",
       "siteUrl": "http://bair.berkeley.edu/blog/",
-      "articles": []
+      "articles": [
+        {
+          "id": "http://bair.berkeley.edu/blog/2024/05/29/tiny-agent/",
+          "author": null,
+          "description": "The ability of LLMs to execute commands through plain language (e.g. English) has enabled agentic systems that can complete a user query by orchestrating the right set of tools (e.g. ToolFormer, Gorilla). This, along with the recent multi-modal efforts such as the GPT-4o or Gemini-1.5 model, has expanded the realm of possibilities with AI agents. While this is quite exciting, the large model size and computational requirements of these models often requires their inference to be performed on the cloud. This can create several challenges for their widespread adoption. First and foremost, uploading data such as video, audio, or text documents to a third party vendor on the cloud, can result in privacy issues. Second, this requires cloud/Wi-Fi connectivity which is not always possible. For in…",
+          "link": "http://bair.berkeley.edu/blog/2024/05/29/tiny-agent/",
+          "publishedOn": "2024-05-29T23:00:00.000Z",
+          "wordCount": 3467,
+          "title": "TinyAgent: Function Calling at the Edge",
+          "imageUrl": "http://bair.berkeley.edu/blog/assets/tiny-agent/Figure2.png"
+        }
+      ]
     },
     {
       "title": "inFERENCe",
