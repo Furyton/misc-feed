@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-05-30T07:15:50.112Z</updated>
+    <updated>2024-05-30T08:21:06.777Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[stop the attacks on Rafah!]]></title>
+        <id>http://xianblog.wordpress.com/?p=56330</id>
+        <link href="https://xianblog.wordpress.com/2024/05/30/stop-the-attacks-on-rafah/"/>
+        <updated>2024-05-30T07:48:57.000Z</updated>
+        <summary type="html"><![CDATA[Visit the post for more.]]></summary>
+        <author>
+            <name>xi'an</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[TinyAgent: Function Calling at the Edge]]></title>
         <id>http://bair.berkeley.edu/blog/2024/05/29/tiny-agent/</id>
