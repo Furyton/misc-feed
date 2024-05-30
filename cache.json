@@ -1537,6 +1537,22 @@
       "siteUrl": "https://www.argmin.net",
       "articles": [
         {
+          "id": "https://www.argmin.net/p/some-of-my-best-friends-are-statisticians",
+          "author": "Ben Recht",
+          "description": "Meehl's Philosophical Psychology, Lecture 6, part 2.",
+          "link": "https://www.argmin.net/p/some-of-my-best-friends-are-statisticians",
+          "publishedOn": "2024-05-30T14:16:38.000Z",
+          "wordCount": null,
+          "title": "Some of my best friends are statisticians.",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substack-post-media.s3.amazonaws.com/public/images/2a9a90a4-1a55-4ac9-ba75-a85db4a897ad_1100x795.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substack-post-media.s3.amazonaws.com/public/images/2a9a90a4-1a55-4ac9-ba75-a85db4a897ad_1100x795.png"
+        },
+        {
           "id": "https://www.argmin.net/p/obfuscating-factors",
           "author": "Ben Recht",
           "description": "Meehl's Philosophical Psychology, Lecture 6, part 1.",
@@ -1750,7 +1766,18 @@
       "title": "Python⇒Speed",
       "feedUrl": "https://pythonspeed.com/atom.xml",
       "siteUrl": "https://pythonspeed.com/atom.xml",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://pythonspeed.com/articles/lets-optimize-median-local-threshold/",
+          "author": null,
+          "description": "pre {\n    white-space: pre;\n    overflow-x: auto;\n    font-size: 80%;\n}\n\n\nLet’s speed up some software! Our motivation: we have an image, a photo\nof some text from a book. We want to turn it into a 1-bit image, with\njust black and white, extracting the text so we can easily read it.\nWe’ll use an example image from\nscikit-image, an excellent image processing\nlibrary:\n\nfrom skimage.data import page\nimport numpy as np\nIMAGE = page()\nassert IMAGE.dtype == np.uint8\n\n\nHere’s what it looks like (it’s licensed under this\nlicense):\n\nMedian-based local thresholding\nThe task we’re trying to do—turning darker areas into black, and lighter\nareas into white—is called thresholding. Since the image is different in\ndifferent regions, with some darker and some lighter, we’ll get the best\nresults if we use l…",
+          "link": "https://pythonspeed.com/articles/lets-optimize-median-local-threshold/",
+          "publishedOn": "2024-05-30T00:00:00.000Z",
+          "wordCount": 2418,
+          "title": "Let’s optimize! Running 15× faster with a situation-specific algorithm",
+          "imageUrl": "https://pythonspeed.com/assets/titles/lets-optimize-median-local-threshold.png"
+        }
+      ]
     },
     {
       "title": "统计之都",
@@ -2114,6 +2141,22 @@
       "feedUrl": "https://www.argmin.net/feed.xml",
       "siteUrl": "https://www.argmin.net",
       "articles": [
+        {
+          "id": "https://www.argmin.net/p/some-of-my-best-friends-are-statisticians",
+          "author": "Ben Recht",
+          "description": "Meehl's Philosophical Psychology, Lecture 6, part 2.",
+          "link": "https://www.argmin.net/p/some-of-my-best-friends-are-statisticians",
+          "publishedOn": "2024-05-30T14:16:38.000Z",
+          "wordCount": null,
+          "title": "Some of my best friends are statisticians.",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substack-post-media.s3.amazonaws.com/public/images/2a9a90a4-1a55-4ac9-ba75-a85db4a897ad_1100x795.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substack-post-media.s3.amazonaws.com/public/images/2a9a90a4-1a55-4ac9-ba75-a85db4a897ad_1100x795.png"
+        },
         {
           "id": "https://www.argmin.net/p/obfuscating-factors",
           "author": "Ben Recht",
