@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-05-30T18:23:01.377Z</updated>
+    <updated>2024-05-30T19:14:38.691Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -1722,16 +1722,6 @@ If you’ve heard about FHE and you’re a software person, you’ve probably he
         <summary type="html"><![CDATA[今天我们分享一下论文《Score identity Distillation: Exponentially Fast Distillation of Pretrained Diffusion M...]]></summary>
         <author>
             <name>苏剑林</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Accelerating Llama3 FP8 Inference with Triton Kernels]]></title>
-        <id>https://pytorch.org/blog/accelerating-llama3/</id>
-        <link href="https://pytorch.org/blog/accelerating-llama3/"/>
-        <updated>2024-05-01T07:00:00.000Z</updated>
-        <summary type="html"><![CDATA[1.0 Summary]]></summary>
-        <author>
-            <name>PyTorch Website</name>
         </author>
     </entry>
     <entry>

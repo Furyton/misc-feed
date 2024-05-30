@@ -2058,16 +2058,6 @@
           "wordCount": 2022,
           "title": "A Hitchhiker’s Guide to Speculative Decoding",
           "imageUrl": "https://pytorch.org/assets/images/social-share.jpg"
-        },
-        {
-          "id": "https://pytorch.org/blog/accelerating-llama3/",
-          "author": null,
-          "description": "1.0 Summary",
-          "link": "https://pytorch.org/blog/accelerating-llama3/",
-          "publishedOn": "2024-05-01T07:00:00.000Z",
-          "wordCount": 1935,
-          "title": "Accelerating Llama3 FP8 Inference with Triton Kernels",
-          "imageUrl": "https://pytorch.org/assets/images/social-share.jpg"
         }
       ]
     },
