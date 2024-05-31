@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-05-31T13:18:09.511Z</updated>
+    <updated>2024-05-31T14:14:46.624Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Brain Games]]></title>
+        <id>https://www.argmin.net/p/brain-games</id>
+        <link href="https://www.argmin.net/p/brain-games"/>
+        <updated>2024-05-31T14:01:26.000Z</updated>
+        <summary type="html"><![CDATA[Meehl's Philosophical Psychology, Lecture 6, part 3.]]></summary>
+        <author>
+            <name>Ben Recht</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Brain Games]]></title>
+        <id>https://www.argmin.net/p/brain-games</id>
+        <link href="https://www.argmin.net/p/brain-games"/>
+        <updated>2024-05-31T14:01:26.000Z</updated>
+        <summary type="html"><![CDATA[Meehl's Philosophical Psychology, Lecture 6, part 3.]]></summary>
+        <author>
+            <name>Ben Recht</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Headline puzzle of the day]]></title>
         <id>https://languagelog.ldc.upenn.edu/nll/?p=64303</id>
@@ -1692,16 +1712,6 @@ If you’ve heard about FHE and you’re a software person, you’ve probably he
         <summary type="html"><![CDATA[Speculative decoding is an optimization technique for inference that makes educated guesses about future tokens while generating the current token, all within a single forward pass. It incorporates a verification mechanism to ensure the correctness of these speculated tokens, thereby guaranteeing that the overall output of speculative decoding is identical to that of vanilla decoding. Optimizing the cost of inference of large language models (LLMs) is arguably one of the most critical factors in reducing the cost of generative AI and increasing its adoption. Towards this goal, various inference optimization techniques are available, including custom kernels, dynamic batching of input requests, and quantization of large models.]]></summary>
         <author>
             <name>PyTorch Website</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[An eccentric translation of the bible]]></title>
-        <id>https://languagelog.ldc.upenn.edu/nll/?p=63796</id>
-        <link href="https://languagelog.ldc.upenn.edu/nll/?p=63796&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=an-eccentric-translation-of-the-bible"/>
-        <updated>2024-05-02T01:23:02.000Z</updated>
-        <summary type="html"><![CDATA[[This is a guest post by IA] Speaking of religion and language, among the various 'sacred name Bibles' the most interesting I've seen is called the Literal English Version. (Though there is certainly nothing 'literal' about it in the sense of Young's Literal Translation.) It's online here.   Here are some quotes from it. Luke […]]]></summary>
-        <author>
-            <name>Victor Mair</name>
         </author>
     </entry>
     <entry>

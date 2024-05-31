@@ -1527,6 +1527,22 @@
       "siteUrl": "https://www.argmin.net",
       "articles": [
         {
+          "id": "https://www.argmin.net/p/brain-games",
+          "author": "Ben Recht",
+          "description": "Meehl's Philosophical Psychology, Lecture 6, part 3.",
+          "link": "https://www.argmin.net/p/brain-games",
+          "publishedOn": "2024-05-31T14:01:26.000Z",
+          "wordCount": null,
+          "title": "Brain Games",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substack-post-media.s3.amazonaws.com/public/images/f32a3cf6-dfca-42f6-8a2f-6ad21b2f3ddf_1100x799.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substack-post-media.s3.amazonaws.com/public/images/f32a3cf6-dfca-42f6-8a2f-6ad21b2f3ddf_1100x799.png"
+        },
+        {
           "id": "https://www.argmin.net/p/some-of-my-best-friends-are-statisticians",
           "author": "Ben Recht",
           "description": "Meehl's Philosophical Psychology, Lecture 6, part 2.",
@@ -2105,6 +2121,22 @@
       "feedUrl": "https://www.argmin.net/feed.xml",
       "siteUrl": "https://www.argmin.net",
       "articles": [
+        {
+          "id": "https://www.argmin.net/p/brain-games",
+          "author": "Ben Recht",
+          "description": "Meehl's Philosophical Psychology, Lecture 6, part 3.",
+          "link": "https://www.argmin.net/p/brain-games",
+          "publishedOn": "2024-05-31T14:01:26.000Z",
+          "wordCount": null,
+          "title": "Brain Games",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substack-post-media.s3.amazonaws.com/public/images/f32a3cf6-dfca-42f6-8a2f-6ad21b2f3ddf_1100x799.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substack-post-media.s3.amazonaws.com/public/images/f32a3cf6-dfca-42f6-8a2f-6ad21b2f3ddf_1100x799.png"
+        },
         {
           "id": "https://www.argmin.net/p/some-of-my-best-friends-are-statisticians",
           "author": "Ben Recht",
@@ -3367,16 +3399,6 @@
           "publishedOn": "2024-05-02T08:59:38.000Z",
           "wordCount": 2096,
           "title": "Finnish words for snow",
-          "imageUrl": null
-        },
-        {
-          "id": "https://languagelog.ldc.upenn.edu/nll/?p=63796",
-          "author": "Victor Mair",
-          "description": "[This is a guest post by IA] Speaking of religion and language, among the various 'sacred name Bibles' the most interesting I've seen is called the Literal English Version. (Though there is certainly nothing 'literal' about it in the sense of Young's Literal Translation.) It's online here.   Here are some quotes from it. Luke […]",
-          "link": "https://languagelog.ldc.upenn.edu/nll/?p=63796&utm_source=rss&utm_medium=rss&utm_campaign=an-eccentric-translation-of-the-bible",
-          "publishedOn": "2024-05-02T01:23:02.000Z",
-          "wordCount": 2928,
-          "title": "An eccentric translation of the bible",
           "imageUrl": null
         }
       ]
