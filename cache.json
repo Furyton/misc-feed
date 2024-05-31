@@ -2354,6 +2354,16 @@
       "siteUrl": "https://xianblog.wordpress.com",
       "articles": [
         {
+          "id": "http://xianblog.wordpress.com/?p=56367",
+          "author": "xi'an",
+          "description": "Visit the post for more.",
+          "link": "https://xianblog.wordpress.com/2024/05/31/insufficiently-out/",
+          "publishedOn": "2024-05-31T10:31:29.000Z",
+          "wordCount": 2466,
+          "title": "insufficiently out!",
+          "imageUrl": "https://xianblog.wordpress.com/wp-content/uploads/2024/05/temp-7.png"
+        },
+        {
           "id": "http://xianblog.wordpress.com/?p=56316",
           "author": "xi'an",
           "description": "Visit the post for more.",
@@ -2652,16 +2662,6 @@
           "wordCount": 3029,
           "title": "the privacy fallacy [book review]",
           "imageUrl": "https://assets.cambridge.org/97813165/18113/cover/9781316518113.jpg"
-        },
-        {
-          "id": "http://xianblog.wordpress.com/?p=55873",
-          "author": "xi'an",
-          "description": "Visit the post for more.",
-          "link": "https://xianblog.wordpress.com/2024/05/02/bixarre-bixarre/",
-          "publishedOn": "2024-05-01T22:24:20.000Z",
-          "wordCount": 2412,
-          "title": "biXarre, biXarre",
-          "imageUrl": "https://xianblog.files.wordpress.com/2024/04/temp-5.png"
         }
       ]
     },
@@ -2694,6 +2694,16 @@
       "feedUrl": "https://languagelog.ldc.upenn.edu/nll/?feed=rss2",
       "siteUrl": "https://languagelog.ldc.upenn.edu/nll",
       "articles": [
+        {
+          "id": "https://languagelog.ldc.upenn.edu/nll/?p=64303",
+          "author": "Mark Liberman",
+          "description": "Philip Taylor writes: I have read this headline over and over again, and I still have absolutely no idea of what it means. \"Sir Patrick Vallance calls for net zero to have immediacy of search for Covid vaccine\" Can you do any better before reading the full article ? Readers may want to try their […]",
+          "link": "https://languagelog.ldc.upenn.edu/nll/?p=64303&utm_source=rss&utm_medium=rss&utm_campaign=headline-puzzle-of-the-day",
+          "publishedOn": "2024-05-31T11:03:18.000Z",
+          "wordCount": 2249,
+          "title": "Headline puzzle of the day",
+          "imageUrl": null
+        },
         {
           "id": "https://languagelog.ldc.upenn.edu/nll/?p=64297",
           "author": "Victor Mair",
