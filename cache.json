@@ -2038,26 +2038,6 @@
           "wordCount": 1844,
           "title": "Deep Learning Energy Measurement and Optimization",
           "imageUrl": "https://pytorch.org/assets/images/social-share.jpg"
-        },
-        {
-          "id": "https://pytorch.org/blog/docathon-june-2024/",
-          "author": null,
-          "description": "We are thrilled to announce the upcoming PyTorch Docathon in June! The Docathon, akin to a hackathon, is an event dedicated to enhancing the quality of the PyTorch documentation with the invaluable assistance of our community. Documentation is a vital component of any technology. By refining it, we can simplify the process for new users to get started with PyTorch, guide them in effectively utilizing its features, and ultimately expedite the transition from research to production in machine learning. See our previous events here and here.",
-          "link": "https://pytorch.org/blog/docathon-june-2024/",
-          "publishedOn": "2024-05-02T07:00:00.000Z",
-          "wordCount": 746,
-          "title": "Announcing PyTorch Docathon June, 2024",
-          "imageUrl": "https://pytorch.org/assets/images/social-share.jpg"
-        },
-        {
-          "id": "https://pytorch.org/blog/hitchhikers-guide-speculative-decoding/",
-          "author": null,
-          "description": "Speculative decoding is an optimization technique for inference that makes educated guesses about future tokens while generating the current token, all within a single forward pass. It incorporates a verification mechanism to ensure the correctness of these speculated tokens, thereby guaranteeing that the overall output of speculative decoding is identical to that of vanilla decoding. Optimizing the cost of inference of large language models (LLMs) is arguably one of the most critical factors in reducing the cost of generative AI and increasing its adoption. Towards this goal, various inference optimization techniques are available, including custom kernels, dynamic batching of input requests, and quantization of large models.",
-          "link": "https://pytorch.org/blog/hitchhikers-guide-speculative-decoding/",
-          "publishedOn": "2024-05-02T07:00:00.000Z",
-          "wordCount": 2022,
-          "title": "A Hitchhiker’s Guide to Speculative Decoding",
-          "imageUrl": "https://pytorch.org/assets/images/social-share.jpg"
         }
       ]
     },

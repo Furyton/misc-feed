@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-05-31T18:20:53.757Z</updated>
+    <updated>2024-05-31T19:13:56.618Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -1722,26 +1722,6 @@ If you’ve heard about FHE and you’re a software person, you’ve probably he
         <summary type="html"><![CDATA[View this post on Instagram A post shared by Nerea Bartolome (@nerea.bartolome) Make of it what you will, but don't try to compare the Finnish words for snow with Eskimo words for snow.   Selected reading "The snow words myth: progress at last" (1/4/07) — too many other posts for Eskimo / Inuit / Yup'ik […]]]></summary>
         <author>
             <name>Victor Mair</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Announcing PyTorch Docathon June, 2024]]></title>
-        <id>https://pytorch.org/blog/docathon-june-2024/</id>
-        <link href="https://pytorch.org/blog/docathon-june-2024/"/>
-        <updated>2024-05-02T07:00:00.000Z</updated>
-        <summary type="html"><![CDATA[We are thrilled to announce the upcoming PyTorch Docathon in June! The Docathon, akin to a hackathon, is an event dedicated to enhancing the quality of the PyTorch documentation with the invaluable assistance of our community. Documentation is a vital component of any technology. By refining it, we can simplify the process for new users to get started with PyTorch, guide them in effectively utilizing its features, and ultimately expedite the transition from research to production in machine learning. See our previous events here and here.]]></summary>
-        <author>
-            <name>PyTorch Website</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Hitchhiker’s Guide to Speculative Decoding]]></title>
-        <id>https://pytorch.org/blog/hitchhikers-guide-speculative-decoding/</id>
-        <link href="https://pytorch.org/blog/hitchhikers-guide-speculative-decoding/"/>
-        <updated>2024-05-02T07:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Speculative decoding is an optimization technique for inference that makes educated guesses about future tokens while generating the current token, all within a single forward pass. It incorporates a verification mechanism to ensure the correctness of these speculated tokens, thereby guaranteeing that the overall output of speculative decoding is identical to that of vanilla decoding. Optimizing the cost of inference of large language models (LLMs) is arguably one of the most critical factors in reducing the cost of generative AI and increasing its adoption. Towards this goal, various inference optimization techniques are available, including custom kernels, dynamic batching of input requests, and quantization of large models.]]></summary>
-        <author>
-            <name>PyTorch Website</name>
         </author>
     </entry>
     <entry>
