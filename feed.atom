@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-05-31T22:15:31.375Z</updated>
+    <updated>2024-05-31T23:16:04.424Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[a journal of the chaos, conquest, war, famine, and death [by drowning & ordeal] year]]></title>
+        <id>http://xianblog.wordpress.com/?p=55849</id>
+        <link href="https://xianblog.wordpress.com/2024/06/01/a-journal-of-the-conquest-war-famine-and-death-by-drowning-ordeal-year/"/>
+        <updated>2024-05-31T22:24:34.000Z</updated>
+        <summary type="html"><![CDATA[Read Indriðason’s Sigurverkið (The king and the clockmaker) while spending the day in Charles de Gaulle airport waiting for my flight to Birmingham. This is an historical if romanced novel taking place around 1800 in both Iceland and Denmark. It is somewhat connected to Hannah Kent’s Burial Rites, —which impressed me so much that it […]]]></summary>
+        <author>
+            <name>xi'an</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[A one-sided war of words, via drone]]></title>
         <id>https://languagelog.ldc.upenn.edu/nll/?p=64300</id>
@@ -1700,16 +1710,6 @@ If you’ve heard about FHE and you’re a software person, you’ve probably he
         <link href="https://languagelog.ldc.upenn.edu/nll/?p=63826&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=mike-johnson-blesses-mtg"/>
         <updated>2024-05-02T12:37:52.000Z</updated>
         <summary type="html"><![CDATA[From The Hill on Xitter — Mike Johnson on Marjorie Taylor Greene: Q: “Marjorie Taylor Greene. No fan of yours.” Mike Johnson: “Bless her heart.” Q: “Is she a serious lawmaker?” Mike Johnson: “I don't think she's proving to be. No. I don't spend a lot of time thinking about her.” pic.twitter.com/YDcFFVhMJm — Republican Voters Against […]]]></summary>
-        <author>
-            <name>Mark Liberman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Data Science graphic of the month]]></title>
-        <id>https://languagelog.ldc.upenn.edu/nll/?p=63822</id>
-        <link href="https://languagelog.ldc.upenn.edu/nll/?p=63822&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=data-science-graphic-of-the-month"/>
-        <updated>2024-05-02T11:03:32.000Z</updated>
-        <summary type="html"><![CDATA[stephsmithio, "Swear words in Taylor Swift albums [OC]", r/dataisbeautiful: A few quick trips to the Google Books Ngram Viewer will confirm that Ms. Swift is tracing larger-scale trends, e.g. Also, see John McWhorter, "Curses Aren’t ‘Just Words’", The Atlantic 5/4/2021. And maybe also "Male and female word usage", 8/7/2014.]]></summary>
         <author>
             <name>Mark Liberman</name>
         </author>
