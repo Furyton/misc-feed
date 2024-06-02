@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-06-02T22:14:26.571Z</updated>
+    <updated>2024-06-02T23:16:47.970Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Andrew in a comic pastiche on France Inter]]></title>
+        <id>http://xianblog.wordpress.com/?p=56160</id>
+        <link href="https://xianblog.wordpress.com/2024/06/03/andrew-in-a-comic-pastiche-on-france-inter/"/>
+        <updated>2024-06-02T22:24:04.000Z</updated>
+        <summary type="html"><![CDATA[Andrew Gelman became a punchline in a France Inter comic interlude where the actor mentioned his being unavailable as the reason for her appearance, as well as a few buzzwords related with Andrew’s research. The whole sequence was a bit heavy handed, with a pastiche of experimental design, but I wonder at how the writer […]]]></summary>
+        <author>
+            <name>xi'an</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Microsoft Copilot goes looking for an obscure sinograph]]></title>
         <id>https://languagelog.ldc.upenn.edu/nll/?p=64320</id>
