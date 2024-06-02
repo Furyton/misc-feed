@@ -1900,18 +1900,7 @@
       "title": "scikit-learn Blog",
       "feedUrl": "https://blog.scikit-learn.org/feed",
       "siteUrl": "https://blog.scikit-learn.org/",
-      "articles": [
-        {
-          "id": "https://blog.scikit-learn.org/updates/authorship-info/",
-          "author": null,
-          "description": "Author: Adrin Jalali",
-          "link": "https://blog.scikit-learn.org/updates/authorship-info/",
-          "publishedOn": "2024-05-04T00:00:00.000Z",
-          "wordCount": 410,
-          "title": "Note on Inline Authorship Information in scikit-learn",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Machine Learning (Theory)",
@@ -2674,6 +2663,16 @@
       "feedUrl": "https://languagelog.ldc.upenn.edu/nll/?feed=rss2",
       "siteUrl": "https://languagelog.ldc.upenn.edu/nll",
       "articles": [
+        {
+          "id": "https://languagelog.ldc.upenn.edu/nll/?p=64320",
+          "author": "Victor Mair",
+          "description": "and finds it! Back in early February, I asked the Lexicography at Wenlin Institute discussion group if they could help me find a rare Chinese character in Unicode, and I sent along a picture of the glyph.  It won't show up in most browsers, but you can see the character here.  You can also see […]",
+          "link": "https://languagelog.ldc.upenn.edu/nll/?p=64320&utm_source=rss&utm_medium=rss&utm_campaign=microsoft-copilot-goes-looking-for-an-obscure-sinograph",
+          "publishedOn": "2024-06-02T11:14:32.000Z",
+          "wordCount": 2593,
+          "title": "Microsoft Copilot goes looking for an obscure sinograph",
+          "imageUrl": null
+        },
         {
           "id": "https://languagelog.ldc.upenn.edu/nll/?p=64340",
           "author": "Mark Liberman",
