@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-06-03T03:19:34.069Z</updated>
+    <updated>2024-06-03T04:21:30.367Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -1652,17 +1652,6 @@ In browsing the state of the art I came across two interesting things. The first
         <summary type="html"><![CDATA[Visit the post for more.]]></summary>
         <author>
             <name>xi'an</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A High-Level Technical Overview of Fully Homomorphic Encryption]]></title>
-        <id>https://www.jeremykun.com/2024/05/04/fhe-overview/</id>
-        <link href="https://www.jeremykun.com/2024/05/04/fhe-overview/"/>
-        <updated>2024-05-04T15:30:00.000Z</updated>
-        <summary type="html"><![CDATA[About two years ago, I switched teams at Google to focus on fully homomorphic encryption (abbreviated FHE, or sometimes HE). Since then I’ve got to work on a lot of interesting projects, learning along the way about post-quantum cryptography, compiler design, and the ins and outs of fully homomorphic encryption.
-If you’ve heard about FHE and you’re a software person, you’ve probably heard two things: it lets you run programs directly on encrypted data without ever decrypting it; and it’s still too slow to be useful for anything.]]></summary>
-        <author>
-            <name>Math ∩ Programming</name>
         </author>
     </entry>
     <entry>

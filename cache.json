@@ -2039,16 +2039,6 @@
           "wordCount": 513,
           "title": "Remez and function approximations",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.jeremykun.com/2024/05/04/fhe-overview/",
-          "author": null,
-          "description": "About two years ago, I switched teams at Google to focus on fully homomorphic encryption (abbreviated FHE, or sometimes HE). Since then I’ve got to work on a lot of interesting projects, learning along the way about post-quantum cryptography, compiler design, and the ins and outs of fully homomorphic encryption.\nIf you’ve heard about FHE and you’re a software person, you’ve probably heard two things: it lets you run programs directly on encrypted data without ever decrypting it; and it’s still too slow to be useful for anything.",
-          "link": "https://www.jeremykun.com/2024/05/04/fhe-overview/",
-          "publishedOn": "2024-05-04T15:30:00.000Z",
-          "wordCount": 8382,
-          "title": "A High-Level Technical Overview of Fully Homomorphic Encryption",
-          "imageUrl": null
         }
       ]
     },
