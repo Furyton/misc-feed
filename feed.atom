@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-06-05T05:16:28.275Z</updated>
+    <updated>2024-06-05T06:23:10.932Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Roman dodecahedra between Southeast Asia and England, part 4]]></title>
+        <id>https://languagelog.ldc.upenn.edu/nll/?p=64352</id>
+        <link href="https://languagelog.ldc.upenn.edu/nll/?p=64352&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=roman-dodecahedra-between-southeast-asia-and-england-part-4"/>
+        <updated>2024-06-05T05:16:57.000Z</updated>
+        <summary type="html"><![CDATA[Wherein we embark upon an inquisition into the divine proportions of the dodecahedron and its congeners, take a peek at the history of accounting, explore the mind of Leonardo da Vinci, and examine the humanistic physics of Werner Heisenberg*. [*Heisenberg's father was a professor of medieval and modern Greek studies at the University of Munich […]]]></summary>
+        <author>
+            <name>Victor Mair</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[6th Workshop on Sequential Monte Carlo Methods (#2)]]></title>
         <id>http://xianblog.wordpress.com/?p=56201</id>
@@ -1661,17 +1671,6 @@ A major challenge in statistical learning involves developing models that can ef
         <summary type="html"><![CDATA[Visit the post for more.]]></summary>
         <author>
             <name>xi'an</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Remez and function approximations]]></title>
-        <id>https://www.jeremykun.com/shortform/2024-05-06-1018/</id>
-        <link href="https://www.jeremykun.com/shortform/2024-05-06-1018/"/>
-        <updated>2024-05-06T17:18:29.000Z</updated>
-        <summary type="html"><![CDATA[I’ve been learning recently about how to approximate functions by low-degree polynomials. This is useful in FHE in the context of “arithmetic FHE” (see my FHE overview article), where the computational model makes low-degree polynomials cheap to evaluate and non-polynomial functions expensive or impossible.
-In browsing the state of the art I came across two interesting things. The first is the software package lolremez that implements polynomial (and rational polynomial $f(x) / g(x)$) function approximation using the so-called Remez algorithm.]]></summary>
-        <author>
-            <name>Math ∩ Programming</name>
         </author>
     </entry>
     <entry>

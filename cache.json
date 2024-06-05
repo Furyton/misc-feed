@@ -2033,16 +2033,6 @@
           "wordCount": 397,
           "title": "Experiments with POSSE",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.jeremykun.com/shortform/2024-05-06-1018/",
-          "author": null,
-          "description": "I’ve been learning recently about how to approximate functions by low-degree polynomials. This is useful in FHE in the context of “arithmetic FHE” (see my FHE overview article), where the computational model makes low-degree polynomials cheap to evaluate and non-polynomial functions expensive or impossible.\nIn browsing the state of the art I came across two interesting things. The first is the software package lolremez that implements polynomial (and rational polynomial $f(x) / g(x)$) function approximation using the so-called Remez algorithm.",
-          "link": "https://www.jeremykun.com/shortform/2024-05-06-1018/",
-          "publishedOn": "2024-05-06T17:18:29.000Z",
-          "wordCount": 513,
-          "title": "Remez and function approximations",
-          "imageUrl": null
         }
       ]
     },
@@ -2651,6 +2641,16 @@
       "feedUrl": "https://languagelog.ldc.upenn.edu/nll/?feed=rss2",
       "siteUrl": "https://languagelog.ldc.upenn.edu/nll",
       "articles": [
+        {
+          "id": "https://languagelog.ldc.upenn.edu/nll/?p=64352",
+          "author": "Victor Mair",
+          "description": "Wherein we embark upon an inquisition into the divine proportions of the dodecahedron and its congeners, take a peek at the history of accounting, explore the mind of Leonardo da Vinci, and examine the humanistic physics of Werner Heisenberg*. [*Heisenberg's father was a professor of medieval and modern Greek studies at the University of Munich […]",
+          "link": "https://languagelog.ldc.upenn.edu/nll/?p=64352&utm_source=rss&utm_medium=rss&utm_campaign=roman-dodecahedra-between-southeast-asia-and-england-part-4",
+          "publishedOn": "2024-06-05T05:16:57.000Z",
+          "wordCount": 4101,
+          "title": "Roman dodecahedra between Southeast Asia and England, part 4",
+          "imageUrl": null
+        },
         {
           "id": "https://languagelog.ldc.upenn.edu/nll/?p=64375",
           "author": "Mark Liberman",
