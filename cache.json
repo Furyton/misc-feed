@@ -1539,16 +1539,6 @@
           "wordCount": 326,
           "title": "20/05 1pm-2pm: Statistics Seminar - TBD",
           "imageUrl": null
-        },
-        {
-          "id": "8a17841b8f342e08018f551b8f58100c",
-          "author": "Statistics",
-          "description": "When:\r\n\t\r\n  \t\t13:00\r\n\t\t-\r\n\t\t14:00, Mon, 13 May '24\r\n\r\n\t\nWhere: MB0.07, MSB\n\r\n\t\nA major challenge in statistical learning involves developing models that can effectively leverage the structure of a problem and generalise well. Achieving this goal critically depends on the precise selection and application of suitable regularisation methods. Although there have been significant advancements in understanding explicit regularisation techniques, such as Lasso and nuclear norm minimisation, which have profoundly impacted the field in recent years, the development of regularisation approaches—especially those that are implicit or algorithmic—remains a difficult task. In this talk, we will address this challenge by exploring mirror descent, a family of first-order methods that generalise gradient descent. Using tools from probability and optimisation, we will introduce a structured framework for designing mirror maps and Bregman divergences. This framework enables mirror descent to attain optimal statistical rates in some settings in linear and kernel regression. If time permits, we will also briefly showcase the application of mirror descent in reinforcement learning, specifically focusing on the use of neural networks to learn mirror maps for policy optimisation.",
-          "link": "https://warwick.ac.uk/fac/sci/statistics/event_diary/?calendarItem=8a1785d88ec79a0f018eeb12f1673cb4",
-          "publishedOn": "2024-05-07T22:10:20.000Z",
-          "wordCount": 484,
-          "title": "13/05 1pm-2pm: Designing and Learning Algorithmic Regularisers",
-          "imageUrl": null
         }
       ]
     },
