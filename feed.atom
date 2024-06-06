@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-06-06T10:17:16.525Z</updated>
+    <updated>2024-06-06T11:14:02.046Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[xkcd: Fluid Speech]]></title>
+        <id>https://languagelog.ldc.upenn.edu/nll/?p=64410</id>
+        <link href="https://languagelog.ldc.upenn.edu/nll/?p=64410&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=xkcd-fluid-speech"/>
+        <updated>2024-06-06T10:35:50.000Z</updated>
+        <summary type="html"><![CDATA[Today's xkcd is (or should be)  the illustration for a week or two in every introductory course on the sound side of language: Mouseover text: "Thank you to linguist Gretchen McCulloch for teaching me about phonetic assimilation, and for teaching me that if you stand around in public reading texts from a linguist and murmuring […]]]></summary>
+        <author>
+            <name>Mark Liberman</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Aurora[ge]]]></title>
         <id>http://xianblog.wordpress.com/?p=56222</id>
@@ -1563,104 +1573,6 @@ I’m using Hugo as a static site generator, with the source a (private) GitHub 
         <summary type="html"><![CDATA[Today's SMBC: The mouseover title: "Disappointed with myself that I haven't don't a creationism joke in years. Six years is like 0.1 percent of the past." The aftercomic: As I wrote last year, "I've wondered for a long time why Biblical inerrantists have a big problem with biological evolution, which contradicts Chapter 1 of Genesis, […]]]></summary>
         <author>
             <name>Mark Liberman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[17/06 1pm-2pm: Statistics Seminar - TBD]]></title>
-        <id>8a17841b8f342e08018f554737c0101b</id>
-        <link href="https://warwick.ac.uk/fac/sci/statistics/event_diary/?calendarItem=8a17841b8f342e08018f554737c0101a"/>
-        <updated>2024-05-07T22:58:01.000Z</updated>
-        <summary type="html"><![CDATA[When:
-	
-  		13:00
-		-
-		14:00, Mon, 17 Jun '24
-
-	
-Where: MB0.07, MSB
-
-	
-by Dr. Francis Bach, Departement d'Informatique de l'Ecole Normale Superieure, PSL Research University, Centre de Recherche INRIA de Paris.
-
-Abstract: TBD]]></summary>
-        <author>
-            <name>Statistics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[10/06 1pm-2pm: Statistics Seminar - TBD]]></title>
-        <id>8a1785d88f3430db018f55460a8d3cc1</id>
-        <link href="https://warwick.ac.uk/fac/sci/statistics/event_diary/?calendarItem=8a1785d88f3430db018f55460a8d3cc0"/>
-        <updated>2024-05-07T22:56:44.000Z</updated>
-        <summary type="html"><![CDATA[When:
-	
-  		13:00
-		-
-		14:00, Mon, 10 Jun '24
-
-	
-Where: MB0.07, MSB
-
-	
-by Professor Fabrice Rossi, (Université Paris Dauphine, France)
-
-Abstract: TBD]]></summary>
-        <author>
-            <name>Statistics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[03/06 1pm-2pm: Statistics Seminar - An Analysis of Elo Rating Systems via Markov Chains: MCMC Convergence and Tournament Design]]></title>
-        <id>8a1785d78f342dfe018f554453ec0bfe</id>
-        <link href="https://warwick.ac.uk/fac/sci/statistics/event_diary/?calendarItem=8a1785d78f342dfe018f554453ec0bfd"/>
-        <updated>2024-05-07T22:54:52.000Z</updated>
-        <summary type="html"><![CDATA[When:
-	
-  		13:00
-		-
-		14:00, Mon, 03 Jun '24
-
-	
-Where: MB0.07, MSB
-
-	
-by Dr. Sam Olesker-Taylor, (University of Warwick)
-
-Abstract: TBD]]></summary>
-        <author>
-            <name>Statistics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[20/05 1pm-2pm: Statistics Seminar - TBD]]></title>
-        <id>8a17841b8f342e08018f554296f61018</id>
-        <link href="https://warwick.ac.uk/fac/sci/statistics/event_diary/?calendarItem=8a1785d78f342dfe018f553945190bf9"/>
-        <updated>2024-05-07T22:52:58.000Z</updated>
-        <summary type="html"><![CDATA[When:
-	
-  		13:00
-		-
-		14:00, Mon, 20 May '24
-
-	
-Where: MB0.07, MSB
-
-	
-by Professor Fabrizio Leisen, (University of Nottingham)
-
-Abstract: TBD]]></summary>
-        <author>
-            <name>Statistics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Xuriouser & Xuriouser]]></title>
-        <id>http://xianblog.wordpress.com/?p=55880</id>
-        <link href="https://xianblog.wordpress.com/2024/05/08/xuriouser-xuriouser/"/>
-        <updated>2024-05-07T22:24:02.000Z</updated>
-        <summary type="html"><![CDATA[Visit the post for more.]]></summary>
-        <author>
-            <name>xi'an</name>
         </author>
     </entry>
     <entry>
