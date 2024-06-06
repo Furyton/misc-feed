@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-06-06T03:19:14.489Z</updated>
+    <updated>2024-06-06T04:19:26.872Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -1681,16 +1681,6 @@ Where: MB0.07, MSB
 A major challenge in statistical learning involves developing models that can effectively leverage the structure of a problem and generalise well. Achieving this goal critically depends on the precise selection and application of suitable regularisation methods. Although there have been significant advancements in understanding explicit regularisation techniques, such as Lasso and nuclear norm minimisation, which have profoundly impacted the field in recent years, the development of regularisation approaches—especially those that are implicit or algorithmic—remains a difficult task. In this talk, we will address this challenge by exploring mirror descent, a family of first-order methods that generalise gradient descent. Using tools from probability and optimisation, we will introduce a structured framework for designing mirror maps and Bregman divergences. This framework enables mirror descent to attain optimal statistical rates in some settings in linear and kernel regression. If time permits, we will also briefly showcase the application of mirror descent in reinforcement learning, specifically focusing on the use of neural networks to learn mirror maps for policy optimisation.]]></summary>
         <author>
             <name>Statistics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Planet power, plus dinosaurs and dragons: myth and reality of heaven and earth]]></title>
-        <id>https://languagelog.ldc.upenn.edu/nll/?p=63877</id>
-        <link href="https://languagelog.ldc.upenn.edu/nll/?p=63877&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=planet-power-plus-dinosaurs-and-dragons-myth-and-reality-of-heaven-and-earth"/>
-        <updated>2024-05-07T16:04:55.000Z</updated>
-        <summary type="html"><![CDATA[Given that we've been discussing astronomy / astrology and their relationship to the alphabet so intensely in recent weeks, I'm pleased to announce this important conference that is about to be convened at Università di Bologna (Ravenna, Italy). “The Power of the Planets: The Social History of Astral Sciences Between East and West.” May 20–21, […]]]></summary>
-        <author>
-            <name>Victor Mair</name>
         </author>
     </entry>
     <entry>
