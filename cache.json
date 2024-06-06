@@ -1898,6 +1898,16 @@
       "siteUrl": "https://pytorch.org/",
       "articles": [
         {
+          "id": "https://pytorch.org/blog/int4-decoding/",
+          "author": null,
+          "description": "An efficient decoding Grouped-Query Attention with low-precision KV cache",
+          "link": "https://pytorch.org/blog/int4-decoding/",
+          "publishedOn": "2024-06-06T07:00:00.000Z",
+          "wordCount": 6493,
+          "title": "INT4 Decoding GQA CUDA Optimizations for LLM Inference",
+          "imageUrl": "https://pytorch.org/assets/images/social-share.jpg"
+        },
+        {
           "id": "https://pytorch.org/blog/docathon-kickoff-h1-2024/",
           "author": null,
           "description": "The PyTorch Docathon is now live! This event is dedicated to enhancing the quality of the PyTorch documentation with the invaluable assistance of our community. Our hope with this Docathon is to simplify the process for new users to get started with PyTorch, guide them in effectively utilizing its features, and ultimately expedite the transition from research to production in machine learning.",

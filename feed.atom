@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-06-06T15:18:22.158Z</updated>
+    <updated>2024-06-06T16:21:07.192Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -34,6 +34,16 @@
         <summary type="html"><![CDATA[Today's xkcd is (or should be)  the illustration for a week or two in every introductory course on the sound side of language: Mouseover text: "Thank you to linguist Gretchen McCulloch for teaching me about phonetic assimilation, and for teaching me that if you stand around in public reading texts from a linguist and murmuring […]]]></summary>
         <author>
             <name>Mark Liberman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[INT4 Decoding GQA CUDA Optimizations for LLM Inference]]></title>
+        <id>https://pytorch.org/blog/int4-decoding/</id>
+        <link href="https://pytorch.org/blog/int4-decoding/"/>
+        <updated>2024-06-06T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[An efficient decoding Grouped-Query Attention with low-precision KV cache]]></summary>
+        <author>
+            <name>PyTorch Website</name>
         </author>
     </entry>
     <entry>
