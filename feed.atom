@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-06-06T22:14:54.186Z</updated>
+    <updated>2024-06-06T23:19:58.114Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Rosslyn chapel [jatp]]]></title>
+        <id>http://xianblog.wordpress.com/?p=56229</id>
+        <link href="https://xianblog.wordpress.com/2024/06/07/rosslyn-chapel-jatp/"/>
+        <updated>2024-06-06T22:24:56.000Z</updated>
+        <summary type="html"><![CDATA[Visit the post for more.]]></summary>
+        <author>
+            <name>xi'an</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Random life updates]]></title>
         <id>https://www.jeremykun.com/shortform/2024-06-06-1158/</id>
@@ -1605,16 +1615,6 @@ I’m using Hugo as a static site generator, with the source a (private) GitHub 
         <summary type="html"><![CDATA[Meehl's Philosophical Psychology, Lecture 3, Part 5/5.]]></summary>
         <author>
             <name>Ben Recht</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Inerrancy and prescriptivism]]></title>
-        <id>https://languagelog.ldc.upenn.edu/nll/?p=63894</id>
-        <link href="https://languagelog.ldc.upenn.edu/nll/?p=63894&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=inerrancy-and-prescriptivism"/>
-        <updated>2024-05-08T10:32:48.000Z</updated>
-        <summary type="html"><![CDATA[Today's SMBC: The mouseover title: "Disappointed with myself that I haven't don't a creationism joke in years. Six years is like 0.1 percent of the past." The aftercomic: As I wrote last year, "I've wondered for a long time why Biblical inerrantists have a big problem with biological evolution, which contradicts Chapter 1 of Genesis, […]]]></summary>
-        <author>
-            <name>Mark Liberman</name>
         </author>
     </entry>
     <entry>
