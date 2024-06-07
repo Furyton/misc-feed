@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-06-07T03:19:07.573Z</updated>
+    <updated>2024-06-07T04:20:27.301Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -1585,16 +1585,6 @@ I’m using Hugo as a static site generator, with the source a (private) GitHub 
         <summary type="html"><![CDATA[For as long as I can remember, I've been aware that whales, dolphins, porpoises, and other large mammals of the seas (the cetaceans) make whistles, clicks, calls, groans, songs, and other sounds / noises.  These vocalizations are manifestly complex and nuanced, leading people to believe that they are communicating content, emotions, and so forth.  What […]]]></summary>
         <author>
             <name>Victor Mair</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AlphaFold 3 predicts the structure and interactions of all of life’s molecules]]></title>
-        <id>https://deepmind.google/discover/blog/alphafold-3-predicts-the-structure-and-interactions-of-all-lifes-molecules/</id>
-        <link href="https://deepmind.google/discover/blog/alphafold-3-predicts-the-structure-and-interactions-of-all-lifes-molecules/"/>
-        <updated>2024-05-08T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Introducing AlphaFold 3, a new AI model developed by Google DeepMind and Isomorphic Labs.]]></summary>
-        <author>
-            <name>Google DeepMind Blog</name>
         </author>
     </entry>
     <entry>
