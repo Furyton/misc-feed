@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-06-09T18:20:41.675Z</updated>
+    <updated>2024-06-09T19:14:02.568Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -1585,36 +1585,6 @@ I’m using Hugo as a static site generator, with the source a (private) GitHub 
         <summary type="html"><![CDATA[We have been intrigued by Iskander Ding since encountering him on X/Twitter a while back, several posts from his account having made it onto Language Log (see "Selected readings"). With a handle like his, where Iskandar is the Persian form of the name of the Macedonian king Alexander the Great (256–323 BC) and Ding has […]]]></summary>
         <author>
             <name>Victor Mair</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Enhancing Deep Learning Workflows: PyTorch Ecosystem Tools]]></title>
-        <id>https://pytorch.org/blog/enhancing-deep-learning/</id>
-        <link href="https://pytorch.org/blog/enhancing-deep-learning/"/>
-        <updated>2024-05-11T07:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Welcome to the thriving PyTorch ecosystem, where a wealth of tools and libraries await, purpose-built to elevate your experience in deep learning as a developer or researcher. The Ecosystem Tools pages host many projects from experts spanning academia, industry, application development, and machine learning.]]></summary>
-        <author>
-            <name>PyTorch Website</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Introducing depyf: mastering torch.compile with ease]]></title>
-        <id>https://pytorch.org/blog/introducing-depyf/</id>
-        <link href="https://pytorch.org/blog/introducing-depyf/"/>
-        <updated>2024-05-11T07:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<div type="html"/>]]></summary>
-        <author>
-            <name>PyTorch Website</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Deep Learning Energy Measurement and Optimization]]></title>
-        <id>https://pytorch.org/blog/zeus/</id>
-        <link href="https://pytorch.org/blog/zeus/"/>
-        <updated>2024-05-11T07:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<div type="html"/>]]></summary>
-        <author>
-            <name>PyTorch Website</name>
         </author>
     </entry>
     <entry>
