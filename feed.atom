@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-06-10T22:16:55.742Z</updated>
+    <updated>2024-06-10T23:16:45.523Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[via per Roma]]></title>
+        <id>http://xianblog.wordpress.com/?p=55815</id>
+        <link href="https://xianblog.wordpress.com/2024/06/11/via-per-roma/"/>
+        <updated>2024-06-10T22:24:40.000Z</updated>
+        <summary type="html"><![CDATA[Today I am flying to Roma for the 4th Italian Meeting on Probability and Mathematical Statistics, where I have been invited at a session on MCMC. This is a meeting leaning more towards probability than statistics, but I hope to learn from sessions close enough to my interests and obviously meet new people. At the […]]]></summary>
+        <author>
+            <name>xi'an</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Crud]]></title>
         <id>https://www.argmin.net/p/crud</id>
