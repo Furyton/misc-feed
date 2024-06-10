@@ -2568,16 +2568,6 @@
           "wordCount": 2583,
           "title": "Privacy-preserving Computing [book review]",
           "imageUrl": "https://assets.cambridge.org/97810092/99510/cover/9781009299510.jpg"
-        },
-        {
-          "id": "http://xianblog.wordpress.com/?p=55811",
-          "author": "xi'an",
-          "description": "Today I am off to Edinburgh for the SMC 2024 workshop run by the ICMS. Looking forward meeting with long time friends and new ones, and learning about novel directions in the field. And returning to Edinburgh I last visited in 2019 for the opening of the Bayes Centre. Hoping to enjoy the nearby Arthur’s […]",
-          "link": "https://xianblog.wordpress.com/2024/05/12/off-to-edinburgh-and-smc-2024/",
-          "publishedOn": "2024-05-11T22:24:43.000Z",
-          "wordCount": 2456,
-          "title": "off to Edinburgh [and SMC 2024]",
-          "imageUrl": "https://xianblog.files.wordpress.com/2013/11/img_9351.jpg"
         }
       ]
     },
@@ -2621,6 +2611,16 @@
       "feedUrl": "https://languagelog.ldc.upenn.edu/nll/?feed=rss2",
       "siteUrl": "https://languagelog.ldc.upenn.edu/nll",
       "articles": [
+        {
+          "id": "https://languagelog.ldc.upenn.edu/nll/?p=64496",
+          "author": "Mark Liberman",
+          "description": "Noor Al-Sibai, \"AI Systems Are Learning to Lie and Deceive, Scientists Find\", Futurism 6/7/2024: AI models are, apparently, getting better at lying on purpose. Two recent studies — one published this week in the journal PNAS and the other last month in the journal Patterns — reveal some jarring findings about large language models (LLMs) […]",
+          "link": "https://languagelog.ldc.upenn.edu/nll/?p=64496&utm_source=rss&utm_medium=rss&utm_campaign=ai-deception",
+          "publishedOn": "2024-06-10T10:42:54.000Z",
+          "wordCount": 2475,
+          "title": "AI deception?",
+          "imageUrl": null
+        },
         {
           "id": "https://languagelog.ldc.upenn.edu/nll/?p=64486",
           "author": "Mark Liberman",

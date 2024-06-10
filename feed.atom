@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-06-10T10:18:46.373Z</updated>
+    <updated>2024-06-10T11:14:33.148Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[AI deception?]]></title>
+        <id>https://languagelog.ldc.upenn.edu/nll/?p=64496</id>
+        <link href="https://languagelog.ldc.upenn.edu/nll/?p=64496&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=ai-deception"/>
+        <updated>2024-06-10T10:42:54.000Z</updated>
+        <summary type="html"><![CDATA[Noor Al-Sibai, "AI Systems Are Learning to Lie and Deceive, Scientists Find", Futurism 6/7/2024: AI models are, apparently, getting better at lying on purpose. Two recent studies — one published this week in the journal PNAS and the other last month in the journal Patterns — reveal some jarring findings about large language models (LLMs) […]]]></summary>
+        <author>
+            <name>Mark Liberman</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[fully swamped [no escape!]]]></title>
         <id>http://xianblog.wordpress.com/?p=56431</id>
@@ -1575,16 +1585,6 @@ I’m using Hugo as a static site generator, with the source a (private) GitHub 
         <summary type="html"><![CDATA[The first part of this series, "Indigo and cabbage", written the day before Thanksgiving in 2023, is one of the most satisfying and fulfilling posts I've ever made.  This follow-up is even more of a delight, because here I get to introduce a new paper by anthropologist-linguist-textile expert Elizabeth J. W. Barber, and what a […]]]></summary>
         <author>
             <name>Victor Mair</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[off to Edinburgh [and SMC 2024]]]></title>
-        <id>http://xianblog.wordpress.com/?p=55811</id>
-        <link href="https://xianblog.wordpress.com/2024/05/12/off-to-edinburgh-and-smc-2024/"/>
-        <updated>2024-05-11T22:24:43.000Z</updated>
-        <summary type="html"><![CDATA[Today I am off to Edinburgh for the SMC 2024 workshop run by the ICMS. Looking forward meeting with long time friends and new ones, and learning about novel directions in the field. And returning to Edinburgh I last visited in 2019 for the opening of the Bayes Centre. Hoping to enjoy the nearby Arthur’s […]]]></summary>
-        <author>
-            <name>xi'an</name>
         </author>
     </entry>
     <entry>
