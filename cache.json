@@ -1904,6 +1904,16 @@
       "siteUrl": "https://pytorch.org/",
       "articles": [
         {
+          "id": "https://pytorch.org/blog/new-executive-director/",
+          "author": null,
+          "description": "The PyTorch Foundation is excited to welcome Matt White, our new executive director. The PyTorch Foundation formed in 2022 with the goal to drive adoption of AI tooling by fostering and sustaining an ecosystem of open source, vendor-neutral projects with PyTorch. Over the past 2 years, we’ve seen excellent growth across the project – with both contributor and member growth.",
+          "link": "https://pytorch.org/blog/new-executive-director/",
+          "publishedOn": "2024-06-11T07:00:00.000Z",
+          "wordCount": 839,
+          "title": "PyTorch Foundation Welcomes New Executive Director",
+          "imageUrl": "https://pytorch.org/assets/images/social-share.jpg"
+        },
+        {
           "id": "https://pytorch.org/blog/int4-decoding/",
           "author": null,
           "description": "An efficient decoding Grouped-Query Attention with low-precision KV cache",

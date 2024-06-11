@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-06-11T16:21:01.882Z</updated>
+    <updated>2024-06-11T17:16:03.786Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -54,6 +54,16 @@
         <summary type="html"><![CDATA[In yesterday's "AI deception?" post, I proposed that we ought to apply to AI an analogy to the philosophical evaluation of "theory of mind" issues in animals. And one of the clearest presentations of that evaluation is in Daniel Povinelli,  Jesse Bering, and Steve Giambrone, "Toward a science of other minds: Escaping the argument by […]]]></summary>
         <author>
             <name>Mark Liberman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PyTorch Foundation Welcomes New Executive Director]]></title>
+        <id>https://pytorch.org/blog/new-executive-director/</id>
+        <link href="https://pytorch.org/blog/new-executive-director/"/>
+        <updated>2024-06-11T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The PyTorch Foundation is excited to welcome Matt White, our new executive director. The PyTorch Foundation formed in 2022 with the goal to drive adoption of AI tooling by fostering and sustaining an ecosystem of open source, vendor-neutral projects with PyTorch. Over the past 2 years, we’ve seen excellent growth across the project – with both contributor and member growth.]]></summary>
+        <author>
+            <name>PyTorch Website</name>
         </author>
     </entry>
     <entry>
