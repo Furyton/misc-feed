@@ -1459,16 +1459,6 @@
           "wordCount": 2336,
           "title": "重温SSM（一）：线性系统和HiPPO矩阵",
           "imageUrl": null
-        },
-        {
-          "id": "https://kexue.fm/archives/10091",
-          "author": "苏剑林",
-          "description": "前几天，幻方发布的DeepSeek-V2引起了大家的热烈讨论。首先，最让人哗然的是1块钱100万token的价格，普遍比现有的各种竞品API便宜了两个数量级，以至于有人调侃“这个价格哪怕它输出乱...",
-          "link": "https://kexue.fm/archives/10091",
-          "publishedOn": "2024-05-13T03:15:00.000Z",
-          "wordCount": 1956,
-          "title": "缓存与效果的极限拉扯：从MHA、MQA、GQA到MLA",
-          "imageUrl": null
         }
       ]
     },
@@ -1517,6 +1507,22 @@
       "feedUrl": "https://www.argmin.net/feed.xml",
       "siteUrl": "https://www.argmin.net",
       "articles": [
+        {
+          "id": "https://www.argmin.net/p/correlation-is-all-we-have",
+          "author": "Ben Recht",
+          "description": "Meehl's Philosophical Psychology, Lecture 6, part 7/7.",
+          "link": "https://www.argmin.net/p/correlation-is-all-we-have",
+          "publishedOn": "2024-06-11T14:23:57.000Z",
+          "wordCount": null,
+          "title": "Correlation Is All We Have",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substack-post-media.s3.amazonaws.com/public/images/84d1f28c-f4ba-43b8-8ce6-40d3d7d39099_840x599.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substack-post-media.s3.amazonaws.com/public/images/84d1f28c-f4ba-43b8-8ce6-40d3d7d39099_840x599.jpeg"
+        },
         {
           "id": "https://www.argmin.net/p/crud",
           "author": "Ben Recht",
@@ -2009,6 +2015,22 @@
       "feedUrl": "https://www.argmin.net/feed.xml",
       "siteUrl": "https://www.argmin.net",
       "articles": [
+        {
+          "id": "https://www.argmin.net/p/correlation-is-all-we-have",
+          "author": "Ben Recht",
+          "description": "Meehl's Philosophical Psychology, Lecture 6, part 7/7.",
+          "link": "https://www.argmin.net/p/correlation-is-all-we-have",
+          "publishedOn": "2024-06-11T14:23:57.000Z",
+          "wordCount": null,
+          "title": "Correlation Is All We Have",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substack-post-media.s3.amazonaws.com/public/images/84d1f28c-f4ba-43b8-8ce6-40d3d7d39099_840x599.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substack-post-media.s3.amazonaws.com/public/images/84d1f28c-f4ba-43b8-8ce6-40d3d7d39099_840x599.jpeg"
+        },
         {
           "id": "https://www.argmin.net/p/crud",
           "author": "Ben Recht",

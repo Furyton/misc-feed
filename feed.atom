@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-06-11T14:15:40.026Z</updated>
+    <updated>2024-06-11T15:17:42.320Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Correlation Is All We Have]]></title>
+        <id>https://www.argmin.net/p/correlation-is-all-we-have</id>
+        <link href="https://www.argmin.net/p/correlation-is-all-we-have"/>
+        <updated>2024-06-11T14:23:57.000Z</updated>
+        <summary type="html"><![CDATA[Meehl's Philosophical Psychology, Lecture 6, part 7/7.]]></summary>
+        <author>
+            <name>Ben Recht</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Correlation Is All We Have]]></title>
+        <id>https://www.argmin.net/p/correlation-is-all-we-have</id>
+        <link href="https://www.argmin.net/p/correlation-is-all-we-have"/>
+        <updated>2024-06-11T14:23:57.000Z</updated>
+        <summary type="html"><![CDATA[Meehl's Philosophical Psychology, Lecture 6, part 7/7.]]></summary>
+        <author>
+            <name>Ben Recht</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[my neighbours’ view on the EUlection]]></title>
         <id>http://xianblog.wordpress.com/?p=56441</id>
@@ -1585,16 +1605,6 @@ Clontz recently gave a talk on the topic, with ample discussion of the evaluatio
 I’m using Hugo as a static site generator, with the source a (private) GitHub repository, and Netlify for deployments. After a deployment, Netlify calls a serverless function that hits the GitHub API with a POST request to trigger a GitHub action workflow.]]></summary>
         <author>
             <name>Math ∩ Programming</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[缓存与效果的极限拉扯：从MHA、MQA、GQA到MLA]]></title>
-        <id>https://kexue.fm/archives/10091</id>
-        <link href="https://kexue.fm/archives/10091"/>
-        <updated>2024-05-13T03:15:00.000Z</updated>
-        <summary type="html"><![CDATA[前几天，幻方发布的DeepSeek-V2引起了大家的热烈讨论。首先，最让人哗然的是1块钱100万token的价格，普遍比现有的各种竞品API便宜了两个数量级，以至于有人调侃“这个价格哪怕它输出乱...]]></summary>
-        <author>
-            <name>苏剑林</name>
         </author>
     </entry>
     <entry>
