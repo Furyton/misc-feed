@@ -1985,16 +1985,6 @@
           "wordCount": 260,
           "title": "Math databases",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.jeremykun.com/shortform/2024-05-12-2028/",
-          "author": null,
-          "description": "Inspired by POSSE (Publish (on your) Own Site, Syndicate Elsewhere), which I first heard about from Cory Doctorow, I’m experimenting with automation to convert posts tagged shortform into Mastodon threads (I’m mathstodon.xyz/@j2kun).\nI’m using Hugo as a static site generator, with the source a (private) GitHub repository, and Netlify for deployments. After a deployment, Netlify calls a serverless function that hits the GitHub API with a POST request to trigger a GitHub action workflow.",
-          "link": "https://www.jeremykun.com/shortform/2024-05-12-2028/",
-          "publishedOn": "2024-05-13T03:28:54.000Z",
-          "wordCount": 397,
-          "title": "Experiments with POSSE",
-          "imageUrl": null
         }
       ]
     },
@@ -2675,6 +2665,16 @@
       "feedUrl": "https://languagelog.ldc.upenn.edu/nll/?feed=rss2",
       "siteUrl": "https://languagelog.ldc.upenn.edu/nll",
       "articles": [
+        {
+          "id": "https://languagelog.ldc.upenn.edu/nll/?p=64520",
+          "author": "Mark Liberman",
+          "description": "So say Michael Townsen Hicks, James Humphries & Joe Slater — \"ChatGPT is bullshit\", Ethics and Information Technology 2024. The background is Harry Frankfurt's philosophical definition of the term in his essay \"On Bullshit\": What bullshit essentially misrepresents is neither the state of affairs to which it refers nor the beliefs of the speaker concerning […]",
+          "link": "https://languagelog.ldc.upenn.edu/nll/?p=64520&utm_source=rss&utm_medium=rss&utm_campaign=chatgpt-is-bullshit",
+          "publishedOn": "2024-06-11T15:26:24.000Z",
+          "wordCount": 2420,
+          "title": "ChatGPT is bullshit",
+          "imageUrl": null
+        },
         {
           "id": "https://languagelog.ldc.upenn.edu/nll/?p=64517",
           "author": "Mark Liberman",
