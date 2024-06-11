@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-06-11T10:18:18.149Z</updated>
+    <updated>2024-06-11T11:15:01.763Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Povinelli et al. on "Reinterpretation"]]></title>
+        <id>https://languagelog.ldc.upenn.edu/nll/?p=64517</id>
+        <link href="https://languagelog.ldc.upenn.edu/nll/?p=64517&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=povinelli-et-al-on-reinterpretation"/>
+        <updated>2024-06-11T10:20:31.000Z</updated>
+        <summary type="html"><![CDATA[In yesterday's "AI deception?" post, I proposed that we ought to apply to AI an analogy to the philosophical evaluation of "theory of mind" issues in animals. And one of the clearest presentations of that evaluation is in Daniel Povinelli,  Jesse Bering, and Steve Giambrone, "Toward a science of other minds: Escaping the argument by […]]]></summary>
+        <author>
+            <name>Mark Liberman</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[A Kuchean shift in terminology from Indo-Iranian to Tocharian]]></title>
         <id>https://languagelog.ldc.upenn.edu/nll/?p=64507</id>
@@ -1575,16 +1585,6 @@ I’m using Hugo as a static site generator, with the source a (private) GitHub 
         <summary type="html"><![CDATA[前几天，幻方发布的DeepSeek-V2引起了大家的热烈讨论。首先，最让人哗然的是1块钱100万token的价格，普遍比现有的各种竞品API便宜了两个数量级，以至于有人调侃“这个价格哪怕它输出乱...]]></summary>
         <author>
             <name>苏剑林</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Privacy-preserving Computing [book review]]]></title>
-        <id>http://xianblog.wordpress.com/?p=56002</id>
-        <link href="https://xianblog.wordpress.com/2024/05/13/privacy-preserving-computing-book-review/"/>
-        <updated>2024-05-12T22:24:06.000Z</updated>
-        <summary type="html"><![CDATA[Privacy-preserving Computing for Big Data Analytics and AI, by Kai Chen and Qiang Yang, is a rather short 2024 CUP book translated from the 2022 Chinese version (by the authors).  It covers secret sharing, homomorphic encryption, oblivious transfer, garbled circuit, differential privacy, trusted execution environment, federated learning, privacy-preserving computing platforms, and case studies. The style […]]]></summary>
-        <author>
-            <name>xi'an</name>
         </author>
     </entry>
     <entry>

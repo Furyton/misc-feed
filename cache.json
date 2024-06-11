@@ -2600,16 +2600,6 @@
           "wordCount": 2767,
           "title": "robust privacy",
           "imageUrl": "https://arxiv.org/html/2103.11003v4/extracted/5292582/dampednewton_vs_ngd_sc_march.png"
-        },
-        {
-          "id": "http://xianblog.wordpress.com/?p=56002",
-          "author": "xi'an",
-          "description": "Privacy-preserving Computing for Big Data Analytics and AI, by Kai Chen and Qiang Yang, is a rather short 2024 CUP book translated from the 2022 Chinese version (by the authors).  It covers secret sharing, homomorphic encryption, oblivious transfer, garbled circuit, differential privacy, trusted execution environment, federated learning, privacy-preserving computing platforms, and case studies. The style […]",
-          "link": "https://xianblog.wordpress.com/2024/05/13/privacy-preserving-computing-book-review/",
-          "publishedOn": "2024-05-12T22:24:06.000Z",
-          "wordCount": 2583,
-          "title": "Privacy-preserving Computing [book review]",
-          "imageUrl": "https://assets.cambridge.org/97810092/99510/cover/9781009299510.jpg"
         }
       ]
     },
@@ -2653,6 +2643,16 @@
       "feedUrl": "https://languagelog.ldc.upenn.edu/nll/?feed=rss2",
       "siteUrl": "https://languagelog.ldc.upenn.edu/nll",
       "articles": [
+        {
+          "id": "https://languagelog.ldc.upenn.edu/nll/?p=64517",
+          "author": "Mark Liberman",
+          "description": "In yesterday's \"AI deception?\" post, I proposed that we ought to apply to AI an analogy to the philosophical evaluation of \"theory of mind\" issues in animals. And one of the clearest presentations of that evaluation is in Daniel Povinelli,  Jesse Bering, and Steve Giambrone, \"Toward a science of other minds: Escaping the argument by […]",
+          "link": "https://languagelog.ldc.upenn.edu/nll/?p=64517&utm_source=rss&utm_medium=rss&utm_campaign=povinelli-et-al-on-reinterpretation",
+          "publishedOn": "2024-06-11T10:20:31.000Z",
+          "wordCount": 3046,
+          "title": "Povinelli et al. on \"Reinterpretation\"",
+          "imageUrl": null
+        },
         {
           "id": "https://languagelog.ldc.upenn.edu/nll/?p=64507",
           "author": "Victor Mair",
