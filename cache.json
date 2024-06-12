@@ -1508,6 +1508,22 @@
       "siteUrl": "https://www.argmin.net",
       "articles": [
         {
+          "id": "https://www.argmin.net/p/the-technical-depths-of-crud",
+          "author": "Ben Recht",
+          "description": "Meehl's Philosophical Psychology, Lecture 7, part 1.",
+          "link": "https://www.argmin.net/p/the-technical-depths-of-crud",
+          "publishedOn": "2024-06-12T14:48:39.000Z",
+          "wordCount": null,
+          "title": "The Technical Depths of Crud",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substack-post-media.s3.amazonaws.com/public/images/d3d72104-5db7-4188-8a5d-4b94cddc4ac5_840x600.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substack-post-media.s3.amazonaws.com/public/images/d3d72104-5db7-4188-8a5d-4b94cddc4ac5_840x600.jpeg"
+        },
+        {
           "id": "https://www.argmin.net/p/correlation-is-all-we-have",
           "author": "Ben Recht",
           "description": "Meehl's Philosophical Psychology, Lecture 6, part 7/7.",
@@ -1888,6 +1904,16 @@
       "siteUrl": "https://pytorch.org/",
       "articles": [
         {
+          "id": "https://pytorch.org/blog/reducing-checkpointing-times/",
+          "author": null,
+          "description": "Summary: With PyTorch distributed’s new asynchronous checkpointing feature, developed with feedback from IBM, we show how IBM Research Team is able to implement and reduce effective checkpointing time by a factor of 10-20x. Example: 7B model ‘down time’ for a checkpoint goes from an average of 148.8 seconds to 6.3 seconds, or 23.62x faster.",
+          "link": "https://pytorch.org/blog/reducing-checkpointing-times/",
+          "publishedOn": "2024-06-12T07:00:00.000Z",
+          "wordCount": 1598,
+          "title": "Reducing Model Checkpointing Times by Over 10x with PyTorch Distributed Asynchronous Checkpointing",
+          "imageUrl": "https://pytorch.org/assets/images/social-share.jpg"
+        },
+        {
           "id": "https://pytorch.org/blog/new-executive-director/",
           "author": null,
           "description": "The PyTorch Foundation is excited to welcome Matt White, our new executive director. The PyTorch Foundation formed in 2022 with the goal to drive adoption of AI tooling by fostering and sustaining an ecosystem of open source, vendor-neutral projects with PyTorch. Over the past 2 years, we’ve seen excellent growth across the project – with both contributor and member growth.",
@@ -1999,6 +2025,22 @@
       "feedUrl": "https://www.argmin.net/feed.xml",
       "siteUrl": "https://www.argmin.net",
       "articles": [
+        {
+          "id": "https://www.argmin.net/p/the-technical-depths-of-crud",
+          "author": "Ben Recht",
+          "description": "Meehl's Philosophical Psychology, Lecture 7, part 1.",
+          "link": "https://www.argmin.net/p/the-technical-depths-of-crud",
+          "publishedOn": "2024-06-12T14:48:39.000Z",
+          "wordCount": null,
+          "title": "The Technical Depths of Crud",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substack-post-media.s3.amazonaws.com/public/images/d3d72104-5db7-4188-8a5d-4b94cddc4ac5_840x600.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substack-post-media.s3.amazonaws.com/public/images/d3d72104-5db7-4188-8a5d-4b94cddc4ac5_840x600.jpeg"
+        },
         {
           "id": "https://www.argmin.net/p/correlation-is-all-we-have",
           "author": "Ben Recht",
