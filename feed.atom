@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-06-12T18:22:26.046Z</updated>
+    <updated>2024-06-12T19:14:11.736Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -1614,16 +1614,6 @@ Clontz recently gave a talk on the topic, with ample discussion of the evaluatio
         <summary type="html"><![CDATA[Ellen Gutoskey, "15 Fascinating Linguistics Terms You Didn't Learn in School", Mental Floss 5/10/2024: Grade school English teachers do their best to send you off into the world with at least a cursory understanding of how language works. Maybe you can tell your dependent clauses from your independent ones and your transitive verbs from your intransitive ones. […]]]></summary>
         <author>
             <name>Mark Liberman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Speeding up ViTs using Block Sparsity]]></title>
-        <id>https://pytorch.org/blog/speeding-up-vits/</id>
-        <link href="https://pytorch.org/blog/speeding-up-vits/"/>
-        <updated>2024-05-14T07:00:00.000Z</updated>
-        <summary type="html"><![CDATA[TLDR: We show promising results of up to a 1.46x speedup with &lt;2% drop in accuracy on float32 Vision Transformers on A100 GPUs by applying block sparsity on MLP module’s weights. This approach can potentially be applied to other types of transformers including large language models. Our implementation and benchmarks to reproduce our results are available at https://github.com/pytorch-labs/superblock.]]></summary>
-        <author>
-            <name>PyTorch Website</name>
         </author>
     </entry>
     <entry>
