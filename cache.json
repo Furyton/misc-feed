@@ -2600,16 +2600,6 @@
           "wordCount": 2313,
           "title": "war is personnal",
           "imageUrl": "https://www.worldpressphoto.org/getmedia/be85cf12-0932-49b4-bfa6-9f8944ed8902/WPP-2024Contest-OPFA-JuliaKochetova.jpg"
-        },
-        {
-          "id": "http://xianblog.wordpress.com/?p=55905",
-          "author": "xi'an",
-          "description": "During a recent working session, some Oceanerc (incl. me) went reading Privacy-Preserving Parametric Inference: A Case for Robust Statistics by Marco Avella-Medina (JASA, 2022), where robust criteria are advanced as efficient statistical tools in private settings. In this paper, robustness means using M-estimators T—as function of the empirical cdf—with basis score functions Ψ, defined as […]",
-          "link": "https://xianblog.wordpress.com/2024/05/14/robust-privacy/",
-          "publishedOn": "2024-05-13T22:24:50.000Z",
-          "wordCount": 2767,
-          "title": "robust privacy",
-          "imageUrl": "https://arxiv.org/html/2103.11003v4/extracted/5292582/dampednewton_vs_ngd_sc_march.png"
         }
       ]
     },
@@ -2653,6 +2643,16 @@
       "feedUrl": "https://languagelog.ldc.upenn.edu/nll/?feed=rss2",
       "siteUrl": "https://languagelog.ldc.upenn.edu/nll",
       "articles": [
+        {
+          "id": "https://languagelog.ldc.upenn.edu/nll/?p=64533",
+          "author": "Mark Liberman",
+          "description": "In case (like me) you haven't been following the murder trial of Karen Read, this article provides the background: Kim Stelloh, \"Karen Read is accused of killing her Boston police officer boyfriend. Here's what we know about the murder trial\", NBC News 6/7/2024. The current media fever focuses on the testimony of (Massachusetts State Police […]",
+          "link": "https://languagelog.ldc.upenn.edu/nll/?p=64533&utm_source=rss&utm_medium=rss&utm_campaign=gender-dialect-and-taboo-vocabulary-in-court",
+          "publishedOn": "2024-06-12T11:10:42.000Z",
+          "wordCount": 2211,
+          "title": "Gender, dialect, and taboo vocabulary in court",
+          "imageUrl": null
+        },
         {
           "id": "https://languagelog.ldc.upenn.edu/nll/?p=64514",
           "author": "Victor Mair",
