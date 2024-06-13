@@ -2590,16 +2590,6 @@
           "wordCount": 3163,
           "title": "6th Workshop on Sequential Monte Carlo Methods",
           "imageUrl": "https://xianblog.files.wordpress.com/2024/05/1715777109903-e1715777225384.jpg"
-        },
-        {
-          "id": "http://xianblog.wordpress.com/?p=55991",
-          "author": "xi'an",
-          "description": "Visit the post for more.",
-          "link": "https://xianblog.wordpress.com/2024/05/15/war-is-personnal/",
-          "publishedOn": "2024-05-14T22:24:59.000Z",
-          "wordCount": 2313,
-          "title": "war is personnal",
-          "imageUrl": "https://www.worldpressphoto.org/getmedia/be85cf12-0932-49b4-bfa6-9f8944ed8902/WPP-2024Contest-OPFA-JuliaKochetova.jpg"
         }
       ]
     },
@@ -2643,6 +2633,16 @@
       "feedUrl": "https://languagelog.ldc.upenn.edu/nll/?feed=rss2",
       "siteUrl": "https://languagelog.ldc.upenn.edu/nll",
       "articles": [
+        {
+          "id": "https://languagelog.ldc.upenn.edu/nll/?p=64551",
+          "author": "Mark Liberman",
+          "description": "Along with concerns about hallucinations and learned bias, there's increasing evidence that generative AI systems sometimes commit what would obviously be plagiarim if a human did it. One particularly striking example is discussed in a recent article by Randall Lane, editor of Forbes Magazine: \"Why Perplexity’s Cynical Theft Represents Everything That Could Go Wrong With […]",
+          "link": "https://languagelog.ldc.upenn.edu/nll/?p=64551&utm_source=rss&utm_medium=rss&utm_campaign=ai-plagiarism-again",
+          "publishedOn": "2024-06-13T11:07:21.000Z",
+          "wordCount": 2363,
+          "title": "AI plagiarism again",
+          "imageUrl": null
+        },
         {
           "id": "https://languagelog.ldc.upenn.edu/nll/?p=64540",
           "author": "Victor Mair",
