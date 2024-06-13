@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-06-13T18:23:02.632Z</updated>
+    <updated>2024-06-13T19:13:33.681Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -1584,16 +1584,6 @@ Clontz recently gave a talk on the topic, with ample discussion of the evaluatio
         <summary type="html"><![CDATA[My new (and first!) paper with Dr. Z. Gil Kalai and Doron Zeilberger, Bijective and Automated Approaches to Abel Sums Abstract: In this tribute to our guru, Dominique Foata, we return to one of our (and Foata’s) first loves, and … Continue reading →]]></summary>
         <author>
             <name>Gil Kalai</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Achieving Sustainability Goals with PyTorch and Intel AI]]></title>
-        <id>https://pytorch.org/blog/achieving-sustainability-goals/</id>
-        <link href="https://pytorch.org/blog/achieving-sustainability-goals/"/>
-        <updated>2024-05-15T07:00:00.000Z</updated>
-        <summary type="html"><![CDATA[This post was contributed by Intel AI in partnership with the PyTorch Foundation.]]></summary>
-        <author>
-            <name>PyTorch Website</name>
         </author>
     </entry>
     <entry>
