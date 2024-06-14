@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-06-14T07:16:09.894Z</updated>
+    <updated>2024-06-14T08:19:56.486Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[通向概率分布之路：盘点Softmax及其替代品]]></title>
+        <id>https://kexue.fm/archives/10145</id>
+        <link href="https://kexue.fm/archives/10145"/>
+        <updated>2024-06-14T08:01:00.000Z</updated>
+        <summary type="html"><![CDATA[不论是在基础的分类任务中，还是如今无处不在的注意力机制中，概率分布的构建都是一个关键步骤。具体来说，就是将一个$n$维的任意向量，转换为一个$n$元的离散型概率分布。众所周知，这个问题的标准答案...]]></summary>
+        <author>
+            <name>苏剑林</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[not a demonstration of anything? [jatp]]]></title>
         <id>http://xianblog.wordpress.com/?p=56287</id>
