@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-06-14T11:13:45.529Z</updated>
+    <updated>2024-06-14T12:31:22.721Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -24,6 +24,16 @@
         <summary type="html"><![CDATA[不论是在基础的分类任务中，还是如今无处不在的注意力机制中，概率分布的构建都是一个关键步骤。具体来说，就是将一个$n$维的任意向量，转换为一个$n$元的离散型概率分布。众所周知，这个问题的标准答案...]]></summary>
         <author>
             <name>苏剑林</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Noise schedules considered harmful]]></title>
+        <id>https://sander.ai/2024/06/14/noise-schedules.html</id>
+        <link href="https://sander.ai/2024/06/14/noise-schedules.html"/>
+        <updated>2024-06-13T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The noise schedule is a key design parameter for diffusion models. Unfortunately it is a superfluous abstraction that entangles several different model aspects. Do we really need it?]]></summary>
+        <author>
+            <name>Sander Dieleman</name>
         </author>
     </entry>
     <entry>

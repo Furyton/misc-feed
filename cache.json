@@ -1754,7 +1754,18 @@
       "title": "Sander Dieleman",
       "feedUrl": "https://benanne.github.io/feed",
       "siteUrl": "https://sander.ai/",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://sander.ai/2024/06/14/noise-schedules.html",
+          "author": null,
+          "description": "The noise schedule is a key design parameter for diffusion models. Unfortunately it is a superfluous abstraction that entangles several different model aspects. Do we really need it?",
+          "link": "https://sander.ai/2024/06/14/noise-schedules.html",
+          "publishedOn": "2024-06-13T23:00:00.000Z",
+          "wordCount": 7022,
+          "title": "Noise schedules considered harmful",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "Jeremy Jordan",
