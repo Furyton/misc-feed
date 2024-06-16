@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-06-16T01:17:41.511Z</updated>
+    <updated>2024-06-16T02:35:16.532Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -1585,25 +1585,6 @@ Clontz recently gave a talk on the topic, with ample discussion of the evaluatio
         <summary type="html"><![CDATA[Zubin Jelveh, Bruce Kogut, and Suresh Naidu, "Political language in economics", The Economic Journal: Abstract: Does academic writing in economics reflect the political orientation of economists? We use machine learning to measure partisanship in academic economics articles. We predict observed political behavior of a subset of economists using the phrases from their academic articles, show […]]]></summary>
         <author>
             <name>Mark Liberman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Brian DePasquale]]></title>
-        <id>https://mlfoundations.org/talk/depasquale/</id>
-        <link href="https://mlfoundations.org/talk/depasquale/"/>
-        <updated>2024-05-17T14:00:00.000Z</updated>
-        <author>
-            <name>Harvard ML Foundations</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Introducing the Frontier Safety Framework]]></title>
-        <id>https://deepmind.google/discover/blog/introducing-the-frontier-safety-framework/</id>
-        <link href="https://deepmind.google/discover/blog/introducing-the-frontier-safety-framework/"/>
-        <updated>2024-05-17T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Our approach to analyzing and mitigating future risks posed by advanced AI models]]></summary>
-        <author>
-            <name>Google DeepMind Blog</name>
         </author>
     </entry>
     <entry>
