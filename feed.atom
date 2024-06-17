@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-06-17T15:18:28.742Z</updated>
+    <updated>2024-06-17T16:21:08.605Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Generating audio for video]]></title>
+        <id>https://deepmind.google/discover/blog/generating-audio-for-video/</id>
+        <link href="https://deepmind.google/discover/blog/generating-audio-for-video/"/>
+        <updated>2024-06-17T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Video-to-audio research uses video pixels and text prompts to generate rich soundtracks]]></summary>
+        <author>
+            <name>Google DeepMind Blog</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Comparative scriptural interpretation of the midrashim and the Analects]]></title>
         <id>https://languagelog.ldc.upenn.edu/nll/?p=64589</id>
