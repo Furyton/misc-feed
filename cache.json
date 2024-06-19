@@ -1912,16 +1912,6 @@
           "wordCount": 1129,
           "title": "Ready, Set, Contribute: PyTorch Docathon Kickoff H1 2024",
           "imageUrl": "https://pytorch.org/assets/images/social-share.jpg"
-        },
-        {
-          "id": "https://pytorch.org/blog/maximizing-training-throughput/",
-          "author": null,
-          "description": "Recently, we demonstrated how FSDP and selective activation checkpointing can be used to achieve 57% MFU (Model Flops Utilization) for training a 7B model on A100 GPUs. We also demonstrated how it can train a high quality model, which we open sourced as Granite 7B base model on Hugging Face Hub under the Apache v2.0 license.",
-          "link": "https://pytorch.org/blog/maximizing-training-throughput/",
-          "publishedOn": "2024-05-21T07:00:00.000Z",
-          "wordCount": 2021,
-          "title": "Maximizing Training Throughput Using PyTorch FSDP and Torch.compile",
-          "imageUrl": "https://pytorch.org/assets/images/social-share.jpg"
         }
       ]
     },

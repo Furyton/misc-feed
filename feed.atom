@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-06-19T18:22:22.068Z</updated>
+    <updated>2024-06-19T19:13:44.120Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -1533,16 +1533,6 @@ results if we use l…]]></summary>
         <summary type="html"><![CDATA[From André Vítor Camargo De Toledo: Original: "Ideia de Jerico" (An arse's idea) Eggcorn: "Ideia de Girino" (A tadpole's idea) Why it happened: "Jerico" is almost a fossil word, and, to most people, only ever shows up when used in that idiom. It's an old word for "arse", which, as an animal, is associated with […]]]></summary>
         <author>
             <name>Mark Liberman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Maximizing Training Throughput Using PyTorch FSDP and Torch.compile]]></title>
-        <id>https://pytorch.org/blog/maximizing-training-throughput/</id>
-        <link href="https://pytorch.org/blog/maximizing-training-throughput/"/>
-        <updated>2024-05-21T07:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Recently, we demonstrated how FSDP and selective activation checkpointing can be used to achieve 57% MFU (Model Flops Utilization) for training a 7B model on A100 GPUs. We also demonstrated how it can train a high quality model, which we open sourced as Granite 7B base model on Hugging Face Hub under the Apache v2.0 license.]]></summary>
-        <author>
-            <name>PyTorch Website</name>
         </author>
     </entry>
     <entry>
