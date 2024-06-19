@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-06-19T10:18:12.892Z</updated>
+    <updated>2024-06-19T11:14:45.628Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -1513,26 +1513,6 @@ results if we use l…]]></summary>
         <summary type="html"><![CDATA[Recently, we demonstrated how FSDP and selective activation checkpointing can be used to achieve 57% MFU (Model Flops Utilization) for training a 7B model on A100 GPUs. We also demonstrated how it can train a high quality model, which we open sourced as Granite 7B base model on Hugging Face Hub under the Apache v2.0 license.]]></summary>
         <author>
             <name>PyTorch Website</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Language Log asks:  Mari Sandoz]]></title>
-        <id>https://languagelog.ldc.upenn.edu/nll/?p=64126</id>
-        <link href="https://languagelog.ldc.upenn.edu/nll/?p=64126&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=language-log-asks-mari-sandoz"/>
-        <updated>2024-05-20T22:29:32.000Z</updated>
-        <summary type="html"><![CDATA[In preparation for my run across Nebraska during the month of June, I'm boning up on the land, culture, and history of the state.  It wasn't long in my researches before I encountered the esteemed writer Marie Sandoz (1896-1966).  Hers is one of the most touching stories about a writer, nay, a human being, that […]]]></summary>
-        <author>
-            <name>Victor Mair</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[World bee day [after]]]></title>
-        <id>http://xianblog.wordpress.com/?p=56243</id>
-        <link href="https://xianblog.wordpress.com/2024/05/21/bee-day-after/"/>
-        <updated>2024-05-20T22:24:52.000Z</updated>
-        <summary type="html"><![CDATA[Visit the post for more.]]></summary>
-        <author>
-            <name>xi'an</name>
         </author>
     </entry>
     <entry>
