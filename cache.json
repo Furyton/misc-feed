@@ -1431,6 +1431,16 @@
       "siteUrl": "https://kexue.fm/",
       "articles": [
         {
+          "id": "https://kexue.fm/archives/10162",
+          "author": "苏剑林",
+          "description": "前面我们用两篇文章《重温SSM（一）：线性系统和HiPPO矩阵》和《重温SSM（二）：HiPPO的一些遗留问题》介绍了HiPPO的思想和推导——通过正交函数基对持续更新的函数进行实时逼近，其拟合...",
+          "link": "https://kexue.fm/archives/10162",
+          "publishedOn": "2024-06-20T07:15:00.000Z",
+          "wordCount": 2173,
+          "title": "重温SSM（三）：HiPPO的高效计算（S4）",
+          "imageUrl": null
+        },
+        {
           "id": "https://kexue.fm/archives/10145",
           "author": "苏剑林",
           "description": "不论是在基础的分类任务中，还是如今无处不在的注意力机制中，概率分布的构建都是一个关键步骤。具体来说，就是将一个$n$维的任意向量，转换为一个$n$元的离散型概率分布。众所周知，这个问题的标准答案...",

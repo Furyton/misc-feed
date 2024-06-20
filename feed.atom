@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-06-20T07:15:33.829Z</updated>
+    <updated>2024-06-20T08:21:38.005Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[重温SSM（三）：HiPPO的高效计算（S4）]]></title>
+        <id>https://kexue.fm/archives/10162</id>
+        <link href="https://kexue.fm/archives/10162"/>
+        <updated>2024-06-20T07:15:00.000Z</updated>
+        <summary type="html"><![CDATA[前面我们用两篇文章《重温SSM（一）：线性系统和HiPPO矩阵》和《重温SSM（二）：HiPPO的一些遗留问题》介绍了HiPPO的思想和推导——通过正交函数基对持续更新的函数进行实时逼近，其拟合...]]></summary>
+        <author>
+            <name>苏剑林</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Menu worms]]></title>
         <id>https://languagelog.ldc.upenn.edu/nll/?p=64625</id>
