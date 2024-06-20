@@ -1884,6 +1884,26 @@
       "siteUrl": "https://pytorch.org/",
       "articles": [
         {
+          "id": "https://pytorch.org/blog/accelerating-neural-network-training/",
+          "author": null,
+          "description": "Over the past year, we’ve added support for semi-structured (2:4) sparsity into PyTorch. With just a few lines of code, we were able to show a 10% end-to-end inference speedup on segment-anything by replacing dense matrix multiplications with sparse matrix multiplications.",
+          "link": "https://pytorch.org/blog/accelerating-neural-network-training/",
+          "publishedOn": "2024-06-20T07:00:00.000Z",
+          "wordCount": 3203,
+          "title": "Accelerating Neural Network Training with Semi-Structured (2:4) Sparsity",
+          "imageUrl": "https://pytorch.org/assets/images/social-share.jpg"
+        },
+        {
+          "id": "https://pytorch.org/blog/pytorch-docathon-h2-2024-wrap-up/",
+          "author": null,
+          "description": "We are thrilled to announce the successful completion of the H1 2024 PyTorch Docathon! The event was a resounding success, and we want to extend our heartfelt gratitude to all the participants who made it possible. Dedication, expertise, and tireless efforts of our open-source contributors have once again helped us to improve PyTorch documentation.",
+          "link": "https://pytorch.org/blog/pytorch-docathon-h2-2024-wrap-up/",
+          "publishedOn": "2024-06-20T07:00:00.000Z",
+          "wordCount": 882,
+          "title": "🎉 PyTorch Docathon H2 2024 Wrap-up 🎉",
+          "imageUrl": "https://pytorch.org/assets/images/social-share.jpg"
+        },
+        {
           "id": "https://pytorch.org/blog/reducing-checkpointing-times/",
           "author": null,
           "description": "Summary: With PyTorch distributed’s new asynchronous checkpointing feature, developed with feedback from IBM, we show how IBM Research Team is able to implement and reduce effective checkpointing time by a factor of 10-20x. Example: 7B model ‘down time’ for a checkpoint goes from an average of 148.8 seconds to 6.3 seconds, or 23.62x faster.",
@@ -2223,6 +2243,16 @@
       "feedUrl": "https://xianblog.wordpress.com/feed/",
       "siteUrl": "https://xianblog.wordpress.com",
       "articles": [
+        {
+          "id": "http://xianblog.wordpress.com/?p=55719",
+          "author": "xi'an",
+          "description": "Visit the post for more.",
+          "link": "https://xianblog.wordpress.com/2024/06/20/55719/",
+          "publishedOn": "2024-06-20T18:20:45.000Z",
+          "wordCount": 2468,
+          "title": "terre d’Elise [saint-joseph]",
+          "imageUrl": "https://xianblog.wordpress.com/wp-content/uploads/2024/04/1709296986517-e1711994092603.jpg"
+        },
         {
           "id": "http://xianblog.wordpress.com/?p=56011",
           "author": "xi'an",

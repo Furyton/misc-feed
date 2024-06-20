@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-06-20T17:14:31.966Z</updated>
+    <updated>2024-06-20T18:22:52.302Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[terre d’Elise [saint-joseph]]]></title>
+        <id>http://xianblog.wordpress.com/?p=55719</id>
+        <link href="https://xianblog.wordpress.com/2024/06/20/55719/"/>
+        <updated>2024-06-20T18:20:45.000Z</updated>
+        <summary type="html"><![CDATA[Visit the post for more.]]></summary>
+        <author>
+            <name>xi'an</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Mathematical synchronicity in the comics]]></title>
         <id>https://languagelog.ldc.upenn.edu/nll/?p=64631</id>
@@ -34,6 +44,26 @@
         <summary type="html"><![CDATA[前面我们用两篇文章《重温SSM（一）：线性系统和HiPPO矩阵》和《重温SSM（二）：HiPPO的一些遗留问题》介绍了HiPPO的思想和推导——通过正交函数基对持续更新的函数进行实时逼近，其拟合...]]></summary>
         <author>
             <name>苏剑林</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Accelerating Neural Network Training with Semi-Structured (2:4) Sparsity]]></title>
+        <id>https://pytorch.org/blog/accelerating-neural-network-training/</id>
+        <link href="https://pytorch.org/blog/accelerating-neural-network-training/"/>
+        <updated>2024-06-20T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Over the past year, we’ve added support for semi-structured (2:4) sparsity into PyTorch. With just a few lines of code, we were able to show a 10% end-to-end inference speedup on segment-anything by replacing dense matrix multiplications with sparse matrix multiplications.]]></summary>
+        <author>
+            <name>PyTorch Website</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[🎉 PyTorch Docathon H2 2024 Wrap-up 🎉]]></title>
+        <id>https://pytorch.org/blog/pytorch-docathon-h2-2024-wrap-up/</id>
+        <link href="https://pytorch.org/blog/pytorch-docathon-h2-2024-wrap-up/"/>
+        <updated>2024-06-20T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[We are thrilled to announce the successful completion of the H1 2024 PyTorch Docathon! The event was a resounding success, and we want to extend our heartfelt gratitude to all the participants who made it possible. Dedication, expertise, and tireless efforts of our open-source contributors have once again helped us to improve PyTorch documentation.]]></summary>
+        <author>
+            <name>PyTorch Website</name>
         </author>
     </entry>
     <entry>
