@@ -1973,6 +1973,16 @@
       "siteUrl": "https://www.jeremykun.com/",
       "articles": [
         {
+          "id": "https://www.jeremykun.com/shortform/2024-06-21-1107/",
+          "author": null,
+          "description": "In my studies of the Remez algorithm, I learned about the barycentric Lagrange interpolation formula.\nThe context is finding a polynomial of degree at most $n$ that passes through $n+1$ points $(x_0, y_0), \\dots, (x_n, y_n)$. The classical Lagrange interpolation formula is what you’d write down if you “just did it.”\n\\[ f(x) = \\sum_{i=0}^n y_i \\cdot \\prod_{j \\neq i}\\frac{x - x_j}{x_i - x_j} \\] I wrote a 2014 article deriving this more gently, and implementing it in Haskell for secret sharing.",
+          "link": "https://www.jeremykun.com/shortform/2024-06-21-1107/",
+          "publishedOn": "2024-06-21T18:07:50.000Z",
+          "wordCount": 607,
+          "title": "Barycentric Lagrange Interpolation",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.jeremykun.com/shortform/2024-06-06-1158/",
           "author": null,
           "description": "I added Twitter syndication, and because I have nothing to test it with I’ll share some random life updates.\nMy daughter was born recently, which means I’m on paternity leave for a few months. Hopefully in the liminal hours of sleep training, I’ll have some time to work on my book. Or at least catch up on reading.\nI finally published my grandmother’s autobiography. I doubt anyone outside of my family will want to read it, but it’s available for sale on Amazon.",
@@ -2275,6 +2285,16 @@
       "feedUrl": "https://xianblog.wordpress.com/feed/",
       "siteUrl": "https://xianblog.wordpress.com",
       "articles": [
+        {
+          "id": "http://xianblog.wordpress.com/?p=56337",
+          "author": "xi'an",
+          "description": "30 May was a day of first and last times, if not in capital ways (for me), on the One World ABC webinar. This was the first time we had a talk by Mark Beaumont and also the first time I had team experience of facing a smoking participant, while this was the last time […]",
+          "link": "https://xianblog.wordpress.com/2024/06/22/mark-abc/",
+          "publishedOn": "2024-06-21T22:24:25.000Z",
+          "wordCount": 2797,
+          "title": "Mark [a]B[c], plus cats",
+          "imageUrl": "https://xianblog.wordpress.com/wp-content/uploads/2012/09/dsc_2591-e1347800597459.jpg?w=898&h=502"
+        },
         {
           "id": "http://xianblog.wordpress.com/?p=56549",
           "author": "xi'an",
@@ -3305,16 +3325,6 @@
           "publishedOn": "2024-05-23T22:01:08.000Z",
           "wordCount": 2449,
           "title": "Nine quid for two?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://languagelog.ldc.upenn.edu/nll/?p=64145",
-          "author": "Victor Mair",
-          "description": "Stunning report from Pinyin News: \"Chinese characters no longer required for Taiwan Aborigine names\" (5/21/24) Last week Taiwan’s legislature passed an amendment stating that members of Taiwan’s tribes will no longer be forced to adopt names written in Chinese characters. Instead, their names can be presented solely in romanization if so desired. Thus, at least […]",
-          "link": "https://languagelog.ldc.upenn.edu/nll/?p=64145&utm_source=rss&utm_medium=rss&utm_campaign=a-crack-in-the-hegemonic-edifice-of-hanzi",
-          "publishedOn": "2024-05-23T11:01:43.000Z",
-          "wordCount": 2108,
-          "title": "A crack in the hegemonic edifice of hanzi",
           "imageUrl": null
         }
       ]
