@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-06-23T22:14:37.016Z</updated>
+    <updated>2024-06-23T23:16:06.574Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[integral priors for multiple comparison]]></title>
+        <id>http://xianblog.wordpress.com/?p=56542</id>
+        <link href="https://xianblog.wordpress.com/2024/06/24/integral-priors-for-multiple-comparison/"/>
+        <updated>2024-06-23T22:24:19.000Z</updated>
+        <summary type="html"><![CDATA[Diego Salméron and I just arXived a paper on integral priors for multiple model comparison, about deriving reference priors for multiple hypothesis testing. As (so-called) noninformative priors constructed for estimation purposes are usually not appropriate for model selection and testing due to their improperness, Jeffreys-Lindley paradoxes and the like, the methodology of integral priors was […]]]></summary>
+        <author>
+            <name>xi'an</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The semiotics of barbed wire fence]]></title>
         <id>https://languagelog.ldc.upenn.edu/nll/?p=64579</id>
