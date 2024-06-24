@@ -2244,6 +2244,16 @@
       "siteUrl": "https://xianblog.wordpress.com",
       "articles": [
         {
+          "id": "http://xianblog.wordpress.com/?p=56023",
+          "author": "xi'an",
+          "description": "Lasrt week, Siddharth Vishwanath and Hyungsuk Tak—whom I first met at an MCQMC session about multimodal sampling at MCqMC 2016 in Stanford,  same year as my San Fran’ half-marathon race, most memorable of all my races!)—proposed a Repelling-Attracting Hamiltonian Monte Carlo (raHMC) algorithm, towards sampling from multimodal distributions. “The success of raHMC for sampling from […]",
+          "link": "https://xianblog.wordpress.com/2024/06/25/repelling-attracting-hamiltonian-monte-carlo/",
+          "publishedOn": "2024-06-24T22:24:20.000Z",
+          "wordCount": 2752,
+          "title": "repelling-attracting Hamiltonian Monte Carlo",
+          "imageUrl": "https://xianblog.wordpress.com/wp-content/uploads/2024/04/temp-9.png"
+        },
+        {
           "id": "http://xianblog.wordpress.com/?p=56542",
           "author": "xi'an",
           "description": "Diego Salméron and I just arXived a paper on integral priors for multiple model comparison, about deriving reference priors for multiple hypothesis testing. As (so-called) noninformative priors constructed for estimation purposes are usually not appropriate for model selection and testing due to their improperness, Jeffreys-Lindley paradoxes and the like, the methodology of integral priors was […]",
