@@ -2,10 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-06-25T22:15:03.161Z</updated>
+    <updated>2024-06-25T23:15:56.268Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Detecting field names with C++ metaprogramming]]></title>
+        <id>https://www.jeremykun.com/shortform/2024-06-25-1534/</id>
+        <link href="https://www.jeremykun.com/shortform/2024-06-25-1534/"/>
+        <updated>2024-06-25T22:34:59.000Z</updated>
+        <summary type="html"><![CDATA[A quick note: you can use C++11 templates to detect struct fields by name and type, and statically branch on them. I first heard of this solution from breeze1990.
+Say I want to detect if a struct has a field size of type int. Create two template instantiations of the same name, here HasStaticSize that defaults to false.
+#include <type_traits> template <typename T, typename = void> struct HasStaticSize : std::false_type {}; template <typename T> struct HasStaticSize< T, typename std::enable_if< std::is_same<int, std::decay_t<decltype(T::size)>>::value, void>::type> : std::true_type {}; The latter is only resolved if T::size is declared as int, or more specifically, something that “decays” to int.]]></summary>
+        <author>
+            <name>Math ∩ Programming</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Brussels blues]]></title>
+        <id>http://xianblog.wordpress.com/?p=56436</id>
+        <link href="https://xianblog.wordpress.com/2024/06/26/brussels-blues/"/>
+        <updated>2024-06-25T22:24:01.000Z</updated>
+        <summary type="html"><![CDATA[Visit the post for more.]]></summary>
+        <author>
+            <name>xi'an</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Harsh browns]]></title>
         <id>https://languagelog.ldc.upenn.edu/nll/?p=64693</id>

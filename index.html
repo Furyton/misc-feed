@@ -22,11 +22,80 @@
             data-action="toggle-accordions"
             title="Click to toggle the day, Ctrl + click to toggle all."
           >
-            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2024-06-25 datetime="2024-06-25T22:09:58.000Z">2024-06-25</time>
-            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2024-06-25 datetime="2024-06-25T22:09:58.000Z"></time>
+            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2024-06-25 datetime="2024-06-25T22:34:59.000Z">2024-06-25</time>
+            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2024-06-25 datetime="2024-06-25T22:34:59.000Z"></time>
           </button>
         </h2>
         <ul class="sources card">
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >Math ∩ Programming</button>
+                  <a class="source-heading__link" href="https://www.jeremykun.com/">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://www.jeremykun.com/shortform/2024-06-25-1534/"
+                        open
+                      >
+                        <summary class="article-expander__title">Detecting field names with C++ metaprogramming</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://www.jeremykun.com/shortform/2024-06-25-1534/">
+                          <div class="article-summary-box-inner media-object">
+                            <span class="media-object__text">
+                              <span>A quick note: you can use C++11 templates to detect struct fields by name and type, and statically branch on them. I first heard of this solution from breeze1990.
+Say I want to detect if a struct has a field size of type int. Create two template instantiations of the same name, here HasStaticSize that defaults to false.
+#include  template  struct HasStaticSize : std::false_type {}; template  struct HasStaticSize&gt;::value, void&gt;::type&gt; : std::true_type {}; The latter is only resolved if T::size is declared as int, or more specifically, something that “decays” to int.</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;1
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >Xi&#x27;an&#x27;s Og</button>
+                  <a class="source-heading__link" href="https://xianblog.wordpress.com">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="http://xianblog.wordpress.com/?p&#x3D;56436"
+                        open
+                      >
+                        <summary class="article-expander__title">Brussels blues</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://xianblog.wordpress.com/2024/06/26/brussels-blues/">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://xianblog.wordpress.com/wp-content/uploads/2024/06/brux2418-e1718009107145.jpg" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>Visit the post for more.</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;8
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
             <li class="card__section">
               <section class="js-toggle-accordions-scope">
                 <h3 class="source-heading">
@@ -8369,8 +8438,8 @@ results if we use l…</span>
       </section>
 
     <footer>
-      <a class="footer-link" href="https://github.com/Furyton/misc-feed/actions/runs/9670308724">
-        <time id="build-timestamp" datetime="2024-06-25T22:15:03.135Z">2024-06-25T22:15:03.135Z</time>
+      <a class="footer-link" href="https://github.com/Furyton/misc-feed/actions/runs/9670875137">
+        <time id="build-timestamp" datetime="2024-06-25T23:15:56.236Z">2024-06-25T23:15:56.236Z</time>
       </a>
       <a class="footer-link" href="https://github.com/osmoscraft/osmosfeed">osmosfeed 1.15.1</a>
     </footer>
