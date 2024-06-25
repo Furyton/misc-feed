@@ -1890,6 +1890,16 @@
       "siteUrl": "https://pytorch.org/",
       "articles": [
         {
+          "id": "https://pytorch.org/blog/pytorch-documentary/",
+          "author": null,
+          "description": "Now live: The official PyTorch Documentary! This film unveils the authentic narrative of PyTorch’s inception, attributing its existence to a dedicated group of unsung heroes driving technological innovation.",
+          "link": "https://pytorch.org/blog/pytorch-documentary/",
+          "publishedOn": "2024-06-25T07:00:00.000Z",
+          "wordCount": 1175,
+          "title": "Powering the AI Revolution: The PyTorch Documentary",
+          "imageUrl": "https://pytorch.org/assets/images/social-share.jpg"
+        },
+        {
           "id": "https://pytorch.org/blog/accelerating-neural-network-training/",
           "author": null,
           "description": "Over the past year, we’ve added support for semi-structured (2:4) sparsity into PyTorch. With just a few lines of code, we were able to show a 10% end-to-end inference speedup on segment-anything by replacing dense matrix multiplications with sparse matrix multiplications.",

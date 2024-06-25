@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-06-25T17:15:52.370Z</updated>
+    <updated>2024-06-25T18:22:42.471Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -34,6 +34,16 @@
         <summary type="html"><![CDATA[This new sign at the intersection of Cottman Avenue and State Road has gotten a lot of news coverage: A complete and accurate account can be found here, but my favorite coverage is this: Cenrtal Phila Chester is the 18th Century stable hand who washed and waxed Ben Franklin’s donkey named "Hoagie". pic.twitter.com/MCeKkPABE3 — Dave […]]]></summary>
         <author>
             <name>Mark Liberman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Powering the AI Revolution: The PyTorch Documentary]]></title>
+        <id>https://pytorch.org/blog/pytorch-documentary/</id>
+        <link href="https://pytorch.org/blog/pytorch-documentary/"/>
+        <updated>2024-06-25T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Now live: The official PyTorch Documentary! This film unveils the authentic narrative of PyTorch’s inception, attributing its existence to a dedicated group of unsung heroes driving technological innovation.]]></summary>
+        <author>
+            <name>PyTorch Website</name>
         </author>
     </entry>
     <entry>
