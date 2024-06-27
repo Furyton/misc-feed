@@ -1479,16 +1479,6 @@
           "wordCount": 2099,
           "title": "重温SSM（二）：HiPPO的一些遗留问题",
           "imageUrl": null
-        },
-        {
-          "id": "https://kexue.fm/archives/10122",
-          "author": "苏剑林",
-          "description": "我们知道，在RoPE中频率的计算公式为$\\theta_i = b^{-2i/d}$，底数$b$默认值为10000。目前Long Context的主流做法之一是，先在$b=10000$上用短文本预...",
-          "link": "https://kexue.fm/archives/10122",
-          "publishedOn": "2024-05-29T10:29:00.000Z",
-          "wordCount": 1916,
-          "title": "Transformer升级之路：18、RoPE的底数设计原则",
-          "imageUrl": null
         }
       ]
     },
@@ -2357,6 +2347,16 @@
       "feedUrl": "https://xianblog.wordpress.com/feed/",
       "siteUrl": "https://xianblog.wordpress.com",
       "articles": [
+        {
+          "id": "http://xianblog.wordpress.com/?p=56451",
+          "author": "xi'an",
+          "description": "Last week, I was very lucky (a) to be in Rome, where the 2024 European Athletics Championships were taking place along the 4th Italian meeting on probability and mathematical statistics, and (b) to meet with my long-time friend Brunero Liseo, who happened to have a free ticket for the evening of Day 5, thanks to […]",
+          "link": "https://xianblog.wordpress.com/2024/06/28/citius-altius-fortius/",
+          "publishedOn": "2024-06-27T22:24:55.000Z",
+          "wordCount": 2812,
+          "title": "citius altius fortius",
+          "imageUrl": "https://xianblog.wordpress.com/wp-content/uploads/2024/06/1718376624470-e1718376810732.jpg"
+        },
         {
           "id": "http://xianblog.wordpress.com/?p=56468",
           "author": "xi'an",
