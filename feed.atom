@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-06-27T13:19:15.421Z</updated>
+    <updated>2024-06-27T14:15:25.105Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Stochastic parrots extended]]></title>
+        <id>https://languagelog.ldc.upenn.edu/nll/?p=64726</id>
+        <link href="https://languagelog.ldc.upenn.edu/nll/?p=64726&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=stochastic-parrots-extended"/>
+        <updated>2024-06-27T13:48:35.000Z</updated>
+        <summary type="html"><![CDATA[Philip Resnick, "Large Language Models are Biased Because They Are Large Language Models", arXiv.org 6/19/2024: This paper's primary goal is to provoke thoughtful discussion about the relationship between bias and fundamental properties of large language models. We do this by seeking to convince the reader that harmful biases are an inevitable consequence arising from the […]]]></summary>
+        <author>
+            <name>Mark Liberman</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Pronunciation guides fail spectacularly]]></title>
         <id>https://languagelog.ldc.upenn.edu/nll/?p=64715</id>
