@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-06-27T02:32:21.115Z</updated>
+    <updated>2024-06-27T03:18:48.895Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[重温SSM（四）：有理生成函数的新视角]]></title>
+        <id>https://kexue.fm/archives/10180</id>
+        <link href="https://kexue.fm/archives/10180"/>
+        <updated>2024-06-27T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[在前三篇文章中，我们较为详细地讨论了HiPPO和S4的大部分数学细节。那么，对于接下来的第四篇文章，大家预期我们会讨论什么工作呢？S5、Mamba乃至Mamba2？都不是。本系列文章主要关心SS...]]></summary>
+        <author>
+            <name>苏剑林</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Internet as Russian dialect enabler]]></title>
         <id>https://languagelog.ldc.upenn.edu/nll/?p=64697</id>

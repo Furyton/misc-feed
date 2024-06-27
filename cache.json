@@ -1431,6 +1431,16 @@
       "siteUrl": "https://kexue.fm/",
       "articles": [
         {
+          "id": "https://kexue.fm/archives/10180",
+          "author": "苏剑林",
+          "description": "在前三篇文章中，我们较为详细地讨论了HiPPO和S4的大部分数学细节。那么，对于接下来的第四篇文章，大家预期我们会讨论什么工作呢？S5、Mamba乃至Mamba2？都不是。本系列文章主要关心SS...",
+          "link": "https://kexue.fm/archives/10180",
+          "publishedOn": "2024-06-27T03:00:00.000Z",
+          "wordCount": 2342,
+          "title": "重温SSM（四）：有理生成函数的新视角",
+          "imageUrl": null
+        },
+        {
           "id": "https://kexue.fm/archives/10162",
           "author": "苏剑林",
           "description": "前面我们用两篇文章《重温SSM（一）：线性系统和HiPPO矩阵》和《重温SSM（二）：HiPPO的一些遗留问题》介绍了HiPPO的思想和推导——通过正交函数基对持续更新的函数进行实时逼近，其拟合...",
