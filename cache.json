@@ -1936,6 +1936,16 @@
           "imageUrl": "https://pytorch.org/assets/images/social-share.jpg"
         },
         {
+          "id": "https://pytorch.org/blog/training-moes/",
+          "author": null,
+          "description": "Over the past year, Mixture of Experts (MoE) models have surged in popularity, fueled by powerful open-source models like DBRX, Mixtral, DeepSeek, and many more. In this blog post, we’ll talk about how we scale to over three thousand GPUs using PyTorch Distributed and MegaBlocks, an efficient open-source MoE implementation in PyTorch.",
+          "link": "https://pytorch.org/blog/training-moes/",
+          "publishedOn": "2024-06-23T07:00:00.000Z",
+          "wordCount": 2593,
+          "title": "Training MoEs at Scale with PyTorch",
+          "imageUrl": "https://pytorch.org/assets/images/social-share.jpg"
+        },
+        {
           "id": "https://pytorch.org/blog/accelerating-neural-network-training/",
           "author": null,
           "description": "Over the past year, we’ve added support for semi-structured (2:4) sparsity into PyTorch. With just a few lines of code, we were able to show a 10% end-to-end inference speedup on segment-anything by replacing dense matrix multiplications with sparse matrix multiplications.",
