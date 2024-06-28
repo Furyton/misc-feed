@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-06-28T11:14:42.353Z</updated>
+    <updated>2024-06-28T12:32:03.370Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -1590,43 +1590,6 @@ The North East and Midlands Stochastic Analysis Seminar (NEMSA) runs four times 
         <summary type="html"><![CDATA[Visit the post for more.]]></summary>
         <author>
             <name>xi'an</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Let’s optimize! Running 15× faster with a situation-specific algorithm]]></title>
-        <id>https://pythonspeed.com/articles/lets-optimize-median-local-threshold/</id>
-        <link href="https://pythonspeed.com/articles/lets-optimize-median-local-threshold/"/>
-        <updated>2024-05-30T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[pre {
-    white-space: pre;
-    overflow-x: auto;
-    font-size: 80%;
-}
-
-
-Let’s speed up some software! Our motivation: we have an image, a photo
-of some text from a book. We want to turn it into a 1-bit image, with
-just black and white, extracting the text so we can easily read it.
-We’ll use an example image from
-scikit-image, an excellent image processing
-library:
-
-from skimage.data import page
-import numpy as np
-IMAGE = page()
-assert IMAGE.dtype == np.uint8
-
-
-Here’s what it looks like (it’s licensed under this
-license):
-
-Median-based local thresholding
-The task we’re trying to do—turning darker areas into black, and lighter
-areas into white—is called thresholding. Since the image is different in
-different regions, with some darker and some lighter, we’ll get the best
-results if we use l…]]></summary>
-        <author>
-            <name>Python⇒Speed</name>
         </author>
     </entry>
     <entry>

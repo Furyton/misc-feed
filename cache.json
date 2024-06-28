@@ -1746,18 +1746,7 @@
       "title": "Python⇒Speed",
       "feedUrl": "https://pythonspeed.com/atom.xml",
       "siteUrl": "https://pythonspeed.com/atom.xml",
-      "articles": [
-        {
-          "id": "https://pythonspeed.com/articles/lets-optimize-median-local-threshold/",
-          "author": null,
-          "description": "pre {\n    white-space: pre;\n    overflow-x: auto;\n    font-size: 80%;\n}\n\n\nLet’s speed up some software! Our motivation: we have an image, a photo\nof some text from a book. We want to turn it into a 1-bit image, with\njust black and white, extracting the text so we can easily read it.\nWe’ll use an example image from\nscikit-image, an excellent image processing\nlibrary:\n\nfrom skimage.data import page\nimport numpy as np\nIMAGE = page()\nassert IMAGE.dtype == np.uint8\n\n\nHere’s what it looks like (it’s licensed under this\nlicense):\n\nMedian-based local thresholding\nThe task we’re trying to do—turning darker areas into black, and lighter\nareas into white—is called thresholding. Since the image is different in\ndifferent regions, with some darker and some lighter, we’ll get the best\nresults if we use l…",
-          "link": "https://pythonspeed.com/articles/lets-optimize-median-local-threshold/",
-          "publishedOn": "2024-05-30T00:00:00.000Z",
-          "wordCount": 2418,
-          "title": "Let’s optimize! Running 15× faster with a situation-specific algorithm",
-          "imageUrl": "https://pythonspeed.com/assets/titles/lets-optimize-median-local-threshold.png"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "统计之都",
