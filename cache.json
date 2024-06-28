@@ -1810,18 +1810,7 @@
       "title": "The Berkeley Artificial Intelligence Research Blog",
       "feedUrl": "https://bair.berkeley.edu/blog/feed",
       "siteUrl": "http://bair.berkeley.edu/blog/",
-      "articles": [
-        {
-          "id": "http://bair.berkeley.edu/blog/2024/05/29/tiny-agent/",
-          "author": null,
-          "description": "The ability of LLMs to execute commands through plain language (e.g. English) has enabled agentic systems that can complete a user query by orchestrating the right set of tools (e.g. ToolFormer, Gorilla). This, along with the recent multi-modal efforts such as the GPT-4o or Gemini-1.5 model, has expanded the realm of possibilities with AI agents. While this is quite exciting, the large model size and computational requirements of these models often requires their inference to be performed on the cloud. This can create several challenges for their widespread adoption. First and foremost, uploading data such as video, audio, or text documents to a third party vendor on the cloud, can result in privacy issues. Second, this requires cloud/Wi-Fi connectivity which is not always possible. For in…",
-          "link": "http://bair.berkeley.edu/blog/2024/05/29/tiny-agent/",
-          "publishedOn": "2024-05-29T23:00:00.000Z",
-          "wordCount": 3467,
-          "title": "TinyAgent: Function Calling at the Edge",
-          "imageUrl": "http://bair.berkeley.edu/blog/assets/tiny-agent/Figure2.png"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "inFERENCe",
@@ -2704,16 +2693,6 @@
           "wordCount": 2490,
           "title": "stop the attacks on Rafah!",
           "imageUrl": "https://xianblog.wordpress.com/wp-content/uploads/2024/05/temp-6.png"
-        },
-        {
-          "id": "http://xianblog.wordpress.com/?p=56312",
-          "author": "xi'an",
-          "description": "My colleague from Paris Dauphine, Dominique Meda, wrote the following in her Le Monde weekly column of 26 May (translated mostly by ChatGP) which, despite points of disagreement (about singling out Germany), I wish to repost as a call to votes for more Europe. Despite [the imperfections and limitations of the EU governance], there have […]",
-          "link": "https://xianblog.wordpress.com/2024/05/30/we-do-need-more-eu-reposted/",
-          "publishedOn": "2024-05-29T22:24:57.000Z",
-          "wordCount": 2919,
-          "title": "we do need more EU [reposted]",
-          "imageUrl": "https://xianblog.wordpress.com/wp-content/uploads/2018/06/brussels180634-e1528314838733.jpg"
         }
       ]
     },
@@ -2777,6 +2756,16 @@
       "feedUrl": "https://languagelog.ldc.upenn.edu/nll/?feed=rss2",
       "siteUrl": "https://languagelog.ldc.upenn.edu/nll",
       "articles": [
+        {
+          "id": "https://languagelog.ldc.upenn.edu/nll/?p=64734",
+          "author": "Mark Liberman",
+          "description": "\"Significant energy source found under US-Mexico border\", KXAN 6/23/2024 [emphasis added]: Researchers have found a significant source of geothermal energy underneath the U.S.-Mexico border along the Rio Grande, which could lead to promising clean energy developme nt in the rural region. […] “There’s a thin, 10- to 15-mile-wide region that runs parallel or along the […]",
+          "link": "https://languagelog.ldc.upenn.edu/nll/?p=64734&utm_source=rss&utm_medium=rss&utm_campaign=eggcorn-of-the-week-checks-every-block",
+          "publishedOn": "2024-06-28T10:52:54.000Z",
+          "wordCount": 2550,
+          "title": "Eggcorn of the week: \"checks every block\"",
+          "imageUrl": null
+        },
         {
           "id": "https://languagelog.ldc.upenn.edu/nll/?p=64708",
           "author": "Victor Mair",

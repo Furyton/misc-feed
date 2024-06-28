@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-06-28T10:17:54.433Z</updated>
+    <updated>2024-06-28T11:14:42.353Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Eggcorn of the week: "checks every block"]]></title>
+        <id>https://languagelog.ldc.upenn.edu/nll/?p=64734</id>
+        <link href="https://languagelog.ldc.upenn.edu/nll/?p=64734&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=eggcorn-of-the-week-checks-every-block"/>
+        <updated>2024-06-28T10:52:54.000Z</updated>
+        <summary type="html"><![CDATA["Significant energy source found under US-Mexico border", KXAN 6/23/2024 [emphasis added]: Researchers have found a significant source of geothermal energy underneath the U.S.-Mexico border along the Rio Grande, which could lead to promising clean energy developme nt in the rural region. […] “There’s a thin, 10- to 15-mile-wide region that runs parallel or along the […]]]></summary>
+        <author>
+            <name>Mark Liberman</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[VenISBA’t to start!!]]></title>
         <id>http://xianblog.wordpress.com/?p=56602</id>
@@ -1617,26 +1627,6 @@ different regions, with some darker and some lighter, we’ll get the best
 results if we use l…]]></summary>
         <author>
             <name>Python⇒Speed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TinyAgent: Function Calling at the Edge]]></title>
-        <id>http://bair.berkeley.edu/blog/2024/05/29/tiny-agent/</id>
-        <link href="http://bair.berkeley.edu/blog/2024/05/29/tiny-agent/"/>
-        <updated>2024-05-29T23:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The ability of LLMs to execute commands through plain language (e.g. English) has enabled agentic systems that can complete a user query by orchestrating the right set of tools (e.g. ToolFormer, Gorilla). This, along with the recent multi-modal efforts such as the GPT-4o or Gemini-1.5 model, has expanded the realm of possibilities with AI agents. While this is quite exciting, the large model size and computational requirements of these models often requires their inference to be performed on the cloud. This can create several challenges for their widespread adoption. First and foremost, uploading data such as video, audio, or text documents to a third party vendor on the cloud, can result in privacy issues. Second, this requires cloud/Wi-Fi connectivity which is not always possible. For in…]]></summary>
-        <author>
-            <name>The Berkeley Artificial Intelligence Research Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[we do need more EU [reposted]]]></title>
-        <id>http://xianblog.wordpress.com/?p=56312</id>
-        <link href="https://xianblog.wordpress.com/2024/05/30/we-do-need-more-eu-reposted/"/>
-        <updated>2024-05-29T22:24:57.000Z</updated>
-        <summary type="html"><![CDATA[My colleague from Paris Dauphine, Dominique Meda, wrote the following in her Le Monde weekly column of 26 May (translated mostly by ChatGP) which, despite points of disagreement (about singling out Germany), I wish to repost as a call to votes for more Europe. Despite [the imperfections and limitations of the EU governance], there have […]]]></summary>
-        <author>
-            <name>xi'an</name>
         </author>
     </entry>
     <entry>
