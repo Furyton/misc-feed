@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-07-03T18:21:27.668Z</updated>
+    <updated>2024-07-03T19:13:02.928Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -1540,16 +1540,6 @@ Where: MS.05
 The North East and Midlands Stochastic Analysis Seminar (NEMSA) runs four times a year and the venue rotates between Durham, Oxford, Warwick and York. Each event takes place during an afternoon or over two days, with talks in the area of Stochastic Analysis.]]></summary>
         <author>
             <name>Statistics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ready, Set, Contribute: PyTorch Docathon Kickoff H1 2024]]></title>
-        <id>https://pytorch.org/blog/docathon-kickoff-h1-2024/</id>
-        <link href="https://pytorch.org/blog/docathon-kickoff-h1-2024/"/>
-        <updated>2024-06-04T07:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The PyTorch Docathon is now live! This event is dedicated to enhancing the quality of the PyTorch documentation with the invaluable assistance of our community. Our hope with this Docathon is to simplify the process for new users to get started with PyTorch, guide them in effectively utilizing its features, and ultimately expedite the transition from research to production in machine learning.]]></summary>
-        <author>
-            <name>PyTorch Website</name>
         </author>
     </entry>
     <entry>
