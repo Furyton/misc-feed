@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-07-03T15:18:00.888Z</updated>
+    <updated>2024-07-03T16:21:39.701Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -44,6 +44,16 @@
         <summary type="html"><![CDATA[Kevin Drum, "Federal judge uses very strange words to overturn LNG pause", jabberwocking 7/2/2024: Early this year the Department of Energy paused approvals of new LNG terminals. Several states sued, saying the decision was arbitrary and was costing them a lot of money. Yesterday a Trump-appointed judge in Louisiana (of course) issued a preliminary injunction […]]]></summary>
         <author>
             <name>Mark Liberman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Announcing Hacker Cup AI Track at NeurIPS 2024]]></title>
+        <id>https://pytorch.org/blog/hacker-cup/</id>
+        <link href="https://pytorch.org/blog/hacker-cup/"/>
+        <updated>2024-07-03T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The PyTorch team in partnership with Meta Hacker Cup, and Microsoft Research, are excited to announce the Hacker Cup AI Track at NeurIPS 2024. This will be the first AI track for the popular Meta Hacker Cup programming competition designed to assess the capabilities of Generative AI in performing autonomous code generation tasks. We aim to test the limits of AI in complex coding challenges and measure the performance gap between AI systems and human programmers. We will provide access to all Hacker Cup problems since 2011 alongside their respective solutions in a multimodal (image and text) format, and utilize the existing Hacker Cup infrastructure for competitor evaluation. Featuring both open evaluation, open model and open evaluation, closed model tracks, this competition invites diverse participation from research institutions of varied interests and resource constraints, including academic labs, AI startups, large technology companies, and AI enthusiasts. Our goal is to develop and democratize meaningful advancements in code automation with the very first open evaluation process for competitive AI programmers. Registration will begin in Early August, with our first qualification round on September 20th.]]></summary>
+        <author>
+            <name>PyTorch Website</name>
         </author>
     </entry>
     <entry>
@@ -1540,26 +1550,6 @@ The North East and Midlands Stochastic Analysis Seminar (NEMSA) runs four times 
         <summary type="html"><![CDATA[The PyTorch Docathon is now live! This event is dedicated to enhancing the quality of the PyTorch documentation with the invaluable assistance of our community. Our hope with this Docathon is to simplify the process for new users to get started with PyTorch, guide them in effectively utilizing its features, and ultimately expedite the transition from research to production in machine learning.]]></summary>
         <author>
             <name>PyTorch Website</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Unknown language #18]]></title>
-        <id>https://languagelog.ldc.upenn.edu/nll/?p=64342</id>
-        <link href="https://languagelog.ldc.upenn.edu/nll/?p=64342&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=unknown-language-18"/>
-        <updated>2024-06-04T04:12:33.000Z</updated>
-        <summary type="html"><![CDATA[[This is a guest post by John Mock] Query about inscription on crystal from Afghanistan. Face 1 (actual and reverse): Face 2 (actual and reverse): Face 3 (actual and reverse): Face 4 (actual and reverse): Face 5 (actual and reverse): Face 6 (actual and reverse): The crystal in the photographs was purchased in Afghanistan in […]]]></summary>
-        <author>
-            <name>Victor Mair</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Taiwanese romanization and subtitles]]></title>
-        <id>https://languagelog.ldc.upenn.edu/nll/?p=64315</id>
-        <link href="https://languagelog.ldc.upenn.edu/nll/?p=64315&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=taiwanese-romanization-and-subtitles"/>
-        <updated>2024-06-04T03:44:38.000Z</updated>
-        <summary type="html"><![CDATA[Song by a Taiwanese band with sinographic and romanized transcriptions of the lyrics in the center and Mandarin translation at the bottom as subtitles, via Bilibili: I told Kirinputra that I liked the way the font was big and clear, and asked him if he thought it is a good romanization.  He replied: They used the […]]]></summary>
-        <author>
-            <name>Victor Mair</name>
         </author>
     </entry>
     <entry>
