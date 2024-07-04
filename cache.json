@@ -1449,16 +1449,6 @@
           "wordCount": 2197,
           "title": "通向概率分布之路：盘点Softmax及其替代品",
           "imageUrl": null
-        },
-        {
-          "id": "https://kexue.fm/archives/10137",
-          "author": "苏剑林",
-          "description": "书接上文，在上一篇文章《重温SSM（一）：线性系统和HiPPO矩阵》中，我们详细讨论了HiPPO逼近框架其HiPPO矩阵的推导，其原理是通过正交函数基来动态地逼近一个实时更新的函数，其投影系数的...",
-          "link": "https://kexue.fm/archives/10137",
-          "publishedOn": "2024-06-05T07:21:00.000Z",
-          "wordCount": 2099,
-          "title": "重温SSM（二）：HiPPO的一些遗留问题",
-          "imageUrl": null
         }
       ]
     },

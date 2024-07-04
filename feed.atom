@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-07-04T19:14:28.404Z</updated>
+    <updated>2024-07-04T20:17:02.055Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -1520,16 +1520,6 @@ I finally published my grandmother’s autobiography. I doubt anyone outside of 
         <summary type="html"><![CDATA[Following up on "Crap Lolly Pop" (11/21/2022), Ambarish Sridharanarayanan sent in this xeet, featuring a poster that glorifies the present Chief Minister of Tamil Nadu as the “Bride of Tamil Nadu” instead of the “Pride of Tamil Nadu”, again because of the b/p equivalence in Tamil: Oops! Tamil Nadu's banner blunder turns Stalin into the […]]]></summary>
         <author>
             <name>Mark Liberman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[重温SSM（二）：HiPPO的一些遗留问题]]></title>
-        <id>https://kexue.fm/archives/10137</id>
-        <link href="https://kexue.fm/archives/10137"/>
-        <updated>2024-06-05T07:21:00.000Z</updated>
-        <summary type="html"><![CDATA[书接上文，在上一篇文章《重温SSM（一）：线性系统和HiPPO矩阵》中，我们详细讨论了HiPPO逼近框架其HiPPO矩阵的推导，其原理是通过正交函数基来动态地逼近一个实时更新的函数，其投影系数的...]]></summary>
-        <author>
-            <name>苏剑林</name>
         </author>
     </entry>
     <entry>
