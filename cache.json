@@ -1937,16 +1937,6 @@
           "wordCount": 839,
           "title": "PyTorch Foundation Welcomes New Executive Director",
           "imageUrl": "https://pytorch.org/assets/images/social-share.jpg"
-        },
-        {
-          "id": "https://pytorch.org/blog/int4-decoding/",
-          "author": null,
-          "description": "An efficient decoding Grouped-Query Attention with low-precision KV cache",
-          "link": "https://pytorch.org/blog/int4-decoding/",
-          "publishedOn": "2024-06-06T07:00:00.000Z",
-          "wordCount": 6493,
-          "title": "INT4 Decoding GQA CUDA Optimizations for LLM Inference",
-          "imageUrl": "https://pytorch.org/assets/images/social-share.jpg"
         }
       ]
     },
