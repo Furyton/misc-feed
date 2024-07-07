@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-07-07T14:13:59.258Z</updated>
+    <updated>2024-07-07T15:17:44.362Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Are LLMs writing PubMed articles?]]></title>
+        <id>https://languagelog.ldc.upenn.edu/nll/?p=64877</id>
+        <link href="https://languagelog.ldc.upenn.edu/nll/?p=64877&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=are-llms-writing-pubmed-articles"/>
+        <updated>2024-07-07T14:45:13.000Z</updated>
+        <summary type="html"><![CDATA[Kyle Orland, "The telltale words that could identify generative AI text", ars technica 7/1/2024 In a pre-print paper posted earlier this month, four researchers from Germany's University of Tubingen and Northwestern University said they were inspired by studies that measured the impact of the COVID-19 pandemic by looking at excess deaths compared to the recent […]]]></summary>
+        <author>
+            <name>Mark Liberman</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Noga Alon and Adi Shamir won the 2024 Wolf Prize]]></title>
         <id>http://gilkalai.wordpress.com/?p=26544</id>
