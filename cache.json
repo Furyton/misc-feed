@@ -1421,6 +1421,16 @@
       "siteUrl": "https://kexue.fm/",
       "articles": [
         {
+          "id": "https://kexue.fm/archives/10197",
+          "author": "苏剑林",
+          "description": "这篇文章我们继续来闭门造车，分享一下笔者最近对多模态学习的一些新理解。在前文《“闭门造车”之多模态思路浅谈（一）：无损》中，我们强调了无损输入对于理想的多模型模态的重要性。如果这个观点成立，那么...",
+          "link": "https://kexue.fm/archives/10197",
+          "publishedOn": "2024-07-08T08:42:00.000Z",
+          "wordCount": 1507,
+          "title": "“闭门造车”之多模态思路浅谈（二）：自回归",
+          "imageUrl": null
+        },
+        {
           "id": "https://kexue.fm/archives/10180",
           "author": "苏剑林",
           "description": "在前三篇文章中，我们较为详细地讨论了HiPPO和S4的大部分数学细节。那么，对于接下来的第四篇文章，大家预期我们会讨论什么工作呢？S5、Mamba乃至Mamba2？都不是。本系列文章主要关心SS...",
