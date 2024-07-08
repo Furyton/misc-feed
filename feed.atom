@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-07-08T06:24:50.133Z</updated>
+    <updated>2024-07-08T07:16:58.431Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -54,6 +54,18 @@
         <summary type="html"><![CDATA[Congratulations to Noga Alon and Adi Shamir for winning the 2024 Wolf Prize. Noga Alon received the prize “for his fundamental contributions to Combinatorics and Theoretical Computer Science,” and Adi Shamir “for his fundamental contributions to Mathematical Cryptography.” This is … Continue reading →]]></summary>
         <author>
             <name>Gil Kalai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Extrinsic Hallucinations in LLMs]]></title>
+        <id>https://lilianweng.github.io/posts/2024-07-07-hallucination/</id>
+        <link href="https://lilianweng.github.io/posts/2024-07-07-hallucination/"/>
+        <updated>2024-07-07T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Hallucination in large language models usually refers to the model generating unfaithful, fabricated, inconsistent, or nonsensical content. As a term, hallucination has been somewhat generalized to cases when the model makes mistakes. Here, I would like to narrow down the problem of hallucination to be when the model output is fabricated and not grounded by either the provided context or world knowledge.
+There are two types of hallucination:
+In-context hallucination: The model output should be consistent with the source content in context.]]></summary>
+        <author>
+            <name>Lil'Log</name>
         </author>
     </entry>
     <entry>

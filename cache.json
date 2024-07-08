@@ -1746,7 +1746,18 @@
       "title": "Lil'Log",
       "feedUrl": "https://lilianweng.github.io/index.xml",
       "siteUrl": "https://lilianweng.github.io/",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://lilianweng.github.io/posts/2024-07-07-hallucination/",
+          "author": null,
+          "description": "Hallucination in large language models usually refers to the model generating unfaithful, fabricated, inconsistent, or nonsensical content. As a term, hallucination has been somewhat generalized to cases when the model makes mistakes. Here, I would like to narrow down the problem of hallucination to be when the model output is fabricated and not grounded by either the provided context or world knowledge.\nThere are two types of hallucination:\nIn-context hallucination: The model output should be consistent with the source content in context.",
+          "link": "https://lilianweng.github.io/posts/2024-07-07-hallucination/",
+          "publishedOn": "2024-07-07T00:00:00.000Z",
+          "wordCount": 10464,
+          "title": "Extrinsic Hallucinations in LLMs",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "Amit Chaudhary",
