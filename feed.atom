@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-07-09T14:15:20.329Z</updated>
+    <updated>2024-07-09T16:21:24.100Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Prague 2024: The First Jiří Matoušek’s Lecture]]></title>
+        <id>http://gilkalai.wordpress.com/?p=26508</id>
+        <link href="https://gilkalai.wordpress.com/2024/07/09/prague-2024-the-first-jiri-matouseks-lecture/"/>
+        <updated>2024-07-09T16:02:33.000Z</updated>
+        <summary type="html"><![CDATA[Jiří Matoušek was a great mathematician and computer scientist and a wonderful person who enlightened our communities and our lives in many ways. A few weeks ago I visited beautiful Prague (and the historic building of the computer science and … Continue reading →]]></summary>
+        <author>
+            <name>Gil Kalai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Prague 2024: The First Jiří Matoušek’s Lecture]]></title>
+        <id>http://gilkalai.wordpress.com/?p=26508</id>
+        <link href="https://gilkalai.wordpress.com/2024/07/09/prague-2024-the-first-jiri-matouseks-lecture/"/>
+        <updated>2024-07-09T16:02:33.000Z</updated>
+        <summary type="html"><![CDATA[Jiří Matoušek was a great mathematician and computer scientist and a wonderful person who enlightened our communities and our lives in many ways. A few weeks ago I visited beautiful Prague (and the historic building of the computer science and … Continue reading →]]></summary>
+        <author>
+            <name>Gil Kalai</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The evolving PubMed landscape]]></title>
         <id>https://languagelog.ldc.upenn.edu/nll/?p=64948</id>
@@ -24,6 +44,16 @@
         <summary type="html"><![CDATA[Visit the post for more.]]></summary>
         <author>
             <name>xi'an</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Accelerated PyTorch inference with torch.compile on AWS Graviton processors]]></title>
+        <id>https://pytorch.org/blog/accelerated-pytorch-inference/</id>
+        <link href="https://pytorch.org/blog/accelerated-pytorch-inference/"/>
+        <updated>2024-07-09T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Summary]]></summary>
+        <author>
+            <name>PyTorch Website</name>
         </author>
     </entry>
     <entry>

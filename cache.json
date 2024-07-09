@@ -1355,6 +1355,16 @@
       "siteUrl": "https://gilkalai.wordpress.com",
       "articles": [
         {
+          "id": "http://gilkalai.wordpress.com/?p=26508",
+          "author": "Gil Kalai",
+          "description": "Jiří Matoušek was a great mathematician and computer scientist and a wonderful person who enlightened our communities and our lives in many ways. A few weeks ago I visited beautiful Prague (and the historic building of the computer science and … Continue reading →",
+          "link": "https://gilkalai.wordpress.com/2024/07/09/prague-2024-the-first-jiri-matouseks-lecture/",
+          "publishedOn": "2024-07-09T16:02:33.000Z",
+          "wordCount": 4131,
+          "title": "Prague 2024: The First Jiří Matoušek’s Lecture",
+          "imageUrl": "https://gilkalai.wordpress.com/wp-content/uploads/2024/07/gil-jirka-ascona.png"
+        },
+        {
           "id": "http://gilkalai.wordpress.com/?p=26544",
           "author": "Gil Kalai",
           "description": "Congratulations to Noga Alon and Adi Shamir for winning the 2024 Wolf Prize. Noga Alon received the prize “for his fundamental contributions to Combinatorics and Theoretical Computer Science,” and Adi Shamir “for his fundamental contributions to Mathematical Cryptography.” This is … Continue reading →",
@@ -1874,6 +1884,16 @@
       "siteUrl": "https://pytorch.org/",
       "articles": [
         {
+          "id": "https://pytorch.org/blog/accelerated-pytorch-inference/",
+          "author": null,
+          "description": "Summary",
+          "link": "https://pytorch.org/blog/accelerated-pytorch-inference/",
+          "publishedOn": "2024-07-09T07:00:00.000Z",
+          "wordCount": 3956,
+          "title": "Accelerated PyTorch inference with torch.compile on AWS Graviton processors",
+          "imageUrl": "https://pytorch.org/assets/images/social-share.jpg"
+        },
+        {
           "id": "https://pytorch.org/blog/hacker-cup/",
           "author": null,
           "description": "The PyTorch team in partnership with Meta Hacker Cup, and Microsoft Research, are excited to announce the Hacker Cup AI Track at NeurIPS 2024. This will be the first AI track for the popular Meta Hacker Cup programming competition designed to assess the capabilities of Generative AI in performing autonomous code generation tasks. We aim to test the limits of AI in complex coding challenges and measure the performance gap between AI systems and human programmers. We will provide access to all Hacker Cup problems since 2011 alongside their respective solutions in a multimodal (image and text) format, and utilize the existing Hacker Cup infrastructure for competitor evaluation. Featuring both open evaluation, open model and open evaluation, closed model tracks, this competition invites diverse participation from research institutions of varied interests and resource constraints, including academic labs, AI startups, large technology companies, and AI enthusiasts. Our goal is to develop and democratize meaningful advancements in code automation with the very first open evaluation process for competitive AI programmers. Registration will begin in Early August, with our first qualification round on September 20th.",
@@ -2242,6 +2262,16 @@
       "feedUrl": "https://gilkalai.wordpress.com/feed/",
       "siteUrl": "https://gilkalai.wordpress.com",
       "articles": [
+        {
+          "id": "http://gilkalai.wordpress.com/?p=26508",
+          "author": "Gil Kalai",
+          "description": "Jiří Matoušek was a great mathematician and computer scientist and a wonderful person who enlightened our communities and our lives in many ways. A few weeks ago I visited beautiful Prague (and the historic building of the computer science and … Continue reading →",
+          "link": "https://gilkalai.wordpress.com/2024/07/09/prague-2024-the-first-jiri-matouseks-lecture/",
+          "publishedOn": "2024-07-09T16:02:33.000Z",
+          "wordCount": 4131,
+          "title": "Prague 2024: The First Jiří Matoušek’s Lecture",
+          "imageUrl": "https://gilkalai.wordpress.com/wp-content/uploads/2024/07/gil-jirka-ascona.png"
+        },
         {
           "id": "http://gilkalai.wordpress.com/?p=26544",
           "author": "Gil Kalai",
