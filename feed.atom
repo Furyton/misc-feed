@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-07-09T22:16:46.467Z</updated>
+    <updated>2024-07-09T23:18:55.963Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[truly and uniquely pseudo-random?]]></title>
+        <id>http://xianblog.wordpress.com/?p=56395</id>
+        <link href="https://xianblog.wordpress.com/2024/07/10/truly-and-uniquely-pseudo-random/"/>
+        <updated>2024-07-09T22:24:37.000Z</updated>
+        <summary type="html"><![CDATA[I came across a Web paper entitled The Impact of Google’s Random Number Generator on Accurate Results that I found most puzzling in failing to explain the specific nature of this random generator and that included gems as below “PRNGs (…) outputs are inherently predictable given a specific seed value, thus deviating from true randomness” […]]]></summary>
+        <author>
+            <name>xi'an</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bilingual Chinese lesbian slang dictionary]]></title>
         <id>https://languagelog.ldc.upenn.edu/nll/?p=64944</id>
@@ -1570,16 +1580,6 @@ The context is finding a polynomial of degree at most $n$ that passes through $n
         <summary type="html"><![CDATA[Things are becoming dicey for the CCP/PRC regime: "A cartoon cat has been vexing China’s censors – now he says they are on his tail" By Tessa Wong, Asia Digital Reporter, BBC (6/10/24) Here's the dilemma faced by the Chinese communist authorities.   It would be very easy for the censors to shut down all […]]]></summary>
         <author>
             <name>Victor Mair</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI deception?]]></title>
-        <id>https://languagelog.ldc.upenn.edu/nll/?p=64496</id>
-        <link href="https://languagelog.ldc.upenn.edu/nll/?p=64496&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=ai-deception"/>
-        <updated>2024-06-10T10:42:54.000Z</updated>
-        <summary type="html"><![CDATA[Noor Al-Sibai, "AI Systems Are Learning to Lie and Deceive, Scientists Find", Futurism 6/7/2024: AI models are, apparently, getting better at lying on purpose. Two recent studies — one published this week in the journal PNAS and the other last month in the journal Patterns — reveal some jarring findings about large language models (LLMs) […]]]></summary>
-        <author>
-            <name>Mark Liberman</name>
         </author>
     </entry>
     <entry>

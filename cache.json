@@ -2306,6 +2306,16 @@
       "siteUrl": "https://xianblog.wordpress.com",
       "articles": [
         {
+          "id": "http://xianblog.wordpress.com/?p=56395",
+          "author": "xi'an",
+          "description": "I came across a Web paper entitled The Impact of Google’s Random Number Generator on Accurate Results that I found most puzzling in failing to explain the specific nature of this random generator and that included gems as below “PRNGs (…) outputs are inherently predictable given a specific seed value, thus deviating from true randomness” […]",
+          "link": "https://xianblog.wordpress.com/2024/07/10/truly-and-uniquely-pseudo-random/",
+          "publishedOn": "2024-07-09T22:24:37.000Z",
+          "wordCount": 2870,
+          "title": "truly and uniquely pseudo-random?",
+          "imageUrl": "https://xianblog.wordpress.com/wp-content/uploads/2012/09/dsc_0879.jpg"
+        },
+        {
           "id": "http://xianblog.wordpress.com/?p=56756",
           "author": "xi'an",
           "description": "Visit the post for more.",
@@ -3345,16 +3355,6 @@
           "publishedOn": "2024-06-10T13:56:16.000Z",
           "wordCount": 3077,
           "title": "Fissures in the Great Firewall caused by X",
-          "imageUrl": null
-        },
-        {
-          "id": "https://languagelog.ldc.upenn.edu/nll/?p=64496",
-          "author": "Mark Liberman",
-          "description": "Noor Al-Sibai, \"AI Systems Are Learning to Lie and Deceive, Scientists Find\", Futurism 6/7/2024: AI models are, apparently, getting better at lying on purpose. Two recent studies — one published this week in the journal PNAS and the other last month in the journal Patterns — reveal some jarring findings about large language models (LLMs) […]",
-          "link": "https://languagelog.ldc.upenn.edu/nll/?p=64496&utm_source=rss&utm_medium=rss&utm_campaign=ai-deception",
-          "publishedOn": "2024-06-10T10:42:54.000Z",
-          "wordCount": 2475,
-          "title": "AI deception?",
           "imageUrl": null
         }
       ]
