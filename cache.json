@@ -1884,6 +1884,16 @@
       "siteUrl": "https://pytorch.org/",
       "articles": [
         {
+          "id": "https://pytorch.org/blog/develop-android-applications/",
+          "author": null,
+          "description": "This blog is courtesy of the PyTorch team at Arm. More details can be found here.",
+          "link": "https://pytorch.org/blog/develop-android-applications/",
+          "publishedOn": "2024-07-10T07:00:00.000Z",
+          "wordCount": 972,
+          "title": "Learn how to develop Android applications with ExecuTorch and Llama models",
+          "imageUrl": "https://pytorch.org/assets/images/social-share.jpg"
+        },
+        {
           "id": "https://pytorch.org/blog/accelerated-pytorch-inference/",
           "author": null,
           "description": "Summary",
@@ -1951,16 +1961,6 @@
           "publishedOn": "2024-06-12T07:00:00.000Z",
           "wordCount": 1598,
           "title": "Reducing Model Checkpointing Times by Over 10x with PyTorch Distributed Asynchronous Checkpointing",
-          "imageUrl": "https://pytorch.org/assets/images/social-share.jpg"
-        },
-        {
-          "id": "https://pytorch.org/blog/new-executive-director/",
-          "author": null,
-          "description": "The PyTorch Foundation is excited to welcome Matt White, our new executive director. The PyTorch Foundation formed in 2022 with the goal to drive adoption of AI tooling by fostering and sustaining an ecosystem of open source, vendor-neutral projects with PyTorch. Over the past 2 years, we’ve seen excellent growth across the project – with both contributor and member growth.",
-          "link": "https://pytorch.org/blog/new-executive-director/",
-          "publishedOn": "2024-06-11T07:00:00.000Z",
-          "wordCount": 839,
-          "title": "PyTorch Foundation Welcomes New Executive Director",
           "imageUrl": "https://pytorch.org/assets/images/social-share.jpg"
         }
       ]
@@ -2767,6 +2767,36 @@
       "feedUrl": "https://languagelog.ldc.upenn.edu/nll/?feed=rss2",
       "siteUrl": "https://languagelog.ldc.upenn.edu/nll",
       "articles": [
+        {
+          "id": "https://languagelog.ldc.upenn.edu/nll/?p=64914",
+          "author": "Victor Mair",
+          "description": "(To appreciate the joke at the top of the image, it helps to be familiar with the \"Nobody\" meme. Here the meme is used to critique companies that engage in \"pinkwashing\" during Pride Month and then revert to their heteronormative ways as soon as June ends.)  Japanese writing on the labels: Nonhomo ノンホモ Hida 飛騨 […]",
+          "link": "https://languagelog.ldc.upenn.edu/nll/?p=64914&utm_source=rss&utm_medium=rss&utm_campaign=milk-tea",
+          "publishedOn": "2024-07-10T19:07:53.000Z",
+          "wordCount": 2170,
+          "title": "Milk tea",
+          "imageUrl": null
+        },
+        {
+          "id": "https://languagelog.ldc.upenn.edu/nll/?p=64968",
+          "author": "Victor Mair",
+          "description": "Wasn’t on my 2024 Bingo Card: US Lawmakers: We need to ban $NVDA GPUs sales into China, or else they will lead in AI and boost their military. Chinese social meme accounts burns through valuable Huawei Ascend compute, to make Biden and Trump sing Chinese folk songs about… pic.twitter.com/T03DwIZKp4 — Marcel Münch (@_mm85) July 9, […]",
+          "link": "https://languagelog.ldc.upenn.edu/nll/?p=64968&utm_source=rss&utm_medium=rss&utm_campaign=singing-presidents-a-triumph-of-chinese-ai",
+          "publishedOn": "2024-07-10T18:37:00.000Z",
+          "wordCount": 2121,
+          "title": "Singing Presidents (a triumph of Chinese AI)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://languagelog.ldc.upenn.edu/nll/?p=64971",
+          "author": "Mark Liberman",
+          "description": "In \"Peevable words and phrases: journey\", 5/18/2024, Victor quoted Lisa Miller, \"When Did Everything Become a ‘Journey’?\", NYT 5/16/2024: According to the linguistics professor Jesse Egbert at Northern Arizona University, the use of “journey” (the noun) has nearly doubled in American English since 1990, with the most frequent instances occurring online. In PubMed, where we've […]",
+          "link": "https://languagelog.ldc.upenn.edu/nll/?p=64971&utm_source=rss&utm_medium=rss&utm_campaign=our-journey-journey",
+          "publishedOn": "2024-07-10T18:34:19.000Z",
+          "wordCount": 2447,
+          "title": "Our journey journey",
+          "imageUrl": null
+        },
         {
           "id": "https://languagelog.ldc.upenn.edu/nll/?p=64965",
           "author": "Victor Mair",
