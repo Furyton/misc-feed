@@ -2306,6 +2306,16 @@
       "siteUrl": "https://xianblog.wordpress.com",
       "articles": [
         {
+          "id": "http://xianblog.wordpress.com/?p=56784",
+          "author": "xi'an",
+          "description": "Visit the post for more.",
+          "link": "https://xianblog.wordpress.com/2024/07/11/a-bridge-too-far-1931-3rd-26%e2%81%b0-6am/",
+          "publishedOn": "2024-07-10T22:24:31.000Z",
+          "wordCount": 2442,
+          "title": "a bridge too far! [19:31, 3rd, 26⁰, 6am]",
+          "imageUrl": "https://xianblog.wordpress.com/wp-content/uploads/2024/07/temp-5.png"
+        },
+        {
           "id": "http://xianblog.wordpress.com/?p=56395",
           "author": "xi'an",
           "description": "I came across a Web paper entitled The Impact of Google’s Random Number Generator on Accurate Results that I found most puzzling in failing to explain the specific nature of this random generator and that included gems as below “PRNGs (…) outputs are inherently predictable given a specific seed value, thus deviating from true randomness” […]",
@@ -3355,16 +3365,6 @@
           "publishedOn": "2024-06-11T15:26:24.000Z",
           "wordCount": 2420,
           "title": "ChatGPT is bullshit",
-          "imageUrl": null
-        },
-        {
-          "id": "https://languagelog.ldc.upenn.edu/nll/?p=64517",
-          "author": "Mark Liberman",
-          "description": "In yesterday's \"AI deception?\" post, I proposed that we ought to apply to AI an analogy to the philosophical evaluation of \"theory of mind\" issues in animals. And one of the clearest presentations of that evaluation is in Daniel Povinelli,  Jesse Bering, and Steve Giambrone, \"Toward a science of other minds: Escaping the argument by […]",
-          "link": "https://languagelog.ldc.upenn.edu/nll/?p=64517&utm_source=rss&utm_medium=rss&utm_campaign=povinelli-et-al-on-reinterpretation",
-          "publishedOn": "2024-06-11T10:20:31.000Z",
-          "wordCount": 3046,
-          "title": "Povinelli et al. on \"Reinterpretation\"",
           "imageUrl": null
         }
       ]
