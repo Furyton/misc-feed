@@ -79,6 +79,40 @@
                 </section>
               </section>
             </li>
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >PyTorch Website</button>
+                  <a class="source-heading__link" href="https://pytorch.org/">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://pytorch.org/blog/flashattention-3/"
+                        open
+                      >
+                        <summary class="article-expander__title">FlashAttention-3: Fast and Accurate Attention with Asynchrony and Low-precision</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://pytorch.org/blog/flashattention-3/">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://pytorch.org/assets/images/social-share.jpg" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>Attention, as a core layer of the ubiquitous Transformer architecture, is a bottleneck for large language models and long-context applications. FlashAttention (and FlashAttention-2) pioneered an approach to speed up attention on GPUs by minimizing memory reads/writes, and is now used by most libraries to accelerate Transformer training and inference. This has contributed to a massive increase in LLM context length in the last two years, from 2-4K (GPT-3, OPT) to 128K (GPT-4), or even 1M (Llama 3). However, despite its success, FlashAttention has yet to take advantage of new capabilities in modern hardware, with FlashAttention-2 achieving only 35% utilization of theoretical max FLOPs on the H100 GPU. In this blogpost, we describe three main techniques to speed up attention on Hopper GPUs: exploiting asynchrony of the Tensor Cores and TMA to (1) overlap overall computation and data movement via warp-specialization and (2) interleave block-wise matmul and softmax operations, and (3) incoherent processing that leverages hardware support for FP8 low-precision.</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;7
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
         </ul>
       </section>
       <section class="daily-content js-toggle-accordions-scope">
@@ -8289,8 +8323,8 @@ The context is finding a polynomial of degree at most $n$ that passes through $n
       </section>
 
     <footer>
-      <a class="footer-link" href="https://github.com/Furyton/misc-feed/actions/runs/9895005782">
-        <time id="build-timestamp" datetime="2024-07-11T16:20:39.897Z">2024-07-11T16:20:39.897Z</time>
+      <a class="footer-link" href="https://github.com/Furyton/misc-feed/actions/runs/9895731445">
+        <time id="build-timestamp" datetime="2024-07-11T17:16:25.758Z">2024-07-11T17:16:25.758Z</time>
       </a>
       <a class="footer-link" href="https://github.com/osmoscraft/osmosfeed">osmosfeed 1.15.1</a>
     </footer>
