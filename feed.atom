@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-07-11T18:22:24.546Z</updated>
+    <updated>2024-07-11T19:13:53.465Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -1550,16 +1550,6 @@ The context is finding a polynomial of degree at most $n$ that passes through $n
         <summary type="html"><![CDATA[In case (like me) you haven't been following the murder trial of Karen Read, this article provides the background: Kim Stelloh, "Karen Read is accused of killing her Boston police officer boyfriend. Here's what we know about the murder trial", NBC News 6/7/2024. The current media fever focuses on the testimony of (Massachusetts State Police […]]]></summary>
         <author>
             <name>Mark Liberman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Reducing Model Checkpointing Times by Over 10x with PyTorch Distributed Asynchronous Checkpointing]]></title>
-        <id>https://pytorch.org/blog/reducing-checkpointing-times/</id>
-        <link href="https://pytorch.org/blog/reducing-checkpointing-times/"/>
-        <updated>2024-06-12T07:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Summary: With PyTorch distributed’s new asynchronous checkpointing feature, developed with feedback from IBM, we show how IBM Research Team is able to implement and reduce effective checkpointing time by a factor of 10-20x. Example: 7B model ‘down time’ for a checkpoint goes from an average of 148.8 seconds to 6.3 seconds, or 23.62x faster.]]></summary>
-        <author>
-            <name>PyTorch Website</name>
         </author>
     </entry>
     <entry>

@@ -1946,16 +1946,6 @@
           "wordCount": 882,
           "title": "🎉 PyTorch Docathon H2 2024 Wrap-up 🎉",
           "imageUrl": "https://pytorch.org/assets/images/social-share.jpg"
-        },
-        {
-          "id": "https://pytorch.org/blog/reducing-checkpointing-times/",
-          "author": null,
-          "description": "Summary: With PyTorch distributed’s new asynchronous checkpointing feature, developed with feedback from IBM, we show how IBM Research Team is able to implement and reduce effective checkpointing time by a factor of 10-20x. Example: 7B model ‘down time’ for a checkpoint goes from an average of 148.8 seconds to 6.3 seconds, or 23.62x faster.",
-          "link": "https://pytorch.org/blog/reducing-checkpointing-times/",
-          "publishedOn": "2024-06-12T07:00:00.000Z",
-          "wordCount": 1598,
-          "title": "Reducing Model Checkpointing Times by Over 10x with PyTorch Distributed Asynchronous Checkpointing",
-          "imageUrl": "https://pytorch.org/assets/images/social-share.jpg"
         }
       ]
     },
