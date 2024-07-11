@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-07-11T13:19:51.783Z</updated>
+    <updated>2024-07-11T14:15:46.180Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[OpenAI blocks API traffic from China]]></title>
+        <id>https://languagelog.ldc.upenn.edu/nll/?p=64973</id>
+        <link href="https://languagelog.ldc.upenn.edu/nll/?p=64973&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=openai-blocks-api-traffic-from-china"/>
+        <updated>2024-07-11T13:43:00.000Z</updated>
+        <summary type="html"><![CDATA[Screenshot of emails circulating on social media:     Naturally, Chinese AI developers are seriously concerned about this exclusion.  See this balanced report and many others with differing viewpoints available on the internet: "Why has OpenAI blocked API traffic from China?  What impact would this have on Chinese AI companies? Where does China stand on […]]]></summary>
+        <author>
+            <name>Victor Mair</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Environmental effects on language change]]></title>
         <id>https://languagelog.ldc.upenn.edu/nll/?p=64997</id>
@@ -1540,16 +1550,6 @@ The context is finding a polynomial of degree at most $n$ that passes through $n
         <summary type="html"><![CDATA[Summary: With PyTorch distributed’s new asynchronous checkpointing feature, developed with feedback from IBM, we show how IBM Research Team is able to implement and reduce effective checkpointing time by a factor of 10-20x. Example: 7B model ‘down time’ for a checkpoint goes from an average of 148.8 seconds to 6.3 seconds, or 23.62x faster.]]></summary>
         <author>
             <name>PyTorch Website</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Not]]></title>
-        <id>https://languagelog.ldc.upenn.edu/nll/?p=64514</id>
-        <link href="https://languagelog.ldc.upenn.edu/nll/?p=64514&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=not"/>
-        <updated>2024-06-12T02:09:04.000Z</updated>
-        <summary type="html"><![CDATA[Lately I've been seeing greater use of this kind of sentence structure:  "He is an awesome hero — not".  And (mis)negation has always been a favorite topic for discussion on Language Log.  Consequently, I'm calling to your attention two recent publications on "not". "'Not' in the Brain and Behavior." Cas W. Coopmans, Anna Mai, Andrea […]]]></summary>
-        <author>
-            <name>Victor Mair</name>
         </author>
     </entry>
     <entry>
