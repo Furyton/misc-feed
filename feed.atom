@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-07-12T22:15:39.445Z</updated>
+    <updated>2024-07-12T23:16:14.292Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Graphic Contexts Determine Characters' Functions]]></title>
+        <id>https://languagelog.ldc.upenn.edu/nll/?p=65011</id>
+        <link href="https://languagelog.ldc.upenn.edu/nll/?p=65011&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=graphic-contexts-determine-characters-functions"/>
+        <updated>2024-07-12T23:07:39.000Z</updated>
+        <summary type="html"><![CDATA[[This is a guest post by J. Marshall Unger.] I do not believe it is useful, let alone necessary, to classify every character of a writing system as a phonogram, logogram, syllabogram, logosyllabogram, or any other kind of “gram.” Characters function logographically or phonographically depending on the degree to which they reflect the phonological, as […]]]></summary>
+        <author>
+            <name>Victor Mair</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nature snapshots]]></title>
+        <id>http://xianblog.wordpress.com/?p=56645</id>
+        <link href="https://xianblog.wordpress.com/2024/07/13/nature-snapshots-3/"/>
+        <updated>2024-07-12T22:24:27.000Z</updated>
+        <summary type="html"><![CDATA[As I was waiting for my wife when visiting the Doges’ Palace in Venice last week, I read most of one of the issues of Nature I had brought with me to the Serenissima (after they arrived by bulk the week before for unclear reasons). One of the editorials is about AI-assisted design of mathematical […]]]></summary>
+        <author>
+            <name>xi'an</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Holy Wars... The Probability Two]]></title>
         <id>https://www.argmin.net/p/holy-wars-the-probability-two</id>
@@ -1550,16 +1570,6 @@ The context is finding a polynomial of degree at most $n$ that passes through $n
         <summary type="html"><![CDATA[Meehl's Philosophical Psychology, Interlude 3.]]></summary>
         <author>
             <name>Ben Recht</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI plagiarism again]]></title>
-        <id>https://languagelog.ldc.upenn.edu/nll/?p=64551</id>
-        <link href="https://languagelog.ldc.upenn.edu/nll/?p=64551&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=ai-plagiarism-again"/>
-        <updated>2024-06-13T11:07:21.000Z</updated>
-        <summary type="html"><![CDATA[Along with concerns about hallucinations and learned bias, there's increasing evidence that generative AI systems sometimes commit what would obviously be plagiarim if a human did it. One particularly striking example is discussed in a recent article by Randall Lane, editor of Forbes Magazine: "Why Perplexity’s Cynical Theft Represents Everything That Could Go Wrong With […]]]></summary>
-        <author>
-            <name>Mark Liberman</name>
         </author>
     </entry>
     <entry>

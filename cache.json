@@ -2284,6 +2284,16 @@
       "siteUrl": "https://xianblog.wordpress.com",
       "articles": [
         {
+          "id": "http://xianblog.wordpress.com/?p=56645",
+          "author": "xi'an",
+          "description": "As I was waiting for my wife when visiting the Doges’ Palace in Venice last week, I read most of one of the issues of Nature I had brought with me to the Serenissima (after they arrived by bulk the week before for unclear reasons). One of the editorials is about AI-assisted design of mathematical […]",
+          "link": "https://xianblog.wordpress.com/2024/07/13/nature-snapshots-3/",
+          "publishedOn": "2024-07-12T22:24:27.000Z",
+          "wordCount": 2676,
+          "title": "Nature snapshots",
+          "imageUrl": "https://media.springernature.com/w200/springer-static/cover-hires/journal/41586/629/8012"
+        },
+        {
           "id": "http://xianblog.wordpress.com/?p=56626",
           "author": "xi'an",
           "description": "Visit the post for more.",
@@ -2735,6 +2745,16 @@
       "feedUrl": "https://languagelog.ldc.upenn.edu/nll/?feed=rss2",
       "siteUrl": "https://languagelog.ldc.upenn.edu/nll",
       "articles": [
+        {
+          "id": "https://languagelog.ldc.upenn.edu/nll/?p=65011",
+          "author": "Victor Mair",
+          "description": "[This is a guest post by J. Marshall Unger.] I do not believe it is useful, let alone necessary, to classify every character of a writing system as a phonogram, logogram, syllabogram, logosyllabogram, or any other kind of “gram.” Characters function logographically or phonographically depending on the degree to which they reflect the phonological, as […]",
+          "link": "https://languagelog.ldc.upenn.edu/nll/?p=65011&utm_source=rss&utm_medium=rss&utm_campaign=graphic-contexts-determine-characters-functions",
+          "publishedOn": "2024-07-12T23:07:39.000Z",
+          "wordCount": 2348,
+          "title": "Graphic Contexts Determine Characters' Functions",
+          "imageUrl": null
+        },
         {
           "id": "https://languagelog.ldc.upenn.edu/nll/?p=65014",
           "author": "Mark Liberman",
@@ -3313,16 +3333,6 @@
           "publishedOn": "2024-06-14T10:36:49.000Z",
           "wordCount": 2848,
           "title": "\"Dutch roll\"",
-          "imageUrl": null
-        },
-        {
-          "id": "https://languagelog.ldc.upenn.edu/nll/?p=64551",
-          "author": "Mark Liberman",
-          "description": "Along with concerns about hallucinations and learned bias, there's increasing evidence that generative AI systems sometimes commit what would obviously be plagiarim if a human did it. One particularly striking example is discussed in a recent article by Randall Lane, editor of Forbes Magazine: \"Why Perplexity’s Cynical Theft Represents Everything That Could Go Wrong With […]",
-          "link": "https://languagelog.ldc.upenn.edu/nll/?p=64551&utm_source=rss&utm_medium=rss&utm_campaign=ai-plagiarism-again",
-          "publishedOn": "2024-06-13T11:07:21.000Z",
-          "wordCount": 2363,
-          "title": "AI plagiarism again",
           "imageUrl": null
         }
       ]
