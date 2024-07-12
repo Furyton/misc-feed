@@ -1431,6 +1431,16 @@
       "siteUrl": "https://kexue.fm/",
       "articles": [
         {
+          "id": "https://kexue.fm/archives/10226",
+          "author": "苏剑林",
+          "description": "众所周知，LoRA是一种常见的参数高效的微调方法，我们在《梯度视角下的LoRA：简介、分析、猜测及推广》做过简单介绍。LoRA利用低秩分解来降低微调参数量，节省微调显存，同时训练好的权重可以合并...",
+          "link": "https://kexue.fm/archives/10226",
+          "publishedOn": "2024-07-12T03:00:00.000Z",
+          "wordCount": 1737,
+          "title": "对齐全量微调！这是我看过最机智的LoRA改进",
+          "imageUrl": null
+        },
+        {
           "id": "https://kexue.fm/archives/10197",
           "author": "苏剑林",
           "description": "这篇文章我们继续来闭门造车，分享一下笔者最近对多模态学习的一些新理解。在前文《“闭门造车”之多模态思路浅谈（一）：无损》中，我们强调了无损输入对于理想的多模型模态的重要性。如果这个观点成立，那么...",
@@ -1702,22 +1712,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substack-post-media.s3.amazonaws.com/public/images/b394e5da-a266-47f8-a020-4633f590556a_840x599.jpeg"
-        },
-        {
-          "id": "https://www.argmin.net/p/the-technical-depths-of-crud",
-          "author": "Ben Recht",
-          "description": "Meehl's Philosophical Psychology, Lecture 7, part 1.",
-          "link": "https://www.argmin.net/p/the-technical-depths-of-crud",
-          "publishedOn": "2024-06-12T14:48:39.000Z",
-          "wordCount": null,
-          "title": "The Technical Depths of Crud",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substack-post-media.s3.amazonaws.com/public/images/d3d72104-5db7-4188-8a5d-4b94cddc4ac5_840x600.jpeg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substack-post-media.s3.amazonaws.com/public/images/d3d72104-5db7-4188-8a5d-4b94cddc4ac5_840x600.jpeg"
         }
       ]
     },
@@ -2206,22 +2200,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substack-post-media.s3.amazonaws.com/public/images/b394e5da-a266-47f8-a020-4633f590556a_840x599.jpeg"
-        },
-        {
-          "id": "https://www.argmin.net/p/the-technical-depths-of-crud",
-          "author": "Ben Recht",
-          "description": "Meehl's Philosophical Psychology, Lecture 7, part 1.",
-          "link": "https://www.argmin.net/p/the-technical-depths-of-crud",
-          "publishedOn": "2024-06-12T14:48:39.000Z",
-          "wordCount": null,
-          "title": "The Technical Depths of Crud",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substack-post-media.s3.amazonaws.com/public/images/d3d72104-5db7-4188-8a5d-4b94cddc4ac5_840x600.jpeg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substack-post-media.s3.amazonaws.com/public/images/d3d72104-5db7-4188-8a5d-4b94cddc4ac5_840x600.jpeg"
         }
       ]
     },

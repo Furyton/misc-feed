@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-07-12T02:33:40.261Z</updated>
+    <updated>2024-07-12T03:19:22.906Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[对齐全量微调！这是我看过最机智的LoRA改进]]></title>
+        <id>https://kexue.fm/archives/10226</id>
+        <link href="https://kexue.fm/archives/10226"/>
+        <updated>2024-07-12T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[众所周知，LoRA是一种常见的参数高效的微调方法，我们在《梯度视角下的LoRA：简介、分析、猜测及推广》做过简单介绍。LoRA利用低秩分解来降低微调参数量，节省微调显存，同时训练好的权重可以合并...]]></summary>
+        <author>
+            <name>苏剑林</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Top Chinese general loses his chastity]]></title>
         <id>https://languagelog.ldc.upenn.edu/nll/?p=65005</id>
@@ -1540,26 +1550,6 @@ The context is finding a polynomial of degree at most $n$ that passes through $n
         <summary type="html"><![CDATA[I would like to discuss the following remarkable paper posted on the arXiv in June 2023. Effect of Non-unital Noise on Random Circuit Sampling, by Bill Fefferman, Soumik Ghosh, Michael Gullans, Kohdai Kuroiwa, and Kunal Sharma’s  Abstract: In this work, … Continue reading →]]></summary>
         <author>
             <name>Gil Kalai</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Technical Depths of Crud]]></title>
-        <id>https://www.argmin.net/p/the-technical-depths-of-crud</id>
-        <link href="https://www.argmin.net/p/the-technical-depths-of-crud"/>
-        <updated>2024-06-12T14:48:39.000Z</updated>
-        <summary type="html"><![CDATA[Meehl's Philosophical Psychology, Lecture 7, part 1.]]></summary>
-        <author>
-            <name>Ben Recht</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Technical Depths of Crud]]></title>
-        <id>https://www.argmin.net/p/the-technical-depths-of-crud</id>
-        <link href="https://www.argmin.net/p/the-technical-depths-of-crud"/>
-        <updated>2024-06-12T14:48:39.000Z</updated>
-        <summary type="html"><![CDATA[Meehl's Philosophical Psychology, Lecture 7, part 1.]]></summary>
-        <author>
-            <name>Ben Recht</name>
         </author>
     </entry>
     <entry>
