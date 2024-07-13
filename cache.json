@@ -1469,16 +1469,6 @@
           "wordCount": 2173,
           "title": "重温SSM（三）：HiPPO的高效计算（S4）",
           "imageUrl": null
-        },
-        {
-          "id": "https://kexue.fm/archives/10145",
-          "author": "苏剑林",
-          "description": "不论是在基础的分类任务中，还是如今无处不在的注意力机制中，概率分布的构建都是一个关键步骤。具体来说，就是将一个$n$维的任意向量，转换为一个$n$元的离散型概率分布。众所周知，这个问题的标准答案...",
-          "link": "https://kexue.fm/archives/10145",
-          "publishedOn": "2024-06-14T08:01:00.000Z",
-          "wordCount": 2197,
-          "title": "通向概率分布之路：盘点Softmax及其替代品",
-          "imageUrl": null
         }
       ]
     },

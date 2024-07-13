@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-07-13T19:13:22.131Z</updated>
+    <updated>2024-07-13T20:16:56.172Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -1530,16 +1530,6 @@ The context is finding a polynomial of degree at most $n$ that passes through $n
         <summary type="html"><![CDATA[Simon Hradecky, "Accident: Southwest B38M enroute on May 25th 2024, Dutch Roll", The Aviation Herald 6/13/2024: A Southwest Airlines Boeing 737-8 MAX, registration N8825Q performing flight WN-746 from Phoenix,AZ to Oakland,CA (USA) with 175 passengers and 6 crew, was enroute at FL320 when the aircraft experienced Dutch Roll. The crew was able to regain control […]]]></summary>
         <author>
             <name>Mark Liberman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[通向概率分布之路：盘点Softmax及其替代品]]></title>
-        <id>https://kexue.fm/archives/10145</id>
-        <link href="https://kexue.fm/archives/10145"/>
-        <updated>2024-06-14T08:01:00.000Z</updated>
-        <summary type="html"><![CDATA[不论是在基础的分类任务中，还是如今无处不在的注意力机制中，概率分布的构建都是一个关键步骤。具体来说，就是将一个$n$维的任意向量，转换为一个$n$元的离散型概率分布。众所周知，这个问题的标准答案...]]></summary>
-        <author>
-            <name>苏剑林</name>
         </author>
     </entry>
     <entry>
