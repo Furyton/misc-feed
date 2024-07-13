@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-07-13T10:16:15.146Z</updated>
+    <updated>2024-07-13T11:14:12.536Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[IRL reverse dictionary]]></title>
+        <id>https://languagelog.ldc.upenn.edu/nll/?p=65026</id>
+        <link href="https://languagelog.ldc.upenn.edu/nll/?p=65026&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=irl-reverse-dictionary"/>
+        <updated>2024-07-13T11:10:01.000Z</updated>
+        <summary type="html"><![CDATA[… or maybe I should say "associative memory"? Or whatever we should call the emerging modes of interaction with Meta Ray-Bans? Anyhow, here's a recently re-published Girls With Slingshots comic: The comments include a number of old reference-librarian anecdotes. Of course, web search algorithms have been evolving towards the capabilities illustrated in the comic, as […]]]></summary>
+        <author>
+            <name>Mark Liberman</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Graphic Contexts Determine Characters' Functions]]></title>
         <id>https://languagelog.ldc.upenn.edu/nll/?p=65011</id>
@@ -1530,26 +1540,6 @@ The context is finding a polynomial of degree at most $n$ that passes through $n
         <summary type="html"><![CDATA[不论是在基础的分类任务中，还是如今无处不在的注意力机制中，概率分布的构建都是一个关键步骤。具体来说，就是将一个$n$维的任意向量，转换为一个$n$元的离散型概率分布。众所周知，这个问题的标准答案...]]></summary>
         <author>
             <name>苏剑林</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Noise schedules considered harmful]]></title>
-        <id>https://sander.ai/2024/06/14/noise-schedules.html</id>
-        <link href="https://sander.ai/2024/06/14/noise-schedules.html"/>
-        <updated>2024-06-13T23:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The noise schedule is a key design parameter for diffusion models. Unfortunately it is a superfluous abstraction that entangles several different model aspects. Do we really need it?]]></summary>
-        <author>
-            <name>Sander Dieleman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[not a demonstration of anything? [jatp]]]></title>
-        <id>http://xianblog.wordpress.com/?p=56287</id>
-        <link href="https://xianblog.wordpress.com/2024/06/14/not-a-demonstration-of-anything-jatp/"/>
-        <updated>2024-06-13T22:24:34.000Z</updated>
-        <summary type="html"><![CDATA[Visit the post for more.]]></summary>
-        <author>
-            <name>xi'an</name>
         </author>
     </entry>
     <entry>

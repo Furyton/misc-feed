@@ -1731,18 +1731,7 @@
       "title": "Sander Dieleman",
       "feedUrl": "https://benanne.github.io/feed",
       "siteUrl": "https://sander.ai/",
-      "articles": [
-        {
-          "id": "https://sander.ai/2024/06/14/noise-schedules.html",
-          "author": null,
-          "description": "The noise schedule is a key design parameter for diffusion models. Unfortunately it is a superfluous abstraction that entangles several different model aspects. Do we really need it?",
-          "link": "https://sander.ai/2024/06/14/noise-schedules.html",
-          "publishedOn": "2024-06-13T23:00:00.000Z",
-          "wordCount": 7022,
-          "title": "Noise schedules considered harmful",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Jeremy Jordan",
@@ -2650,16 +2639,6 @@
           "wordCount": 2720,
           "title": "a journal of the chaos, conquest, war, famine, and death year",
           "imageUrl": "https://brewminate.com/wp-content/uploads/2020/04/041220-32-History-Daniel-Defoe-Literature-Plague-Disease.jpg"
-        },
-        {
-          "id": "http://xianblog.wordpress.com/?p=56287",
-          "author": "xi'an",
-          "description": "Visit the post for more.",
-          "link": "https://xianblog.wordpress.com/2024/06/14/not-a-demonstration-of-anything-jatp/",
-          "publishedOn": "2024-06-13T22:24:34.000Z",
-          "wordCount": 2471,
-          "title": "not a demonstration of anything? [jatp]",
-          "imageUrl": "https://xianblog.wordpress.com/wp-content/uploads/2024/05/1716717572937-e1716718332370.jpg"
         }
       ]
     },
@@ -2713,6 +2692,16 @@
       "feedUrl": "https://languagelog.ldc.upenn.edu/nll/?feed=rss2",
       "siteUrl": "https://languagelog.ldc.upenn.edu/nll",
       "articles": [
+        {
+          "id": "https://languagelog.ldc.upenn.edu/nll/?p=65026",
+          "author": "Mark Liberman",
+          "description": "… or maybe I should say \"associative memory\"? Or whatever we should call the emerging modes of interaction with Meta Ray-Bans? Anyhow, here's a recently re-published Girls With Slingshots comic: The comments include a number of old reference-librarian anecdotes. Of course, web search algorithms have been evolving towards the capabilities illustrated in the comic, as […]",
+          "link": "https://languagelog.ldc.upenn.edu/nll/?p=65026&utm_source=rss&utm_medium=rss&utm_campaign=irl-reverse-dictionary",
+          "publishedOn": "2024-07-13T11:10:01.000Z",
+          "wordCount": 2198,
+          "title": "IRL reverse dictionary",
+          "imageUrl": null
+        },
         {
           "id": "https://languagelog.ldc.upenn.edu/nll/?p=65011",
           "author": "Victor Mair",
