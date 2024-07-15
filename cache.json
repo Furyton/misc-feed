@@ -2231,6 +2231,16 @@
       "siteUrl": "https://xianblog.wordpress.com",
       "articles": [
         {
+          "id": "http://xianblog.wordpress.com/?p=56494",
+          "author": "xi'an",
+          "description": "Visit the post for more.",
+          "link": "https://xianblog.wordpress.com/2024/07/16/sceaux-jazz-festival-2024/",
+          "publishedOn": "2024-07-15T22:24:57.000Z",
+          "wordCount": 2349,
+          "title": "Sceaux Jazz Festival 2024",
+          "imageUrl": "https://www.parisjazzclub.net/medias/festivals/208-sceaux-jazz-festival/images/sceaux-jazz-festival-sm.jpg"
+        },
+        {
           "id": "http://xianblog.wordpress.com/?p=56446",
           "author": "xi'an",
           "description": "I only recently read the (foundational!) paper on Foundations of Bayesian learnin from synthetic data by Harrison Wilde, Jack Jewson, Sebastian Volmer [all associated with Warwick at some point] and [my long time friend]  Chris Holmes, that merges Bayesian inference with differential privacy constraints thru generalised / Gibbs interface. Recouping with the M-open perspective in […]",
