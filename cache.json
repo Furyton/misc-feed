@@ -1431,6 +1431,16 @@
       "siteUrl": "https://kexue.fm/",
       "articles": [
         {
+          "id": "https://kexue.fm/archives/10240",
+          "author": "苏剑林",
+          "description": "前段时间，笔者无意看到了一个“低糖电饭锅”的概念（也叫“低淀粉电饭锅”），开始以为是什么新科技产物，再仔细一看之后才发现，原来就是煮饭的同时沥出一点米汤，米汤中包含了一点淀粉，如果把米汤倒掉，那...",
+          "link": "https://kexue.fm/archives/10240",
+          "publishedOn": "2024-07-17T02:19:00.000Z",
+          "wordCount": 1374,
+          "title": "【生活杂记】用电饭锅来煮米汤",
+          "imageUrl": null
+        },
+        {
           "id": "https://kexue.fm/archives/10226",
           "author": "苏剑林",
           "description": "众所周知，LoRA是一种常见的参数高效的微调方法，我们在《梯度视角下的LoRA：简介、分析、猜测及推广》做过简单介绍。LoRA利用低秩分解来降低微调参数量，节省微调显存，同时训练好的权重可以合并...",

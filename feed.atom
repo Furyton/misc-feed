@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-07-17T01:14:59.692Z</updated>
+    <updated>2024-07-17T02:35:05.387Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【生活杂记】用电饭锅来煮米汤]]></title>
+        <id>https://kexue.fm/archives/10240</id>
+        <link href="https://kexue.fm/archives/10240"/>
+        <updated>2024-07-17T02:19:00.000Z</updated>
+        <summary type="html"><![CDATA[前段时间，笔者无意看到了一个“低糖电饭锅”的概念（也叫“低淀粉电饭锅”），开始以为是什么新科技产物，再仔细一看之后才发现，原来就是煮饭的同时沥出一点米汤，米汤中包含了一点淀粉，如果把米汤倒掉，那...]]></summary>
+        <author>
+            <name>苏剑林</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[scalability of Metropolis-within-Gibbs schemes]]></title>
         <id>http://xianblog.wordpress.com/?p=56517</id>
