@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-07-18T15:19:12.933Z</updated>
+    <updated>2024-07-18T16:20:50.035Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -14,6 +14,16 @@
         <summary type="html"><![CDATA[Are Italians by nature more manually voluble than other people?   Selected readings "Learning to speak Sicilian" (2/10/20) — some similar hand gestures "Baby talk" (12/21/10) "Baby talk, part 2" (8/19/18) "Twin talk" (3/31/11) — watch video here and here "The babbling phase: ranting toddler speaks out" (9/2/10) "Ask LL: parents' beliefs or infants' abilities?" […]]]></summary>
         <author>
             <name>Victor Mair</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Interview with Yao Xiao, scikit-learn Team Member]]></title>
+        <id>https://blog.scikit-learn.org/team/yao-interview/</id>
+        <link href="https://blog.scikit-learn.org/team/yao-interview/"/>
+        <updated>2024-07-18T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Author: Reshama Shaikh , Yao Xiao]]></summary>
+        <author>
+            <name>scikit-learn Blog</name>
         </author>
     </entry>
     <entry>

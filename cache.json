@@ -1818,7 +1818,18 @@
       "title": "scikit-learn Blog",
       "feedUrl": "https://blog.scikit-learn.org/feed",
       "siteUrl": "https://blog.scikit-learn.org/",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://blog.scikit-learn.org/team/yao-interview/",
+          "author": null,
+          "description": "Author: Reshama Shaikh , Yao Xiao",
+          "link": "https://blog.scikit-learn.org/team/yao-interview/",
+          "publishedOn": "2024-07-18T00:00:00.000Z",
+          "wordCount": 1046,
+          "title": "Interview with Yao Xiao, scikit-learn Team Member",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "Machine Learning (Theory)",
