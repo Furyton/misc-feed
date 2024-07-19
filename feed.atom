@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-07-19T19:14:34.975Z</updated>
+    <updated>2024-07-19T20:19:08.794Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -1520,16 +1520,6 @@ The context is finding a polynomial of degree at most $n$ that passes through $n
         <summary type="html"><![CDATA["Mandarin Leaves a Manhattan Courtroom Lost in Translation:  Trial of Guo Wengui shows how linguistic issues can trip up China-related cases", by James T. Areddy, WSJ (6/18/24) ——— The New York trial of a Chinese businessman is Exhibit A for how language issues are gumming up federal prosecutions of Mandarin-speaking defendants. Nearly everyone in the […]]]></summary>
         <author>
             <name>Victor Mair</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[重温SSM（三）：HiPPO的高效计算（S4）]]></title>
-        <id>https://kexue.fm/archives/10162</id>
-        <link href="https://kexue.fm/archives/10162"/>
-        <updated>2024-06-20T07:15:00.000Z</updated>
-        <summary type="html"><![CDATA[前面我们用两篇文章《重温SSM（一）：线性系统和HiPPO矩阵》和《重温SSM（二）：HiPPO的一些遗留问题》介绍了HiPPO的思想和推导——通过正交函数基对持续更新的函数进行实时逼近，其拟合...]]></summary>
-        <author>
-            <name>苏剑林</name>
         </author>
     </entry>
     <entry>
