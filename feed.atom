@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-07-21T03:19:35.119Z</updated>
+    <updated>2024-07-21T04:19:11.305Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -1481,16 +1481,6 @@ The context is finding a polynomial of degree at most $n$ that passes through $n
 \[ f(x) = \sum_{i=0}^n y_i \cdot \prod_{j \neq i}\frac{x - x_j}{x_i - x_j} \] I wrote a 2014 article deriving this more gently, and implementing it in Haskell for secret sharing.]]></summary>
         <author>
             <name>Math ∩ Programming</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Exercising the brain:  handwriting vs. typing]]></title>
-        <id>https://languagelog.ldc.upenn.edu/nll/?p=64638</id>
-        <link href="https://languagelog.ldc.upenn.edu/nll/?p=64638&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=exercising-the-brain-handwriting-vs-typing"/>
-        <updated>2024-06-21T15:40:46.000Z</updated>
-        <summary type="html"><![CDATA[Elegant writing by hand has always been a trial for me.  The harder I try to make my handwriting presentable, the more it turns out looking like chicken scratches.  I'll never forget how my second grade teacher, Mrs. Kiefer, was in despair over my poor penmanship, almost to the point of crying.  "Vicky," she would […]]]></summary>
-        <author>
-            <name>Victor Mair</name>
         </author>
     </entry>
     <entry>
