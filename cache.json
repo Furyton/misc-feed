@@ -1934,16 +1934,6 @@
           "wordCount": 258,
           "title": "Detecting field names with C++ metaprogramming",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.jeremykun.com/shortform/2024-06-21-1107/",
-          "author": null,
-          "description": "In my studies of the Remez algorithm, I learned about the barycentric Lagrange interpolation formula.\nThe context is finding a polynomial of degree at most $n$ that passes through $n+1$ points $(x_0, y_0), \\dots, (x_n, y_n)$. The classical Lagrange interpolation formula is what you’d write down if you “just did it.”\n\\[ f(x) = \\sum_{i=0}^n y_i \\cdot \\prod_{j \\neq i}\\frac{x - x_j}{x_i - x_j} \\] I wrote a 2014 article deriving this more gently, and implementing it in Haskell for secret sharing.",
-          "link": "https://www.jeremykun.com/shortform/2024-06-21-1107/",
-          "publishedOn": "2024-06-21T18:07:50.000Z",
-          "wordCount": 607,
-          "title": "Barycentric Lagrange Interpolation",
-          "imageUrl": null
         }
       ]
     },
