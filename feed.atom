@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-07-21T09:17:59.960Z</updated>
+    <updated>2024-07-21T10:17:02.069Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Reading Old Turkic runiform inscriptions with the aid of 3D simulation]]></title>
+        <id>https://languagelog.ldc.upenn.edu/nll/?p=65097</id>
+        <link href="https://languagelog.ldc.upenn.edu/nll/?p=65097&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=reading-old-turkic-runiform-inscriptions-with-the-aid-of-3d-simulation"/>
+        <updated>2024-07-21T09:41:56.000Z</updated>
+        <summary type="html"><![CDATA["Augmenting parametric data synthesis with 3D simulation for OCR on Old Turkic runiform inscriptions: A case study of the Kül Tegin inscription", Mehmet Oğuz Derin and Erdem Uçar, Journal of Old Turkic Studies (7/21/24) Abstract Optical character recognition for historical scripts like Old Turkic runiform script poses significant challenges due to the need for abundant […]]]></summary>
+        <author>
+            <name>Victor Mair</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[MCMC for Bayesian nonparametric mixture modeling under differential privacy]]></title>
         <id>http://xianblog.wordpress.com/?p=56772</id>
