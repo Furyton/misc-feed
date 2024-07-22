@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-07-22T08:22:32.127Z</updated>
+    <updated>2024-07-22T09:21:21.121Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Pushing Behrend Around II]]></title>
+        <id>http://gilkalai.wordpress.com/?p=26586</id>
+        <link href="https://gilkalai.wordpress.com/2024/07/22/pushing-behrend-around-ii/"/>
+        <updated>2024-07-22T09:14:40.000Z</updated>
+        <summary type="html"><![CDATA[I will report on Christian Elsholtz, Zach Hunter, Laura Proske, Lisa Sauermann’s breakthrough paper Sets without arithmetic progressions in integers and over finite fields. The paper improves Behrend’s 1946 construction for 3-AP free sets of integers. An important aspect of … Continue reading →]]></summary>
+        <author>
+            <name>Gil Kalai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pushing Behrend Around II]]></title>
+        <id>http://gilkalai.wordpress.com/?p=26586</id>
+        <link href="https://gilkalai.wordpress.com/2024/07/22/pushing-behrend-around-ii/"/>
+        <updated>2024-07-22T09:14:40.000Z</updated>
+        <summary type="html"><![CDATA[I will report on Christian Elsholtz, Zach Hunter, Laura Proske, Lisa Sauermann’s breakthrough paper Sets without arithmetic progressions in integers and over finite fields. The paper improves Behrend’s 1946 construction for 3-AP free sets of integers. An important aspect of … Continue reading →]]></summary>
+        <author>
+            <name>Gil Kalai</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Deep Dive on the Hopper TMA Unit for FP8 GEMMs]]></title>
         <id>https://pytorch.org/blog/hopper-tma-unit/</id>
