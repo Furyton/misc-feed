@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-07-22T13:20:15.438Z</updated>
+    <updated>2024-07-22T14:16:44.059Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -1509,16 +1509,6 @@ Say I want to detect if a struct has a field size of type int. Create two templa
         <summary type="html"><![CDATA[Over the past year, Mixture of Experts (MoE) models have surged in popularity, fueled by powerful open-source models like DBRX, Mixtral, DeepSeek, and many more. In this blog post, we’ll talk about how we scale to over three thousand GPUs using PyTorch Distributed and MegaBlocks, an efficient open-source MoE implementation in PyTorch.]]></summary>
         <author>
             <name>PyTorch Website</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The semiotics of barbed wire fence]]></title>
-        <id>https://languagelog.ldc.upenn.edu/nll/?p=64579</id>
-        <link href="https://languagelog.ldc.upenn.edu/nll/?p=64579&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=the-semiotics-of-barbed-wire-fence"/>
-        <updated>2024-06-23T01:24:51.000Z</updated>
-        <summary type="html"><![CDATA[A week ago, I was in Gothenberg, Nebraska and went to the local historical museum.  I asked the volunteers there what was the most unusual, interesting, and important exhibit they had.  One of them, Barbara Fisher, thought for a moment, then said, "We have a unique collection of barbed wire fence downstairs, each strand of […]]]></summary>
-        <author>
-            <name>Victor Mair</name>
         </author>
     </entry>
     <entry>
