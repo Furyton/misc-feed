@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-07-22T18:22:27.188Z</updated>
+    <updated>2024-07-22T19:14:25.485Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -1499,16 +1499,6 @@ Say I want to detect if a struct has a field size of type int. Create two templa
         <summary type="html"><![CDATA[Diego Salméron and I just arXived a paper on integral priors for multiple model comparison, about deriving reference priors for multiple hypothesis testing. As (so-called) noninformative priors constructed for estimation purposes are usually not appropriate for model selection and testing due to their improperness, Jeffreys-Lindley paradoxes and the like, the methodology of integral priors was […]]]></summary>
         <author>
             <name>xi'an</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Training MoEs at Scale with PyTorch]]></title>
-        <id>https://pytorch.org/blog/training-moes/</id>
-        <link href="https://pytorch.org/blog/training-moes/"/>
-        <updated>2024-06-23T07:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Over the past year, Mixture of Experts (MoE) models have surged in popularity, fueled by powerful open-source models like DBRX, Mixtral, DeepSeek, and many more. In this blog post, we’ll talk about how we scale to over three thousand GPUs using PyTorch Distributed and MegaBlocks, an efficient open-source MoE implementation in PyTorch.]]></summary>
-        <author>
-            <name>PyTorch Website</name>
         </author>
     </entry>
     <entry>

@@ -1931,16 +1931,6 @@
           "wordCount": 1175,
           "title": "Powering the AI Revolution: The PyTorch Documentary",
           "imageUrl": "https://pytorch.org/assets/images/social-share.jpg"
-        },
-        {
-          "id": "https://pytorch.org/blog/training-moes/",
-          "author": null,
-          "description": "Over the past year, Mixture of Experts (MoE) models have surged in popularity, fueled by powerful open-source models like DBRX, Mixtral, DeepSeek, and many more. In this blog post, we’ll talk about how we scale to over three thousand GPUs using PyTorch Distributed and MegaBlocks, an efficient open-source MoE implementation in PyTorch.",
-          "link": "https://pytorch.org/blog/training-moes/",
-          "publishedOn": "2024-06-23T07:00:00.000Z",
-          "wordCount": 2593,
-          "title": "Training MoEs at Scale with PyTorch",
-          "imageUrl": "https://pytorch.org/assets/images/social-share.jpg"
         }
       ]
     },
