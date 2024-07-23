@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-07-23T14:16:07.474Z</updated>
+    <updated>2024-07-23T15:19:07.475Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Inference and The Psychoanalytic Interview]]></title>
+        <id>https://www.argmin.net/p/inference-and-the-psychoanalytic</id>
+        <link href="https://www.argmin.net/p/inference-and-the-psychoanalytic"/>
+        <updated>2024-07-23T14:59:57.000Z</updated>
+        <summary type="html"><![CDATA[Meehl's Philosophical Psychology, Lecture 11.]]></summary>
+        <author>
+            <name>Ben Recht</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Inference and The Psychoanalytic Interview]]></title>
+        <id>https://www.argmin.net/p/inference-and-the-psychoanalytic</id>
+        <link href="https://www.argmin.net/p/inference-and-the-psychoanalytic"/>
+        <updated>2024-07-23T14:59:57.000Z</updated>
+        <summary type="html"><![CDATA[Meehl's Philosophical Psychology, Lecture 11.]]></summary>
+        <author>
+            <name>Ben Recht</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[FairProof : Confidential and Certifiable Fairness for Neural Networks]]></title>
         <id>https://ucsdml.github.io//2024/07/23/fairproof.html</id>
