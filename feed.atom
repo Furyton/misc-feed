@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-07-23T12:33:13.645Z</updated>
+    <updated>2024-07-23T13:19:56.399Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[FairProof : Confidential and Certifiable Fairness for Neural Networks]]></title>
+        <id>https://ucsdml.github.io//2024/07/23/fairproof.html</id>
+        <link href="https://ucsdml.github.io//2024/07/23/fairproof.html"/>
+        <updated>2024-07-23T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[ML]]></summary>
+        <author>
+            <name>UCSD Machine Learning Group</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[information fusion]]></title>
         <id>http://xianblog.wordpress.com/?p=56790</id>

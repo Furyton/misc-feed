@@ -1433,7 +1433,18 @@
       "title": "UCSD Machine Learning Group",
       "feedUrl": "https://ucsdml.github.io//feed.xml",
       "siteUrl": "https://ucsdml.github.io//",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://ucsdml.github.io//2024/07/23/fairproof.html",
+          "author": null,
+          "description": "ML",
+          "link": "https://ucsdml.github.io//2024/07/23/fairproof.html",
+          "publishedOn": "2024-07-23T00:00:00.000Z",
+          "wordCount": 981,
+          "title": "FairProof : Confidential and Certifiable Fairness for Neural Networks",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "科学空间|Scientific Spaces",
