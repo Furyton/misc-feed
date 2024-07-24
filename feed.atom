@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-07-24T22:16:10.236Z</updated>
+    <updated>2024-07-24T23:17:20.447Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[dog’s chosen?!]]></title>
+        <id>http://xianblog.wordpress.com/?p=56866</id>
+        <link href="https://xianblog.wordpress.com/2024/07/25/dogs-chosen/"/>
+        <updated>2024-07-24T22:24:25.000Z</updated>
+        <summary type="html"><![CDATA[“It was God alone who prevented the unthinkable from happening. We will FEAR NOT, but instead remain resilient in our faith and defiant in the face of wickedness.” Donald Trump, 13 July 2025 “I had God on my side.” Donald Trump, 19 July 2025]]></summary>
+        <author>
+            <name>xi'an</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[PyTorch 2.4 Release Blog]]></title>
         <id>https://pytorch.org/blog/pytorch2-4/</id>
@@ -1499,16 +1509,6 @@ Say I want to detect if a struct has a field size of type int. Create two templa
         <summary type="html"><![CDATA[Meehl's Philosophical Psychology, Lecture 8, part 3.]]></summary>
         <author>
             <name>Ben Recht</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cenrtal Philadelphia]]></title>
-        <id>https://languagelog.ldc.upenn.edu/nll/?p=64681</id>
-        <link href="https://languagelog.ldc.upenn.edu/nll/?p=64681&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=cenrtal-philadelphia"/>
-        <updated>2024-06-25T10:45:31.000Z</updated>
-        <summary type="html"><![CDATA[This new sign at the intersection of Cottman Avenue and State Road has gotten a lot of news coverage: A complete and accurate account can be found here, but my favorite coverage is this: Cenrtal Phila Chester is the 18th Century stable hand who washed and waxed Ben Franklin’s donkey named "Hoagie". pic.twitter.com/MCeKkPABE3 — Dave […]]]></summary>
-        <author>
-            <name>Mark Liberman</name>
         </author>
     </entry>
     <entry>
