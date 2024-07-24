@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-07-24T18:24:24.704Z</updated>
+    <updated>2024-07-24T19:13:43.251Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[PyTorch 2.4 Release Blog]]></title>
+        <id>https://pytorch.org/blog/pytorch2-4/</id>
+        <link href="https://pytorch.org/blog/pytorch2-4/"/>
+        <updated>2024-07-24T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[We are excited to announce the release of PyTorch® 2.4 (release note)! PyTorch 2.4 adds support for the latest version of Python (3.12) for torch.compile. AOTInductor freezing gives developers running AOTInductor more performance-based optimizations by allowing the serialization of MKLDNN weights. As well, a new default TCPStore server backend utilizing libuv has been introduced which should significantly reduce initialization times for users running large-scale jobs. Finally, a new Python Custom Operator API makes it easier than before to integrate custom kernels into PyTorch, especially for torch.compile.]]></summary>
+        <author>
+            <name>PyTorch Website</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Monarch矩阵：计算高效的稀疏型矩阵分解]]></title>
         <id>https://kexue.fm/archives/10249</id>
@@ -1489,16 +1499,6 @@ Say I want to detect if a struct has a field size of type int. Create two templa
         <summary type="html"><![CDATA[This new sign at the intersection of Cottman Avenue and State Road has gotten a lot of news coverage: A complete and accurate account can be found here, but my favorite coverage is this: Cenrtal Phila Chester is the 18th Century stable hand who washed and waxed Ben Franklin’s donkey named "Hoagie". pic.twitter.com/MCeKkPABE3 — Dave […]]]></summary>
         <author>
             <name>Mark Liberman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Powering the AI Revolution: The PyTorch Documentary]]></title>
-        <id>https://pytorch.org/blog/pytorch-documentary/</id>
-        <link href="https://pytorch.org/blog/pytorch-documentary/"/>
-        <updated>2024-06-25T07:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Now live: The official PyTorch Documentary! This film unveils the authentic narrative of PyTorch’s inception, attributing its existence to a dedicated group of unsung heroes driving technological innovation.]]></summary>
-        <author>
-            <name>PyTorch Website</name>
         </author>
     </entry>
     <entry>

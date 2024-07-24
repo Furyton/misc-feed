@@ -1894,6 +1894,16 @@
       "siteUrl": "https://pytorch.org/",
       "articles": [
         {
+          "id": "https://pytorch.org/blog/pytorch2-4/",
+          "author": null,
+          "description": "We are excited to announce the release of PyTorch® 2.4 (release note)! PyTorch 2.4 adds support for the latest version of Python (3.12) for torch.compile. AOTInductor freezing gives developers running AOTInductor more performance-based optimizations by allowing the serialization of MKLDNN weights. As well, a new default TCPStore server backend utilizing libuv has been introduced which should significantly reduce initialization times for users running large-scale jobs. Finally, a new Python Custom Operator API makes it easier than before to integrate custom kernels into PyTorch, especially for torch.compile.",
+          "link": "https://pytorch.org/blog/pytorch2-4/",
+          "publishedOn": "2024-07-24T07:00:00.000Z",
+          "wordCount": 1711,
+          "title": "PyTorch 2.4 Release Blog",
+          "imageUrl": "https://pytorch.org/assets/images/social-share.jpg"
+        },
+        {
           "id": "https://pytorch.org/blog/hopper-tma-unit/",
           "author": null,
           "description": "Abstract",
@@ -1941,16 +1951,6 @@
           "publishedOn": "2024-07-03T07:00:00.000Z",
           "wordCount": 838,
           "title": "Announcing Hacker Cup AI Track at NeurIPS 2024",
-          "imageUrl": "https://pytorch.org/assets/images/social-share.jpg"
-        },
-        {
-          "id": "https://pytorch.org/blog/pytorch-documentary/",
-          "author": null,
-          "description": "Now live: The official PyTorch Documentary! This film unveils the authentic narrative of PyTorch’s inception, attributing its existence to a dedicated group of unsung heroes driving technological innovation.",
-          "link": "https://pytorch.org/blog/pytorch-documentary/",
-          "publishedOn": "2024-06-25T07:00:00.000Z",
-          "wordCount": 1175,
-          "title": "Powering the AI Revolution: The PyTorch Documentary",
           "imageUrl": "https://pytorch.org/assets/images/social-share.jpg"
         }
       ]

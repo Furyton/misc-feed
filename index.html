@@ -22,11 +22,45 @@
             data-action="toggle-accordions"
             title="Click to toggle the day, Ctrl + click to toggle all."
           >
-            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2024-07-24 datetime="2024-07-24T03:39:00.000Z">2024-07-24</time>
-            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2024-07-24 datetime="2024-07-24T03:39:00.000Z"></time>
+            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2024-07-24 datetime="2024-07-24T07:00:00.000Z">2024-07-24</time>
+            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2024-07-24 datetime="2024-07-24T07:00:00.000Z"></time>
           </button>
         </h2>
         <ul class="sources card">
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >PyTorch Website</button>
+                  <a class="source-heading__link" href="https://pytorch.org/">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://pytorch.org/blog/pytorch2-4/"
+                        open
+                      >
+                        <summary class="article-expander__title">PyTorch 2.4 Release Blog</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://pytorch.org/blog/pytorch2-4/">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://pytorch.org/assets/images/social-share.jpg" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>We are excited to announce the release of PyTorch® 2.4 (release note)! PyTorch 2.4 adds support for the latest version of Python (3.12) for torch.compile. AOTInductor freezing gives developers running AOTInductor more performance-based optimizations by allowing the serialization of MKLDNN weights. As well, a new default TCPStore server backend utilizing libuv has been introduced which should significantly reduce initialization times for users running large-scale jobs. Finally, a new Python Custom Operator API makes it easier than before to integrate custom kernels into PyTorch, especially for torch.compile.</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;6
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
             <li class="card__section">
               <section class="js-toggle-accordions-scope">
                 <h3 class="source-heading">
@@ -4807,40 +4841,6 @@ Say I want to detect if a struct has a field size of type int. Create two templa
                 </section>
               </section>
             </li>
-            <li class="card__section">
-              <section class="js-toggle-accordions-scope">
-                <h3 class="source-heading">
-                  <button
-                    class="source-heading__name"
-                    data-action="toggle-accordions"
-                    title="Click to toggle the source, Ctrl + click to toggle all."
-                  >PyTorch Website</button>
-                  <a class="source-heading__link" href="https://pytorch.org/">Open</a>
-                </h3>
-                <section class="articles-per-source">
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://pytorch.org/blog/pytorch-documentary/"
-                        open
-                      >
-                        <summary class="article-expander__title">Powering the AI Revolution: The PyTorch Documentary</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://pytorch.org/blog/pytorch-documentary/">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://pytorch.org/assets/images/social-share.jpg" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>Now live: The official PyTorch Documentary! This film unveils the authentic narrative of PyTorch’s inception, attributing its existence to a dedicated group of unsung heroes driving technological innovation.</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;4
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                </section>
-              </section>
-            </li>
         </ul>
       </section>
       <section class="daily-content js-toggle-accordions-scope">
@@ -8180,8 +8180,8 @@ Say I want to detect if a struct has a field size of type int. Create two templa
       </section>
 
     <footer>
-      <a class="footer-link" href="https://github.com/Furyton/misc-feed/actions/runs/10081991357">
-        <time id="build-timestamp" datetime="2024-07-24T18:24:24.672Z">2024-07-24T18:24:24.672Z</time>
+      <a class="footer-link" href="https://github.com/Furyton/misc-feed/actions/runs/10082636696">
+        <time id="build-timestamp" datetime="2024-07-24T19:13:43.219Z">2024-07-24T19:13:43.219Z</time>
       </a>
       <a class="footer-link" href="https://github.com/osmoscraft/osmosfeed">osmosfeed 1.15.1</a>
     </footer>
