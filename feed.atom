@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-07-24T10:19:37.843Z</updated>
+    <updated>2024-07-24T11:14:10.601Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -1499,16 +1499,6 @@ Say I want to detect if a struct has a field size of type int. Create two templa
         <summary type="html"><![CDATA[Now live: The official PyTorch Documentary! This film unveils the authentic narrative of PyTorch’s inception, attributing its existence to a dedicated group of unsung heroes driving technological innovation.]]></summary>
         <author>
             <name>PyTorch Website</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[repelling-attracting Hamiltonian Monte Carlo]]></title>
-        <id>http://xianblog.wordpress.com/?p=56023</id>
-        <link href="https://xianblog.wordpress.com/2024/06/25/repelling-attracting-hamiltonian-monte-carlo/"/>
-        <updated>2024-06-24T22:24:20.000Z</updated>
-        <summary type="html"><![CDATA[Lasrt week, Siddharth Vishwanath and Hyungsuk Tak—whom I first met at an MCQMC session about multimodal sampling at MCqMC 2016 in Stanford,  same year as my San Fran’ half-marathon race, most memorable of all my races!)—proposed a Repelling-Attracting Hamiltonian Monte Carlo (raHMC) algorithm, towards sampling from multimodal distributions. “The success of raHMC for sampling from […]]]></summary>
-        <author>
-            <name>xi'an</name>
         </author>
     </entry>
     <entry>
