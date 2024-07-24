@@ -1452,6 +1452,16 @@
       "siteUrl": "https://kexue.fm/",
       "articles": [
         {
+          "id": "https://kexue.fm/archives/10249",
+          "author": "苏剑林",
+          "description": "在矩阵压缩这个问题上，我们通常有两个策略可以选择，分别是低秩化和稀疏化。低秩化通过寻找矩阵的低秩近似来减少矩阵尺寸，而稀疏化则是通过减少矩阵中的非零元素来降低矩阵的复杂性。如果说SVD是奔着矩阵...",
+          "link": "https://kexue.fm/archives/10249",
+          "publishedOn": "2024-07-24T03:39:00.000Z",
+          "wordCount": 1736,
+          "title": "Monarch矩阵：计算高效的稀疏型矩阵分解",
+          "imageUrl": null
+        },
+        {
           "id": "https://kexue.fm/archives/10240",
           "author": "苏剑林",
           "description": "前段时间，笔者无意看到了一个“低糖电饭锅”的概念（也叫“低淀粉电饭锅”），开始以为是什么新科技产物，再仔细一看之后才发现，原来就是煮饭的同时沥出一点米汤，米汤中包含了一点淀粉，如果把米汤倒掉，那...",
@@ -3273,16 +3283,6 @@
           "publishedOn": "2024-06-24T16:25:24.000Z",
           "wordCount": 2674,
           "title": "World word:  soap",
-          "imageUrl": null
-        },
-        {
-          "id": "https://languagelog.ldc.upenn.edu/nll/?p=64658",
-          "author": "Victor Mair",
-          "description": "Opinion:  \"These gaming terms are transforming slang. Do you know them? Even those not involved in gaming culture are becoming familiar with the new vocabulary.\" Washington Post, by Adam Aleksic (June 20, 2024) …Dozens of video game terms have sneaked into everyday conversation over the past several years, particularly among younger people. For instance, it’s […]",
-          "link": "https://languagelog.ldc.upenn.edu/nll/?p=64658&utm_source=rss&utm_medium=rss&utm_campaign=video-slang",
-          "publishedOn": "2024-06-24T15:49:50.000Z",
-          "wordCount": 2541,
-          "title": "Video slang",
           "imageUrl": null
         }
       ]

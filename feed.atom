@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-07-24T03:19:09.590Z</updated>
+    <updated>2024-07-24T04:19:25.646Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Monarch矩阵：计算高效的稀疏型矩阵分解]]></title>
+        <id>https://kexue.fm/archives/10249</id>
+        <link href="https://kexue.fm/archives/10249"/>
+        <updated>2024-07-24T03:39:00.000Z</updated>
+        <summary type="html"><![CDATA[在矩阵压缩这个问题上，我们通常有两个策略可以选择，分别是低秩化和稀疏化。低秩化通过寻找矩阵的低秩近似来减少矩阵尺寸，而稀疏化则是通过减少矩阵中的非零元素来降低矩阵的复杂性。如果说SVD是奔着矩阵...]]></summary>
+        <author>
+            <name>苏剑林</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[buongiorno Venezia [jatp]]]></title>
         <id>http://xianblog.wordpress.com/?p=56796</id>
@@ -1517,16 +1527,6 @@ Say I want to detect if a struct has a field size of type int. Create two templa
         <link href="https://languagelog.ldc.upenn.edu/nll/?p=64645&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=world-word-soap"/>
         <updated>2024-06-24T16:25:24.000Z</updated>
         <summary type="html"><![CDATA[Behold the Latin word sāpō (soap) and its many, many descendants which include the Mother of the Austronesian language family—the indigenous Formosan languages of Taiwan: 阿美語 Amis: safon 噶瑪蘭語 Kavalam: sabun 卑南語 Puyuma: sabun 鄒語 Tsou: savungu https://t.co/aYrp1a8bEl pic.twitter.com/YvbyQWTRI7 — Ted (@ted_huang) June 17, 2024 Be sure to click on the map to embiggen it […]]]></summary>
-        <author>
-            <name>Victor Mair</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Video slang]]></title>
-        <id>https://languagelog.ldc.upenn.edu/nll/?p=64658</id>
-        <link href="https://languagelog.ldc.upenn.edu/nll/?p=64658&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=video-slang"/>
-        <updated>2024-06-24T15:49:50.000Z</updated>
-        <summary type="html"><![CDATA[Opinion:  "These gaming terms are transforming slang. Do you know them? Even those not involved in gaming culture are becoming familiar with the new vocabulary." Washington Post, by Adam Aleksic (June 20, 2024) …Dozens of video game terms have sneaked into everyday conversation over the past several years, particularly among younger people. For instance, it’s […]]]></summary>
         <author>
             <name>Victor Mair</name>
         </author>
