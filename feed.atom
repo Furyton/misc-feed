@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-07-25T18:22:22.580Z</updated>
+    <updated>2024-07-25T19:13:59.164Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The transformative power of translation]]></title>
+        <id>https://languagelog.ldc.upenn.edu/nll/?p=65111</id>
+        <link href="https://languagelog.ldc.upenn.edu/nll/?p=65111&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=the-transformative-power-of-translation"/>
+        <updated>2024-07-25T18:49:56.000Z</updated>
+        <summary type="html"><![CDATA["Not Lost In Translation: How Barbarian Books Laid the Foundation for Japan’s Industrial Revolution", by Alex Tabarrok, Marginal Revolution (July 22, 2024) I am grateful to Alex Tabarrok and his colleague Tyler Cowen at Marginal Revolution University of George Mason University's Mercatus Center for introducing me to what is one of the most mind-boggling/blowing papers I have read in the last […]]]></summary>
+        <author>
+            <name>Victor Mair</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AI achieves silver-medal standard solving International Mathematical Olympiad problems]]></title>
         <id>https://deepmind.google/discover/blog/ai-solves-imo-problems-at-silver-medal-level/</id>
