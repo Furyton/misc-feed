@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-07-25T10:18:20.140Z</updated>
+    <updated>2024-07-25T11:14:23.411Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -1445,28 +1445,6 @@ In-context hallucination: The model output should be consistent with the source 
         <link href="https://xianblog.wordpress.com/2024/06/26/r-like-racism-h-like-hate/"/>
         <updated>2024-06-26T11:15:05.000Z</updated>
         <summary type="html"><![CDATA[«Les Français d’origine étrangère ou de nationalité étrangère n’ont rien à craindre de la politique que [le RN veut] mettre en œuvre, s’ils travaillent, paient leurs impôts, paient leurs cotisations, respectent la loi, aiment notre pays.” J Bardella, 14 June 2024 «Français d’origine étrangère [enfermés] dans la repentance et la haine de la France, une […]]]></summary>
-        <author>
-            <name>xi'an</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Detecting field names with C++ metaprogramming]]></title>
-        <id>https://www.jeremykun.com/shortform/2024-06-25-1534/</id>
-        <link href="https://www.jeremykun.com/shortform/2024-06-25-1534/"/>
-        <updated>2024-06-25T22:34:59.000Z</updated>
-        <summary type="html"><![CDATA[A quick note: you can use C++11 templates to detect struct fields by name and type, and statically branch on them. I first heard of this solution from breeze1990.
-Say I want to detect if a struct has a field size of type int. Create two template instantiations of the same name, here HasStaticSize that defaults to false.
-#include <type_traits> template <typename T, typename = void> struct HasStaticSize : std::false_type {}; template <typename T> struct HasStaticSize< T, typename std::enable_if< std::is_same<int, std::decay_t<decltype(T::size)>>::value, void>::type> : std::true_type {}; The latter is only resolved if T::size is declared as int, or more specifically, something that “decays” to int.]]></summary>
-        <author>
-            <name>Math ∩ Programming</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Brussels blues]]></title>
-        <id>http://xianblog.wordpress.com/?p=56436</id>
-        <link href="https://xianblog.wordpress.com/2024/06/26/brussels-blues/"/>
-        <updated>2024-06-25T22:24:01.000Z</updated>
-        <summary type="html"><![CDATA[Visit the post for more.]]></summary>
         <author>
             <name>xi'an</name>
         </author>

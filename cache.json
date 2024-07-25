@@ -1959,18 +1959,7 @@
       "title": "Math ∩ Programming",
       "feedUrl": "https://jeremykun.com/feed/",
       "siteUrl": "https://www.jeremykun.com/",
-      "articles": [
-        {
-          "id": "https://www.jeremykun.com/shortform/2024-06-25-1534/",
-          "author": null,
-          "description": "A quick note: you can use C++11 templates to detect struct fields by name and type, and statically branch on them. I first heard of this solution from breeze1990.\nSay I want to detect if a struct has a field size of type int. Create two template instantiations of the same name, here HasStaticSize that defaults to false.\n#include <type_traits> template <typename T, typename = void> struct HasStaticSize : std::false_type {}; template <typename T> struct HasStaticSize< T, typename std::enable_if< std::is_same<int, std::decay_t<decltype(T::size)>>::value, void>::type> : std::true_type {}; The latter is only resolved if T::size is declared as int, or more specifically, something that “decays” to int.",
-          "link": "https://www.jeremykun.com/shortform/2024-06-25-1534/",
-          "publishedOn": "2024-06-25T22:34:59.000Z",
-          "wordCount": 258,
-          "title": "Detecting field names with C++ metaprogramming",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Jonty Sinai",
@@ -2620,16 +2609,6 @@
           "wordCount": 2768,
           "title": "R like racism, H like hate",
           "imageUrl": "https://xianblog.wordpress.com/wp-content/uploads/2024/06/temp-1.jpg"
-        },
-        {
-          "id": "http://xianblog.wordpress.com/?p=56436",
-          "author": "xi'an",
-          "description": "Visit the post for more.",
-          "link": "https://xianblog.wordpress.com/2024/06/26/brussels-blues/",
-          "publishedOn": "2024-06-25T22:24:01.000Z",
-          "wordCount": 2443,
-          "title": "Brussels blues",
-          "imageUrl": "https://xianblog.wordpress.com/wp-content/uploads/2024/06/brux2418-e1718009107145.jpg"
         }
       ]
     },
