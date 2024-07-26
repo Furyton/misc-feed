@@ -1500,16 +1500,6 @@
           "wordCount": 1507,
           "title": "“闭门造车”之多模态思路浅谈（二）：自回归",
           "imageUrl": null
-        },
-        {
-          "id": "https://kexue.fm/archives/10180",
-          "author": "苏剑林",
-          "description": "在前三篇文章中，我们较为详细地讨论了HiPPO和S4的大部分数学细节。那么，对于接下来的第四篇文章，大家预期我们会讨论什么工作呢？S5、Mamba乃至Mamba2？都不是。本系列文章主要关心SS...",
-          "link": "https://kexue.fm/archives/10180",
-          "publishedOn": "2024-06-27T03:00:00.000Z",
-          "wordCount": 2342,
-          "title": "重温SSM（四）：有理生成函数的新视角",
-          "imageUrl": null
         }
       ]
     },
@@ -1536,6 +1526,22 @@
       "feedUrl": "https://www.argmin.net/feed.xml",
       "siteUrl": "https://www.argmin.net",
       "articles": [
+        {
+          "id": "https://www.argmin.net/p/theories-of-metatheories",
+          "author": "Ben Recht",
+          "description": "Some final thoughts about Meehl's Philosophical Psychology.",
+          "link": "https://www.argmin.net/p/theories-of-metatheories",
+          "publishedOn": "2024-07-26T14:56:19.000Z",
+          "wordCount": null,
+          "title": "Theories of Metatheories",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substack-post-media.s3.amazonaws.com/public/images/60ac02a8-2179-47ae-9c4d-8023528d35cf_840x600.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substack-post-media.s3.amazonaws.com/public/images/60ac02a8-2179-47ae-9c4d-8023528d35cf_840x600.jpeg"
+        },
         {
           "id": "https://www.argmin.net/p/inference-and-the-psychoanalytic",
           "author": "Ben Recht",
@@ -1998,6 +2004,22 @@
       "feedUrl": "https://www.argmin.net/feed.xml",
       "siteUrl": "https://www.argmin.net",
       "articles": [
+        {
+          "id": "https://www.argmin.net/p/theories-of-metatheories",
+          "author": "Ben Recht",
+          "description": "Some final thoughts about Meehl's Philosophical Psychology.",
+          "link": "https://www.argmin.net/p/theories-of-metatheories",
+          "publishedOn": "2024-07-26T14:56:19.000Z",
+          "wordCount": null,
+          "title": "Theories of Metatheories",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substack-post-media.s3.amazonaws.com/public/images/60ac02a8-2179-47ae-9c4d-8023528d35cf_840x600.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substack-post-media.s3.amazonaws.com/public/images/60ac02a8-2179-47ae-9c4d-8023528d35cf_840x600.jpeg"
+        },
         {
           "id": "https://www.argmin.net/p/inference-and-the-psychoanalytic",
           "author": "Ben Recht",
