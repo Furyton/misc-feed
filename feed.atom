@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-07-28T22:16:01.779Z</updated>
+    <updated>2024-07-28T23:16:56.697Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[marginalia de Venezia]]></title>
+        <id>http://xianblog.wordpress.com/?p=56804</id>
+        <link href="https://xianblog.wordpress.com/2024/07/29/marginalia-de-venezia/"/>
+        <updated>2024-07-28T22:24:25.000Z</updated>
+        <summary type="html"><![CDATA[Spending two weeks in Venezia with an overflowing schedule (from running “the” bridge back and forth every morn to rushing to the Sant’Alvise pool, to rushing back to the talks, to keeping preparing my own food, not to mention the forced intermission in the ospedale) was both exciting and exhausting! But mostly enjoyable in retrieving […]]]></summary>
+        <author>
+            <name>xi'an</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Present prison president]]></title>
         <id>https://languagelog.ldc.upenn.edu/nll/?p=65165</id>
@@ -1416,16 +1426,6 @@ In-context hallucination: The model output should be consistent with the source 
         <link href="https://languagelog.ldc.upenn.edu/nll/?p=64760&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=acronymity"/>
         <updated>2024-06-29T12:00:23.000Z</updated>
         <summary type="html"><![CDATA[Abner Li, "Google Messages adopts double FAB to promote Gemini", 9to5google 6/26/2024: Gemini in Google Messages exited beta at I/O 2024 last month and now features a double FAB design. In a rather prominent push, the “Start chat” floating action button now has a smaller Gemini FAB just above it. When you’re dealing with the […]]]></summary>
-        <author>
-            <name>Mark Liberman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Franklin (1773) on colonial obligations]]></title>
-        <id>https://languagelog.ldc.upenn.edu/nll/?p=64753</id>
-        <link href="https://languagelog.ldc.upenn.edu/nll/?p=64753&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=franklin-1773-on-colonial-obligations"/>
-        <updated>2024-06-29T10:59:09.000Z</updated>
-        <summary type="html"><![CDATA[A couple of days ago, I did a web search to find out how late the King of Prussia mall was open, and landed on the Wikipedia page for the "census-designated place" King of Prussia, which (as I knew) includes lots of stuff besides the mall. Reading the article and following links, as one does, […]]]></summary>
         <author>
             <name>Mark Liberman</name>
         </author>
