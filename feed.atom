@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-07-29T22:19:33.036Z</updated>
+    <updated>2024-07-29T23:16:13.670Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[differential privacy for Bayesian inference]]></title>
+        <id>http://xianblog.wordpress.com/?p=56853</id>
+        <link href="https://xianblog.wordpress.com/2024/07/30/differential-privacy-for-bayesian-inference/"/>
+        <updated>2024-07-29T22:24:56.000Z</updated>
+        <summary type="html"><![CDATA[As I was reading it in preparation for my JSM²⁴ lecture, I found anew that, in this landmark paper of Dimitrikakis et al. (2017), some limitations of the concept of differential privacy were most apparent: – a requirement to bend both the model and the prior to fit differential privacy, like switching to Lipschitz constraints […]]]></summary>
+        <author>
+            <name>xi'an</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ocean’s sevens [blue wave#1]]]></title>
         <id>http://xianblog.wordpress.com/?p=56928</id>
@@ -1416,16 +1426,6 @@ In-context hallucination: The model output should be consistent with the source 
         <link href="https://languagelog.ldc.upenn.edu/nll/?p=64767&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=astonishing-new-google-translate-with-the-help-of-generative-ai"/>
         <updated>2024-06-30T18:12:40.000Z</updated>
         <summary type="html"><![CDATA[Google Translate adds Cantonese support, thanks to AI advancement:  “Cantonese has long been one of the most requested languages for Google Translate. Because Cantonese often overlaps with Mandarin in writing, it’s tricky to find data and train models,” Google said.  By Tom Grundy, Hong Kong Free Press (June 30, 2024). The Google Translate app has […]]]></summary>
-        <author>
-            <name>Victor Mair</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Logos:  The sacred phonology, mathematics, and agriculture of the alphazodiac]]></title>
-        <id>https://languagelog.ldc.upenn.edu/nll/?p=64743</id>
-        <link href="https://languagelog.ldc.upenn.edu/nll/?p=64743&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=logos-the-sacred-phonology-mathematics-and-agriculture-of-the-alphazodiac"/>
-        <updated>2024-06-30T11:05:56.000Z</updated>
-        <summary type="html"><![CDATA[[This is a guest post by Brian Pellar] . . . the consonants are the letters or ciphers which assemble around the vowels to form the words, just as the constellations assemble around the Sun, image of the Divinity, and compose the community of stars over which it presides.                                                                        — Hebreu Primiti The Consonants of […]]]></summary>
         <author>
             <name>Victor Mair</name>
         </author>

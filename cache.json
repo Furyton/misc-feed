@@ -2230,6 +2230,16 @@
       "siteUrl": "https://xianblog.wordpress.com",
       "articles": [
         {
+          "id": "http://xianblog.wordpress.com/?p=56853",
+          "author": "xi'an",
+          "description": "As I was reading it in preparation for my JSM²⁴ lecture, I found anew that, in this landmark paper of Dimitrikakis et al. (2017), some limitations of the concept of differential privacy were most apparent: – a requirement to bend both the model and the prior to fit differential privacy, like switching to Lipschitz constraints […]",
+          "link": "https://xianblog.wordpress.com/2024/07/30/differential-privacy-for-bayesian-inference/",
+          "publishedOn": "2024-07-29T22:24:56.000Z",
+          "wordCount": 2805,
+          "title": "differential privacy for Bayesian inference",
+          "imageUrl": "https://xianblog.wordpress.com/wp-content/uploads/2012/04/dsc_0007.jpg"
+        },
+        {
           "id": "http://xianblog.wordpress.com/?p=56928",
           "author": "xi'an",
           "description": "Visit the post for more.",
@@ -3149,16 +3159,6 @@
           "publishedOn": "2024-06-30T18:12:40.000Z",
           "wordCount": 2536,
           "title": "Astonishing new Google Translate, with the help of generative AI",
-          "imageUrl": null
-        },
-        {
-          "id": "https://languagelog.ldc.upenn.edu/nll/?p=64743",
-          "author": "Victor Mair",
-          "description": "[This is a guest post by Brian Pellar] . . . the consonants are the letters or ciphers which assemble around the vowels to form the words, just as the constellations assemble around the Sun, image of the Divinity, and compose the community of stars over which it presides.                                                                        — Hebreu Primiti The Consonants of […]",
-          "link": "https://languagelog.ldc.upenn.edu/nll/?p=64743&utm_source=rss&utm_medium=rss&utm_campaign=logos-the-sacred-phonology-mathematics-and-agriculture-of-the-alphazodiac",
-          "publishedOn": "2024-06-30T11:05:56.000Z",
-          "wordCount": 7713,
-          "title": "Logos:  The sacred phonology, mathematics, and agriculture of the alphazodiac",
           "imageUrl": null
         }
       ]
