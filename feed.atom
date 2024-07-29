@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-07-29T08:21:54.346Z</updated>
+    <updated>2024-07-29T09:19:15.516Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[对齐全量微调！这是我看过最精彩的LoRA改进（二）]]></title>
+        <id>https://kexue.fm/archives/10266</id>
+        <link href="https://kexue.fm/archives/10266"/>
+        <updated>2024-07-29T08:31:00.000Z</updated>
+        <summary type="html"><![CDATA[前两周笔者写了《对齐全量微调！这是我看过最精彩的LoRA（一）》（当时还没有编号“一”），里边介绍了一个名为“LoRA-GA”的LoRA变体，它通过梯度SVD来改进LoRA的初始化，从而实现Lo...]]></summary>
+        <author>
+            <name>苏剑林</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[marginalia de Venezia]]></title>
         <id>http://xianblog.wordpress.com/?p=56804</id>

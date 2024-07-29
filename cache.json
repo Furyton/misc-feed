@@ -1452,6 +1452,16 @@
       "siteUrl": "https://kexue.fm/",
       "articles": [
         {
+          "id": "https://kexue.fm/archives/10266",
+          "author": "苏剑林",
+          "description": "前两周笔者写了《对齐全量微调！这是我看过最精彩的LoRA（一）》（当时还没有编号“一”），里边介绍了一个名为“LoRA-GA”的LoRA变体，它通过梯度SVD来改进LoRA的初始化，从而实现Lo...",
+          "link": "https://kexue.fm/archives/10266",
+          "publishedOn": "2024-07-29T08:31:00.000Z",
+          "wordCount": 1897,
+          "title": "对齐全量微调！这是我看过最精彩的LoRA改进（二）",
+          "imageUrl": null
+        },
+        {
           "id": "https://kexue.fm/archives/10249",
           "author": "苏剑林",
           "description": "在矩阵压缩这个问题上，我们通常有两个策略可以选择，分别是低秩化和稀疏化。低秩化通过寻找矩阵的低秩近似来减少矩阵尺寸，而稀疏化则是通过减少矩阵中的非零元素来降低矩阵的复杂性。如果说SVD是奔着矩阵...",
