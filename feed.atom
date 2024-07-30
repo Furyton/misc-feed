@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-07-30T15:18:26.304Z</updated>
+    <updated>2024-07-30T16:22:40.315Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -14,6 +14,26 @@
         <summary type="html"><![CDATA[Visit the post for more.]]></summary>
         <author>
             <name>xi'an</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Quantization-Aware Training for Large Language Models with PyTorch]]></title>
+        <id>https://pytorch.org/blog/quantization-aware-training/</id>
+        <link href="https://pytorch.org/blog/quantization-aware-training/"/>
+        <updated>2024-07-30T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In this blog, we present an end-to-end Quantization-Aware Training (QAT) flow for large language models in PyTorch. We demonstrate how QAT in PyTorch can recover up to 96% of the accuracy degradation on hellaswag and 68% of the perplexity degradation on wikitext for Llama3 compared to post-training quantization (PTQ). We present the QAT APIs in torchao and showcase how users can leverage them for fine-tuning in torchtune.]]></summary>
+        <author>
+            <name>PyTorch Website</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Introducing torchchat: Accelerating Local LLM Inference on Laptop, Desktop and Mobile]]></title>
+        <id>https://pytorch.org/blog/torchchat-local-llm-inference/</id>
+        <link href="https://pytorch.org/blog/torchchat-local-llm-inference/"/>
+        <updated>2024-07-30T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Today, we’re releasing torchchat, a library showcasing how to seamlessly and performantly run Llama 3, 3.1, and other large language models across laptop, desktop, and mobile.]]></summary>
+        <author>
+            <name>PyTorch Website</name>
         </author>
     </entry>
     <entry>

@@ -1882,6 +1882,26 @@
       "siteUrl": "https://pytorch.org/",
       "articles": [
         {
+          "id": "https://pytorch.org/blog/quantization-aware-training/",
+          "author": null,
+          "description": "In this blog, we present an end-to-end Quantization-Aware Training (QAT) flow for large language models in PyTorch. We demonstrate how QAT in PyTorch can recover up to 96% of the accuracy degradation on hellaswag and 68% of the perplexity degradation on wikitext for Llama3 compared to post-training quantization (PTQ). We present the QAT APIs in torchao and showcase how users can leverage them for fine-tuning in torchtune.",
+          "link": "https://pytorch.org/blog/quantization-aware-training/",
+          "publishedOn": "2024-07-30T07:00:00.000Z",
+          "wordCount": 3338,
+          "title": "Quantization-Aware Training for Large Language Models with PyTorch",
+          "imageUrl": "https://pytorch.org/assets/images/social-share.jpg"
+        },
+        {
+          "id": "https://pytorch.org/blog/torchchat-local-llm-inference/",
+          "author": null,
+          "description": "Today, we’re releasing torchchat, a library showcasing how to seamlessly and performantly run Llama 3, 3.1, and other large language models across laptop, desktop, and mobile.",
+          "link": "https://pytorch.org/blog/torchchat-local-llm-inference/",
+          "publishedOn": "2024-07-30T07:00:00.000Z",
+          "wordCount": 1069,
+          "title": "Introducing torchchat: Accelerating Local LLM Inference on Laptop, Desktop and Mobile",
+          "imageUrl": "https://pytorch.org/assets/images/social-share.jpg"
+        },
+        {
           "id": "https://pytorch.org/blog/pytorch2-4/",
           "author": null,
           "description": "We are excited to announce the release of PyTorch® 2.4 (release note)! PyTorch 2.4 adds support for the latest version of Python (3.12) for torch.compile. AOTInductor freezing gives developers running AOTInductor more performance-based optimizations by allowing the serialization of MKLDNN weights. As well, a new default TCPStore server backend utilizing libuv has been introduced which should significantly reduce initialization times for users running large-scale jobs. Finally, a new Python Custom Operator API makes it easier than before to integrate custom kernels into PyTorch, especially for torch.compile.",
