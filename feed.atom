@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-07-31T19:14:31.307Z</updated>
+    <updated>2024-07-31T20:17:33.794Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[What it's like inside the Great Firewall]]></title>
+        <id>https://languagelog.ldc.upenn.edu/nll/?p=65175</id>
+        <link href="https://languagelog.ldc.upenn.edu/nll/?p=65175&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=what-its-like-inside-the-great-firewall"/>
+        <updated>2024-07-31T19:50:18.000Z</updated>
+        <summary type="html"><![CDATA[By now, we've had dozens of posts about the Great Firewall, VPNs, internet censorship, and so forth, but they're all from the vantage of the outside trying to look in.  Of course, that gives us a skewed picture of what the situation is really like with regard to the internet inside and outside of the […]]]></summary>
+        <author>
+            <name>Victor Mair</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["Garbage time of history"]]></title>
+        <id>https://languagelog.ldc.upenn.edu/nll/?p=65179</id>
+        <link href="https://languagelog.ldc.upenn.edu/nll/?p=65179&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=garbage-time-of-history"/>
+        <updated>2024-07-31T19:39:19.000Z</updated>
+        <summary type="html"><![CDATA[Economics buzzword.  From the Wall Street Journal's China newsletter: Here's the linked article in Chinese. lìshǐ de lèsè shíjiān 历史的垃圾时间 ("garbage time of history") This expression reminded me of what I knew as the "garbage bin of history": The "ash heap of history", also called "dustbin of history" or "garbage heap of history" or "landfill […]]]></summary>
+        <author>
+            <name>Victor Mair</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Gemma Scope: helping the safety community shed light on the inner workings of language models]]></title>
         <id>https://deepmind.google/discover/blog/gemma-scope-helping-the-safety-community-shed-light-on-the-inner-workings-of-language-models/</id>
