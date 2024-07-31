@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-07-31T15:18:25.101Z</updated>
+    <updated>2024-07-31T16:21:04.845Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Gemma Scope: helping the safety community shed light on the inner workings of language models]]></title>
+        <id>https://deepmind.google/discover/blog/gemma-scope-helping-the-safety-community-shed-light-on-the-inner-workings-of-language-models/</id>
+        <link href="https://deepmind.google/discover/blog/gemma-scope-helping-the-safety-community-shed-light-on-the-inner-workings-of-language-models/"/>
+        <updated>2024-07-31T15:59:19.000Z</updated>
+        <summary type="html"><![CDATA[Announcing a comprehensive, open suite of sparse autoencoders for language model interpretability.]]></summary>
+        <author>
+            <name>Google DeepMind Blog</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ocean’s four [blue wave#3]]]></title>
         <id>http://xianblog.wordpress.com/?p=56938</id>
