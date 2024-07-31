@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-07-31T13:19:45.951Z</updated>
+    <updated>2024-07-31T14:15:20.518Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -24,6 +24,18 @@
         <summary type="html"><![CDATA[Boone Ashworth, "Wear This AI Friend Around Your Neck", Wired 7/30/2024: The latest attempt at an AI-powered wearable is an always-listening pendant. But it doesn’t help you be more productive, it just keeps you company. AVI SCHIFFMANN SHOWS up to the WIRED office with a Friend hanging around his neck. It dangles there like a […]]]></summary>
         <author>
             <name>Mark Liberman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fully Homomorphic Encryption in Production Systems]]></title>
+        <id>https://www.jeremykun.com/fhe-in-production/</id>
+        <link href="https://www.jeremykun.com/fhe-in-production/"/>
+        <updated>2024-07-31T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Last update: 2024-07-31T00:00:00-0700 In this living document, I will list all production systems I’m aware of that use fully homomorphic encryption (FHE). For background on FHE, see my overview of the field.
+If you have any information about production FHE systems not in this list, or corrections to information in this list, please send me an email with sufficient detail allow the claim to be publicly verified.
+Table of contents:]]></summary>
+        <author>
+            <name>Math ∩ Programming</name>
         </author>
     </entry>
     <entry>
