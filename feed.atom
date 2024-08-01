@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-08-01T18:22:32.099Z</updated>
+    <updated>2024-08-01T19:13:21.928Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -1470,16 +1470,6 @@ In-context hallucination: The model output should be consistent with the source 
         <summary type="html"><![CDATA[Kevin Drum, "Federal judge uses very strange words to overturn LNG pause", jabberwocking 7/2/2024: Early this year the Department of Energy paused approvals of new LNG terminals. Several states sued, saying the decision was arbitrary and was costing them a lot of money. Yesterday a Trump-appointed judge in Louisiana (of course) issued a preliminary injunction […]]]></summary>
         <author>
             <name>Mark Liberman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Announcing Hacker Cup AI Track at NeurIPS 2024]]></title>
-        <id>https://pytorch.org/blog/hacker-cup/</id>
-        <link href="https://pytorch.org/blog/hacker-cup/"/>
-        <updated>2024-07-03T07:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The PyTorch team in partnership with Meta Hacker Cup, and Microsoft Research, are excited to announce the Hacker Cup AI Track at NeurIPS 2024. This will be the first AI track for the popular Meta Hacker Cup programming competition designed to assess the capabilities of Generative AI in performing autonomous code generation tasks. We aim to test the limits of AI in complex coding challenges and measure the performance gap between AI systems and human programmers. We will provide access to all Hacker Cup problems since 2011 alongside their respective solutions in a multimodal (image and text) format, and utilize the existing Hacker Cup infrastructure for competitor evaluation. Featuring both open evaluation, open model and open evaluation, closed model tracks, this competition invites diverse participation from research institutions of varied interests and resource constraints, including academic labs, AI startups, large technology companies, and AI enthusiasts. Our goal is to develop and democratize meaningful advancements in code automation with the very first open evaluation process for competitive AI programmers. Registration will begin in Early August, with our first qualification round on September 20th.]]></summary>
-        <author>
-            <name>PyTorch Website</name>
         </author>
     </entry>
     <entry>
