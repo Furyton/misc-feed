@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-08-01T22:15:58.826Z</updated>
+    <updated>2024-08-01T23:17:56.830Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[the amazing adventures of Kavalier & Clay [book review]]]></title>
+        <id>http://xianblog.wordpress.com/?p=56859</id>
+        <link href="https://xianblog.wordpress.com/2024/08/02/the-amazing-adventures-of-kavalier-clay-book-review/"/>
+        <updated>2024-08-01T22:24:35.000Z</updated>
+        <summary type="html"><![CDATA[After reading the (pretty good) Yiddish Policemen’s Union by Michael Chabon, I found out this earlier book had won a Pullitzer prize for fiction and decided to give it a go. Which lasted for weeks as I found the book very slow paced, to the point of always falling asleep within a few pages. The […]]]></summary>
+        <author>
+            <name>xi'an</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[When AI hallucinations are a Good Thing]]></title>
         <id>https://languagelog.ldc.upenn.edu/nll/?p=65217</id>
