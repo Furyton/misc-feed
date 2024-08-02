@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-08-02T22:16:28.996Z</updated>
+    <updated>2024-08-02T23:16:00.500Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Polynomial dialect and mlir-opt tutorial upstreamed]]></title>
+        <id>https://www.jeremykun.com/shortform/2024-08-02-1551/</id>
+        <link href="https://www.jeremykun.com/shortform/2024-08-02-1551/"/>
+        <updated>2024-08-02T22:51:23.000Z</updated>
+        <summary type="html"><![CDATA[I’ve been upstreaming a bit of my compiler work to the MLIR project.
+Yesterday, I merged in a tutorial on mlir-opt, the main debugging tool for running passses on MLIR code. This is roughly the upstremable parts of my first MLIR tutorial entry, MLIR — Running and Testing a Lowering. Mehdi Amini also provided a lot of useful information during review that taught me some stuff I didn’t know about the tool.]]></summary>
+        <author>
+            <name>Math ∩ Programming</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[a journal of the chaos, conquest, war, [far from] famine, and death year]]></title>
+        <id>http://xianblog.wordpress.com/?p=56354</id>
+        <link href="https://xianblog.wordpress.com/2024/08/03/a-journal-of-the-chaos-conquest-war-famine-and-death-year-2/"/>
+        <updated>2024-08-02T22:24:14.000Z</updated>
+        <summary type="html"><![CDATA[Read nothing new for a while as I got stuck finishing Babel at a sloth pace… But bought for the summer vacations Don Quixote de la Mancha (in French) and a commentary by Marx that I intend to use as a reading guide. Not The Marx, mind you!, but a professor of comparative literature at […]]]></summary>
+        <author>
+            <name>xi'an</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ocean’s sub [blue wave#5]]]></title>
         <id>http://xianblog.wordpress.com/?p=56952</id>
@@ -1438,16 +1459,6 @@ In-context hallucination: The model output should be consistent with the source 
         <link href="https://xianblog.wordpress.com/2024/07/05/venisba%c2%b3/"/>
         <updated>2024-07-04T22:24:49.000Z</updated>
         <summary type="html"><![CDATA[Managed to sneak in the slaughterhouse (aka Aula Magna) as Michael had just started his (quite appropriate) De Finetti lecture. On contract theory and federated learning, along the themes of our OCEAN project. We had our future of ISBA (physical) round table, initiated by Guido Consonni and Getraud Malsiner-Walli, on how to evolve towards a […]]]></summary>
-        <author>
-            <name>xi'an</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[why the French far right triumphed [reposted]]]></title>
-        <id>http://xianblog.wordpress.com/?p=56701</id>
-        <link href="https://xianblog.wordpress.com/2024/07/04/why-the-french-far-right-triumphed-reposted/"/>
-        <updated>2024-07-04T10:24:49.000Z</updated>
-        <summary type="html"><![CDATA[Visit the post for more.]]></summary>
         <author>
             <name>xi'an</name>
         </author>

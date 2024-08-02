@@ -1953,6 +1953,16 @@
       "siteUrl": "https://www.jeremykun.com/",
       "articles": [
         {
+          "id": "https://www.jeremykun.com/shortform/2024-08-02-1551/",
+          "author": null,
+          "description": "I’ve been upstreaming a bit of my compiler work to the MLIR project.\nYesterday, I merged in a tutorial on mlir-opt, the main debugging tool for running passses on MLIR code. This is roughly the upstremable parts of my first MLIR tutorial entry, MLIR — Running and Testing a Lowering. Mehdi Amini also provided a lot of useful information during review that taught me some stuff I didn’t know about the tool.",
+          "link": "https://www.jeremykun.com/shortform/2024-08-02-1551/",
+          "publishedOn": "2024-08-02T22:51:23.000Z",
+          "wordCount": 358,
+          "title": "Polynomial dialect and mlir-opt tutorial upstreamed",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.jeremykun.com/fhe-in-production/",
           "author": null,
           "description": "Last update: 2024-07-31T00:00:00-0700 In this living document, I will list all production systems I’m aware of that use fully homomorphic encryption (FHE). For background on FHE, see my overview of the field.\nIf you have any information about production FHE systems not in this list, or corrections to information in this list, please send me an email with sufficient detail allow the claim to be publicly verified.\nTable of contents:",
@@ -2205,6 +2215,16 @@
       "feedUrl": "https://xianblog.wordpress.com/feed/",
       "siteUrl": "https://xianblog.wordpress.com",
       "articles": [
+        {
+          "id": "http://xianblog.wordpress.com/?p=56354",
+          "author": "xi'an",
+          "description": "Read nothing new for a while as I got stuck finishing Babel at a sloth pace… But bought for the summer vacations Don Quixote de la Mancha (in French) and a commentary by Marx that I intend to use as a reading guide. Not The Marx, mind you!, but a professor of comparative literature at […]",
+          "link": "https://xianblog.wordpress.com/2024/08/03/a-journal-of-the-chaos-conquest-war-famine-and-death-year-2/",
+          "publishedOn": "2024-08-02T22:24:14.000Z",
+          "wordCount": 2862,
+          "title": "a journal of the chaos, conquest, war, [far from] famine, and death year",
+          "imageUrl": "https://xianblog.wordpress.com/wp-content/uploads/2024/05/1717136877699-e1717137160688.jpg"
+        },
         {
           "id": "http://xianblog.wordpress.com/?p=56952",
           "author": "xi'an",
@@ -2574,16 +2594,6 @@
           "wordCount": 2576,
           "title": "veniSBA³",
           "imageUrl": "https://xianblog.wordpress.com/wp-content/uploads/2024/07/temp-2.png"
-        },
-        {
-          "id": "http://xianblog.wordpress.com/?p=56701",
-          "author": "xi'an",
-          "description": "Visit the post for more.",
-          "link": "https://xianblog.wordpress.com/2024/07/04/why-the-french-far-right-triumphed-reposted/",
-          "publishedOn": "2024-07-04T10:24:49.000Z",
-          "wordCount": 2458,
-          "title": "why the French far right triumphed [reposted]",
-          "imageUrl": "https://xianblog.wordpress.com/wp-content/uploads/2024/07/temp-1.png"
         }
       ]
     },
