@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-08-02T10:18:34.414Z</updated>
+    <updated>2024-08-02T11:14:10.547Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Mapping the misuse of generative AI]]></title>
+        <id>https://deepmind.google/discover/blog/mapping-the-misuse-of-generative-ai/</id>
+        <link href="https://deepmind.google/discover/blog/mapping-the-misuse-of-generative-ai/"/>
+        <updated>2024-08-02T10:50:58.000Z</updated>
+        <summary type="html"><![CDATA[New research analyzes the misuse of multimodal generative AI today, in order to help build safer and more responsible technologies.]]></summary>
+        <author>
+            <name>Google DeepMind Blog</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Streets named after idioms]]></title>
         <id>https://languagelog.ldc.upenn.edu/nll/?p=65182</id>
@@ -1418,36 +1428,6 @@ In-context hallucination: The model output should be consistent with the source 
         <link href="https://xianblog.wordpress.com/2024/07/04/why-the-french-far-right-triumphed-reposted/"/>
         <updated>2024-07-04T10:24:49.000Z</updated>
         <summary type="html"><![CDATA[Visit the post for more.]]></summary>
-        <author>
-            <name>xi'an</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Huaxia:  pre-Han cognomen of the Middle Kingdom]]></title>
-        <id>https://languagelog.ldc.upenn.edu/nll/?p=64799</id>
-        <link href="https://languagelog.ldc.upenn.edu/nll/?p=64799&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=huaxia-pre-han-cognomen-of-the-middle-kingdom"/>
-        <updated>2024-07-03T22:27:50.000Z</updated>
-        <summary type="html"><![CDATA[Iskandar Ding and the Scythians are well known on Language Log.  Now they come together in this reference to Christopher Beckwith's The Scythian Empire: What an excitingly bold book! Finally got the paperback edition. pic.twitter.com/R7M11MCNQ2 — Iskandar Ding (@iskdin) July 1, 2024 [click on the illustration to embiggen the page so that it is easy […]]]></summary>
-        <author>
-            <name>Victor Mair</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[veniSBA²]]></title>
-        <id>http://xianblog.wordpress.com/?p=56689</id>
-        <link href="https://xianblog.wordpress.com/2024/07/04/venisba%c2%b2/"/>
-        <updated>2024-07-03T22:24:43.000Z</updated>
-        <summary type="html"><![CDATA[After another morning cycle of 2Xing Porte della Libertà (under a light and pleasant rain) and swimming in Sant’ Alviso (in too warm a water), I did not make it for the beginning of the Bayesian deep learning session, breakfast oblige!, and cumulated with different percolation events (ie, meeting friend after friend on my way […]]]></summary>
-        <author>
-            <name>xi'an</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mappamondo di Fra Mauro]]></title>
-        <id>http://xianblog.wordpress.com/?p=56639</id>
-        <link href="https://xianblog.wordpress.com/2024/07/04/mappamondo-di-fra-mauro/"/>
-        <updated>2024-07-03T22:24:31.000Z</updated>
-        <summary type="html"><![CDATA[When (re)visiting the Doges’ Palace in Venice yesterday, and its window into the working of the Venetian Republic, we came upon a temporary exhibition on the journey of Marco Polo, which was great (and little attended). It included a reproduction of Fra Mauro’s map, made in 1452 in Venice, for the Government of the Republic […]]]></summary>
         <author>
             <name>xi'an</name>
         </author>
