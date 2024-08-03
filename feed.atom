@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-08-03T02:33:37.509Z</updated>
+    <updated>2024-08-03T03:18:15.519Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The language of citizenship]]></title>
+        <id>https://languagelog.ldc.upenn.edu/nll/?p=65229</id>
+        <link href="https://languagelog.ldc.upenn.edu/nll/?p=65229&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=the-language-of-citizenship"/>
+        <updated>2024-08-03T02:42:49.000Z</updated>
+        <summary type="html"><![CDATA[The PRC does have a word for "citizen", namely, "guómín 國民" (lit., "person of a country"), but it is a bit more problematic to find a Chinese word equivalent to the abstract concept of "citizenship".  If we mean by "citizenship", "the status / condition of being a citizen of a certain country", the legal term […]]]></summary>
+        <author>
+            <name>Victor Mair</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Polynomial dialect and mlir-opt tutorial upstreamed]]></title>
         <id>https://www.jeremykun.com/shortform/2024-08-02-1551/</id>
