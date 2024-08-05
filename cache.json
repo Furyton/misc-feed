@@ -1690,18 +1690,7 @@
       "title": "Lil'Log",
       "feedUrl": "https://lilianweng.github.io/index.xml",
       "siteUrl": "https://lilianweng.github.io/",
-      "articles": [
-        {
-          "id": "https://lilianweng.github.io/posts/2024-07-07-hallucination/",
-          "author": null,
-          "description": "Hallucination in large language models usually refers to the model generating unfaithful, fabricated, inconsistent, or nonsensical content. As a term, hallucination has been somewhat generalized to cases when the model makes mistakes. Here, I would like to narrow down the problem of hallucination to be when the model output is fabricated and not grounded by either the provided context or world knowledge.\nThere are two types of hallucination:\nIn-context hallucination: The model output should be consistent with the source content in context.",
-          "link": "https://lilianweng.github.io/posts/2024-07-07-hallucination/",
-          "publishedOn": "2024-07-07T00:00:00.000Z",
-          "wordCount": 10464,
-          "title": "Extrinsic Hallucinations in LLMs",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Amit Chaudhary",
@@ -1743,6 +1732,16 @@
       "feedUrl": "https://deepmind.com/blog/feed/basic/",
       "siteUrl": "https://deepmind.google/discover/blog/",
       "articles": [
+        {
+          "id": "https://deepmind.google/discover/blog/a-new-generation-of-african-talent-brings-cutting-edge-ai-to-scientific-challenges/",
+          "author": null,
+          "description": "Food security, healthcare and exploring the cosmos are among the ways students of a new pan-African Master’s program aspire to apply AI",
+          "link": "https://deepmind.google/discover/blog/a-new-generation-of-african-talent-brings-cutting-edge-ai-to-scientific-challenges/",
+          "publishedOn": "2024-08-05T12:00:02.000Z",
+          "wordCount": 1671,
+          "title": "A new generation of African talent brings cutting-edge AI to scientific challenges",
+          "imageUrl": "https://lh3.googleusercontent.com/3UPL0KnJKzLo3eVxfiGlAEq-AMje_o41v4pOw4wButeGrZOagF5-7SsPrNP7t0U2EKvCgURjXpYD4Kk4XU_oOQ8DefRnBC5DMP-2mAHESlFaUhHQ=w1200-h630-n-nu"
+        },
         {
           "id": "https://deepmind.google/discover/blog/mapping-the-misuse-of-generative-ai/",
           "author": null,
@@ -2615,6 +2614,16 @@
       "feedUrl": "https://languagelog.ldc.upenn.edu/nll/?feed=rss2",
       "siteUrl": "https://languagelog.ldc.upenn.edu/nll",
       "articles": [
+        {
+          "id": "https://languagelog.ldc.upenn.edu/nll/?p=65255",
+          "author": "Victor Mair",
+          "description": "[This is a guest post by Craig Benjamin, the leading authority on Yuezhi history.  It is a follow-up to \"Yuezhi archeology without concern for Tocharian language\" (8/4/24)] \"China Reaches Back in Time to Challenge the West. Way, Way Back:  The country’s archaeologists are striking out along the Silk Road to trace the reach of ancient […]",
+          "link": "https://languagelog.ldc.upenn.edu/nll/?p=65255&utm_source=rss&utm_medium=rss&utm_campaign=rethinking-the-yuezhi",
+          "publishedOn": "2024-08-05T11:52:49.000Z",
+          "wordCount": 3687,
+          "title": "Rethinking the Yuezhi?",
+          "imageUrl": null
+        },
         {
           "id": "https://languagelog.ldc.upenn.edu/nll/?p=65260",
           "author": "Mark Liberman",

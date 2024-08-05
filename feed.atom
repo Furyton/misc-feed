@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-08-05T11:15:03.415Z</updated>
+    <updated>2024-08-05T12:33:55.036Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[A new generation of African talent brings cutting-edge AI to scientific challenges]]></title>
+        <id>https://deepmind.google/discover/blog/a-new-generation-of-african-talent-brings-cutting-edge-ai-to-scientific-challenges/</id>
+        <link href="https://deepmind.google/discover/blog/a-new-generation-of-african-talent-brings-cutting-edge-ai-to-scientific-challenges/"/>
+        <updated>2024-08-05T12:00:02.000Z</updated>
+        <summary type="html"><![CDATA[Food security, healthcare and exploring the cosmos are among the ways students of a new pan-African Master’s program aspire to apply AI]]></summary>
+        <author>
+            <name>Google DeepMind Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rethinking the Yuezhi?]]></title>
+        <id>https://languagelog.ldc.upenn.edu/nll/?p=65255</id>
+        <link href="https://languagelog.ldc.upenn.edu/nll/?p=65255&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rethinking-the-yuezhi"/>
+        <updated>2024-08-05T11:52:49.000Z</updated>
+        <summary type="html"><![CDATA[[This is a guest post by Craig Benjamin, the leading authority on Yuezhi history.  It is a follow-up to "Yuezhi archeology without concern for Tocharian language" (8/4/24)] "China Reaches Back in Time to Challenge the West. Way, Way Back:  The country’s archaeologists are striking out along the Silk Road to trace the reach of ancient […]]]></summary>
+        <author>
+            <name>Victor Mair</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Mount Hood [jatp]]]></title>
         <id>http://xianblog.wordpress.com/?p=57022</id>
@@ -1421,18 +1441,6 @@ This limitation poses challenges in more complex scenarios. Take, for example, t
         <summary type="html"><![CDATA[Congratulations to Noga Alon and Adi Shamir for winning the 2024 Wolf Prize. Noga Alon received the prize “for his fundamental contributions to Combinatorics and Theoretical Computer Science,” and Adi Shamir “for his fundamental contributions to Mathematical Cryptography.” This is … Continue reading →]]></summary>
         <author>
             <name>Gil Kalai</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Extrinsic Hallucinations in LLMs]]></title>
-        <id>https://lilianweng.github.io/posts/2024-07-07-hallucination/</id>
-        <link href="https://lilianweng.github.io/posts/2024-07-07-hallucination/"/>
-        <updated>2024-07-07T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Hallucination in large language models usually refers to the model generating unfaithful, fabricated, inconsistent, or nonsensical content. As a term, hallucination has been somewhat generalized to cases when the model makes mistakes. Here, I would like to narrow down the problem of hallucination to be when the model output is fabricated and not grounded by either the provided context or world knowledge.
-There are two types of hallucination:
-In-context hallucination: The model output should be consistent with the source content in context.]]></summary>
-        <author>
-            <name>Lil'Log</name>
         </author>
     </entry>
     <entry>
