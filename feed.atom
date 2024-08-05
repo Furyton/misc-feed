@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-08-05T12:33:55.036Z</updated>
+    <updated>2024-08-05T13:20:13.896Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Ocean’s tongue [blue wave#7]]]></title>
+        <id>http://xianblog.wordpress.com/?p=57009</id>
+        <link href="https://xianblog.wordpress.com/2024/08/05/oceans-tongue-blue-wave7/"/>
+        <updated>2024-08-05T13:15:08.000Z</updated>
+        <summary type="html"><![CDATA[Visit the post for more.]]></summary>
+        <author>
+            <name>xi'an</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Watermarking AI output, again]]></title>
+        <id>https://languagelog.ldc.upenn.edu/nll/?p=65275</id>
+        <link href="https://languagelog.ldc.upenn.edu/nll/?p=65275&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=watermarking-ai-output-again"/>
+        <updated>2024-08-05T12:40:06.000Z</updated>
+        <summary type="html"><![CDATA[Deepa Seetharaman & Matt Barnum, "There’s a Tool to Catch Students Cheating With ChatGPT. OpenAI Hasn’t Released It.", WSJ 8/4/2024: OpenAI has a method to reliably detect when someone uses ChatGPT to write an essay or research paper. The company hasn’t released it despite widespread concerns about students using artificial intelligence to cheat. The project […]]]></summary>
+        <author>
+            <name>Mark Liberman</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[A new generation of African talent brings cutting-edge AI to scientific challenges]]></title>
         <id>https://deepmind.google/discover/blog/a-new-generation-of-african-talent-brings-cutting-edge-ai-to-scientific-challenges/</id>
