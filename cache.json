@@ -1442,6 +1442,16 @@
       "siteUrl": "https://kexue.fm/",
       "articles": [
         {
+          "id": "https://kexue.fm/archives/10289",
+          "author": "苏剑林",
+          "description": "当要求函数的最小值时，我们通常会先求导函数然后寻找其零点，比较幸运的情况下，这些零点之一正好是原函数的最小值点。如果是向量函数，则将导数改为梯度并求其零点。当梯度零点不易求得时，我们可以使用梯度...",
+          "link": "https://kexue.fm/archives/10289",
+          "publishedOn": "2024-08-06T06:52:00.000Z",
+          "wordCount": 1977,
+          "title": "迈向最优分布：概率空间的最小化",
+          "imageUrl": null
+        },
+        {
           "id": "https://kexue.fm/archives/10266",
           "author": "苏剑林",
           "description": "前两周笔者写了《对齐全量微调！这是我看过最精彩的LoRA（一）》（当时还没有编号“一”），里边介绍了一个名为“LoRA-GA”的LoRA变体，它通过梯度SVD来改进LoRA的初始化，从而实现Lo...",

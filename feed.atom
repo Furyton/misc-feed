@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-08-06T06:26:06.441Z</updated>
+    <updated>2024-08-06T07:17:11.589Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[迈向最优分布：概率空间的最小化]]></title>
+        <id>https://kexue.fm/archives/10289</id>
+        <link href="https://kexue.fm/archives/10289"/>
+        <updated>2024-08-06T06:52:00.000Z</updated>
+        <summary type="html"><![CDATA[当要求函数的最小值时，我们通常会先求导函数然后寻找其零点，比较幸运的情况下，这些零点之一正好是原函数的最小值点。如果是向量函数，则将导数改为梯度并求其零点。当梯度零点不易求得时，我们可以使用梯度...]]></summary>
+        <author>
+            <name>苏剑林</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[JSM 2024, Portland, Day 1]]></title>
         <id>http://xianblog.wordpress.com/?p=57043</id>
