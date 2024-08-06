@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-08-06T10:19:13.465Z</updated>
+    <updated>2024-08-06T11:14:54.642Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[This is just to say]]></title>
+        <id>https://languagelog.ldc.upenn.edu/nll/?p=65287</id>
+        <link href="https://languagelog.ldc.upenn.edu/nll/?p=65287&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=this-is-just-to-say"/>
+        <updated>2024-08-06T10:50:56.000Z</updated>
+        <summary type="html"><![CDATA[A poem by Dan Perkins: You'll need to be signed into a bluesky account to follow the link, which is why I presented it as a .png. And you'll need to know the the background story about RFK Jr. and the bear cub — see e.g. "RFK Jr admits dumping bear carcass in New York's […]]]></summary>
+        <author>
+            <name>Mark Liberman</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[迈向最优分布：概率空间的最小化]]></title>
         <id>https://kexue.fm/archives/10289</id>
@@ -1461,16 +1471,6 @@ This limitation poses challenges in more complex scenarios. Take, for example, t
         <summary type="html"><![CDATA[这篇文章我们继续来闭门造车，分享一下笔者最近对多模态学习的一些新理解。在前文《“闭门造车”之多模态思路浅谈（一）：无损》中，我们强调了无损输入对于理想的多模型模态的重要性。如果这个观点成立，那么...]]></summary>
         <author>
             <name>苏剑林</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[venISBA⁴⁻]]></title>
-        <id>http://xianblog.wordpress.com/?p=56734</id>
-        <link href="https://xianblog.wordpress.com/2024/07/08/venisba%e2%81%b4%e2%81%bb/"/>
-        <updated>2024-07-07T22:24:41.000Z</updated>
-        <summary type="html"><![CDATA[As I was released all of a sudden from the hospita around noonl, I managed to attend the last session of ISBA 2024 (after stopping by my airbnb for an emergency coffee next to the hospital and stopping for showering, changing clothes, and eating something more substantial than the contents of IV bags). My first […]]]></summary>
-        <author>
-            <name>xi'an</name>
         </author>
     </entry>
     <entry>
