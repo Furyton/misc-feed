@@ -1921,6 +1921,16 @@
       "siteUrl": "https://www.jeremykun.com/",
       "articles": [
         {
+          "id": "https://www.jeremykun.com/shortform/2024-08-07-1414/",
+          "author": null,
+          "description": "This blog now accepts webmentions.\nI used webmention.io and webmention.js for live rendering. You can see an example at the end of my old Bezier Curves post.\nAfter my initial experiments with POSSE, I’ve made a few improvements to the system. Now shortform posts are syndicated to Mastodon, Bluesky, and Twitter, and the links to the syndicated posts are automatically added to the end of each post. I don’t have any automatic social media posting for longform posts yet, though I plan to add a very simple version of that soon.",
+          "link": "https://www.jeremykun.com/shortform/2024-08-07-1414/",
+          "publishedOn": "2024-08-07T21:14:00.000Z",
+          "wordCount": 456,
+          "title": "Webmentions and POSSE improvements",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.jeremykun.com/2024/08/04/mlir-pdll/",
           "author": null,
           "description": "Table of Contents\nIn this article I’ll show how to use PDLL, a tool for defining MLIR patterns, which itself is built with MLIR. PDLL is intended to be a replacement for defining patterns in tablegen, though there are few public examples of its use. In fact, the main impetus for PDLL is that tablegen makes it difficult to express things like:\nOperations that return multiple results Operations with regions Operations with variadic operands Arithmetic on static values While not all these features are fully supported in PDLL yet, they are within scope of the language and tooling.",
