@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-08-08T18:24:01.689Z</updated>
+    <updated>2024-08-08T19:13:31.073Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -1433,16 +1433,6 @@ This limitation poses challenges in more complex scenarios. Take, for example, t
         <summary type="html"><![CDATA[Meehl's Philosophical Psychology, Lecture 9, part 2.]]></summary>
         <author>
             <name>Ben Recht</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn how to develop Android applications with ExecuTorch and Llama models]]></title>
-        <id>https://pytorch.org/blog/develop-android-applications/</id>
-        <link href="https://pytorch.org/blog/develop-android-applications/"/>
-        <updated>2024-07-10T07:00:00.000Z</updated>
-        <summary type="html"><![CDATA[This blog is courtesy of the PyTorch team at Arm. More details can be found here.]]></summary>
-        <author>
-            <name>PyTorch Website</name>
         </author>
     </entry>
     <entry>
