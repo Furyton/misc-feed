@@ -2530,16 +2530,6 @@
           "wordCount": 2442,
           "title": "a bridge too far! [19:31, 3rd, 26⁰, 6am]",
           "imageUrl": "https://xianblog.wordpress.com/wp-content/uploads/2024/07/temp-5.png"
-        },
-        {
-          "id": "http://xianblog.wordpress.com/?p=56395",
-          "author": "xi'an",
-          "description": "I came across a Web paper entitled The Impact of Google’s Random Number Generator on Accurate Results that I found most puzzling in failing to explain the specific nature of this random generator and that included gems as below “PRNGs (…) outputs are inherently predictable given a specific seed value, thus deviating from true randomness” […]",
-          "link": "https://xianblog.wordpress.com/2024/07/10/truly-and-uniquely-pseudo-random/",
-          "publishedOn": "2024-07-09T22:24:37.000Z",
-          "wordCount": 2870,
-          "title": "truly and uniquely pseudo-random?",
-          "imageUrl": "https://xianblog.wordpress.com/wp-content/uploads/2012/09/dsc_0879.jpg"
         }
       ]
     },
@@ -2593,6 +2583,16 @@
       "feedUrl": "https://languagelog.ldc.upenn.edu/nll/?feed=rss2",
       "siteUrl": "https://languagelog.ldc.upenn.edu/nll",
       "articles": [
+        {
+          "id": "https://languagelog.ldc.upenn.edu/nll/?p=65299",
+          "author": "Victor Mair",
+          "description": "Xinyi Ye came upon this post on Zhīhū 知乎 (\"Did you know?\"), a Chinese social media site that is comparable to Quora: Rúhé kàndài huíguó rénshì shuōhuà jiádài Yīngwén? 如何看待回国人士说话夹带英文？ \"How should we view / treat people returning to China [from abroad] who mix English in their speech?\" The author is Ren Zeyu, who seems […]",
+          "link": "https://languagelog.ldc.upenn.edu/nll/?p=65299&utm_source=rss&utm_medium=rss&utm_campaign=the-englishization-of-chinese-enters-a-new-phase",
+          "publishedOn": "2024-08-08T10:25:10.000Z",
+          "wordCount": 3153,
+          "title": "The Englishization of Chinese enters a new phase",
+          "imageUrl": null
+        },
         {
           "id": "https://languagelog.ldc.upenn.edu/nll/?p=65293",
           "author": "Victor Mair",

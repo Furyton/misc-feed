@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-08-08T10:18:11.199Z</updated>
+    <updated>2024-08-08T11:16:02.802Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The Englishization of Chinese enters a new phase]]></title>
+        <id>https://languagelog.ldc.upenn.edu/nll/?p=65299</id>
+        <link href="https://languagelog.ldc.upenn.edu/nll/?p=65299&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=the-englishization-of-chinese-enters-a-new-phase"/>
+        <updated>2024-08-08T10:25:10.000Z</updated>
+        <summary type="html"><![CDATA[Xinyi Ye came upon this post on Zhīhū 知乎 ("Did you know?"), a Chinese social media site that is comparable to Quora: Rúhé kàndài huíguó rénshì shuōhuà jiádài Yīngwén? 如何看待回国人士说话夹带英文？ "How should we view / treat people returning to China [from abroad] who mix English in their speech?" The author is Ren Zeyu, who seems […]]]></summary>
+        <author>
+            <name>Victor Mair</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[deep Bayes factor]]></title>
         <id>http://xianblog.wordpress.com/?p=56875</id>
@@ -1423,16 +1433,6 @@ This limitation poses challenges in more complex scenarios. Take, for example, t
         <summary type="html"><![CDATA[This blog is courtesy of the PyTorch team at Arm. More details can be found here.]]></summary>
         <author>
             <name>PyTorch Website</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[truly and uniquely pseudo-random?]]></title>
-        <id>http://xianblog.wordpress.com/?p=56395</id>
-        <link href="https://xianblog.wordpress.com/2024/07/10/truly-and-uniquely-pseudo-random/"/>
-        <updated>2024-07-09T22:24:37.000Z</updated>
-        <summary type="html"><![CDATA[I came across a Web paper entitled The Impact of Google’s Random Number Generator on Accurate Results that I found most puzzling in failing to explain the specific nature of this random generator and that included gems as below “PRNGs (…) outputs are inherently predictable given a specific seed value, thus deviating from true randomness” […]]]></summary>
-        <author>
-            <name>xi'an</name>
         </author>
     </entry>
     <entry>
