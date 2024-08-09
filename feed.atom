@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-08-09T18:23:32.506Z</updated>
+    <updated>2024-08-09T19:14:50.839Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Paris Olympic marathon]]></title>
+        <id>http://xianblog.wordpress.com/?p=56098</id>
+        <link href="https://xianblog.wordpress.com/2024/08/09/paris-olympic-marathon/"/>
+        <updated>2024-08-09T19:00:19.000Z</updated>
+        <summary type="html"><![CDATA[Visit the post for more.]]></summary>
+        <author>
+            <name>xi'an</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ocean’s omnium [blue wave#9]]]></title>
         <id>http://xianblog.wordpress.com/?p=57116</id>
@@ -1383,16 +1393,6 @@ This limitation poses challenges in more complex scenarios. Take, for example, t
         <summary type="html"><![CDATA[Frazz for 7/8/2024 and 7/9/2024: There's a long history of research (and a longer history of speculation) about the linguistic effects of temperature, altitude, genes, and other language-external factors. I dimly recall a lecturer (I think seriously?) suggesting that Grimm's Law was caused by the discovery of beer, although I haven't been able to find […]]]></summary>
         <author>
             <name>Mark Liberman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FlashAttention-3: Fast and Accurate Attention with Asynchrony and Low-precision]]></title>
-        <id>https://pytorch.org/blog/flashattention-3/</id>
-        <link href="https://pytorch.org/blog/flashattention-3/"/>
-        <updated>2024-07-11T07:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Attention, as a core layer of the ubiquitous Transformer architecture, is a bottleneck for large language models and long-context applications. FlashAttention (and FlashAttention-2) pioneered an approach to speed up attention on GPUs by minimizing memory reads/writes, and is now used by most libraries to accelerate Transformer training and inference. This has contributed to a massive increase in LLM context length in the last two years, from 2-4K (GPT-3, OPT) to 128K (GPT-4), or even 1M (Llama 3). However, despite its success, FlashAttention has yet to take advantage of new capabilities in modern hardware, with FlashAttention-2 achieving only 35% utilization of theoretical max FLOPs on the H100 GPU. In this blogpost, we describe three main techniques to speed up attention on Hopper GPUs: exploiting asynchrony of the Tensor Cores and TMA to (1) overlap overall computation and data movement via warp-specialization and (2) interleave block-wise matmul and softmax operations, and (3) incoherent processing that leverages hardware support for FP8 low-precision.]]></summary>
-        <author>
-            <name>PyTorch Website</name>
         </author>
     </entry>
     <entry>
