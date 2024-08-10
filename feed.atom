@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-08-10T01:16:42.259Z</updated>
+    <updated>2024-08-10T02:36:11.089Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -1393,16 +1393,6 @@ This limitation poses challenges in more complex scenarios. Take, for example, t
         <summary type="html"><![CDATA[Visit the post for more.]]></summary>
         <author>
             <name>xi'an</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenAI blocks API traffic from China]]></title>
-        <id>https://languagelog.ldc.upenn.edu/nll/?p=64973</id>
-        <link href="https://languagelog.ldc.upenn.edu/nll/?p=64973&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=openai-blocks-api-traffic-from-china"/>
-        <updated>2024-07-11T13:43:00.000Z</updated>
-        <summary type="html"><![CDATA[Screenshot of emails circulating on social media:     Naturally, Chinese AI developers are seriously concerned about this exclusion.  See this balanced report and many others with differing viewpoints available on the internet: "Why has OpenAI blocked API traffic from China?  What impact would this have on Chinese AI companies? Where does China stand on […]]]></summary>
-        <author>
-            <name>Victor Mair</name>
         </author>
     </entry>
     <entry>
