@@ -1480,16 +1480,6 @@
           "wordCount": 1374,
           "title": "【生活杂记】用电饭锅来煮米汤",
           "imageUrl": null
-        },
-        {
-          "id": "https://kexue.fm/archives/10226",
-          "author": "苏剑林",
-          "description": "众所周知，LoRA是一种常见的参数高效的微调方法，我们在《梯度视角下的LoRA：简介、分析、猜测及推广》做过简单介绍。LoRA利用低秩分解来降低微调参数量，节省微调显存，同时训练好的权重可以合并...",
-          "link": "https://kexue.fm/archives/10226",
-          "publishedOn": "2024-07-12T03:00:00.000Z",
-          "wordCount": 1737,
-          "title": "对齐全量微调！这是我看过最机智的LoRA改进",
-          "imageUrl": null
         }
       ]
     },

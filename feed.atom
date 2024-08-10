@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-08-10T14:14:57.283Z</updated>
+    <updated>2024-08-10T15:18:34.934Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -1373,16 +1373,6 @@ This limitation poses challenges in more complex scenarios. Take, for example, t
         <summary type="html"><![CDATA["How Jane Austen’s Early Chinese Translators Were Stumped by the Oddities of 19th-Century British Cuisine:  How do you get a reader in 1930s China to understand what a mince pie is?" By Saihong Li and William Hope, The Conversation (9/15/22) / Get Pocket. Jane Austen’s (1775-1817) works are globally renowned, but they were unknown in […]]]></summary>
         <author>
             <name>Victor Mair</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[对齐全量微调！这是我看过最机智的LoRA改进]]></title>
-        <id>https://kexue.fm/archives/10226</id>
-        <link href="https://kexue.fm/archives/10226"/>
-        <updated>2024-07-12T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[众所周知，LoRA是一种常见的参数高效的微调方法，我们在《梯度视角下的LoRA：简介、分析、猜测及推广》做过简单介绍。LoRA利用低秩分解来降低微调参数量，节省微调显存，同时训练好的权重可以合并...]]></summary>
-        <author>
-            <name>苏剑林</name>
         </author>
     </entry>
     <entry>
