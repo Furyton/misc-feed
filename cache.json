@@ -1432,6 +1432,16 @@
       "siteUrl": "https://kexue.fm/",
       "articles": [
         {
+          "id": "https://kexue.fm/archives/10311",
+          "author": "苏剑林",
+          "description": "在《Cool Papers更新：简单搭建了一个站内检索系统》这篇文章中，我们介绍了Cool Papers新增的站内搜索系统。搜索系统的目的，自然希望能够帮助用户快速找到他们需要的论文。然而，如何...",
+          "link": "https://kexue.fm/archives/10311",
+          "publishedOn": "2024-08-12T08:51:00.000Z",
+          "wordCount": 1420,
+          "title": "&quot;Cool Papers + 站内搜索”的一些新尝试",
+          "imageUrl": null
+        },
+        {
           "id": "https://kexue.fm/archives/10289",
           "author": "苏剑林",
           "description": "当要求函数的最小值时，我们通常会先求导函数然后寻找其零点，比较幸运的情况下，这些零点之一正好是原函数的最小值点。如果是向量函数，则将导数改为梯度并求其零点。当梯度零点不易求得时，我们可以使用梯度...",

@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-08-12T08:23:24.128Z</updated>
+    <updated>2024-08-12T09:19:14.709Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[&quot;Cool Papers + 站内搜索”的一些新尝试]]></title>
+        <id>https://kexue.fm/archives/10311</id>
+        <link href="https://kexue.fm/archives/10311"/>
+        <updated>2024-08-12T08:51:00.000Z</updated>
+        <summary type="html"><![CDATA[在《Cool Papers更新：简单搭建了一个站内检索系统》这篇文章中，我们介绍了Cool Papers新增的站内搜索系统。搜索系统的目的，自然希望能够帮助用户快速找到他们需要的论文。然而，如何...]]></summary>
+        <author>
+            <name>苏剑林</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[taekwond’or [blue wave#11]]]></title>
         <id>http://xianblog.wordpress.com/?p=57152</id>
