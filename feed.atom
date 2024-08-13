@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-08-13T10:19:02.798Z</updated>
+    <updated>2024-08-13T11:15:19.962Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -1343,16 +1343,6 @@ This limitation poses challenges in more complex scenarios. Take, for example, t
         <summary type="html"><![CDATA[There has long been a suspicion that the first Chinese translator of Lady Chatterley's Lover (1928/1932), Ráo Shùyī 饒述一, about whom next to nothing is known, was actually the scholar and theoretician of aesthetics, Zhū Guāngqián 朱光潛 (1897-1986). To give a little bit of background about the nature of the two translations of the novel, […]]]></summary>
         <author>
             <name>Victor Mair</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[strong] foundations of synthetic B’earning]]></title>
-        <id>http://xianblog.wordpress.com/?p=56446</id>
-        <link href="https://xianblog.wordpress.com/2024/07/15/strong-foundations-of-synthetic-b-learning/"/>
-        <updated>2024-07-14T22:24:37.000Z</updated>
-        <summary type="html"><![CDATA[I only recently read the (foundational!) paper on Foundations of Bayesian learnin from synthetic data by Harrison Wilde, Jack Jewson, Sebastian Volmer [all associated with Warwick at some point] and [my long time friend]  Chris Holmes, that merges Bayesian inference with differential privacy constraints thru generalised / Gibbs interface. Recouping with the M-open perspective in […]]]></summary>
-        <author>
-            <name>xi'an</name>
         </author>
     </entry>
     <entry>
