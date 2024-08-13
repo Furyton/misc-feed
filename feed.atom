@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-08-13T22:16:00.307Z</updated>
+    <updated>2024-08-13T23:16:47.940Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[mixture models [book review]]]></title>
+        <id>http://xianblog.wordpress.com/?p=56293</id>
+        <link href="https://xianblog.wordpress.com/2024/08/14/mixture-models-book-review/"/>
+        <updated>2024-08-13T22:24:03.000Z</updated>
+        <summary type="html"><![CDATA[Strangely enough, I became aware of this new book on mixtures through one of these annoying emails “Your work has been cited n times this week“… Mixture Models (Parametric, Semiparametric, and New Directions) by Weixin Yao and Sijia Wang got published by CRC Press earlier this year, within the Monographs on Statistics and Applied Probability […]]]></summary>
+        <author>
+            <name>xi'an</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Sinitic Word for "million" in Southeast Asian Mandarin, part 2]]></title>
         <id>https://languagelog.ldc.upenn.edu/nll/?p=65396</id>
@@ -1353,16 +1363,6 @@ This limitation poses challenges in more complex scenarios. Take, for example, t
         <summary type="html"><![CDATA[Meehl's Philosophical Psychology, Lecture 10, part 1.]]></summary>
         <author>
             <name>Ben Recht</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The true identity of the first Chinese translator of Lady Chatterley's Lover]]></title>
-        <id>https://languagelog.ldc.upenn.edu/nll/?p=65034</id>
-        <link href="https://languagelog.ldc.upenn.edu/nll/?p=65034&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=the-true-identity-of-the-first-chinese-translator-of-lady-chatterleys-lover"/>
-        <updated>2024-07-15T10:48:24.000Z</updated>
-        <summary type="html"><![CDATA[There has long been a suspicion that the first Chinese translator of Lady Chatterley's Lover (1928/1932), Ráo Shùyī 饒述一, about whom next to nothing is known, was actually the scholar and theoretician of aesthetics, Zhū Guāngqián 朱光潛 (1897-1986). To give a little bit of background about the nature of the two translations of the novel, […]]]></summary>
-        <author>
-            <name>Victor Mair</name>
         </author>
     </entry>
     <entry>
