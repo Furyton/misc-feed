@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-08-14T22:17:06.045Z</updated>
+    <updated>2024-08-15T02:22:50.274Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[It's Japanese soup]]></title>
+        <id>https://languagelog.ldc.upenn.edu/nll/?p=65413</id>
+        <link href="https://languagelog.ldc.upenn.edu/nll/?p=65413&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=its-japanese-soup"/>
+        <updated>2024-08-15T02:00:08.000Z</updated>
+        <summary type="html"><![CDATA[A Facebook post sent to me by shaing tai: shì rì lì tāng 是日例汤 "soup of the day" The mistake here derives from the fact that, in Classical Chinese, "shì rì 是日" means "this day", whereas in vernacular it means "is Ja[pan]". All of the other entries have some weird or exotic aspects.  I will […]]]></summary>
+        <author>
+            <name>Victor Mair</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[road to freedom is out!]]></title>
+        <id>http://xianblog.wordpress.com/?p=57018</id>
+        <link href="https://xianblog.wordpress.com/2024/08/15/road-to-freedom-is-out/"/>
+        <updated>2024-08-14T22:24:42.000Z</updated>
+        <summary type="html"><![CDATA[Visit the post for more.]]></summary>
+        <author>
+            <name>xi'an</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Monsieur Hul’olympics]]></title>
         <id>http://xianblog.wordpress.com/?p=57166</id>
@@ -1373,16 +1393,6 @@ This limitation poses challenges in more complex scenarios. Take, for example, t
         <summary type="html"><![CDATA[Meehl's Philosophical Psychology, Lecture 10, part 3.]]></summary>
         <author>
             <name>Ben Recht</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Government dampers on AI in the PRC]]></title>
-        <id>https://languagelog.ldc.upenn.edu/nll/?p=65059</id>
-        <link href="https://languagelog.ldc.upenn.edu/nll/?p=65059&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=government-dampers-on-ai-in-the-prc"/>
-        <updated>2024-07-16T14:09:48.000Z</updated>
-        <summary type="html"><![CDATA["China Puts Power of State Behind AI—and Risks Strangling It:  Government support helps China’s generative AI companies gain ground on U.S. competitors, but political controls threaten to weigh them down", by Lia Lin, WSJ (7/16/24) Most generative AI models in China need to obtain the approval of the Cyberspace Administration of China before being released […]]]></summary>
-        <author>
-            <name>Victor Mair</name>
         </author>
     </entry>
     <entry>
