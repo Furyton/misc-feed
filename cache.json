@@ -1432,6 +1432,16 @@
       "siteUrl": "https://kexue.fm/",
       "articles": [
         {
+          "id": "https://kexue.fm/archives/10320",
+          "author": "苏剑林",
+          "description": "很早之前，就有读者提出希望把Cool Papers上面的数学公式渲染一下，因为很多偏数学的论文，它们的摘要甚至标题上都带有LaTeX代码写的数学公式，如果不把这些公式渲染出来，那么看上去就像是一...",
+          "link": "https://kexue.fm/archives/10320",
+          "publishedOn": "2024-08-15T12:24:00.000Z",
+          "wordCount": 1710,
+          "title": "让MathJax更好地兼容谷歌翻译和延时加载",
+          "imageUrl": null
+        },
+        {
           "id": "https://kexue.fm/archives/10311",
           "author": "苏剑林",
           "description": "在《Cool Papers更新：简单搭建了一个站内检索系统》这篇文章中，我们介绍了Cool Papers新增的站内搜索系统。搜索系统的目的，自然希望能够帮助用户快速找到他们需要的论文。然而，如何...",
