@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-08-15T02:22:50.274Z</updated>
+    <updated>2024-08-15T03:28:31.529Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -1373,26 +1373,6 @@ This limitation poses challenges in more complex scenarios. Take, for example, t
         <summary type="html"><![CDATA[My friends Filipo Ascolani, Gareth Roberts, and Giacomo Zanella recently arXived a paper on the scalability (in the dimension) of Gibbs and Metropolis-within-Gibbs sampling schemes. Which is celebrating a sort of return of the Gibbs sampler as a dimension resistant device (when compared with other solutions), witness the following extract: “….we provide bounds on the […]]]></summary>
         <author>
             <name>xi'an</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Clinical versus Statistical Prediction (II)]]></title>
-        <id>https://www.argmin.net/p/clinical-versus-statistical-prediction-ebd</id>
-        <link href="https://www.argmin.net/p/clinical-versus-statistical-prediction-ebd"/>
-        <updated>2024-07-16T14:28:11.000Z</updated>
-        <summary type="html"><![CDATA[Meehl's Philosophical Psychology, Lecture 10, part 3.]]></summary>
-        <author>
-            <name>Ben Recht</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Clinical versus Statistical Prediction (II)]]></title>
-        <id>https://www.argmin.net/p/clinical-versus-statistical-prediction-ebd</id>
-        <link href="https://www.argmin.net/p/clinical-versus-statistical-prediction-ebd"/>
-        <updated>2024-07-16T14:28:11.000Z</updated>
-        <summary type="html"><![CDATA[Meehl's Philosophical Psychology, Lecture 10, part 3.]]></summary>
-        <author>
-            <name>Ben Recht</name>
         </author>
     </entry>
     <entry>
