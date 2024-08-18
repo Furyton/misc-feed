@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-08-18T15:16:18.649Z</updated>
+    <updated>2024-08-18T16:19:29.679Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[More problems]]></title>
+        <id>https://languagelog.ldc.upenn.edu/nll/?p=65488</id>
+        <link href="https://languagelog.ldc.upenn.edu/nll/?p=65488&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=more-problems"/>
+        <updated>2024-08-18T15:27:46.000Z</updated>
+        <summary type="html"><![CDATA[Following up on J.D. Vance's reduced pronunciation of "problems", I looked through a 100-instance random sample of that word in real-life contexts, taken from the 23,147 phrases containing it in the previously-described NPR podcast corpus. About half of those examples exhibit lenition of the medial /bl/ consonant cluster, to the point where an IPA transcription […]]]></summary>
+        <author>
+            <name>Mark Liberman</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA['Tis the summer season for choking off VPNs]]></title>
         <id>https://languagelog.ldc.upenn.edu/nll/?p=65513</id>
