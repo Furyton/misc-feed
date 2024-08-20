@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-08-20T18:23:35.663Z</updated>
+    <updated>2024-08-20T19:14:21.113Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -1352,16 +1352,6 @@ Recht has a table of contents for his blog series. It loosely tracks a set of le
         <summary type="html"><![CDATA[I will report on Christian Elsholtz, Zach Hunter, Laura Proske, Lisa Sauermann’s breakthrough paper Sets without arithmetic progressions in integers and over finite fields. The paper improves Behrend’s 1946 construction for 3-AP free sets of integers. An important aspect of … Continue reading →]]></summary>
         <author>
             <name>Gil Kalai</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Deep Dive on the Hopper TMA Unit for FP8 GEMMs]]></title>
-        <id>https://pytorch.org/blog/hopper-tma-unit/</id>
-        <link href="https://pytorch.org/blog/hopper-tma-unit/"/>
-        <updated>2024-07-22T07:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Abstract]]></summary>
-        <author>
-            <name>PyTorch Website</name>
         </author>
     </entry>
     <entry>
