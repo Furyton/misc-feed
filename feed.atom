@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-08-20T16:20:50.073Z</updated>
+    <updated>2024-08-20T17:16:09.384Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -24,6 +24,16 @@
         <summary type="html"><![CDATA[We've been on the trail of the griffin for some time:  "Griffins: the implications of art history for language spread" (8/9/24), "Idle thoughts upon the Ides of March: the feathered man" (3/11/23) — very important (not so idle) observations about griffins in the pre-Classical West by Adrienne Mayor, with illuminating illustrations.  Following the leads in […]]]></summary>
         <author>
             <name>Victor Mair</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Enabling Fast Gradient Clipping and Ghost Clipping in Opacus]]></title>
+        <id>https://pytorch.org/blog/clipping-in-opacus/</id>
+        <link href="https://pytorch.org/blog/clipping-in-opacus/"/>
+        <updated>2024-08-20T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Introduction and Context]]></summary>
+        <author>
+            <name>PyTorch Website</name>
         </author>
     </entry>
     <entry>
