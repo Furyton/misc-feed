@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-08-22T15:20:23.464Z</updated>
+    <updated>2024-08-22T16:24:44.959Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -1312,16 +1312,6 @@ Recht has a table of contents for his blog series. It loosely tracks a set of le
         <summary type="html"><![CDATA[We are excited to announce the release of PyTorch® 2.4 (release note)! PyTorch 2.4 adds support for the latest version of Python (3.12) for torch.compile. AOTInductor freezing gives developers running AOTInductor more performance-based optimizations by allowing the serialization of MKLDNN weights. As well, a new default TCPStore server backend utilizing libuv has been introduced which should significantly reduce initialization times for users running large-scale jobs. Finally, a new Python Custom Operator API makes it easier than before to integrate custom kernels into PyTorch, especially for torch.compile.]]></summary>
         <author>
             <name>PyTorch Website</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Monarch矩阵：计算高效的稀疏型矩阵分解]]></title>
-        <id>https://kexue.fm/archives/10249</id>
-        <link href="https://kexue.fm/archives/10249"/>
-        <updated>2024-07-24T03:39:00.000Z</updated>
-        <summary type="html"><![CDATA[在矩阵压缩这个问题上，我们通常有两个策略可以选择，分别是低秩化和稀疏化。低秩化通过寻找矩阵的低秩近似来减少矩阵尺寸，而稀疏化则是通过减少矩阵中的非零元素来降低矩阵的复杂性。如果说SVD是奔着矩阵...]]></summary>
-        <author>
-            <name>苏剑林</name>
         </author>
     </entry>
     <entry>

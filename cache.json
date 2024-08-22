@@ -1449,16 +1449,6 @@
           "wordCount": 1897,
           "title": "对齐全量微调！这是我看过最精彩的LoRA改进（二）",
           "imageUrl": null
-        },
-        {
-          "id": "https://kexue.fm/archives/10249",
-          "author": "苏剑林",
-          "description": "在矩阵压缩这个问题上，我们通常有两个策略可以选择，分别是低秩化和稀疏化。低秩化通过寻找矩阵的低秩近似来减少矩阵尺寸，而稀疏化则是通过减少矩阵中的非零元素来降低矩阵的复杂性。如果说SVD是奔着矩阵...",
-          "link": "https://kexue.fm/archives/10249",
-          "publishedOn": "2024-07-24T03:39:00.000Z",
-          "wordCount": 1736,
-          "title": "Monarch矩阵：计算高效的稀疏型矩阵分解",
-          "imageUrl": null
         }
       ]
     },
