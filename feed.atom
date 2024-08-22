@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-08-22T18:23:32.127Z</updated>
+    <updated>2024-08-22T19:14:39.014Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -1302,16 +1302,6 @@ Recht has a table of contents for his blog series. It loosely tracks a set of le
         <summary type="html"><![CDATA[“It was God alone who prevented the unthinkable from happening. We will FEAR NOT, but instead remain resilient in our faith and defiant in the face of wickedness.” Donald Trump, 13 July 2025 “I had God on my side.” Donald Trump, 19 July 2025]]></summary>
         <author>
             <name>xi'an</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PyTorch 2.4 Release Blog]]></title>
-        <id>https://pytorch.org/blog/pytorch2-4/</id>
-        <link href="https://pytorch.org/blog/pytorch2-4/"/>
-        <updated>2024-07-24T07:00:00.000Z</updated>
-        <summary type="html"><![CDATA[We are excited to announce the release of PyTorch® 2.4 (release note)! PyTorch 2.4 adds support for the latest version of Python (3.12) for torch.compile. AOTInductor freezing gives developers running AOTInductor more performance-based optimizations by allowing the serialization of MKLDNN weights. As well, a new default TCPStore server backend utilizing libuv has been introduced which should significantly reduce initialization times for users running large-scale jobs. Finally, a new Python Custom Operator API makes it easier than before to integrate custom kernels into PyTorch, especially for torch.compile.]]></summary>
-        <author>
-            <name>PyTorch Website</name>
         </author>
     </entry>
     <entry>
