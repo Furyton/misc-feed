@@ -1401,6 +1401,16 @@
       "siteUrl": "https://kexue.fm/",
       "articles": [
         {
+          "id": "https://kexue.fm/archives/10332",
+          "author": "苏剑林",
+          "description": "在《让MathJax更好地兼容谷歌翻译和延时加载》我们提到Cool Papers加入了MathJax来解析LaTeX公式，不过万万没想到引发了诸多兼容性问题，虽然部分问题纯粹是笔者的强迫症作祟，...",
+          "link": "https://kexue.fm/archives/10332",
+          "publishedOn": "2024-08-26T03:03:00.000Z",
+          "wordCount": 1528,
+          "title": "近乎完美地解决MathJax与Marked的冲突",
+          "imageUrl": null
+        },
+        {
           "id": "https://kexue.fm/archives/10320",
           "author": "苏剑林",
           "description": "很早之前，就有读者提出希望把Cool Papers上面的数学公式渲染一下，因为很多偏数学的论文，它们的摘要甚至标题上都带有LaTeX代码写的数学公式，如果不把这些公式渲染出来，那么看上去就像是一...",
