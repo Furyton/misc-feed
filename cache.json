@@ -2276,16 +2276,6 @@
           "wordCount": 2357,
           "title": "no mountain, no matter [blue wave#2]",
           "imageUrl": "https://cyclingmagazine.ca/wp-content/uploads/2024/07/Womens-XCO-Olympics-NIck-Iwanyshin-10.jpg"
-        },
-        {
-          "id": "http://xianblog.wordpress.com/?p=56853",
-          "author": "xi'an",
-          "description": "As I was reading it in preparation for my JSM²⁴ lecture, I found anew that, in this landmark paper of Dimitrikakis et al. (2017), some limitations of the concept of differential privacy were most apparent: – a requirement to bend both the model and the prior to fit differential privacy, like switching to Lipschitz constraints […]",
-          "link": "https://xianblog.wordpress.com/2024/07/30/differential-privacy-for-bayesian-inference/",
-          "publishedOn": "2024-07-29T22:24:56.000Z",
-          "wordCount": 2805,
-          "title": "differential privacy for Bayesian inference",
-          "imageUrl": "https://xianblog.wordpress.com/wp-content/uploads/2012/04/dsc_0007.jpg"
         }
       ]
     },
@@ -2329,6 +2319,16 @@
       "feedUrl": "https://languagelog.ldc.upenn.edu/nll/?feed=rss2",
       "siteUrl": "https://languagelog.ldc.upenn.edu/nll",
       "articles": [
+        {
+          "id": "https://languagelog.ldc.upenn.edu/nll/?p=65657",
+          "author": "Mark Liberman",
+          "description": "Today's xkcd — \"The Three Kinds of Scientific Research\": Mouseover title: \"The secret fourth kind is 'we applied a standard theory to their map of every tree and got some suspicious results.'\" A not-so-secret fifth (or zeroth?) kind, which even has an three-letter initialism: exploratory data analysis (EDA). The original idea of EDA, as Wikipedia […]",
+          "link": "https://languagelog.ldc.upenn.edu/nll/?p=65657&utm_source=rss&utm_medium=rss&utm_campaign=kinds-of-science",
+          "publishedOn": "2024-08-28T10:56:47.000Z",
+          "wordCount": 2219,
+          "title": "Kinds of science",
+          "imageUrl": null
+        },
         {
           "id": "https://languagelog.ldc.upenn.edu/nll/?p=65634",
           "author": "Victor Mair",

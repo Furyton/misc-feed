@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-08-28T10:18:21.934Z</updated>
+    <updated>2024-08-28T11:14:46.159Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Kinds of science]]></title>
+        <id>https://languagelog.ldc.upenn.edu/nll/?p=65657</id>
+        <link href="https://languagelog.ldc.upenn.edu/nll/?p=65657&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=kinds-of-science"/>
+        <updated>2024-08-28T10:56:47.000Z</updated>
+        <summary type="html"><![CDATA[Today's xkcd — "The Three Kinds of Scientific Research": Mouseover title: "The secret fourth kind is 'we applied a standard theory to their map of every tree and got some suspicious results.'" A not-so-secret fifth (or zeroth?) kind, which even has an three-letter initialism: exploratory data analysis (EDA). The original idea of EDA, as Wikipedia […]]]></summary>
+        <author>
+            <name>Mark Liberman</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Stop throwing eggs and get to work]]></title>
         <id>https://languagelog.ldc.upenn.edu/nll/?p=65634</id>
@@ -1291,16 +1301,6 @@ Table of contents:]]></summary>
         <summary type="html"><![CDATA[Today, we’re releasing torchchat, a library showcasing how to seamlessly and performantly run Llama 3, 3.1, and other large language models across laptop, desktop, and mobile.]]></summary>
         <author>
             <name>PyTorch Website</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[differential privacy for Bayesian inference]]></title>
-        <id>http://xianblog.wordpress.com/?p=56853</id>
-        <link href="https://xianblog.wordpress.com/2024/07/30/differential-privacy-for-bayesian-inference/"/>
-        <updated>2024-07-29T22:24:56.000Z</updated>
-        <summary type="html"><![CDATA[As I was reading it in preparation for my JSM²⁴ lecture, I found anew that, in this landmark paper of Dimitrikakis et al. (2017), some limitations of the concept of differential privacy were most apparent: – a requirement to bend both the model and the prior to fit differential privacy, like switching to Lipschitz constraints […]]]></summary>
-        <author>
-            <name>xi'an</name>
         </author>
     </entry>
     <entry>
