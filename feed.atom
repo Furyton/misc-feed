@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-08-27T23:18:00.099Z</updated>
+    <updated>2024-08-28T01:18:51.668Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Stop throwing eggs and get to work]]></title>
+        <id>https://languagelog.ldc.upenn.edu/nll/?p=65634</id>
+        <link href="https://languagelog.ldc.upenn.edu/nll/?p=65634&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=stop-throwing-eggs-and-get-to-work"/>
+        <updated>2024-08-27T23:57:55.000Z</updated>
+        <summary type="html"><![CDATA[It's a card game with a strange name.  "Throwing eggs"  is a shedding-type card game in which the players (2 pairs of 2 partners) try to get rid of all their cards before their opponents. The characters in Guandan (掼蛋) literally mean "Throwing Eggs". The second character is a homophone of the character 弹, meaning […]]]></summary>
+        <author>
+            <name>Victor Mair</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Xing impossible [jatp]]]></title>
         <id>http://xianblog.wordpress.com/?p=57211</id>
@@ -1289,16 +1299,6 @@ Table of contents:]]></summary>
         <link href="https://xianblog.wordpress.com/2024/07/30/differential-privacy-for-bayesian-inference/"/>
         <updated>2024-07-29T22:24:56.000Z</updated>
         <summary type="html"><![CDATA[As I was reading it in preparation for my JSM²⁴ lecture, I found anew that, in this landmark paper of Dimitrikakis et al. (2017), some limitations of the concept of differential privacy were most apparent: – a requirement to bend both the model and the prior to fit differential privacy, like switching to Lipschitz constraints […]]]></summary>
-        <author>
-            <name>xi'an</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ocean’s sevens [blue wave#1]]]></title>
-        <id>http://xianblog.wordpress.com/?p=56928</id>
-        <link href="https://xianblog.wordpress.com/2024/07/29/oceans-sevens-blue-wave1/"/>
-        <updated>2024-07-29T13:15:11.000Z</updated>
-        <summary type="html"><![CDATA[Visit the post for more.]]></summary>
         <author>
             <name>xi'an</name>
         </author>
