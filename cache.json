@@ -1678,26 +1678,6 @@
           "wordCount": 4560,
           "title": "FlexAttention: The Flexibility of PyTorch with the Performance of FlashAttention",
           "imageUrl": "https://pytorch.org/assets/images/social-share.jpg"
-        },
-        {
-          "id": "https://pytorch.org/blog/quantization-aware-training/",
-          "author": null,
-          "description": "In this blog, we present an end-to-end Quantization-Aware Training (QAT) flow for large language models in PyTorch. We demonstrate how QAT in PyTorch can recover up to 96% of the accuracy degradation on hellaswag and 68% of the perplexity degradation on wikitext for Llama3 compared to post-training quantization (PTQ). We present the QAT APIs in torchao and showcase how users can leverage them for fine-tuning in torchtune.",
-          "link": "https://pytorch.org/blog/quantization-aware-training/",
-          "publishedOn": "2024-07-30T07:00:00.000Z",
-          "wordCount": 3338,
-          "title": "Quantization-Aware Training for Large Language Models with PyTorch",
-          "imageUrl": "https://pytorch.org/assets/images/social-share.jpg"
-        },
-        {
-          "id": "https://pytorch.org/blog/torchchat-local-llm-inference/",
-          "author": null,
-          "description": "Today, we’re releasing torchchat, a library showcasing how to seamlessly and performantly run Llama 3, 3.1, and other large language models across laptop, desktop, and mobile.",
-          "link": "https://pytorch.org/blog/torchchat-local-llm-inference/",
-          "publishedOn": "2024-07-30T07:00:00.000Z",
-          "wordCount": 1069,
-          "title": "Introducing torchchat: Accelerating Local LLM Inference on Laptop, Desktop and Mobile",
-          "imageUrl": "https://pytorch.org/assets/images/social-share.jpg"
         }
       ]
     },
