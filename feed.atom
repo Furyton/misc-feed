@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-08-29T14:17:56.236Z</updated>
+    <updated>2024-08-29T15:19:59.511Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Freemium worship]]></title>
+        <id>https://languagelog.ldc.upenn.edu/nll/?p=65687</id>
+        <link href="https://languagelog.ldc.upenn.edu/nll/?p=65687&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=freemium-worship"/>
+        <updated>2024-08-29T14:28:34.000Z</updated>
+        <summary type="html"><![CDATA[Today's SMBC: Mouseover title: "Somehow it became God week on SMBC". (Referencing these previous strips.) The AfterComic: More and more internet content is either totally or partially pay-walled — SMBC is still free, so consider their Patreon or their merch…]]></summary>
+        <author>
+            <name>Mark Liberman</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Convex Optimization in the Age of LLMs]]></title>
         <id>https://www.argmin.net/p/convex-optimization-in-the-age-of</id>
