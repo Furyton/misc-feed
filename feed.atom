@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-08-29T11:16:08.452Z</updated>
+    <updated>2024-08-29T12:34:47.765Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Old, new, and mixed Cantonese colloquialisms]]></title>
+        <id>https://languagelog.ldc.upenn.edu/nll/?p=65676</id>
+        <link href="https://languagelog.ldc.upenn.edu/nll/?p=65676&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=old-new-and-mixed-cantonese-colloquialisms"/>
+        <updated>2024-08-29T11:54:24.000Z</updated>
+        <summary type="html"><![CDATA[I dislike calling non-Standard Mandarin Sinitic language expressions "slang" (almost as much as I am dismayed when people call Sinitic topolects dialects — we've been through that countless times).  Others may differ, but in my idiolect, "slang" is pejorative, and I distinguish "slang" from "argot; jargon; lingo; etc.", which — for me — denote particularization […]]]></summary>
+        <author>
+            <name>Victor Mair</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Insufficient Gibbs sampling [at COMPSTAT 2024]]]></title>
         <id>http://xianblog.wordpress.com/?p=57281</id>
