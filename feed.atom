@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-08-31T22:18:07.471Z</updated>
+    <updated>2024-08-31T23:16:40.104Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Paralympiques au Grand Palais]]></title>
+        <id>http://xianblog.wordpress.com/?p=57306</id>
+        <link href="https://xianblog.wordpress.com/2024/09/01/paralympiques-au-grand-palais/"/>
+        <updated>2024-08-31T22:24:27.000Z</updated>
+        <summary type="html"><![CDATA[While we did not try to attend any of the Paris 2024 Olympics events, primarily for being in the Pacific Northwest during the Olympics (in not in Olympic National Park!), being back in Paris and tickets being widely available and looking forward attending an event in the Grand Palais, we found tickets for the taekwondo […]]]></summary>
+        <author>
+            <name>xi'an</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Old Turkic origins of the Tang Dynasty]]></title>
+        <id>https://languagelog.ldc.upenn.edu/nll/?p=65730</id>
+        <link href="https://languagelog.ldc.upenn.edu/nll/?p=65730&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=the-old-turkic-origins-of-the-tang-dynasty"/>
+        <updated>2024-08-31T22:21:04.000Z</updated>
+        <summary type="html"><![CDATA[Sino-Platonic Papers is pleased to announce the publication of its three-hundred-and-fifty-sixth issue:  “The Tang as a Tuoba Dynasty” (pdf) by Sanping Chen. ABSTRACT By examining the record of a local anti-Tibetan rebellion in document scroll S.1438 from the Dunhuang “library cave,” this discussion demonstrates that the nomadic Tuoba origin of the Tang royal house was […]]]></summary>
+        <author>
+            <name>Victor Mair</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA["Teacher voice"]]></title>
         <id>https://languagelog.ldc.upenn.edu/nll/?p=65736</id>
@@ -1345,16 +1365,6 @@ Yesterday, I merged in a tutorial on mlir-opt, the main debugging tool for runni
         <summary type="html"><![CDATA[Matthew Erskine, "The Meaning of Conservative: Lessons from the Valparaiso University Dispute", Forbes 7/25/2024: Valparaiso University is seeking to sell three valuable paintings, including a Georgia O'Keeffe, to fund renovations for freshman dormitories. The university argues that two of the paintings, purchased with funds from a 1953 donation by Percy Sloan, do not meet the […]]]></summary>
         <author>
             <name>Mark Liberman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mapping the misuse of generative AI]]></title>
-        <id>https://deepmind.google/discover/blog/mapping-the-misuse-of-generative-ai/</id>
-        <link href="https://deepmind.google/discover/blog/mapping-the-misuse-of-generative-ai/"/>
-        <updated>2024-08-02T10:50:58.000Z</updated>
-        <summary type="html"><![CDATA[New research analyzes the misuse of multimodal generative AI today, in order to help build safer and more responsible technologies.]]></summary>
-        <author>
-            <name>Google DeepMind Blog</name>
         </author>
     </entry>
     <entry>
