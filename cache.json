@@ -1401,6 +1401,16 @@
       "siteUrl": "https://kexue.fm/",
       "articles": [
         {
+          "id": "https://kexue.fm/archives/10347",
+          "author": "苏剑林",
+          "description": "众所周知，目前主流的LLM，都是基于Causal Attention的Decoder-only模型（对此我们在《为什么现在的LLM都是Decoder-only的架构？》也有过相关讨论），而对于C...",
+          "link": "https://kexue.fm/archives/10347",
+          "publishedOn": "2024-09-01T07:09:00.000Z",
+          "wordCount": 1573,
+          "title": "Decoder-only的LLM为什么需要位置编码？",
+          "imageUrl": null
+        },
+        {
           "id": "https://kexue.fm/archives/10332",
           "author": "苏剑林",
           "description": "在《让MathJax更好地兼容谷歌翻译和延时加载》我们提到Cool Papers加入了MathJax来解析LaTeX公式，不过万万没想到引发了诸多兼容性问题，虽然部分问题纯粹是笔者的强迫症作祟，...",
