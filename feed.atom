@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-09-02T18:24:16.814Z</updated>
+    <updated>2024-09-02T19:15:18.588Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -14,6 +14,16 @@
         <summary type="html"><![CDATA[[This is a guest post by Meme Master Mark (MMM), who says he's honored that I call him that:  "3M is also from Minnesota" (see the first sentence).] Having spent many of my formative years in Minnesota, "crab raccoon" makes perfect sense. This was a pretty disturbing tattoo: And this one is sure to give […]]]></summary>
         <author>
             <name>Victor Mair</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[R squared and multiple regression]]></title>
+        <id>https://parsiad.ca/blog/2024/r_squared_and_multiple_regression/</id>
+        <link href="https://parsiad.ca/blog/2024/r_squared_and_multiple_regression/"/>
+        <updated>2024-09-02T17:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Motivation]]></summary>
+        <author>
+            <name>Parsiad Azimzadeh</name>
         </author>
     </entry>
     <entry>
