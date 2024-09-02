@@ -1768,6 +1768,16 @@
       "siteUrl": "https://www.jeremykun.com/",
       "articles": [
         {
+          "id": "https://www.jeremykun.com/2024/09/02/shift-networks/",
+          "author": null,
+          "description": "🌿 Budding: a relatively clean article which still needs additional tending.\nIn my recent overview of homomorphic encryption, I underemphasized the importance of data layout when working with arithmetic (SIMD-style) homomorphic encryption schemes. In the FHE world, the name given to data layout strategies is called “packing,” because it revolves around putting multiple plaintext data into RLWE ciphertexts in carefully-chosen ways that mesh well with the operations you’d like to perform.",
+          "link": "https://www.jeremykun.com/2024/09/02/shift-networks/",
+          "publishedOn": "2024-09-02T21:01:03.000Z",
+          "wordCount": 2395,
+          "title": "Shift Networks",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.jeremykun.com/shortform/2024-08-07-1414/",
           "author": null,
           "description": "This blog now accepts webmentions.\nI used webmention.io and webmention.js for live rendering. You can see an example at the end of my old Bezier Curves post.\nAfter my initial experiments with POSSE, I’ve made a few improvements to the system. Now shortform posts are syndicated to Mastodon, Bluesky, and Twitter, and the links to the syndicated posts are automatically added to the end of each post. I don’t have any automatic social media posting for longform posts yet, though I plan to add a very simple version of that soon.",
