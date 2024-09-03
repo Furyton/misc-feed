@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-09-03T01:19:09.401Z</updated>
+    <updated>2024-09-03T02:43:00.940Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -1403,18 +1403,6 @@ The North East and Midlands Stochastic Analysis Seminar (NEMSA) runs four times 
         <summary type="html"><![CDATA[Deep Learning "AI" systems are doing ever more impressive things, although there continues to be plenty of skepticism Out There about the underlying technologies. And now there's increasing skepticism about the economic impact. An 8/2/2024 Atlantic article has the title "The Generative-AI Revolution May Be a Bubble", and the subtitle "Tech firms have been spending […]]]></summary>
         <author>
             <name>Mark Liberman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MLIR — Defining Patterns with PDLL]]></title>
-        <id>https://www.jeremykun.com/2024/08/04/mlir-pdll/</id>
-        <link href="https://www.jeremykun.com/2024/08/04/mlir-pdll/"/>
-        <updated>2024-08-04T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Table of Contents
-In this article I’ll show how to use PDLL, a tool for defining MLIR patterns, which itself is built with MLIR. PDLL is intended to be a replacement for defining patterns in tablegen, though there are few public examples of its use. In fact, the main impetus for PDLL is that tablegen makes it difficult to express things like:
-Operations that return multiple results Operations with regions Operations with variadic operands Arithmetic on static values While not all these features are fully supported in PDLL yet, they are within scope of the language and tooling.]]></summary>
-        <author>
-            <name>Math ∩ Programming</name>
         </author>
     </entry>
     <entry>
