@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-09-04T11:14:34.196Z</updated>
+    <updated>2024-09-04T12:35:35.073Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -1394,16 +1394,6 @@ After my initial experiments with POSSE, I’ve made a few improvements to the s
         <summary type="html"><![CDATA[当要求函数的最小值时，我们通常会先求导函数然后寻找其零点，比较幸运的情况下，这些零点之一正好是原函数的最小值点。如果是向量函数，则将导数改为梯度并求其零点。当梯度零点不易求得时，我们可以使用梯度...]]></summary>
         <author>
             <name>苏剑林</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chan Zuckerberg Initiative considers scikit-learn an Essential Open Source Software]]></title>
-        <id>https://blog.scikit-learn.org/funding/czi-eoss6-announcement/</id>
-        <link href="https://blog.scikit-learn.org/funding/czi-eoss6-announcement/"/>
-        <updated>2024-08-06T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Author: Guillaume Lemaitre , Lucy Liu]]></summary>
-        <author>
-            <name>scikit-learn Blog</name>
         </author>
     </entry>
     <entry>
