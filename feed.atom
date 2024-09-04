@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-09-04T10:19:07.942Z</updated>
+    <updated>2024-09-04T11:14:34.196Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Ocean’s tri bis [blue wave#5]]]></title>
+        <id>http://xianblog.wordpress.com/?p=57359</id>
+        <link href="https://xianblog.wordpress.com/2024/09/04/oceans-tri-bis-blue-wave5/"/>
+        <updated>2024-09-04T10:24:39.000Z</updated>
+        <summary type="html"><![CDATA[Visit the post for more.]]></summary>
+        <author>
+            <name>xi'an</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Australian government assessment of AI vs. human performance]]></title>
         <id>https://languagelog.ldc.upenn.edu/nll/?p=65807</id>
@@ -1394,16 +1404,6 @@ After my initial experiments with POSSE, I’ve made a few improvements to the s
         <summary type="html"><![CDATA[Author: Guillaume Lemaitre , Lucy Liu]]></summary>
         <author>
             <name>scikit-learn Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JSM 2024, Portland, Day 1]]></title>
-        <id>http://xianblog.wordpress.com/?p=57043</id>
-        <link href="https://xianblog.wordpress.com/2024/08/06/jsm-2024-portland-day-1/"/>
-        <updated>2024-08-05T22:24:57.000Z</updated>
-        <summary type="html"><![CDATA[Strolling through the Oregon Conference Centre on 5 Aug, I am as always amazed at how the JSM conference centres have the ability to swallow in thousands of participants without giving an impression of overcrowding! (And appreciating the moderate air conditioning, which for once does not require wearing a fleece indoors!), I must admit that […]]]></summary>
-        <author>
-            <name>xi'an</name>
         </author>
     </entry>
     <entry>
