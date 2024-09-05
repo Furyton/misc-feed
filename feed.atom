@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-09-05T22:16:36.035Z</updated>
+    <updated>2024-09-05T23:19:18.042Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[my neighbour who invented the gradient descent from the top of his hill]]></title>
+        <id>http://xianblog.wordpress.com/?p=57254</id>
+        <link href="https://xianblog.wordpress.com/2024/09/06/my-neighbour-who-invented-the-gradient-descent-from-the-top-of-his-hill/"/>
+        <updated>2024-09-05T22:24:27.000Z</updated>
+        <summary type="html"><![CDATA[“It will suffice therefore, either to resolved this last equation, or at least to attribute to θ a sufficiently small value, in order to obtain a new value of u inferior to u. If the new value of u is not a minimum, one will be able to deduce, by operating always in the same […]]]></summary>
+        <author>
+            <name>xi'an</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AlphaProteo generates novel proteins for biology and health research]]></title>
         <id>https://deepmind.google/discover/blog/alphaproteo-generates-novel-proteins-for-biology-and-health-research/</id>
