@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-09-05T14:16:54.594Z</updated>
+    <updated>2024-09-05T15:18:58.279Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[AlphaProteo generates novel proteins for biology and health research]]></title>
+        <id>https://deepmind.google/discover/blog/alphaproteo-generates-novel-proteins-for-biology-and-health-research/</id>
+        <link href="https://deepmind.google/discover/blog/alphaproteo-generates-novel-proteins-for-biology-and-health-research/"/>
+        <updated>2024-09-05T15:00:00.000Z</updated>
+        <author>
+            <name>Google DeepMind Blog</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Think global, act local]]></title>
         <id>https://www.argmin.net/p/think-global-act-local</id>
