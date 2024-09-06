@@ -1355,6 +1355,16 @@
       "siteUrl": "https://gilkalai.wordpress.com",
       "articles": [
         {
+          "id": "http://gilkalai.wordpress.com/?p=26768",
+          "author": "Gil Kalai",
+          "description": "Israeli Mathematical Union annual meeting and student talks day, Sunday and Monday, September 8 – 9, 2024. The Annual meeting of the Israeli Mathematical Union will be held on Sunday, September 8th 2024 at the Weizmann Institute. The main speakers … Continue reading →",
+          "link": "https://gilkalai.wordpress.com/2024/09/06/two-events/",
+          "publishedOn": "2024-09-06T07:36:33.000Z",
+          "wordCount": 4009,
+          "title": "Two Events",
+          "imageUrl": "https://gilkalai.wordpress.com/wp-content/uploads/2024/09/events.png"
+        },
+        {
           "id": "http://gilkalai.wordpress.com/?p=26748",
           "author": "Gil Kalai",
           "description": "Andrew and Barbara are playing a game. Fifteen boxes are arranged in a 3-by-5 grid, labeled with the letters A through O, as shown below. A B C D E F G H I J K L M N O … Continue reading →",
@@ -1407,18 +1417,7 @@
       "title": "Windows On Theory",
       "feedUrl": "https://windowsontheory.org/feed/",
       "siteUrl": "https://windowsontheory.org",
-      "articles": [
-        {
-          "id": "http://windowsontheory.org/?p=8791",
-          "author": "Boaz Barak",
-          "description": "The following events will take place to honor our dear colleague and friend Luca Trevisan, that our community lost this June.",
-          "link": "https://windowsontheory.org/2024/08/07/events-in-honor-of-luca-trevisan/",
-          "publishedOn": "2024-08-07T19:26:40.000Z",
-          "wordCount": 3812,
-          "title": "Events in honor of Luca Trevisan",
-          "imageUrl": "https://s0.wp.com/i/blank.jpg"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "UCSD Machine Learning Group",
@@ -1904,6 +1903,16 @@
       "siteUrl": "https://gilkalai.wordpress.com",
       "articles": [
         {
+          "id": "http://gilkalai.wordpress.com/?p=26768",
+          "author": "Gil Kalai",
+          "description": "Israeli Mathematical Union annual meeting and student talks day, Sunday and Monday, September 8 – 9, 2024. The Annual meeting of the Israeli Mathematical Union will be held on Sunday, September 8th 2024 at the Weizmann Institute. The main speakers … Continue reading →",
+          "link": "https://gilkalai.wordpress.com/2024/09/06/two-events/",
+          "publishedOn": "2024-09-06T07:36:33.000Z",
+          "wordCount": 4009,
+          "title": "Two Events",
+          "imageUrl": "https://gilkalai.wordpress.com/wp-content/uploads/2024/09/events.png"
+        },
+        {
           "id": "http://gilkalai.wordpress.com/?p=26748",
           "author": "Gil Kalai",
           "description": "Andrew and Barbara are playing a game. Fifteen boxes are arranged in a 3-by-5 grid, labeled with the letters A through O, as shown below. A B C D E F G H I J K L M N O … Continue reading →",
@@ -1930,6 +1939,16 @@
       "feedUrl": "https://www.skywind.me/blog/feed",
       "siteUrl": "https://www.skywind.me/blog",
       "articles": [
+        {
+          "id": "https://www.skywind.me/blog/?p=2828",
+          "author": "skywind",
+          "description": "作为一名编辑器爱好者，EditPlus 是我最喜欢的编辑器之一，超过 NotePad++，它启动速度比它快，打开文件比它快，功能比它强，颜值也比它高，但大小只有 2MB： 不过要让它变得好用，能够方便开发，还需要做一些必要的设置，先配置下 GCC 的工具： （点击 more/continue 展开） 选择主菜单 Tools-> Configure User Tools： 然后点右边按钮 “Add Tool” 并选择 “Program”，然后在下面填空： Menu text: Execute Program Command: C:\\Windows\\system32\\cmd.exe Argument: /C \"$(FileNameNoExt)\" Initial directory: $(FileDir) 这些形如 $(FileDir) 之类的宏不用死记，点输入框右边的下箭头按钮，就能弹出菜单，让你选择后自动插入： 配置好以后，点下方 “Apply” 按钮确定，这样我们多出一个工具来，按 Ctrl+1 运行当前 … Continue reading →\nThe post EditPlus 的配置方法 appeared first on Skywind Inside.",
+          "link": "https://www.skywind.me/blog/archives/2828",
+          "publishedOn": "2024-09-05T15:05:00.000Z",
+          "wordCount": 1490,
+          "title": "EditPlus 的配置方法",
+          "imageUrl": "https://skywind3000.github.io/images/blog/2024/epp/editplus.png"
+        },
         {
           "id": "https://www.skywind.me/blog/?p=2808",
           "author": "skywind",
@@ -2423,18 +2442,7 @@
       "title": "Windows On Theory",
       "feedUrl": "https://windowsontheory.org/feed/",
       "siteUrl": "https://windowsontheory.org",
-      "articles": [
-        {
-          "id": "http://windowsontheory.org/?p=8791",
-          "author": "Boaz Barak",
-          "description": "The following events will take place to honor our dear colleague and friend Luca Trevisan, that our community lost this June.",
-          "link": "https://windowsontheory.org/2024/08/07/events-in-honor-of-luca-trevisan/",
-          "publishedOn": "2024-08-07T19:26:40.000Z",
-          "wordCount": 3812,
-          "title": "Events in honor of Luca Trevisan",
-          "imageUrl": "https://s0.wp.com/i/blank.jpg"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Machine Learning (Theory)",
