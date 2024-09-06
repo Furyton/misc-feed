@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-09-06T08:22:55.699Z</updated>
+    <updated>2024-09-06T09:19:37.768Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -1402,18 +1402,6 @@ Truncated GPT-4 response as r…]]></summary>
         <summary type="html"><![CDATA[A recently arXived paper proposes an alternative approach to computing Bayes factors via deep learning, Deep Bayes Factors written by Jungeum Kim and Veronika Ročková (whom I have known from her PhD years). Which is obviously of interest to me, given my repeated visits to the challenge. “we introduce Deep Bayes Factor (DeepBF), a neural […]]]></summary>
         <author>
             <name>xi'an</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Webmentions and POSSE improvements]]></title>
-        <id>https://www.jeremykun.com/shortform/2024-08-07-1414/</id>
-        <link href="https://www.jeremykun.com/shortform/2024-08-07-1414/"/>
-        <updated>2024-08-07T21:14:00.000Z</updated>
-        <summary type="html"><![CDATA[This blog now accepts webmentions.
-I used webmention.io and webmention.js for live rendering. You can see an example at the end of my old Bezier Curves post.
-After my initial experiments with POSSE, I’ve made a few improvements to the system. Now shortform posts are syndicated to Mastodon, Bluesky, and Twitter, and the links to the syndicated posts are automatically added to the end of each post. I don’t have any automatic social media posting for longform posts yet, though I plan to add a very simple version of that soon.]]></summary>
-        <author>
-            <name>Math ∩ Programming</name>
         </author>
     </entry>
     <entry>
