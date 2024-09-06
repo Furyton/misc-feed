@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-09-06T10:19:31.332Z</updated>
+    <updated>2024-09-06T11:16:08.301Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Ocean’s boccia [blue wave#7]]]></title>
+        <id>http://xianblog.wordpress.com/?p=57384</id>
+        <link href="https://xianblog.wordpress.com/2024/09/06/oceans-bad-blue-wave7/"/>
+        <updated>2024-09-06T10:24:33.000Z</updated>
+        <summary type="html"><![CDATA[Visit the post for more.]]></summary>
+        <author>
+            <name>xi'an</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“闭门造车”之多模态思路浅谈（三）：位置编码]]></title>
         <id>https://kexue.fm/archives/10352</id>
@@ -1402,16 +1412,6 @@ Truncated GPT-4 response as r…]]></summary>
         <summary type="html"><![CDATA[Xinyi Ye came upon this post on Zhīhū 知乎 ("Did you know?"), a Chinese social media site that is comparable to Quora: Rúhé kàndài huíguó rénshì shuōhuà jiádài Yīngwén? 如何看待回国人士说话夹带英文？ "How should we view / treat people returning to China [from abroad] who mix English in their speech?" The author is Ren Zeyu, who seems […]]]></summary>
         <author>
             <name>Victor Mair</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[deep Bayes factor]]></title>
-        <id>http://xianblog.wordpress.com/?p=56875</id>
-        <link href="https://xianblog.wordpress.com/2024/08/08/deep-bayes-factor/"/>
-        <updated>2024-08-07T22:24:13.000Z</updated>
-        <summary type="html"><![CDATA[A recently arXived paper proposes an alternative approach to computing Bayes factors via deep learning, Deep Bayes Factors written by Jungeum Kim and Veronika Ročková (whom I have known from her PhD years). Which is obviously of interest to me, given my repeated visits to the challenge. “we introduce Deep Bayes Factor (DeepBF), a neural […]]]></summary>
-        <author>
-            <name>xi'an</name>
         </author>
     </entry>
     <entry>
