@@ -1803,6 +1803,16 @@
       "siteUrl": "https://www.jeremykun.com/",
       "articles": [
         {
+          "id": "https://www.jeremykun.com/2024/09/06/packing-matrix-vector-multiplication-in-fhe/",
+          "author": null,
+          "description": "In my recent overview of homomorphic encryption, I underemphasized the importance of data layout when working with arithmetic (SIMD-style) homomorphic encryption schemes. In the FHE world, the name given to data layout strategies is called “packing,” because it revolves around putting multiple plaintext data into RLWE ciphertexts in carefully-chosen ways that mesh well with the operations you’d like to perform. By “mesh well” I mean it reduces the number of extra multiplications and rotations required merely to align data elements properly, rather than doing the actual computation you care about.",
+          "link": "https://www.jeremykun.com/2024/09/06/packing-matrix-vector-multiplication-in-fhe/",
+          "publishedOn": "2024-09-06T21:18:09.000Z",
+          "wordCount": 2646,
+          "title": "Packing Matrix-Vector Multiplication in Fully Homomorphic Encryption",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.jeremykun.com/2024/09/02/shift-networks/",
           "author": null,
           "description": "🌿 Budding: a relatively clean article which still needs additional tending.\nIn my recent overview of homomorphic encryption, I underemphasized the importance of data layout when working with arithmetic (SIMD-style) homomorphic encryption schemes. In the FHE world, the name given to data layout strategies is called “packing,” because it revolves around putting multiple plaintext data into RLWE ciphertexts in carefully-chosen ways that mesh well with the operations you’d like to perform.",
