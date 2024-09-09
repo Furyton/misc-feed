@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-09-09T13:25:05.592Z</updated>
+    <updated>2024-09-09T14:19:24.977Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA["Word salad"]]></title>
+        <id>https://languagelog.ldc.upenn.edu/nll/?p=65902</id>
+        <link href="https://languagelog.ldc.upenn.edu/nll/?p=65902&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=word-salad"/>
+        <updated>2024-09-09T13:52:40.000Z</updated>
+        <summary type="html"><![CDATA[According to Wikipedia, a word salad is a "confused or unintelligible mixture of seemingly random words and phrases", most often used to describe a symptom of a neurological or mental disorder. The name schizophasia is used in particular to describe the confused language that may be evident in schizophrenia. The words may or may not […]]]></summary>
+        <author>
+            <name>Mark Liberman</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA["Welcome in!"]]></title>
         <id>https://languagelog.ldc.upenn.edu/nll/?p=65880</id>
