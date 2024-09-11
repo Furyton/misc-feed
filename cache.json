@@ -2016,6 +2016,16 @@
         {
           "id": "https://www.skywind.me/blog/?p=2828",
           "author": "skywind",
+          "description": "作为一名编辑器爱好者，EditPlus 是我最喜欢的编辑器之一，超过 NotePad++，它启动速度比它快，打开文件比它快，功能比它强，颜值也比它高，但大小只有 2MB： 用了这么多年，我感觉我欠 EditPlus 一篇文章，介绍一下我平时是如何是用 EditPlus 搭建开发环境的，以及如何让它变得更好用： （点击 more/continue 展开） 先配置下 GCC 的工具，选择主菜单 Tools-> Configure User Tools： 然后点右边按钮 “Add Tool” 并选择 “Program”，然后在下面填空： Menu text: Execute Program Command: C:\\Windows\\system32\\cmd.exe Argument: /C \"$(FileNameNoExt)\" Initial directory: $(FileDir) 这些形如 $(FileDir) 之类的宏不用死记，点输入框右边的下箭头按钮，就能弹出菜单，让你选择后自动插入： 配置好以后，点下方 … Continue reading →\nThe post EditPlus 的配置方法 appeared first on Skywind Inside.",
+          "link": "https://skywind.me/blog/archives/2828",
+          "publishedOn": "2024-09-05T15:05:00.000Z",
+          "wordCount": 1786,
+          "title": "EditPlus 的配置方法",
+          "imageUrl": "https://skywind3000.github.io/images/blog/2024/epp/editplus.png"
+        },
+        {
+          "id": "https://www.skywind.me/blog/?p=2828",
+          "author": "skywind",
           "description": "作为一名编辑器爱好者，EditPlus 是我最喜欢的编辑器之一，超过 NotePad++，它启动速度比它快，打开文件比它快，功能比它强，颜值也比它高，但大小只有 2MB： 不过要让它变得好用，能够方便开发，还需要做一些必要的设置，先配置下 GCC 的工具： （点击 more/continue 展开） 选择主菜单 Tools-> Configure User Tools： 然后点右边按钮 “Add Tool” 并选择 “Program”，然后在下面填空： Menu text: Execute Program Command: C:\\Windows\\system32\\cmd.exe Argument: /C \"$(FileNameNoExt)\" Initial directory: $(FileDir) 这些形如 $(FileDir) 之类的宏不用死记，点输入框右边的下箭头按钮，就能弹出菜单，让你选择后自动插入： 配置好以后，点下方 “Apply” 按钮确定，这样我们多出一个工具来，按 Ctrl+1 运行当前 … Continue reading →\nThe post EditPlus 的配置方法 appeared first on Skywind Inside.",
           "link": "https://www.skywind.me/blog/archives/2828",
           "publishedOn": "2024-09-05T15:05:00.000Z",
@@ -2026,12 +2036,32 @@
         {
           "id": "https://www.skywind.me/blog/?p=2808",
           "author": "skywind",
+          "description": "今天互联网上的内容，由于各种原因，正在以越来越快的速度消失，而习惯什么都从网上找的新一代网民们，却并没有备份和记录的习惯及意识。不远的将来，会有一天，当你特别想找某个工具却搜尽互联网你都找不到时，才会发现对珍贵资源做好收藏的必要性。 Windows XP 依然是一个完美的怀旧平台，它可以向后兼容到 Windows 95 的程序，是一个运行经典软件，玩经典游戏的完美方案。 图形界大佬 John Carmack 在推特上呼吁大家，现在应该有意识的保存你的开发环境，这样多年以后你想重新构建你的软件时才不会慌脚乱手，因为通常每过几年你常常会发现，自己之前的老代码已经没有合适的环境编译了： 本光盘包含了构建 Windows XP 程序所需要的必要工具，包括编译器，文本编辑器，集成开发环境和各种工具，他们全都能运行于 XP 下，并且能构建兼容 Windows XP 的项目。 制作原则：精选工具，断网可用，末日恢复，自包含无依赖，开发工具博物馆，帮你完全在 Windows XP 下工作，让你拥有 XP 下的沉浸式开发体验，容量却不超过一张 CD。 版权声明：本光碟采用 winworldpc.com 类似的版权声明，尽量收录开源或者不再销售的软件产品，目的是保护这些快绝版的资源。 光盘目录如下： 具体内容和下载地址见下文说明。 （点击 more 继续） 编译器（Compiler） 编译器的 Compiler 目录内包含以下几个工具： 目录内包含三套 … Continue reading →\nThe post CD4：Windows XP 开发宝典 appeared first on Skywind Inside.",
+          "link": "https://skywind.me/blog/archives/2808",
+          "publishedOn": "2024-09-02T15:05:00.000Z",
+          "wordCount": 2383,
+          "title": "CD4：Windows XP 开发宝典",
+          "imageUrl": "https://skywind3000.github.io/images/blog/2024/xp/carmack.png"
+        },
+        {
+          "id": "https://www.skywind.me/blog/?p=2808",
+          "author": "skywind",
           "description": "今天互联网上的内容，由于各种原因，正在以越来越快的速度消失，而习惯什么都从网上找的新一代网民们，却并没有备份和记录的习惯及意识。不远的将来，会有一天，当你特别想找某个工具却搜尽互联网你都找不到时，才会发现对珍贵资源做好收藏的必要性。 Windows XP 依然是一个完美的怀旧平台，它可以向后兼容到 Windows 95 的程序，是一个运行经典软件，玩经典游戏的完美方案。 图形界大佬 John Carmack 在推特上呼吁大家，现在应该有意识的保存你的开发环境，这样多年以后你想重新构建你的软件时才不会慌脚乱手，因为通常每过几年你常常会发现，自己之前的老代码已经没有合适的环境编译了： 本光盘包含了构建 Windows XP 程序所需要的必要工具，包括编译器，文本编辑器，集成开发环境和各种工具，他们全都能运行于 XP 下，并且能构建兼容 Windows XP 的项目。 制作原则：精选工具，断网可用，末日恢复，自包含无依赖，开发工具博物馆，帮你完全在 Windows XP 下工作，让你拥有 XP 下的沉浸式开发体验，容量却不超过一张 CD。 版权声明：本光碟采用 winworldpc.com 类似的版权声明，尽量收录开源或者不再销售的软件产品，目的是保护这些快绝版的资源。 光盘目录如下： （点击 more 继续） 编译器（Compiler） 编译器的 Compiler 目录内包含以下几个工具： 目录内包含三套 MinGW … Continue reading →\nThe post CD4：Windows XP 开发宝典 appeared first on Skywind Inside.",
           "link": "https://www.skywind.me/blog/archives/2808",
           "publishedOn": "2024-09-02T15:05:00.000Z",
           "wordCount": 2336,
           "title": "CD4：Windows XP 开发宝典",
           "imageUrl": "https://skywind3000.github.io/images/blog/2024/xp/carmack.png"
+        },
+        {
+          "id": "https://www.skywind.me/blog/?p=2768",
+          "author": "skywind",
+          "description": "CMake 已经成为 C++ 构建工具事实上的标准了，即便觉得它很难用，但项目发布，跨部门协同，基本都以 cmake 为准。尽管你可能觉得其它构建工具更顺手，没问题，你们平时用就行，但项目发布或者跨团队协同时，你得同时用上 cmake 来标准化。 那么对于内部中小项目，非正式个人练手项目，或者非发布阶段的开发过程，是否也需要上 cmake 呢？还真不一定，一旦不用 cover 整个宇宙的构建需求，我们大可以找一个趁手的二号构建工具，满足平时使用。那么哪个二号构建工具值得推荐呢？ 很多流行的构建工具，从 xmake 到 meson，恐怕都不适合，因为他们都试图同 cmake 去竞争试图要 cover 整个宇宙，即便号称精简，也不可能精简到哪里，尽管他们最简单的 demo 看起来好像真的超简单，但再稍微复杂点，比如考虑多平台架构，加个 release/debug 和包管理，一个个都变得丑陋不堪，立马原型毕露，因为他们都是命令式的。 我从 2009 年开发了一个叫做 emake 的构建工具，就是一个 emake.py 的单一脚本，持续使用并陆陆续续迭代了 15 年，今天感觉可以让他出来走两步。 推荐它，因为它有可能是你见过最简单的构建工具了，简单到什么程度呢？ （点击 more 展开阅读） 第一：定义式构建工具 简单点例子：main.mak … Continue reading →\nThe post Emake：你见过最简单的 C/C++ 构建工具 appeared first on Skywind Inside.",
+          "link": "https://skywind.me/blog/archives/2768",
+          "publishedOn": "2024-08-28T17:05:00.000Z",
+          "wordCount": 1872,
+          "title": "Emake：你见过最简单的 C/C++ 构建工具",
+          "imageUrl": null
         },
         {
           "id": "https://www.skywind.me/blog/?p=2768",
