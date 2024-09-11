@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-09-11T16:22:55.315Z</updated>
+    <updated>2024-09-11T17:15:20.933Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Yet again the Voynich manuscript]]></title>
+        <id>https://languagelog.ldc.upenn.edu/nll/?p=65930</id>
+        <link href="https://languagelog.ldc.upenn.edu/nll/?p=65930&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=yet-again-the-voynich-manuscript"/>
+        <updated>2024-09-11T16:32:18.000Z</updated>
+        <summary type="html"><![CDATA[Perhaps as early as 1640, decipherers have tried practically everything to decode the maddeningly frustrating Voynich manuscript.  So far it has resisted all efforts to identify the language in which it was presumably written.  About the only way to make further progress in cracking the code is to apply some new technology.  As described in […]]]></summary>
+        <author>
+            <name>Victor Mair</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Guardian on [and on and on] Grothendieck]]></title>
         <id>http://xianblog.wordpress.com/?p=57389</id>
