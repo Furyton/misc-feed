@@ -2529,16 +2529,6 @@
           "wordCount": 3228,
           "title": "mixture models [book review]",
           "imageUrl": "https://images.routledge.com/common/jackets/crclarge/978036748/9780367481827.jpg"
-        },
-        {
-          "id": "http://xianblog.wordpress.com/?p=57158",
-          "author": "xi'an",
-          "description": "Visit the post for more.",
-          "link": "https://xianblog.wordpress.com/2024/08/13/tas-de-beaux-jeux-tu-sais-endgame/",
-          "publishedOn": "2024-08-13T13:15:44.000Z",
-          "wordCount": 2445,
-          "title": "t’as de beaux jeux, tu sais [endgame]",
-          "imageUrl": "https://xianblog.wordpress.com/wp-content/uploads/2024/08/bozyeu.jpeg"
         }
       ]
     },
@@ -2571,6 +2561,16 @@
       "feedUrl": "https://languagelog.ldc.upenn.edu/nll/?feed=rss2",
       "siteUrl": "https://languagelog.ldc.upenn.edu/nll",
       "articles": [
+        {
+          "id": "https://languagelog.ldc.upenn.edu/nll/?p=65935",
+          "author": "Mark Liberman",
+          "description": "Following up on \"Type-token plots in The Economist\" (9/6/2024), I lost some sleep last night doing some analyses of the presidential debate, which I shared with writers at The Economist to be published as \"An alternative look at the Trump-Harris debate, in five charts\",  9/11/2024. They lead with another type-token graph: One of their other […]",
+          "link": "https://languagelog.ldc.upenn.edu/nll/?p=65935&utm_source=rss&utm_medium=rss&utm_campaign=quantifying-the-debate",
+          "publishedOn": "2024-09-11T23:41:51.000Z",
+          "wordCount": 2367,
+          "title": "Quantifying the debate",
+          "imageUrl": null
+        },
         {
           "id": "https://languagelog.ldc.upenn.edu/nll/?p=65930",
           "author": "Victor Mair",
