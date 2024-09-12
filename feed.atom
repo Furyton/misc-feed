@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-09-12T01:20:59.373Z</updated>
+    <updated>2024-09-12T02:42:35.817Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -24,6 +24,16 @@
         <summary type="html"><![CDATA[f]]></summary>
         <author>
             <name>xi'an</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[An introduction to the curiously recurring template pattern]]></title>
+        <id>https://parsiad.ca/blog/2024/an_introduction_to_the_curiously_recurring_template_pattern/</id>
+        <link href="https://parsiad.ca/blog/2024/an_introduction_to_the_curiously_recurring_template_pattern/"/>
+        <updated>2024-09-11T17:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Motivation]]></summary>
+        <author>
+            <name>Parsiad Azimzadeh</name>
         </author>
     </entry>
     <entry>
@@ -1495,16 +1505,6 @@ Truncated GPT-4 response as r…]]></summary>
         <summary type="html"><![CDATA[Strangely enough, I became aware of this new book on mixtures through one of these annoying emails “Your work has been cited n times this week“… Mixture Models (Parametric, Semiparametric, and New Directions) by Weixin Yao and Sijia Wang got published by CRC Press earlier this year, within the Monographs on Statistics and Applied Probability […]]]></summary>
         <author>
             <name>xi'an</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Sinitic Word for "million" in Southeast Asian Mandarin, part 2]]></title>
-        <id>https://languagelog.ldc.upenn.edu/nll/?p=65396</id>
-        <link href="https://languagelog.ldc.upenn.edu/nll/?p=65396&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=the-sinitic-word-for-million-in-southeast-asian-mandarin-part-2"/>
-        <updated>2024-08-13T13:52:29.000Z</updated>
-        <summary type="html"><![CDATA[[This is a guest post by Liam Kelley.] Looking up "triệu" in this Nom dictionary brings up an example from a line in a work that appears to date from the early twentieth century that states: "The soul of the 4,000-year-old country has yet to awaken. The 25 million [triệu兆 ] people are still deep […]]]></summary>
-        <author>
-            <name>Victor Mair</name>
         </author>
     </entry>
     <entry>
