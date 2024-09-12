@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-09-12T10:19:50.672Z</updated>
+    <updated>2024-09-12T11:15:25.366Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Ocean’s missing .003 seconds [blue wave#11]]]></title>
+        <id>http://xianblog.wordpress.com/?p=57467</id>
+        <link href="https://xianblog.wordpress.com/2024/09/12/oceans-missing-003-seconds-blue-wave11/"/>
+        <updated>2024-09-12T10:24:26.000Z</updated>
+        <summary type="html"><![CDATA[3/100]]></summary>
+        <author>
+            <name>xi'an</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Quantifying the debate]]></title>
         <id>https://languagelog.ldc.upenn.edu/nll/?p=65935</id>
@@ -1495,16 +1505,6 @@ Truncated GPT-4 response as r…]]></summary>
         <summary type="html"><![CDATA[From Bored Panda (8/5/24).  For people who love food and the culinary arts, this issue of Bored Panda, which has fifty parts, is almost like a bible. Alas, no shime (see first item under "Selected readings" below, though nabe is mentioned in that post). Selected readings        "Phoshime" (8/7/24) "Chinese and Japanese Terms for Food Textures" (8/10/23) "Zo sashimi" […]]]></summary>
         <author>
             <name>Victor Mair</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[mixture models [book review]]]></title>
-        <id>http://xianblog.wordpress.com/?p=56293</id>
-        <link href="https://xianblog.wordpress.com/2024/08/14/mixture-models-book-review/"/>
-        <updated>2024-08-13T22:24:03.000Z</updated>
-        <summary type="html"><![CDATA[Strangely enough, I became aware of this new book on mixtures through one of these annoying emails “Your work has been cited n times this week“… Mixture Models (Parametric, Semiparametric, and New Directions) by Weixin Yao and Sijia Wang got published by CRC Press earlier this year, within the Monographs on Statistics and Applied Probability […]]]></summary>
-        <author>
-            <name>xi'an</name>
         </author>
     </entry>
     <entry>
