@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-09-12T14:19:19.789Z</updated>
+    <updated>2024-09-12T15:19:06.751Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Stretching the Definitions]]></title>
+        <id>https://www.argmin.net/p/stretching-the-definitions</id>
+        <link href="https://www.argmin.net/p/stretching-the-definitions"/>
+        <updated>2024-09-12T14:19:32.000Z</updated>
+        <summary type="html"><![CDATA[Some problems aren't convex but are close enough.]]></summary>
+        <author>
+            <name>Ben Recht</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stretching the Definitions]]></title>
+        <id>https://www.argmin.net/p/stretching-the-definitions</id>
+        <link href="https://www.argmin.net/p/stretching-the-definitions"/>
+        <updated>2024-09-12T14:19:32.000Z</updated>
+        <summary type="html"><![CDATA[Some problems aren't convex but are close enough.]]></summary>
+        <author>
+            <name>Ben Recht</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Our latest advances in robot dexterity]]></title>
         <id>https://deepmind.google/discover/blog/advances-in-robot-dexterity/</id>
@@ -24,6 +44,16 @@
         <summary type="html"><![CDATA[3/100]]></summary>
         <author>
             <name>xi'an</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Arm Joins the PyTorch Foundation as a Premier Member]]></title>
+        <id>https://pytorch.org/blog/arm-joins-pytorch/</id>
+        <link href="https://pytorch.org/blog/arm-joins-pytorch/"/>
+        <updated>2024-09-12T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The PyTorch Foundation, a neutral home for the deep learning community to collaborate on the open source PyTorch framework and ecosystem, is announcing today that Arm has joined as a premier member.]]></summary>
+        <author>
+            <name>PyTorch Website</name>
         </author>
     </entry>
     <entry>
