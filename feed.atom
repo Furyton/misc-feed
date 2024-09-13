@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-09-13T22:17:34.924Z</updated>
+    <updated>2024-09-13T23:17:49.917Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[celebrating Ivar Ekeland⁸⁰ (24-25 Sept)]]></title>
+        <id>http://xianblog.wordpress.com/?p=57334</id>
+        <link href="https://xianblog.wordpress.com/2024/09/14/celebrating-ivar-ekeland-24-25-sept/"/>
+        <updated>2024-09-13T22:24:33.000Z</updated>
+        <summary type="html"><![CDATA[Next week, our lab (CEREMADE) is celebrating the 80th birthday of our friend and colleague Ivar Ekeland with two days of talks and chats. (Registration is free.) Ivar is a leading figure in nonlinear functional analysis, calculus of variations, and mathematical economics. But also a moral beacon for many of us! He was the chairman […]]]></summary>
+        <author>
+            <name>xi'an</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Is there a finite number of pronunciations for anything?]]></title>
         <id>https://languagelog.ldc.upenn.edu/nll/?p=65960</id>
