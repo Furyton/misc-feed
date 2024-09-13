@@ -1506,6 +1506,22 @@
       "siteUrl": "https://www.argmin.net",
       "articles": [
         {
+          "id": "https://www.argmin.net/p/linear-doesnt-mean-easy",
+          "author": "Ben Recht",
+          "description": "Applied linear algebra is much harder than advertised.",
+          "link": "https://www.argmin.net/p/linear-doesnt-mean-easy",
+          "publishedOn": "2024-09-13T14:36:06.000Z",
+          "wordCount": null,
+          "title": "Linear Doesn't Mean Easy",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substack-post-media.s3.amazonaws.com/public/images/94a93372-fd5f-4f4a-9309-be20d57d35ce_840x599.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substack-post-media.s3.amazonaws.com/public/images/94a93372-fd5f-4f4a-9309-be20d57d35ce_840x599.jpeg"
+        },
+        {
           "id": "https://www.argmin.net/p/stretching-the-definitions",
           "author": "Ben Recht",
           "description": "Some problems aren't convex but are close enough.",
@@ -1639,7 +1655,28 @@
       "title": "Python⇒Speed",
       "feedUrl": "https://pythonspeed.com/atom.xml",
       "siteUrl": "https://pythonspeed.com/atom.xml",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://pythonspeed.com/articles/upgrade-python-3.13/",
+          "author": null,
+          "description": "Python 3.13 will be out October 1, 2024—but should you switch to it immediately?\nAnd if you shouldn’t upgrade just yet, when should you?\nImmediately after the release, you probably didn’t want to upgrade just yet.\nBut from December 2024 and onwards, upgrading is definitely worth trying, though it may not succeed.\nTo understand why, we need to consider Python packaging, the software development process, and take a look at the history of past releases.\nRead more...",
+          "link": "https://pythonspeed.com/articles/upgrade-python-3.13/",
+          "publishedOn": "2024-09-12T00:00:00.000Z",
+          "wordCount": 1275,
+          "title": "When should you upgrade to Python 3.13?",
+          "imageUrl": "https://pythonspeed.com/assets/titles/upgrade-python-3.13.png"
+        },
+        {
+          "id": "https://pythonspeed.com/articles/stop-using-python-3.8/",
+          "author": null,
+          "description": "Upgrading to new software versions is work, and work that doesn’t benefit your software’s users.\nUsers care about features and bug fixes, not how up-to-date you are.\nSo it’s perhaps not surprising how many people still use Python 3.8.\nAs of September 2024, about 14% of packages downloaded from PyPI were for Python 3.8.\nThis includes automated downloads as part of CI runs, so it doesn’t mean 3.8 is used in 14% of applications, but that’s still 250 million packages installed in a single day!\nStill, there is only so much time you can delay upgrading, and for Python 3.8, the time to upgrade is as soon as possible.\nPython 3.8 is reaching its end of life at the end of October 2024.\nNo more bug fixes.\nNo more security fixes.\n“He’s dead, Jim.”\nStill not convinced? Let’s see why you want to upgrade.\nRead more...",
+          "link": "https://pythonspeed.com/articles/stop-using-python-3.8/",
+          "publishedOn": "2024-09-12T00:00:00.000Z",
+          "wordCount": 1101,
+          "title": "It's time to stop using Python 3.8",
+          "imageUrl": "https://pythonspeed.com/assets/titles/stop-using-python-3.8.png"
+        }
+      ]
     },
     {
       "title": "统计之都",
@@ -1913,6 +1950,22 @@
       "feedUrl": "https://www.argmin.net/feed.xml",
       "siteUrl": "https://www.argmin.net",
       "articles": [
+        {
+          "id": "https://www.argmin.net/p/linear-doesnt-mean-easy",
+          "author": "Ben Recht",
+          "description": "Applied linear algebra is much harder than advertised.",
+          "link": "https://www.argmin.net/p/linear-doesnt-mean-easy",
+          "publishedOn": "2024-09-13T14:36:06.000Z",
+          "wordCount": null,
+          "title": "Linear Doesn't Mean Easy",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substack-post-media.s3.amazonaws.com/public/images/94a93372-fd5f-4f4a-9309-be20d57d35ce_840x599.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substack-post-media.s3.amazonaws.com/public/images/94a93372-fd5f-4f4a-9309-be20d57d35ce_840x599.jpeg"
+        },
         {
           "id": "https://www.argmin.net/p/stretching-the-definitions",
           "author": "Ben Recht",

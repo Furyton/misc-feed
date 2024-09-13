@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-09-13T14:16:52.537Z</updated>
+    <updated>2024-09-13T15:19:54.451Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Linear Doesn't Mean Easy]]></title>
+        <id>https://www.argmin.net/p/linear-doesnt-mean-easy</id>
+        <link href="https://www.argmin.net/p/linear-doesnt-mean-easy"/>
+        <updated>2024-09-13T14:36:06.000Z</updated>
+        <summary type="html"><![CDATA[Applied linear algebra is much harder than advertised.]]></summary>
+        <author>
+            <name>Ben Recht</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linear Doesn't Mean Easy]]></title>
+        <id>https://www.argmin.net/p/linear-doesnt-mean-easy</id>
+        <link href="https://www.argmin.net/p/linear-doesnt-mean-easy"/>
+        <updated>2024-09-13T14:36:06.000Z</updated>
+        <summary type="html"><![CDATA[Applied linear algebra is much harder than advertised.]]></summary>
+        <author>
+            <name>Ben Recht</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ocean’s goals [blue wave#12]]]></title>
         <id>http://xianblog.wordpress.com/?p=57474</id>
@@ -86,6 +106,42 @@ I also had some 2x6 boards left over from a different part of the shed, and I re
         <summary type="html"><![CDATA[The PyTorch Foundation, a neutral home for the deep learning community to collaborate on the open source PyTorch framework and ecosystem, is announcing today that Arm has joined as a premier member.]]></summary>
         <author>
             <name>PyTorch Website</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[When should you upgrade to Python 3.13?]]></title>
+        <id>https://pythonspeed.com/articles/upgrade-python-3.13/</id>
+        <link href="https://pythonspeed.com/articles/upgrade-python-3.13/"/>
+        <updated>2024-09-12T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Python 3.13 will be out October 1, 2024—but should you switch to it immediately?
+And if you shouldn’t upgrade just yet, when should you?
+Immediately after the release, you probably didn’t want to upgrade just yet.
+But from December 2024 and onwards, upgrading is definitely worth trying, though it may not succeed.
+To understand why, we need to consider Python packaging, the software development process, and take a look at the history of past releases.
+Read more...]]></summary>
+        <author>
+            <name>Python⇒Speed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[It's time to stop using Python 3.8]]></title>
+        <id>https://pythonspeed.com/articles/stop-using-python-3.8/</id>
+        <link href="https://pythonspeed.com/articles/stop-using-python-3.8/"/>
+        <updated>2024-09-12T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Upgrading to new software versions is work, and work that doesn’t benefit your software’s users.
+Users care about features and bug fixes, not how up-to-date you are.
+So it’s perhaps not surprising how many people still use Python 3.8.
+As of September 2024, about 14% of packages downloaded from PyPI were for Python 3.8.
+This includes automated downloads as part of CI runs, so it doesn’t mean 3.8 is used in 14% of applications, but that’s still 250 million packages installed in a single day!
+Still, there is only so much time you can delay upgrading, and for Python 3.8, the time to upgrade is as soon as possible.
+Python 3.8 is reaching its end of life at the end of October 2024.
+No more bug fixes.
+No more security fixes.
+“He’s dead, Jim.”
+Still not convinced? Let’s see why you want to upgrade.
+Read more...]]></summary>
+        <author>
+            <name>Python⇒Speed</name>
         </author>
     </entry>
     <entry>
