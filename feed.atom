@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-09-15T08:23:21.067Z</updated>
+    <updated>2024-09-15T09:17:41.233Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[低秩近似之路（一）：伪逆]]></title>
+        <id>https://kexue.fm/archives/10366</id>
+        <link href="https://kexue.fm/archives/10366"/>
+        <updated>2024-09-15T08:53:00.000Z</updated>
+        <summary type="html"><![CDATA[可能很多读者跟笔者一样，对矩阵的低秩近似有种熟悉而又陌生的感觉。熟悉是因为，低秩近似的概念和意义都不难理解，加之目前诸如LoRA等基于低秩近似的微调技术遍地开花，让低秩近似的概念在耳濡目染间就已...]]></summary>
+        <author>
+            <name>苏剑林</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Pictures from Our 2024 Annual Meeting of the Israel Mathematical Union and Student Day]]></title>
         <id>http://gilkalai.wordpress.com/?p=26795</id>

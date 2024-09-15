@@ -1451,6 +1451,16 @@
       "siteUrl": "https://kexue.fm/",
       "articles": [
         {
+          "id": "https://kexue.fm/archives/10366",
+          "author": "苏剑林",
+          "description": "可能很多读者跟笔者一样，对矩阵的低秩近似有种熟悉而又陌生的感觉。熟悉是因为，低秩近似的概念和意义都不难理解，加之目前诸如LoRA等基于低秩近似的微调技术遍地开花，让低秩近似的概念在耳濡目染间就已...",
+          "link": "https://kexue.fm/archives/10366",
+          "publishedOn": "2024-09-15T08:53:00.000Z",
+          "wordCount": 1783,
+          "title": "低秩近似之路（一）：伪逆",
+          "imageUrl": null
+        },
+        {
           "id": "https://kexue.fm/archives/10352",
           "author": "苏剑林",
           "description": "在前面的文章中，我们曾表达过这样的观点：多模态LLM相比纯文本LLM的主要差异在于，前者甚至还没有形成一个公认为标准的方法论。这里的方法论，不仅包括之前讨论的生成和训练策略，还包括一些基础架构的...",
