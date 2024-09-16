@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-09-16T12:37:23.208Z</updated>
+    <updated>2024-09-16T13:25:53.638Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Let's build and optimize a Rust extension for Python]]></title>
+        <id>https://pythonspeed.com/articles/intro-rust-python-extensions/</id>
+        <link href="https://pythonspeed.com/articles/intro-rust-python-extensions/"/>
+        <updated>2024-09-16T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[If your Python code isn’t fast enough, you have many options for compiled languages to write a faster extension.
+In this article we’ll focus on Rust, which benefits from:
+Modern tooling, including a package repository called crates.io, and built-in build tool (cargo).
+Excellent Python integration and tooling.
+The Rust package (they’re known as “crates”) for Python support is PyO3.
+For packaging you can use setuptools-rust, for integration with existing setuptools projects, or for standalone extensions you can use Maturin.
+Memory- and thread-safe, so it’s much less prone to crashes or memory corruption compared to C and C++.
+In particular, we’ll:
+Implement a small algorithm in Python.
+Re-implement it as a Rust extension.
+Optimize the Rust version so it runs faster.
+Read more...]]></summary>
+        <author>
+            <name>Python⇒Speed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“Weak point; holler louder!”]]></title>
         <id>https://languagelog.ldc.upenn.edu/nll/?p=66017</id>
