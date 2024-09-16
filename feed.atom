@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-09-16T15:20:53.499Z</updated>
+    <updated>2024-09-16T16:22:33.497Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The City of Angels in Latin]]></title>
+        <id>https://languagelog.ldc.upenn.edu/nll/?p=65933</id>
+        <link href="https://languagelog.ldc.upenn.edu/nll/?p=65933&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=the-city-of-angels-in-latin"/>
+        <updated>2024-09-16T16:07:09.000Z</updated>
+        <summary type="html"><![CDATA["The Best New Book Written Entirely in Latin You’ll Try to Read This Year:  Why Donatien Grau, an adviser at the Louvre, decided to write 'De Civitate Angelorum,' a book about Los Angeles, the Roman way."  By Fergus McIntosh, New Yorker (September 16, 2024) Since even elite schools like Penn and Princeton no longer have […]]]></summary>
+        <author>
+            <name>Victor Mair</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Let's build and optimize a Rust extension for Python]]></title>
         <id>https://pythonspeed.com/articles/intro-rust-python-extensions/</id>
