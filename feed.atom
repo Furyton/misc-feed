@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-09-17T12:35:54.229Z</updated>
+    <updated>2024-09-17T13:24:16.230Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to say "AI" in Mandarin]]></title>
+        <id>https://languagelog.ldc.upenn.edu/nll/?p=66028</id>
+        <link href="https://languagelog.ldc.upenn.edu/nll/?p=66028&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=how-to-say-ai-in-mandarin"/>
+        <updated>2024-09-17T13:00:46.000Z</updated>
+        <summary type="html"><![CDATA[An eminent Chinese historian just sent these two sentences to me: Yǒurén shuō AI zhǐ néng jìsuàn, ér rénlèi néng suànjì. Yīncǐ AI yīdìng bùshì rénlèi duìshǒ 有人說AI只能計算，而人類能算計。因此AI一定不是人類對手。 "Some people say that AI can only calculate, while humans can compute.  Therefore, AI must not be a match for humans". Google Translate, Baidu Fanyi, and Bing […]]]></summary>
+        <author>
+            <name>Victor Mair</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What did Rich Lowry say?]]></title>
         <id>https://languagelog.ldc.upenn.edu/nll/?p=66030</id>
