@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-09-18T13:24:38.205Z</updated>
+    <updated>2024-09-18T14:18:00.442Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The Cost of Modeling]]></title>
+        <id>https://www.argmin.net/p/the-cost-of-modeling</id>
+        <link href="https://www.argmin.net/p/the-cost-of-modeling"/>
+        <updated>2024-09-18T14:06:25.000Z</updated>
+        <summary type="html"><![CDATA[On the abstraction boundary between mathematical optimization problems and what they model.]]></summary>
+        <author>
+            <name>Ben Recht</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Cost of Modeling]]></title>
+        <id>https://www.argmin.net/p/the-cost-of-modeling</id>
+        <link href="https://www.argmin.net/p/the-cost-of-modeling"/>
+        <updated>2024-09-18T14:06:25.000Z</updated>
+        <summary type="html"><![CDATA[On the abstraction boundary between mathematical optimization problems and what they model.]]></summary>
+        <author>
+            <name>Ben Recht</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AI-based DeepL is different]]></title>
         <id>https://languagelog.ldc.upenn.edu/nll/?p=66049</id>
@@ -14,6 +34,16 @@
         <summary type="html"><![CDATA[So says DeepL CEO Jarek Kutylowski. "DeepL translation targets Taiwan as next key Asian market:  CEO says AI-based model is aiming to refine nuances, politeness", Steven Borowiec, Nikkei staff writer (September 16, 2024) DeepL Write is one thing, DeepL Translator is another.  We've examined both on Language Log and are aware that the former is […]]]></summary>
         <author>
             <name>Victor Mair</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Challenges and Efforts in PyTorch Multi-Device Integration: Compatibility, Portability, and Integration Efficiencies]]></title>
+        <id>https://pytorch.org/blog/pt-multidevice-integration/</id>
+        <link href="https://pytorch.org/blog/pt-multidevice-integration/"/>
+        <updated>2024-09-18T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Introduction]]></summary>
+        <author>
+            <name>PyTorch Website</name>
         </author>
     </entry>
     <entry>

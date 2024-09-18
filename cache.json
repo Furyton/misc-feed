@@ -1516,6 +1516,22 @@
       "siteUrl": "https://www.argmin.net",
       "articles": [
         {
+          "id": "https://www.argmin.net/p/the-cost-of-modeling",
+          "author": "Ben Recht",
+          "description": "On the abstraction boundary between mathematical optimization problems and what they model.",
+          "link": "https://www.argmin.net/p/the-cost-of-modeling",
+          "publishedOn": "2024-09-18T14:06:25.000Z",
+          "wordCount": null,
+          "title": "The Cost of Modeling",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substack-post-media.s3.amazonaws.com/public/images/0f924910-0726-4de4-b568-6ab2e022ee5f_840x600.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substack-post-media.s3.amazonaws.com/public/images/0f924910-0726-4de4-b568-6ab2e022ee5f_840x600.jpeg"
+        },
+        {
           "id": "https://www.argmin.net/p/declarative-mathematical-programming",
           "author": "Ben Recht",
           "description": "When the output is more important than the model",
@@ -1875,6 +1891,16 @@
       "siteUrl": "https://pytorch.org/",
       "articles": [
         {
+          "id": "https://pytorch.org/blog/pt-multidevice-integration/",
+          "author": null,
+          "description": "Introduction",
+          "link": "https://pytorch.org/blog/pt-multidevice-integration/",
+          "publishedOn": "2024-09-18T07:00:00.000Z",
+          "wordCount": 2017,
+          "title": "Challenges and Efforts in PyTorch Multi-Device Integration: Compatibility, Portability, and Integration Efficiencies",
+          "imageUrl": "https://pytorch.org/assets/images/social-share.jpg"
+        },
+        {
           "id": "https://pytorch.org/blog/arm-joins-pytorch/",
           "author": null,
           "description": "The PyTorch Foundation, a neutral home for the deep learning community to collaborate on the open source PyTorch framework and ecosystem, is announcing today that Arm has joined as a premier member.",
@@ -1986,6 +2012,22 @@
       "feedUrl": "https://www.argmin.net/feed.xml",
       "siteUrl": "https://www.argmin.net",
       "articles": [
+        {
+          "id": "https://www.argmin.net/p/the-cost-of-modeling",
+          "author": "Ben Recht",
+          "description": "On the abstraction boundary between mathematical optimization problems and what they model.",
+          "link": "https://www.argmin.net/p/the-cost-of-modeling",
+          "publishedOn": "2024-09-18T14:06:25.000Z",
+          "wordCount": null,
+          "title": "The Cost of Modeling",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substack-post-media.s3.amazonaws.com/public/images/0f924910-0726-4de4-b568-6ab2e022ee5f_840x600.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substack-post-media.s3.amazonaws.com/public/images/0f924910-0726-4de4-b568-6ab2e022ee5f_840x600.jpeg"
+        },
         {
           "id": "https://www.argmin.net/p/declarative-mathematical-programming",
           "author": "Ben Recht",
