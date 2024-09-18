@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-09-18T11:15:33.331Z</updated>
+    <updated>2024-09-18T12:35:37.861Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[AI-based DeepL is different]]></title>
+        <id>https://languagelog.ldc.upenn.edu/nll/?p=66049</id>
+        <link href="https://languagelog.ldc.upenn.edu/nll/?p=66049&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=ai-based-deepl-is-different"/>
+        <updated>2024-09-18T11:48:27.000Z</updated>
+        <summary type="html"><![CDATA[So says DeepL CEO Jarek Kutylowski. "DeepL translation targets Taiwan as next key Asian market:  CEO says AI-based model is aiming to refine nuances, politeness", Steven Borowiec, Nikkei staff writer (September 16, 2024) DeepL Write is one thing, DeepL Translator is another.  We've examined both on Language Log and are aware that the former is […]]]></summary>
+        <author>
+            <name>Victor Mair</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[less bats, higher mortality]]></title>
         <id>http://xianblog.wordpress.com/?p=57490</id>
@@ -1624,16 +1634,6 @@ Truncated GPT-4 response as r…]]></summary>
         <summary type="html"><![CDATA[Introduction and Context]]></summary>
         <author>
             <name>PyTorch Website</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Internet IDs for China]]></title>
-        <id>https://languagelog.ldc.upenn.edu/nll/?p=65533</id>
-        <link href="https://languagelog.ldc.upenn.edu/nll/?p=65533&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=internet-ids-for-china"/>
-        <updated>2024-08-20T00:05:07.000Z</updated>
-        <summary type="html"><![CDATA[China Plans to Issue Unified Internet IDs to Netizens Singapore’s primary Chinese language newspaper Lianhe Zaobao recently reported that the Chinese government plans to issue unified internet ID numbers and certificates to members of the Chinese public in order to verify the true identity of users. This raised concerns over control of speech. China’s Ministry […]]]></summary>
-        <author>
-            <name>Victor Mair</name>
         </author>
     </entry>
     <entry>
