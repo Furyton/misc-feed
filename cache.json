@@ -1451,6 +1451,16 @@
       "siteUrl": "https://kexue.fm/",
       "articles": [
         {
+          "id": "https://kexue.fm/archives/10373",
+          "author": "苏剑林",
+          "description": "Softmax，顾名思义是“soft的max”，是$\\max$算子（准确来说是$\\text{argmax}$）的光滑近似，它通过指数归一化将任意向量$\\boldsymbol{x}\\in\\math...",
+          "link": "https://kexue.fm/archives/10373",
+          "publishedOn": "2024-09-19T07:09:00.000Z",
+          "wordCount": 1923,
+          "title": "Softmax后传：寻找Top-K的光滑近似",
+          "imageUrl": null
+        },
+        {
           "id": "https://kexue.fm/archives/10366",
           "author": "苏剑林",
           "description": "可能很多读者跟笔者一样，对矩阵的低秩近似有种熟悉而又陌生的感觉。熟悉是因为，低秩近似的概念和意义都不难理解，加之目前诸如LoRA等基于低秩近似的微调技术遍地开花，让低秩近似的概念在耳濡目染间就已...",
