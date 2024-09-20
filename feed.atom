@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-09-20T12:35:57.691Z</updated>
+    <updated>2024-09-20T13:24:08.569Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -24,6 +24,21 @@
         <summary type="html"><![CDATA[Visit the post for more.]]></summary>
         <author>
             <name>xi'an</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linguistic Bias in ChatGPT: Language Models Reinforce Dialect Discrimination]]></title>
+        <id>http://bair.berkeley.edu/blog/2024/09/20/linguistic-bias/</id>
+        <link href="http://bair.berkeley.edu/blog/2024/09/20/linguistic-bias/"/>
+        <updated>2024-09-20T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Sample language model responses to different varieties of English and native speaker reactions.
+
+
+ChatGPT does amazingly well at communicating with people in English. But whose English?
+Only 15% of ChatGPT users are from the US, where Standard American English is the default. But the model is also commonly used in countries and communities where people speak other varieties of English. Over 1 billion people around the world speak varieties such as Indian English, Nigerian English, Irish English, and African-American English.
+Speakers of these non-“standard” varieties often face discrimination in the real world. They’ve been told that the way they speak is unprofessional or incorrect, discredited as witnesses, and denied housing–despite extensive research indicating that all language variet…]]></summary>
+        <author>
+            <name>The Berkeley Artificial Intelligence Research Blog</name>
         </author>
     </entry>
     <entry>
