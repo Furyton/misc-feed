@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-09-21T22:16:29.146Z</updated>
+    <updated>2024-09-21T23:16:53.186Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[2024 ERC Starting Grants announced]]></title>
+        <id>http://xianblog.wordpress.com/?p=57431</id>
+        <link href="https://xianblog.wordpress.com/2024/09/22/2024-erc-starting-grants-announced/"/>
+        <updated>2024-09-21T22:24:34.000Z</updated>
+        <summary type="html"><![CDATA[Today the European Research Council (ERC) has made public which Starting Grants proposals were selected this year, for a total amount of €780m. Congrats to all recipients!These include 14 grants for the PE1 panel in which I sat earlier this year for the fourth and final time. (The PE1 panel stands within the Physical Sciences […]]]></summary>
+        <author>
+            <name>xi'an</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What is a poll?]]></title>
         <id>https://www.argmin.net/p/what-is-a-poll</id>
