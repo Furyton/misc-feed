@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-09-26T01:24:03.197Z</updated>
+    <updated>2024-09-26T02:49:26.931Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[利用“熄火保护 + 通断器”实现燃气灶智能关火]]></title>
+        <id>https://kexue.fm/archives/10394</id>
+        <link href="https://kexue.fm/archives/10394"/>
+        <updated>2024-09-26T02:39:00.000Z</updated>
+        <summary type="html"><![CDATA[燃气灶智能化主要有两个方向：一是检测开关火状态，实现跟抽油烟机等其他设备的联动；二是实现智能关火，这包括定时关火以及接入米家（或者其他智能家居）实现语音关火、远程关火等。目前带有这两点功能的燃气...]]></summary>
+        <author>
+            <name>苏剑林</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Words for king:  Greek, Tocharian, Sinitic]]></title>
         <id>https://languagelog.ldc.upenn.edu/nll/?p=66195</id>

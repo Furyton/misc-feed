@@ -1461,6 +1461,16 @@
       "siteUrl": "https://kexue.fm/",
       "articles": [
         {
+          "id": "https://kexue.fm/archives/10394",
+          "author": "苏剑林",
+          "description": "燃气灶智能化主要有两个方向：一是检测开关火状态，实现跟抽油烟机等其他设备的联动；二是实现智能关火，这包括定时关火以及接入米家（或者其他智能家居）实现语音关火、远程关火等。目前带有这两点功能的燃气...",
+          "link": "https://kexue.fm/archives/10394",
+          "publishedOn": "2024-09-26T02:39:00.000Z",
+          "wordCount": 1415,
+          "title": "利用“熄火保护 + 通断器”实现燃气灶智能关火",
+          "imageUrl": null
+        },
+        {
           "id": "https://kexue.fm/archives/10373",
           "author": "苏剑林",
           "description": "Softmax，顾名思义是“soft的max”，是$\\max$算子（准确来说是$\\text{argmax}$）的光滑近似，它通过指数归一化将任意向量$\\boldsymbol{x}\\in\\math...",
