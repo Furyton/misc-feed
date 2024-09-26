@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-09-26T22:17:49.677Z</updated>
+    <updated>2024-09-26T23:18:35.888Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[PIPLA [mostly MCMC’nar]]]></title>
+        <id>http://xianblog.wordpress.com/?p=57519</id>
+        <link href="https://xianblog.wordpress.com/2024/09/27/pipla-mostly-mcmcnar/"/>
+        <updated>2024-09-26T22:24:52.000Z</updated>
+        <summary type="html"><![CDATA[The first “mostly MCMC ” seminar (Season 2) had our new Ocean postdoc Tim Johnston, freshly graduated from the University of Edinburgh, involved in both talks, with proximal approximations for discontinuity! The first talk was given by Francesca Crucinio (formerly Warwick and formerly CREST, to point out potential COI!!), about the Proximal Interacting Particle Langevin […]]]></summary>
+        <author>
+            <name>xi'an</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How AlphaChip transformed computer chip design]]></title>
         <id>https://deepmind.google/discover/blog/how-alphachip-transformed-computer-chip-design/</id>
@@ -1857,16 +1867,6 @@ Truncated GPT-4 response as r…]]></summary>
         <link href="https://languagelog.ldc.upenn.edu/nll/?p=65667&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=ais-on-rs-in-strawberry"/>
         <updated>2024-08-28T11:33:50.000Z</updated>
         <summary type="html"><![CDATA[The screenshot I show everyone who tells me they're using AI for anything [image or embed] — Chris PG | PapaGlitch (@papaglitch.bsky.social) Aug 26, 2024 at 5:20 AM More, from author John Scalzi and a different LLM: It's worse than that: You can point out to "AI" that there are three "r"s in Strawberry, and […]]]></summary>
-        <author>
-            <name>Mark Liberman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kinds of science]]></title>
-        <id>https://languagelog.ldc.upenn.edu/nll/?p=65657</id>
-        <link href="https://languagelog.ldc.upenn.edu/nll/?p=65657&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=kinds-of-science"/>
-        <updated>2024-08-28T10:56:47.000Z</updated>
-        <summary type="html"><![CDATA[Today's xkcd — "The Three Kinds of Scientific Research": Mouseover title: "The secret fourth kind is 'we applied a standard theory to their map of every tree and got some suspicious results.'" A not-so-secret fifth (or zeroth?) kind, which even has an three-letter initialism: exploratory data analysis (EDA). The original idea of EDA, as Wikipedia […]]]></summary>
         <author>
             <name>Mark Liberman</name>
         </author>
