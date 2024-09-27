@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-09-27T10:21:24.045Z</updated>
+    <updated>2024-09-27T11:17:52.555Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -1812,16 +1812,6 @@ The post CD4：Windows XP 开发宝典 appeared first on Skywind Inside.]]></sum
         <summary type="html"><![CDATA[We have exciting news! PyTorch 2.4 now supports Intel® Data Center GPU Max Series and the SYCL software stack, making it easier to speed up your AI workflows for both training and inference. This update allows for you to have a consistent programming experience with minimal coding effort and extends PyTorch’s device and runtime capabilities, including device, stream, event, generator, allocator, and guard, to seamlessly support streaming devices. This enhancement simplifies deploying PyTorch on ubiquitous hardware, making it easier for you to integrate different hardware back ends.]]></summary>
         <author>
             <name>PyTorch Website</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Insufficient Gibbs sampling [at COMPSTAT 2024]]]></title>
-        <id>http://xianblog.wordpress.com/?p=57281</id>
-        <link href="https://xianblog.wordpress.com/2024/08/29/insufficient-gibbs-sampling-at-compstat-2024/"/>
-        <updated>2024-08-28T22:24:00.000Z</updated>
-        <summary type="html"><![CDATA[The COMPSTAT 2024 programme proved somewhat remote from my interests, far from the 1998 version I attended that was buzzing and brimming with MCMC sessions! (Correlatively, apart from the speakers in my own session, I hardly knew anyone there.) I however attended a session on change-point detection, with a talk by Ziyang Yang (Lancaster University) […]]]></summary>
-        <author>
-            <name>xi'an</name>
         </author>
     </entry>
     <entry>
