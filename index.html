@@ -5608,60 +5608,6 @@ The post CD4：Windows XP 开发宝典 appeared first on Skywind Inside.</span>
                 </section>
               </section>
             </li>
-            <li class="card__section">
-              <section class="js-toggle-accordions-scope">
-                <h3 class="source-heading">
-                  <button
-                    class="source-heading__name"
-                    data-action="toggle-accordions"
-                    title="Click to toggle the source, Ctrl + click to toggle all."
-                  >Skywind Inside</button>
-                  <a class="source-heading__link" href="https://skywind.me/blog">Open</a>
-                </h3>
-                <section class="articles-per-source">
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://www.skywind.me/blog/?p&#x3D;2768"
-                        open
-                      >
-                        <summary class="article-expander__title">Emake：你见过最简单的 C/C++ 构建工具</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://skywind.me/blog/archives/2768">
-                          <div class="article-summary-box-inner media-object">
-                            <span class="media-object__text">
-                              <span>CMake 已经成为 C++ 构建工具事实上的标准了，即便觉得它很难用，但项目发布，跨部门协同，基本都以 cmake 为准。尽管你可能觉得其它构建工具更顺手，没问题，你们平时用就行，但项目发布或者跨团队协同时，你得同时用上 cmake 来标准化。 那么对于内部中小项目，非正式个人练手项目，或者非发布阶段的开发过程，是否也需要上 cmake 呢？还真不一定，一旦不用 cover 整个宇宙的构建需求，我们大可以找一个趁手的二号构建工具，满足平时使用。那么哪个二号构建工具值得推荐呢？ 很多流行的构建工具，从 xmake 到 meson，恐怕都不适合，因为他们都试图同 cmake 去竞争试图要 cover 整个宇宙，即便号称精简，也不可能精简到哪里，尽管他们最简单的 demo 看起来好像真的超简单，但再稍微复杂点，比如考虑多平台架构，加个 release/debug 和包管理，一个个都变得丑陋不堪，立马原型毕露，因为他们都是命令式的。 我从 2009 年开发了一个叫做 emake 的构建工具，就是一个 emake.py 的单一脚本，持续使用并陆陆续续迭代了 15 年，今天感觉可以让他出来走两步。 推荐它，因为它有可能是你见过最简单的构建工具了，简单到什么程度呢？ （点击 more 展开阅读） 第一：定义式构建工具 简单点例子：main.mak … Continue reading →
-The post Emake：你见过最简单的 C/C++ 构建工具 appeared first on Skywind Inside.</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;6
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://www.skywind.me/blog/?p&#x3D;2768"
-                        open
-                      >
-                        <summary class="article-expander__title">Emake：你见过最简单的 C/C++ 构建工具</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://www.skywind.me/blog/archives/2768">
-                          <div class="article-summary-box-inner media-object">
-                            <span class="media-object__text">
-                              <span>CMake 已经成为 C++ 构建工具事实上的标准了，即便觉得它很难用，但项目发布，跨部门协同，基本都以 cmake 为准。尽管你可能觉得其它构建工具更顺手，没问题，你们平时用就行，但项目发布或者跨团队协同时，你得同时用上 cmake 来标准化。 那么对于内部中小项目，非正式个人练手项目，或者非发布阶段的开发过程，是否也需要上 cmake 呢？还真不一定，一旦不用 cover 整个宇宙的构建需求，我们大可以找一个趁手的二号构建工具，满足平时使用。那么哪个二号构建工具值得推荐呢？ 很多流行的构建工具，从 xmake 到 meson，恐怕都不适合，因为他们都试图同 cmake 去竞争试图要 cover 整个宇宙，即便号称精简，也不可能精简到哪里，尽管他们最简单的 demo 看起来好像真的超简单，但再稍微复杂点，比如考虑多平台架构，加个 release/debug 和包管理，一个个都变得丑陋不堪，立马原型毕露，因为他们都是命令式的。 我从 2009 年开发了一个叫做 emake 的构建工具，就是一个 emake.py 的单一脚本，持续使用并陆陆续续迭代了 15 年，今天感觉可以让他出来走两步。 推荐它，因为它有可能是你见过最简单的构建工具了，简单到什么程度呢？ （点击 more 展开阅读） 第一：定义式构建工具 简单点例子：main.mak 就三行： flag: -Wall, -O3 mode: exe src: foo.c, bar.c, main.c 第一行设定编译参数，第二行指明目标格式，第三行设定源代码，这也是大部分时候写点小玩具，小测试的样子，然后： emake main.mak 就能生成 main.exe […]
-The post Emake：你见过最简单的 C/C++ 构建工具 appeared first on Skywind Inside.</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;7
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                </section>
-              </section>
-            </li>
         </ul>
       </section>
       <section class="daily-content js-toggle-accordions-scope">
@@ -9001,8 +8947,8 @@ The post Emake：你见过最简单的 C/C++ 构建工具 appeared first on Skyw
       </section>
 
     <footer>
-      <a class="footer-link" href="https://github.com/Furyton/misc-feed/actions/runs/11064459289">
-        <time id="build-timestamp" datetime="2024-09-27T04:22:55.013Z">2024-09-27T04:22:55.013Z</time>
+      <a class="footer-link" href="https://github.com/Furyton/misc-feed/actions/runs/11064960227">
+        <time id="build-timestamp" datetime="2024-09-27T05:18:22.662Z">2024-09-27T05:18:22.662Z</time>
       </a>
       <a class="footer-link" href="https://github.com/osmoscraft/osmosfeed">osmosfeed 1.15.1</a>
     </footer>
