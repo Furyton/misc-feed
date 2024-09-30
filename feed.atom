@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-09-30T10:21:31.683Z</updated>
+    <updated>2024-09-30T11:15:59.003Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA["She stopped every single one of them"]]></title>
+        <id>https://languagelog.ldc.upenn.edu/nll/?p=66259</id>
+        <link href="https://languagelog.ldc.upenn.edu/nll/?p=66259&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=she-stopped-every-single-one-of-them"/>
+        <updated>2024-09-30T11:02:07.000Z</updated>
+        <summary type="html"><![CDATA[A couple of months ago ("A new Trump speaking style?", 8/10/2024), I gave an example to support my subjective impression that Donald Trump's speaech is becoming less fluent. The clip included some cases of word-finding difficulties, as in this characterization of vice-presidential candidate Tim Walz: Your browser does not support the audio element. She picked […]]]></summary>
+        <author>
+            <name>Mark Liberman</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[and it only gets worse [the return?!]]]></title>
         <id>http://xianblog.wordpress.com/?p=57555</id>
@@ -1742,16 +1752,6 @@ The post CD4：Windows XP 开发宝典 appeared first on Skywind Inside.]]></sum
         <summary type="html"><![CDATA[众所周知，目前主流的LLM，都是基于Causal Attention的Decoder-only模型（对此我们在《为什么现在的LLM都是Decoder-only的架构？》也有过相关讨论），而对于C...]]></summary>
         <author>
             <name>苏剑林</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Paralympiques au Grand Palais]]></title>
-        <id>http://xianblog.wordpress.com/?p=57306</id>
-        <link href="https://xianblog.wordpress.com/2024/09/01/paralympiques-au-grand-palais/"/>
-        <updated>2024-08-31T22:24:27.000Z</updated>
-        <summary type="html"><![CDATA[While we did not try to attend any of the Paris 2024 Olympics events, primarily for being in the Pacific Northwest during the Olympics (in not in Olympic National Park!), being back in Paris and tickets being widely available and looking forward attending an event in the Grand Palais, we found tickets for the taekwondo […]]]></summary>
-        <author>
-            <name>xi'an</name>
         </author>
     </entry>
     <entry>
