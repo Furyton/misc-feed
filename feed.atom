@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-10-01T10:21:37.742Z</updated>
+    <updated>2024-10-01T11:17:10.579Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Junks and sampans]]></title>
+        <id>https://languagelog.ldc.upenn.edu/nll/?p=66278</id>
+        <link href="https://languagelog.ldc.upenn.edu/nll/?p=66278&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=junks-and-sampans"/>
+        <updated>2024-10-01T10:38:59.000Z</updated>
+        <summary type="html"><![CDATA[These are two premodern words for Chinese watercraft that have worked their way into the English lexicon.  Their etymology, however, is not as straightforward as it might seem. "Language Matters | Where did English get the words ‘sampan’ and ‘junk’ from? Probably Cantonese and Javanese:  Scholars are split on the roots of ‘sampan’ and ‘junk’, […]]]></summary>
+        <author>
+            <name>Victor Mair</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[低秩近似之路（二）：SVD]]></title>
         <id>https://kexue.fm/archives/10407</id>
@@ -1762,26 +1772,6 @@ The post CD4：Windows XP 开发宝典 appeared first on Skywind Inside.]]></sum
         <summary type="html"><![CDATA[From the menu of a Chinese restaurant in Eden Prairie, MN: Because they are printed in black against a dark background, it is difficult to read the Chinese characters for the name of the dish, which are right below the English name: sūzhà xièjiǎo 蘇炸蟹腳 "crispy fried crab legs" It's actually worse than you thought. […]]]></summary>
         <author>
             <name>Victor Mair</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Diffusion is spectral autoregression]]></title>
-        <id>https://sander.ai/2024/09/02/spectral-autoregression.html</id>
-        <link href="https://sander.ai/2024/09/02/spectral-autoregression.html"/>
-        <updated>2024-09-01T23:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A deep dive into spectral analysis of diffusion models of images, revealing how they implicitly perform a form of autoregression in the frequency domain.]]></summary>
-        <author>
-            <name>Sander Dieleman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nature tidbits]]></title>
-        <id>http://xianblog.wordpress.com/?p=57223</id>
-        <link href="https://xianblog.wordpress.com/2024/09/02/nature-tidbits-4/"/>
-        <updated>2024-09-01T22:24:48.000Z</updated>
-        <summary type="html"><![CDATA[Going quickly through the four issues of Nature I found in my mailbox when returning from the Pacific Northwest, beyond the great picture of these frogs warming up, and fighting fungal infection, in the 11 July edition, a few (Sunday morn breakfast) quick reads from the 4 July 2024 edition: a “technology and tools” long […]]]></summary>
-        <author>
-            <name>xi'an</name>
         </author>
     </entry>
     <entry>

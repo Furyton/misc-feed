@@ -1845,18 +1845,7 @@
       "title": "Sander Dieleman",
       "feedUrl": "https://benanne.github.io/feed",
       "siteUrl": "https://sander.ai/",
-      "articles": [
-        {
-          "id": "https://sander.ai/2024/09/02/spectral-autoregression.html",
-          "author": null,
-          "description": "A deep dive into spectral analysis of diffusion models of images, revealing how they implicitly perform a form of autoregression in the frequency domain.",
-          "link": "https://sander.ai/2024/09/02/spectral-autoregression.html",
-          "publishedOn": "2024-09-01T23:00:00.000Z",
-          "wordCount": 5739,
-          "title": "Diffusion is spectral autoregression",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Jeremy Jordan",
@@ -2907,16 +2896,6 @@
           "wordCount": 2348,
           "title": "Ocean’s hundred [blue wave#3]",
           "imageUrl": "https://media3.woopic.com/api/v1/images/504%2Fsport%2FMedia365-Sport-News%2Ff38%2F2e4%2Ff17b2c41ad9acd6c000ea07e90%2Fjeux-paralympiques-de-paris-2024-une-pierre-en-or%7Cemeline_pierre-01-09-2024-1024x536.jpg"
-        },
-        {
-          "id": "http://xianblog.wordpress.com/?p=57223",
-          "author": "xi'an",
-          "description": "Going quickly through the four issues of Nature I found in my mailbox when returning from the Pacific Northwest, beyond the great picture of these frogs warming up, and fighting fungal infection, in the 11 July edition, a few (Sunday morn breakfast) quick reads from the 4 July 2024 edition: a “technology and tools” long […]",
-          "link": "https://xianblog.wordpress.com/2024/09/02/nature-tidbits-4/",
-          "publishedOn": "2024-09-01T22:24:48.000Z",
-          "wordCount": 2818,
-          "title": "Nature tidbits",
-          "imageUrl": "https://xianblog.wordpress.com/wp-content/uploads/2024/08/1724010612855-e1724010873572.jpg"
         }
       ]
     },
@@ -2960,6 +2939,16 @@
       "feedUrl": "https://languagelog.ldc.upenn.edu/nll/?feed=rss2",
       "siteUrl": "https://languagelog.ldc.upenn.edu/nll",
       "articles": [
+        {
+          "id": "https://languagelog.ldc.upenn.edu/nll/?p=66278",
+          "author": "Victor Mair",
+          "description": "These are two premodern words for Chinese watercraft that have worked their way into the English lexicon.  Their etymology, however, is not as straightforward as it might seem. \"Language Matters | Where did English get the words ‘sampan’ and ‘junk’ from? Probably Cantonese and Javanese:  Scholars are split on the roots of ‘sampan’ and ‘junk’, […]",
+          "link": "https://languagelog.ldc.upenn.edu/nll/?p=66278&utm_source=rss&utm_medium=rss&utm_campaign=junks-and-sampans",
+          "publishedOn": "2024-10-01T10:38:59.000Z",
+          "wordCount": 3456,
+          "title": "Junks and sampans",
+          "imageUrl": null
+        },
         {
           "id": "https://languagelog.ldc.upenn.edu/nll/?p=66282",
           "author": "Mark Liberman",
