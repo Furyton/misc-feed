@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-10-01T09:20:51.883Z</updated>
+    <updated>2024-10-01T10:21:37.742Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[低秩近似之路（二）：SVD]]></title>
+        <id>https://kexue.fm/archives/10407</id>
+        <link href="https://kexue.fm/archives/10407"/>
+        <updated>2024-10-01T09:45:00.000Z</updated>
+        <summary type="html"><![CDATA[上一篇文章中我们介绍了“伪逆”，它关系到给定矩阵$M$和$A$（或$B$）时优化目标$\Vert AB - M\Vert_F^2$的最优解。这篇文章我们来关注$A,B$都不给出时的最优解，即\b...]]></summary>
+        <author>
+            <name>苏剑林</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[be early for Nice!]]></title>
         <id>http://xianblog.wordpress.com/?p=57685</id>

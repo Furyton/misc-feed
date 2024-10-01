@@ -1472,6 +1472,16 @@
       "siteUrl": "https://kexue.fm/",
       "articles": [
         {
+          "id": "https://kexue.fm/archives/10407",
+          "author": "苏剑林",
+          "description": "上一篇文章中我们介绍了“伪逆”，它关系到给定矩阵$M$和$A$（或$B$）时优化目标$\\Vert AB - M\\Vert_F^2$的最优解。这篇文章我们来关注$A,B$都不给出时的最优解，即\\b...",
+          "link": "https://kexue.fm/archives/10407",
+          "publishedOn": "2024-10-01T09:45:00.000Z",
+          "wordCount": 2079,
+          "title": "低秩近似之路（二）：SVD",
+          "imageUrl": null
+        },
+        {
           "id": "https://kexue.fm/archives/10394",
           "author": "苏剑林",
           "description": "燃气灶智能化主要有两个方向：一是检测开关火状态，实现跟抽油烟机等其他设备的联动；二是实现智能关火，这包括定时关火以及接入米家（或者其他智能家居）实现语音关火、远程关火等。目前带有这两点功能的燃气...",
