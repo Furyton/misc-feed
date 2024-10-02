@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-10-02T08:25:13.235Z</updated>
+    <updated>2024-10-02T09:20:09.522Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -1729,17 +1729,6 @@ The post EditPlus 的配置方法 appeared first on Skywind Inside.]]></summary>
         <summary type="html"><![CDATA[Visit the post for more.]]></summary>
         <author>
             <name>xi'an</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Shift Networks]]></title>
-        <id>https://www.jeremykun.com/2024/09/02/shift-networks/</id>
-        <link href="https://www.jeremykun.com/2024/09/02/shift-networks/"/>
-        <updated>2024-09-02T21:01:03.000Z</updated>
-        <summary type="html"><![CDATA[🌿 Budding: a relatively clean article which still needs additional tending.
-In my recent overview of homomorphic encryption, I underemphasized the importance of data layout when working with arithmetic (SIMD-style) homomorphic encryption schemes. In the FHE world, the name given to data layout strategies is called “packing,” because it revolves around putting multiple plaintext data into RLWE ciphertexts in carefully-chosen ways that mesh well with the operations you’d like to perform.]]></summary>
-        <author>
-            <name>Math ∩ Programming</name>
         </author>
     </entry>
     <entry>
