@@ -2490,6 +2490,16 @@
       "siteUrl": "https://xianblog.wordpress.com",
       "articles": [
         {
+          "id": "http://xianblog.wordpress.com/?p=57698",
+          "author": "xi'an",
+          "description": "Earlier today, I was informed by several of our mutual friends that my long-time friend Bill Strawderman had sadly passed away yesterday, after fighting a cancer for the past months. I remember quite clearly meeting Bill in the Fall of 1988 in front of White Hall, which hosted the Cornell maths department at the time, […]",
+          "link": "https://xianblog.wordpress.com/2024/10/03/william-bill-strawderman-1941-2024/",
+          "publishedOn": "2024-10-02T22:24:09.000Z",
+          "wordCount": 2793,
+          "title": "William (Bill) Strawderman (1941-2024)",
+          "imageUrl": "https://xianblog.wordpress.com/wp-content/uploads/2024/10/bill.png"
+        },
+        {
           "id": "http://xianblog.wordpress.com/?p=57441",
           "author": "xi'an",
           "description": "Hands-On Differential Privacy was published just a few months ago (from September  2024!) by (the US publisher) O’Reilly, famous for its programming and technical books with animal covers! A slate pencil sea urchin in the present case. The book is indeed classical O’Reilly’s, with lots of notes, little theory (or maths!) and symbols, a loose […]",
@@ -2888,16 +2898,6 @@
           "wordCount": 2791,
           "title": "Faculty Position in [computational] Statistics at EPFL [reposted]",
           "imageUrl": "https://xianblog.wordpress.com/wp-content/uploads/2023/02/diab2317-e1675950300334.jpg?w=768"
-        },
-        {
-          "id": "http://xianblog.wordpress.com/?p=57347",
-          "author": "xi'an",
-          "description": "Visit the post for more.",
-          "link": "https://xianblog.wordpress.com/2024/09/03/oceans-tri-blue-wave4/",
-          "publishedOn": "2024-09-03T10:24:51.000Z",
-          "wordCount": 2354,
-          "title": "Ocean’s tri [blue wave#4]",
-          "imageUrl": "https://www.liberation.fr/resizer/iiv_op6seuTNKu25hpVQshG5nEk=/1024x0/filters:format(jpg):quality(70)/cloudfront-eu-central-1.images.arcpublishing.com/liberation/GSOG3L6Z3BEWLEBUWNNEGKANHM.jpg"
         }
       ]
     },
@@ -2941,6 +2941,16 @@
       "feedUrl": "https://languagelog.ldc.upenn.edu/nll/?feed=rss2",
       "siteUrl": "https://languagelog.ldc.upenn.edu/nll",
       "articles": [
+        {
+          "id": "https://languagelog.ldc.upenn.edu/nll/?p=66310",
+          "author": "Mark Liberman",
+          "description": "The New York Review of Books recently spammed me with an email that led off with this: I have mixed feelings about those \"collective nouns\" for different kinds of animals. A flock of birds, a herd of cows, a pack of wolves — fine. A flock of wolves, a herd of birds, a pack of […]",
+          "link": "https://languagelog.ldc.upenn.edu/nll/?p=66310&utm_source=rss&utm_medium=rss&utm_campaign=collective-noun-tea-towels",
+          "publishedOn": "2024-10-02T22:31:57.000Z",
+          "wordCount": 2062,
+          "title": "Collective Noun Tea Towels",
+          "imageUrl": null
+        },
         {
           "id": "https://languagelog.ldc.upenn.edu/nll/?p=66290",
           "author": "Victor Mair",
