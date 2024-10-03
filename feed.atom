@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-10-03T13:25:59.805Z</updated>
+    <updated>2024-10-03T14:18:20.066Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Inverse Problems]]></title>
+        <id>https://www.argmin.net/p/inverse-problems</id>
+        <link href="https://www.argmin.net/p/inverse-problems"/>
+        <updated>2024-10-03T14:03:38.000Z</updated>
+        <summary type="html"><![CDATA[A topic so cool it doesn't need a catchy title.]]></summary>
+        <author>
+            <name>Ben Recht</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Inverse Problems]]></title>
+        <id>https://www.argmin.net/p/inverse-problems</id>
+        <link href="https://www.argmin.net/p/inverse-problems"/>
+        <updated>2024-10-03T14:03:38.000Z</updated>
+        <summary type="html"><![CDATA[A topic so cool it doesn't need a catchy title.]]></summary>
+        <author>
+            <name>Ben Recht</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Untitled]]></title>
         <id>https://blog.scikit-learn.org/2024-09-02-survey-announcement/</id>
