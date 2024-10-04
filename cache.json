@@ -1527,6 +1527,22 @@
       "siteUrl": "https://www.argmin.net",
       "articles": [
         {
+          "id": "https://www.argmin.net/p/an-inversion-cookbook",
+          "author": "Ben Recht",
+          "description": "Modularity lets us pose a zoo of inverse problems as convex optimization problems",
+          "link": "https://www.argmin.net/p/an-inversion-cookbook",
+          "publishedOn": "2024-10-04T14:14:45.000Z",
+          "wordCount": null,
+          "title": "An Inversion Cookbook",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substack-post-media.s3.amazonaws.com/public/images/74e0f169-13cd-48af-898e-1dee60eaa529_840x599.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substack-post-media.s3.amazonaws.com/public/images/74e0f169-13cd-48af-898e-1dee60eaa529_840x599.jpeg"
+        },
+        {
           "id": "https://www.argmin.net/p/inverse-problems",
           "author": "Ben Recht",
           "description": "A topic so cool it doesn't need a catchy title.",
@@ -2123,6 +2139,22 @@
       "feedUrl": "https://www.argmin.net/feed.xml",
       "siteUrl": "https://www.argmin.net",
       "articles": [
+        {
+          "id": "https://www.argmin.net/p/an-inversion-cookbook",
+          "author": "Ben Recht",
+          "description": "Modularity lets us pose a zoo of inverse problems as convex optimization problems",
+          "link": "https://www.argmin.net/p/an-inversion-cookbook",
+          "publishedOn": "2024-10-04T14:14:45.000Z",
+          "wordCount": null,
+          "title": "An Inversion Cookbook",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substack-post-media.s3.amazonaws.com/public/images/74e0f169-13cd-48af-898e-1dee60eaa529_840x599.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substack-post-media.s3.amazonaws.com/public/images/74e0f169-13cd-48af-898e-1dee60eaa529_840x599.jpeg"
+        },
         {
           "id": "https://www.argmin.net/p/inverse-problems",
           "author": "Ben Recht",
@@ -2903,6 +2935,16 @@
       "siteUrl": "https://languagelog.ldc.upenn.edu/nll",
       "articles": [
         {
+          "id": "https://languagelog.ldc.upenn.edu/nll/?p=66331",
+          "author": "Victor Mair",
+          "description": "I'll be right up front by saying that I always spell the name as \"Uyghur\" because doing so helps me pronounce the name more like the way the Uyghurs themselves say their ethnonym.  If I spell the name as \"Uygur\", it has more of a tendency to come out sounding like a slur on an […]",
+          "link": "https://languagelog.ldc.upenn.edu/nll/?p=66331&utm_source=rss&utm_medium=rss&utm_campaign=uyghur-or-uygur",
+          "publishedOn": "2024-10-04T14:17:39.000Z",
+          "wordCount": 3775,
+          "title": "Uyghur or Uygur",
+          "imageUrl": null
+        },
+        {
           "id": "https://languagelog.ldc.upenn.edu/nll/?p=66337",
           "author": "Mark Liberman",
           "description": "Google has created an experimental — and free — system called NotebookLM. Here's its current welcome page: So I gave it a link to a LLOG post that I happened to have open for an irrelevant reason: \"Dogless in Albion\", 9/12/2011. And here's what it showed me next: That Summary is OK, though it leaves […]",
@@ -3475,16 +3517,6 @@
           "publishedOn": "2024-09-06T01:54:05.000Z",
           "wordCount": 2919,
           "title": "German linguist Möllendorff and the earliest recordings of Chinese",
-          "imageUrl": null
-        },
-        {
-          "id": "https://languagelog.ldc.upenn.edu/nll/?p=65841",
-          "author": "Victor Mair",
-          "description": "The bottle of body wash affixed to the wall of the shower in the Cheyenne hotel where I'm staying is labeled in French as \"Savon Liquide pour le Corps\". English \"body wash\" is two words consisting of eight letters.  \"Savon Liquide pour le Corps\" is five words consisting of twenty-three letters. We've discussed the phenomenon […]",
-          "link": "https://languagelog.ldc.upenn.edu/nll/?p=65841&utm_source=rss&utm_medium=rss&utm_campaign=body-wash",
-          "publishedOn": "2024-09-05T01:26:37.000Z",
-          "wordCount": 2274,
-          "title": "Body wash",
           "imageUrl": null
         }
       ]
