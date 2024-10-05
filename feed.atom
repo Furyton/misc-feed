@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-10-05T21:17:15.860Z</updated>
+    <updated>2024-10-05T22:17:39.636Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -1699,16 +1699,6 @@ Read more...]]></summary>
         <summary type="html"><![CDATA[Visit the post for more.]]></summary>
         <author>
             <name>xi'an</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“闭门造车”之多模态思路浅谈（三）：位置编码]]></title>
-        <id>https://kexue.fm/archives/10352</id>
-        <link href="https://kexue.fm/archives/10352"/>
-        <updated>2024-09-06T09:57:00.000Z</updated>
-        <summary type="html"><![CDATA[在前面的文章中，我们曾表达过这样的观点：多模态LLM相比纯文本LLM的主要差异在于，前者甚至还没有形成一个公认为标准的方法论。这里的方法论，不仅包括之前讨论的生成和训练策略，还包括一些基础架构的...]]></summary>
-        <author>
-            <name>苏剑林</name>
         </author>
     </entry>
     <entry>
