@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-10-05T02:47:52.810Z</updated>
+    <updated>2024-10-05T03:22:30.228Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -1729,37 +1729,6 @@ Read more...]]></summary>
         <summary type="html"><![CDATA[“It will suffice therefore, either to resolved this last equation, or at least to attribute to θ a sufficiently small value, in order to obtain a new value of u inferior to u. If the new value of u is not a minimum, one will be able to deduce, by operating always in the same […]]]></summary>
         <author>
             <name>xi'an</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EditPlus 的配置方法]]></title>
-        <id>https://www.skywind.me/blog/?p=2828</id>
-        <link href="https://skywind.me/blog/archives/2828"/>
-        <updated>2024-09-05T15:05:00.000Z</updated>
-        <summary type="html"><![CDATA[作为一名编辑器爱好者，EditPlus 是我最喜欢的编辑器之一，超过 NotePad++，它启动速度比它快，打开文件比它快，功能比它强，颜值也比它高，但大小只有 2MB： 用了这么多年，我感觉我欠 EditPlus 一篇文章，介绍一下我平时是如何是用 EditPlus 搭建开发环境的，以及如何让它变得更好用： （点击 more/continue 展开） 先配置下 GCC 的工具，选择主菜单 Tools-> Configure User Tools： 然后点右边按钮 “Add Tool” 并选择 “Program”，然后在下面填空： Menu text: Execute Program Command: C:\Windows\system32\cmd.exe Argument: /C "$(FileNameNoExt)" Initial directory: $(FileDir) 这些形如 $(FileDir) 之类的宏不用死记，点输入框右边的下箭头按钮，就能弹出菜单，让你选择后自动插入： 配置好以后，点下方 … Continue reading →
-The post EditPlus 的配置方法 appeared first on Skywind Inside.]]></summary>
-        <author>
-            <name>skywind</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EditPlus 的配置方法]]></title>
-        <id>https://www.skywind.me/blog/?p=2828</id>
-        <link href="https://www.skywind.me/blog/archives/2828"/>
-        <updated>2024-09-05T15:05:00.000Z</updated>
-        <summary type="html"><![CDATA[作为一名编辑器爱好者，EditPlus 是我最喜欢的编辑器之一，超过 NotePad++，它启动速度比它快，打开文件比它快，功能比它强，颜值也比它高，但大小只有 2MB： 不过要让它变得好用，能够方便开发，还需要做一些必要的设置，先配置下 GCC 的工具： （点击 more/continue 展开） 选择主菜单 Tools-> Configure User Tools： 然后点右边按钮 “Add Tool” 并选择 “Program”，然后在下面填空： Menu text: Execute Program Command: C:\Windows\system32\cmd.exe Argument: /C "$(FileNameNoExt)" Initial directory: $(FileDir) 这些形如 $(FileDir) 之类的宏不用死记，点输入框右边的下箭头按钮，就能弹出菜单，让你选择后自动插入： 配置好以后，点下方 “Apply” 按钮确定，这样我们多出一个工具来，按 Ctrl+1 运行当前 … Continue reading →
-The post EditPlus 的配置方法 appeared first on Skywind Inside.]]></summary>
-        <author>
-            <name>skywind</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AlphaProteo generates novel proteins for biology and health research]]></title>
-        <id>https://deepmind.google/discover/blog/alphaproteo-generates-novel-proteins-for-biology-and-health-research/</id>
-        <link href="https://deepmind.google/discover/blog/alphaproteo-generates-novel-proteins-for-biology-and-health-research/"/>
-        <updated>2024-09-05T15:00:00.000Z</updated>
-        <author>
-            <name>Google DeepMind Blog</name>
         </author>
     </entry>
     <entry>

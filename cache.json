@@ -1940,16 +1940,6 @@
           "wordCount": 1725,
           "title": "Our latest advances in robot dexterity",
           "imageUrl": "https://lh3.googleusercontent.com/63ROjLq4VNqk3RDA5vl1mYS1i5xvcgU8-augVWQY5OZCtVsm_e4YX8rR4_DLUlQiTmMHT6qx3p9shUtPGUHy_4SA64RDeMghvk0eDKT6Fqh6-P3d4A=w1200-h630-n-nu"
-        },
-        {
-          "id": "https://deepmind.google/discover/blog/alphaproteo-generates-novel-proteins-for-biology-and-health-research/",
-          "author": null,
-          "description": "",
-          "link": "https://deepmind.google/discover/blog/alphaproteo-generates-novel-proteins-for-biology-and-health-research/",
-          "publishedOn": "2024-09-05T15:00:00.000Z",
-          "wordCount": 1964,
-          "title": "AlphaProteo generates novel proteins for biology and health research",
-          "imageUrl": "https://lh3.googleusercontent.com/7RKd6r-Wc8JfMau5x9knRq9DrOKGDwS3ye4YxY0jjWGntf74y8WL0lOlktJefxwkJYw33UEf2Ph_BhQ51TIufCxPkmtCPOpakekMpnOUwVI-3R6RzQ=w1200-h630-n-nu"
         }
       ]
     },
@@ -2442,28 +2432,7 @@
       "title": "Skywind Inside",
       "feedUrl": "https://www.skywind.me/blog/feed",
       "siteUrl": "https://skywind.me/blog",
-      "articles": [
-        {
-          "id": "https://www.skywind.me/blog/?p=2828",
-          "author": "skywind",
-          "description": "作为一名编辑器爱好者，EditPlus 是我最喜欢的编辑器之一，超过 NotePad++，它启动速度比它快，打开文件比它快，功能比它强，颜值也比它高，但大小只有 2MB： 用了这么多年，我感觉我欠 EditPlus 一篇文章，介绍一下我平时是如何是用 EditPlus 搭建开发环境的，以及如何让它变得更好用： （点击 more/continue 展开） 先配置下 GCC 的工具，选择主菜单 Tools-> Configure User Tools： 然后点右边按钮 “Add Tool” 并选择 “Program”，然后在下面填空： Menu text: Execute Program Command: C:\\Windows\\system32\\cmd.exe Argument: /C \"$(FileNameNoExt)\" Initial directory: $(FileDir) 这些形如 $(FileDir) 之类的宏不用死记，点输入框右边的下箭头按钮，就能弹出菜单，让你选择后自动插入： 配置好以后，点下方 … Continue reading →\nThe post EditPlus 的配置方法 appeared first on Skywind Inside.",
-          "link": "https://skywind.me/blog/archives/2828",
-          "publishedOn": "2024-09-05T15:05:00.000Z",
-          "wordCount": 1786,
-          "title": "EditPlus 的配置方法",
-          "imageUrl": "https://skywind3000.github.io/images/blog/2024/epp/editplus.png"
-        },
-        {
-          "id": "https://www.skywind.me/blog/?p=2828",
-          "author": "skywind",
-          "description": "作为一名编辑器爱好者，EditPlus 是我最喜欢的编辑器之一，超过 NotePad++，它启动速度比它快，打开文件比它快，功能比它强，颜值也比它高，但大小只有 2MB： 不过要让它变得好用，能够方便开发，还需要做一些必要的设置，先配置下 GCC 的工具： （点击 more/continue 展开） 选择主菜单 Tools-> Configure User Tools： 然后点右边按钮 “Add Tool” 并选择 “Program”，然后在下面填空： Menu text: Execute Program Command: C:\\Windows\\system32\\cmd.exe Argument: /C \"$(FileNameNoExt)\" Initial directory: $(FileDir) 这些形如 $(FileDir) 之类的宏不用死记，点输入框右边的下箭头按钮，就能弹出菜单，让你选择后自动插入： 配置好以后，点下方 “Apply” 按钮确定，这样我们多出一个工具来，按 Ctrl+1 运行当前 … Continue reading →\nThe post EditPlus 的配置方法 appeared first on Skywind Inside.",
-          "link": "https://www.skywind.me/blog/archives/2828",
-          "publishedOn": "2024-09-05T15:05:00.000Z",
-          "wordCount": 1490,
-          "title": "EditPlus 的配置方法",
-          "imageUrl": "https://skywind3000.github.io/images/blog/2024/epp/editplus.png"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Xi'an's Og",
