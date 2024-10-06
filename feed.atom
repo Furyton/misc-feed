@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-10-06T09:19:03.131Z</updated>
+    <updated>2024-10-06T10:18:27.244Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -1639,6 +1639,16 @@ Read more...]]></summary>
         <summary type="html"><![CDATA[Visit the post for more.]]></summary>
         <author>
             <name>xi'an</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Packing Matrix-Vector Multiplication in Fully Homomorphic Encryption]]></title>
+        <id>https://www.jeremykun.com/2024/09/06/packing-matrix-vector-multiplication-in-fhe/</id>
+        <link href="https://www.jeremykun.com/2024/09/06/packing-matrix-vector-multiplication-in-fhe/"/>
+        <updated>2024-09-07T04:18:09.000Z</updated>
+        <summary type="html"><![CDATA[In my recent overview of homomorphic encryption, I underemphasized the importance of data layout when working with arithmetic (SIMD-style) homomorphic encryption schemes. In the FHE world, the name given to data layout strategies is called “packing,” because it revolves around putting multiple plaintext data into RLWE ciphertexts in carefully-chosen ways that mesh well with the operations you’d like to perform. By “mesh well” I mean it reduces the number of extra multiplications and rotations required merely to align data elements properly, rather than doing the actual computation you care about.]]></summary>
+        <author>
+            <name>Math ∩ Programming</name>
         </author>
     </entry>
     <entry>
