@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-10-08T03:26:18.427Z</updated>
+    <updated>2024-10-08T04:22:54.790Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -54,6 +54,16 @@
         <summary type="html"><![CDATA["Turkey’s döner kebab spat with Germany is turning nasty", by Daniel Thorpe, The Spectator (10/5/24) Last April, German president Frank-Walter Steinmeier decided to bring along a 60-kilogram döner kebab on his state visit to Turkey. It did not go down well. Turks found the stunt condescending; Germans were mortified. Ankara lodged an official request with […]]]></summary>
         <author>
             <name>Victor Mair</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Influence-based Attributions can be Manipulated]]></title>
+        <id>https://ucsdml.github.io//2024/10/07/ifman.html</id>
+        <link href="https://ucsdml.github.io//2024/10/07/ifman.html"/>
+        <updated>2024-10-07T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Influence Functions are a standard tool for attributing predictions to training data in a principled manner and are widely used in applications such as data valuation and fairness. In this work, we present realistic incentives to manipulate influence-based attributions and investigate whether these attributions can be systematically tampered by an adversary. We show that this is indeed possible for logistic regression models trained on ResNet feature embeddings and standard tabular fairness datasets and provide efficient attacks with backward-friendly implementations. Our work raises questions on the reliability of influence-based attributions in adversarial circumstances. Code is available at [https://github.com/infinite-pursuits/influence-based-attributions-can-be-manipulated](https://github.com/infinite-pursuits/influence-based-attributions-can-be-manipulated).]]></summary>
+        <author>
+            <name>UCSD Machine Learning Group</name>
         </author>
     </entry>
     <entry>
