@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-10-08T11:21:53.402Z</updated>
+    <updated>2024-10-08T12:35:16.913Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[University commas]]></title>
+        <id>https://languagelog.ldc.upenn.edu/nll/?p=66414</id>
+        <link href="https://languagelog.ldc.upenn.edu/nll/?p=66414&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=66414"/>
+        <updated>2024-10-08T11:30:46.000Z</updated>
+        <summary type="html"><![CDATA[The current xkcd comic: Mouseover title: "The distinctive 'UCLA comma' and 'Michigan comma' are a long string of commas at the start and end of the sentence respectively." I guess Penn, Brown, Berkeley, CalTech, …, should be grateful for being left out. I'll spare you our past posts on the Oxford comma, except this one.]]></summary>
+        <author>
+            <name>Mark Liberman</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Doing well]]></title>
         <id>https://languagelog.ldc.upenn.edu/nll/?p=66404</id>
