@@ -1463,6 +1463,16 @@
       "siteUrl": "https://kexue.fm/",
       "articles": [
         {
+          "id": "https://kexue.fm/archives/10427",
+          "author": "苏剑林",
+          "description": "在《低秩近似之路（二）：SVD》中，我们证明了SVD可以给出任意矩阵的最优低秩近似。这里的最优近似是无约束的，也就是说SVD给出的结果只管误差上的最小，不在乎矩阵的具体结构，而在很多应用场景中，...",
+          "link": "https://kexue.fm/archives/10427",
+          "publishedOn": "2024-10-11T01:56:00.000Z",
+          "wordCount": 1738,
+          "title": "低秩近似之路（三）：CR近似",
+          "imageUrl": null
+        },
+        {
           "id": "https://kexue.fm/archives/10407",
           "author": "苏剑林",
           "description": "上一篇文章中我们介绍了“伪逆”，它关系到给定矩阵$M$和$A$（或$B$）时优化目标$\\Vert AB - M\\Vert_F^2$的最优解。这篇文章我们来关注$A,B$都不给出时的最优解，即\\b...",
