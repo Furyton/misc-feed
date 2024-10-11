@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-10-11T11:16:54.989Z</updated>
+    <updated>2024-10-11T12:36:22.174Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Ben Zimmer on Keywords]]></title>
+        <id>https://languagelog.ldc.upenn.edu/nll/?p=66463</id>
+        <link href="https://languagelog.ldc.upenn.edu/nll/?p=66463&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=ben-zimmer-on-keywords"/>
+        <updated>2024-10-11T11:58:28.000Z</updated>
+        <summary type="html"><![CDATA[Christine Oh, "Wolf Humanities Center hosts linguist, columnist Ben Zimmer for lecture on 'keywords'", The Daily Pennsylvanian 10/11/2024: The Wolf Humanities Center hosted Wall Street Journal language columnist Ben Zimmer at the ARCH building for a talk titled “Lexical Sleuthing in the Digital Age: On the Trail of Keywords and their Cultural Worlds” on Oct. […]]]></summary>
+        <author>
+            <name>Mark Liberman</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[低秩近似之路（三）：CR近似]]></title>
         <id>https://kexue.fm/archives/10427</id>
@@ -1664,52 +1674,6 @@ I also had some 2x6 boards left over from a different part of the shed, and I re
         <summary type="html"><![CDATA[The PyTorch Foundation, a neutral home for the deep learning community to collaborate on the open source PyTorch framework and ecosystem, is announcing today that Arm has joined as a premier member.]]></summary>
         <author>
             <name>PyTorch Website</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[When should you upgrade to Python 3.13?]]></title>
-        <id>https://pythonspeed.com/articles/upgrade-python-3.13/</id>
-        <link href="https://pythonspeed.com/articles/upgrade-python-3.13/"/>
-        <updated>2024-09-12T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Python 3.13 will be out October 1, 2024—but should you switch to it immediately?
-And if you shouldn’t upgrade just yet, when should you?
-Immediately after the release, you probably didn’t want to upgrade just yet.
-But from December 2024 and onwards, upgrading is definitely worth trying, though it may not succeed.
-To understand why, we need to consider Python packaging, the software development process, and take a look at the history of past releases.
-Read more...]]></summary>
-        <author>
-            <name>Python⇒Speed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[It's time to stop using Python 3.8]]></title>
-        <id>https://pythonspeed.com/articles/stop-using-python-3.8/</id>
-        <link href="https://pythonspeed.com/articles/stop-using-python-3.8/"/>
-        <updated>2024-09-12T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Upgrading to new software versions is work, and work that doesn’t benefit your software’s users.
-Users care about features and bug fixes, not how up-to-date you are.
-So it’s perhaps not surprising how many people still use Python 3.8.
-As of September 2024, about 14% of packages downloaded from PyPI were for Python 3.8.
-This includes automated downloads as part of CI runs, so it doesn’t mean 3.8 is used in 14% of applications, but that’s still 250 million packages installed in a single day!
-Still, there is only so much time you can delay upgrading, and for Python 3.8, the time to upgrade is as soon as possible.
-Python 3.8 is reaching its end of life at the end of October 2024.
-No more bug fixes.
-No more security fixes.
-“He’s dead, Jim.”
-Still not convinced? Let’s see why you want to upgrade.
-Read more...]]></summary>
-        <author>
-            <name>Python⇒Speed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Quantifying the debate]]></title>
-        <id>https://languagelog.ldc.upenn.edu/nll/?p=65935</id>
-        <link href="https://languagelog.ldc.upenn.edu/nll/?p=65935&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=quantifying-the-debate"/>
-        <updated>2024-09-11T23:41:51.000Z</updated>
-        <summary type="html"><![CDATA[Following up on "Type-token plots in The Economist" (9/6/2024), I lost some sleep last night doing some analyses of the presidential debate, which I shared with writers at The Economist to be published as "An alternative look at the Trump-Harris debate, in five charts",  9/11/2024. They lead with another type-token graph: One of their other […]]]></summary>
-        <author>
-            <name>Mark Liberman</name>
         </author>
     </entry>
     <entry>
