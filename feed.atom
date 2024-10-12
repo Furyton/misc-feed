@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-10-12T01:22:27.365Z</updated>
+    <updated>2024-10-12T02:46:14.317Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -1654,36 +1654,6 @@ I’ve been building a shed in my backyard, and for one section I decided to bui
 I also had some 2x6 boards left over from a different part of the shed, and I realized that gave a neat dynamic programming problem: Can you fill a given width by laying planks of standard dimensional lumber?]]></summary>
         <author>
             <name>Math ∩ Programming</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stretching the Definitions]]></title>
-        <id>https://www.argmin.net/p/stretching-the-definitions</id>
-        <link href="https://www.argmin.net/p/stretching-the-definitions"/>
-        <updated>2024-09-12T14:19:32.000Z</updated>
-        <summary type="html"><![CDATA[Some problems aren't convex but are close enough.]]></summary>
-        <author>
-            <name>Ben Recht</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stretching the Definitions]]></title>
-        <id>https://www.argmin.net/p/stretching-the-definitions</id>
-        <link href="https://www.argmin.net/p/stretching-the-definitions"/>
-        <updated>2024-09-12T14:19:32.000Z</updated>
-        <summary type="html"><![CDATA[Some problems aren't convex but are close enough.]]></summary>
-        <author>
-            <name>Ben Recht</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Our latest advances in robot dexterity]]></title>
-        <id>https://deepmind.google/discover/blog/advances-in-robot-dexterity/</id>
-        <link href="https://deepmind.google/discover/blog/advances-in-robot-dexterity/"/>
-        <updated>2024-09-12T14:00:05.000Z</updated>
-        <summary type="html"><![CDATA[Two new AI systems, ALOHA Unleashed and DemoStart, help robots learn to perform complex tasks that require dexterous movement]]></summary>
-        <author>
-            <name>Google DeepMind Blog</name>
         </author>
     </entry>
     <entry>
