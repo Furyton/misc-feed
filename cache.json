@@ -1788,16 +1788,6 @@
           "wordCount": 2367,
           "title": "Beyond multi-core parallelism: faster Mandelbrot with SIMD",
           "imageUrl": "https://pythonspeed.com/assets/titles/optimizing-with-simd.png"
-        },
-        {
-          "id": "https://pythonspeed.com/articles/intro-rust-python-extensions/",
-          "author": null,
-          "description": "If your Python code isn’t fast enough, you have many options for compiled languages to write a faster extension.\nIn this article we’ll focus on Rust, which benefits from:\nModern tooling, including a package repository called crates.io, and built-in build tool (cargo).\nExcellent Python integration and tooling.\nThe Rust package (they’re known as “crates”) for Python support is PyO3.\nFor packaging you can use setuptools-rust, for integration with existing setuptools projects, or for standalone extensions you can use Maturin.\nMemory- and thread-safe, so it’s much less prone to crashes or memory corruption compared to C and C++.\nIn particular, we’ll:\nImplement a small algorithm in Python.\nRe-implement it as a Rust extension.\nOptimize the Rust version so it runs faster.\nRead more...",
-          "link": "https://pythonspeed.com/articles/intro-rust-python-extensions/",
-          "publishedOn": "2024-09-16T00:00:00.000Z",
-          "wordCount": 2401,
-          "title": "Let's build and optimize a Rust extension for Python",
-          "imageUrl": "https://pythonspeed.com/assets/titles/intro-rust-python-extensions.png"
         }
       ]
     },
@@ -2746,6 +2736,106 @@
       "siteUrl": "https://www.52nlp.cn",
       "articles": [
         {
+          "id": "https://www.52nlp.cn/?p=15294",
+          "author": "课程图谱",
+          "description": "课程主页: https://www.coursera.org/learn/gestion-de-proyect […]",
+          "link": "https://www.52nlp.cn/%e6%8e%a8%e8%8d%90%e8%af%be%e7%a8%8b%ef%bc%9a%e6%8d%b7%e6%95%8f%e9%a1%b9%e7%9b%ae%e7%ae%a1%e7%90%86%e6%96%b9%e6%b3%95%ef%bc%88gestion-de-proyectos-con-la-metodologia-agile%ef%bc%89%e8%af%84%e6%b5%8b",
+          "publishedOn": "2024-10-15T12:34:37.000Z",
+          "wordCount": 880,
+          "title": "推荐课程：捷敏项目管理方法（Gestión de proyectos con la metodología Agile）评测",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.52nlp.cn/?p=15292",
+          "author": "课程图谱",
+          "description": "课程主页: https://www.coursera.org/learn/gestion-de-proyect […]",
+          "link": "https://www.52nlp.cn/%e8%af%be%e7%a8%8b%e6%8e%a8%e8%8d%90%ef%bc%9agestion-de-proyectos-las-bases-del-exito",
+          "publishedOn": "2024-10-15T12:34:20.000Z",
+          "wordCount": 860,
+          "title": "课程推荐：Gestión de proyectos: las bases del éxito",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.52nlp.cn/?p=15290",
+          "author": "课程图谱",
+          "description": "课程主页: https://www.coursera.org/learn/project-risk-manag […]",
+          "link": "https://www.52nlp.cn/%e6%8e%a8%e8%8d%90%e5%ad%a6%e4%b9%a0%e3%80%8a%e9%a1%b9%e7%9b%ae%e9%a3%8e%e9%99%a9%e4%b8%8e%e5%8f%98%e6%9b%b4%e7%ae%a1%e7%90%86%e3%80%8b%e8%af%be%e7%a8%8b",
+          "publishedOn": "2024-10-15T12:34:01.000Z",
+          "wordCount": 841,
+          "title": "推荐学习《项目风险与变更管理》课程",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.52nlp.cn/?p=15288",
+          "author": "课程图谱",
+          "description": "课程主页: https://www.coursera.org/learn/geometric-algorith […]",
+          "link": "https://www.52nlp.cn/%e6%b7%b1%e5%85%a5%e6%8e%a2%e8%ae%a8%e5%87%a0%e4%bd%95%e7%ae%97%e6%b3%95%e8%af%be%e7%a8%8b%ef%bc%9a%e5%9c%a8%e8%ae%a1%e7%ae%97%e6%9c%ba%e7%a7%91%e5%ad%a6%e4%b8%ad%e7%9a%84%e5%ba%94%e7%94%a8%e4%b8%8e",
+          "publishedOn": "2024-10-15T12:33:45.000Z",
+          "wordCount": 835,
+          "title": "深入探讨几何算法课程：在计算机科学中的应用与技巧",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.52nlp.cn/?p=15286",
+          "author": "课程图谱",
+          "description": "课程主页: https://www.coursera.org/learn/geodesign 在当今快速变化的 […]",
+          "link": "https://www.52nlp.cn/%e3%80%8a%e5%9c%b0%e7%90%86%e8%ae%be%e8%ae%a1%ef%bc%9a%e6%94%b9%e5%8f%98%e4%bd%a0%e7%9a%84%e4%b8%96%e7%95%8c%e3%80%8b%e8%af%be%e7%a8%8b%e8%af%84%e6%b5%8b%e4%b8%8e%e6%8e%a8%e8%8d%90",
+          "publishedOn": "2024-10-15T12:33:23.000Z",
+          "wordCount": 825,
+          "title": "《地理设计：改变你的世界》课程评测与推荐",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.52nlp.cn/?p=15284",
+          "author": "课程图谱",
+          "description": "课程主页: https://www.coursera.org/learn/gis-1 在这个信息化发展的时代， […]",
+          "link": "https://www.52nlp.cn/%e5%80%bc%e5%be%97%e6%8e%a8%e8%8d%90%e7%9a%84%e8%af%be%e7%a8%8b%ef%bc%9a%e5%9c%b0%e7%90%86%e4%bf%a1%e6%81%af%e7%b3%bb%e7%bb%9f-%e7%ac%ac%e4%b8%80%e9%83%a8%e5%88%86%e8%af%84%e6%b5%8b",
+          "publishedOn": "2024-10-15T12:33:05.000Z",
+          "wordCount": 872,
+          "title": "值得推荐的课程：地理信息系统 - 第一部分评测",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.52nlp.cn/?p=15282",
+          "author": "课程图谱",
+          "description": "课程主页: https://www.coursera.org/learn/geometra-analtica- […]",
+          "link": "https://www.52nlp.cn/%e6%b7%b1%e5%85%a5%e6%8e%a8%e8%8d%90%ef%bc%9ageometria-analitica-preuniversitaria-%e8%af%be%e7%a8%8b%e8%af%84%e8%bf%b0",
+          "publishedOn": "2024-10-15T12:32:46.000Z",
+          "wordCount": 848,
+          "title": "深入推荐：Geometría Analítica Preuniversitaria 课程评述",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.52nlp.cn/?p=15280",
+          "author": "课程图谱",
+          "description": "课程主页: https://www.coursera.org/learn/geopoliticaygobern […]",
+          "link": "https://www.52nlp.cn/%e6%8e%a8%e8%8d%90%e8%af%be%e7%a8%8b%ef%bc%9ageopolitica-y-gobernanza-global-%e9%a3%8e%e9%99%a9%e4%b8%8e%e6%9c%ba%e9%81%87",
+          "publishedOn": "2024-10-15T12:31:42.000Z",
+          "wordCount": 847,
+          "title": "推荐课程：Geopolítica y Gobernanza Global - 风险与机遇",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.52nlp.cn/?p=15278",
+          "author": "课程图谱",
+          "description": "课程主页: https://www.coursera.org/learn/generative-ai-esse […]",
+          "link": "https://www.52nlp.cn/coursera-%e8%af%be%e7%a8%8b%e6%8e%a8%e8%8d%90%ef%bc%9a%e7%94%9f%e6%88%90%e5%bc%8f%e4%ba%ba%e5%b7%a5%e6%99%ba%e8%83%bd%e5%9f%ba%e7%a1%80-%e6%a6%82%e8%bf%b0%e4%b8%8e%e5%bd%b1%e5%93%8d",
+          "publishedOn": "2024-10-15T12:31:28.000Z",
+          "wordCount": 849,
+          "title": "Coursera 课程推荐：生成式人工智能基础 - 概述与影响",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.52nlp.cn/?p=15276",
+          "author": "课程图谱",
+          "description": "课程主页: https://www.coursera.org/learn/generative-ai 在当今的 […]",
+          "link": "https://www.52nlp.cn/%e8%af%be%e7%a8%8b%e6%8e%a8%e8%8d%90%ef%bc%9agenerative-ai-primer-%e5%bc%80%e5%90%af%e4%bd%a0%e7%9a%84%e4%ba%ba%e5%b7%a5%e6%99%ba%e8%83%bd%e4%b9%8b%e6%97%85%ef%bc%81",
+          "publishedOn": "2024-10-15T12:31:11.000Z",
+          "wordCount": 839,
+          "title": "课程推荐：Generative AI Primer——开启你的人工智能之旅！",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.52nlp.cn/?p=14900",
           "author": "课程图谱",
           "description": "课程主页: https://www.coursera.org/learn/english-lower-inte […]",
@@ -3252,6 +3342,16 @@
       "feedUrl": "https://languagelog.ldc.upenn.edu/nll/?feed=rss2",
       "siteUrl": "https://languagelog.ldc.upenn.edu/nll",
       "articles": [
+        {
+          "id": "https://languagelog.ldc.upenn.edu/nll/?p=66503",
+          "author": "Victor Mair",
+          "description": "I'm at a motel in Nampa, Idaho. A sign posted on a side entrance reads: DO NOT LEAVE DOOR OPEN YOU WILL BE TRESPASSED. I asked the manager what she meant by that. She replied, \"You will be prohibited from coming on this property.\" In our previous discussions of this usage, I do not recall […]",
+          "link": "https://languagelog.ldc.upenn.edu/nll/?p=66503&utm_source=rss&utm_medium=rss&utm_campaign=trespassed-update",
+          "publishedOn": "2024-10-15T12:36:36.000Z",
+          "wordCount": 2189,
+          "title": "Trespassed update",
+          "imageUrl": null
+        },
         {
           "id": "https://languagelog.ldc.upenn.edu/nll/?p=66513",
           "author": "Mark Liberman",
@@ -3840,16 +3940,6 @@
           "publishedOn": "2024-09-16T16:07:09.000Z",
           "wordCount": 2758,
           "title": "The City of Angels in Latin",
-          "imageUrl": null
-        },
-        {
-          "id": "https://languagelog.ldc.upenn.edu/nll/?p=66017",
-          "author": "Mark Liberman",
-          "description": "My debate analysis for The Economist included these charts: : …with the commentary The final charts show the average pitches of the two candidates and their variability within each speaking turn (which can be a rough proxy for emotional arousal). Both candidates start at a lower average pitch and with lower variability, before showing a […]",
-          "link": "https://languagelog.ldc.upenn.edu/nll/?p=66017&utm_source=rss&utm_medium=rss&utm_campaign=weak-point-holler-louder",
-          "publishedOn": "2024-09-15T23:20:41.000Z",
-          "wordCount": 2653,
-          "title": "“Weak point; holler louder!”",
           "imageUrl": null
         }
       ]
