@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-10-15T23:19:50.859Z</updated>
+    <updated>2024-10-16T01:26:01.848Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[LWE Attack Benchmarking Project]]></title>
+        <id>https://www.jeremykun.com/shortform/2024-10-15-1543/</id>
+        <link href="https://www.jeremykun.com/shortform/2024-10-15-1543/"/>
+        <updated>2024-10-15T22:43:03.000Z</updated>
+        <summary type="html"><![CDATA[Kristin Lauter and her colleagues at Facebook esearch recently announced a project to benchmark attacks against LWE.
+The announcement was on the post-quanum crypto mailing list.
+They state: “Our approach is motivated by the need to study more carefully the effect on security of using small secrets and small error in standardized LWE settings like Kyber and Homomorphic Encryption. In addition, as sparse secrets have been used in Homomorphic Encryption for efficiency and functionality, it is important to study sparse secrets as well.]]></summary>
+        <author>
+            <name>Math ∩ Programming</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[推荐一门非常实用的英语邮件写作课程]]></title>
         <id>https://www.52nlp.cn/?p=18286</id>

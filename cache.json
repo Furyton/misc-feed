@@ -2059,7 +2059,18 @@
       "title": "Math ∩ Programming",
       "feedUrl": "https://jeremykun.com/feed/",
       "siteUrl": "https://www.jeremykun.com/",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://www.jeremykun.com/shortform/2024-10-15-1543/",
+          "author": null,
+          "description": "Kristin Lauter and her colleagues at Facebook esearch recently announced a project to benchmark attacks against LWE.\nThe announcement was on the post-quanum crypto mailing list.\nThey state: “Our approach is motivated by the need to study more carefully the effect on security of using small secrets and small error in standardized LWE settings like Kyber and Homomorphic Encryption. In addition, as sparse secrets have been used in Homomorphic Encryption for efficiency and functionality, it is important to study sparse secrets as well.",
+          "link": "https://www.jeremykun.com/shortform/2024-10-15-1543/",
+          "publishedOn": "2024-10-15T22:43:03.000Z",
+          "wordCount": 310,
+          "title": "LWE Attack Benchmarking Project",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "Jonty Sinai",
