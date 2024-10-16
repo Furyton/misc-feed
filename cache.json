@@ -2416,6 +2416,16 @@
       "siteUrl": "https://skywind.me/blog",
       "articles": [
         {
+          "id": "https://skywind.me/blog/?p=3016",
+          "author": "skywind",
+          "description": "二十多年前的某一天，我盯着资源管理器里很久没用却一直舍不得删除的 UCDOS 文件夹犹豫了半天，最终却为了给硬盘腾点空间一狠心 shift+delete 把他们彻底删除了，当时我没意识到，一个时代就这样彻底的离我远去；二十多年后的今天，我又在最新版的 DOSBOX 里把这些当年的工具一个个重新装了回去，软件没变，但是消逝的青春却再也回不来了。 做了一个《上古软件仓》，包含上古时代的编程工具，汉字系统和设计软件等，都是一些我以前经常用的软件，主打怀旧和娱乐。 截图：中文系统 （点击 more/continue 继续） 截图：WPS 截图：整人专家 2000 其它工具包括： CCED，Borland C++，Watcom C++，Turbo C，QBasic，FoxBase，sea 1.3 等。 欢迎访问： https://skywind.me/wiki/%E4%B8%8A%E5%8F%A4%E8%BD%AF%E4%BB%B6%E4%BB%93\nThe post DOS 经典软件下载 appeared first on Skywind Inside.",
+          "link": "https://skywind.me/blog/archives/3016",
+          "publishedOn": "2024-10-16T07:55:31.000Z",
+          "wordCount": 1401,
+          "title": "DOS 经典软件下载",
+          "imageUrl": "https://skywind3000.github.io/images/blog/2024/dos/ucdos.png"
+        },
+        {
           "id": "https://skywind.me/blog/?p=2998",
           "author": "skywind",
           "description": "我经常有文本处理的需求，例如将 html 转换成纯文本，或者移除 markdown 里的所有连接，或者繁体转换简体。因此我做了一个插件来管理和执行各种外部文本过滤器。 所谓 “文本过滤器” 是一个命令行程序，它从标准输入读取文本，然后进行一些处理后写到标准输出，在 Vim 里可以用原生的 :{range}! xxx 命令将选中文本发送给 xxx 命令的标准输入，然后用该命令的标准输出替换选中文本，这个命令很有用，但每次输入一长串命令略显繁琐，并且过滤器多了以后也很难管理。 因此我做了这个插件来统一管理文本过滤程序，并且提供接口来执行他们： 比如上图演示了将 HTML 转换成文本，以及去除 markdown 中的连接，使用命令 :{range}TP {name} 就能调用名为 {name} 的文本过滤程序了。这些程序可以用你喜欢的语言编写，放到统一的目录，加上可执行属性就行，该插件就能找到它。 而你在调试你的文本过滤脚本时，可以加个叹号 :{range}TP! {name} 这样你就可以在另一个窗口里预览结果，而不会覆盖到原文本： 这样调试起来比较方便反复运行。 编写一个文本过滤脚本也很简单，比如在 ~/.vim/text 目录内创建 “markdown_to_dokuwiki.sh” 文件： #! /usr/bin/bash pandoc -f … Continue reading →\nThe post Vim 文本过滤/文字处理插件 appeared first on Skywind Inside.",
@@ -2808,6 +2818,106 @@
       "feedUrl": "https://www.52nlp.cn/feed",
       "siteUrl": "https://www.52nlp.cn",
       "articles": [
+        {
+          "id": "https://www.52nlp.cn/?p=20206",
+          "author": "课程图谱",
+          "description": "课程主页: https://www.coursera.org/specializations/cybersec […]",
+          "link": "https://www.52nlp.cn/%e4%ba%91%e7%ab%af%e7%bd%91%e7%bb%9c%e5%ae%89%e5%85%a8%e8%af%be%e7%a8%8b%e8%af%84%e6%b5%8b%e4%b8%8e%e6%8e%a8%e8%8d%90",
+          "publishedOn": "2024-10-16T08:24:49.000Z",
+          "wordCount": 814,
+          "title": "云端网络安全课程评测与推荐",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.52nlp.cn/?p=20204",
+          "author": "课程图谱",
+          "description": "课程主页: https://www.coursera.org/specializations/cybersec […]",
+          "link": "https://www.52nlp.cn/%e8%af%84%e6%b5%8b%e5%b9%b6%e6%8e%a8%e8%8d%90%e5%9c%a8%e7%ba%bf%e8%af%be%e7%a8%8b%e3%80%8a%e7%bd%91%e7%bb%9c%e5%ae%89%e5%85%a8%ef%bc%9a%e4%b8%ba%e6%82%a8%e7%9a%84%e4%bc%81%e4%b8%9a%e5%bc%80%e5%8f%91",
+          "publishedOn": "2024-10-16T08:23:46.000Z",
+          "wordCount": 807,
+          "title": "评测并推荐在线课程《网络安全：为您的企业开发程序》",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.52nlp.cn/?p=20202",
+          "author": "课程图谱",
+          "description": "课程主页: https://www.coursera.org/specializations/data-min […]",
+          "link": "https://www.52nlp.cn/%e6%8e%a8%e8%8d%90%e4%b8%80%e9%97%a8%e4%bc%98%e7%a7%80%e7%9a%84%e8%af%be%e7%a8%8b-%e6%95%b0%e6%8d%ae%e6%8c%96%e6%8e%98",
+          "publishedOn": "2024-10-16T08:23:31.000Z",
+          "wordCount": 793,
+          "title": "推荐一门优秀的课程 —— 数据挖掘",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.52nlp.cn/?p=20200",
+          "author": "课程图谱",
+          "description": "课程主页: https://www.coursera.org/specializations/data-sci […]",
+          "link": "https://www.52nlp.cn/%e6%8e%a2%e8%ae%a8%e4%b8%8e%e6%8e%a8%e8%8d%90%ef%bc%9a%e5%af%86%e6%ad%87%e6%a0%b9%e5%a4%a7%e5%ad%a6%e7%9a%84%e5%ba%94%e7%94%a8%e6%95%b0%e6%8d%ae%e7%a7%91%e5%ad%a6%e4%b8%8epython%e8%af%be%e7%a8%8b",
+          "publishedOn": "2024-10-16T08:23:24.000Z",
+          "wordCount": 819,
+          "title": "探讨与推荐：密歇根大学的应用数据科学与Python课程",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.52nlp.cn/?p=20197",
+          "author": "课程图谱",
+          "description": "课程主页: https://www.coursera.org/specializations/data-lit […]",
+          "link": "https://www.52nlp.cn/%e6%95%b0%e6%8d%ae%e7%b4%a0%e5%85%bb%e8%af%be%e7%a8%8b%e8%af%84%e6%b5%8b%ef%bc%9a%e8%ae%a9%e4%bd%a0%e6%88%90%e4%b8%ba%e6%95%b0%e6%8d%ae%e9%a9%b1%e5%8a%a8%e7%9a%84%e9%a2%86%e5%af%bc%e8%80%85",
+          "publishedOn": "2024-10-16T08:20:50.000Z",
+          "wordCount": 793,
+          "title": "数据素养课程评测：让你成为数据驱动的领导者",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.52nlp.cn/?p=20195",
+          "author": "课程图谱",
+          "description": "课程主页: https://www.coursera.org/specializations/data-min […]",
+          "link": "https://www.52nlp.cn/%e5%80%bc%e5%be%97%e6%8e%a8%e8%8d%90%e7%9a%84%e7%ba%bf%e4%b8%8a%e8%af%be%e7%a8%8b%ef%bc%9a%e6%95%b0%e6%8d%ae%e6%8c%96%e6%8e%98%e5%9f%ba%e7%a1%80%e4%b8%8e%e5%ae%9e%e8%b7%b5%e4%bd%93%e9%aa%8c",
+          "publishedOn": "2024-10-16T08:20:26.000Z",
+          "wordCount": 870,
+          "title": "值得推荐的线上课程：数据挖掘基础与实践体验",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.52nlp.cn/?p=20193",
+          "author": "课程图谱",
+          "description": "课程主页: https://www.coursera.org/specializations/digital- […]",
+          "link": "https://www.52nlp.cn/%e6%b7%b1%e5%85%a5%e6%8e%a2%e8%ae%a8coursera%e4%b8%8a%e7%9a%84%e6%95%b0%e5%ad%97%e5%b9%bf%e5%91%8a%e4%b8%8e%e5%b8%82%e5%9c%ba%e8%90%a5%e9%94%80%e8%af%be%e7%a8%8b",
+          "publishedOn": "2024-10-16T08:20:00.000Z",
+          "wordCount": 801,
+          "title": "深入探讨Coursera上的数字广告与市场营销课程",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.52nlp.cn/?p=20191",
+          "author": "课程图谱",
+          "description": "课程主页: https://www.coursera.org/specializations/dot-net- […]",
+          "link": "https://www.52nlp.cn/net%e5%85%a8%e6%a0%88%e5%bc%80%e5%8f%91%e8%80%85%e8%af%be%e7%a8%8b%e8%af%84%e6%b5%8b%e4%b8%8e%e6%8e%a8%e8%8d%90",
+          "publishedOn": "2024-10-16T08:19:40.000Z",
+          "wordCount": 841,
+          "title": ".NET全栈开发者课程评测与推荐",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.52nlp.cn/?p=20189",
+          "author": "课程图谱",
+          "description": "课程主页: https://www.coursera.org/specializations/data-sci […]",
+          "link": "https://www.52nlp.cn/%e6%8e%a8%e8%8d%90%e5%8a%a0%e5%b7%9e%e5%a4%a7%e5%ad%a6%e5%b0%94%e6%b9%be%e5%88%86%e6%a0%a1%e7%9a%84%e3%80%8a%e6%95%b0%e6%8d%ae%e7%a7%91%e5%ad%a6%e5%9f%ba%e7%a1%80%e3%80%8b%e8%af%be%e7%a8%8b",
+          "publishedOn": "2024-10-16T08:19:18.000Z",
+          "wordCount": 795,
+          "title": "推荐加州大学尔湾分校的《数据科学基础》课程",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.52nlp.cn/?p=20187",
+          "author": "课程图谱",
+          "description": "课程主页: https://www.coursera.org/specializations/differen […]",
+          "link": "https://www.52nlp.cn/%e6%b7%b1%e5%85%a5%e6%8e%a2%e8%ae%a8%e3%80%8a%e5%88%9b%e9%80%a0%e5%b7%ae%e5%bc%82%e7%ab%9e%e4%ba%89%e4%bc%98%e5%8a%bf%e3%80%8b%e8%af%be%e7%a8%8b",
+          "publishedOn": "2024-10-16T08:18:53.000Z",
+          "wordCount": 818,
+          "title": "深入探讨《创造差异竞争优势》课程",
+          "imageUrl": null
+        },
         {
           "id": "https://www.52nlp.cn/?p=19893",
           "author": "课程图谱",
