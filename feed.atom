@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-10-18T18:26:30.818Z</updated>
+    <updated>2024-10-18T19:15:02.286Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -4202,16 +4202,6 @@ Speakers of these non-“standard” varieties often face discrimination in the 
         <summary type="html"><![CDATA[How do you deal with the paradox of choice in optimization modeling?]]></summary>
         <author>
             <name>Ben Recht</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Softmax后传：寻找Top-K的光滑近似]]></title>
-        <id>https://kexue.fm/archives/10373</id>
-        <link href="https://kexue.fm/archives/10373"/>
-        <updated>2024-09-19T07:09:00.000Z</updated>
-        <summary type="html"><![CDATA[Softmax，顾名思义是“soft的max”，是$\max$算子（准确来说是$\text{argmax}$）的光滑近似，它通过指数归一化将任意向量$\boldsymbol{x}\in\math...]]></summary>
-        <author>
-            <name>苏剑林</name>
         </author>
     </entry>
     <entry>

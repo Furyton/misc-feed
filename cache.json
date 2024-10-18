@@ -1490,16 +1490,6 @@
           "wordCount": 1415,
           "title": "利用“熄火保护 + 通断器”实现燃气灶智能关火",
           "imageUrl": null
-        },
-        {
-          "id": "https://kexue.fm/archives/10373",
-          "author": "苏剑林",
-          "description": "Softmax，顾名思义是“soft的max”，是$\\max$算子（准确来说是$\\text{argmax}$）的光滑近似，它通过指数归一化将任意向量$\\boldsymbol{x}\\in\\math...",
-          "link": "https://kexue.fm/archives/10373",
-          "publishedOn": "2024-09-19T07:09:00.000Z",
-          "wordCount": 1923,
-          "title": "Softmax后传：寻找Top-K的光滑近似",
-          "imageUrl": null
         }
       ]
     },
