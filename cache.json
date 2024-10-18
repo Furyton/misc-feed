@@ -1781,22 +1781,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substack-post-media.s3.amazonaws.com/public/images/e4aea24c-8ad2-499f-8d8e-fb2d2c6272ab_840x600.jpeg"
-        },
-        {
-          "id": "https://www.argmin.net/p/the-cost-of-modeling",
-          "author": "Ben Recht",
-          "description": "On the abstraction boundary between mathematical optimization problems and what they model.",
-          "link": "https://www.argmin.net/p/the-cost-of-modeling",
-          "publishedOn": "2024-09-18T14:06:25.000Z",
-          "wordCount": null,
-          "title": "The Cost of Modeling",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substack-post-media.s3.amazonaws.com/public/images/0f924910-0726-4de4-b568-6ab2e022ee5f_840x600.jpeg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substack-post-media.s3.amazonaws.com/public/images/0f924910-0726-4de4-b568-6ab2e022ee5f_840x600.jpeg"
         }
       ]
     },
@@ -1926,16 +1910,6 @@
           "wordCount": 1319,
           "title": "Updated production-ready Gemini models, reduced 1.5 Pro pricing, increased rate limits, and more",
           "imageUrl": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/Gemini-15-Flash-Social_1.2e16d0ba.fill-1200x600.png"
-        },
-        {
-          "id": "https://deepmind.google/discover/blog/empowering-youtube-creators-with-generative-ai/",
-          "author": null,
-          "description": "New video generation technology in YouTube Shorts will help millions of people realize their creative vision",
-          "link": "https://deepmind.google/discover/blog/empowering-youtube-creators-with-generative-ai/",
-          "publishedOn": "2024-09-18T14:30:06.000Z",
-          "wordCount": 984,
-          "title": "Empowering YouTube creators with generative AI",
-          "imageUrl": "https://lh3.googleusercontent.com/Q8qBc1kzbYeksHRjsSuR7HEvezKsw3n1fxYlOqLf2sslqDOqYXJOhxyjznZ4cyq1fwNhpyMTMXW0RRrgHweVg6NaCEPnt3ujcFAIe0bVXK_sHka7cLo=w1200-h630-n-nu"
         }
       ]
     },
@@ -2354,22 +2328,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substack-post-media.s3.amazonaws.com/public/images/e4aea24c-8ad2-499f-8d8e-fb2d2c6272ab_840x600.jpeg"
-        },
-        {
-          "id": "https://www.argmin.net/p/the-cost-of-modeling",
-          "author": "Ben Recht",
-          "description": "On the abstraction boundary between mathematical optimization problems and what they model.",
-          "link": "https://www.argmin.net/p/the-cost-of-modeling",
-          "publishedOn": "2024-09-18T14:06:25.000Z",
-          "wordCount": null,
-          "title": "The Cost of Modeling",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substack-post-media.s3.amazonaws.com/public/images/0f924910-0726-4de4-b568-6ab2e022ee5f_840x600.jpeg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substack-post-media.s3.amazonaws.com/public/images/0f924910-0726-4de4-b568-6ab2e022ee5f_840x600.jpeg"
         }
       ]
     },
@@ -5395,6 +5353,16 @@
       "feedUrl": "https://languagelog.ldc.upenn.edu/nll/?feed=rss2",
       "siteUrl": "https://languagelog.ldc.upenn.edu/nll",
       "articles": [
+        {
+          "id": "https://languagelog.ldc.upenn.edu/nll/?p=66547",
+          "author": "Victor Mair",
+          "description": "When I passed through this area, it was all very confusing to me, but the local residents have no problem distinguishing the three towns.  The Dalles OR and Dallesport WA face each other across the mighty Columbia River, whereas Dallas OR is about 150 miles to the southwest.  I met one young man who was […]",
+          "link": "https://languagelog.ldc.upenn.edu/nll/?p=66547&utm_source=rss&utm_medium=rss&utm_campaign=the-dalles-dallesport-dallas",
+          "publishedOn": "2024-10-18T02:36:44.000Z",
+          "wordCount": 2296,
+          "title": "The Dalles, Dallesport, Dallas",
+          "imageUrl": null
+        },
         {
           "id": "https://languagelog.ldc.upenn.edu/nll/?p=66549",
           "author": "Mark Liberman",
