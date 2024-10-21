@@ -1845,6 +1845,113 @@
       ]
     },
     {
+      "title": "MachineLearningMastery.com",
+      "feedUrl": "https://machinelearningmastery.com/feed/",
+      "siteUrl": "https://www.machinelearningmastery.com/",
+      "articles": [
+        {
+          "id": "https://machinelearningmastery.com/?p=18473",
+          "author": "Iván Palomares Carrascosa",
+          "description": "Computer vision is a branch of Artificial Intelligence (AI) that studies how machines can interpret and understand visual information, such as images and videos .",
+          "link": "https://machinelearningmastery.com/5-free-books-on-computer-vision/",
+          "publishedOn": "2024-10-21T16:21:09.000Z",
+          "wordCount": null,
+          "title": "5 Free Books on Computer Vision",
+          "imageUrl": null
+        },
+        {
+          "id": "https://machinelearningmastery.com/?p=18439",
+          "author": "Bala Priya C",
+          "description": "As a data scientist, you probably know how to build machine learning models.",
+          "link": "https://machinelearningmastery.com/a-practical-guide-to-deploying-machine-learning-models/",
+          "publishedOn": "2024-10-18T09:00:33.000Z",
+          "wordCount": null,
+          "title": "A Practical Guide to Deploying Machine Learning Models",
+          "imageUrl": null
+        },
+        {
+          "id": "https://machinelearningmastery.com/?p=18431",
+          "author": "Cornellius Yudha Wijaya",
+          "description": "As data scientists with Python programming skills, we use Scikit-Learn a lot.",
+          "link": "https://machinelearningmastery.com/7-scikit-learn-secrets-you-probably-didnt-know-about/",
+          "publishedOn": "2024-10-16T09:00:01.000Z",
+          "wordCount": null,
+          "title": "7 Scikit-Learn Secrets You Probably Didn’t Know About",
+          "imageUrl": null
+        },
+        {
+          "id": "https://machinelearningmastery.com/?p=18293",
+          "author": "Vinod Chugani",
+          "description": "The first step in gaining meaningful insights from your project is to thoroughly understand what your model is telling you.",
+          "link": "https://machinelearningmastery.com/interpreting-and-communicating-data-science-results/",
+          "publishedOn": "2024-10-15T14:39:05.000Z",
+          "wordCount": null,
+          "title": "Interpreting and Communicating Data Science Results",
+          "imageUrl": null
+        },
+        {
+          "id": "https://machinelearningmastery.com/?p=18426",
+          "author": "Iván Palomares Carrascosa",
+          "description": "In the first post in this series, we introduced retrieval augmented generation (RAG) , explaining that it became necessary to expand the capabilities of conventional large language models (LLMs) .",
+          "link": "https://machinelearningmastery.com/understanding-rag-part-ii-how-classic-rag-works/",
+          "publishedOn": "2024-10-14T09:00:40.000Z",
+          "wordCount": null,
+          "title": "Understanding RAG Part II: How Classic RAG Works",
+          "imageUrl": null
+        },
+        {
+          "id": "https://machinelearningmastery.com/?p=18291",
+          "author": "Vinod Chugani",
+          "description": "Feature selection and engineering are critical steps that can significantly impact your model's performance.",
+          "link": "https://machinelearningmastery.com/from-features-to-performance-crafting-robust-predictive-models/",
+          "publishedOn": "2024-10-12T14:42:20.000Z",
+          "wordCount": null,
+          "title": "From Features to Performance: Crafting Robust Predictive Models",
+          "imageUrl": null
+        },
+        {
+          "id": "https://machinelearningmastery.com/?p=18421",
+          "author": "Jayita Gulati",
+          "description": "There are many free datasets online that help you practice and learn.",
+          "link": "https://machinelearningmastery.com/5-free-datasets-to-kickstart-your-machine-learning-projects-today/",
+          "publishedOn": "2024-10-11T09:00:48.000Z",
+          "wordCount": null,
+          "title": "5 Free Datasets to Kickstart Your Machine Learning Projects Today",
+          "imageUrl": null
+        },
+        {
+          "id": "https://machinelearningmastery.com/?p=18416",
+          "author": "Iván Palomares Carrascosa",
+          "description": "Natural language processing (NLP) is an area of artificial intelligence (AI) aimed at teaching computers to understand written and verbal human language and interact with humans by using such a language.",
+          "link": "https://machinelearningmastery.com/understanding-rag-part-i-why-its-needed/",
+          "publishedOn": "2024-10-10T09:00:29.000Z",
+          "wordCount": null,
+          "title": "Understanding RAG Part I: Why It’s Needed",
+          "imageUrl": null
+        },
+        {
+          "id": "https://machinelearningmastery.com/?p=18281",
+          "author": "Vinod Chugani",
+          "description": "The foundation of any data science project is a thorough understanding of your dataset.",
+          "link": "https://machinelearningmastery.com/planning-your-data-science-project/",
+          "publishedOn": "2024-10-09T15:36:09.000Z",
+          "wordCount": null,
+          "title": "Planning Your Data Science Project",
+          "imageUrl": null
+        },
+        {
+          "id": "https://machinelearningmastery.com/?p=18410",
+          "author": "Bala Priya C",
+          "description": "Are you looking to make a career in machine learning? If so, this guide is for you.",
+          "link": "https://machinelearningmastery.com/a-roadmap-for-your-machine-learning-career/",
+          "publishedOn": "2024-10-09T14:57:26.000Z",
+          "wordCount": null,
+          "title": "A Roadmap for Your Machine Learning Career",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
       "title": "Distill",
       "feedUrl": "https://distill.pub/rss.xml",
       "siteUrl": "https://distill.pub",
