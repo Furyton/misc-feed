@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-10-23T13:26:04.658Z</updated>
+    <updated>2024-10-23T14:17:45.131Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -14,6 +14,16 @@
         <summary type="html"><![CDATA[For details, see "Gabriella Cázares-Kelly, Pima County Recorder, unveils new ‘I Voted’ sticker". A tiktok video from the Pima Country Recorder's office includes a pronunciation of the Tohono Oʼodham phrase, reproduced below: Your browser does not support the audio element. The sticker reads "I voted" "A:ñi 'ant wodalt" "Yo voté" Hashtag: Pima County Votes But […]]]></summary>
         <author>
             <name>Mark Liberman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PyTorch 2.5 Release Blog]]></title>
+        <id>https://pytorch.org/blog/torchrec-fbgemm-1/</id>
+        <link href="https://pytorch.org/blog/torchrec-fbgemm-1/"/>
+        <updated>2024-10-23T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[We are excited to announce the release of PyTorch® 2.5 (release note)! This release features a new CuDNN backend for SDPA, enabling speedups by default for users of SDPA on H100s or newer GPUs. As well, regional compilation of torch.compile offers a way to reduce the cold start up time for torch.compile by allowing users to compile a repeated nn.Module (e.g. a transformer layer in LLM) without recompilations. Finally, TorchInductor CPP backend offers solid performance speedup with numerous enhancements like FP16 support, CPP wrapper, AOT-Inductor mode, and max-autotune mode.]]></summary>
+        <author>
+            <name>PyTorch Website</name>
         </author>
     </entry>
     <entry>
