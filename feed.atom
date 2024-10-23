@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-10-23T16:24:15.047Z</updated>
+    <updated>2024-10-23T17:17:20.833Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[New generative AI tools open the doors of music creation]]></title>
+        <id>https://deepmind.google/discover/blog/new-generative-ai-tools-open-the-doors-of-music-creation/</id>
+        <link href="https://deepmind.google/discover/blog/new-generative-ai-tools-open-the-doors-of-music-creation/"/>
+        <updated>2024-10-23T16:53:55.000Z</updated>
+        <summary type="html"><![CDATA[Our latest AI music technologies are now available in MusicFX DJ, Music AI Sandbox and YouTube Shorts]]></summary>
+        <author>
+            <name>Google DeepMind Blog</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Understanding RAG III: Fusion Retrieval and Reranking]]></title>
         <id>https://machinelearningmastery.com/?p=18509</id>
