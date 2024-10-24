@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-10-24T15:20:12.907Z</updated>
+    <updated>2024-10-24T16:22:03.773Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -44,6 +44,16 @@
         <summary type="html"><![CDATA[随着多模态LLM的方兴未艾，VQ（Vector Quantization）的地位也“水涨船高”，它可以作为视觉乃至任意模态的Tokenizer，将多模态数据统一到自回归生成框架中。遗憾的是，自V...]]></summary>
         <author>
             <name>苏剑林</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ExecuTorch Beta: On-Device AI and LLMs, Stability, and Acceleration with Partners]]></title>
+        <id>https://pytorch.org/blog/executorch-beta/</id>
+        <link href="https://pytorch.org/blog/executorch-beta/"/>
+        <updated>2024-10-24T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[TLDR]]></summary>
+        <author>
+            <name>PyTorch Website</name>
         </author>
     </entry>
     <entry>
