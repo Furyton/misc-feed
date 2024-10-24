@@ -1432,6 +1432,16 @@
       "siteUrl": "https://kexue.fm/",
       "articles": [
         {
+          "id": "https://kexue.fm/archives/10489",
+          "author": "苏剑林",
+          "description": "随着多模态LLM的方兴未艾，VQ（Vector Quantization）的地位也“水涨船高”，它可以作为视觉乃至任意模态的Tokenizer，将多模态数据统一到自回归生成框架中。遗憾的是，自V...",
+          "link": "https://kexue.fm/archives/10489",
+          "publishedOn": "2024-10-24T09:00:00.000Z",
+          "wordCount": 1686,
+          "title": "VQ的旋转技巧：梯度直通估计的一般推广",
+          "imageUrl": null
+        },
+        {
           "id": "https://kexue.fm/archives/10480",
           "author": "苏剑林",
           "description": "年初，我们在《更便捷的Cool Papers打开方式：Chrome重定向扩展》中发布了一个Chrome浏览器插件（Cool Papers Redirector v0.1.0），可以通过右击菜单从...",
