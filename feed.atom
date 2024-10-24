@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-10-24T13:26:12.836Z</updated>
+    <updated>2024-10-24T14:18:25.180Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Free AI-Powered Interview Preparation Tool by 365 Data Science]]></title>
+        <id>https://machinelearningmastery.com/?p=18514</id>
+        <link href="https://machinelearningmastery.com/free-ai-powered-interview-preparation-tool-by-365-data-science/"/>
+        <updated>2024-10-24T14:00:14.000Z</updated>
+        <summary type="html"><![CDATA[Sponsored Content In a groundbreaking move to enhance the career prospects of data and AI enthusiasts, 365 Data Science has unveiled InterviewAce, an innovative AI-driven...]]></summary>
+        <author>
+            <name>MLM Team</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[VQ的旋转技巧：梯度直通估计的一般推广]]></title>
         <id>https://kexue.fm/archives/10489</id>
