@@ -1480,16 +1480,6 @@
           "wordCount": 2079,
           "title": "低秩近似之路（二）：SVD",
           "imageUrl": null
-        },
-        {
-          "id": "https://kexue.fm/archives/10394",
-          "author": "苏剑林",
-          "description": "燃气灶智能化主要有两个方向：一是检测开关火状态，实现跟抽油烟机等其他设备的联动；二是实现智能关火，这包括定时关火以及接入米家（或者其他智能家居）实现语音关火、远程关火等。目前带有这两点功能的燃气...",
-          "link": "https://kexue.fm/archives/10394",
-          "publishedOn": "2024-09-26T02:39:00.000Z",
-          "wordCount": 1415,
-          "title": "利用“熄火保护 + 通断器”实现燃气灶智能关火",
-          "imageUrl": null
         }
       ]
     },
@@ -1865,6 +1855,16 @@
       "feedUrl": "https://machinelearningmastery.com/feed/",
       "siteUrl": "https://www.machinelearningmastery.com/",
       "articles": [
+        {
+          "id": "https://machinelearningmastery.com/?p=18526",
+          "author": "Bala Priya C",
+          "description": "Are you a machine learning enthusiast looking to level up your skills? If so, contributing to open-source machine learning projects is one of the best ways to improve your coding skills.",
+          "link": "https://machinelearningmastery.com/7-open-source-machine-learning-projects-contribute-today/",
+          "publishedOn": "2024-10-25T15:13:28.000Z",
+          "wordCount": null,
+          "title": "7 Open-Source Machine Learning Projects You Can Contribute To Today",
+          "imageUrl": null
+        },
         {
           "id": "https://machinelearningmastery.com/?p=18514",
           "author": "MLM Team",
