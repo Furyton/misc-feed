@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-10-25T11:15:51.419Z</updated>
+    <updated>2024-10-25T12:37:03.900Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Zipf's demon]]></title>
+        <id>https://languagelog.ldc.upenn.edu/nll/?p=66641</id>
+        <link href="https://languagelog.ldc.upenn.edu/nll/?p=66641&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=zipfs-demon"/>
+        <updated>2024-10-25T12:23:05.000Z</updated>
+        <summary type="html"><![CDATA[George Kingsley Zipf is famous for his work on the power-law distribution of word frequencies, which has come to be known as Zipf's Law. And he's also known for the related "Law of Abbreviation", and the hypothesized balance between effort and efficacy. In his 1945 paper "The repetition of words, time-perspective, and semantic balance", Zipf […]]]></summary>
+        <author>
+            <name>Mark Liberman</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Nature tidbits [and garbage out]]]></title>
         <id>http://xianblog.wordpress.com/?p=57650</id>
@@ -4197,16 +4207,6 @@ Read more...]]></summary>
         <summary type="html"><![CDATA[燃气灶智能化主要有两个方向：一是检测开关火状态，实现跟抽油烟机等其他设备的联动；二是实现智能关火，这包括定时关火以及接入米家（或者其他智能家居）实现语音关火、远程关火等。目前带有这两点功能的燃气...]]></summary>
         <author>
             <name>苏剑林</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Words for king:  Greek, Tocharian, Sinitic]]></title>
-        <id>https://languagelog.ldc.upenn.edu/nll/?p=66195</id>
-        <link href="https://languagelog.ldc.upenn.edu/nll/?p=66195&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=words-for-king-greek-tocharian-sinitic"/>
-        <updated>2024-09-26T00:31:22.000Z</updated>
-        <summary type="html"><![CDATA[Sino-Platonic Papers is pleased to announce the publication of its three-hundred-and-fifty-seventh issue:  “Resurrecting an Etymology: Greek (w)ánax ‘king’ and Tocharian A nātäk ‘lord,’ and Possible Wider Connections,” by Douglas Q. Adams. (pdf) ABSTRACT Examined here is the possible cognancy of Homeric Greek (w)ánax ‘king’ and Tocharian A nātäk ‘lord’ and their respective feminine derivatives (w)ánassa […]]]></summary>
-        <author>
-            <name>Victor Mair</name>
         </author>
     </entry>
     <entry>
