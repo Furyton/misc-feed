@@ -2739,16 +2739,6 @@
           "wordCount": 2885,
           "title": "R[are]SS meeting",
           "imageUrl": "https://xianblog.wordpress.com/wp-content/uploads/2024/09/temp-6.png"
-        },
-        {
-          "id": "http://xianblog.wordpress.com/?p=54214",
-          "author": "xi'an",
-          "description": "Visit the post for more.",
-          "link": "https://xianblog.wordpress.com/2024/09/28/semi-marathon-dargentan/",
-          "publishedOn": "2024-09-27T22:24:08.000Z",
-          "wordCount": 2427,
-          "title": "semi-marathon d’Argentan",
-          "imageUrl": "https://xianblog.wordpress.com/wp-content/uploads/2023/10/semi23.3-e1696666998565.jpg"
         }
       ]
     },
@@ -5353,6 +5343,16 @@
       "feedUrl": "https://languagelog.ldc.upenn.edu/nll/?feed=rss2",
       "siteUrl": "https://languagelog.ldc.upenn.edu/nll",
       "articles": [
+        {
+          "id": "https://languagelog.ldc.upenn.edu/nll/?p=66682",
+          "author": "Mark Liberman",
+          "description": "Whisper is a widely-used speech-to-text system from OpenAI — and it turns out that the generative AI's hallucination problem afflicts Whisper to a surprisingly serious extent, as documented by Allison Koenecke, Anna Seo Gyeong Choi, Katelyn X. Mei, Hilke Schellmann, and Mona Sloane,\"Careless Whisper: Speech-to-Text Hallucination Harms\" In The 2024 ACM Conference on Fairness, Accountability, […]",
+          "link": "https://languagelog.ldc.upenn.edu/nll/?p=66682&utm_source=rss&utm_medium=rss&utm_campaign=psychotic-whisper",
+          "publishedOn": "2024-10-27T10:31:17.000Z",
+          "wordCount": 2726,
+          "title": "Psychotic Whisper",
+          "imageUrl": null
+        },
         {
           "id": "https://languagelog.ldc.upenn.edu/nll/?p=66665",
           "author": "Mark Liberman",
