@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-10-28T15:21:06.441Z</updated>
+    <updated>2024-10-28T16:24:43.005Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Turco-Sogdian horses and languages]]></title>
+        <id>https://languagelog.ldc.upenn.edu/nll/?p=66634</id>
+        <link href="https://languagelog.ldc.upenn.edu/nll/?p=66634&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=turco-sogdian-horses-and-languages"/>
+        <updated>2024-10-28T15:34:57.000Z</updated>
+        <summary type="html"><![CDATA[Reading through Étienne de La Vaissière's massive magnum opus, Asie Centrale 300-850:  Des routes et des royaumes (2024), I came to a screeching halt when my gaze alighted on this photograph (III.6, p. 71): Limestone relief of Saluzi ("Autumn Dew"), one of the Six Steeds of Zhao Mausoleum, along with an unknown human general. The general switched horses with […]]]></summary>
+        <author>
+            <name>Victor Mair</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Getting started with PyTorch, ExecuTorch, and Ethos-U85 in three easy steps]]></title>
+        <id>https://pytorch.org/blog/pt-executorch-ethos-u85/</id>
+        <link href="https://pytorch.org/blog/pt-executorch-ethos-u85/"/>
+        <updated>2024-10-28T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[ExecuTorch support for Ethos-U85]]></summary>
+        <author>
+            <name>PyTorch Website</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Unleashing the Power of AI on Mobile: LLM Inference for Llama 3.2 Quantized Models with ExecuTorch and KleidiAI]]></title>
+        <id>https://pytorch.org/blog/unleashing-ai-mobile/</id>
+        <link href="https://pytorch.org/blog/unleashing-ai-mobile/"/>
+        <updated>2024-10-28T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Introduction]]></summary>
+        <author>
+            <name>PyTorch Website</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[OWAB [season] I]]></title>
         <id>http://xianblog.wordpress.com/?p=57941</id>
