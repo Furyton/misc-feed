@@ -1736,7 +1736,18 @@
       "title": "统计之都",
       "feedUrl": "https://cosx.org/index.xml",
       "siteUrl": "https://cosx.org/",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://cosx.org/2024/10/monthly/",
+          "author": null,
+          "description": "推荐语: 推荐一个小工具 jsonlines. python 中 json 包已经可以覆盖大部分场景，但是如果文件很大/读写多个同文件不同 json 可以尝试 jsonlines 推荐人: 任焱 链接: https://jsonlines.readthedocs.io/en/latest/ 推荐语: 看到一个",
+          "link": "https://cosx.org/2024/10/monthly/",
+          "publishedOn": "2024-10-01T00:00:00.000Z",
+          "wordCount": 234,
+          "title": "统计月读（2024 年 8-9 月）",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "Sander Dieleman",
@@ -2758,16 +2769,6 @@
           "wordCount": 2497,
           "title": "be early for Nice!",
           "imageUrl": "https://xianblog.wordpress.com/wp-content/uploads/2019/05/p5140169-1-e1558272732167.jpg"
-        },
-        {
-          "id": "http://xianblog.wordpress.com/?p=57555",
-          "author": "xi'an",
-          "description": "“I say it all the time, I’m dying to get back to do this. We will ultimately eliminate the federal Department of Education (…) Across the country, we need to implement strict prohibitions on teaching inappropriate racial, sexual and political material to America’s schoolchildren in any form whatsoever.”- DT, Aug “WHEN I WIN, those people […]",
-          "link": "https://xianblog.wordpress.com/2024/09/30/and-it-only-gets-worse-the-return-3/",
-          "publishedOn": "2024-09-29T22:24:57.000Z",
-          "wordCount": 2782,
-          "title": "and it only gets worse [the return?!]",
-          "imageUrl": "https://xianblog.wordpress.com/wp-content/uploads/2019/06/trumpcliffed-e1560450069103.jpg?w=450"
         }
       ]
     },
