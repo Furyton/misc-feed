@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-10-29T14:18:21.686Z</updated>
+    <updated>2024-10-29T15:21:02.555Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Basic Linear Algebra Subprogramming]]></title>
+        <id>https://www.argmin.net/p/basic-linear-algebra-subprogramming</id>
+        <link href="https://www.argmin.net/p/basic-linear-algebra-subprogramming"/>
+        <updated>2024-10-29T14:47:30.000Z</updated>
+        <summary type="html"><![CDATA[The hidden technology under the hood of numerical optimization]]></summary>
+        <author>
+            <name>Ben Recht</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Basic Linear Algebra Subprogramming]]></title>
+        <id>https://www.argmin.net/p/basic-linear-algebra-subprogramming</id>
+        <link href="https://www.argmin.net/p/basic-linear-algebra-subprogramming"/>
+        <updated>2024-10-29T14:47:30.000Z</updated>
+        <summary type="html"><![CDATA[The hidden technology under the hood of numerical optimization]]></summary>
+        <author>
+            <name>Ben Recht</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Leveraging Transfer Learning in Computer Vision for Quick Wins]]></title>
         <id>https://machinelearningmastery.com/?p=18530</id>
