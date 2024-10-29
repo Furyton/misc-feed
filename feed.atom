@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-10-29T11:16:07.507Z</updated>
+    <updated>2024-10-29T12:38:10.855Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -4137,36 +4137,6 @@ forward to hearing from you!]]></summary>
         <summary type="html"><![CDATA[A couple of months ago ("A new Trump speaking style?", 8/10/2024), I gave an example to support my subjective impression that Donald Trump's speaech is becoming less fluent. The clip included some cases of word-finding difficulties, as in this characterization of vice-presidential candidate Tim Walz: Your browser does not support the audio element. She picked […]]]></summary>
         <author>
             <name>Mark Liberman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Beyond multi-core parallelism: faster Mandelbrot with SIMD]]></title>
-        <id>https://pythonspeed.com/articles/optimizing-with-simd/</id>
-        <link href="https://pythonspeed.com/articles/optimizing-with-simd/"/>
-        <updated>2024-09-30T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[What do you do when computation is too expensive?
-Recently I’ve had a brilliant business idea: Mandelbrot-as-a-Service!
-Instead of companies calculating their own fractals, I will do it for them, freshly calculated in the cloud, with no work on their part.
-And by using cloud computing, I will be able to scale to the no-doubt vast number of customers who will be paying for my ingenious new service.
-I have two goals:
-Speeding up results: The faster I can return fractals, the happier my customers will be.
-Reducing costs: If I can pay my cloud provider less for computing, my profits will go up!
-Unfortunately, since I will only be selling freshly calculated and warm-from-the-CPU Mandelbrots, I can’t rely on caching.
-What would you do in this situation?
-One obvious approach is parallelism: threading or multiprocessing.
-This will speed up results, so it’s definitely worth doing, but it won’t reduce my costs.
-If we use 10 cores instead of 1 core, the service will return results ten times faster, but we’ll have to pay approximately 10× as much, since we’ll be using 10× larger instances.
-However, if we can figure out how to speed up calculations on a single core, this will contribute to both our goals.
-We’ll both get faster results, compounded by any multi-core processing, and reduce compute costs.
-In this article we will:
-Quickly go over a standard Mandelbrot implementation, written in Rust.
-Discuss why it can be tricky to optimize the Mandelbrot algorithm on a single CPU core.
-Demonstrate how you can in fact do so, by using masked SIMD operations.
-Trivially add on multi-core parallelism, using Rust’s Rayon library.
-PROFIT!
-Read more...]]></summary>
-        <author>
-            <name>Python⇒Speed</name>
         </author>
     </entry>
     <entry>

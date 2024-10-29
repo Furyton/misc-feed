@@ -1719,16 +1719,6 @@
           "wordCount": 1591,
           "title": "Should you use uv's managed Python in production?",
           "imageUrl": "https://pythonspeed.com/assets/titles/uv-python-production.png"
-        },
-        {
-          "id": "https://pythonspeed.com/articles/optimizing-with-simd/",
-          "author": null,
-          "description": "What do you do when computation is too expensive?\nRecently I’ve had a brilliant business idea: Mandelbrot-as-a-Service!\nInstead of companies calculating their own fractals, I will do it for them, freshly calculated in the cloud, with no work on their part.\nAnd by using cloud computing, I will be able to scale to the no-doubt vast number of customers who will be paying for my ingenious new service.\nI have two goals:\nSpeeding up results: The faster I can return fractals, the happier my customers will be.\nReducing costs: If I can pay my cloud provider less for computing, my profits will go up!\nUnfortunately, since I will only be selling freshly calculated and warm-from-the-CPU Mandelbrots, I can’t rely on caching.\nWhat would you do in this situation?\nOne obvious approach is parallelism: threading or multiprocessing.\nThis will speed up results, so it’s definitely worth doing, but it won’t reduce my costs.\nIf we use 10 cores instead of 1 core, the service will return results ten times faster, but we’ll have to pay approximately 10× as much, since we’ll be using 10× larger instances.\nHowever, if we can figure out how to speed up calculations on a single core, this will contribute to both our goals.\nWe’ll both get faster results, compounded by any multi-core processing, and reduce compute costs.\nIn this article we will:\nQuickly go over a standard Mandelbrot implementation, written in Rust.\nDiscuss why it can be tricky to optimize the Mandelbrot algorithm on a single CPU core.\nDemonstrate how you can in fact do so, by using masked SIMD operations.\nTrivially add on multi-core parallelism, using Rust’s Rayon library.\nPROFIT!\nRead more...",
-          "link": "https://pythonspeed.com/articles/optimizing-with-simd/",
-          "publishedOn": "2024-09-30T00:00:00.000Z",
-          "wordCount": 2367,
-          "title": "Beyond multi-core parallelism: faster Mandelbrot with SIMD",
-          "imageUrl": "https://pythonspeed.com/assets/titles/optimizing-with-simd.png"
         }
       ]
     },
