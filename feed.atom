@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-10-30T14:18:26.142Z</updated>
+    <updated>2024-10-30T15:20:35.804Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Pushing the frontiers of audio generation]]></title>
+        <id>https://deepmind.google/discover/blog/pushing-the-frontiers-of-audio-generation/</id>
+        <link href="https://deepmind.google/discover/blog/pushing-the-frontiers-of-audio-generation/"/>
+        <updated>2024-10-30T15:00:07.000Z</updated>
+        <summary type="html"><![CDATA[Our pioneering speech generation technologies are helping people around the world interact with more natural, conversational and intuitive digital assistants and AI tools.]]></summary>
+        <author>
+            <name>Google DeepMind Blog</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Anomaly Detection Techniques in Large-Scale Datasets]]></title>
         <id>https://machinelearningmastery.com/?p=18540</id>
