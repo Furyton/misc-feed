@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-10-30T01:25:42.764Z</updated>
+    <updated>2024-10-30T02:52:05.559Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[低秩近似之路（四）：ID]]></title>
+        <id>https://kexue.fm/archives/10501</id>
+        <link href="https://kexue.fm/archives/10501"/>
+        <updated>2024-10-30T02:43:00.000Z</updated>
+        <summary type="html"><![CDATA[这篇文章的主角是ID（Interpolative Decomposition），中文可以称之为“插值分解”，它同样可以理解为是一种具有特定结构的低秩分解，其中的一侧是该矩阵的若干列（当然如果你偏...]]></summary>
+        <author>
+            <name>苏剑林</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PRC censorship of Tūjué, an important historical name of the Turks]]></title>
+        <id>https://languagelog.ldc.upenn.edu/nll/?p=66701</id>
+        <link href="https://languagelog.ldc.upenn.edu/nll/?p=66701&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=prc-censorship-of-tujue-an-important-historical-name-of-the-turks"/>
+        <updated>2024-10-30T01:28:52.000Z</updated>
+        <summary type="html"><![CDATA[An outstanding Chinese scholar of Central Asian art history and archeology told me that any mention of Tūjué / Tújué 突厥 online or on social media would be subject to censorship by the authorities in the PRC.  Since Tūjué  突厥 is an important early name of the Turks, that makes it hard to do serious, […]]]></summary>
+        <author>
+            <name>Victor Mair</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2025 Computational Methods in Bayesian Statistics [plus ‘gators]]]></title>
         <id>http://xianblog.wordpress.com/?p=57791</id>
@@ -4127,26 +4147,6 @@ forward to hearing from you!]]></summary>
         <summary type="html"><![CDATA[A recent email from Jean Gallier to the members of Penn's Department of Computer and Information Sciences included this picture …under the comment "Apparently the Greeks had already figured that there was a connection between wine and linear algebra." The connection to Linear A(lgebra) is provided by Jean's two-volume 2020 book Linear Algebra and Optimization […]]]></summary>
         <author>
             <name>Mark Liberman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Where did the future go, again?]]></title>
-        <id>https://www.argmin.net/p/where-did-the-future-go-again</id>
-        <link href="https://www.argmin.net/p/where-did-the-future-go-again"/>
-        <updated>2024-09-30T14:05:54.000Z</updated>
-        <summary type="html"><![CDATA[The iphone6 and the end of history.]]></summary>
-        <author>
-            <name>Ben Recht</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Where did the future go, again?]]></title>
-        <id>https://www.argmin.net/p/where-did-the-future-go-again</id>
-        <link href="https://www.argmin.net/p/where-did-the-future-go-again"/>
-        <updated>2024-09-30T14:05:54.000Z</updated>
-        <summary type="html"><![CDATA[The iphone6 and the end of history.]]></summary>
-        <author>
-            <name>Ben Recht</name>
         </author>
     </entry>
     <entry>
