@@ -2039,6 +2039,16 @@
       "siteUrl": "https://pytorch.org/",
       "articles": [
         {
+          "id": "https://pytorch.org/blog/triton-kernel-compilation-stages/",
+          "author": null,
+          "description": "The Triton open-source programming language and compiler offers a high-level, python-based approach to create efficient GPU code. In this blog, we highlight the underlying details of how a triton program is compiled and the intermediate representations. For an introduction to Triton, we refer readers to this blog.",
+          "link": "https://pytorch.org/blog/triton-kernel-compilation-stages/",
+          "publishedOn": "2024-10-30T07:00:00.000Z",
+          "wordCount": 2124,
+          "title": "Triton Kernel Compilation Stages",
+          "imageUrl": "https://pytorch.org/assets/images/social-share.jpg"
+        },
+        {
           "id": "https://pytorch.org/blog/pt-executorch-ethos-u85/",
           "author": null,
           "description": "ExecuTorch support for Ethos-U85",
@@ -2459,6 +2469,16 @@
       "feedUrl": "https://xianblog.wordpress.com/feed/",
       "siteUrl": "https://xianblog.wordpress.com",
       "articles": [
+        {
+          "id": "http://xianblog.wordpress.com/?p=57991",
+          "author": "xi'an",
+          "description": "Visit the post for more.",
+          "link": "https://xianblog.wordpress.com/2024/10/30/the-vote-by-the-knesset-against-unrwa-is-a-disgrace-and-a-scandal/",
+          "publishedOn": "2024-10-30T18:48:41.000Z",
+          "wordCount": 2498,
+          "title": "the vote by the Knesset against UNRWA is a disgrace and a scandal",
+          "imageUrl": "https://xianblog.wordpress.com/wp-content/uploads/2024/10/temp-5.png"
+        },
         {
           "id": "http://xianblog.wordpress.com/?p=57791",
           "author": "xi'an",
