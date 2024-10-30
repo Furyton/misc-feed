@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-10-30T11:15:58.861Z</updated>
+    <updated>2024-10-30T12:38:05.963Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -4117,16 +4117,6 @@ forward to hearing from you!]]></summary>
         <summary type="html"><![CDATA[上一篇文章中我们介绍了“伪逆”，它关系到给定矩阵$M$和$A$（或$B$）时优化目标$\Vert AB - M\Vert_F^2$的最优解。这篇文章我们来关注$A,B$都不给出时的最优解，即\b...]]></summary>
         <author>
             <name>苏剑林</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[统计月读（2024 年 8-9 月）]]></title>
-        <id>https://cosx.org/2024/10/monthly/</id>
-        <link href="https://cosx.org/2024/10/monthly/"/>
-        <updated>2024-10-01T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[推荐语: 推荐一个小工具 jsonlines. python 中 json 包已经可以覆盖大部分场景，但是如果文件很大/读写多个同文件不同 json 可以尝试 jsonlines 推荐人: 任焱 链接: https://jsonlines.readthedocs.io/en/latest/ 推荐语: 看到一个]]></summary>
-        <author>
-            <name>统计之都</name>
         </author>
     </entry>
     <entry>
