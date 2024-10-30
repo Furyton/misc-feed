@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-10-30T13:26:26.765Z</updated>
+    <updated>2024-10-30T14:18:26.142Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Anomaly Detection Techniques in Large-Scale Datasets]]></title>
+        <id>https://machinelearningmastery.com/?p=18540</id>
+        <link href="https://machinelearningmastery.com/anomaly-detection-techniques-in-large-scale-datasets/"/>
+        <updated>2024-10-30T13:47:49.000Z</updated>
+        <summary type="html"><![CDATA[Anomaly detection means finding patterns in data that are different from normal.]]></summary>
+        <author>
+            <name>Jayita Gulati</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[低秩近似之路（四）：ID]]></title>
         <id>https://kexue.fm/archives/10501</id>
