@@ -2142,6 +2142,16 @@
       "siteUrl": "https://www.jeremykun.com/",
       "articles": [
         {
+          "id": "https://www.jeremykun.com/2024/10/30/how-this-blog-does-indieweb/",
+          "author": null,
+          "description": "This article will explain how the blog is organized at a technical level, and show how I implemented various IndieWeb features.\nTable of Contents:\nMotivation Structure and Deployment Static search index Running scripts via GitHub Actions Social media syndication and the “shortform” section Links to syndicated versions at the end of each post Warning for a too-long first paragraph Triggering this workflow automatically after deployment Blogroll (the “What I’m Reading” page) Chrome extension Webmentions and referencing external discussion threads Bridgy Hacker News backlinks Outgoing webmentions DOIs Dead link checker Motivation Earlier this year I migrated this blog off Wordpress to the Hugo static site generator.",
+          "link": "https://www.jeremykun.com/2024/10/30/how-this-blog-does-indieweb/",
+          "publishedOn": "2024-10-30T16:33:29.000Z",
+          "wordCount": 4339,
+          "title": "How This Blog Does IndieWeb",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.jeremykun.com/shortform/2024-10-15-1543/",
           "author": null,
           "description": "Kristin Lauter and her colleagues at Facebook esearch recently announced a project to benchmark attacks against LWE.\nThe announcement was on the post-quanum crypto mailing list.\nThey state: “Our approach is motivated by the need to study more carefully the effect on security of using small secrets and small error in standardized LWE settings like Kyber and Homomorphic Encryption. In addition, as sparse secrets have been used in Homomorphic Encryption for efficiency and functionality, it is important to study sparse secrets as well.",
@@ -2459,6 +2469,16 @@
       "feedUrl": "https://xianblog.wordpress.com/feed/",
       "siteUrl": "https://xianblog.wordpress.com",
       "articles": [
+        {
+          "id": "http://xianblog.wordpress.com/?p=57985",
+          "author": "xi'an",
+          "description": "Visit the post for more.",
+          "link": "https://xianblog.wordpress.com/2024/10/31/believe-him/",
+          "publishedOn": "2024-10-30T23:24:03.000Z",
+          "wordCount": 2403,
+          "title": "believe him!",
+          "imageUrl": "https://pbs.twimg.com/media/Ga7OCe1XAAA75dF"
+        },
         {
           "id": "http://xianblog.wordpress.com/?p=57991",
           "author": "xi'an",

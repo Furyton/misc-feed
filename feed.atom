@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-10-30T23:19:31.443Z</updated>
+    <updated>2024-10-31T01:26:34.244Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[believe him!]]></title>
+        <id>http://xianblog.wordpress.com/?p=57985</id>
+        <link href="https://xianblog.wordpress.com/2024/10/31/believe-him/"/>
+        <updated>2024-10-30T23:24:03.000Z</updated>
+        <summary type="html"><![CDATA[Visit the post for more.]]></summary>
+        <author>
+            <name>xi'an</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[the vote by the Knesset against UNRWA is a disgrace and a scandal]]></title>
         <id>http://xianblog.wordpress.com/?p=57991</id>
@@ -24,6 +34,18 @@
         <summary type="html"><![CDATA[Jenny Kleeman, "‘You tried to tell yourself I wasn’t real’: what happens when people with acute psychosis meet the voices in their heads?" The Guardian, 10/29/2024: "In avatar therapy, a clinician gives voice to their patients’ inner demons. For some of the participants in a new trial, the results have been astounding." I learned about […]]]></summary>
         <author>
             <name>Mark Liberman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How This Blog Does IndieWeb]]></title>
+        <id>https://www.jeremykun.com/2024/10/30/how-this-blog-does-indieweb/</id>
+        <link href="https://www.jeremykun.com/2024/10/30/how-this-blog-does-indieweb/"/>
+        <updated>2024-10-30T16:33:29.000Z</updated>
+        <summary type="html"><![CDATA[This article will explain how the blog is organized at a technical level, and show how I implemented various IndieWeb features.
+Table of Contents:
+Motivation Structure and Deployment Static search index Running scripts via GitHub Actions Social media syndication and the “shortform” section Links to syndicated versions at the end of each post Warning for a too-long first paragraph Triggering this workflow automatically after deployment Blogroll (the “What I’m Reading” page) Chrome extension Webmentions and referencing external discussion threads Bridgy Hacker News backlinks Outgoing webmentions DOIs Dead link checker Motivation Earlier this year I migrated this blog off Wordpress to the Hugo static site generator.]]></summary>
+        <author>
+            <name>Math ∩ Programming</name>
         </author>
     </entry>
     <entry>
