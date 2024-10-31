@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-10-31T17:18:20.646Z</updated>
+    <updated>2024-10-31T18:26:42.761Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -65,6 +65,16 @@ The post WinSock 的 select 如何超过 64 个套接字限制？（三种方法
         <summary type="html"><![CDATA[Andrew Gelman, "Freakonomics does it again (not in a good way). Jeez, these guys are credulous", Statistical Modeling, Causal Inference, and Social Science 10/28/2024: From the team that brought you “good-looking parents are 36% more likely to have a baby daughter as their first child than a baby son” and “The PDO cool mode has […]]]></summary>
         <author>
             <name>Mark Liberman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Deploying LLMs with TorchServe + vLLM]]></title>
+        <id>https://pytorch.org/blog/deploying-llms-torchserve-vllm/</id>
+        <link href="https://pytorch.org/blog/deploying-llms-torchserve-vllm/"/>
+        <updated>2024-10-31T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The vLLM engine is currently one of the top-performing ways to execute large language models (LLM). It provides the vllm serve command as an easy option to deploy a model on a single machine. While this is convenient, to serve these LLMs in production and at scale some advanced features are necessary.]]></summary>
+        <author>
+            <name>PyTorch Website</name>
         </author>
     </entry>
     <entry>
