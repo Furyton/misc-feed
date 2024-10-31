@@ -2433,6 +2433,16 @@
       "siteUrl": "https://skywind.me/blog",
       "articles": [
         {
+          "id": "https://skywind.me/blog/?p=3112",
+          "author": "skywind",
+          "description": "在做跨平台网络编程时，Windows 下面能够对应 epoll/kevent 这类 reactor 事件模型的 API 只有一个 select，但是却有数量限制，一次传入 select 的 socket 数量不能超过 FD_SETSIZE 个，而这个值是 64。 所以 java 里的 nio 的 select 在 windows 也有同样的数量限制，很多移植 Windows 的服务程序，用了 reactor 模型的大多有这样一个限制，让人觉得 Windows 下的服务程序性能很弱。 那么这个数量限制对开发一个高并发的服务器显然是不够的，我们是否有办法突破这个限制呢？而 cygwin 这类用 Win32 API 模拟 posix API 的系统，又是如何模拟不受限制的 … Continue reading →\nThe post WinSock 的 select 如何超过 64 个套接字限制？（三种方法） appeared first on Skywind Inside.",
+          "link": "https://skywind.me/blog/archives/3112",
+          "publishedOn": "2024-10-31T15:31:38.000Z",
+          "wordCount": 2554,
+          "title": "WinSock 的 select 如何超过 64 个套接字限制？（三种方法）",
+          "imageUrl": null
+        },
+        {
           "id": "https://skywind.me/blog/?p=3016",
           "author": "skywind",
           "description": "二十多年前的某一天，我盯着资源管理器里很久没用却一直舍不得删除的 UCDOS 文件夹犹豫了半天，最终却为了给硬盘腾点空间一狠心 shift+delete 把他们彻底删除了，当时我没意识到，一个时代就这样彻底的离我远去；二十多年后的今天，我又在最新版的 DOSBOX 里把这些当年的工具一个个重新装了回去，软件没变，但是消逝的青春却再也回不来了。 做了一个《上古软件仓》，包含上古时代的编程工具，汉字系统和设计软件等，都是一些我以前经常用的软件，主打怀旧和娱乐。 截图：中文系统 （点击 more/continue 继续） 截图：WPS 截图：整人专家 2000 其它工具包括： CCED，Borland C++，Watcom C++，Turbo C，QBasic，FoxBase，sea 1.3 等。 欢迎访问： https://skywind.me/wiki/%E4%B8%8A%E5%8F%A4%E8%BD%AF%E4%BB%B6%E4%BB%93\nThe post DOS 经典软件下载 appeared first on Skywind Inside.",
