@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-10-31T16:24:26.741Z</updated>
+    <updated>2024-10-31T17:18:20.646Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Free Data and AI Courses with 365 Data Science—Unlimited Access until Nov 21]]></title>
+        <id>https://machinelearningmastery.com/?p=18547</id>
+        <link href="https://machinelearningmastery.com/365-data-science-free-data-ai-courses-unlimit/"/>
+        <updated>2024-10-31T17:00:30.000Z</updated>
+        <summary type="html"><![CDATA[Sponsored Content From November 1st to November 21st, 2024 (8:00 am UTC), 365 Data Science offers free access to its comprehensive learning platform. This is...]]></summary>
+        <author>
+            <name>MLM Team</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[WinSock 的 select 如何超过 64 个套接字限制？（三种方法）]]></title>
         <id>https://skywind.me/blog/?p=3112</id>
@@ -35,6 +45,16 @@ The post WinSock 的 select 如何超过 64 个套接字限制？（三种方法
         <summary type="html"><![CDATA[Design primitives for optimization methods]]></summary>
         <author>
             <name>Ben Recht</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[10 Python One-Liners That Will Boost Your Data Science Workflow]]></title>
+        <id>https://machinelearningmastery.com/?p=18551</id>
+        <link href="https://machinelearningmastery.com/10-python-one-liners-that-will-boost-your-data-science-workflow/"/>
+        <updated>2024-10-31T13:54:49.000Z</updated>
+        <summary type="html"><![CDATA[Python is the most popular data science programming language, as it’s versatile and has a lot of support from the community.]]></summary>
+        <author>
+            <name>Cornellius Yudha Wijaya</name>
         </author>
     </entry>
     <entry>
