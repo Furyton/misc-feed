@@ -2060,6 +2060,16 @@
       "siteUrl": "https://pytorch.org/",
       "articles": [
         {
+          "id": "https://pytorch.org/blog/cutlass-ping-pong-gemm-kernel/",
+          "author": null,
+          "description": "<div type=\"html\"/>",
+          "link": "https://pytorch.org/blog/cutlass-ping-pong-gemm-kernel/",
+          "publishedOn": "2024-11-01T07:00:00.000Z",
+          "wordCount": 2443,
+          "title": "Deep Dive on Cutlass Ping-Pong GEMM Kernel",
+          "imageUrl": "https://pytorch.org/assets/images/social-share.jpg"
+        },
+        {
           "id": "https://pytorch.org/blog/deploying-llms-torchserve-vllm/",
           "author": null,
           "description": "The vLLM engine is currently one of the top-performing ways to execute large language models (LLM). It provides the vllm serve command as an easy option to deploy a model on a single machine. While this is convenient, to serve these LLMs in production and at scale some advanced features are necessary.",
@@ -2172,6 +2182,16 @@
       "feedUrl": "https://jeremykun.com/feed/",
       "siteUrl": "https://www.jeremykun.com/",
       "articles": [
+        {
+          "id": "https://www.jeremykun.com/2022/11/01/carnival-of-mathematics-233/",
+          "author": null,
+          "description": "Welcome to the 233rd Carnival of Mathematics!\nWho can forget 233, the 6th Fibonacci prime? Hey, not all numbers are interesting. Don’t ask me about the smallest positive uninteresting number. You can’t make it interesting with your feeble mind tricks! Anyway, on to the fun.\nProvers and Shakers The big discovery this month was a new largest known prime number, $2^{136279841} - 1$, as reported by the Great Internet Mersenne Prime Search.",
+          "link": "https://www.jeremykun.com/2022/11/01/carnival-of-mathematics-233/",
+          "publishedOn": "2024-11-01T07:00:00.000Z",
+          "wordCount": 1069,
+          "title": "Carnival of Mathematics #233",
+          "imageUrl": null
+        },
         {
           "id": "https://www.jeremykun.com/2024/10/30/how-this-blog-does-indieweb/",
           "author": null,
