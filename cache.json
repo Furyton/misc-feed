@@ -1716,7 +1716,18 @@
       "title": "统计之都",
       "feedUrl": "https://cosx.org/index.xml",
       "siteUrl": "https://cosx.org/",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://cosx.org/2024/10/reading-man-vs-ai/",
+          "author": null,
+          "description": "去年五月，我在阅读林语堂的《苏东坡传》时，边读边整理了书中主要人物的关系。最后，借助图数据库 Neo4j 将这些人物关系存储在数据库中，并以可视化的方式",
+          "link": "https://cosx.org/2024/10/reading-man-vs-ai/",
+          "publishedOn": "2024-10-24T00:00:00.000Z",
+          "wordCount": 836,
+          "title": "人工阅读 vs AI 阅读：以《苏东坡传》为例",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "Sander Dieleman",
