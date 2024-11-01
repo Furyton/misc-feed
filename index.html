@@ -22,11 +22,94 @@
             data-action="toggle-accordions"
             title="Click to toggle the day, Ctrl + click to toggle all."
           >
-            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2024-10-31 datetime="2024-10-31T21:42:13.000Z">2024-10-31</time>
-            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2024-10-31 datetime="2024-10-31T21:42:13.000Z"></time>
+            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2024-11-01 datetime="2024-11-01T09:04:09.000Z">2024-11-01</time>
+            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2024-11-01 datetime="2024-11-01T09:04:09.000Z"></time>
           </button>
         </h2>
         <ul class="sources card">
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >Skywind Inside</button>
+                  <a class="source-heading__link" href="https://skywind.me/blog">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://skywind.me/blog/?p&#x3D;3132"
+                        open
+                      >
+                        <summary class="article-expander__title">WinSock 可以把 SOCKET 类型转换成 int 保存么？</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://skywind.me/blog/archives/3132">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://skywind3000.github.io/images/blog/2024/win32/cshob-04.png" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>在 Linux/Unix 等 posix 环境中，每个套接字都是一个文件描述符 fd，类型是 int，使用起来非常方便；但在 Win32 环境中是 SOCKET 类型被定义成 UINT_PTR ，是一个指针，在 x64 环境中一个 SOCKET 占用 8 个字节。 那么是否能将 SOCKET 类型强制转换成 int 类型保存没？这样就能统一用 int 在所有平台下表示套接字了，同时在 x64 环境下这样将 64 位的指针转换为 32 位的整数是否安全？ 答案是可以的，下面将从三个方面说明一下。 Kernel Object 每个 SOCKET 背后其实都是一个指向 Kernel Object … Continue reading →
+The post WinSock 可以把 SOCKET 类型转换成 int 保存么？ appeared first on Skywind Inside.</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;6
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+        </ul>
+      </section>
+      <section class="daily-content js-toggle-accordions-scope">
+        <h2 class="daily-heading">
+          <button
+            class="daily-heading-toggle"
+            data-action="toggle-accordions"
+            title="Click to toggle the day, Ctrl + click to toggle all."
+          >
+            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2024-10-31 datetime="2024-10-31T23:24:58.000Z">2024-10-31</time>
+            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2024-10-31 datetime="2024-10-31T23:24:58.000Z"></time>
+          </button>
+        </h2>
+        <ul class="sources card">
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >Xi&#x27;an&#x27;s Og</button>
+                  <a class="source-heading__link" href="https://xianblog.wordpress.com">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="http://xianblog.wordpress.com/?p&#x3D;57931"
+                        open
+                      >
+                        <summary class="article-expander__title">the polls weren’t wrong [book review]</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://xianblog.wordpress.com/2024/11/01/the-polls-werent-wrong-book-review/">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://xianblog.wordpress.com/wp-content/uploads/2024/10/temp-4.png" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>While Nate Silver and his colleagues (as The New York Times Nate Cohn) have brought (part of) the general public to adopt a (more) scientific perspective on political polls, the way to combine them, and the need to keep uncertainty fully quantified (witness this recent “Two Theories for Why the Polls Failed in 2020, and […]</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;10
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
             <li class="card__section">
               <section class="js-toggle-accordions-scope">
                 <h3 class="source-heading">
@@ -13436,8 +13519,8 @@ forward to hearing from you!</span>
       </section>
 
     <footer>
-      <a class="footer-link" href="https://github.com/Furyton/misc-feed/actions/runs/11626514213">
-        <time id="build-timestamp" datetime="2024-11-01T08:23:48.752Z">2024-11-01T08:23:48.752Z</time>
+      <a class="footer-link" href="https://github.com/Furyton/misc-feed/actions/runs/11627162088">
+        <time id="build-timestamp" datetime="2024-11-01T09:20:01.526Z">2024-11-01T09:20:01.526Z</time>
       </a>
       <a class="footer-link" href="https://github.com/osmoscraft/osmosfeed">osmosfeed 1.15.1</a>
     </footer>

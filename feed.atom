@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-11-01T08:23:48.788Z</updated>
+    <updated>2024-11-01T09:20:01.560Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[WinSock 可以把 SOCKET 类型转换成 int 保存么？]]></title>
+        <id>https://skywind.me/blog/?p=3132</id>
+        <link href="https://skywind.me/blog/archives/3132"/>
+        <updated>2024-11-01T09:04:09.000Z</updated>
+        <summary type="html"><![CDATA[在 Linux/Unix 等 posix 环境中，每个套接字都是一个文件描述符 fd，类型是 int，使用起来非常方便；但在 Win32 环境中是 SOCKET 类型被定义成 UINT_PTR ，是一个指针，在 x64 环境中一个 SOCKET 占用 8 个字节。 那么是否能将 SOCKET 类型强制转换成 int 类型保存没？这样就能统一用 int 在所有平台下表示套接字了，同时在 x64 环境下这样将 64 位的指针转换为 32 位的整数是否安全？ 答案是可以的，下面将从三个方面说明一下。 Kernel Object 每个 SOCKET 背后其实都是一个指向 Kernel Object … Continue reading →
+The post WinSock 可以把 SOCKET 类型转换成 int 保存么？ appeared first on Skywind Inside.]]></summary>
+        <author>
+            <name>skywind</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[the polls weren’t wrong [book review]]]></title>
+        <id>http://xianblog.wordpress.com/?p=57931</id>
+        <link href="https://xianblog.wordpress.com/2024/11/01/the-polls-werent-wrong-book-review/"/>
+        <updated>2024-10-31T23:24:58.000Z</updated>
+        <summary type="html"><![CDATA[While Nate Silver and his colleagues (as The New York Times Nate Cohn) have brought (part of) the general public to adopt a (more) scientific perspective on political polls, the way to combine them, and the need to keep uncertainty fully quantified (witness this recent “Two Theories for Why the Polls Failed in 2020, and […]]]></summary>
+        <author>
+            <name>xi'an</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Anti-immigrant slurs: an American history]]></title>
         <id>https://languagelog.ldc.upenn.edu/nll/?p=66733</id>

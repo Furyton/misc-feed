@@ -2444,6 +2444,16 @@
       "siteUrl": "https://skywind.me/blog",
       "articles": [
         {
+          "id": "https://skywind.me/blog/?p=3132",
+          "author": "skywind",
+          "description": "在 Linux/Unix 等 posix 环境中，每个套接字都是一个文件描述符 fd，类型是 int，使用起来非常方便；但在 Win32 环境中是 SOCKET 类型被定义成 UINT_PTR ，是一个指针，在 x64 环境中一个 SOCKET 占用 8 个字节。 那么是否能将 SOCKET 类型强制转换成 int 类型保存没？这样就能统一用 int 在所有平台下表示套接字了，同时在 x64 环境下这样将 64 位的指针转换为 32 位的整数是否安全？ 答案是可以的，下面将从三个方面说明一下。 Kernel Object 每个 SOCKET 背后其实都是一个指向 Kernel Object … Continue reading →\nThe post WinSock 可以把 SOCKET 类型转换成 int 保存么？ appeared first on Skywind Inside.",
+          "link": "https://skywind.me/blog/archives/3132",
+          "publishedOn": "2024-11-01T09:04:09.000Z",
+          "wordCount": 1839,
+          "title": "WinSock 可以把 SOCKET 类型转换成 int 保存么？",
+          "imageUrl": "https://skywind3000.github.io/images/blog/2024/win32/cshob-04.png"
+        },
+        {
           "id": "https://skywind.me/blog/?p=3112",
           "author": "skywind",
           "description": "在做跨平台网络编程时，Windows 下面能够对应 epoll/kevent 这类 reactor 事件模型的 API 只有一个 select，但是却有数量限制，一次传入 select 的 socket 数量不能超过 FD_SETSIZE 个，而这个值是 64。 所以 java 里的 nio 的 select 在 windows 也有同样的数量限制，很多移植 Windows 的服务程序，用了 reactor 模型的大多有这样一个限制，让人觉得 Windows 下的服务程序性能很弱。 那么这个数量限制对开发一个高并发的服务器显然是不够的，我们是否有办法突破这个限制呢？而 cygwin 这类用 Win32 API 模拟 posix API 的系统，又是如何模拟不受限制的 … Continue reading →\nThe post WinSock 的 select 如何超过 64 个套接字限制？（三种方法） appeared first on Skywind Inside.",
@@ -2490,6 +2500,16 @@
       "feedUrl": "https://xianblog.wordpress.com/feed/",
       "siteUrl": "https://xianblog.wordpress.com",
       "articles": [
+        {
+          "id": "http://xianblog.wordpress.com/?p=57931",
+          "author": "xi'an",
+          "description": "While Nate Silver and his colleagues (as The New York Times Nate Cohn) have brought (part of) the general public to adopt a (more) scientific perspective on political polls, the way to combine them, and the need to keep uncertainty fully quantified (witness this recent “Two Theories for Why the Polls Failed in 2020, and […]",
+          "link": "https://xianblog.wordpress.com/2024/11/01/the-polls-werent-wrong-book-review/",
+          "publishedOn": "2024-10-31T23:24:58.000Z",
+          "wordCount": 3043,
+          "title": "the polls weren’t wrong [book review]",
+          "imageUrl": "https://xianblog.wordpress.com/wp-content/uploads/2024/10/temp-4.png"
+        },
         {
           "id": "http://xianblog.wordpress.com/?p=57985",
           "author": "xi'an",
