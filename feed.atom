@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-11-04T11:17:49.047Z</updated>
+    <updated>2024-11-04T12:38:20.265Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Rapscallion]]></title>
+        <id>https://languagelog.ldc.upenn.edu/nll/?p=66816</id>
+        <link href="https://languagelog.ldc.upenn.edu/nll/?p=66816&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rapscallion"/>
+        <updated>2024-11-04T11:35:43.000Z</updated>
+        <summary type="html"><![CDATA[A recent Bluesky post by George Takei, re-skying (?) @GraniteDhuine: [image or embed] — George Takei (@georgetakei.bsky.social) November 3, 2024 at 10:00 AM As Wiktionary explains, the etymology of the base word rascal is rather tasteless: Recorded since c.1330, as Middle English rascaile (“people of the lowest class, rabble of an army”), derived from 12th […]]]></summary>
+        <author>
+            <name>Mark Liberman</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Natural Language Generation Inside Out: Teaching Machines to Write Like Humans]]></title>
         <id>https://machinelearningmastery.com/?p=18563</id>
