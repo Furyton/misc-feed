@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-11-04T08:25:09.343Z</updated>
+    <updated>2024-11-04T09:22:12.952Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Natural Language Generation Inside Out: Teaching Machines to Write Like Humans]]></title>
+        <id>https://machinelearningmastery.com/?p=18563</id>
+        <link href="https://machinelearningmastery.com/natural-language-generation-inside-out-teaching-machines-to-write-like-humans/"/>
+        <updated>2024-11-04T09:00:59.000Z</updated>
+        <summary type="html"><![CDATA[Natural language generation (NLG) is an enthralling area of artificial intelligence (AI) , or more specifically of natural language processing (NLP) , aimed at enabling machines to produce human-like text that drives human-machine communication for problem-solving.]]></summary>
+        <author>
+            <name>Iván Palomares Carrascosa</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[异步事件模型的 Self-pipe trick]]></title>
         <id>https://skywind.me/blog/?p=3163</id>
