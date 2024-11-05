@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-11-05T08:24:01.324Z</updated>
+    <updated>2024-11-05T09:19:46.515Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Building a Robust Machine Learning Pipeline: Best Practices and Common Pitfalls]]></title>
+        <id>https://machinelearningmastery.com/?p=18575</id>
+        <link href="https://machinelearningmastery.com/robust-machine-learning-pipeline-best-practices-common-pitfalls/"/>
+        <updated>2024-11-05T09:00:19.000Z</updated>
+        <summary type="html"><![CDATA[In real life, the machine learning model is not a standalone object that only produces a prediction.]]></summary>
+        <author>
+            <name>Cornellius Yudha Wijaya</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[shallow big man [jatp?]]]></title>
         <id>http://xianblog.wordpress.com/?p=57996</id>
