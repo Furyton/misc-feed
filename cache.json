@@ -1382,18 +1382,7 @@
       "title": "UCSD Machine Learning Group",
       "feedUrl": "https://ucsdml.github.io//feed.xml",
       "siteUrl": "https://ucsdml.github.io//",
-      "articles": [
-        {
-          "id": "https://ucsdml.github.io//2024/10/07/ifman.html",
-          "author": null,
-          "description": "Influence Functions are a standard tool for attributing predictions to training data in a principled manner and are widely used in applications such as data valuation and fairness. In this work, we present realistic incentives to manipulate influence-based attributions and investigate whether these attributions can be systematically tampered by an adversary. We show that this is indeed possible for logistic regression models trained on ResNet feature embeddings and standard tabular fairness datasets and provide efficient attacks with backward-friendly implementations. Our work raises questions on the reliability of influence-based attributions in adversarial circumstances. Code is available at [https://github.com/infinite-pursuits/influence-based-attributions-can-be-manipulated](https://github.com/infinite-pursuits/influence-based-attributions-can-be-manipulated).",
-          "link": "https://ucsdml.github.io//2024/10/07/ifman.html",
-          "publishedOn": "2024-10-07T00:00:00.000Z",
-          "wordCount": 1267,
-          "title": "Influence-based Attributions can be Manipulated",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "科学空间|Scientific Spaces",
@@ -5387,6 +5376,16 @@
       "feedUrl": "https://languagelog.ldc.upenn.edu/nll/?feed=rss2",
       "siteUrl": "https://languagelog.ldc.upenn.edu/nll",
       "articles": [
+        {
+          "id": "https://languagelog.ldc.upenn.edu/nll/?p=66838",
+          "author": "Mark Liberman",
+          "description": "\"To what extent is science a strong-link problem?\", Sauropod Vertebra Picture of the Week, 10/30/2024 [emphasis added]: Here’s a fascinating and worrying news story in Science: a top US researcher apparently falsified a lot of images (at least) in papers that helped get experimental drugs on the market — papers that were published in top […]",
+          "link": "https://languagelog.ldc.upenn.edu/nll/?p=66838&utm_source=rss&utm_medium=rss&utm_campaign=what-does-it-mean-to-wane-philosophical",
+          "publishedOn": "2024-11-05T12:21:38.000Z",
+          "wordCount": 2525,
+          "title": "What does it mean to \"wane philosophical\"?",
+          "imageUrl": null
+        },
         {
           "id": "https://languagelog.ldc.upenn.edu/nll/?p=66828",
           "author": "Mark Liberman",
