@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-11-06T08:24:58.755Z</updated>
+    <updated>2024-11-06T09:22:06.870Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[VQ的又一技巧：给编码表加一个线性变换]]></title>
+        <id>https://kexue.fm/archives/10519</id>
+        <link href="https://kexue.fm/archives/10519"/>
+        <updated>2024-11-06T09:13:00.000Z</updated>
+        <summary type="html"><![CDATA[在《VQ的旋转技巧：梯度直通估计的一般推广》中，我们介绍了VQ（Vector Quantization）的Rotation Trick，它的思想是通过推广VQ的STE（Straight-Thro...]]></summary>
+        <author>
+            <name>苏剑林</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[O’Bayes 2025 [με αθηναϊκό άρωμα]]]></title>
         <id>http://xianblog.wordpress.com/?p=57846</id>

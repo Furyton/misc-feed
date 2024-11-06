@@ -1390,6 +1390,16 @@
       "siteUrl": "https://kexue.fm/",
       "articles": [
         {
+          "id": "https://kexue.fm/archives/10519",
+          "author": "苏剑林",
+          "description": "在《VQ的旋转技巧：梯度直通估计的一般推广》中，我们介绍了VQ（Vector Quantization）的Rotation Trick，它的思想是通过推广VQ的STE（Straight-Thro...",
+          "link": "https://kexue.fm/archives/10519",
+          "publishedOn": "2024-11-06T09:13:00.000Z",
+          "wordCount": 1625,
+          "title": "VQ的又一技巧：给编码表加一个线性变换",
+          "imageUrl": null
+        },
+        {
           "id": "https://kexue.fm/archives/10501",
           "author": "苏剑林",
           "description": "这篇文章的主角是ID（Interpolative Decomposition），中文可以称之为“插值分解”，它同样可以理解为是一种具有特定结构的低秩分解，其中的一侧是该矩阵的若干列（当然如果你偏...",
