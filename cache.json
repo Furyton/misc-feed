@@ -2485,6 +2485,16 @@
       "siteUrl": "https://xianblog.wordpress.com",
       "articles": [
         {
+          "id": "http://xianblog.wordpress.com/?p=58081",
+          "author": "xi'an",
+          "description": "Visit the post for more.",
+          "link": "https://xianblog.wordpress.com/2024/11/07/the-problem-with-non-stationary-processes-xkcd/",
+          "publishedOn": "2024-11-06T23:24:21.000Z",
+          "wordCount": 2369,
+          "title": "the problem with non-stationary processes [xkcd]",
+          "imageUrl": "https://imgs.xkcd.com/comics/electoral_precedent.png"
+        },
+        {
           "id": "http://xianblog.wordpress.com/?p=57846",
           "author": "xi'an",
           "description": "The next O’Bayes conference will take place in Athens, 8-12 June 2025. Registration is open, as well as a call for posters. As in (all?) earlier episodes of these Objective Bayes methodology conferences, speakers and discussants are invited by the scientific committee. And the first afternoon consists of tutorials on different aspects of Objective Bayes […]",
@@ -5914,16 +5924,6 @@
           "publishedOn": "2024-10-09T10:02:51.000Z",
           "wordCount": 2597,
           "title": "English influence on German spelling",
-          "imageUrl": null
-        },
-        {
-          "id": "https://languagelog.ldc.upenn.edu/nll/?p=66414",
-          "author": "Mark Liberman",
-          "description": "The current xkcd comic: Mouseover title: \"The distinctive 'UCLA comma' and 'Michigan comma' are a long string of commas at the start and end of the sentence respectively.\" I guess Penn, Brown, Berkeley, CalTech, …, should be grateful for being left out. I'll spare you our past posts on the Oxford comma, except this one.",
-          "link": "https://languagelog.ldc.upenn.edu/nll/?p=66414&utm_source=rss&utm_medium=rss&utm_campaign=66414",
-          "publishedOn": "2024-10-08T11:30:46.000Z",
-          "wordCount": 2040,
-          "title": "University commas",
           "imageUrl": null
         }
       ]
