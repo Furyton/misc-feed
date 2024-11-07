@@ -1475,6 +1475,22 @@
       "siteUrl": "https://www.argmin.net",
       "articles": [
         {
+          "id": "https://www.argmin.net/p/the-central-path",
+          "author": "Ben Recht",
+          "description": "The brilliant simplicity of primal-dual interior point methods.",
+          "link": "https://www.argmin.net/p/the-central-path",
+          "publishedOn": "2024-11-07T15:03:07.000Z",
+          "wordCount": null,
+          "title": "The Central Path",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substack-post-media.s3.amazonaws.com/public/images/1f2cff78-b93c-4530-9624-b555e37347bd_1100x219.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substack-post-media.s3.amazonaws.com/public/images/1f2cff78-b93c-4530-9624-b555e37347bd_1100x219.jpeg"
+        },
+        {
           "id": "https://www.argmin.net/p/halo-in-a-haystack",
           "author": "Ben Recht",
           "description": "Convergence analysis is great as long as you don't take it too seriously",
@@ -2201,6 +2217,22 @@
       "feedUrl": "https://www.argmin.net/feed.xml",
       "siteUrl": "https://www.argmin.net",
       "articles": [
+        {
+          "id": "https://www.argmin.net/p/the-central-path",
+          "author": "Ben Recht",
+          "description": "The brilliant simplicity of primal-dual interior point methods.",
+          "link": "https://www.argmin.net/p/the-central-path",
+          "publishedOn": "2024-11-07T15:03:07.000Z",
+          "wordCount": null,
+          "title": "The Central Path",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substack-post-media.s3.amazonaws.com/public/images/1f2cff78-b93c-4530-9624-b555e37347bd_1100x219.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substack-post-media.s3.amazonaws.com/public/images/1f2cff78-b93c-4530-9624-b555e37347bd_1100x219.jpeg"
+        },
         {
           "id": "https://www.argmin.net/p/halo-in-a-haystack",
           "author": "Ben Recht",

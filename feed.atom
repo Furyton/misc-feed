@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-11-07T14:17:32.085Z</updated>
+    <updated>2024-11-07T15:19:30.607Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The Central Path]]></title>
+        <id>https://www.argmin.net/p/the-central-path</id>
+        <link href="https://www.argmin.net/p/the-central-path"/>
+        <updated>2024-11-07T15:03:07.000Z</updated>
+        <summary type="html"><![CDATA[The brilliant simplicity of primal-dual interior point methods.]]></summary>
+        <author>
+            <name>Ben Recht</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Central Path]]></title>
+        <id>https://www.argmin.net/p/the-central-path</id>
+        <link href="https://www.argmin.net/p/the-central-path"/>
+        <updated>2024-11-07T15:03:07.000Z</updated>
+        <summary type="html"><![CDATA[The brilliant simplicity of primal-dual interior point methods.]]></summary>
+        <author>
+            <name>Ben Recht</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[the problem with non-stationary processes [xkcd]]]></title>
         <id>http://xianblog.wordpress.com/?p=58081</id>
