@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-11-07T23:17:45.900Z</updated>
+    <updated>2024-11-08T01:23:50.139Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[unbiased estimation of a reciprocal]]></title>
+        <id>http://xianblog.wordpress.com/?p=57908</id>
+        <link href="https://xianblog.wordpress.com/2024/11/08/unbiased-estimation-of-a-reciprocal/"/>
+        <updated>2024-11-07T23:24:06.000Z</updated>
+        <summary type="html"><![CDATA[As often, I came a’X this 2007 paper following an X-validated (if poorly worded) question that linked to it. With weird arguments: Computing an unbiased estimate of the integral induced by an unnormalised density f is a poor sales argument, as the renormalised object is not a probability density. Call to the unbiased approximation of […]]]></summary>
+        <author>
+            <name>xi'an</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Central Path]]></title>
         <id>https://www.argmin.net/p/the-central-path</id>
@@ -4173,26 +4183,6 @@ The post Python 的 asyncio 网络性能比 C 写的 Redis 还好？ appeared fi
         <summary type="html"><![CDATA[Are you looking to make a career in machine learning? If so, this guide is for you.]]></summary>
         <author>
             <name>Bala Priya C</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Demis Hassabis & John Jumper awarded Nobel Prize in Chemistry]]></title>
-        <id>https://7a0e920-dot-gdm-deepmind-com-prod.appspot.com/discover/blog/demis-hassabis-john-jumper-awarded-nobel-prize-in-chemistry/</id>
-        <link href="https://7a0e920-dot-gdm-deepmind-com-prod.appspot.com/discover/blog/demis-hassabis-john-jumper-awarded-nobel-prize-in-chemistry/"/>
-        <updated>2024-10-09T11:45:00.000Z</updated>
-        <summary type="html"><![CDATA[The award recognizes their work developing AlphaFold, a groundbreaking AI system that predicts the 3D structure of proteins from their amino acid sequences.]]></summary>
-        <author>
-            <name>Google DeepMind Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Demis Hassabis & John Jumper awarded Nobel Prize in Chemistry]]></title>
-        <id>https://deepmind.google/discover/blog/demis-hassabis-john-jumper-awarded-nobel-prize-in-chemistry/</id>
-        <link href="https://deepmind.google/discover/blog/demis-hassabis-john-jumper-awarded-nobel-prize-in-chemistry/"/>
-        <updated>2024-10-09T11:45:00.000Z</updated>
-        <summary type="html"><![CDATA[The award recognizes their work developing AlphaFold, a groundbreaking AI system that predicts the 3D structure of proteins from their amino acid sequences.]]></summary>
-        <author>
-            <name>Google DeepMind Blog</name>
         </author>
     </entry>
     <entry>
