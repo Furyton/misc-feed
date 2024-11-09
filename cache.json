@@ -2384,16 +2384,6 @@
           "wordCount": 1427,
           "title": "Vim 文本过滤/文字处理插件",
           "imageUrl": "https://skywind3000.github.io/images/p/textproc/tp1.gif"
-        },
-        {
-          "id": "https://skywind.me/blog/?p=2991",
-          "author": "skywind",
-          "description": "先前我做过一个 asyncio/gevent 的性能比较《性能测试：asyncio vs gevent vs native epoll》，今天修改了一下 asyncio 的测试程序的消息解析部分，改用 Protocol，发现它甚至比 redis 还快了： 安装依赖： pip install hiredis uvloop 编辑 echosvr.py 文件： import asyncio import hiredis d = {} def process(req): cmd = req[0].lower() if cmd == b'set': d[req[1]] = req[2] … Continue reading →\nThe post Python 的 asyncio 网络性能比 C 写的 Redis 还好？ appeared first on Skywind Inside.",
-          "link": "https://skywind.me/blog/archives/2991",
-          "publishedOn": "2024-10-10T15:15:00.000Z",
-          "wordCount": 1581,
-          "title": "Python 的 asyncio 网络性能比 C 写的 Redis 还好？",
-          "imageUrl": null
         }
       ]
     },

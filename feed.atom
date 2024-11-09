@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-11-09T02:42:07.451Z</updated>
+    <updated>2024-11-09T03:21:49.538Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -4132,17 +4132,6 @@ The post Vim 文本过滤/文字处理插件 appeared first on Skywind Inside.]]
         <summary type="html"><![CDATA[[N.B.:  If you don't have time to read through this long and complicated post, cut to the "Closing note" at the bottom.] Lately when I do Google searches, especially on obscure and challenging subjects, AI Overview leaps into the fray and takes precedence at the very top, displacing Wikipedia down below, and even Google's own […]]]></summary>
         <author>
             <name>Victor Mair</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Python 的 asyncio 网络性能比 C 写的 Redis 还好？]]></title>
-        <id>https://skywind.me/blog/?p=2991</id>
-        <link href="https://skywind.me/blog/archives/2991"/>
-        <updated>2024-10-10T15:15:00.000Z</updated>
-        <summary type="html"><![CDATA[先前我做过一个 asyncio/gevent 的性能比较《性能测试：asyncio vs gevent vs native epoll》，今天修改了一下 asyncio 的测试程序的消息解析部分，改用 Protocol，发现它甚至比 redis 还快了： 安装依赖： pip install hiredis uvloop 编辑 echosvr.py 文件： import asyncio import hiredis d = {} def process(req): cmd = req[0].lower() if cmd == b'set': d[req[1]] = req[2] … Continue reading →
-The post Python 的 asyncio 网络性能比 C 写的 Redis 还好？ appeared first on Skywind Inside.]]></summary>
-        <author>
-            <name>skywind</name>
         </author>
     </entry>
     <entry>
