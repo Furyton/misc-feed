@@ -1438,16 +1438,6 @@
           "wordCount": 1505,
           "title": "让MathJax的数学公式随窗口大小自动缩放",
           "imageUrl": null
-        },
-        {
-          "id": "https://kexue.fm/archives/10427",
-          "author": "苏剑林",
-          "description": "在《低秩近似之路（二）：SVD》中，我们证明了SVD可以给出任意矩阵的最优低秩近似。这里的最优近似是无约束的，也就是说SVD给出的结果只管误差上的最小，不在乎矩阵的具体结构，而在很多应用场景中，...",
-          "link": "https://kexue.fm/archives/10427",
-          "publishedOn": "2024-10-11T01:56:00.000Z",
-          "wordCount": 1738,
-          "title": "低秩近似之路（三）：CR近似",
-          "imageUrl": null
         }
       ]
     },
@@ -5314,6 +5304,16 @@
       "feedUrl": "https://languagelog.ldc.upenn.edu/nll/?feed=rss2",
       "siteUrl": "https://languagelog.ldc.upenn.edu/nll",
       "articles": [
+        {
+          "id": "https://languagelog.ldc.upenn.edu/nll/?p=66900",
+          "author": "Victor Mair",
+          "description": "There is a discussion on Linguistics Stack Exchange whether wristwatch in Chinese came from the French: As a native French speaker studying Mandarin Chinese, I couldn't help but notice that the Chinese term for wristwatch, 手表 (hand-show), is quite similar to the French term \"une montre\" (a \"shower\"/display). After further inspection, I notice that other […]",
+          "link": "https://languagelog.ldc.upenn.edu/nll/?p=66900&utm_source=rss&utm_medium=rss&utm_campaign=wristwatch",
+          "publishedOn": "2024-11-09T13:29:09.000Z",
+          "wordCount": 2530,
+          "title": "Wristwatch",
+          "imageUrl": null
+        },
         {
           "id": "https://languagelog.ldc.upenn.edu/nll/?p=66904",
           "author": "Mark Liberman",

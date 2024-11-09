@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-11-09T13:20:07.753Z</updated>
+    <updated>2024-11-09T14:16:14.888Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Wristwatch]]></title>
+        <id>https://languagelog.ldc.upenn.edu/nll/?p=66900</id>
+        <link href="https://languagelog.ldc.upenn.edu/nll/?p=66900&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=wristwatch"/>
+        <updated>2024-11-09T13:29:09.000Z</updated>
+        <summary type="html"><![CDATA[There is a discussion on Linguistics Stack Exchange whether wristwatch in Chinese came from the French: As a native French speaker studying Mandarin Chinese, I couldn't help but notice that the Chinese term for wristwatch, 手表 (hand-show), is quite similar to the French term "une montre" (a "shower"/display). After further inspection, I notice that other […]]]></summary>
+        <author>
+            <name>Victor Mair</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bayesian archeology]]></title>
         <id>https://languagelog.ldc.upenn.edu/nll/?p=66904</id>
@@ -4112,16 +4122,6 @@ The post Vim 文本过滤/文字处理插件 appeared first on Skywind Inside.]]
         <summary type="html"><![CDATA[There are many free datasets online that help you practice and learn.]]></summary>
         <author>
             <name>Jayita Gulati</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[低秩近似之路（三）：CR近似]]></title>
-        <id>https://kexue.fm/archives/10427</id>
-        <link href="https://kexue.fm/archives/10427"/>
-        <updated>2024-10-11T01:56:00.000Z</updated>
-        <summary type="html"><![CDATA[在《低秩近似之路（二）：SVD》中，我们证明了SVD可以给出任意矩阵的最优低秩近似。这里的最优近似是无约束的，也就是说SVD给出的结果只管误差上的最小，不在乎矩阵的具体结构，而在很多应用场景中，...]]></summary>
-        <author>
-            <name>苏剑林</name>
         </author>
     </entry>
     <entry>
