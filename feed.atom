@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-11-09T23:18:20.883Z</updated>
+    <updated>2024-11-10T01:35:05.295Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[art brut [#91]]]></title>
+        <id>http://xianblog.wordpress.com/?p=57795</id>
+        <link href="https://xianblog.wordpress.com/2024/11/10/art-brut-91/"/>
+        <updated>2024-11-09T23:24:11.000Z</updated>
+        <summary type="html"><![CDATA[Visit the post for more.]]></summary>
+        <author>
+            <name>xi'an</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Wristwatch]]></title>
         <id>https://languagelog.ldc.upenn.edu/nll/?p=66900</id>
@@ -4100,16 +4110,6 @@ The post Vim 文本过滤/文字处理插件 appeared first on Skywind Inside.]]
         <link href="https://languagelog.ldc.upenn.edu/nll/?p=66466&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=aurora-colorado-and-borealis"/>
         <updated>2024-10-11T20:58:37.000Z</updated>
         <summary type="html"><![CDATA[Jonathan Weisman, "As Trump Arrives, Aurora Insists It’s Not the ‘War Zone’ He Sees", NYT 10/11/2024. And today's xkcd: Mouseover title: "If any of you want to meet some cool local oxygen atoms, I can introduce you!" Google News thinks "Aurora" this afternoon is mostly about the effect of the solar wind on the magnetosphere: […]]]></summary>
-        <author>
-            <name>Mark Liberman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ben Zimmer on Keywords]]></title>
-        <id>https://languagelog.ldc.upenn.edu/nll/?p=66463</id>
-        <link href="https://languagelog.ldc.upenn.edu/nll/?p=66463&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=ben-zimmer-on-keywords"/>
-        <updated>2024-10-11T11:58:28.000Z</updated>
-        <summary type="html"><![CDATA[Christine Oh, "Wolf Humanities Center hosts linguist, columnist Ben Zimmer for lecture on 'keywords'", The Daily Pennsylvanian 10/11/2024: The Wolf Humanities Center hosted Wall Street Journal language columnist Ben Zimmer at the ARCH building for a talk titled “Lexical Sleuthing in the Digital Age: On the Trail of Keywords and their Cultural Worlds” on Oct. […]]]></summary>
         <author>
             <name>Mark Liberman</name>
         </author>
