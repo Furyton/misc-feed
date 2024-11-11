@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-11-11T12:37:20.146Z</updated>
+    <updated>2024-11-11T13:24:31.974Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Cognition, culture, … and communication?]]></title>
+        <id>https://languagelog.ldc.upenn.edu/nll/?p=66927</id>
+        <link href="https://languagelog.ldc.upenn.edu/nll/?p=66927&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=cognition-culture-and-communication"/>
+        <updated>2024-11-11T13:13:17.000Z</updated>
+        <summary type="html"><![CDATA[An interesting recent review article (Wooster et al., "Animal cognition and culture mediate predator–prey interactions", Trends in Ecology & Evolution 2024) argues for bridging the academic silos of "predator-prey ecology" and "animal cognition and culture": Abstract: Predator–prey ecology and the study of animal cognition and culture have emerged as independent disciplines. Research combining these disciplines […]]]></summary>
+        <author>
+            <name>Mark Liberman</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[A Practical Guide to Choosing the Right Algorithm for Your Problem: From Regression to Neural Networks]]></title>
         <id>https://machinelearningmastery.com/?p=18445</id>
