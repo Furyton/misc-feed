@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-11-11T01:25:06.320Z</updated>
+    <updated>2024-11-11T02:50:01.010Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -4092,16 +4092,6 @@ The post Vim 文本过滤/文字处理插件 appeared first on Skywind Inside.]]
         <summary type="html"><![CDATA[This paper's content is interesting — Mirzadeh, Iman, Keivan Alizadeh, Hooman Shahrokhi, Oncel Tuzel, Samy Bengio, and Mehrdad Farajtabar. "GSM-Symbolic: Understanding the Limitations of Mathematical Reasoning in Large Language Models." arXiv preprint arXiv:2410.05229 (2024). In short, the authors found that small changes in Grade-School Mathematics benchmark questions, like substituting different numerical values or adding irrelevant […]]]></summary>
         <author>
             <name>Mark Liberman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[From Features to Performance: Crafting Robust Predictive Models]]></title>
-        <id>https://machinelearningmastery.com/?p=18291</id>
-        <link href="https://machinelearningmastery.com/from-features-to-performance-crafting-robust-predictive-models/"/>
-        <updated>2024-10-12T14:42:20.000Z</updated>
-        <summary type="html"><![CDATA[Feature selection and engineering are critical steps that can significantly impact your model's performance.]]></summary>
-        <author>
-            <name>Vinod Chugani</name>
         </author>
     </entry>
     <entry>
