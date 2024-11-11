@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-11-11T08:24:24.985Z</updated>
+    <updated>2024-11-11T09:21:01.511Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[A Practical Guide to Choosing the Right Algorithm for Your Problem: From Regression to Neural Networks]]></title>
+        <id>https://machinelearningmastery.com/?p=18445</id>
+        <link href="https://machinelearningmastery.com/practical-guide-choosing-right-algorithm-your-problem/"/>
+        <updated>2024-11-11T09:00:56.000Z</updated>
+        <summary type="html"><![CDATA[This article explains, through clear guidelines, how to choose the right machine learning (ML) algorithm or model for different types of real-world and business problems.]]></summary>
+        <author>
+            <name>Iván Palomares Carrascosa</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Cure: Alone]]></title>
         <id>http://xianblog.wordpress.com/?p=57659</id>
