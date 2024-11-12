@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-11-12T20:19:58.290Z</updated>
+    <updated>2024-11-12T21:17:18.007Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -4126,16 +4126,6 @@ Read more...]]></summary>
         <summary type="html"><![CDATA[There are many euphemisms for saying that someone died, two of the most common being "passed away" and "passed on".  Lately, I've been hearing more and more people announce that so-and-so simply "passed".  The first few times that I heard it spoken that way, I thought it sounded strange.  Now, however, I'm so accustomed to […]]]></summary>
         <author>
             <name>Victor Mair</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Understanding RAG Part II: How Classic RAG Works]]></title>
-        <id>https://machinelearningmastery.com/?p=18426</id>
-        <link href="https://machinelearningmastery.com/understanding-rag-part-ii-how-classic-rag-works/"/>
-        <updated>2024-10-14T09:00:40.000Z</updated>
-        <summary type="html"><![CDATA[In the first post in this series, we introduced retrieval augmented generation (RAG) , explaining that it became necessary to expand the capabilities of conventional large language models (LLMs) .]]></summary>
-        <author>
-            <name>Iván Palomares Carrascosa</name>
         </author>
     </entry>
     <entry>
