@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-11-12T08:24:06.052Z</updated>
+    <updated>2024-11-12T09:19:38.589Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Virtual Personas for Language Models via an Anthology of Backstories]]></title>
+        <id>http://bair.berkeley.edu/blog/2024/11/12/virutal-persona-llm/</id>
+        <link href="http://bair.berkeley.edu/blog/2024/11/12/virutal-persona-llm/"/>
+        <updated>2024-11-12T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Anthology, a method for conditioning LLMs to representative, consistent, and diverse virtual personas by generating and utilizing naturalistic backstories with rich details of individual values and experience.
+ -->
+
+
+
+
+We introduce Anthology, a method for conditioning LLMs to representative, consistent, and diverse virtual personas by generating and utilizing naturalistic backstories with rich details of individual values and experience.
+
+
+What does it mean for large language models (LLMs) to be trained on massive text corpora, collectively produced by millions and billions of distinctive human authors?
+In “Language Models as Agent Models”, compelling evidence suggests that recent language models could be considered models of agents: provided with a textual context, LLMs are capable of gen…]]></summary>
+        <author>
+            <name>The Berkeley Artificial Intelligence Research Blog</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bayesian Inference: Theory, Methods, Computations [book review]]]></title>
         <id>http://xianblog.wordpress.com/?p=57976</id>
