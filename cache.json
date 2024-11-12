@@ -1465,6 +1465,22 @@
       "siteUrl": "https://www.argmin.net",
       "articles": [
         {
+          "id": "https://www.argmin.net/p/indiscipline",
+          "author": "Ben Recht",
+          "description": "Can convex optimization ever be a technology?",
+          "link": "https://www.argmin.net/p/indiscipline",
+          "publishedOn": "2024-11-12T15:44:16.000Z",
+          "wordCount": null,
+          "title": "Indiscipline",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substack-post-media.s3.amazonaws.com/public/images/48df92ea-7b0f-4e8f-bfc5-a4990b395c31_840x600.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substack-post-media.s3.amazonaws.com/public/images/48df92ea-7b0f-4e8f-bfc5-a4990b395c31_840x600.jpeg"
+        },
+        {
           "id": "https://www.argmin.net/p/the-central-path",
           "author": "Ben Recht",
           "description": "The brilliant simplicity of primal-dual interior point methods.",
@@ -1631,6 +1647,16 @@
       "feedUrl": "https://pythonspeed.com/atom.xml",
       "siteUrl": "https://pythonspeed.com/atom.xml",
       "articles": [
+        {
+          "id": "https://pythonspeed.com/articles/simd-stable-rust/",
+          "author": null,
+          "description": "In a previous post we saw that you can speed up code significantly on a single core using SIMD: Single Instruction Multiple Data.\nThese specialized CPU instructions allow you to, for example, add 4 values at once with a single instruction, instead of the usual one value at a time.\nThe performance improvement you get compounds with multi-core parallelism: you can benefit from both SIMD and threading at the same time.\nUnfortunately, SIMD instructions are specific both to CPU architecture and CPU model.\nThus ARM CPUs as used on modern Macs have different SIMD instructions than x86-64 CPUs.\nAnd even if you only care about x86-64, different models support different instructions; the i7-12700K CPU in my current computer doesn’t support AVX-512 SIMD, for example.\nOne way to deal with this is to write custom versions for each variation of SIMD instructions.\nAnother is to use a portable SIMD library, that provides an abstraction layer on top of these various instruction sets.\nIn the previous post we used the std::simd library.\nIt is built-in to the Rust standard library… but unfortunately it’s currently only available when using an unstable (“nightly”) compiler.\nHow you can write portable SIMD if you want to use stable Rust?\nIn this article we’ll:\nIntroduce the wide crate, that lets you write portable SIMD in stable Rust.\nShow how it can be used to reimplement the Mandelbrot algorithm we previously implemented with std::simd.\nGo over the pros and cons of these alternatives.\nRead more...",
+          "link": "https://pythonspeed.com/articles/simd-stable-rust/",
+          "publishedOn": "2024-11-12T00:00:00.000Z",
+          "wordCount": 1312,
+          "title": "Using portable SIMD in stable Rust",
+          "imageUrl": "https://pythonspeed.com/assets/titles/simd-stable-rust.png"
+        },
         {
           "id": "https://pythonspeed.com/articles/uv-python-production/",
           "author": null,
@@ -2142,6 +2168,22 @@
       "feedUrl": "https://www.argmin.net/feed.xml",
       "siteUrl": "https://www.argmin.net",
       "articles": [
+        {
+          "id": "https://www.argmin.net/p/indiscipline",
+          "author": "Ben Recht",
+          "description": "Can convex optimization ever be a technology?",
+          "link": "https://www.argmin.net/p/indiscipline",
+          "publishedOn": "2024-11-12T15:44:16.000Z",
+          "wordCount": null,
+          "title": "Indiscipline",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substack-post-media.s3.amazonaws.com/public/images/48df92ea-7b0f-4e8f-bfc5-a4990b395c31_840x600.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substack-post-media.s3.amazonaws.com/public/images/48df92ea-7b0f-4e8f-bfc5-a4990b395c31_840x600.jpeg"
+        },
         {
           "id": "https://www.argmin.net/p/the-central-path",
           "author": "Ben Recht",

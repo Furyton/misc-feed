@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-11-12T15:19:42.820Z</updated>
+    <updated>2024-11-12T16:24:44.189Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Indiscipline]]></title>
+        <id>https://www.argmin.net/p/indiscipline</id>
+        <link href="https://www.argmin.net/p/indiscipline"/>
+        <updated>2024-11-12T15:44:16.000Z</updated>
+        <summary type="html"><![CDATA[Can convex optimization ever be a technology?]]></summary>
+        <author>
+            <name>Ben Recht</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Indiscipline]]></title>
+        <id>https://www.argmin.net/p/indiscipline</id>
+        <link href="https://www.argmin.net/p/indiscipline"/>
+        <updated>2024-11-12T15:44:16.000Z</updated>
+        <summary type="html"><![CDATA[Can convex optimization ever be a technology?]]></summary>
+        <author>
+            <name>Ben Recht</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Virtual Personas for Language Models via an Anthology of Backstories]]></title>
         <id>http://bair.berkeley.edu/blog/2024/11/12/virutal-persona-llm/</id>
@@ -24,6 +44,31 @@ What does it mean for large language models (LLMs) to be trained on massive text
 In “Language Models as Agent Models”, compelling evidence suggests that recent language models could be considered models of agents: provided with a textual context, LLMs are capable of gen…]]></summary>
         <author>
             <name>The Berkeley Artificial Intelligence Research Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Using portable SIMD in stable Rust]]></title>
+        <id>https://pythonspeed.com/articles/simd-stable-rust/</id>
+        <link href="https://pythonspeed.com/articles/simd-stable-rust/"/>
+        <updated>2024-11-12T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In a previous post we saw that you can speed up code significantly on a single core using SIMD: Single Instruction Multiple Data.
+These specialized CPU instructions allow you to, for example, add 4 values at once with a single instruction, instead of the usual one value at a time.
+The performance improvement you get compounds with multi-core parallelism: you can benefit from both SIMD and threading at the same time.
+Unfortunately, SIMD instructions are specific both to CPU architecture and CPU model.
+Thus ARM CPUs as used on modern Macs have different SIMD instructions than x86-64 CPUs.
+And even if you only care about x86-64, different models support different instructions; the i7-12700K CPU in my current computer doesn’t support AVX-512 SIMD, for example.
+One way to deal with this is to write custom versions for each variation of SIMD instructions.
+Another is to use a portable SIMD library, that provides an abstraction layer on top of these various instruction sets.
+In the previous post we used the std::simd library.
+It is built-in to the Rust standard library… but unfortunately it’s currently only available when using an unstable (“nightly”) compiler.
+How you can write portable SIMD if you want to use stable Rust?
+In this article we’ll:
+Introduce the wide crate, that lets you write portable SIMD in stable Rust.
+Show how it can be used to reimplement the Mandelbrot algorithm we previously implemented with std::simd.
+Go over the pros and cons of these alternatives.
+Read more...]]></summary>
+        <author>
+            <name>Python⇒Speed</name>
         </author>
     </entry>
     <entry>
