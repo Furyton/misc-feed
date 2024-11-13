@@ -22,6 +22,53 @@
             data-action="toggle-accordions"
             title="Click to toggle the day, Ctrl + click to toggle all."
           >
+            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2024-11-13 datetime="2024-11-13T12:06:24.000Z">2024-11-13</time>
+            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2024-11-13 datetime="2024-11-13T12:06:24.000Z"></time>
+          </button>
+        </h2>
+        <ul class="sources card">
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >Language Log</button>
+                  <a class="source-heading__link" href="https://languagelog.ldc.upenn.edu/nll">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://languagelog.ldc.upenn.edu/nll/?p&#x3D;66920"
+                        open
+                      >
+                        <summary class="article-expander__title">Galen  (129-216 AD) in China:  cancer / crab</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://languagelog.ldc.upenn.edu/nll/?p&#x3D;66920&amp;utm_source&#x3D;rss&amp;utm_medium&#x3D;rss&amp;utm_campaign&#x3D;galen-129-216-ad-in-china-cancer-crab">
+                          <div class="article-summary-box-inner media-object">
+                            <span class="media-object__text">
+                              <span>I just received the following book:  P.N. Singer and Ralph M. Rosen, eds., The Oxford Handbook of Galen (New York:  Oxford University Press, 2024).  The volume has 29 chapters, the last of which is &quot;Galen in Premodern Tibet and China: Impressions and Footprints&quot; (pp. 658-674) by Dror Weil and Ronit Yoeli-Tlalim.  Naturally, this chapter is […]</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;10
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+        </ul>
+      </section>
+      <section class="daily-content js-toggle-accordions-scope">
+        <h2 class="daily-heading">
+          <button
+            class="daily-heading-toggle"
+            data-action="toggle-accordions"
+            title="Click to toggle the day, Ctrl + click to toggle all."
+          >
             <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2024-11-12 datetime="2024-11-12T23:24:06.000Z">2024-11-12</time>
             <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2024-11-12 datetime="2024-11-12T23:24:06.000Z"></time>
           </button>
@@ -9714,67 +9761,6 @@ They state: “Our approach is motivated by the need to study more carefully the
                 </section>
               </section>
             </li>
-            <li class="card__section">
-              <section class="js-toggle-accordions-scope">
-                <h3 class="source-heading">
-                  <button
-                    class="source-heading__name"
-                    data-action="toggle-accordions"
-                    title="Click to toggle the source, Ctrl + click to toggle all."
-                  >Python⇒Speed</button>
-                  <a class="source-heading__link" href="https://pythonspeed.com/atom.xml">Open</a>
-                </h3>
-                <section class="articles-per-source">
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://pythonspeed.com/articles/uv-python-production/"
-                        open
-                      >
-                        <summary class="article-expander__title">Should you use uv&#x27;s managed Python in production?</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://pythonspeed.com/articles/uv-python-production/">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://pythonspeed.com/assets/titles/uv-python-production.png" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>The uv Python packaging tool provides fast replacements for tools like pip, and a variety of developer experience improvements.
-Unlike most Python packaging tools, uv doesn’t require Python to be installed to use it.
-Building on that ease of installation, one of its interesting and useful features is the ability to install Python for you.
-As a developer, this is great: if you need a version of Python you don’t have installed, uv can install it for you (transparently, by default!).
-Imagine for some reason you need the long-defunct Python 3.7.
-You can easily install it like so:
-
-$ python3.7
-python3.7: command not found
-$ uv run --python&#x3D;3.7 python
-... uv downloaded 3.7 for me ...
-Python 3.7.9 (default, Aug 23 2020, 00:57:53)
-[Clang 10.0.1 ] on linux
-Type &quot;help&quot;, &quot;copyright&quot;, &quot;credits&quot; or &quot;license&quot; for more information.
-&gt;&gt;&gt; 
-
-
-The next time you use uv to run Python 3.7 it will use the cached download.
-The ability to install Python with uv adds interesting possibilities for production packaging.
-For example, you can use an Ubuntu 24.04 base Docker image, download uv, and rely on uv to trivially install any Python version.
-Which is to say, you won’t be limited to the versions Ubuntu packages for you.
-But do you want to use this particular version of Python in production?
-In this article we’ll look into the implications of using uv’s Python, and in particular:
-Where this version of Python comes from.
-Portability and compatibility: Can you use this Python on various versions of Linux? Will it run your software correctly?
-Performance: Are you losing speed by using this version?
-Security: Will you get security updates if you use this approach?
-Read more...</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;5
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                </section>
-              </section>
-            </li>
         </ul>
       </section>
       <section class="daily-content js-toggle-accordions-scope">
@@ -13114,8 +13100,8 @@ Read more...</span>
       </section>
 
     <footer>
-      <a class="footer-link" href="https://github.com/Furyton/misc-feed/actions/runs/11816126031">
-        <time id="build-timestamp" datetime="2024-11-13T11:15:42.135Z">2024-11-13T11:15:42.135Z</time>
+      <a class="footer-link" href="https://github.com/Furyton/misc-feed/actions/runs/11817390585">
+        <time id="build-timestamp" datetime="2024-11-13T12:37:07.731Z">2024-11-13T12:37:07.731Z</time>
       </a>
       <a class="footer-link" href="https://github.com/osmoscraft/osmosfeed">osmosfeed 1.15.1</a>
     </footer>

@@ -1640,16 +1640,6 @@
           "wordCount": 1312,
           "title": "Using portable SIMD in stable Rust",
           "imageUrl": "https://pythonspeed.com/assets/titles/simd-stable-rust.png"
-        },
-        {
-          "id": "https://pythonspeed.com/articles/uv-python-production/",
-          "author": null,
-          "description": "The uv Python packaging tool provides fast replacements for tools like pip, and a variety of developer experience improvements.\nUnlike most Python packaging tools, uv doesn’t require Python to be installed to use it.\nBuilding on that ease of installation, one of its interesting and useful features is the ability to install Python for you.\nAs a developer, this is great: if you need a version of Python you don’t have installed, uv can install it for you (transparently, by default!).\nImagine for some reason you need the long-defunct Python 3.7.\nYou can easily install it like so:\n\n$ python3.7\npython3.7: command not found\n$ uv run --python=3.7 python\n... uv downloaded 3.7 for me ...\nPython 3.7.9 (default, Aug 23 2020, 00:57:53)\n[Clang 10.0.1 ] on linux\nType \"help\", \"copyright\", \"credits\" or \"license\" for more information.\n>>> \n\n\nThe next time you use uv to run Python 3.7 it will use the cached download.\nThe ability to install Python with uv adds interesting possibilities for production packaging.\nFor example, you can use an Ubuntu 24.04 base Docker image, download uv, and rely on uv to trivially install any Python version.\nWhich is to say, you won’t be limited to the versions Ubuntu packages for you.\nBut do you want to use this particular version of Python in production?\nIn this article we’ll look into the implications of using uv’s Python, and in particular:\nWhere this version of Python comes from.\nPortability and compatibility: Can you use this Python on various versions of Linux? Will it run your software correctly?\nPerformance: Are you losing speed by using this version?\nSecurity: Will you get security updates if you use this approach?\nRead more...",
-          "link": "https://pythonspeed.com/articles/uv-python-production/",
-          "publishedOn": "2024-10-15T00:00:00.000Z",
-          "wordCount": 1591,
-          "title": "Should you use uv's managed Python in production?",
-          "imageUrl": "https://pythonspeed.com/assets/titles/uv-python-production.png"
         }
       ]
     },
@@ -5295,6 +5285,16 @@
       "feedUrl": "https://languagelog.ldc.upenn.edu/nll/?feed=rss2",
       "siteUrl": "https://languagelog.ldc.upenn.edu/nll",
       "articles": [
+        {
+          "id": "https://languagelog.ldc.upenn.edu/nll/?p=66920",
+          "author": "Victor Mair",
+          "description": "I just received the following book:  P.N. Singer and Ralph M. Rosen, eds., The Oxford Handbook of Galen (New York:  Oxford University Press, 2024).  The volume has 29 chapters, the last of which is \"Galen in Premodern Tibet and China: Impressions and Footprints\" (pp. 658-674) by Dror Weil and Ronit Yoeli-Tlalim.  Naturally, this chapter is […]",
+          "link": "https://languagelog.ldc.upenn.edu/nll/?p=66920&utm_source=rss&utm_medium=rss&utm_campaign=galen-129-216-ad-in-china-cancer-crab",
+          "publishedOn": "2024-11-13T12:06:24.000Z",
+          "wordCount": 2852,
+          "title": "Galen  (129-216 AD) in China:  cancer / crab",
+          "imageUrl": null
+        },
         {
           "id": "https://languagelog.ldc.upenn.edu/nll/?p=66936",
           "author": "Mark Liberman",
