@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-11-13T15:19:58.960Z</updated>
+    <updated>2024-11-13T16:23:31.523Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -14,6 +14,26 @@
         <summary type="html"><![CDATA[La 9e édition du Dictionnaire de l’Académie française: La 9e édition du Dictionnaire de l’Académie française, dont la publication a commencé dans les années 1980, s’est achevée en novembre 2024, avec la parution du tome 4 aux éditions Fayard. The 9th edition of the Dictionary of the French Academy, whose publication began in the 1980s, […]]]></summary>
         <author>
             <name>Mark Liberman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Art of Deconstraining]]></title>
+        <id>https://www.argmin.net/p/the-art-of-deconstraining</id>
+        <link href="https://www.argmin.net/p/the-art-of-deconstraining"/>
+        <updated>2024-11-13T15:17:39.000Z</updated>
+        <summary type="html"><![CDATA[A guide to convex optimization in Pytorch.]]></summary>
+        <author>
+            <name>Ben Recht</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Art of Deconstraining]]></title>
+        <id>https://www.argmin.net/p/the-art-of-deconstraining</id>
+        <link href="https://www.argmin.net/p/the-art-of-deconstraining"/>
+        <updated>2024-11-13T15:17:39.000Z</updated>
+        <summary type="html"><![CDATA[A guide to convex optimization in Pytorch.]]></summary>
+        <author>
+            <name>Ben Recht</name>
         </author>
     </entry>
     <entry>

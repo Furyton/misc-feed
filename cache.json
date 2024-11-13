@@ -1465,6 +1465,22 @@
       "siteUrl": "https://www.argmin.net",
       "articles": [
         {
+          "id": "https://www.argmin.net/p/the-art-of-deconstraining",
+          "author": "Ben Recht",
+          "description": "A guide to convex optimization in Pytorch.",
+          "link": "https://www.argmin.net/p/the-art-of-deconstraining",
+          "publishedOn": "2024-11-13T15:17:39.000Z",
+          "wordCount": null,
+          "title": "The Art of Deconstraining",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substack-post-media.s3.amazonaws.com/public/images/e971c1ec-e012-47f0-847b-9c5205c82969_840x599.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substack-post-media.s3.amazonaws.com/public/images/e971c1ec-e012-47f0-847b-9c5205c82969_840x599.jpeg"
+        },
+        {
           "id": "https://www.argmin.net/p/indiscipline",
           "author": "Ben Recht",
           "description": "Can convex optimization ever be a technology?",
@@ -2132,6 +2148,22 @@
       "feedUrl": "https://www.argmin.net/feed.xml",
       "siteUrl": "https://www.argmin.net",
       "articles": [
+        {
+          "id": "https://www.argmin.net/p/the-art-of-deconstraining",
+          "author": "Ben Recht",
+          "description": "A guide to convex optimization in Pytorch.",
+          "link": "https://www.argmin.net/p/the-art-of-deconstraining",
+          "publishedOn": "2024-11-13T15:17:39.000Z",
+          "wordCount": null,
+          "title": "The Art of Deconstraining",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substack-post-media.s3.amazonaws.com/public/images/e971c1ec-e012-47f0-847b-9c5205c82969_840x599.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substack-post-media.s3.amazonaws.com/public/images/e971c1ec-e012-47f0-847b-9c5205c82969_840x599.jpeg"
+        },
         {
           "id": "https://www.argmin.net/p/indiscipline",
           "author": "Ben Recht",
