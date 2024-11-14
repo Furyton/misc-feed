@@ -1465,6 +1465,22 @@
       "siteUrl": "https://www.argmin.net",
       "articles": [
         {
+          "id": "https://www.argmin.net/p/dual-decomposition",
+          "author": "Ben Recht",
+          "description": "The tricks of the trade for running gradient descent on dual problems",
+          "link": "https://www.argmin.net/p/dual-decomposition",
+          "publishedOn": "2024-11-14T15:25:11.000Z",
+          "wordCount": null,
+          "title": "Dual Decomposition",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substack-post-media.s3.amazonaws.com/public/images/c49ffdb6-2a06-44fd-b556-e15407759138_840x599.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substack-post-media.s3.amazonaws.com/public/images/c49ffdb6-2a06-44fd-b556-e15407759138_840x599.jpeg"
+        },
+        {
           "id": "https://www.argmin.net/p/the-art-of-deconstraining",
           "author": "Ben Recht",
           "description": "A guide to convex optimization in Pytorch.",
@@ -1771,6 +1787,16 @@
       "feedUrl": "https://machinelearningmastery.com/feed/",
       "siteUrl": "https://www.machinelearningmastery.com/",
       "articles": [
+        {
+          "id": "https://machinelearningmastery.com/?p=18657",
+          "author": "Iván Palomares Carrascosa",
+          "description": "Machine learning (ML) models contain numerous adjustable settings called hyperparameters that control how they learn from data.",
+          "link": "https://machinelearningmastery.com/mastering-the-art-of-hyperparameter-tuning-tips-tricks-and-tools/",
+          "publishedOn": "2024-11-14T16:22:40.000Z",
+          "wordCount": null,
+          "title": "Mastering the Art of Hyperparameter Tuning: Tips, Tricks, and Tools",
+          "imageUrl": null
+        },
         {
           "id": "https://machinelearningmastery.com/?p=18445",
           "author": "Iván Palomares Carrascosa",
@@ -2102,6 +2128,22 @@
       "feedUrl": "https://www.argmin.net/feed.xml",
       "siteUrl": "https://www.argmin.net",
       "articles": [
+        {
+          "id": "https://www.argmin.net/p/dual-decomposition",
+          "author": "Ben Recht",
+          "description": "The tricks of the trade for running gradient descent on dual problems",
+          "link": "https://www.argmin.net/p/dual-decomposition",
+          "publishedOn": "2024-11-14T15:25:11.000Z",
+          "wordCount": null,
+          "title": "Dual Decomposition",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substack-post-media.s3.amazonaws.com/public/images/c49ffdb6-2a06-44fd-b556-e15407759138_840x599.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substack-post-media.s3.amazonaws.com/public/images/c49ffdb6-2a06-44fd-b556-e15407759138_840x599.jpeg"
+        },
         {
           "id": "https://www.argmin.net/p/the-art-of-deconstraining",
           "author": "Ben Recht",
@@ -3236,206 +3278,6 @@
           "publishedOn": "2024-10-16T05:15:18.000Z",
           "wordCount": 805,
           "title": "课程推荐：考虑安全性的需求工程",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.52nlp.cn/?p=19054",
-          "author": "课程图谱",
-          "description": "课程主页: https://www.coursera.org/specializations/javascri […]",
-          "link": "https://www.52nlp.cn/%e6%8e%a8%e8%8d%90%ef%bc%9a%e5%8a%a0%e5%b7%9e%e5%a4%a7%e5%ad%a6%e6%88%b4%e7%bb%b4%e6%96%af%e5%88%86%e6%a0%a1%e7%9a%84javascript%e5%88%9d%e5%ad%a6%e8%80%85%e8%af%be%e7%a8%8b",
-          "publishedOn": "2024-10-16T04:22:06.000Z",
-          "wordCount": 815,
-          "title": "推荐：加州大学戴维斯分校的JavaScript初学者课程",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.52nlp.cn/?p=19052",
-          "author": "课程图谱",
-          "description": "课程主页: https://www.coursera.org/specializations/javascri […]",
-          "link": "https://www.52nlp.cn/%e5%ad%a6%e4%b9%a0%e7%bc%96%e7%a8%8b%e7%9a%84%e6%9c%80%e4%bd%b3%e9%80%89%e6%8b%a9%ef%bc%9aibm%e7%9a%84javascript%e7%bc%96%e7%a8%8b%e8%af%be%e7%a8%8b%e8%af%84%e6%b5%8b",
-          "publishedOn": "2024-10-16T04:21:43.000Z",
-          "wordCount": 835,
-          "title": "学习编程的最佳选择：IBM的JavaScript编程课程评测",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.52nlp.cn/?p=19050",
-          "author": "课程图谱",
-          "description": "课程主页: https://www.coursera.org/specializations/key-tech […]",
-          "link": "https://www.52nlp.cn/%e6%8e%a2%e7%b4%a2%e7%8e%b0%e4%bb%a3%e4%b8%9a%e5%8a%a1%e7%9a%84%e5%85%b3%e9%94%ae%e6%8a%80%e6%9c%af%ef%bc%9aibm%e7%9a%84%e4%b8%93%e9%a1%b9%e8%af%be%e7%a8%8b%e8%af%84%e6%b5%8b",
-          "publishedOn": "2024-10-16T04:21:28.000Z",
-          "wordCount": 809,
-          "title": "探索现代业务的关键技术：IBM的专项课程评测",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.52nlp.cn/?p=19048",
-          "author": "课程图谱",
-          "description": "课程主页: https://www.coursera.org/specializations/ios-deve […]",
-          "link": "https://www.52nlp.cn/%e8%b5%b0%e5%90%91ios%e5%bc%80%e5%8f%91%e7%9a%84%e5%88%9b%e6%84%8f%e4%b9%8b%e6%97%85%ef%bc%9auniversity-of-california-irvine%e7%9a%84%e8%af%be%e7%a8%8b%e6%8e%a8%e8%8d%90",
-          "publishedOn": "2024-10-16T04:21:03.000Z",
-          "wordCount": 843,
-          "title": "走向iOS开发的创意之旅：University of California, Irvine的课程推荐",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.52nlp.cn/?p=19046",
-          "author": "课程图谱",
-          "description": "课程主页: https://www.coursera.org/specializations/key-tech […]",
-          "link": "https://www.52nlp.cn/%e6%8e%a8%e8%8d%90%ef%bc%9a%e6%95%b0%e6%8d%ae%e5%88%86%e6%9e%90%e4%b8%ad%e7%9a%84%e5%85%b3%e9%94%ae%e6%8a%80%e6%9c%af%e8%af%be%e7%a8%8b%e8%af%84%e5%ae%a1",
-          "publishedOn": "2024-10-16T04:20:39.000Z",
-          "wordCount": 809,
-          "title": "推荐：数据分析中的关键技术课程评审",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.52nlp.cn/?p=19044",
-          "author": "课程图谱",
-          "description": "课程主页: https://www.coursera.org/specializations/leadersh […]",
-          "link": "https://www.52nlp.cn/%e6%b7%b1%e5%85%a5%e6%8e%a2%e7%b4%a2%e7%ba%a6%e7%bf%b0%e6%96%af%c2%b7%e9%9c%8d%e6%99%ae%e9%87%91%e6%96%af%e5%a4%a7%e5%ad%a6%e7%9a%84%e9%a2%86%e5%af%bc%e5%8a%9b%e8%af%be%e7%a8%8b",
-          "publishedOn": "2024-10-16T04:20:19.000Z",
-          "wordCount": 806,
-          "title": "深入探索约翰斯·霍普金斯大学的领导力课程",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.52nlp.cn/?p=19042",
-          "author": "课程图谱",
-          "description": "课程主页: https://www.coursera.org/specializations/leadersh […]",
-          "link": "https://www.52nlp.cn/%e6%8f%90%e5%8d%87%e9%a2%86%e5%af%bc%e5%8a%9b%e4%b8%8e%e6%89%b9%e5%88%a4%e6%80%a7%e6%80%9d%e7%bb%b4%e7%9a%84%e8%af%be%e7%a8%8b%e6%8e%a8%e8%8d%90%ef%bc%9atecnologico-de-monterrey%e7%9a%84%e9%a2%86",
-          "publishedOn": "2024-10-16T04:20:07.000Z",
-          "wordCount": 827,
-          "title": "提升领导力与批判性思维的课程推荐：Tecnológico de Monterrey的领导力与批判性思维课程评测",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.52nlp.cn/?p=19040",
-          "author": "课程图谱",
-          "description": "课程主页: https://www.coursera.org/specializations/introduc […]",
-          "link": "https://www.52nlp.cn/ibm%e6%95%b0%e6%8d%ae%e7%a7%91%e5%ad%a6%e5%85%a5%e9%97%a8%e8%af%be%e7%a8%8b%e8%af%a6%e8%af%84%e4%b8%8e%e6%8e%a8%e8%8d%90",
-          "publishedOn": "2024-10-16T04:19:57.000Z",
-          "wordCount": 806,
-          "title": "IBM数据科学入门课程详评与推荐",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.52nlp.cn/?p=19038",
-          "author": "课程图谱",
-          "description": "课程主页: https://www.coursera.org/specializations/introduc […]",
-          "link": "https://www.52nlp.cn/%e6%8e%a8%e8%8d%90%e4%b8%80%e9%97%a8coursera%e8%af%be%e7%a8%8b%ef%bc%9a%e5%95%86%e4%b8%9a%e4%bf%a1%e6%81%af%e7%b3%bb%e7%bb%9f%e5%9f%ba%e7%a1%80",
-          "publishedOn": "2024-10-16T04:19:45.000Z",
-          "wordCount": 814,
-          "title": "推荐一门Coursera课程：商业信息系统基础",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.52nlp.cn/?p=19036",
-          "author": "课程图谱",
-          "description": "课程主页: https://www.coursera.org/specializations/java-obj […]",
-          "link": "https://www.52nlp.cn/%e6%8e%a8%e8%8d%90-coursera-%e8%af%be%e7%a8%8b%ef%bc%9ajava-%e9%9d%a2%e5%90%91%e5%af%b9%e8%b1%a1%e7%bc%96%e7%a8%8b%ef%bc%9a%e6%95%b0%e6%8d%ae%e7%bb%93%e6%9e%84%e4%b8%8e%e6%9b%b4%e8%bf%9b%e4%b8%80",
-          "publishedOn": "2024-10-16T04:19:27.000Z",
-          "wordCount": 831,
-          "title": "推荐 Coursera 课程：Java 面向对象编程：数据结构与更进一步的知识",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.52nlp.cn/?p=18810",
-          "author": "课程图谱",
-          "description": "课程主页: https://www.coursera.org/specializations/fundamen […]",
-          "link": "https://www.52nlp.cn/%e6%8e%a8%e8%8d%90coursera%e5%9c%a8%e7%ba%bf%e8%af%be%e7%a8%8b%ef%bc%9aux%e5%9f%ba%e7%a1%80%e4%b8%8e%e8%bd%af%e4%bb%b6%e9%9c%80%e6%b1%82",
-          "publishedOn": "2024-10-16T03:26:13.000Z",
-          "wordCount": 839,
-          "title": "推荐Coursera在线课程：UX基础与软件需求",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.52nlp.cn/?p=18808",
-          "author": "课程图谱",
-          "description": "课程主页: https://www.coursera.org/specializations/future-r […]",
-          "link": "https://www.52nlp.cn/%e6%8e%8c%e6%8f%a1%e6%9c%aa%e6%9d%a5%ef%bc%9a%e8%af%84%e6%b5%8bcoursera%e7%9a%84%e3%80%8a%e6%9c%aa%e6%9d%a5%e5%b0%b1%e7%bb%aa%e5%85%ac%e5%8f%b8%e3%80%8b%e8%af%be%e7%a8%8b",
-          "publishedOn": "2024-10-16T03:25:45.000Z",
-          "wordCount": 817,
-          "title": "掌握未来：评测Coursera的《未来就绪公司》课程",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.52nlp.cn/?p=18806",
-          "author": "课程图谱",
-          "description": "课程主页: https://www.coursera.org/specializations/game-des […]",
-          "link": "https://www.52nlp.cn/%e3%80%8a%e6%b8%b8%e6%88%8f%e8%ae%be%e8%ae%a1%e4%b8%8e%e5%bc%80%e5%8f%91%ef%bc%88unity-2020%ef%bc%89%e3%80%8b%e8%af%be%e7%a8%8b%e8%af%84%e6%b5%8b%e4%b8%8e%e6%8e%a8%e8%8d%90",
-          "publishedOn": "2024-10-16T03:25:24.000Z",
-          "wordCount": 805,
-          "title": "《游戏设计与开发（Unity 2020）》课程评测与推荐",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.52nlp.cn/?p=18804",
-          "author": "课程图谱",
-          "description": "课程主页: https://www.coursera.org/specializations/futures- […]",
-          "link": "https://www.52nlp.cn/%e6%8e%a2%e7%b4%a2%e6%9c%aa%e6%9d%a5%e6%80%9d%e7%bb%b4%ef%bc%9a%e8%af%be%e7%a8%8b%e6%8e%a8%e8%8d%90%e4%b8%8e%e8%af%84%e6%b5%8b",
-          "publishedOn": "2024-10-16T03:24:53.000Z",
-          "wordCount": 819,
-          "title": "探索未来思维：课程推荐与评测",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.52nlp.cn/?p=18802",
-          "author": "课程图谱",
-          "description": "课程主页: https://www.coursera.org/specializations/fundamen […]",
-          "link": "https://www.52nlp.cn/%e6%8e%a2%e7%b4%a2%e5%bf%83%e7%90%86%e5%ad%a6%ef%bc%9a%e5%85%b3%e4%ba%8ecoursera%e8%af%be%e7%a8%8b%e3%80%8afundamentos-de-la-psicologia%e3%80%8b%e7%9a%84%e8%af%84%e6%b5%8b%e4%b8%8e%e6%8e%a8%e8%8d%90",
-          "publishedOn": "2024-10-16T03:24:30.000Z",
-          "wordCount": 815,
-          "title": "探索心理学：关于Coursera课程《Fundamentos de la Psicología》的评测与推荐",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.52nlp.cn/?p=18800",
-          "author": "课程图谱",
-          "description": "课程主页: https://www.coursera.org/specializations/futurest […]",
-          "link": "https://www.52nlp.cn/%e6%9c%aa%e6%9d%a5%e7%a0%94%e7%a9%b6%e8%af%be%e7%a8%8b%e8%af%84%e6%b5%8b%e4%b8%8e%e6%8e%a8%e8%8d%90",
-          "publishedOn": "2024-10-16T03:24:20.000Z",
-          "wordCount": 819,
-          "title": "未来研究课程评测与推荐",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.52nlp.cn/?p=18798",
-          "author": "课程图谱",
-          "description": "课程主页: https://www.coursera.org/specializations/game-des […]",
-          "link": "https://www.52nlp.cn/%e5%8a%a0%e5%b7%9e%e8%89%ba%e6%9c%af%e5%ad%a6%e9%99%a2%e7%9a%84%e6%b8%b8%e6%88%8f%e8%ae%be%e8%ae%a1%e8%af%be%e7%a8%8b%e7%bb%bc%e8%bf%b0%e4%b8%8e%e6%8e%a8%e8%8d%90",
-          "publishedOn": "2024-10-16T03:24:07.000Z",
-          "wordCount": 798,
-          "title": "加州艺术学院的游戏设计课程综述与推荐",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.52nlp.cn/?p=18796",
-          "author": "课程图谱",
-          "description": "课程主页: https://www.coursera.org/specializations/finance- […]",
-          "link": "https://www.52nlp.cn/%e8%b4%a2%e5%8a%a1%e5%af%b9%e6%af%8f%e4%b8%aa%e4%ba%ba%e7%9a%84%e6%84%8f%e4%b9%89-%e3%80%8afinance-for-everyone%e3%80%8b%e8%af%be%e7%a8%8b%e8%af%84%e6%b5%8b%e4%b8%8e%e6%8e%a8%e8%8d%90",
-          "publishedOn": "2024-10-16T03:23:47.000Z",
-          "wordCount": 817,
-          "title": "财务对每个人的意义—《Finance for Everyone》课程评测与推荐",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.52nlp.cn/?p=18794",
-          "author": "课程图谱",
-          "description": "课程主页: https://www.coursera.org/specializations/flight-m […]",
-          "link": "https://www.52nlp.cn/%e6%8e%a2%e7%b4%a2%e9%a3%9e%e8%a1%8c%e5%8a%9b%e5%ad%a6%e8%af%be%e7%a8%8b%ef%bc%9aisae-supaero%e7%9a%84%e5%9f%ba%e7%a1%80%e4%b8%8e%e6%b7%b1%e5%ba%a6",
-          "publishedOn": "2024-10-16T03:23:36.000Z",
-          "wordCount": 809,
-          "title": "探索飞行力学课程：ISAE-SUPAERO的基础与深度",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.52nlp.cn/?p=18792",
-          "author": "课程图谱",
-          "description": "课程主页: https://www.coursera.org/specializations/g-suite- […]",
-          "link": "https://www.52nlp.cn/%e6%b7%b1%e5%85%a5%e4%ba%86%e8%a7%a3google-workspace-administration-%e6%97%a5%e6%9c%ac%e8%aa%9e%e7%89%88%e8%af%be%e7%a8%8b%e7%9a%84%e7%b3%bb%e5%88%97%e6%8e%a8%e8%8d%90",
-          "publishedOn": "2024-10-16T03:23:00.000Z",
-          "wordCount": 852,
-          "title": "深入了解Google Workspace Administration 日本語版课程的系列推荐",
           "imageUrl": null
         }
       ]

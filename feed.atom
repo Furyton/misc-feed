@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-11-14T15:20:16.326Z</updated>
+    <updated>2024-11-14T16:24:43.514Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Mastering the Art of Hyperparameter Tuning: Tips, Tricks, and Tools]]></title>
+        <id>https://machinelearningmastery.com/?p=18657</id>
+        <link href="https://machinelearningmastery.com/mastering-the-art-of-hyperparameter-tuning-tips-tricks-and-tools/"/>
+        <updated>2024-11-14T16:22:40.000Z</updated>
+        <summary type="html"><![CDATA[Machine learning (ML) models contain numerous adjustable settings called hyperparameters that control how they learn from data.]]></summary>
+        <author>
+            <name>Iván Palomares Carrascosa</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dual Decomposition]]></title>
+        <id>https://www.argmin.net/p/dual-decomposition</id>
+        <link href="https://www.argmin.net/p/dual-decomposition"/>
+        <updated>2024-11-14T15:25:11.000Z</updated>
+        <summary type="html"><![CDATA[The tricks of the trade for running gradient descent on dual problems]]></summary>
+        <author>
+            <name>Ben Recht</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dual Decomposition]]></title>
+        <id>https://www.argmin.net/p/dual-decomposition</id>
+        <link href="https://www.argmin.net/p/dual-decomposition"/>
+        <updated>2024-11-14T15:25:11.000Z</updated>
+        <summary type="html"><![CDATA[The tricks of the trade for running gradient descent on dual problems]]></summary>
+        <author>
+            <name>Ben Recht</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[当Batch Size增大时，学习率该如何随之变化？]]></title>
         <id>https://kexue.fm/archives/10542</id>
@@ -2015,206 +2045,6 @@ The post DOS 经典软件下载 appeared first on Skywind Inside.]]></summary>
         <link href="https://www.52nlp.cn/%e8%af%be%e7%a8%8b%e6%8e%a8%e8%8d%90%ef%bc%9a%e8%80%83%e8%99%91%e5%ae%89%e5%85%a8%e6%80%a7%e7%9a%84%e9%9c%80%e6%b1%82%e5%b7%a5%e7%a8%8b"/>
         <updated>2024-10-16T05:15:18.000Z</updated>
         <summary type="html"><![CDATA[课程主页: https://www.coursera.org/specializations/requirem […]]]></summary>
-        <author>
-            <name>课程图谱</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[推荐：加州大学戴维斯分校的JavaScript初学者课程]]></title>
-        <id>https://www.52nlp.cn/?p=19054</id>
-        <link href="https://www.52nlp.cn/%e6%8e%a8%e8%8d%90%ef%bc%9a%e5%8a%a0%e5%b7%9e%e5%a4%a7%e5%ad%a6%e6%88%b4%e7%bb%b4%e6%96%af%e5%88%86%e6%a0%a1%e7%9a%84javascript%e5%88%9d%e5%ad%a6%e8%80%85%e8%af%be%e7%a8%8b"/>
-        <updated>2024-10-16T04:22:06.000Z</updated>
-        <summary type="html"><![CDATA[课程主页: https://www.coursera.org/specializations/javascri […]]]></summary>
-        <author>
-            <name>课程图谱</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[学习编程的最佳选择：IBM的JavaScript编程课程评测]]></title>
-        <id>https://www.52nlp.cn/?p=19052</id>
-        <link href="https://www.52nlp.cn/%e5%ad%a6%e4%b9%a0%e7%bc%96%e7%a8%8b%e7%9a%84%e6%9c%80%e4%bd%b3%e9%80%89%e6%8b%a9%ef%bc%9aibm%e7%9a%84javascript%e7%bc%96%e7%a8%8b%e8%af%be%e7%a8%8b%e8%af%84%e6%b5%8b"/>
-        <updated>2024-10-16T04:21:43.000Z</updated>
-        <summary type="html"><![CDATA[课程主页: https://www.coursera.org/specializations/javascri […]]]></summary>
-        <author>
-            <name>课程图谱</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[探索现代业务的关键技术：IBM的专项课程评测]]></title>
-        <id>https://www.52nlp.cn/?p=19050</id>
-        <link href="https://www.52nlp.cn/%e6%8e%a2%e7%b4%a2%e7%8e%b0%e4%bb%a3%e4%b8%9a%e5%8a%a1%e7%9a%84%e5%85%b3%e9%94%ae%e6%8a%80%e6%9c%af%ef%bc%9aibm%e7%9a%84%e4%b8%93%e9%a1%b9%e8%af%be%e7%a8%8b%e8%af%84%e6%b5%8b"/>
-        <updated>2024-10-16T04:21:28.000Z</updated>
-        <summary type="html"><![CDATA[课程主页: https://www.coursera.org/specializations/key-tech […]]]></summary>
-        <author>
-            <name>课程图谱</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[走向iOS开发的创意之旅：University of California, Irvine的课程推荐]]></title>
-        <id>https://www.52nlp.cn/?p=19048</id>
-        <link href="https://www.52nlp.cn/%e8%b5%b0%e5%90%91ios%e5%bc%80%e5%8f%91%e7%9a%84%e5%88%9b%e6%84%8f%e4%b9%8b%e6%97%85%ef%bc%9auniversity-of-california-irvine%e7%9a%84%e8%af%be%e7%a8%8b%e6%8e%a8%e8%8d%90"/>
-        <updated>2024-10-16T04:21:03.000Z</updated>
-        <summary type="html"><![CDATA[课程主页: https://www.coursera.org/specializations/ios-deve […]]]></summary>
-        <author>
-            <name>课程图谱</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[推荐：数据分析中的关键技术课程评审]]></title>
-        <id>https://www.52nlp.cn/?p=19046</id>
-        <link href="https://www.52nlp.cn/%e6%8e%a8%e8%8d%90%ef%bc%9a%e6%95%b0%e6%8d%ae%e5%88%86%e6%9e%90%e4%b8%ad%e7%9a%84%e5%85%b3%e9%94%ae%e6%8a%80%e6%9c%af%e8%af%be%e7%a8%8b%e8%af%84%e5%ae%a1"/>
-        <updated>2024-10-16T04:20:39.000Z</updated>
-        <summary type="html"><![CDATA[课程主页: https://www.coursera.org/specializations/key-tech […]]]></summary>
-        <author>
-            <name>课程图谱</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[深入探索约翰斯·霍普金斯大学的领导力课程]]></title>
-        <id>https://www.52nlp.cn/?p=19044</id>
-        <link href="https://www.52nlp.cn/%e6%b7%b1%e5%85%a5%e6%8e%a2%e7%b4%a2%e7%ba%a6%e7%bf%b0%e6%96%af%c2%b7%e9%9c%8d%e6%99%ae%e9%87%91%e6%96%af%e5%a4%a7%e5%ad%a6%e7%9a%84%e9%a2%86%e5%af%bc%e5%8a%9b%e8%af%be%e7%a8%8b"/>
-        <updated>2024-10-16T04:20:19.000Z</updated>
-        <summary type="html"><![CDATA[课程主页: https://www.coursera.org/specializations/leadersh […]]]></summary>
-        <author>
-            <name>课程图谱</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[提升领导力与批判性思维的课程推荐：Tecnológico de Monterrey的领导力与批判性思维课程评测]]></title>
-        <id>https://www.52nlp.cn/?p=19042</id>
-        <link href="https://www.52nlp.cn/%e6%8f%90%e5%8d%87%e9%a2%86%e5%af%bc%e5%8a%9b%e4%b8%8e%e6%89%b9%e5%88%a4%e6%80%a7%e6%80%9d%e7%bb%b4%e7%9a%84%e8%af%be%e7%a8%8b%e6%8e%a8%e8%8d%90%ef%bc%9atecnologico-de-monterrey%e7%9a%84%e9%a2%86"/>
-        <updated>2024-10-16T04:20:07.000Z</updated>
-        <summary type="html"><![CDATA[课程主页: https://www.coursera.org/specializations/leadersh […]]]></summary>
-        <author>
-            <name>课程图谱</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[IBM数据科学入门课程详评与推荐]]></title>
-        <id>https://www.52nlp.cn/?p=19040</id>
-        <link href="https://www.52nlp.cn/ibm%e6%95%b0%e6%8d%ae%e7%a7%91%e5%ad%a6%e5%85%a5%e9%97%a8%e8%af%be%e7%a8%8b%e8%af%a6%e8%af%84%e4%b8%8e%e6%8e%a8%e8%8d%90"/>
-        <updated>2024-10-16T04:19:57.000Z</updated>
-        <summary type="html"><![CDATA[课程主页: https://www.coursera.org/specializations/introduc […]]]></summary>
-        <author>
-            <name>课程图谱</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[推荐一门Coursera课程：商业信息系统基础]]></title>
-        <id>https://www.52nlp.cn/?p=19038</id>
-        <link href="https://www.52nlp.cn/%e6%8e%a8%e8%8d%90%e4%b8%80%e9%97%a8coursera%e8%af%be%e7%a8%8b%ef%bc%9a%e5%95%86%e4%b8%9a%e4%bf%a1%e6%81%af%e7%b3%bb%e7%bb%9f%e5%9f%ba%e7%a1%80"/>
-        <updated>2024-10-16T04:19:45.000Z</updated>
-        <summary type="html"><![CDATA[课程主页: https://www.coursera.org/specializations/introduc […]]]></summary>
-        <author>
-            <name>课程图谱</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[推荐 Coursera 课程：Java 面向对象编程：数据结构与更进一步的知识]]></title>
-        <id>https://www.52nlp.cn/?p=19036</id>
-        <link href="https://www.52nlp.cn/%e6%8e%a8%e8%8d%90-coursera-%e8%af%be%e7%a8%8b%ef%bc%9ajava-%e9%9d%a2%e5%90%91%e5%af%b9%e8%b1%a1%e7%bc%96%e7%a8%8b%ef%bc%9a%e6%95%b0%e6%8d%ae%e7%bb%93%e6%9e%84%e4%b8%8e%e6%9b%b4%e8%bf%9b%e4%b8%80"/>
-        <updated>2024-10-16T04:19:27.000Z</updated>
-        <summary type="html"><![CDATA[课程主页: https://www.coursera.org/specializations/java-obj […]]]></summary>
-        <author>
-            <name>课程图谱</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[推荐Coursera在线课程：UX基础与软件需求]]></title>
-        <id>https://www.52nlp.cn/?p=18810</id>
-        <link href="https://www.52nlp.cn/%e6%8e%a8%e8%8d%90coursera%e5%9c%a8%e7%ba%bf%e8%af%be%e7%a8%8b%ef%bc%9aux%e5%9f%ba%e7%a1%80%e4%b8%8e%e8%bd%af%e4%bb%b6%e9%9c%80%e6%b1%82"/>
-        <updated>2024-10-16T03:26:13.000Z</updated>
-        <summary type="html"><![CDATA[课程主页: https://www.coursera.org/specializations/fundamen […]]]></summary>
-        <author>
-            <name>课程图谱</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[掌握未来：评测Coursera的《未来就绪公司》课程]]></title>
-        <id>https://www.52nlp.cn/?p=18808</id>
-        <link href="https://www.52nlp.cn/%e6%8e%8c%e6%8f%a1%e6%9c%aa%e6%9d%a5%ef%bc%9a%e8%af%84%e6%b5%8bcoursera%e7%9a%84%e3%80%8a%e6%9c%aa%e6%9d%a5%e5%b0%b1%e7%bb%aa%e5%85%ac%e5%8f%b8%e3%80%8b%e8%af%be%e7%a8%8b"/>
-        <updated>2024-10-16T03:25:45.000Z</updated>
-        <summary type="html"><![CDATA[课程主页: https://www.coursera.org/specializations/future-r […]]]></summary>
-        <author>
-            <name>课程图谱</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[《游戏设计与开发（Unity 2020）》课程评测与推荐]]></title>
-        <id>https://www.52nlp.cn/?p=18806</id>
-        <link href="https://www.52nlp.cn/%e3%80%8a%e6%b8%b8%e6%88%8f%e8%ae%be%e8%ae%a1%e4%b8%8e%e5%bc%80%e5%8f%91%ef%bc%88unity-2020%ef%bc%89%e3%80%8b%e8%af%be%e7%a8%8b%e8%af%84%e6%b5%8b%e4%b8%8e%e6%8e%a8%e8%8d%90"/>
-        <updated>2024-10-16T03:25:24.000Z</updated>
-        <summary type="html"><![CDATA[课程主页: https://www.coursera.org/specializations/game-des […]]]></summary>
-        <author>
-            <name>课程图谱</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[探索未来思维：课程推荐与评测]]></title>
-        <id>https://www.52nlp.cn/?p=18804</id>
-        <link href="https://www.52nlp.cn/%e6%8e%a2%e7%b4%a2%e6%9c%aa%e6%9d%a5%e6%80%9d%e7%bb%b4%ef%bc%9a%e8%af%be%e7%a8%8b%e6%8e%a8%e8%8d%90%e4%b8%8e%e8%af%84%e6%b5%8b"/>
-        <updated>2024-10-16T03:24:53.000Z</updated>
-        <summary type="html"><![CDATA[课程主页: https://www.coursera.org/specializations/futures- […]]]></summary>
-        <author>
-            <name>课程图谱</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[探索心理学：关于Coursera课程《Fundamentos de la Psicología》的评测与推荐]]></title>
-        <id>https://www.52nlp.cn/?p=18802</id>
-        <link href="https://www.52nlp.cn/%e6%8e%a2%e7%b4%a2%e5%bf%83%e7%90%86%e5%ad%a6%ef%bc%9a%e5%85%b3%e4%ba%8ecoursera%e8%af%be%e7%a8%8b%e3%80%8afundamentos-de-la-psicologia%e3%80%8b%e7%9a%84%e8%af%84%e6%b5%8b%e4%b8%8e%e6%8e%a8%e8%8d%90"/>
-        <updated>2024-10-16T03:24:30.000Z</updated>
-        <summary type="html"><![CDATA[课程主页: https://www.coursera.org/specializations/fundamen […]]]></summary>
-        <author>
-            <name>课程图谱</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[未来研究课程评测与推荐]]></title>
-        <id>https://www.52nlp.cn/?p=18800</id>
-        <link href="https://www.52nlp.cn/%e6%9c%aa%e6%9d%a5%e7%a0%94%e7%a9%b6%e8%af%be%e7%a8%8b%e8%af%84%e6%b5%8b%e4%b8%8e%e6%8e%a8%e8%8d%90"/>
-        <updated>2024-10-16T03:24:20.000Z</updated>
-        <summary type="html"><![CDATA[课程主页: https://www.coursera.org/specializations/futurest […]]]></summary>
-        <author>
-            <name>课程图谱</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[加州艺术学院的游戏设计课程综述与推荐]]></title>
-        <id>https://www.52nlp.cn/?p=18798</id>
-        <link href="https://www.52nlp.cn/%e5%8a%a0%e5%b7%9e%e8%89%ba%e6%9c%af%e5%ad%a6%e9%99%a2%e7%9a%84%e6%b8%b8%e6%88%8f%e8%ae%be%e8%ae%a1%e8%af%be%e7%a8%8b%e7%bb%bc%e8%bf%b0%e4%b8%8e%e6%8e%a8%e8%8d%90"/>
-        <updated>2024-10-16T03:24:07.000Z</updated>
-        <summary type="html"><![CDATA[课程主页: https://www.coursera.org/specializations/game-des […]]]></summary>
-        <author>
-            <name>课程图谱</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[财务对每个人的意义—《Finance for Everyone》课程评测与推荐]]></title>
-        <id>https://www.52nlp.cn/?p=18796</id>
-        <link href="https://www.52nlp.cn/%e8%b4%a2%e5%8a%a1%e5%af%b9%e6%af%8f%e4%b8%aa%e4%ba%ba%e7%9a%84%e6%84%8f%e4%b9%89-%e3%80%8afinance-for-everyone%e3%80%8b%e8%af%be%e7%a8%8b%e8%af%84%e6%b5%8b%e4%b8%8e%e6%8e%a8%e8%8d%90"/>
-        <updated>2024-10-16T03:23:47.000Z</updated>
-        <summary type="html"><![CDATA[课程主页: https://www.coursera.org/specializations/finance- […]]]></summary>
-        <author>
-            <name>课程图谱</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[探索飞行力学课程：ISAE-SUPAERO的基础与深度]]></title>
-        <id>https://www.52nlp.cn/?p=18794</id>
-        <link href="https://www.52nlp.cn/%e6%8e%a2%e7%b4%a2%e9%a3%9e%e8%a1%8c%e5%8a%9b%e5%ad%a6%e8%af%be%e7%a8%8b%ef%bc%9aisae-supaero%e7%9a%84%e5%9f%ba%e7%a1%80%e4%b8%8e%e6%b7%b1%e5%ba%a6"/>
-        <updated>2024-10-16T03:23:36.000Z</updated>
-        <summary type="html"><![CDATA[课程主页: https://www.coursera.org/specializations/flight-m […]]]></summary>
-        <author>
-            <name>课程图谱</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[深入了解Google Workspace Administration 日本語版课程的系列推荐]]></title>
-        <id>https://www.52nlp.cn/?p=18792</id>
-        <link href="https://www.52nlp.cn/%e6%b7%b1%e5%85%a5%e4%ba%86%e8%a7%a3google-workspace-administration-%e6%97%a5%e6%9c%ac%e8%aa%9e%e7%89%88%e8%af%be%e7%a8%8b%e7%9a%84%e7%b3%bb%e5%88%97%e6%8e%a8%e8%8d%90"/>
-        <updated>2024-10-16T03:23:00.000Z</updated>
-        <summary type="html"><![CDATA[课程主页: https://www.coursera.org/specializations/g-suite- […]]]></summary>
         <author>
             <name>课程图谱</name>
         </author>
