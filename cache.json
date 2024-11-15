@@ -1778,6 +1778,16 @@
       "siteUrl": "https://machinelearningmastery.com/",
       "articles": [
         {
+          "id": "https://machinelearningmastery.com/?p=18664",
+          "author": "Matthew Mayo",
+          "description": "It's easy enough to make poor decisions in your machine learning projects that derail your efforts and jeopardize your outcomes, especially as a beginner.",
+          "link": "https://machinelearningmastery.com/5-tips-for-avoiding-common-rookie-mistakes-in-machine-learning-projects/",
+          "publishedOn": "2024-11-15T09:00:55.000Z",
+          "wordCount": null,
+          "title": "5 Tips for Avoiding Common Rookie Mistakes in Machine Learning Projects",
+          "imageUrl": null
+        },
+        {
           "id": "https://machinelearningmastery.com/?p=18657",
           "author": "Iván Palomares Carrascosa",
           "description": "Machine learning (ML) models contain numerous adjustable settings called hyperparameters that control how they learn from data.",
