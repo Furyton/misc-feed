@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-11-16T01:27:40.069Z</updated>
+    <updated>2024-11-16T02:55:05.346Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Diabasis]]></title>
+        <id>https://languagelog.ldc.upenn.edu/nll/?p=66956</id>
+        <link href="https://languagelog.ldc.upenn.edu/nll/?p=66956&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=diabasis"/>
+        <updated>2024-11-16T01:52:16.000Z</updated>
+        <summary type="html"><![CDATA[Jichang Lulu congratulated me on the completion of my continental diabasis.  Since I didn't know the meaning of that word and couldn't readily find a suitable definition for it online (I was familiar with the Anabasis of Xenophon [c. 430-probably 355 or 354 BC], the title of which means "expedition up from"), I simply had to […]]]></summary>
+        <author>
+            <name>Victor Mair</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[sampling using adaptive regenerative processes [in print!]]]></title>
         <id>http://xianblog.wordpress.com/?p=58015</id>
@@ -1469,26 +1479,6 @@ Motivation Structure and Deployment Static search index Running scripts via GitH
         <summary type="html"><![CDATA[A rather satisfying race, if far from my best times, despite usual headwinds, where I set my own pace early enough, despite a fast start (19’36” at 5k!), and played ‘hare’ for a female runner from Granville—the harbour town in the Manche peninsula facing Mont Saint Michel and the Channel Islands, and mirroring the Breton […]]]></summary>
         <author>
             <name>xi'an</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Convex Optimization at the Midpoint]]></title>
-        <id>https://www.argmin.net/p/convex-optimization-at-the-midpoint</id>
-        <link href="https://www.argmin.net/p/convex-optimization-at-the-midpoint"/>
-        <updated>2024-10-17T14:30:16.000Z</updated>
-        <summary type="html"><![CDATA[Some scattered thoughts about the semester so far.]]></summary>
-        <author>
-            <name>Ben Recht</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Convex Optimization at the Midpoint]]></title>
-        <id>https://www.argmin.net/p/convex-optimization-at-the-midpoint</id>
-        <link href="https://www.argmin.net/p/convex-optimization-at-the-midpoint"/>
-        <updated>2024-10-17T14:30:16.000Z</updated>
-        <summary type="html"><![CDATA[Some scattered thoughts about the semester so far.]]></summary>
-        <author>
-            <name>Ben Recht</name>
         </author>
     </entry>
     <entry>
