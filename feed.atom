@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-11-16T20:19:27.181Z</updated>
+    <updated>2024-11-16T21:16:56.984Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -1459,16 +1459,6 @@ Motivation Structure and Deployment Static search index Running scripts via GitH
         <summary type="html"><![CDATA[For the past week or so, Jef Mallett's Frazz has been exploring etymology and semantic drift. The current sequence starts on 10/10 (or maybe earlier): And then continues onward (so far): The OED's etymologies for economy and for economic take us back to the Greek οἰκονομία (management of a household or family, husbandry, thrift), οἰκονόμος (one […]]]></summary>
         <author>
             <name>Mark Liberman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Practical Guide to Deploying Machine Learning Models]]></title>
-        <id>https://machinelearningmastery.com/?p=18439</id>
-        <link href="https://machinelearningmastery.com/a-practical-guide-to-deploying-machine-learning-models/"/>
-        <updated>2024-10-18T09:00:33.000Z</updated>
-        <summary type="html"><![CDATA[As a data scientist, you probably know how to build machine learning models.]]></summary>
-        <author>
-            <name>Bala Priya C</name>
         </author>
     </entry>
     <entry>
