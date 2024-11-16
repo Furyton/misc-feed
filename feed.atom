@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-11-15T23:18:39.726Z</updated>
+    <updated>2024-11-16T01:27:40.069Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[sampling using adaptive regenerative processes [in print!]]]></title>
+        <id>http://xianblog.wordpress.com/?p=58015</id>
+        <link href="https://xianblog.wordpress.com/2024/11/16/sampling-using-adaptive-regenerative-processes-in-print/"/>
+        <updated>2024-11-15T23:25:32.000Z</updated>
+        <summary type="html"><![CDATA[Visit the post for more.]]></summary>
+        <author>
+            <name>xi'an</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ACM Paris Kanellakis Theory and Practice Award]]></title>
         <id>http://windowsontheory.org/?p=8799</id>
@@ -1479,16 +1489,6 @@ Motivation Structure and Deployment Static search index Running scripts via GitH
         <summary type="html"><![CDATA[Some scattered thoughts about the semester so far.]]></summary>
         <author>
             <name>Ben Recht</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[An unusual view of divine revelation]]></title>
-        <id>https://languagelog.ldc.upenn.edu/nll/?p=66549</id>
-        <link href="https://languagelog.ldc.upenn.edu/nll/?p=66549&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=an-unusual-view-of-divine-revelation"/>
-        <updated>2024-10-17T12:19:01.000Z</updated>
-        <summary type="html"><![CDATA[The middle two panels of a recent SMBC: This might be an (unfair) attack on Blinkist, but it isn't. It's partly an attack on Carl Jung, and simultaneously a joke about the attacker. Here's the whole of the comic: Mouseover title: "The best part of the book is his descriptions of Freud fainting because Jung […]]]></summary>
-        <author>
-            <name>Mark Liberman</name>
         </author>
     </entry>
     <entry>
