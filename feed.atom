@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-11-16T23:19:48.588Z</updated>
+    <updated>2024-11-17T01:41:23.162Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[semi-marathon de Boulogne-Billancourt]]></title>
+        <id>http://xianblog.wordpress.com/?p=57877</id>
+        <link href="https://xianblog.wordpress.com/2024/11/17/semi-marathon-de-boulogne-billancourt/"/>
+        <updated>2024-11-17T00:25:03.000Z</updated>
+        <summary type="html"><![CDATA[Visit the post for more.]]></summary>
+        <author>
+            <name>xi'an</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Robert's Rules of Haka]]></title>
         <id>https://languagelog.ldc.upenn.edu/nll/?p=66969</id>
@@ -1449,16 +1459,6 @@ Motivation Structure and Deployment Static search index Running scripts via GitH
         <summary type="html"><![CDATA[Visit the post for more.]]></summary>
         <author>
             <name>xi'an</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Frazz on lexical drift]]></title>
-        <id>https://languagelog.ldc.upenn.edu/nll/?p=66572</id>
-        <link href="https://languagelog.ldc.upenn.edu/nll/?p=66572&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=frazz-on-lexical-drift"/>
-        <updated>2024-10-18T13:33:56.000Z</updated>
-        <summary type="html"><![CDATA[For the past week or so, Jef Mallett's Frazz has been exploring etymology and semantic drift. The current sequence starts on 10/10 (or maybe earlier): And then continues onward (so far): The OED's etymologies for economy and for economic take us back to the Greek οἰκονομία (management of a household or family, husbandry, thrift), οἰκονόμος (one […]]]></summary>
-        <author>
-            <name>Mark Liberman</name>
         </author>
     </entry>
     <entry>
