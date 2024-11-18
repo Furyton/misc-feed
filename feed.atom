@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-11-18T15:21:47.615Z</updated>
+    <updated>2024-11-18T16:25:51.710Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Building Your First Chatbot: A Hands-On Tutorial with Open-Source Tools]]></title>
+        <id>https://machinelearningmastery.com/?p=18672</id>
+        <link href="https://machinelearningmastery.com/building-your-first-chatbot/"/>
+        <updated>2024-11-18T15:34:00.000Z</updated>
+        <summary type="html"><![CDATA[A chatbot is a computer program that can talk to people.]]></summary>
+        <author>
+            <name>Jayita Gulati</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hangul for Cantonese]]></title>
         <id>https://languagelog.ldc.upenn.edu/nll/?p=66975</id>
@@ -24,6 +34,16 @@
         <summary type="html"><![CDATA[上一篇文章《当Batch Size增大时，学习率该如何随之变化？》我们从多个角度讨论了学习率与Batch Size之间的缩放规律，其中对于Adam优化器我们采用了SignSGD近似，这是分析Ad...]]></summary>
         <author>
             <name>苏剑林</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Distilling Llama3.1 8B into 1B in torchtune]]></title>
+        <id>https://pytorch.org/blog/llama-into-torchtune/</id>
+        <link href="https://pytorch.org/blog/llama-into-torchtune/"/>
+        <updated>2024-11-18T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In this blog, we present a case study on distilling a Llama 3.1 8B model into Llama 3.2 1B using torchtune’s knowledge distillation recipe. We demonstrate how knowledge distillation (KD) can be used in post-training to improve instruction-following task performance and showcase how users can leverage the recipe.]]></summary>
+        <author>
+            <name>PyTorch Website</name>
         </author>
     </entry>
     <entry>

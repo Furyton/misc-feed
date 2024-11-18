@@ -1783,6 +1783,16 @@
       "siteUrl": "https://machinelearningmastery.com/",
       "articles": [
         {
+          "id": "https://machinelearningmastery.com/?p=18672",
+          "author": "Jayita Gulati",
+          "description": "A chatbot is a computer program that can talk to people.",
+          "link": "https://machinelearningmastery.com/building-your-first-chatbot/",
+          "publishedOn": "2024-11-18T15:34:00.000Z",
+          "wordCount": null,
+          "title": "Building Your First Chatbot: A Hands-On Tutorial with Open-Source Tools",
+          "imageUrl": null
+        },
+        {
           "id": "https://machinelearningmastery.com/?p=18664",
           "author": "Matthew Mayo",
           "description": "It's easy enough to make poor decisions in your machine learning projects that derail your efforts and jeopardize your outcomes, especially as a beginner.",
@@ -1971,6 +1981,16 @@
       "feedUrl": "https://pytorch.org/feed",
       "siteUrl": "https://pytorch.org/",
       "articles": [
+        {
+          "id": "https://pytorch.org/blog/llama-into-torchtune/",
+          "author": null,
+          "description": "In this blog, we present a case study on distilling a Llama 3.1 8B model into Llama 3.2 1B using torchtune’s knowledge distillation recipe. We demonstrate how knowledge distillation (KD) can be used in post-training to improve instruction-following task performance and showcase how users can leverage the recipe.",
+          "link": "https://pytorch.org/blog/llama-into-torchtune/",
+          "publishedOn": "2024-11-18T08:00:00.000Z",
+          "wordCount": 2618,
+          "title": "Distilling Llama3.1 8B into 1B in torchtune",
+          "imageUrl": "https://pytorch.org/assets/images/social-share.jpg"
+        },
         {
           "id": "https://pytorch.org/blog/cutlass-ping-pong-gemm-kernel/",
           "author": null,
