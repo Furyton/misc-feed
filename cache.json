@@ -1401,6 +1401,16 @@
       "siteUrl": "https://kexue.fm/",
       "articles": [
         {
+          "id": "https://kexue.fm/archives/10563",
+          "author": "苏剑林",
+          "description": "上一篇文章《当Batch Size增大时，学习率该如何随之变化？》我们从多个角度讨论了学习率与Batch Size之间的缩放规律，其中对于Adam优化器我们采用了SignSGD近似，这是分析Ad...",
+          "link": "https://kexue.fm/archives/10563",
+          "publishedOn": "2024-11-18T10:01:00.000Z",
+          "wordCount": 1844,
+          "title": "Adam的epsilon如何影响学习率的Scaling Law？",
+          "imageUrl": null
+        },
+        {
           "id": "https://kexue.fm/archives/10542",
           "author": "苏剑林",
           "description": "随着算力的飞速进步，有越多越多的场景希望能够实现“算力换时间”，即通过堆砌算力来缩短模型训练时间。理想情况下，我们希望投入$k$倍的算力，那么达到同样效果的时间则缩短为$1/k$，此时总的算力成...",
