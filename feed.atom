@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-11-18T19:15:55.221Z</updated>
+    <updated>2024-11-18T20:20:51.109Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The AI for Science Forum: A new era of discovery]]></title>
+        <id>https://deepmind.google/discover/blog/the-ai-for-science-forum-a-new-era-of-discovery/</id>
+        <link href="https://deepmind.google/discover/blog/the-ai-for-science-forum-a-new-era-of-discovery/"/>
+        <updated>2024-11-18T19:57:43.000Z</updated>
+        <summary type="html"><![CDATA[The AI Science Forum highlights AI's present and potential role in revolutionizing scientific discovery and solving global challenges, emphasizing collaboration between the scientific community, policymakers, and industry leaders.]]></summary>
+        <author>
+            <name>Google DeepMind Blog</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Building Your First Chatbot: A Hands-On Tutorial with Open-Source Tools]]></title>
         <id>https://machinelearningmastery.com/?p=18672</id>
