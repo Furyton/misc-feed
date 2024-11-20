@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-11-20T13:27:59.642Z</updated>
+    <updated>2024-11-20T14:18:26.826Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[A Practical Guide to Building Recommender Systems]]></title>
+        <id>https://machinelearningmastery.com/?p=18677</id>
+        <link href="https://machinelearningmastery.com/practical-guide-building-recommender-systems/"/>
+        <updated>2024-11-20T13:37:20.000Z</updated>
+        <summary type="html"><![CDATA[Recommender systems enhance user experiences in Internet-based applications by recommending items tailored to individual preferences or needs, such as products, services, or content.]]></summary>
+        <author>
+            <name>Iván Palomares Carrascosa</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The end of "Teaching Lucy"?]]></title>
         <id>https://languagelog.ldc.upenn.edu/nll/?p=66995</id>
