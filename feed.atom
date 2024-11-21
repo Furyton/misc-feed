@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-11-21T10:21:15.433Z</updated>
+    <updated>2024-11-21T11:16:42.030Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -34,6 +34,16 @@
         <summary type="html"><![CDATA[Visit the post for more.]]></summary>
         <author>
             <name>xi'an</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AlphaQubit tackles one of quantum computing’s biggest challenges]]></title>
+        <id>https://deepmind.google/discover/blog/alphaqubit-tackles-one-of-quantum-computings-biggest-challenges/</id>
+        <link href="https://deepmind.google/discover/blog/alphaqubit-tackles-one-of-quantum-computings-biggest-challenges/"/>
+        <updated>2024-11-20T18:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Our new AI system accurately identifies errors inside quantum computers, helping to make this new technology more reliable.]]></summary>
+        <author>
+            <name>Google DeepMind Blog</name>
         </author>
     </entry>
     <entry>
@@ -1479,16 +1489,6 @@ Motivation Structure and Deployment Static search index Running scripts via GitH
         <summary type="html"><![CDATA[We are excited to announce the release of PyTorch® 2.5 (release note)! This release features a new CuDNN backend for SDPA, enabling speedups by default for users of SDPA on H100s or newer GPUs. As well, regional compilation of torch.compile offers a way to reduce the cold start up time for torch.compile by allowing users to compile a repeated nn.Module (e.g. a transformer layer in LLM) without recompilations. Finally, TorchInductor CPP backend offers solid performance speedup with numerous enhancements like FP16 support, CPP wrapper, AOT-Inductor mode, and max-autotune mode.]]></summary>
         <author>
             <name>PyTorch Website</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[à la journée François Perron]]></title>
-        <id>http://xianblog.wordpress.com/?p=57897</id>
-        <link href="https://xianblog.wordpress.com/2024/10/23/a-la-journee-francois-perron/"/>
-        <updated>2024-10-22T22:24:43.000Z</updated>
-        <summary type="html"><![CDATA[Wonderful day celebrating my long-term friend François Perron’s career, at the Université de Montréal! In full autumnal glory! With several long-time-no-see friends attending and presenting their work and connecting with François’ achievements, incl. Éric Marchand on Stein prediction for spherically symmetric distributions, where the predicted vector y appears in the same quadratic form as the […]]]></summary>
-        <author>
-            <name>xi'an</name>
         </author>
     </entry>
     <entry>
