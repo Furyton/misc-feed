@@ -2007,6 +2007,16 @@
       "siteUrl": "https://pytorch.org/",
       "articles": [
         {
+          "id": "https://pytorch.org/blog/rebellions/",
+          "author": null,
+          "description": "<div type=\"html\"/>",
+          "link": "https://pytorch.org/blog/rebellions/",
+          "publishedOn": "2024-11-21T08:00:00.000Z",
+          "wordCount": 1397,
+          "title": "Rebellions Joins the PyTorch Foundation as a General Member",
+          "imageUrl": "https://pytorch.org/assets/images/social-share.jpg"
+        },
+        {
           "id": "https://pytorch.org/blog/llama-into-torchtune/",
           "author": null,
           "description": "In this blog, we present a case study on distilling a Llama 3.1 8B model into Llama 3.2 1B using torchtune’s knowledge distillation recipe. We demonstrate how knowledge distillation (KD) can be used in post-training to improve instruction-following task performance and showcase how users can leverage the recipe.",
