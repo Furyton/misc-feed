@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-11-21T14:18:48.638Z</updated>
+    <updated>2024-11-21T15:21:34.077Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Twirling Towards Freedom]]></title>
+        <id>https://www.argmin.net/p/twirling-towards-freedom</id>
+        <link href="https://www.argmin.net/p/twirling-towards-freedom"/>
+        <updated>2024-11-21T15:18:51.000Z</updated>
+        <summary type="html"><![CDATA[Avoiding dynamic programming with dynamic programming]]></summary>
+        <author>
+            <name>Ben Recht</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hate evil]]></title>
         <id>https://languagelog.ldc.upenn.edu/nll/?p=67008</id>

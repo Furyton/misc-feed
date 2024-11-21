@@ -2153,6 +2153,22 @@
       "siteUrl": "https://www.argmin.net",
       "articles": [
         {
+          "id": "https://www.argmin.net/p/twirling-towards-freedom",
+          "author": "Ben Recht",
+          "description": "Avoiding dynamic programming with dynamic programming",
+          "link": "https://www.argmin.net/p/twirling-towards-freedom",
+          "publishedOn": "2024-11-21T15:18:51.000Z",
+          "wordCount": null,
+          "title": "Twirling Towards Freedom",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substack-post-media.s3.amazonaws.com/public/images/38bdcc4a-7828-4884-a2d0-c635c70e6300_840x642.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substack-post-media.s3.amazonaws.com/public/images/38bdcc4a-7828-4884-a2d0-c635c70e6300_840x642.jpeg"
+        },
+        {
           "id": "https://www.argmin.net/p/the-optimal-part-of-control",
           "author": "Ben Recht",
           "description": "A mad dash through the rudiments of predictive control.",
