@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-11-22T20:21:12.617Z</updated>
+    <updated>2024-11-22T21:18:56.068Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -1509,16 +1509,6 @@ Motivation Structure and Deployment Static search index Running scripts via GitH
         <summary type="html"><![CDATA[Sponsored Content In a groundbreaking move to enhance the career prospects of data and AI enthusiasts, 365 Data Science has unveiled InterviewAce, an innovative AI-driven...]]></summary>
         <author>
             <name>MLM Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[VQ的旋转技巧：梯度直通估计的一般推广]]></title>
-        <id>https://kexue.fm/archives/10489</id>
-        <link href="https://kexue.fm/archives/10489"/>
-        <updated>2024-10-24T09:00:00.000Z</updated>
-        <summary type="html"><![CDATA[随着多模态LLM的方兴未艾，VQ（Vector Quantization）的地位也“水涨船高”，它可以作为视觉乃至任意模态的Tokenizer，将多模态数据统一到自回归生成框架中。遗憾的是，自V...]]></summary>
-        <author>
-            <name>苏剑林</name>
         </author>
     </entry>
     <entry>
