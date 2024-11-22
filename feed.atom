@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-11-22T11:17:22.916Z</updated>
+    <updated>2024-11-22T12:38:39.647Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -1519,26 +1519,6 @@ Motivation Structure and Deployment Static search index Running scripts via GitH
         <summary type="html"><![CDATA[TLDR]]></summary>
         <author>
             <name>PyTorch Website</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Trespassed update, part 2 (suicided)]]></title>
-        <id>https://languagelog.ldc.upenn.edu/nll/?p=66620</id>
-        <link href="https://languagelog.ldc.upenn.edu/nll/?p=66620&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=trespassed-update-part-2-suicided"/>
-        <updated>2024-10-24T00:35:33.000Z</updated>
-        <summary type="html"><![CDATA[In the first part of this post, we came across the notion of "bèi zìshā 被自殺" ("be suicided").  Since, for many people, this idea (of somebody being "suicided") is hard to comprehend, I asked several graduate students from the PRC if they could explain how it and the related expressions "bèi tiàolóu 被跳楼" ("was jumped […]]]></summary>
-        <author>
-            <name>Victor Mair</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[人工阅读 vs AI 阅读：以《苏东坡传》为例]]></title>
-        <id>https://cosx.org/2024/10/reading-man-vs-ai/</id>
-        <link href="https://cosx.org/2024/10/reading-man-vs-ai/"/>
-        <updated>2024-10-24T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[去年五月，我在阅读林语堂的《苏东坡传》时，边读边整理了书中主要人物的关系。最后，借助图数据库 Neo4j 将这些人物关系存储在数据库中，并以可视化的方式]]></summary>
-        <author>
-            <name>统计之都</name>
         </author>
     </entry>
     <entry>
