@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-11-22T10:21:02.384Z</updated>
+    <updated>2024-11-22T11:17:22.916Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA["The Angry Grammarian: A New Musical"]]></title>
+        <id>https://languagelog.ldc.upenn.edu/nll/?p=67042</id>
+        <link href="https://languagelog.ldc.upenn.edu/nll/?p=67042&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=the-angry-grammarian-a-new-musical"/>
+        <updated>2024-11-22T10:55:09.000Z</updated>
+        <summary type="html"><![CDATA[For the past five years or so, Jeffrey Barg has been writing a column for the Philadelphia Inquirer called "The Angry Grammarian". The last one appeared on February 23 of this year, and Barg moved his peeves to Substack. At about the same time, his musical rom-com premiered at Theatre Exile in Philadelphia. There's some […]]]></summary>
+        <author>
+            <name>Mark Liberman</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA["Grammarian"]]></title>
         <id>https://languagelog.ldc.upenn.edu/nll/?p=67032</id>
@@ -1529,16 +1539,6 @@ Motivation Structure and Deployment Static search index Running scripts via GitH
         <summary type="html"><![CDATA[去年五月，我在阅读林语堂的《苏东坡传》时，边读边整理了书中主要人物的关系。最后，借助图数据库 Neo4j 将这些人物关系存储在数据库中，并以可视化的方式]]></summary>
         <author>
             <name>统计之都</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Duh?!]]></title>
-        <id>http://xianblog.wordpress.com/?p=57762</id>
-        <link href="https://xianblog.wordpress.com/2024/10/24/duh-2/"/>
-        <updated>2024-10-23T22:24:05.000Z</updated>
-        <summary type="html"><![CDATA[Visit the post for more.]]></summary>
-        <author>
-            <name>xi'an</name>
         </author>
     </entry>
     <entry>
