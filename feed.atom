@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-11-22T22:18:30.915Z</updated>
+    <updated>2024-11-22T23:20:30.029Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA['Warm Tips' in the wild]]></title>
+        <id>https://languagelog.ldc.upenn.edu/nll/?p=67027</id>
+        <link href="https://languagelog.ldc.upenn.edu/nll/?p=67027&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=warm-tips-in-the-wild"/>
+        <updated>2024-11-22T22:26:10.000Z</updated>
+        <summary type="html"><![CDATA[After having been away for a couple of months, when I returned home, I found this message from Maia Karpovich: Yesterday, I ordered some 100 watt 'corn bulbs' from Amazon to deal with the darkness in my bedroom. The box came with some 'warm tips' included as an insert. To boot, the term 'corn bulb' […]]]></summary>
+        <author>
+            <name>Victor Mair</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Demystifying Ensemble Methods: Boosting, Bagging, and Stacking Explained]]></title>
         <id>https://machinelearningmastery.com/?p=18686</id>
