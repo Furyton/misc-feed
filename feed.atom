@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-11-22T15:20:26.268Z</updated>
+    <updated>2024-11-22T16:25:55.853Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Demystifying Ensemble Methods: Boosting, Bagging, and Stacking Explained]]></title>
+        <id>https://machinelearningmastery.com/?p=18686</id>
+        <link href="https://machinelearningmastery.com/demystifying-ensemble-methods-boosting-bagging-and-stacking-explained/"/>
+        <updated>2024-11-22T15:41:39.000Z</updated>
+        <summary type="html"><![CDATA[Unity makes strength.]]></summary>
+        <author>
+            <name>Iván Palomares Carrascosa</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA["The Angry Grammarian: A New Musical"]]></title>
         <id>https://languagelog.ldc.upenn.edu/nll/?p=67042</id>
