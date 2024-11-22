@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-11-22T09:21:22.474Z</updated>
+    <updated>2024-11-22T10:21:02.384Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA["Grammarian"]]></title>
+        <id>https://languagelog.ldc.upenn.edu/nll/?p=67032</id>
+        <link href="https://languagelog.ldc.upenn.edu/nll/?p=67032&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=grammarian"/>
+        <updated>2024-11-22T10:15:31.000Z</updated>
+        <summary type="html"><![CDATA[Linguists are prone to feel that the word "grammarian" should belong to them, not to prescriptivist scolds like the one in Elle Cordova's skit. And we often object even more strongly to "grammar" being used as the justification for condemnation of non-standard spellings, punctuation, word usage, etc., both because of the prescriptivist stance and because […]]]></summary>
+        <author>
+            <name>Mark Liberman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[生成扩散模型漫谈（二十六）：基于恒等式的蒸馏（下）]]></title>
+        <id>https://kexue.fm/archives/10567</id>
+        <link href="https://kexue.fm/archives/10567"/>
+        <updated>2024-11-22T09:43:00.000Z</updated>
+        <summary type="html"><![CDATA[继续回到我们的扩散系列。在《生成扩散模型漫谈（二十五）：基于恒等式的蒸馏（上）》中，我们介绍了SiD（Score identity Distillation），这是一种不需要真实数据、也不需要从...]]></summary>
+        <author>
+            <name>苏剑林</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Fondation Sciences mathématiques de Paris scholarships for math masters [2025-2026]]]></title>
         <id>http://xianblog.wordpress.com/?p=58074</id>

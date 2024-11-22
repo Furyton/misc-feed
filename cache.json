@@ -1390,6 +1390,16 @@
       "siteUrl": "https://kexue.fm/",
       "articles": [
         {
+          "id": "https://kexue.fm/archives/10567",
+          "author": "苏剑林",
+          "description": "继续回到我们的扩散系列。在《生成扩散模型漫谈（二十五）：基于恒等式的蒸馏（上）》中，我们介绍了SiD（Score identity Distillation），这是一种不需要真实数据、也不需要从...",
+          "link": "https://kexue.fm/archives/10567",
+          "publishedOn": "2024-11-22T09:43:00.000Z",
+          "wordCount": 1823,
+          "title": "生成扩散模型漫谈（二十六）：基于恒等式的蒸馏（下）",
+          "imageUrl": null
+        },
+        {
           "id": "https://kexue.fm/archives/10563",
           "author": "苏剑林",
           "description": "上一篇文章《当Batch Size增大时，学习率该如何随之变化？》我们从多个角度讨论了学习率与Batch Size之间的缩放规律，其中对于Adam优化器我们采用了SignSGD近似，这是分析Ad...",
@@ -2746,6 +2756,16 @@
       "feedUrl": "https://languagelog.ldc.upenn.edu/nll/?feed=rss2",
       "siteUrl": "https://languagelog.ldc.upenn.edu/nll",
       "articles": [
+        {
+          "id": "https://languagelog.ldc.upenn.edu/nll/?p=67032",
+          "author": "Mark Liberman",
+          "description": "Linguists are prone to feel that the word \"grammarian\" should belong to them, not to prescriptivist scolds like the one in Elle Cordova's skit. And we often object even more strongly to \"grammar\" being used as the justification for condemnation of non-standard spellings, punctuation, word usage, etc., both because of the prescriptivist stance and because […]",
+          "link": "https://languagelog.ldc.upenn.edu/nll/?p=67032&utm_source=rss&utm_medium=rss&utm_campaign=grammarian",
+          "publishedOn": "2024-11-22T10:15:31.000Z",
+          "wordCount": 2618,
+          "title": "\"Grammarian\"",
+          "imageUrl": null
+        },
         {
           "id": "https://languagelog.ldc.upenn.edu/nll/?p=67023",
           "author": "Victor Mair",
