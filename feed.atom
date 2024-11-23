@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-11-22T23:20:30.029Z</updated>
+    <updated>2024-11-23T01:26:22.640Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[OWAB [season] I]]></title>
+        <id>http://xianblog.wordpress.com/?p=58146</id>
+        <link href="https://xianblog.wordpress.com/2024/11/23/owab-season-i-2/"/>
+        <updated>2024-11-22T23:24:13.000Z</updated>
+        <summary type="html"><![CDATA[Our “new” seminar series, the One World Approximate Bayesian Inference (OWABI) Seminar, will see its second OWABI talk given on Thursday 28 November at 11am UK time. The speaker is Jeremias Knoblauch (University College London), who will talk about Post-Bayesian machine learning Abstract: In this talk, I provide my perspective on the machine learning community’s […]]]></summary>
+        <author>
+            <name>xi'an</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA['Warm Tips' in the wild]]></title>
         <id>https://languagelog.ldc.upenn.edu/nll/?p=67027</id>
