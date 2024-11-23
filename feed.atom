@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-11-23T18:24:15.831Z</updated>
+    <updated>2024-11-23T19:14:19.244Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -1489,16 +1489,6 @@ Motivation Structure and Deployment Static search index Running scripts via GitH
         <summary type="html"><![CDATA[George Kingsley Zipf is famous for his work on the power-law distribution of word frequencies, which has come to be known as Zipf's Law. And he's also known for the related "Law of Abbreviation", and the hypothesized balance between effort and efficacy. In his 1945 paper "The repetition of words, time-perspective, and semantic balance", Zipf […]]]></summary>
         <author>
             <name>Mark Liberman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Intel GPU Support Now Available in PyTorch 2.5]]></title>
-        <id>https://pytorch.org/blog/intel-gpu-support-pytorch-2-5/</id>
-        <link href="https://pytorch.org/blog/intel-gpu-support-pytorch-2-5/"/>
-        <updated>2024-10-25T07:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Support for Intel GPUs is now available in PyTorch® 2.5, providing improved functionality and performance for Intel GPUs which including Intel® Arc™ discrete graphics, Intel® Core™ Ultra processors with built-in Intel® Arc™ graphics and Intel® Data Center GPU Max Series. This integration brings Intel GPUs and the SYCL* software stack into the official PyTorch stack, ensuring a consistent user experience and enabling more extensive AI application scenarios, particularly in the AI PC domain.]]></summary>
-        <author>
-            <name>PyTorch Website</name>
         </author>
     </entry>
     <entry>
