@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-11-23T10:18:32.265Z</updated>
+    <updated>2024-11-23T11:15:03.759Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -1479,16 +1479,6 @@ Motivation Structure and Deployment Static search index Running scripts via GitH
         <summary type="html"><![CDATA[Support for Intel GPUs is now available in PyTorch® 2.5, providing improved functionality and performance for Intel GPUs which including Intel® Arc™ discrete graphics, Intel® Core™ Ultra processors with built-in Intel® Arc™ graphics and Intel® Data Center GPU Max Series. This integration brings Intel GPUs and the SYCL* software stack into the official PyTorch stack, ensuring a consistent user experience and enabling more extensive AI application scenarios, particularly in the AI PC domain.]]></summary>
         <author>
             <name>PyTorch Website</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nature tidbits [and garbage out]]]></title>
-        <id>http://xianblog.wordpress.com/?p=57650</id>
-        <link href="https://xianblog.wordpress.com/2024/10/25/nature-tidbits-and-garbage-out/"/>
-        <updated>2024-10-24T22:24:27.000Z</updated>
-        <summary type="html"><![CDATA[Many bits of interest in the 25 July issue of Nature that stayed under a pile of journals for PNW reasons! Even though the cover is rather off-putting… A call by the editors (and computer scientist Cal Newport) for scientists to “stop, drop, and think” (and the paperback version of Newport’s Slow Productivity has a […]]]></summary>
-        <author>
-            <name>xi'an</name>
         </author>
     </entry>
     <entry>
