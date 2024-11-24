@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-11-23T23:20:02.591Z</updated>
+    <updated>2024-11-24T01:42:23.066Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[apply for a Warwick Statistics summer research experience]]></title>
+        <id>http://xianblog.wordpress.com/?p=58085</id>
+        <link href="https://xianblog.wordpress.com/2024/11/24/apply-for-a-warwick-statistics-summer-research-experience/"/>
+        <updated>2024-11-23T23:24:37.000Z</updated>
+        <summary type="html"><![CDATA[Visit the post for more.]]></summary>
+        <author>
+            <name>xi'an</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Going beyond the polls]]></title>
         <id>https://www.argmin.net/p/going-beyond-the-polls</id>
@@ -1479,16 +1489,6 @@ Motivation Structure and Deployment Static search index Running scripts via GitH
         <summary type="html"><![CDATA[Are you a machine learning enthusiast looking to level up your skills? If so, contributing to open-source machine learning projects is one of the best ways to improve your coding skills.]]></summary>
         <author>
             <name>Bala Priya C</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Zipf's demon]]></title>
-        <id>https://languagelog.ldc.upenn.edu/nll/?p=66641</id>
-        <link href="https://languagelog.ldc.upenn.edu/nll/?p=66641&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=zipfs-demon"/>
-        <updated>2024-10-25T12:23:05.000Z</updated>
-        <summary type="html"><![CDATA[George Kingsley Zipf is famous for his work on the power-law distribution of word frequencies, which has come to be known as Zipf's Law. And he's also known for the related "Law of Abbreviation", and the hypothesized balance between effort and efficacy. In his 1945 paper "The repetition of words, time-perspective, and semantic balance", Zipf […]]]></summary>
-        <author>
-            <name>Mark Liberman</name>
         </author>
     </entry>
     <entry>
