@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-11-25T11:16:56.636Z</updated>
+    <updated>2024-11-25T12:40:14.663Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Speech Data CCA]]></title>
+        <id>https://languagelog.ldc.upenn.edu/nll/?p=67063</id>
+        <link href="https://languagelog.ldc.upenn.edu/nll/?p=67063&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=speech-data-cca"/>
+        <updated>2024-11-25T12:15:10.000Z</updated>
+        <summary type="html"><![CDATA[For a few of you, this post advertises an opportunity. I'm one of the organizers of a special session at Interspeech 2025, "Challenges in Speech Data Collection, Curation, and Annotation". Or for short, "Speech Data CCA". For the rest of you, this is yet another discussion of the large number of interpretations for (almost) any […]]]></summary>
+        <author>
+            <name>Mark Liberman</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Beginner’s Guide to Natural Language Processing with Python]]></title>
         <id>https://machinelearningmastery.com/?p=18693</id>
