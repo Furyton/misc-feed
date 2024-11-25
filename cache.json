@@ -1961,6 +1961,16 @@
       "siteUrl": "https://pytorch.org/",
       "articles": [
         {
+          "id": "https://pytorch.org/blog/training-using-float8-fsdp2/",
+          "author": null,
+          "description": "IBM: Tuan Hoang Trong, Alexei Karve, Yan Koyfman, Linsong Chu, Divya Kumari, Shweta Salaria, Robert Walkup, Praneet Adusumilli, Nirmit Desai, Raghu Ganti, Seetharami Seelam Meta: Less Wright, Wei Feng, Vasiliy Kuznetsov, Driss Guesseous",
+          "link": "https://pytorch.org/blog/training-using-float8-fsdp2/",
+          "publishedOn": "2024-11-25T08:00:00.000Z",
+          "wordCount": 1867,
+          "title": "Supercharging Training using float8 and FSDP2",
+          "imageUrl": "https://pytorch.org/assets/images/social-share.jpg"
+        },
+        {
           "id": "https://pytorch.org/blog/rebellions/",
           "author": null,
           "description": "<div type=\"html\"/>",
