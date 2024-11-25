@@ -1457,7 +1457,18 @@
       "title": "Statistics » Events",
       "feedUrl": "https://warwick.ac.uk/sitebuilder2/api/rss/news.rss?page=/fac/sci/statistics/event_diary/&tag=CRiSM%20seminars&rss=true&view=upcoming",
       "siteUrl": "https://warwick.ac.uk/fac/sci/statistics/event_diary/",
-      "articles": []
+      "articles": [
+        {
+          "id": "8ac672c493617fb70193637830711295",
+          "author": "Statistics",
+          "description": "When:\r\n\t\r\n  \t\t11:00\r\n\t\t-\r\n\t\t12:00, Mon, 09 Dec '24\r\n\r\n\t\nSofia Olhede will give the first CRiSM colloquium on Monday 9th December at 11am in MS.03. \n\r\nTitle and abstract to follow. \n\r\nLunch will follow in The Street (in Zeeman), 12-1pm.",
+          "link": "https://warwick.ac.uk/fac/sci/statistics/event_diary/?calendarItem=8ac672c493617fb70193637830711294",
+          "publishedOn": "2024-11-25T13:17:21.000Z",
+          "wordCount": 332,
+          "title": "09/12 11am-12pm: CRiSM Colloquim",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "arg min",
