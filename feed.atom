@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-11-25T10:21:50.810Z</updated>
+    <updated>2024-11-25T11:16:56.636Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The Beginner’s Guide to Natural Language Processing with Python]]></title>
+        <id>https://machinelearningmastery.com/?p=18693</id>
+        <link href="https://machinelearningmastery.com/the-beginners-guide-to-natural-language-processing-with-python/"/>
+        <updated>2024-11-25T11:00:02.000Z</updated>
+        <summary type="html"><![CDATA[Learning natural language processing can be a super useful addition to your developer toolkit.]]></summary>
+        <author>
+            <name>Bala Priya C</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Orange the World]]></title>
         <id>http://xianblog.wordpress.com/?p=58226</id>
@@ -1449,16 +1459,6 @@ Motivation Structure and Deployment Static search index Running scripts via GitH
         <summary type="html"><![CDATA[Whisper is a widely-used speech-to-text system from OpenAI — and it turns out that the generative AI's hallucination problem afflicts Whisper to a surprisingly serious extent, as documented by Allison Koenecke, Anna Seo Gyeong Choi, Katelyn X. Mei, Hilke Schellmann, and Mona Sloane,"Careless Whisper: Speech-to-Text Hallucination Harms" In The 2024 ACM Conference on Fairness, Accountability, […]]]></summary>
         <author>
             <name>Mark Liberman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Marseille – Cassis [45ième]]]></title>
-        <id>http://xianblog.wordpress.com/?p=57677</id>
-        <link href="https://xianblog.wordpress.com/2024/10/27/marseille-cassis-45ieme/"/>
-        <updated>2024-10-26T22:45:17.000Z</updated>
-        <summary type="html"><![CDATA[Visit the post for more.]]></summary>
-        <author>
-            <name>xi'an</name>
         </author>
     </entry>
     <entry>
