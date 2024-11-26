@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-11-26T18:28:38.197Z</updated>
+    <updated>2024-11-26T19:16:03.074Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -1500,26 +1500,6 @@ Motivation Structure and Deployment Static search index Running scripts via GitH
         <summary type="html"><![CDATA[Reading through Étienne de La Vaissière's massive magnum opus, Asie Centrale 300-850:  Des routes et des royaumes (2024), I came to a screeching halt when my gaze alighted on this photograph (III.6, p. 71): Limestone relief of Saluzi ("Autumn Dew"), one of the Six Steeds of Zhao Mausoleum, along with an unknown human general. The general switched horses with […]]]></summary>
         <author>
             <name>Victor Mair</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Getting started with PyTorch, ExecuTorch, and Ethos-U85 in three easy steps]]></title>
-        <id>https://pytorch.org/blog/pt-executorch-ethos-u85/</id>
-        <link href="https://pytorch.org/blog/pt-executorch-ethos-u85/"/>
-        <updated>2024-10-28T07:00:00.000Z</updated>
-        <summary type="html"><![CDATA[ExecuTorch support for Ethos-U85]]></summary>
-        <author>
-            <name>PyTorch Website</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Unleashing the Power of AI on Mobile: LLM Inference for Llama 3.2 Quantized Models with ExecuTorch and KleidiAI]]></title>
-        <id>https://pytorch.org/blog/unleashing-ai-mobile/</id>
-        <link href="https://pytorch.org/blog/unleashing-ai-mobile/"/>
-        <updated>2024-10-28T07:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Introduction]]></summary>
-        <author>
-            <name>PyTorch Website</name>
         </author>
     </entry>
     <entry>
