@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-11-26T11:16:45.663Z</updated>
+    <updated>2024-11-26T12:39:52.824Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Macquarie's 2024 WOTY is "enshittification"]]></title>
+        <id>https://languagelog.ldc.upenn.edu/nll/?p=67086</id>
+        <link href="https://languagelog.ldc.upenn.edu/nll/?p=67086&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=macquaries-2024-woty-is-enshittification"/>
+        <updated>2024-11-26T11:56:44.000Z</updated>
+        <summary type="html"><![CDATA[The Macquarie Dictionary's Word of the Year was announced yesterday, and it's enshittification. Macquarie is catching up here, since enshittification was the American Dialect Society's WOTY in 2023. The Macquarie announcement gives us a gloss ("the gradual deterioration of a service or product brought about by a reduction in the quality of service provided, especially […]]]></summary>
+        <author>
+            <name>Mark Liberman</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[on private universities in France [by Jean-Michel Marin]]]></title>
         <id>http://xianblog.wordpress.com/?p=58266</id>
@@ -1480,16 +1490,6 @@ Motivation Structure and Deployment Static search index Running scripts via GitH
         <summary type="html"><![CDATA[Introduction]]></summary>
         <author>
             <name>PyTorch Website</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OWAB [season] I]]></title>
-        <id>http://xianblog.wordpress.com/?p=57941</id>
-        <link href="https://xianblog.wordpress.com/2024/10/28/owab-season-i/"/>
-        <updated>2024-10-27T23:24:20.000Z</updated>
-        <summary type="html"><![CDATA[OWABC is dead, long life OWABI! After 5 seasons of the One World Approximate Bayesian Computation (ABC) Seminar, launched in April 2020 (!) to gather members and disseminate results and innovation during those weeks and months under lockdown, the organisers (incl. yours truly) have now decided to launch a “new” seminar series, the One World […]]]></summary>
-        <author>
-            <name>xi'an</name>
         </author>
     </entry>
     <entry>
