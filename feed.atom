@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-11-28T10:21:58.599Z</updated>
+    <updated>2024-11-28T11:16:55.935Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[5 Free Courses for Mastering LLMs]]></title>
+        <id>https://machinelearningmastery.com/?p=18699</id>
+        <link href="https://machinelearningmastery.com/5-free-courses-mastering-llms/"/>
+        <updated>2024-11-28T11:00:22.000Z</updated>
+        <summary type="html"><![CDATA[Without any doubt, Large Language Models (LLMs) have emerged as one of the biggest AI breakthroughs in recent years: they excel in understanding and generating human-like text , making them versatile for a wide range of applications.]]></summary>
+        <author>
+            <name>Matthew Mayo</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[how the election result could affect scientists and science policy]]></title>
         <id>http://xianblog.wordpress.com/?p=58106</id>
