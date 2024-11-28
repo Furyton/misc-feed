@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-11-28T12:40:44.654Z</updated>
+    <updated>2024-11-28T13:29:13.867Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Searle's "Chinese room" and the enigma of understanding]]></title>
+        <id>https://languagelog.ldc.upenn.edu/nll/?p=67118</id>
+        <link href="https://languagelog.ldc.upenn.edu/nll/?p=67118&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=searles-chinese-room-and-the-enigma-of-understanding"/>
+        <updated>2024-11-28T12:45:23.000Z</updated>
+        <summary type="html"><![CDATA[In this comment to "'Neutrino Evidence Revisited (AI Debates)' | Is Mozart's K297b authentic?" (11/13/24), I questioned whether John Searle's "Chinese room" argument was intelligently designed and encouraged those who encounter it to reflect on what it did — and did not — demonstrate. In the same comment, I also queried the meaning of "understand" […]]]></summary>
+        <author>
+            <name>Victor Mair</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[5 Free Courses for Mastering LLMs]]></title>
         <id>https://machinelearningmastery.com/?p=18699</id>
@@ -1480,16 +1490,6 @@ Motivation Structure and Deployment Static search index Running scripts via GitH
         <summary type="html"><![CDATA[这篇文章的主角是ID（Interpolative Decomposition），中文可以称之为“插值分解”，它同样可以理解为是一种具有特定结构的低秩分解，其中的一侧是该矩阵的若干列（当然如果你偏...]]></summary>
         <author>
             <name>苏剑林</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PRC censorship of Tūjué, an important historical name of the Turks]]></title>
-        <id>https://languagelog.ldc.upenn.edu/nll/?p=66701</id>
-        <link href="https://languagelog.ldc.upenn.edu/nll/?p=66701&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=prc-censorship-of-tujue-an-important-historical-name-of-the-turks"/>
-        <updated>2024-10-30T01:28:52.000Z</updated>
-        <summary type="html"><![CDATA[An outstanding Chinese scholar of Central Asian art history and archeology told me that any mention of Tūjué / Tújué 突厥 online or on social media would be subject to censorship by the authorities in the PRC.  Since Tūjué  突厥 is an important early name of the Turks, that makes it hard to do serious, […]]]></summary>
-        <author>
-            <name>Victor Mair</name>
         </author>
     </entry>
     <entry>
