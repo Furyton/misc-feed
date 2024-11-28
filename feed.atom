@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-11-28T18:26:56.606Z</updated>
+    <updated>2024-11-28T19:16:00.865Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -1480,16 +1480,6 @@ Motivation Structure and Deployment Static search index Running scripts via GitH
         <summary type="html"><![CDATA[Anomaly detection means finding patterns in data that are different from normal.]]></summary>
         <author>
             <name>Jayita Gulati</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Triton Kernel Compilation Stages]]></title>
-        <id>https://pytorch.org/blog/triton-kernel-compilation-stages/</id>
-        <link href="https://pytorch.org/blog/triton-kernel-compilation-stages/"/>
-        <updated>2024-10-30T07:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The Triton open-source programming language and compiler offers a high-level, python-based approach to create efficient GPU code. In this blog, we highlight the underlying details of how a triton program is compiled and the intermediate representations. For an introduction to Triton, we refer readers to this blog.]]></summary>
-        <author>
-            <name>PyTorch Website</name>
         </author>
     </entry>
     <entry>
