@@ -2012,16 +2012,6 @@
           "wordCount": 1069,
           "title": "Carnival of Mathematics #233",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.jeremykun.com/2024/10/30/how-this-blog-does-indieweb/",
-          "author": null,
-          "description": "This article will explain how the blog is organized at a technical level, and show how I implemented various IndieWeb features.\nTable of Contents:\nMotivation Structure and Deployment Static search index Running scripts via GitHub Actions Social media syndication and the “shortform” section Links to syndicated versions at the end of each post Warning for a too-long first paragraph Triggering this workflow automatically after deployment Blogroll (the “What I’m Reading” page) Chrome extension Webmentions and referencing external discussion threads Bridgy Hacker News backlinks Outgoing webmentions DOIs Dead link checker Motivation Earlier this year I migrated this blog off Wordpress to the Hugo static site generator.",
-          "link": "https://www.jeremykun.com/2024/10/30/how-this-blog-does-indieweb/",
-          "publishedOn": "2024-10-30T16:33:29.000Z",
-          "wordCount": 4339,
-          "title": "How This Blog Does IndieWeb",
-          "imageUrl": null
         }
       ]
     },
@@ -3147,16 +3137,6 @@
           "publishedOn": "2024-10-31T13:19:54.000Z",
           "wordCount": 2695,
           "title": "Credulity in the service of clickbait",
-          "imageUrl": null
-        },
-        {
-          "id": "https://languagelog.ldc.upenn.edu/nll/?p=66717",
-          "author": "Mark Liberman",
-          "description": "Jenny Kleeman, \"‘You tried to tell yourself I wasn’t real’: what happens when people with acute psychosis meet the voices in their heads?\" The Guardian, 10/29/2024: \"In avatar therapy, a clinician gives voice to their patients’ inner demons. For some of the participants in a new trial, the results have been astounding.\" I learned about […]",
-          "link": "https://languagelog.ldc.upenn.edu/nll/?p=66717&utm_source=rss&utm_medium=rss&utm_campaign=negotiating-with-hallucinations-two-controlled-trials",
-          "publishedOn": "2024-10-30T16:43:02.000Z",
-          "wordCount": 3510,
-          "title": "Negotiating with hallucinations: Two controlled trials",
           "imageUrl": null
         }
       ]
