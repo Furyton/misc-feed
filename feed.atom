@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-11-29T11:17:04.625Z</updated>
+    <updated>2024-11-29T12:39:47.078Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Some mathematical news]]></title>
+        <id>http://gilkalai.wordpress.com/?p=27400</id>
+        <link href="https://gilkalai.wordpress.com/2024/11/29/some-mathematical-news/"/>
+        <updated>2024-11-29T12:34:40.000Z</updated>
+        <summary type="html"><![CDATA[Prologue (Anton Kapustin): Arnold at the gym  A story about the mathematical experience as told by Anton Kapustin (over Facebook): While working out at the gym I was thinking about Kolmogorov-Arnold-Moser theory and whether it has a quantum analog. Suddenly … Continue reading →]]></summary>
+        <author>
+            <name>Gil Kalai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Some mathematical news]]></title>
+        <id>http://gilkalai.wordpress.com/?p=27400</id>
+        <link href="https://gilkalai.wordpress.com/2024/11/29/some-mathematical-news/"/>
+        <updated>2024-11-29T12:34:40.000Z</updated>
+        <summary type="html"><![CDATA[Prologue (Anton Kapustin): Arnold at the gym  A story about the mathematical experience as told by Anton Kapustin (over Facebook): While working out at the gym I was thinking about Kolmogorov-Arnold-Moser theory and whether it has a quantum analog. Suddenly … Continue reading →]]></summary>
+        <author>
+            <name>Gil Kalai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["You scalar implicature!"]]></title>
+        <id>https://languagelog.ldc.upenn.edu/nll/?p=67139</id>
+        <link href="https://languagelog.ldc.upenn.edu/nll/?p=67139&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=you-scalar-implicature"/>
+        <updated>2024-11-29T11:35:21.000Z</updated>
+        <summary type="html"><![CDATA[Today's SMBC: Mouseover title: "Oddly enough, the hard part was picking jargon NOT to use." The AfterComic: I'm always happy to see Linguistics singled out for praise, but in fairness, technical terminology works pretty well from whatever domain: Exocrine secretion! Weak anisotropic reflection! Torridonian alluvium! Conjugacy-closed subgroup! Homotopical nilpotency! Simplicial foliation! Hypersoft bijection! Facticious akataphasia! […]]]></summary>
+        <author>
+            <name>Mark Liberman</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[not so] hostile takeover on my Nature issue]]></title>
         <id>http://xianblog.wordpress.com/?p=57918</id>
@@ -1440,16 +1470,6 @@ Table of Contents:
 Motivation Structure and Deployment Static search index Running scripts via GitHub Actions Social media syndication and the “shortform” section Links to syndicated versions at the end of each post Warning for a too-long first paragraph Triggering this workflow automatically after deployment Blogroll (the “What I’m Reading” page) Chrome extension Webmentions and referencing external discussion threads Bridgy Hacker News backlinks Outgoing webmentions DOIs Dead link checker Motivation Earlier this year I migrated this blog off Wordpress to the Hugo static site generator.]]></summary>
         <author>
             <name>Math ∩ Programming</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[believe him!]]></title>
-        <id>http://xianblog.wordpress.com/?p=57985</id>
-        <link href="https://xianblog.wordpress.com/2024/10/31/believe-him/"/>
-        <updated>2024-10-30T23:24:03.000Z</updated>
-        <summary type="html"><![CDATA[Visit the post for more.]]></summary>
-        <author>
-            <name>xi'an</name>
         </author>
     </entry>
     <entry>
