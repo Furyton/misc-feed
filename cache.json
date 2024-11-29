@@ -1401,6 +1401,16 @@
       "siteUrl": "https://kexue.fm/",
       "articles": [
         {
+          "id": "https://kexue.fm/archives/10588",
+          "author": "苏剑林",
+          "description": "这几天在重温去年的Meta的一篇论文《A Theory on Adam Instability in Large-Scale Machine Learning》，里边给出了看待Adam等自适应学...",
+          "link": "https://kexue.fm/archives/10588",
+          "publishedOn": "2024-11-29T15:25:00.000Z",
+          "wordCount": 1649,
+          "title": "从Hessian近似看自适应学习率优化器",
+          "imageUrl": null
+        },
+        {
           "id": "https://kexue.fm/archives/10567",
           "author": "苏剑林",
           "description": "继续回到我们的扩散系列。在《生成扩散模型漫谈（二十五）：基于恒等式的蒸馏（上）》中，我们介绍了SiD（Score identity Distillation），这是一种不需要真实数据、也不需要从...",
@@ -2656,6 +2666,26 @@
       "feedUrl": "https://languagelog.ldc.upenn.edu/nll/?feed=rss2",
       "siteUrl": "https://languagelog.ldc.upenn.edu/nll",
       "articles": [
+        {
+          "id": "https://languagelog.ldc.upenn.edu/nll/?p=67060",
+          "author": "Victor Mair",
+          "description": "From Michael David Johnson: I found this sign (image below) on Queen's Road West near Exit A of the Sai Ying Pun MTR in Hong Kong. The shop was closed but I think it's a Chinese Medicine shop. Google gives me no results for \"recycled bezoar\" or \"bezoar reciclado,\" so I seek your knowledge. Bad […]",
+          "link": "https://languagelog.ldc.upenn.edu/nll/?p=67060&utm_source=rss&utm_medium=rss&utm_campaign=recycled-bezoar",
+          "publishedOn": "2024-11-29T16:48:57.000Z",
+          "wordCount": 2373,
+          "title": "Recycled bezoar",
+          "imageUrl": null
+        },
+        {
+          "id": "https://languagelog.ldc.upenn.edu/nll/?p=67110",
+          "author": "Victor Mair",
+          "description": "This elevator panel image was sent to me by Nick Kaldis: It's immediately obvious that floors 4, 14, and 24 are missing because: sì 4 || sǐ 死 (\"death\") The absence of 18 is not so easy.  It's because: 18 || shíbā céng dìyù 十八层地狱 (\"eighteen levels of hell\") Note that the word for \"level [of hell]\", viz., céng 层, is the same […]",
+          "link": "https://languagelog.ldc.upenn.edu/nll/?p=67110&utm_source=rss&utm_medium=rss&utm_campaign=number-taboos-in-a-chinese-elevator",
+          "publishedOn": "2024-11-29T16:42:34.000Z",
+          "wordCount": 2409,
+          "title": "Number taboos in a Chinese elevator",
+          "imageUrl": null
+        },
         {
           "id": "https://languagelog.ldc.upenn.edu/nll/?p=67139",
           "author": "Mark Liberman",
