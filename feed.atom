@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-11-29T01:38:51.051Z</updated>
+    <updated>2024-11-29T03:00:43.068Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -1470,36 +1470,6 @@ Table of Contents:
 Motivation Structure and Deployment Static search index Running scripts via GitHub Actions Social media syndication and the “shortform” section Links to syndicated versions at the end of each post Warning for a too-long first paragraph Triggering this workflow automatically after deployment Blogroll (the “What I’m Reading” page) Chrome extension Webmentions and referencing external discussion threads Bridgy Hacker News backlinks Outgoing webmentions DOIs Dead link checker Motivation Earlier this year I migrated this blog off Wordpress to the Hugo static site generator.]]></summary>
         <author>
             <name>Math ∩ Programming</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pushing the frontiers of audio generation]]></title>
-        <id>https://deepmind.google/discover/blog/pushing-the-frontiers-of-audio-generation/</id>
-        <link href="https://deepmind.google/discover/blog/pushing-the-frontiers-of-audio-generation/"/>
-        <updated>2024-10-30T15:00:07.000Z</updated>
-        <summary type="html"><![CDATA[Our pioneering speech generation technologies are helping people around the world interact with more natural, conversational and intuitive digital assistants and AI tools.]]></summary>
-        <author>
-            <name>Google DeepMind Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pushing the frontiers of audio generation]]></title>
-        <id>https://7a0e920-dot-gdm-deepmind-com-prod.appspot.com/discover/blog/pushing-the-frontiers-of-audio-generation/</id>
-        <link href="https://7a0e920-dot-gdm-deepmind-com-prod.appspot.com/discover/blog/pushing-the-frontiers-of-audio-generation/"/>
-        <updated>2024-10-30T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Our pioneering speech generation technologies are helping people around the world interact with more natural, conversational and intuitive digital assistants and AI tools.]]></summary>
-        <author>
-            <name>Google DeepMind Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Anomaly Detection Techniques in Large-Scale Datasets]]></title>
-        <id>https://machinelearningmastery.com/?p=18540</id>
-        <link href="https://machinelearningmastery.com/anomaly-detection-techniques-in-large-scale-datasets/"/>
-        <updated>2024-10-30T13:47:49.000Z</updated>
-        <summary type="html"><![CDATA[Anomaly detection means finding patterns in data that are different from normal.]]></summary>
-        <author>
-            <name>Jayita Gulati</name>
         </author>
     </entry>
     <entry>
