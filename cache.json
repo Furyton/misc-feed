@@ -1990,16 +1990,6 @@
           "wordCount": 2443,
           "title": "Deep Dive on Cutlass Ping-Pong GEMM Kernel",
           "imageUrl": "https://pytorch.org/assets/images/social-share.jpg"
-        },
-        {
-          "id": "https://pytorch.org/blog/deploying-llms-torchserve-vllm/",
-          "author": null,
-          "description": "The vLLM engine is currently one of the top-performing ways to execute large language models (LLM). It provides the vllm serve command as an easy option to deploy a model on a single machine. While this is convenient, to serve these LLMs in production and at scale some advanced features are necessary.",
-          "link": "https://pytorch.org/blog/deploying-llms-torchserve-vllm/",
-          "publishedOn": "2024-10-31T07:00:00.000Z",
-          "wordCount": 2859,
-          "title": "Deploying LLMs with TorchServe + vLLM",
-          "imageUrl": "https://pytorch.org/assets/images/social-share.jpg"
         }
       ]
     },
