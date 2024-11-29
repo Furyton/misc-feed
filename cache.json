@@ -2012,6 +2012,16 @@
           "wordCount": 1069,
           "title": "Carnival of Mathematics #233",
           "imageUrl": null
+        },
+        {
+          "id": "https://www.jeremykun.com/2024/10/30/how-this-blog-does-indieweb/",
+          "author": null,
+          "description": "This article will explain how the blog is organized at a technical level, and show how I implemented various IndieWeb features.\nTable of Contents:\nMotivation Structure and Deployment Static search index Running scripts via GitHub Actions Social media syndication and the “shortform” section Links to syndicated versions at the end of each post Warning for a too-long first paragraph Triggering this workflow automatically after deployment Blogroll (the “What I’m Reading” page) Chrome extension Webmentions and referencing external discussion threads Bridgy Hacker News backlinks Outgoing webmentions DOIs Dead link checker Motivation Earlier this year I migrated this blog off Wordpress to the Hugo static site generator.",
+          "link": "https://www.jeremykun.com/2024/10/30/how-this-blog-does-indieweb/",
+          "publishedOn": "2024-10-31T05:22:12.000Z",
+          "wordCount": 4345,
+          "title": "How This Blog Does IndieWeb",
+          "imageUrl": null
         }
       ]
     },
