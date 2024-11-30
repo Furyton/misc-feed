@@ -2174,16 +2174,6 @@
           "wordCount": 1628,
           "title": "异步事件模型的 Self-pipe trick",
           "imageUrl": null
-        },
-        {
-          "id": "https://skywind.me/blog/?p=3132",
-          "author": "skywind",
-          "description": "在 Linux/Unix 等 posix 环境中，每个套接字都是一个文件描述符 fd，类型是 int，使用起来非常方便；但在 Win32 环境中是 SOCKET 类型被定义成 UINT_PTR ，是一个指针，在 x64 环境中一个 SOCKET 占用 8 个字节。 那么是否能将 SOCKET 类型强制转换成 int 类型保存没？这样就能统一用 int 在所有平台下表示套接字了，同时在 x64 环境下这样将 64 位的指针转换为 32 位的整数是否安全？ 答案是可以的，下面将从三个方面说明一下。 Kernel Object 每个 SOCKET 背后其实都是一个指向 Kernel Object … Continue reading →\nThe post WinSock 可以把 SOCKET 类型转换成 int 保存么？ appeared first on Skywind Inside.",
-          "link": "https://skywind.me/blog/archives/3132",
-          "publishedOn": "2024-11-01T09:04:09.000Z",
-          "wordCount": 1839,
-          "title": "WinSock 可以把 SOCKET 类型转换成 int 保存么？",
-          "imageUrl": "https://skywind3000.github.io/images/blog/2024/win32/cshob-04.png"
         }
       ]
     },
