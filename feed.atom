@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-11-29T23:18:55.982Z</updated>
+    <updated>2024-11-30T01:36:20.800Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[a journal of the chaos, conquest, war, fried meals, and death year]]></title>
+        <id>http://xianblog.wordpress.com/?p=58046</id>
+        <link href="https://xianblog.wordpress.com/2024/11/30/a-journal-of-the-chaos-conquest-war-famine-and-death-year-4/"/>
+        <updated>2024-11-29T23:24:08.000Z</updated>
+        <summary type="html"><![CDATA[Read Charles de Lint’s Jack, The Giant-Killer, which is just as terrible as it sounds!  The only redeeming feature is that it takes place in Ottawa, Canada, where the author lives, as I could relate to the places of down-town Ottawa mentioned therein. Otherwise, a terrible book inspired from classical folk tales, with an unpleasant […]]]></summary>
+        <author>
+            <name>xi'an</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Recycled bezoar]]></title>
         <id>https://languagelog.ldc.upenn.edu/nll/?p=67060</id>
@@ -1485,16 +1495,6 @@ The post WinSock 的 select 如何超过 64 个套接字限制？（三种方法
         <summary type="html"><![CDATA[Python is the most popular data science programming language, as it’s versatile and has a lot of support from the community.]]></summary>
         <author>
             <name>Cornellius Yudha Wijaya</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Credulity in the service of clickbait]]></title>
-        <id>https://languagelog.ldc.upenn.edu/nll/?p=66724</id>
-        <link href="https://languagelog.ldc.upenn.edu/nll/?p=66724&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=credulity-and-clickbait"/>
-        <updated>2024-10-31T13:19:54.000Z</updated>
-        <summary type="html"><![CDATA[Andrew Gelman, "Freakonomics does it again (not in a good way). Jeez, these guys are credulous", Statistical Modeling, Causal Inference, and Social Science 10/28/2024: From the team that brought you “good-looking parents are 36% more likely to have a baby daughter as their first child than a baby son” and “The PDO cool mode has […]]]></summary>
-        <author>
-            <name>Mark Liberman</name>
         </author>
     </entry>
     <entry>
