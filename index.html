@@ -4660,40 +4660,6 @@ The post WinSock 可以把 SOCKET 类型转换成 int 保存么？ appeared firs
                 </section>
               </section>
             </li>
-            <li class="card__section">
-              <section class="js-toggle-accordions-scope">
-                <h3 class="source-heading">
-                  <button
-                    class="source-heading__name"
-                    data-action="toggle-accordions"
-                    title="Click to toggle the source, Ctrl + click to toggle all."
-                  >Skywind Inside</button>
-                  <a class="source-heading__link" href="https://skywind.me/blog">Open</a>
-                </h3>
-                <section class="articles-per-source">
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://skywind.me/blog/?p&#x3D;3112"
-                        open
-                      >
-                        <summary class="article-expander__title">WinSock 的 select 如何超过 64 个套接字限制？（三种方法）</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://skywind.me/blog/archives/3112">
-                          <div class="article-summary-box-inner media-object">
-                            <span class="media-object__text">
-                              <span>在做跨平台网络编程时，Windows 下面能够对应 epoll/kevent 这类 reactor 事件模型的 API 只有一个 select，但是却有数量限制，一次传入 select 的 socket 数量不能超过 FD_SETSIZE 个，而这个值是 64。 所以 java 里的 nio 的 select 在 windows 也有同样的数量限制，很多移植 Windows 的服务程序，用了 reactor 模型的大多有这样一个限制，让人觉得 Windows 下的服务程序性能很弱。 那么这个数量限制对开发一个高并发的服务器显然是不够的，我们是否有办法突破这个限制呢？而 cygwin 这类用 Win32 API 模拟 posix API 的系统，又是如何模拟不受限制的 … Continue reading →
-The post WinSock 的 select 如何超过 64 个套接字限制？（三种方法） appeared first on Skywind Inside.</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;9
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                </section>
-              </section>
-            </li>
         </ul>
       </section>
       <section class="daily-content js-toggle-accordions-scope">
@@ -8033,8 +7999,8 @@ The post WinSock 的 select 如何超过 64 个套接字限制？（三种方法
       </section>
 
     <footer>
-      <a class="footer-link" href="https://github.com/Furyton/misc-feed/actions/runs/12093184666">
-        <time id="build-timestamp" datetime="2024-11-30T03:29:44.218Z">2024-11-30T03:29:44.218Z</time>
+      <a class="footer-link" href="https://github.com/Furyton/misc-feed/actions/runs/12093510184">
+        <time id="build-timestamp" datetime="2024-11-30T04:23:41.397Z">2024-11-30T04:23:41.397Z</time>
       </a>
       <a class="footer-link" href="https://github.com/osmoscraft/osmosfeed">osmosfeed 1.15.1</a>
     </footer>

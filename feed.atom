@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-11-30T03:29:44.250Z</updated>
+    <updated>2024-11-30T04:23:41.421Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -1454,17 +1454,6 @@ Provers and Shakers The big discovery this month was a new largest known prime n
         <summary type="html"><![CDATA[Sponsored Content From November 1st to November 21st, 2024 (8:00 am UTC), 365 Data Science offers free access to its comprehensive learning platform. This is...]]></summary>
         <author>
             <name>MLM Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WinSock 的 select 如何超过 64 个套接字限制？（三种方法）]]></title>
-        <id>https://skywind.me/blog/?p=3112</id>
-        <link href="https://skywind.me/blog/archives/3112"/>
-        <updated>2024-10-31T15:31:38.000Z</updated>
-        <summary type="html"><![CDATA[在做跨平台网络编程时，Windows 下面能够对应 epoll/kevent 这类 reactor 事件模型的 API 只有一个 select，但是却有数量限制，一次传入 select 的 socket 数量不能超过 FD_SETSIZE 个，而这个值是 64。 所以 java 里的 nio 的 select 在 windows 也有同样的数量限制，很多移植 Windows 的服务程序，用了 reactor 模型的大多有这样一个限制，让人觉得 Windows 下的服务程序性能很弱。 那么这个数量限制对开发一个高并发的服务器显然是不够的，我们是否有办法突破这个限制呢？而 cygwin 这类用 Win32 API 模拟 posix API 的系统，又是如何模拟不受限制的 … Continue reading →
-The post WinSock 的 select 如何超过 64 个套接字限制？（三种方法） appeared first on Skywind Inside.]]></summary>
-        <author>
-            <name>skywind</name>
         </author>
     </entry>
     <entry>
