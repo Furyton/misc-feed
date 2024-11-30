@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-11-30T18:25:13.127Z</updated>
+    <updated>2024-11-30T19:14:56.271Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -1422,28 +1422,6 @@ There was a MathOverflow thread about mathematically interesting games for 5–6
 The post WinSock 可以把 SOCKET 类型转换成 int 保存么？ appeared first on Skywind Inside.]]></summary>
         <author>
             <name>skywind</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Deep Dive on Cutlass Ping-Pong GEMM Kernel]]></title>
-        <id>https://pytorch.org/blog/cutlass-ping-pong-gemm-kernel/</id>
-        <link href="https://pytorch.org/blog/cutlass-ping-pong-gemm-kernel/"/>
-        <updated>2024-11-01T07:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<div type="html"/>]]></summary>
-        <author>
-            <name>PyTorch Website</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Carnival of Mathematics #233]]></title>
-        <id>https://www.jeremykun.com/2022/11/01/carnival-of-mathematics-233/</id>
-        <link href="https://www.jeremykun.com/2022/11/01/carnival-of-mathematics-233/"/>
-        <updated>2024-11-01T07:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Welcome to the 233rd Carnival of Mathematics!
-Who can forget 233, the 6th Fibonacci prime? Hey, not all numbers are interesting. Don’t ask me about the smallest positive uninteresting number. You can’t make it interesting with your feeble mind tricks! Anyway, on to the fun.
-Provers and Shakers The big discovery this month was a new largest known prime number, $2^{136279841} - 1$, as reported by the Great Internet Mersenne Prime Search.]]></summary>
-        <author>
-            <name>Math ∩ Programming</name>
         </author>
     </entry>
     <entry>
