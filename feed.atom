@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-12-01T06:28:02.055Z</updated>
+    <updated>2024-12-01T07:19:32.661Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Mandarin phonetic annotation for English]]></title>
+        <id>https://languagelog.ldc.upenn.edu/nll/?p=67136</id>
+        <link href="https://languagelog.ldc.upenn.edu/nll/?p=67136&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=mandarin-phonetic-annotation-for-english"/>
+        <updated>2024-12-01T05:48:49.000Z</updated>
+        <summary type="html"><![CDATA[The PRC uses hànyǔ pīnyīn 汉语拼音 ("Sinitic spelling") for phonetic annotation, Taiwan uses zhùyīn fúhào 注音符號 ("phonetic symbols") for the same purpose.  Since we are well acquainted with pīnyīn, but not very familiar with zhùyīn fúhào, I will focus on the latter in this post: Mark Swofford, "If you ever find yourself stuck on how to pronounce English", Pinyin […]]]></summary>
+        <author>
+            <name>Victor Mair</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Recycled bezoar, part 2]]></title>
         <id>https://languagelog.ldc.upenn.edu/nll/?p=67162</id>
