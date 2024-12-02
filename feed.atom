@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-12-02T10:23:18.116Z</updated>
+    <updated>2024-12-02T11:17:39.273Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Building a Graph RAG System: A Step-by-Step Approach]]></title>
+        <id>https://machinelearningmastery.com/?p=18702</id>
+        <link href="https://machinelearningmastery.com/building-graph-rag-system-step-by-step-approach/"/>
+        <updated>2024-12-02T11:00:29.000Z</updated>
+        <summary type="html"><![CDATA[Graph RAG, Graph RAG, Graph RAG! This term has become the talk of the town, and you might have come across it as well.]]></summary>
+        <author>
+            <name>Kanwal Mehreen</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[a minor typo, from 1986]]></title>
         <id>http://xianblog.wordpress.com/?p=57757</id>
