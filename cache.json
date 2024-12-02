@@ -1927,6 +1927,16 @@
       "siteUrl": "https://pytorch.org/",
       "articles": [
         {
+          "id": "https://pytorch.org/blog/hadacore/",
+          "author": null,
+          "description": "IBM: Krish Agarwal, Rishi Astra, Adnan Hoque, Mudhakar Srivatsa, Raghu Ganti Meta: Less Wright, Sijia Chen",
+          "link": "https://pytorch.org/blog/hadacore/",
+          "publishedOn": "2024-12-02T08:00:00.000Z",
+          "wordCount": 1786,
+          "title": "HadaCore: Tensor Core Accelerated Hadamard Transform Kernel",
+          "imageUrl": "https://pytorch.org/assets/images/social-share.jpg"
+        },
+        {
           "id": "https://pytorch.org/blog/training-using-float8-fsdp2/",
           "author": null,
           "description": "IBM: Tuan Hoang Trong, Alexei Karve, Yan Koyfman, Linsong Chu, Divya Kumari, Shweta Salaria, Robert Walkup, Praneet Adusumilli, Nirmit Desai, Raghu Ganti, Seetharami Seelam Meta: Less Wright, Wei Feng, Vasiliy Kuznetsov, Driss Guesseous",
@@ -2565,6 +2575,16 @@
       "feedUrl": "https://languagelog.ldc.upenn.edu/nll/?feed=rss2",
       "siteUrl": "https://languagelog.ldc.upenn.edu/nll",
       "articles": [
+        {
+          "id": "https://languagelog.ldc.upenn.edu/nll/?p=67178",
+          "author": "Mark Liberman",
+          "description": "Found on X: In the unlikely event that you aren't familiar with the memetic background, here's the cartoon's Wikipedia page as a start. And here's a page documenting the fact that The geographic distribution of coyotes (Canis latrans) has dramatically expanded since 1900, spreading across much of North America in a period when most other mammal […]",
+          "link": "https://languagelog.ldc.upenn.edu/nll/?p=67178&utm_source=rss&utm_medium=rss&utm_campaign=coyote-warning",
+          "publishedOn": "2024-12-02T21:16:45.000Z",
+          "wordCount": 2052,
+          "title": "Coyote warning",
+          "imageUrl": null
+        },
         {
           "id": "https://languagelog.ldc.upenn.edu/nll/?p=67165",
           "author": "Victor Mair",

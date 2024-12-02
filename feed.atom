@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-12-02T20:20:57.594Z</updated>
+    <updated>2024-12-02T21:18:56.152Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Coyote warning]]></title>
+        <id>https://languagelog.ldc.upenn.edu/nll/?p=67178</id>
+        <link href="https://languagelog.ldc.upenn.edu/nll/?p=67178&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=coyote-warning"/>
+        <updated>2024-12-02T21:16:45.000Z</updated>
+        <summary type="html"><![CDATA[Found on X: In the unlikely event that you aren't familiar with the memetic background, here's the cartoon's Wikipedia page as a start. And here's a page documenting the fact that The geographic distribution of coyotes (Canis latrans) has dramatically expanded since 1900, spreading across much of North America in a period when most other mammal […]]]></summary>
+        <author>
+            <name>Mark Liberman</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Manchu is not dead]]></title>
         <id>https://languagelog.ldc.upenn.edu/nll/?p=67165</id>
@@ -24,6 +34,16 @@
         <summary type="html"><![CDATA[Graph RAG, Graph RAG, Graph RAG! This term has become the talk of the town, and you might have come across it as well.]]></summary>
         <author>
             <name>Kanwal Mehreen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HadaCore: Tensor Core Accelerated Hadamard Transform Kernel]]></title>
+        <id>https://pytorch.org/blog/hadacore/</id>
+        <link href="https://pytorch.org/blog/hadacore/"/>
+        <updated>2024-12-02T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[IBM: Krish Agarwal, Rishi Astra, Adnan Hoque, Mudhakar Srivatsa, Raghu Ganti Meta: Less Wright, Sijia Chen]]></summary>
+        <author>
+            <name>PyTorch Website</name>
         </author>
     </entry>
     <entry>
