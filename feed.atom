@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-12-03T15:22:04.983Z</updated>
+    <updated>2024-12-03T16:25:53.911Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Project Projections]]></title>
+        <id>https://www.argmin.net/p/project-projections</id>
+        <link href="https://www.argmin.net/p/project-projections"/>
+        <updated>2024-12-03T15:31:55.000Z</updated>
+        <summary type="html"><![CDATA[A rough survey of submitted class projects]]></summary>
+        <author>
+            <name>Ben Recht</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Project Projections]]></title>
+        <id>https://www.argmin.net/p/project-projections</id>
+        <link href="https://www.argmin.net/p/project-projections"/>
+        <updated>2024-12-03T15:31:55.000Z</updated>
+        <summary type="html"><![CDATA[A rough survey of submitted class projects]]></summary>
+        <author>
+            <name>Ben Recht</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AI Overview (sometimes) admits that it doesn't have an answer]]></title>
         <id>https://languagelog.ldc.upenn.edu/nll/?p=67176</id>
@@ -1421,17 +1441,6 @@ Read more...]]></summary>
         <summary type="html"><![CDATA[Natural language generation (NLG) is an enthralling area of artificial intelligence (AI) , or more specifically of natural language processing (NLP) , aimed at enabling machines to produce human-like text that drives human-machine communication for problem-solving.]]></summary>
         <author>
             <name>Iván Palomares Carrascosa</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[异步事件模型的 Self-pipe trick]]></title>
-        <id>https://skywind.me/blog/?p=3163</id>
-        <link href="https://skywind.me/blog/archives/3163"/>
-        <updated>2024-11-04T03:41:09.000Z</updated>
-        <summary type="html"><![CDATA[异步事件模型中有一个重要问题是，当你的 select/poll 循环陷入等待时，没有办法被另外一个线程被唤醒，这导致了一系列问题： 1）在没有 pselect/ppoll 的系统上，信号无法中断 select/poll 等待，得不到即时处理； 2）另一个线程投递过来的消息，由于 select/poll 等待，无法得到即时处理； 3）调短 select/poll 的超时时间也无济于事，poll 的超时精度最低 1ms，粗糙的程序可能影响不大，但精细的程序却很难接受这个超时； 4）有的系统上即便你传了 1ms 进去，可能会等待出 15ms 也很正常。 比如主线程告诉网络线程要发送一个数据，网络线程还在 select/poll 那里空等待，根本没有机会知道自己自己的消息队列里来了新消息；或者多个 select/poll 循环放在不同线程里，当一个 accept 了一个新连接想转移给另一个时，没有办法通知另一个醒来即时处理。 解决这个问题的方法就叫做 self-pipe trick，顾名思义，就是创建一个匿名管道，或者 socketpair，把它加入 select/poll 中，然后另外一个线程想要唤醒它的话，就是往这个管道或者 socketpair 里写一个字节就行了。 类似 java 的 nio … Continue reading →
-The post 异步事件模型的 Self-pipe trick appeared first on Skywind Inside.]]></summary>
-        <author>
-            <name>skywind</name>
         </author>
     </entry>
     <entry>
