@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-12-03T10:23:02.581Z</updated>
+    <updated>2024-12-03T11:17:08.582Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Universités en danger]]></title>
+        <id>http://xianblog.wordpress.com/?p=58304</id>
+        <link href="https://xianblog.wordpress.com/2024/12/03/universites-en-danger/"/>
+        <updated>2024-12-03T11:12:17.000Z</updated>
+        <summary type="html"><![CDATA[Visit the post for more.]]></summary>
+        <author>
+            <name>xi'an</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Machine Learning vs. Traditional Analytics: When to Use Which?]]></title>
+        <id>https://machinelearningmastery.com/?p=18708</id>
+        <link href="https://machinelearningmastery.com/machine-learning-vs-traditional-analytics-when-use-which/"/>
+        <updated>2024-12-03T11:00:03.000Z</updated>
+        <summary type="html"><![CDATA[This article focuses on demystifying the difference between traditional data analytics methods vs.]]></summary>
+        <author>
+            <name>Iván Palomares Carrascosa</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[simulating a normal variate]]></title>
         <id>http://xianblog.wordpress.com/?p=57821</id>
