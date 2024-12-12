@@ -1355,6 +1355,16 @@
       "siteUrl": "https://gilkalai.wordpress.com",
       "articles": [
         {
+          "id": "http://gilkalai.wordpress.com/?p=27537",
+          "author": "Gil Kalai",
+          "description": "The 2019 paper “Quantum supremacy using a programmable superconducting processor”  asserted that Google’s Sycamore quantum computer,  with 53 qubits and a depth of 20, performed a specific computation in about 200 seconds. According to Google’s estimate, a state-of-the-art classical supercomputer … Continue reading →",
+          "link": "https://gilkalai.wordpress.com/2024/12/09/the-case-against-googles-claims-of-quantum-supremacy-a-very-short-introduction/",
+          "publishedOn": "2024-12-09T10:49:31.000Z",
+          "wordCount": 6946,
+          "title": "The Case Against Google’s Claims of “Quantum Supremacy”: A Very Short Introduction.",
+          "imageUrl": "https://gilkalai.wordpress.com/wp-content/uploads/2024/12/bnp5.png"
+        },
+        {
           "id": "http://gilkalai.wordpress.com/?p=27400",
           "author": "Gil Kalai",
           "description": "Prologue (Anton Kapustin): Arnold at the gym  A story about the mathematical experience as told by Anton Kapustin (over Facebook): While working out at the gym I was thinking about Kolmogorov-Arnold-Moser theory and whether it has a quantum analog. Suddenly … Continue reading →",
@@ -1401,6 +1411,16 @@
       "siteUrl": "https://kexue.fm/",
       "articles": [
         {
+          "id": "https://kexue.fm/archives/10592",
+          "author": "苏剑林",
+          "description": "随着LLM时代的到来，学术界对于优化器的研究热情似乎有所减退。这主要是因为目前主流的AdamW已经能够满足大多数需求，而如果对优化器“大动干戈”，那么需要巨大的验证成本。因此，当前优化器的变化，...",
+          "link": "https://kexue.fm/archives/10592",
+          "publishedOn": "2024-12-10T03:26:00.000Z",
+          "wordCount": 2328,
+          "title": "Muon优化器赏析：向量与矩阵有何本质区别？",
+          "imageUrl": null
+        },
+        {
           "id": "https://kexue.fm/archives/10588",
           "author": "苏剑林",
           "description": "这几天在重温去年的Meta的一篇论文《A Theory on Adam Instability in Large-Scale Machine Learning》，里边给出了看待Adam等自适应学...",
@@ -1438,16 +1458,6 @@
           "publishedOn": "2024-11-14T07:18:00.000Z",
           "wordCount": 2090,
           "title": "当Batch Size增大时，学习率该如何随之变化？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://kexue.fm/archives/10519",
-          "author": "苏剑林",
-          "description": "在《VQ的旋转技巧：梯度直通估计的一般推广》中，我们介绍了VQ（Vector Quantization）的Rotation Trick，它的思想是通过推广VQ的STE（Straight-Thro...",
-          "link": "https://kexue.fm/archives/10519",
-          "publishedOn": "2024-11-06T09:13:00.000Z",
-          "wordCount": 1625,
-          "title": "VQ的又一技巧：给编码表加一个线性变换",
           "imageUrl": null
         }
       ]
@@ -1496,6 +1506,38 @@
       "feedUrl": "https://www.argmin.net/feed.xml",
       "siteUrl": "https://www.argmin.net",
       "articles": [
+        {
+          "id": "https://www.argmin.net/p/qualitative-quantitative-models",
+          "author": "Ben Recht",
+          "description": "A systems view of calcium homeostasis and its implications",
+          "link": "https://www.argmin.net/p/qualitative-quantitative-models",
+          "publishedOn": "2024-12-10T15:59:57.000Z",
+          "wordCount": null,
+          "title": "Qualitative quantitative models",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substack-post-media.s3.amazonaws.com/public/images/703442e6-73a2-49cf-9709-6022a2cacdbf_840x600.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substack-post-media.s3.amazonaws.com/public/images/703442e6-73a2-49cf-9709-6022a2cacdbf_840x600.jpeg"
+        },
+        {
+          "id": "https://www.argmin.net/p/wisdom-without-a-brain",
+          "author": "Ben Recht",
+          "description": "Thinking through my preparation of a lecture about homeostasis",
+          "link": "https://www.argmin.net/p/wisdom-without-a-brain",
+          "publishedOn": "2024-12-05T15:47:18.000Z",
+          "wordCount": null,
+          "title": "Wisdom without a brain",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substack-post-media.s3.amazonaws.com/public/images/8f9e9e9f-1dad-4074-b053-754b9e166984_840x600.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substack-post-media.s3.amazonaws.com/public/images/8f9e9e9f-1dad-4074-b053-754b9e166984_840x600.jpeg"
+        },
         {
           "id": "https://www.argmin.net/p/project-projections",
           "author": "Ben Recht",
@@ -1607,54 +1649,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substack-post-media.s3.amazonaws.com/public/images/e971c1ec-e012-47f0-847b-9c5205c82969_840x599.jpeg"
-        },
-        {
-          "id": "https://www.argmin.net/p/indiscipline",
-          "author": "Ben Recht",
-          "description": "Can convex optimization ever be a technology?",
-          "link": "https://www.argmin.net/p/indiscipline",
-          "publishedOn": "2024-11-12T15:44:16.000Z",
-          "wordCount": null,
-          "title": "Indiscipline",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substack-post-media.s3.amazonaws.com/public/images/48df92ea-7b0f-4e8f-bfc5-a4990b395c31_840x600.jpeg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substack-post-media.s3.amazonaws.com/public/images/48df92ea-7b0f-4e8f-bfc5-a4990b395c31_840x600.jpeg"
-        },
-        {
-          "id": "https://www.argmin.net/p/the-central-path",
-          "author": "Ben Recht",
-          "description": "The brilliant simplicity of primal-dual interior point methods.",
-          "link": "https://www.argmin.net/p/the-central-path",
-          "publishedOn": "2024-11-07T15:03:07.000Z",
-          "wordCount": null,
-          "title": "The Central Path",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substack-post-media.s3.amazonaws.com/public/images/1f2cff78-b93c-4530-9624-b555e37347bd_1100x219.jpeg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substack-post-media.s3.amazonaws.com/public/images/1f2cff78-b93c-4530-9624-b555e37347bd_1100x219.jpeg"
-        },
-        {
-          "id": "https://www.argmin.net/p/halo-in-a-haystack",
-          "author": "Ben Recht",
-          "description": "Convergence analysis is great as long as you don't take it too seriously",
-          "link": "https://www.argmin.net/p/halo-in-a-haystack",
-          "publishedOn": "2024-11-05T14:59:18.000Z",
-          "wordCount": null,
-          "title": "Halo in a Haystack",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substack-post-media.s3.amazonaws.com/public/images/05046f55-2498-49c6-b206-7b2dd0f3cad1_840x600.jpeg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substack-post-media.s3.amazonaws.com/public/images/05046f55-2498-49c6-b206-7b2dd0f3cad1_840x600.jpeg"
         }
       ]
     },
@@ -1664,14 +1658,14 @@
       "siteUrl": "https://pythonspeed.com/atom.xml",
       "articles": [
         {
-          "id": "https://pythonspeed.com/articles/simd-stable-rust/",
+          "id": "https://pythonspeed.com/articles/co2-emissions-software/",
           "author": null,
-          "description": "In a previous post we saw that you can speed up code significantly on a single core using SIMD: Single Instruction Multiple Data.\nThese specialized CPU instructions allow you to, for example, add 4 values at once with a single instruction, instead of the usual one value at a time.\nThe performance improvement you get compounds with multi-core parallelism: you can benefit from both SIMD and threading at the same time.\nUnfortunately, SIMD instructions are specific both to CPU architecture and CPU model.\nThus ARM CPUs as used on modern Macs have different SIMD instructions than x86-64 CPUs.\nAnd even if you only care about x86-64, different models support different instructions; the i7-12700K CPU in my current computer doesn’t support AVX-512 SIMD, for example.\nOne way to deal with this is to write custom versions for each variation of SIMD instructions.\nAnother is to use a portable SIMD library, that provides an abstraction layer on top of these various instruction sets.\nIn the previous post we used the std::simd library.\nIt is built-in to the Rust standard library… but unfortunately it’s currently only available when using an unstable (“nightly”) compiler.\nHow you can write portable SIMD if you want to use stable Rust?\nIn this article we’ll:\nIntroduce the wide crate, that lets you write portable SIMD in stable Rust.\nShow how it can be used to reimplement the Mandelbrot algorithm we previously implemented with std::simd.\nGo over the pros and cons of these alternatives.\nRead more...",
-          "link": "https://pythonspeed.com/articles/simd-stable-rust/",
-          "publishedOn": "2024-11-12T00:00:00.000Z",
-          "wordCount": 1312,
-          "title": "Using portable SIMD in stable Rust",
-          "imageUrl": "https://pythonspeed.com/assets/titles/simd-stable-rust.png"
+          "description": "What can you as a software developer do to fight climate change?\nMy first and primary answer is getting involved with local politics.\nHowever, if you write software that operates at sufficient scale, you can also reduce carbon emissions by making your software faster.\nIn this article we’ll cover:\nWhy more computation uses more electricity.\nWhy you probably don’t need to think about this most of the time.\nReducing emissions by reducing compute time.\nReducing emissions with parallelism (even with the same amount of compute time!).\nSome alternative scenarios and caveats: embodied emissions and Jevons Paradox.\nRead more...",
+          "link": "https://pythonspeed.com/articles/co2-emissions-software/",
+          "publishedOn": "2024-12-09T00:00:00.000Z",
+          "wordCount": 1610,
+          "title": "Reducing CO₂ emissions with faster software",
+          "imageUrl": "https://pythonspeed.com/assets/titles/co2-emissions-software.png"
         }
       ]
     },
@@ -1726,18 +1720,7 @@
       "title": "The Berkeley Artificial Intelligence Research Blog",
       "feedUrl": "https://bair.berkeley.edu/blog/feed",
       "siteUrl": "http://bair.berkeley.edu/blog/",
-      "articles": [
-        {
-          "id": "http://bair.berkeley.edu/blog/2024/11/12/virutal-persona-llm/",
-          "author": null,
-          "description": "Anthology, a method for conditioning LLMs to representative, consistent, and diverse virtual personas by generating and utilizing naturalistic backstories with rich details of individual values and experience.\n -->\n\n\n\n\nWe introduce Anthology, a method for conditioning LLMs to representative, consistent, and diverse virtual personas by generating and utilizing naturalistic backstories with rich details of individual values and experience.\n\n\nWhat does it mean for large language models (LLMs) to be trained on massive text corpora, collectively produced by millions and billions of distinctive human authors?\nIn “Language Models as Agent Models”, compelling evidence suggests that recent language models could be considered models of agents: provided with a textual context, LLMs are capable of gen…",
-          "link": "http://bair.berkeley.edu/blog/2024/11/12/virutal-persona-llm/",
-          "publishedOn": "2024-11-12T09:00:00.000Z",
-          "wordCount": 1127,
-          "title": "Virtual Personas for Language Models via an Anthology of Backstories",
-          "imageUrl": "http://bair.berkeley.edu/blog/assets/virtual_personas/header.png"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "inFERENCe",
@@ -1783,6 +1766,46 @@
       "feedUrl": "https://machinelearningmastery.com/feed/",
       "siteUrl": "https://machinelearningmastery.com/",
       "articles": [
+        {
+          "id": "https://machinelearningmastery.com/?p=18734",
+          "author": "Jayita Gulati",
+          "description": "In an industry as competitive as machine learning (ML), job position candidates need a well-structured portfolio and access to all the avenues to gain industry exposure.",
+          "link": "https://machinelearningmastery.com/ultimate-guide-building-machine-learning-portfolio-lands-jobs/",
+          "publishedOn": "2024-12-10T17:32:28.000Z",
+          "wordCount": null,
+          "title": "The Ultimate Guide to Building a Machine Learning Portfolio That Lands Jobs",
+          "imageUrl": null
+        },
+        {
+          "id": "https://machinelearningmastery.com/?p=18728",
+          "author": "Iván Palomares Carrascosa",
+          "description": "This article provides a comprehensive step-by-step guide designed to help you navigate the challenge of optimizing your machine learning (ML) models for production, by looking at all stages in their development lifecycle, i.",
+          "link": "https://machinelearningmastery.com/optimizing-machine-learning-models-production-step-by-step-guide/",
+          "publishedOn": "2024-12-09T11:00:48.000Z",
+          "wordCount": null,
+          "title": "Optimizing Machine Learning Models for Production: A Step-by-Step Guide",
+          "imageUrl": null
+        },
+        {
+          "id": "https://machinelearningmastery.com/?p=18714",
+          "author": "Kanwal Mehreen",
+          "description": "I believe in the 'learning by doing' approach—you learn more this way.",
+          "link": "https://machinelearningmastery.com/5-beginner-friendly-projects-learn-llms-rag/",
+          "publishedOn": "2024-12-05T11:00:20.000Z",
+          "wordCount": null,
+          "title": "5 Beginner-Friendly Projects to Learn LLMs & RAG",
+          "imageUrl": null
+        },
+        {
+          "id": "https://machinelearningmastery.com/?p=18720",
+          "author": "Josep Ferrer",
+          "description": "The AI field is rapidly evolving, becoming one of the most dynamic areas within machine learning.",
+          "link": "https://machinelearningmastery.com/5-free-apis-building-ai-applications/",
+          "publishedOn": "2024-12-04T11:00:19.000Z",
+          "wordCount": null,
+          "title": "5 Free APIs for Building AI Applications",
+          "imageUrl": null
+        },
         {
           "id": "https://machinelearningmastery.com/?p=18708",
           "author": "Iván Palomares Carrascosa",
@@ -1872,26 +1895,6 @@
           "wordCount": null,
           "title": "Mastering the Art of Hyperparameter Tuning: Tips, Tricks, and Tools",
           "imageUrl": null
-        },
-        {
-          "id": "https://machinelearningmastery.com/?p=18445",
-          "author": "Iván Palomares Carrascosa",
-          "description": "This article explains, through clear guidelines, how to choose the right machine learning (ML) algorithm or model for different types of real-world and business problems.",
-          "link": "https://machinelearningmastery.com/practical-guide-choosing-right-algorithm-your-problem/",
-          "publishedOn": "2024-11-11T09:00:56.000Z",
-          "wordCount": null,
-          "title": "A Practical Guide to Choosing the Right Algorithm for Your Problem: From Regression to Neural Networks",
-          "imageUrl": null
-        },
-        {
-          "id": "https://machinelearningmastery.com/?p=18575",
-          "author": "Cornellius Yudha Wijaya",
-          "description": "In real life, the machine learning model is not a standalone object that only produces a prediction.",
-          "link": "https://machinelearningmastery.com/robust-machine-learning-pipeline-best-practices-common-pitfalls/",
-          "publishedOn": "2024-11-05T09:00:19.000Z",
-          "wordCount": null,
-          "title": "Building a Robust Machine Learning Pipeline: Best Practices and Common Pitfalls",
-          "imageUrl": null
         }
       ]
     },
@@ -1942,6 +1945,36 @@
       "feedUrl": "https://pytorch.org/feed",
       "siteUrl": "https://pytorch.org/",
       "articles": [
+        {
+          "id": "https://pytorch.org/blog/torchcodec/",
+          "author": null,
+          "description": "We are pleased to officially announce torchcodec, a library for decoding videos into PyTorch tensors. It is fast, accurate, and easy to use. When running PyTorch models on videos, torchcodec is our recommended way to turn those videos into data your model can use.",
+          "link": "https://pytorch.org/blog/torchcodec/",
+          "publishedOn": "2024-12-11T08:00:00.000Z",
+          "wordCount": 1607,
+          "title": "torchcodec: Easy and Efficient Video Decoding for PyTorch",
+          "imageUrl": "https://pytorch.org/assets/images/social-share.jpg"
+        },
+        {
+          "id": "https://pytorch.org/blog/vllm-joins-pytorch/",
+          "author": null,
+          "description": "<div type=\"html\"/>",
+          "link": "https://pytorch.org/blog/vllm-joins-pytorch/",
+          "publishedOn": "2024-12-09T08:00:00.000Z",
+          "wordCount": 1411,
+          "title": "vLLM Joins PyTorch Ecosystem: Easy, Fast, and Cheap LLM Serving for Everyone",
+          "imageUrl": "https://pytorch.org/assets/images/social-share.jpg"
+        },
+        {
+          "id": "https://pytorch.org/blog/accelerating-gemms-triton/",
+          "author": null,
+          "description": "2D block quantization for Float8 (FP8) holds the promise of improving the accuracy of Float8 quantization while also accelerating GEMM’s for both inference and training. In this blog, we showcase advances using Triton for the two main phases involved in doing block quantized Float8 GEMMs.",
+          "link": "https://pytorch.org/blog/accelerating-gemms-triton/",
+          "publishedOn": "2024-12-06T08:00:00.000Z",
+          "wordCount": 2388,
+          "title": "Accelerating 2D Dynamic Block Quantized Float8 GEMMs in Triton",
+          "imageUrl": "https://pytorch.org/assets/images/social-share.jpg"
+        },
         {
           "id": "https://pytorch.org/blog/hadacore/",
           "author": null,
@@ -2035,6 +2068,38 @@
       "siteUrl": "https://www.argmin.net",
       "articles": [
         {
+          "id": "https://www.argmin.net/p/qualitative-quantitative-models",
+          "author": "Ben Recht",
+          "description": "A systems view of calcium homeostasis and its implications",
+          "link": "https://www.argmin.net/p/qualitative-quantitative-models",
+          "publishedOn": "2024-12-10T15:59:57.000Z",
+          "wordCount": null,
+          "title": "Qualitative quantitative models",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substack-post-media.s3.amazonaws.com/public/images/703442e6-73a2-49cf-9709-6022a2cacdbf_840x600.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substack-post-media.s3.amazonaws.com/public/images/703442e6-73a2-49cf-9709-6022a2cacdbf_840x600.jpeg"
+        },
+        {
+          "id": "https://www.argmin.net/p/wisdom-without-a-brain",
+          "author": "Ben Recht",
+          "description": "Thinking through my preparation of a lecture about homeostasis",
+          "link": "https://www.argmin.net/p/wisdom-without-a-brain",
+          "publishedOn": "2024-12-05T15:47:18.000Z",
+          "wordCount": null,
+          "title": "Wisdom without a brain",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substack-post-media.s3.amazonaws.com/public/images/8f9e9e9f-1dad-4074-b053-754b9e166984_840x600.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substack-post-media.s3.amazonaws.com/public/images/8f9e9e9f-1dad-4074-b053-754b9e166984_840x600.jpeg"
+        },
+        {
           "id": "https://www.argmin.net/p/project-projections",
           "author": "Ben Recht",
           "description": "A rough survey of submitted class projects",
@@ -2145,54 +2210,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substack-post-media.s3.amazonaws.com/public/images/e971c1ec-e012-47f0-847b-9c5205c82969_840x599.jpeg"
-        },
-        {
-          "id": "https://www.argmin.net/p/indiscipline",
-          "author": "Ben Recht",
-          "description": "Can convex optimization ever be a technology?",
-          "link": "https://www.argmin.net/p/indiscipline",
-          "publishedOn": "2024-11-12T15:44:16.000Z",
-          "wordCount": null,
-          "title": "Indiscipline",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substack-post-media.s3.amazonaws.com/public/images/48df92ea-7b0f-4e8f-bfc5-a4990b395c31_840x600.jpeg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substack-post-media.s3.amazonaws.com/public/images/48df92ea-7b0f-4e8f-bfc5-a4990b395c31_840x600.jpeg"
-        },
-        {
-          "id": "https://www.argmin.net/p/the-central-path",
-          "author": "Ben Recht",
-          "description": "The brilliant simplicity of primal-dual interior point methods.",
-          "link": "https://www.argmin.net/p/the-central-path",
-          "publishedOn": "2024-11-07T15:03:07.000Z",
-          "wordCount": null,
-          "title": "The Central Path",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substack-post-media.s3.amazonaws.com/public/images/1f2cff78-b93c-4530-9624-b555e37347bd_1100x219.jpeg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substack-post-media.s3.amazonaws.com/public/images/1f2cff78-b93c-4530-9624-b555e37347bd_1100x219.jpeg"
-        },
-        {
-          "id": "https://www.argmin.net/p/halo-in-a-haystack",
-          "author": "Ben Recht",
-          "description": "Convergence analysis is great as long as you don't take it too seriously",
-          "link": "https://www.argmin.net/p/halo-in-a-haystack",
-          "publishedOn": "2024-11-05T14:59:18.000Z",
-          "wordCount": null,
-          "title": "Halo in a Haystack",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substack-post-media.s3.amazonaws.com/public/images/05046f55-2498-49c6-b206-7b2dd0f3cad1_840x600.jpeg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substack-post-media.s3.amazonaws.com/public/images/05046f55-2498-49c6-b206-7b2dd0f3cad1_840x600.jpeg"
         }
       ]
     },
@@ -2201,6 +2218,16 @@
       "feedUrl": "https://gilkalai.wordpress.com/feed/",
       "siteUrl": "https://gilkalai.wordpress.com",
       "articles": [
+        {
+          "id": "http://gilkalai.wordpress.com/?p=27537",
+          "author": "Gil Kalai",
+          "description": "The 2019 paper “Quantum supremacy using a programmable superconducting processor”  asserted that Google’s Sycamore quantum computer,  with 53 qubits and a depth of 20, performed a specific computation in about 200 seconds. According to Google’s estimate, a state-of-the-art classical supercomputer … Continue reading →",
+          "link": "https://gilkalai.wordpress.com/2024/12/09/the-case-against-googles-claims-of-quantum-supremacy-a-very-short-introduction/",
+          "publishedOn": "2024-12-09T10:49:31.000Z",
+          "wordCount": 6946,
+          "title": "The Case Against Google’s Claims of “Quantum Supremacy”: A Very Short Introduction.",
+          "imageUrl": "https://gilkalai.wordpress.com/wp-content/uploads/2024/12/bnp5.png"
+        },
         {
           "id": "http://gilkalai.wordpress.com/?p=27400",
           "author": "Gil Kalai",
@@ -2224,6 +2251,106 @@
       "feedUrl": "https://xianblog.wordpress.com/feed/",
       "siteUrl": "https://xianblog.wordpress.com",
       "articles": [
+        {
+          "id": "http://xianblog.wordpress.com/?p=58270",
+          "author": "xi'an",
+          "description": "George Deligiannidis, Pierre E. Jacob, El Mahdi Khribch, and Guanyang Wang just arXived a paper on the respective behaviours of importance sampling and independent Metropolis–Hastings (IMH) under the same proposal when the importance weight is unbounded but enjoys a p-th moment with p≥2. Both algorithms are sharing a lot, with importance sampling appearing as a […]",
+          "link": "https://xianblog.wordpress.com/2024/12/12/importance-sampling-and-independent-metropolis-hastings-with-unbounded-weights/",
+          "publishedOn": "2024-12-11T23:24:50.000Z",
+          "wordCount": 2898,
+          "title": "importance sampling and independent Metropolis–Hastings with unbounded weights",
+          "imageUrl": "https://xianblog.wordpress.com/wp-content/uploads/2012/05/pict0016.jpg?w=450"
+        },
+        {
+          "id": "http://xianblog.wordpress.com/?p=58371",
+          "author": "xi'an",
+          "description": "Visit the post for more.",
+          "link": "https://xianblog.wordpress.com/2024/12/11/international-mountain-day-celebrate-protect/",
+          "publishedOn": "2024-12-11T19:04:48.000Z",
+          "wordCount": 2476,
+          "title": "International Mountain Day [celebrate & protect!]",
+          "imageUrl": "https://xianblog.wordpress.com/wp-content/uploads/2011/02/angarbhanach2.jpg"
+        },
+        {
+          "id": "http://xianblog.wordpress.com/?p=58250",
+          "author": "xi'an",
+          "description": "Read The Sparrow, the 1998 Arthur C. Clarke Award by Mary Doria Russell, a profound and mesmerizing book (even though it took me a while to go through it as my bedside read!). It is a science-fiction book (since the mostly Jesuitcharacters travel to another planet in Alpha Centauri) that involves a lot of philosophy, […]",
+          "link": "https://xianblog.wordpress.com/2024/12/11/a-journal-of-the-chaos-conquest-war-famine-and-death-year-5/",
+          "publishedOn": "2024-12-10T23:24:28.000Z",
+          "wordCount": 2779,
+          "title": "a journal of the skyr, conquest, war, famine, and death year",
+          "imageUrl": "https://brewminate.com/wp-content/uploads/2020/04/041220-32-History-Daniel-Defoe-Literature-Plague-Disease.jpg"
+        },
+        {
+          "id": "http://xianblog.wordpress.com/?p=58328",
+          "author": "xi'an",
+          "description": "Visit the post for more.",
+          "link": "https://xianblog.wordpress.com/2024/12/10/amnestys-report-on-israels-genocide-against-palestinians-in-gaza/",
+          "publishedOn": "2024-12-09T23:24:30.000Z",
+          "wordCount": 2484,
+          "title": "Amnesty’s report on Israel’s Genocide Against Palestinians in Gaza",
+          "imageUrl": "https://xianblog.wordpress.com/wp-content/uploads/2024/12/temp-1.png"
+        },
+        {
+          "id": "http://xianblog.wordpress.com/?p=58340",
+          "author": "xi'an",
+          "description": "Visit the post for more.",
+          "link": "https://xianblog.wordpress.com/2024/12/09/journee-de-la-laicite/",
+          "publishedOn": "2024-12-08T23:24:12.000Z",
+          "wordCount": 2389,
+          "title": "journée de la laïcité",
+          "imageUrl": "https://pedagogie.ac-toulouse.fr/prim82/sites/default/files/2023-11/Journ%C3%A9e-de-la-la%C3%AFcit%C3%A9.jpg"
+        },
+        {
+          "id": "http://xianblog.wordpress.com/?p=58315",
+          "author": "xi'an",
+          "description": "Visit the post for more.",
+          "link": "https://xianblog.wordpress.com/2024/12/08/back-on-trance/",
+          "publishedOn": "2024-12-08T19:24:38.000Z",
+          "wordCount": 2376,
+          "title": "back on trance",
+          "imageUrl": "https://img.lemde.fr/2024/11/29/0/0/5784/3856/800/0/75/0/de6e889_5382561-01-06.jpg"
+        },
+        {
+          "id": "http://xianblog.wordpress.com/?p=58309",
+          "author": "xi'an",
+          "description": "Visit the post for more.",
+          "link": "https://xianblog.wordpress.com/2024/12/07/xmastly-monte-carlo/",
+          "publishedOn": "2024-12-06T23:24:46.000Z",
+          "wordCount": 2461,
+          "title": "Xmastly Monte Carlo [13/12]",
+          "imageUrl": "https://xianblog.wordpress.com/wp-content/uploads/2024/12/temp.png"
+        },
+        {
+          "id": "http://xianblog.wordpress.com/?p=58333",
+          "author": "xi'an",
+          "description": "Visit the post for more.",
+          "link": "https://xianblog.wordpress.com/2024/12/06/pierre-jacob-awarded-an-erc-consolidator-grant-congrats/",
+          "publishedOn": "2024-12-05T23:24:15.000Z",
+          "wordCount": 2470,
+          "title": "Pierre Jacob awarded an ERC-Consolidator grant [congrats!]",
+          "imageUrl": "https://xianblog.wordpress.com/wp-content/uploads/2024/12/temp-2.png"
+        },
+        {
+          "id": "http://xianblog.wordpress.com/?p=58320",
+          "author": "xi'an",
+          "description": "Visit the post for more.",
+          "link": "https://xianblog.wordpress.com/2024/12/05/manners-cover/",
+          "publishedOn": "2024-12-05T11:24:35.000Z",
+          "wordCount": 2391,
+          "title": "manners! [cover]",
+          "imageUrl": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:mhzk3blh4pfxo3fqh2meowbb/bafkreigxjtxfrnfjb74v5u3u6cuo56xzqhbqxwvwsyho4a2tppw53hhihi@jpeg"
+        },
+        {
+          "id": "http://xianblog.wordpress.com/?p=58176",
+          "author": "xi'an",
+          "description": "The running shoe company Hoka (One One) is known *among runners at least) for its oversized soles that allow more cushion than competitors. (It was created in Annecy, French Alps, for local trailers, before being bought by an American group. The name of the brand means flying on Earth in Maori.) I had never tried […]",
+          "link": "https://xianblog.wordpress.com/2024/12/05/trialing-a-porschoe/",
+          "publishedOn": "2024-12-04T23:24:06.000Z",
+          "wordCount": 2822,
+          "title": "trialing a Porsch[o]e",
+          "imageUrl": "https://xianblog.wordpress.com/wp-content/uploads/2024/11/1731824183539-e1731824673942.jpeg"
+        },
         {
           "id": "http://xianblog.wordpress.com/?p=58152",
           "author": "xi'an",
@@ -2473,96 +2600,6 @@
           "wordCount": 2841,
           "title": "banKrUpt, franc’route",
           "imageUrl": "https://xianblog.wordpress.com/wp-content/uploads/2024/10/1728462902700-e1728464571302.jpg"
-        },
-        {
-          "id": "http://xianblog.wordpress.com/?p=57882",
-          "author": "xi'an",
-          "description": "Visit the post for more.",
-          "link": "https://xianblog.wordpress.com/2024/11/13/filogenesi-della-pasta-ripiena/",
-          "publishedOn": "2024-11-12T23:24:06.000Z",
-          "wordCount": 2386,
-          "title": "filogenesi della pasta ripiena",
-          "imageUrl": "https://media.springernature.com/full/springer-static/image/art%3A10.1007%2Fs44187-024-00136-1/MediaObjects/44187_2024_136_Fig1_HTML.png"
-        },
-        {
-          "id": "http://xianblog.wordpress.com/?p=57976",
-          "author": "xi'an",
-          "description": "Bayesian Inference: Theory, Methods, Computations by Silvelyn Zwanzig and Rauf Ahmad, both from Uppsala University, is a recent book published by Chapman & Hall / CRC Press. About 300p long (plus appendices), it covers the core aspects of Bayesian inference, namely the decision theoretic motivations, its asymptotic validation, the specifics of estimation and testing, and […]",
-          "link": "https://xianblog.wordpress.com/2024/11/12/bayesian-inference-theory-methods-computations-book-review/",
-          "publishedOn": "2024-11-11T23:24:31.000Z",
-          "wordCount": 2874,
-          "title": "Bayesian Inference: Theory, Methods, Computations [book review]",
-          "imageUrl": "https://xianblog.wordpress.com/wp-content/uploads/2024/10/screenshot-2024-10-29-at-09-22-22-e58d9ae5aea2e4be86-bayesian-inference-theory-methods-computations.png"
-        },
-        {
-          "id": "http://xianblog.wordpress.com/?p=57659",
-          "author": "xi'an",
-          "description": "Visit the post for more.",
-          "link": "https://xianblog.wordpress.com/2024/11/11/the-cure-alone/",
-          "publishedOn": "2024-11-10T23:24:30.000Z",
-          "wordCount": 2358,
-          "title": "The Cure: Alone",
-          "imageUrl": "http://img.youtube.com/vi/sx9SVAtMkJM/0.jpg"
-        },
-        {
-          "id": "http://xianblog.wordpress.com/?p=57795",
-          "author": "xi'an",
-          "description": "Visit the post for more.",
-          "link": "https://xianblog.wordpress.com/2024/11/10/art-brut-91/",
-          "publishedOn": "2024-11-09T23:24:11.000Z",
-          "wordCount": 2432,
-          "title": "art brut [#91]",
-          "imageUrl": "https://xianblog.wordpress.com/wp-content/uploads/2024/10/1728121195964-e1728377955203.jpg"
-        },
-        {
-          "id": "http://xianblog.wordpress.com/?p=57887",
-          "author": "xi'an",
-          "description": "Read Guerre (War) by Louis-Ferdinand Céline (with a cover by Tardi, as for the other books of his in the Folio collection), a recent recovery of a 1934 manuscript that had been stolen from his Paris apartment in 1944 when he fled to Sigamaringen along with the collaborationist Pétain government. As described (with much whining […]",
-          "link": "https://xianblog.wordpress.com/2024/11/09/a-journal-of-the-chaos-conquest-war-famine-and-death-year-3/",
-          "publishedOn": "2024-11-08T23:24:38.000Z",
-          "wordCount": 2767,
-          "title": "a journal of the chaos, conquest, guerre, famine, and death year",
-          "imageUrl": "https://xianblog.wordpress.com/wp-content/uploads/2024/10/1729233909687-e1729235491921.jpg"
-        },
-        {
-          "id": "http://xianblog.wordpress.com/?p=57908",
-          "author": "xi'an",
-          "description": "As often, I came a’X this 2007 paper following an X-validated (if poorly worded) question that linked to it. With weird arguments: Computing an unbiased estimate of the integral induced by an unnormalised density f is a poor sales argument, as the renormalised object is not a probability density. Call to the unbiased approximation of […]",
-          "link": "https://xianblog.wordpress.com/2024/11/08/unbiased-estimation-of-a-reciprocal/",
-          "publishedOn": "2024-11-07T23:24:06.000Z",
-          "wordCount": 2640,
-          "title": "unbiased estimation of a reciprocal",
-          "imageUrl": "https://xianblog.wordpress.com/wp-content/uploads/2024/10/temp-2.png"
-        },
-        {
-          "id": "http://xianblog.wordpress.com/?p=58081",
-          "author": "xi'an",
-          "description": "Visit the post for more.",
-          "link": "https://xianblog.wordpress.com/2024/11/07/the-problem-with-non-stationary-processes-xkcd/",
-          "publishedOn": "2024-11-06T23:24:21.000Z",
-          "wordCount": 2369,
-          "title": "the problem with non-stationary processes [xkcd]",
-          "imageUrl": "https://imgs.xkcd.com/comics/electoral_precedent.png"
-        },
-        {
-          "id": "http://xianblog.wordpress.com/?p=57846",
-          "author": "xi'an",
-          "description": "The next O’Bayes conference will take place in Athens, 8-12 June 2025. Registration is open, as well as a call for posters. As in (all?) earlier episodes of these Objective Bayes methodology conferences, speakers and discussants are invited by the scientific committee. And the first afternoon consists of tutorials on different aspects of Objective Bayes […]",
-          "link": "https://xianblog.wordpress.com/2024/11/06/obayes-2025-%ce%bc%ce%b5-%ce%b1%ce%b8%ce%b7%ce%bd%ce%b1%cf%8a%ce%ba%cf%8c-%ce%ac%cf%81%cf%89%ce%bc%ce%b1/",
-          "publishedOn": "2024-11-05T23:25:03.000Z",
-          "wordCount": 2567,
-          "title": "O’Bayes 2025 [με αθηναϊκό άρωμα]",
-          "imageUrl": "https://xianblog.wordpress.com/wp-content/uploads/2009/09/img_6153.jpg"
-        },
-        {
-          "id": "http://xianblog.wordpress.com/?p=57996",
-          "author": "xi'an",
-          "description": "Visit the post for more.",
-          "link": "https://xianblog.wordpress.com/2024/11/05/shallow-big-man-jatp/",
-          "publishedOn": "2024-11-04T23:24:51.000Z",
-          "wordCount": 2488,
-          "title": "shallow big man [jatp?]",
-          "imageUrl": "https://xianblog.wordpress.com/wp-content/uploads/2024/10/1730298492420-e1730311407462.jpg"
         }
       ]
     },
@@ -2606,6 +2643,131 @@
       "feedUrl": "https://languagelog.ldc.upenn.edu/nll/?feed=rss2",
       "siteUrl": "https://languagelog.ldc.upenn.edu/nll",
       "articles": [
+        {
+          "id": "https://languagelog.ldc.upenn.edu/nll/?p=67231",
+          "author": "Victor Mair",
+          "description": "\"Mysterious tablet with unknown language unearthed in Georgia\", by Dario Radley, Archeology News (12/4/24) Tablet with inscription in an unknown language, discovered in Georgia. Credit: R. Shengelia et al., Journal of Ancient History and Archaeology Graphic representation of Bashplemi inscription characters and their numbering. Credit: R. Shengelia et al., Journal of Ancient History and Archaeology […]",
+          "link": "https://languagelog.ldc.upenn.edu/nll/?p=67231&utm_source=rss&utm_medium=rss&utm_campaign=enigmatic-writing-from-the-republic-of-georgia",
+          "publishedOn": "2024-12-12T05:04:28.000Z",
+          "wordCount": 2700,
+          "title": "Enigmatic writing from the Republic of Georgia",
+          "imageUrl": null
+        },
+        {
+          "id": "https://languagelog.ldc.upenn.edu/nll/?p=67268",
+          "author": "Victor Mair",
+          "description": "When I write in Chinese, I generally use pinyin input.  Yesterday, having finished a message to someone, I entered the following:  meiweiheng.  I was both surprised and pleased that up popped my full name in Chinese characters:  Méi Wéihéng 梅维恒.  In the past, I would usually have to call up the characters one or two […]",
+          "link": "https://languagelog.ldc.upenn.edu/nll/?p=67268&utm_source=rss&utm_medium=rss&utm_campaign=si-jia-%25e5%258f%25b8%25e4%25bd%25b3-1978-2020-a-remembrance",
+          "publishedOn": "2024-12-12T00:07:12.000Z",
+          "wordCount": 3079,
+          "title": "Si Jia 司佳 (1978-2020):  a remembrance",
+          "imageUrl": null
+        },
+        {
+          "id": "https://languagelog.ldc.upenn.edu/nll/?p=67258",
+          "author": "Victor Mair",
+          "description": "When I went to the restroom at Heathrow Terminal 5 in London, I was stopped in my tracks by the sign \"Cleaner's Sluice\" on a door just outside.  I knew what a \"sluice\" was, in fact I knew several related meanings for sluice: An artificial passage for water, fitted with a valve or gate, for […]",
+          "link": "https://languagelog.ldc.upenn.edu/nll/?p=67258&utm_source=rss&utm_medium=rss&utm_campaign=cleaners-sluice",
+          "publishedOn": "2024-12-10T23:28:44.000Z",
+          "wordCount": 2529,
+          "title": "Cleaner's sluice",
+          "imageUrl": null
+        },
+        {
+          "id": "https://languagelog.ldc.upenn.edu/nll/?p=67260",
+          "author": "Mark Liberman",
+          "description": "That seems to be reader RBM's reaction to the headline \"K-Pop Light Sticks Fire up Impeachment Protests in South Korea\", Reuters 12/10/2024. For whatever reason — maybe the picture at the top of the story — I understood the headline immediately. But the Berkeley Neural Parser makes the same mistake as RBM: Spacy's analysis of […]",
+          "link": "https://languagelog.ldc.upenn.edu/nll/?p=67260&utm_source=rss&utm_medium=rss&utm_campaign=who-stuck-fire-up-where",
+          "publishedOn": "2024-12-10T13:30:03.000Z",
+          "wordCount": 3906,
+          "title": "Who stuck fire up where?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://languagelog.ldc.upenn.edu/nll/?p=67253",
+          "author": "Mark Liberman",
+          "description": "Today's SMBC: The mouse-over title: \"Constructing the 30,000-tone language for Anne was more challenging.\" The AfterComic: The phrase \"with every word consisting of two identical syllables\" is misleading,as the tone-marking diacritics on the strip's transcriptions indicate, since the tone markings are different across the two syllables in e.g. Chérŷl Chе̄rȳl So the number of possible […]",
+          "link": "https://languagelog.ldc.upenn.edu/nll/?p=67253&utm_source=rss&utm_medium=rss&utm_campaign=hypertonal-conlang",
+          "publishedOn": "2024-12-08T19:22:55.000Z",
+          "wordCount": 4559,
+          "title": "Hypertonal conlang",
+          "imageUrl": null
+        },
+        {
+          "id": "https://languagelog.ldc.upenn.edu/nll/?p=67233",
+          "author": "Mark Liberman",
+          "description": "According to the publicity page: One fall day in 2018, Ellen Jovin set up a folding table on a Manhattan sidewalk with a sign that said “Grammar Table.” Right away, passersby began excitedly asking questions, telling stories, and filing complaints. What happened next is the stuff of grammar legend. Ellen and her filmmaker husband, Brandt […]",
+          "link": "https://languagelog.ldc.upenn.edu/nll/?p=67233&utm_source=rss&utm_medium=rss&utm_campaign=rebel-with-a-clause",
+          "publishedOn": "2024-12-08T14:32:32.000Z",
+          "wordCount": 3003,
+          "title": "\"Rebel With A Clause\"",
+          "enclosure": {
+            "url": "https://languagelog.ldc.upenn.edu/myl/RebelWithAClause.mp4",
+            "length": "298025353",
+            "type": "video/mp4"
+          },
+          "imageUrl": null
+        },
+        {
+          "id": "https://languagelog.ldc.upenn.edu/nll/?p=67226",
+          "author": "Victor Mair",
+          "description": "After watching this video, I asked about a dozen of my current and former graduate students and colleagues from the PRC what Sinitic topolect they thought the Chinese man was speaking.  They all placed it somewhere in the north, most of them in the region where Henan and Shandong intersect, but there were other surmises […]",
+          "link": "https://languagelog.ldc.upenn.edu/nll/?p=67226&utm_source=rss&utm_medium=rss&utm_campaign=mandarin-topolect-in-the-congo",
+          "publishedOn": "2024-12-08T00:20:08.000Z",
+          "wordCount": 2961,
+          "title": "Mandarin topolect in the Congo",
+          "imageUrl": null
+        },
+        {
+          "id": "https://languagelog.ldc.upenn.edu/nll/?p=67193",
+          "author": "Victor Mair",
+          "description": "Chatting with my London cabbie on a longish ride, I was intrigued by how he frequently referred to \"the Knowledge\".  He did so respectfully and reverently, as though it were a sacred catechism he had mastered after years of diligent study.  Even though he was speaking, it always sounded as though it came with a […]",
+          "link": "https://languagelog.ldc.upenn.edu/nll/?p=67193&utm_source=rss&utm_medium=rss&utm_campaign=the-knowledge",
+          "publishedOn": "2024-12-07T04:27:30.000Z",
+          "wordCount": 4065,
+          "title": "The Knowledge",
+          "imageUrl": null
+        },
+        {
+          "id": "https://languagelog.ldc.upenn.edu/nll/?p=67214",
+          "author": "Mark Liberman",
+          "description": "From The Washington Post: The Oxford English Dictionary blew it in The Oxford English Dictionary blew it in anointing “brain rot” as the word of the year. First off, that’s two words. But the real miss was overlooking the rightful winner, “slop,” which was on the dictionary publisher’s short list for word of the year. […]",
+          "link": "https://languagelog.ldc.upenn.edu/nll/?p=67214&utm_source=rss&utm_medium=rss&utm_campaign=more-woty-action",
+          "publishedOn": "2024-12-05T20:28:23.000Z",
+          "wordCount": 4701,
+          "title": "More WotY action",
+          "imageUrl": null
+        },
+        {
+          "id": "https://languagelog.ldc.upenn.edu/nll/?p=67210",
+          "author": "Mark Liberman",
+          "description": "OpenAI comms: [underspecific hype-y 'big tings coming!!' pls like and subscribe] Google comms: [corporate vagueness about Gemini3-0011 v2 FINAL.docx on Vertex available to 14 users] GDM comms: [we have simulated a rat's brain capable of solving 4D chess, but we're not sure why]… — Séb Krier (@sebkrier) December 3, 2024 If you want to read […]",
+          "link": "https://languagelog.ldc.upenn.edu/nll/?p=67210&utm_source=rss&utm_medium=rss&utm_campaign=more-ai-satire",
+          "publishedOn": "2024-12-05T17:54:51.000Z",
+          "wordCount": 2331,
+          "title": "More AI satire",
+          "imageUrl": null
+        },
+        {
+          "id": "https://languagelog.ldc.upenn.edu/nll/?p=67198",
+          "author": "Mark Liberman",
+          "description": "Previous LLOG coverage: \"AI on Rs in 'strawberry'\", 8/28/2024; \"'The cosmic jam from whence it came'\", 9/26/2024. Current satire: Alberto Romero, \"Report: OpenAI Spends Millions a Year Miscounting the R’s in ‘Strawberry’\", Medium 11/22/2024. OpenAI, the most talked-about tech start-up of the decade, convened an emergency company-wide meeting Tuesday to address what executives are calling […]",
+          "link": "https://languagelog.ldc.upenn.edu/nll/?p=67198&utm_source=rss&utm_medium=rss&utm_campaign=the-letter-equity-task-force",
+          "publishedOn": "2024-12-05T11:06:56.000Z",
+          "wordCount": 4895,
+          "title": "The \"Letter Equity Task Force\"",
+          "imageUrl": null
+        },
+        {
+          "id": "https://languagelog.ldc.upenn.edu/nll/?p=67189",
+          "author": "Victor Mair",
+          "description": "This post doesn't cite any Iranian language materials directly, but I dare say that Iranian speakers were involved in the transmission of this large hoard from western Central Asia more than a thousand miles distant and were present in the British Isles during the first millennium AD. \"Amazing’ Viking-age treasure travelled half the world to […]",
+          "link": "https://languagelog.ldc.upenn.edu/nll/?p=67189&utm_source=rss&utm_medium=rss&utm_campaign=iranians-in-medieval-scotland",
+          "publishedOn": "2024-12-04T20:18:16.000Z",
+          "wordCount": 4016,
+          "title": "Iranians in medieval Scotland",
+          "imageUrl": null
+        },
         {
           "id": "https://languagelog.ldc.upenn.edu/nll/?p=67176",
           "author": "Victor Mair",
@@ -2974,136 +3136,6 @@
           "publishedOn": "2024-11-13T12:06:24.000Z",
           "wordCount": 2852,
           "title": "Galen  (129-216 AD) in China:  cancer / crab",
-          "imageUrl": null
-        },
-        {
-          "id": "https://languagelog.ldc.upenn.edu/nll/?p=66936",
-          "author": "Mark Liberman",
-          "description": "Today's xkcd: Mouseover title: \"There's a maximum likelihood that I'm doing phylogenetics wrong.\" It's not that Randall is \"doing phylogenetics wrong\", but rather than he's applying it to an inappropriate problem. The OED's etymology for phylogeny is < German Phylogenie (E. Haeckel Gen. Morphol. der Organismen (1866) I. iii. 57) < Phylum phylum n. + […]",
-          "link": "https://languagelog.ldc.upenn.edu/nll/?p=66936&utm_source=rss&utm_medium=rss&utm_campaign=geometriphylogenetics",
-          "publishedOn": "2024-11-12T17:50:10.000Z",
-          "wordCount": 2244,
-          "title": "Geometriphylogenetics",
-          "imageUrl": null
-        },
-        {
-          "id": "https://languagelog.ldc.upenn.edu/nll/?p=66927",
-          "author": "Mark Liberman",
-          "description": "An interesting recent review article (Wooster et al., \"Animal cognition and culture mediate predator–prey interactions\", Trends in Ecology & Evolution 2024) argues for bridging the academic silos of \"predator-prey ecology\" and \"animal cognition and culture\": Abstract: Predator–prey ecology and the study of animal cognition and culture have emerged as independent disciplines. Research combining these disciplines […]",
-          "link": "https://languagelog.ldc.upenn.edu/nll/?p=66927&utm_source=rss&utm_medium=rss&utm_campaign=cognition-culture-and-communication",
-          "publishedOn": "2024-11-11T13:13:17.000Z",
-          "wordCount": 2324,
-          "title": "Cognition, culture, … and communication?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://languagelog.ldc.upenn.edu/nll/?p=66910",
-          "author": "Victor Mair",
-          "description": "[This is a guest post by Denis Mair]      Cai Xutie was a Taiwanese woman who ran a family farm with her husband in a village near Jiayi in central Taiwan. She was a rice farmer and had never attended a public school. After her husband died in middle age, she sold some of the land, […]",
-          "link": "https://languagelog.ldc.upenn.edu/nll/?p=66910&utm_source=rss&utm_medium=rss&utm_campaign=biblical-and-budai-taiwanese-vernacular-literary-oral-written",
-          "publishedOn": "2024-11-10T12:21:52.000Z",
-          "wordCount": 2602,
-          "title": "Biblical and Budai Taiwanese:  vernacular, literary; oral, written",
-          "imageUrl": null
-        },
-        {
-          "id": "https://languagelog.ldc.upenn.edu/nll/?p=66900",
-          "author": "Victor Mair",
-          "description": "There is a discussion on Linguistics Stack Exchange whether wristwatch in Chinese came from the French: As a native French speaker studying Mandarin Chinese, I couldn't help but notice that the Chinese term for wristwatch, 手表 (hand-show), is quite similar to the French term \"une montre\" (a \"shower\"/display). After further inspection, I notice that other […]",
-          "link": "https://languagelog.ldc.upenn.edu/nll/?p=66900&utm_source=rss&utm_medium=rss&utm_campaign=wristwatch",
-          "publishedOn": "2024-11-09T13:29:09.000Z",
-          "wordCount": 2530,
-          "title": "Wristwatch",
-          "imageUrl": null
-        },
-        {
-          "id": "https://languagelog.ldc.upenn.edu/nll/?p=66904",
-          "author": "Mark Liberman",
-          "description": "The first two panels of yesterday's SMBC: The last two: Back in 1979, David Macauley's Motel of the Mysteries had a much longer story to tell about archeologists' presuppositions. Macauley's plot loosely satirizes the work of Heinrich and Sophia Schliemann in excavating Troy, and also echoes Howard Carter's excavation of Tutankhamunn's tomb. It's 4022, and […]",
-          "link": "https://languagelog.ldc.upenn.edu/nll/?p=66904&utm_source=rss&utm_medium=rss&utm_campaign=bayesian-archeology",
-          "publishedOn": "2024-11-09T13:18:29.000Z",
-          "wordCount": 2471,
-          "title": "Bayesian archeology",
-          "imageUrl": null
-        },
-        {
-          "id": "https://languagelog.ldc.upenn.edu/nll/?p=66883",
-          "author": "Victor Mair",
-          "description": "In recent weeks and months, we've been having many posts and comments about Taiwanese language.  Today's post is quite different:  it's all about the difference between Mandarin as spoken on the mainland and as spoken on Taiwan. \"Words of Influence: PRC terms and Taiwanese identity\", by Karen Huang, Taiwan Insight (8 November 2024) What is […]",
-          "link": "https://languagelog.ldc.upenn.edu/nll/?p=66883&utm_source=rss&utm_medium=rss&utm_campaign=taiwan-mandarin-vs-mainland-mandarin",
-          "publishedOn": "2024-11-09T00:49:47.000Z",
-          "wordCount": 2599,
-          "title": "Taiwan Mandarin vs. Mainland Mandarin",
-          "imageUrl": null
-        },
-        {
-          "id": "https://languagelog.ldc.upenn.edu/nll/?p=66885",
-          "author": "Mark Liberman",
-          "description": "A serious volcanic eruption on Flores Island has been going on since October 30: The Pusat Vulkanologi dan Mitigasi Bencana Geologi (PVMBG) reported that eruptive activity intensified at Lewotobi Laki-laki during 30 October-5 November, which included a major eruption resulting in fatalities. The large explosive eruption began at 2357 on 3 November, generating pyroclastic flows […]",
-          "link": "https://languagelog.ldc.upenn.edu/nll/?p=66885&utm_source=rss&utm_medium=rss&utm_campaign=lewotobi-laki-laki",
-          "publishedOn": "2024-11-08T18:27:36.000Z",
-          "wordCount": 2445,
-          "title": "Lewotobi Laki-laki",
-          "imageUrl": null
-        },
-        {
-          "id": "https://languagelog.ldc.upenn.edu/nll/?p=66873",
-          "author": "Victor Mair",
-          "description": "[This is a guest post by Michael Witzel] A few months ago you published a discussion of whimsical surnames. Since then I have paid attention and have found new ones in  almost every news broadcast. It is said that there are 1 million (!) surnames in the German speaking area of some 95 million people […]",
-          "link": "https://languagelog.ldc.upenn.edu/nll/?p=66873&utm_source=rss&utm_medium=rss&utm_campaign=whimsical-surnames-part-2-again-mostly-german",
-          "publishedOn": "2024-11-08T05:21:45.000Z",
-          "wordCount": 2321,
-          "title": "Whimsical surnames, part 2 (again mostly German)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://languagelog.ldc.upenn.edu/nll/?p=66870",
-          "author": "Victor Mair",
-          "description": "Below are two lists of nominations for Japanese buzzword of the year.  Each has 30 entries, and from each list one will be chosen as the respective winner.  Since the two lists are already quite long and rich, I will keep my own comments (mostly at the bottom and focusing on phoneticization) to a minimum. […]",
-          "link": "https://languagelog.ldc.upenn.edu/nll/?p=66870&utm_source=rss&utm_medium=rss&utm_campaign=a-bushel-of-buzzwords-from-japan-the-advent-of-phoneticization",
-          "publishedOn": "2024-11-06T22:13:04.000Z",
-          "wordCount": 4783,
-          "title": "A bushel of buzzwords from Japan; the advent of phoneticization",
-          "imageUrl": null
-        },
-        {
-          "id": "https://languagelog.ldc.upenn.edu/nll/?p=66846",
-          "author": "Victor Mair",
-          "description": "For basic facts, see below. Thanks to AI and our Japanese colleagues, the study of Peru's mysterious Nazca lines has made a quantum leap forward. AI Revealed a New Trove of Massive Ancient Symbols The 2,000-year-old geoglyphs offer clues to ancient Nazca people and their rituals By Aylin Woodward, Science Shorts, WSJ (Nov. 6, 2024) […]",
-          "link": "https://languagelog.ldc.upenn.edu/nll/?p=66846&utm_source=rss&utm_medium=rss&utm_campaign=nazca-lines",
-          "publishedOn": "2024-11-06T21:45:43.000Z",
-          "wordCount": 2734,
-          "title": "Nazca lines",
-          "imageUrl": null
-        },
-        {
-          "id": "https://languagelog.ldc.upenn.edu/nll/?p=66849",
-          "author": "Mark Liberman",
-          "description": "That's all I've got, so far, for linguistic commentary on the U.S. election results. According to the OED, the etymology of ballot is < (i) Middle French ballotte (French †ballotte) small ball (beginning of the 15th cent. as †balote), small coloured ball placed in a container to register a secret vote (1498) or its etymon […]",
-          "link": "https://languagelog.ldc.upenn.edu/nll/?p=66849&utm_source=rss&utm_medium=rss&utm_campaign=the-etymologies-of-ballot-and-bigot",
-          "publishedOn": "2024-11-06T12:30:50.000Z",
-          "wordCount": 2998,
-          "title": "The etymologies of ballot and bigot",
-          "imageUrl": null
-        },
-        {
-          "id": "https://languagelog.ldc.upenn.edu/nll/?p=66765",
-          "author": "Victor Mair",
-          "description": "This is a story we've been following for well over a decade (see \"Selected readings\").  Improbable as it may seem that the Korean alphabet might be adaptable for writing an Austronesian language of Indonesia, there are some promoters of this idea who continue to push it enthusiastically: \"An Indonesian Tribe’s Language Gets an Alphabet: Korea’sThe […]",
-          "link": "https://languagelog.ldc.upenn.edu/nll/?p=66765&utm_source=rss&utm_medium=rss&utm_campaign=not-giving-up-on-hangul-for-cia-cia",
-          "publishedOn": "2024-11-05T15:30:39.000Z",
-          "wordCount": 2880,
-          "title": "Not giving up on Hangul for Cia-Cia",
-          "imageUrl": null
-        },
-        {
-          "id": "https://languagelog.ldc.upenn.edu/nll/?p=66838",
-          "author": "Mark Liberman",
-          "description": "\"To what extent is science a strong-link problem?\", Sauropod Vertebra Picture of the Week, 10/30/2024 [emphasis added]: Here’s a fascinating and worrying news story in Science: a top US researcher apparently falsified a lot of images (at least) in papers that helped get experimental drugs on the market — papers that were published in top […]",
-          "link": "https://languagelog.ldc.upenn.edu/nll/?p=66838&utm_source=rss&utm_medium=rss&utm_campaign=what-does-it-mean-to-wane-philosophical",
-          "publishedOn": "2024-11-05T12:21:38.000Z",
-          "wordCount": 2525,
-          "title": "What does it mean to \"wane philosophical\"?",
           "imageUrl": null
         }
       ]
