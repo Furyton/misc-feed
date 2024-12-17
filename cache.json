@@ -1355,6 +1355,16 @@
       "siteUrl": "https://gilkalai.wordpress.com",
       "articles": [
         {
+          "id": "http://gilkalai.wordpress.com/?p=26404",
+          "author": "Gil Kalai",
+          "description": "Peter Sarnak will give the Gordon memorial lectures at the Hebrew University of Jerusalem. At the end of December 2024, Peter Sarnak will deliver the Mark Gordon memorial lecture series on Spectra of locally symmetric geometries at the Hebrew University … Continue reading →",
+          "link": "https://gilkalai.wordpress.com/2024/12/15/peter-sarnak-is-coming-to-town-lets-celebrate-it-with-a-post-on-mobius-randomness-computational-complexity-and-ai/",
+          "publishedOn": "2024-12-15T18:20:10.000Z",
+          "wordCount": 5754,
+          "title": "Peter Sarnak is Coming to Town – Let’s Celebrate it with a Post on Möbius Randomness, Computational Complexity, and AI",
+          "imageUrl": "https://gilkalai.wordpress.com/wp-content/uploads/2024/12/sarnakdec24.png"
+        },
+        {
           "id": "http://gilkalai.wordpress.com/?p=27537",
           "author": "Gil Kalai",
           "description": "The 2019 paper “Quantum supremacy using a programmable superconducting processor”  asserted that Google’s Sycamore quantum computer,  with 53 qubits and a depth of 20, performed a specific computation in about 200 seconds. According to Google’s estimate, a state-of-the-art classical supercomputer … Continue reading →",
@@ -1386,18 +1396,7 @@
       "title": "Windows On Theory",
       "feedUrl": "https://windowsontheory.org/feed/",
       "siteUrl": "https://windowsontheory.org",
-      "articles": [
-        {
-          "id": "http://windowsontheory.org/?p=8799",
-          "author": "Boaz Barak",
-          "description": "(From Sergey Yekhanin; committee chair) Please nominate people to the Kanellakis award – deadline is December 15. https://awards.acm.org/kanellakis/nominations",
-          "link": "https://windowsontheory.org/2024/11/15/acm-paris-kanellakis-theory-and-practice-award/",
-          "publishedOn": "2024-11-15T19:35:54.000Z",
-          "wordCount": 3641,
-          "title": "ACM Paris Kanellakis Theory and Practice Award",
-          "imageUrl": "https://s0.wp.com/i/blank.jpg"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "UCSD Machine Learning Group",
@@ -1410,6 +1409,16 @@
       "feedUrl": "https://kexue.fm/feed/",
       "siteUrl": "https://kexue.fm/",
       "articles": [
+        {
+          "id": "https://kexue.fm/archives/10617",
+          "author": "苏剑林",
+          "description": "这篇文章我们再次聚焦于扩散模型的采样加速。众所周知，扩散模型的采样加速主要有两种思路，一是开发更高效的求解器，二是事后蒸馏。然而，据笔者观察，除了上两篇文章介绍过的SiD外，这两种方案都鲜有能将...",
+          "link": "https://kexue.fm/archives/10617",
+          "publishedOn": "2024-12-15T08:20:00.000Z",
+          "wordCount": 1673,
+          "title": "生成扩散模型漫谈（二十七）：将步长作为条件输入",
+          "imageUrl": null
+        },
         {
           "id": "https://kexue.fm/archives/10592",
           "author": "苏剑林",
@@ -1448,16 +1457,6 @@
           "publishedOn": "2024-11-18T10:01:00.000Z",
           "wordCount": 1844,
           "title": "Adam的epsilon如何影响学习率的Scaling Law？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://kexue.fm/archives/10542",
-          "author": "苏剑林",
-          "description": "随着算力的飞速进步，有越多越多的场景希望能够实现“算力换时间”，即通过堆砌算力来缩短模型训练时间。理想情况下，我们希望投入$k$倍的算力，那么达到同样效果的时间则缩短为$1/k$，此时总的算力成...",
-          "link": "https://kexue.fm/archives/10542",
-          "publishedOn": "2024-11-14T07:18:00.000Z",
-          "wordCount": 2090,
-          "title": "当Batch Size增大时，学习率该如何随之变化？",
           "imageUrl": null
         }
       ]
@@ -1506,6 +1505,54 @@
       "feedUrl": "https://www.argmin.net/feed.xml",
       "siteUrl": "https://www.argmin.net",
       "articles": [
+        {
+          "id": "https://www.argmin.net/p/controlled-chaos",
+          "author": "Ben Recht",
+          "description": "Perfect adaptation, overshoot, and stress response",
+          "link": "https://www.argmin.net/p/controlled-chaos",
+          "publishedOn": "2024-12-17T15:34:34.000Z",
+          "wordCount": null,
+          "title": "Controlled Chaos",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substack-post-media.s3.amazonaws.com/public/images/d8ba2a19-ac25-4300-ac5a-99d7e9b42b8a_840x599.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substack-post-media.s3.amazonaws.com/public/images/d8ba2a19-ac25-4300-ac5a-99d7e9b42b8a_840x599.jpeg"
+        },
+        {
+          "id": "https://www.argmin.net/p/perfect-adaptation",
+          "author": "Ben Recht",
+          "description": "And why integral action is necessary for adapting to the unknown.",
+          "link": "https://www.argmin.net/p/perfect-adaptation",
+          "publishedOn": "2024-12-13T16:29:26.000Z",
+          "wordCount": null,
+          "title": "Perfect Adaptation",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substack-post-media.s3.amazonaws.com/public/images/88bba9b7-de6b-47ae-a7de-5c4c51203e4d_1100x219.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substack-post-media.s3.amazonaws.com/public/images/88bba9b7-de6b-47ae-a7de-5c4c51203e4d_1100x219.jpeg"
+        },
+        {
+          "id": "https://www.argmin.net/p/adaptive-ingredients",
+          "author": "Ben Recht",
+          "description": "A common pattern in homeostatic systems looks a lot like gradient descent",
+          "link": "https://www.argmin.net/p/adaptive-ingredients",
+          "publishedOn": "2024-12-12T15:02:52.000Z",
+          "wordCount": null,
+          "title": "Adaptive Ingredients",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substack-post-media.s3.amazonaws.com/public/images/032c3add-c359-495a-b232-f6fca13fe0b0_840x599.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substack-post-media.s3.amazonaws.com/public/images/032c3add-c359-495a-b232-f6fca13fe0b0_840x599.jpeg"
+        },
         {
           "id": "https://www.argmin.net/p/qualitative-quantitative-models",
           "author": "Ben Recht",
@@ -1617,38 +1664,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substack-post-media.s3.amazonaws.com/public/images/3cd723cf-559d-4a36-bdca-2d3b4d3ecc3b_840x600.jpeg"
-        },
-        {
-          "id": "https://www.argmin.net/p/dual-decomposition",
-          "author": "Ben Recht",
-          "description": "The tricks of the trade for running gradient descent on dual problems",
-          "link": "https://www.argmin.net/p/dual-decomposition",
-          "publishedOn": "2024-11-14T15:25:11.000Z",
-          "wordCount": null,
-          "title": "Dual Decomposition",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substack-post-media.s3.amazonaws.com/public/images/c49ffdb6-2a06-44fd-b556-e15407759138_840x599.jpeg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substack-post-media.s3.amazonaws.com/public/images/c49ffdb6-2a06-44fd-b556-e15407759138_840x599.jpeg"
-        },
-        {
-          "id": "https://www.argmin.net/p/the-art-of-deconstraining",
-          "author": "Ben Recht",
-          "description": "A guide to convex optimization in Pytorch.",
-          "link": "https://www.argmin.net/p/the-art-of-deconstraining",
-          "publishedOn": "2024-11-13T15:17:39.000Z",
-          "wordCount": null,
-          "title": "The Art of Deconstraining",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substack-post-media.s3.amazonaws.com/public/images/e971c1ec-e012-47f0-847b-9c5205c82969_840x599.jpeg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substack-post-media.s3.amazonaws.com/public/images/e971c1ec-e012-47f0-847b-9c5205c82969_840x599.jpeg"
         }
       ]
     },
@@ -1740,6 +1755,66 @@
       "siteUrl": "https://deepmind.google/discover/blog/",
       "articles": [
         {
+          "id": "https://deepmind.google/discover/blog/facts-grounding-a-new-benchmark-for-evaluating-the-factuality-of-large-language-models/",
+          "author": null,
+          "description": "Our comprehensive benchmark and online leaderboard offer a much-needed measure of how accurately LLMs ground their responses in provided source material and avoid hallucinations",
+          "link": "https://deepmind.google/discover/blog/facts-grounding-a-new-benchmark-for-evaluating-the-factuality-of-large-language-models/",
+          "publishedOn": "2024-12-17T15:29:45.000Z",
+          "wordCount": 1496,
+          "title": "FACTS Grounding: A new benchmark for evaluating the factuality of large language models",
+          "imageUrl": "https://lh3.googleusercontent.com/PNlhxhf4LKLRCezIt7Ap358F91-vbK5dLp56Ak1FejpCZh3YTp6jGqIDJm9c0iAtx8Y73MCTu279c1k2GZkM2qXXaqx315NSOaSiU0y0ATMK2c2Hyw=w1200-h630-n-nu"
+        },
+        {
+          "id": "https://deepmind.google/discover/blog/state-of-the-art-video-and-image-generation-with-veo-2-and-imagen-3/",
+          "author": null,
+          "description": "We’re rolling out a new, state-of-the-art video model, Veo 2, and updates to Imagen 3. Plus, check out our new experiment, Whisk.",
+          "link": "https://deepmind.google/discover/blog/state-of-the-art-video-and-image-generation-with-veo-2-and-imagen-3/",
+          "publishedOn": "2024-12-16T17:01:16.000Z",
+          "wordCount": 4046,
+          "title": "State-of-the-art video and image generation with Veo 2 and Imagen 3",
+          "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/12-16-24_GenMedia_16x9.width-1300.png"
+        },
+        {
+          "id": "https://deepmind.google/discover/blog/introducing-gemini-20-our-new-ai-model-for-the-agentic-era/",
+          "author": null,
+          "description": "Today, we’re announcing Gemini 2.0, our most capable multimodal AI model yet.",
+          "link": "https://deepmind.google/discover/blog/introducing-gemini-20-our-new-ai-model-for-the-agentic-era/",
+          "publishedOn": "2024-12-11T15:30:40.000Z",
+          "wordCount": 3683,
+          "title": "Introducing Gemini 2.0: our new AI model for the agentic era",
+          "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/blog_gemini_hero_thumbnail.width-1300.png"
+        },
+        {
+          "id": "https://deepmind.google/discover/blog/google-deepmind-at-neurips-2024/",
+          "author": null,
+          "description": "Advancing adaptive AI agents, empowering 3D scene creation, and innovating LLM training for a smarter, safer future",
+          "link": "https://deepmind.google/discover/blog/google-deepmind-at-neurips-2024/",
+          "publishedOn": "2024-12-05T17:45:00.000Z",
+          "wordCount": 1721,
+          "title": "Google DeepMind at NeurIPS 2024",
+          "imageUrl": "https://lh3.googleusercontent.com/cKpWE16vpsZ21VcH-_SdGF8tQEeEMp2phWFajdBq_A7aMVS2axiXQzd7V8mlHdJm-CXVKh1IaY3yeM_lAwu_zxc6SIBdWahdN6nYoaQqUbC8uU0qoY8=w1200-h630-n-nu"
+        },
+        {
+          "id": "https://deepmind.google/discover/blog/gencast-predicts-weather-and-the-risks-of-extreme-conditions-with-sota-accuracy/",
+          "author": null,
+          "description": "New AI model advances the prediction of weather uncertainties and risks, delivering faster, more accurate forecasts up to 15 days ahead",
+          "link": "https://deepmind.google/discover/blog/gencast-predicts-weather-and-the-risks-of-extreme-conditions-with-sota-accuracy/",
+          "publishedOn": "2024-12-04T15:59:00.000Z",
+          "wordCount": 1893,
+          "title": "GenCast predicts weather and the risks of extreme conditions with state-of-the-art accuracy",
+          "imageUrl": "https://lh3.googleusercontent.com/4u3n6FBe0eE86yXgppDN_yj_AkiCF5FaSToa8f3Mh5bFWzIH01ewGN737emoYKcGXLxQagYFMxi9j-cAZyAzkdFndCDg2ne9E42w4YZD7HyBChaf=w1200-h630-n-nu"
+        },
+        {
+          "id": "https://deepmind.google/discover/blog/genie-2-a-large-scale-foundation-world-model/",
+          "author": null,
+          "description": "Generating unlimited diverse training environments for future general agents",
+          "link": "https://deepmind.google/discover/blog/genie-2-a-large-scale-foundation-world-model/",
+          "publishedOn": "2024-12-04T14:23:00.000Z",
+          "wordCount": 2682,
+          "title": "Genie 2: A large-scale foundation world model",
+          "imageUrl": "https://lh3.googleusercontent.com/wvcJdqh_wddVc-WiMGgcqe7nWp7Ybu0wd-PBDxC_VUQkfxI7HPfQz3fi_HyYTOoRM_XV3Bofp9l1wBZ1CJPZPG6yZMdZxqH8X7_Lb9nhVAquAul1=w1200-h630-n-nu"
+        },
+        {
           "id": "https://deepmind.google/discover/blog/alphaqubit-tackles-one-of-quantum-computings-biggest-challenges/",
           "author": null,
           "description": "Our new AI system accurately identifies errors inside quantum computers, helping to make this new technology more reliable.",
@@ -1766,6 +1841,36 @@
       "feedUrl": "https://machinelearningmastery.com/feed/",
       "siteUrl": "https://machinelearningmastery.com/",
       "articles": [
+        {
+          "id": "https://machinelearningmastery.com/?p=18752",
+          "author": "Jayita Gulati",
+          "description": "The adoption of machine learning (ML) continues at a rapid pace, as it has proven itself a powerful tool for solving many problems.",
+          "link": "https://machinelearningmastery.com/7-machine-learning-projects-beginners/",
+          "publishedOn": "2024-12-17T15:50:16.000Z",
+          "wordCount": null,
+          "title": "7 Machine Learning Projects For Beginners",
+          "imageUrl": null
+        },
+        {
+          "id": "https://machinelearningmastery.com/?p=18746",
+          "author": "Iván Palomares Carrascosa",
+          "description": "This article will navigate you through the deployment of a simple machine learning (ML) for regression using Streamlit.",
+          "link": "https://machinelearningmastery.com/how-to-quickly-deploy-machine-learning-models-streamlit/",
+          "publishedOn": "2024-12-16T09:00:32.000Z",
+          "wordCount": null,
+          "title": "How to Quickly Deploy Machine Learning Models with Streamlit",
+          "imageUrl": null
+        },
+        {
+          "id": "https://machinelearningmastery.com/?p=18740",
+          "author": "Jayita Gulati",
+          "description": "Podcasts are a fun and easy way to learn about machine learning.",
+          "link": "https://machinelearningmastery.com/10-podcasts-every-machine-learning-enthusiast-subscribe/",
+          "publishedOn": "2024-12-13T11:00:06.000Z",
+          "wordCount": null,
+          "title": "10 Podcasts That Every Machine Learning Enthusiast Should Subscribe To",
+          "imageUrl": null
+        },
         {
           "id": "https://machinelearningmastery.com/?p=18734",
           "author": "Jayita Gulati",
@@ -1874,26 +1979,6 @@
           "publishedOn": "2024-11-18T15:34:00.000Z",
           "wordCount": null,
           "title": "Building Your First Chatbot: A Hands-On Tutorial with Open-Source Tools",
-          "imageUrl": null
-        },
-        {
-          "id": "https://machinelearningmastery.com/?p=18664",
-          "author": "Matthew Mayo",
-          "description": "It's easy enough to make poor decisions in your machine learning projects that derail your efforts and jeopardize your outcomes, especially as a beginner.",
-          "link": "https://machinelearningmastery.com/5-tips-for-avoiding-common-rookie-mistakes-in-machine-learning-projects/",
-          "publishedOn": "2024-11-15T09:00:55.000Z",
-          "wordCount": null,
-          "title": "5 Tips for Avoiding Common Rookie Mistakes in Machine Learning Projects",
-          "imageUrl": null
-        },
-        {
-          "id": "https://machinelearningmastery.com/?p=18657",
-          "author": "Iván Palomares Carrascosa",
-          "description": "Machine learning (ML) models contain numerous adjustable settings called hyperparameters that control how they learn from data.",
-          "link": "https://machinelearningmastery.com/mastering-the-art-of-hyperparameter-tuning-tips-tricks-and-tools/",
-          "publishedOn": "2024-11-14T16:22:40.000Z",
-          "wordCount": null,
-          "title": "Mastering the Art of Hyperparameter Tuning: Tips, Tricks, and Tools",
           "imageUrl": null
         }
       ]
@@ -2027,28 +2112,7 @@
       "title": "Math ∩ Programming",
       "feedUrl": "https://jeremykun.com/feed/",
       "siteUrl": "https://www.jeremykun.com/",
-      "articles": [
-        {
-          "id": "https://www.jeremykun.com/shortform/2024-11-15-0831/",
-          "author": null,
-          "description": "In my little corner of the FHE world, things have been steadily heating up.\nFor those who don’t know, my main work project right now is HEIR (Homomorphic Encryption Intermediate Representation), a compiler toolchain for fully homomorphic encryption (FHE). For an extended introduction see this talk from October 2023.\nThe primary focus of HEIR is to compile to FHE hardware accelerators. And boy there are a lot of them. There are GPU and FPGA accelerators, as well as special purpose ASICs and even optical accelerators (discrete Fourier transforms at the speed of light).",
-          "link": "https://www.jeremykun.com/shortform/2024-11-15-0831/",
-          "publishedOn": "2024-11-15T18:25:51.000Z",
-          "wordCount": 710,
-          "title": "The last few months in HEIR",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.jeremykun.com/2019/03/26/attention-spans-for-math-and-stories/",
-          "author": null,
-          "description": "Editor’s note: This essay was originally published in 2019. I have made minor edits in this republishing.\nThere was a MathOverflow thread about mathematically interesting games for 5–6 year olds. A lot of the discussion revolved around how young age 5 really is, and how we should temper expectations because we don’t really remember what it’s like to be 5. In response to an enormous answer by Alexander Chervov, user LSpice quipped, “‘Daddy, daddy, let’s play another in the infinite indexed family of perfect-information draw-free cheap-to-construct two-player games!",
-          "link": "https://www.jeremykun.com/2019/03/26/attention-spans-for-math-and-stories/",
-          "publishedOn": "2024-11-15T16:28:26.000Z",
-          "wordCount": 2019,
-          "title": "Attention spans for math and stories",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Jonty Sinai",
@@ -2067,6 +2131,54 @@
       "feedUrl": "https://www.argmin.net/feed.xml",
       "siteUrl": "https://www.argmin.net",
       "articles": [
+        {
+          "id": "https://www.argmin.net/p/controlled-chaos",
+          "author": "Ben Recht",
+          "description": "Perfect adaptation, overshoot, and stress response",
+          "link": "https://www.argmin.net/p/controlled-chaos",
+          "publishedOn": "2024-12-17T15:34:34.000Z",
+          "wordCount": null,
+          "title": "Controlled Chaos",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substack-post-media.s3.amazonaws.com/public/images/d8ba2a19-ac25-4300-ac5a-99d7e9b42b8a_840x599.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substack-post-media.s3.amazonaws.com/public/images/d8ba2a19-ac25-4300-ac5a-99d7e9b42b8a_840x599.jpeg"
+        },
+        {
+          "id": "https://www.argmin.net/p/perfect-adaptation",
+          "author": "Ben Recht",
+          "description": "And why integral action is necessary for adapting to the unknown.",
+          "link": "https://www.argmin.net/p/perfect-adaptation",
+          "publishedOn": "2024-12-13T16:29:26.000Z",
+          "wordCount": null,
+          "title": "Perfect Adaptation",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substack-post-media.s3.amazonaws.com/public/images/88bba9b7-de6b-47ae-a7de-5c4c51203e4d_1100x219.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substack-post-media.s3.amazonaws.com/public/images/88bba9b7-de6b-47ae-a7de-5c4c51203e4d_1100x219.jpeg"
+        },
+        {
+          "id": "https://www.argmin.net/p/adaptive-ingredients",
+          "author": "Ben Recht",
+          "description": "A common pattern in homeostatic systems looks a lot like gradient descent",
+          "link": "https://www.argmin.net/p/adaptive-ingredients",
+          "publishedOn": "2024-12-12T15:02:52.000Z",
+          "wordCount": null,
+          "title": "Adaptive Ingredients",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substack-post-media.s3.amazonaws.com/public/images/032c3add-c359-495a-b232-f6fca13fe0b0_840x599.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substack-post-media.s3.amazonaws.com/public/images/032c3add-c359-495a-b232-f6fca13fe0b0_840x599.jpeg"
+        },
         {
           "id": "https://www.argmin.net/p/qualitative-quantitative-models",
           "author": "Ben Recht",
@@ -2178,38 +2290,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substack-post-media.s3.amazonaws.com/public/images/3cd723cf-559d-4a36-bdca-2d3b4d3ecc3b_840x600.jpeg"
-        },
-        {
-          "id": "https://www.argmin.net/p/dual-decomposition",
-          "author": "Ben Recht",
-          "description": "The tricks of the trade for running gradient descent on dual problems",
-          "link": "https://www.argmin.net/p/dual-decomposition",
-          "publishedOn": "2024-11-14T15:25:11.000Z",
-          "wordCount": null,
-          "title": "Dual Decomposition",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substack-post-media.s3.amazonaws.com/public/images/c49ffdb6-2a06-44fd-b556-e15407759138_840x599.jpeg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substack-post-media.s3.amazonaws.com/public/images/c49ffdb6-2a06-44fd-b556-e15407759138_840x599.jpeg"
-        },
-        {
-          "id": "https://www.argmin.net/p/the-art-of-deconstraining",
-          "author": "Ben Recht",
-          "description": "A guide to convex optimization in Pytorch.",
-          "link": "https://www.argmin.net/p/the-art-of-deconstraining",
-          "publishedOn": "2024-11-13T15:17:39.000Z",
-          "wordCount": null,
-          "title": "The Art of Deconstraining",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substack-post-media.s3.amazonaws.com/public/images/e971c1ec-e012-47f0-847b-9c5205c82969_840x599.jpeg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substack-post-media.s3.amazonaws.com/public/images/e971c1ec-e012-47f0-847b-9c5205c82969_840x599.jpeg"
         }
       ]
     },
@@ -2218,6 +2298,16 @@
       "feedUrl": "https://gilkalai.wordpress.com/feed/",
       "siteUrl": "https://gilkalai.wordpress.com",
       "articles": [
+        {
+          "id": "http://gilkalai.wordpress.com/?p=26404",
+          "author": "Gil Kalai",
+          "description": "Peter Sarnak will give the Gordon memorial lectures at the Hebrew University of Jerusalem. At the end of December 2024, Peter Sarnak will deliver the Mark Gordon memorial lecture series on Spectra of locally symmetric geometries at the Hebrew University … Continue reading →",
+          "link": "https://gilkalai.wordpress.com/2024/12/15/peter-sarnak-is-coming-to-town-lets-celebrate-it-with-a-post-on-mobius-randomness-computational-complexity-and-ai/",
+          "publishedOn": "2024-12-15T18:20:10.000Z",
+          "wordCount": 5751,
+          "title": "Peter Sarnak is Coming to Town – Let’s Celebrate it with a Post on Möbius Randomness, Computational Complexity, and AI",
+          "imageUrl": "https://gilkalai.wordpress.com/wp-content/uploads/2024/12/sarnakdec24.png"
+        },
         {
           "id": "http://gilkalai.wordpress.com/?p=27537",
           "author": "Gil Kalai",
@@ -2251,6 +2341,56 @@
       "feedUrl": "https://xianblog.wordpress.com/feed/",
       "siteUrl": "https://xianblog.wordpress.com",
       "articles": [
+        {
+          "id": "http://xianblog.wordpress.com/?p=58122",
+          "author": "xi'an",
+          "description": "Hurray, our signed mixture simulation paper has been accepted by Statistics & Computing! If Og’s readers remember my earlier post about this problem, things get surprisingly more complicated when the mixture weights can take negative values. For instance, the naïve solution consisting in first simulating from the associated mixture of positive weight components and then […]",
+          "link": "https://xianblog.wordpress.com/2024/12/17/positive-response-to-negative-mixtures/",
+          "publishedOn": "2024-12-16T23:24:03.000Z",
+          "wordCount": 2603,
+          "title": "positive response to negative mixtures",
+          "imageUrl": "https://xianblog.wordpress.com/wp-content/uploads/2024/01/output-1.jpg"
+        },
+        {
+          "id": "http://xianblog.wordpress.com/?p=58384",
+          "author": "xi'an",
+          "description": "Visit the post for more.",
+          "link": "https://xianblog.wordpress.com/2024/12/16/off-to-nice/",
+          "publishedOn": "2024-12-15T23:24:33.000Z",
+          "wordCount": 2471,
+          "title": "off to Nice",
+          "imageUrl": "https://xianblog.wordpress.com/wp-content/uploads/2019/05/p5140169-1-e1558272732167.jpg"
+        },
+        {
+          "id": "http://xianblog.wordpress.com/?p=58095",
+          "author": "xi'an",
+          "description": "Nature of 24 October 2024 has a recollection article on the early days of peer review, following the Royal Society unsealing report from 1949 to 1954. With some mentions of well-known Bayesian characters like Jeffreys “For a 1950 paper that discussed ‘anisotropic elastic continuum’ by mathematician James Oldroyd, geophysicist Harold Jeffreys wrote: `Knowing the author, […]",
+          "link": "https://xianblog.wordpress.com/2024/12/15/early-peer-review/",
+          "publishedOn": "2024-12-14T23:24:22.000Z",
+          "wordCount": 2581,
+          "title": "early peer review",
+          "imageUrl": "https://media.springernature.com/w440/springer-static/cover-hires/journal/41586/634/8035"
+        },
+        {
+          "id": "http://xianblog.wordpress.com/?p=58067",
+          "author": "xi'an",
+          "description": "Visit the post for more.",
+          "link": "https://xianblog.wordpress.com/2024/12/14/la-linea-de-la-vida-book-review/",
+          "publishedOn": "2024-12-13T23:24:10.000Z",
+          "wordCount": 2467,
+          "title": "La línea de la vida [book review]",
+          "imageUrl": "https://xianblog.wordpress.com/wp-content/uploads/2024/11/1730580266005-e1730806195659.jpg"
+        },
+        {
+          "id": "http://xianblog.wordpress.com/?p=58296",
+          "author": "xi'an",
+          "description": "Visit the post for more.",
+          "link": "https://xianblog.wordpress.com/2024/12/13/xkcdatorics/",
+          "publishedOn": "2024-12-12T23:24:47.000Z",
+          "wordCount": 2424,
+          "title": "xkcd’atorics",
+          "imageUrl": "https://www.explainxkcd.com/wiki/images/thumb/3/3f/dnd_combinatorics_2x.png/492px-dnd_combinatorics_2x.png"
+        },
         {
           "id": "http://xianblog.wordpress.com/?p=58270",
           "author": "xi'an",
@@ -2540,66 +2680,6 @@
           "wordCount": 2439,
           "title": "slice sampling, of course!",
           "imageUrl": "https://xianblog.wordpress.com/wp-content/uploads/2024/11/temp-4.png"
-        },
-        {
-          "id": "http://xianblog.wordpress.com/?p=58169",
-          "author": "xi'an",
-          "description": "Visit the post for more.",
-          "link": "https://xianblog.wordpress.com/2024/11/18/ellis-pre-neurips-fest-2024/",
-          "publishedOn": "2024-11-17T23:24:09.000Z",
-          "wordCount": 2354,
-          "title": "ELLIS Pre-NeurIPS Fest 2024",
-          "imageUrl": "https://ellis.eu/uploads/news/image/976/news__single__lg_ELLIS-Pre-NeurIPS-Fest-2024-feature-image.png"
-        },
-        {
-          "id": "http://xianblog.wordpress.com/?p=57877",
-          "author": "xi'an",
-          "description": "Visit the post for more.",
-          "link": "https://xianblog.wordpress.com/2024/11/17/semi-marathon-de-boulogne-billancourt/",
-          "publishedOn": "2024-11-17T00:25:03.000Z",
-          "wordCount": 2363,
-          "title": "semi-marathon de Boulogne-Billancourt",
-          "imageUrl": "https://semi-marathonbb.fr/wp-content/files/2024/04/semi-marathon-de-boulogne-photos-AANC8361-scaled.jpg"
-        },
-        {
-          "id": "http://xianblog.wordpress.com/?p=58015",
-          "author": "xi'an",
-          "description": "Visit the post for more.",
-          "link": "https://xianblog.wordpress.com/2024/11/16/sampling-using-adaptive-regenerative-processes-in-print/",
-          "publishedOn": "2024-11-15T23:25:32.000Z",
-          "wordCount": 2468,
-          "title": "sampling using adaptive regenerative processes [in print!]",
-          "imageUrl": "https://xianblog.wordpress.com/wp-content/uploads/2024/11/temp.png"
-        },
-        {
-          "id": "http://xianblog.wordpress.com/?p=58162",
-          "author": "xi'an",
-          "description": "Visit the post for more.",
-          "link": "https://xianblog.wordpress.com/2024/11/15/hopeless-starving-and-besieged-human-right-watch-on-mass-forced-displacements-in-gaza/",
-          "publishedOn": "2024-11-15T11:24:25.000Z",
-          "wordCount": 2464,
-          "title": "hopeless, starving, and besieged [Human Right Watch on mass forced displacements in Gaza]",
-          "imageUrl": "https://xianblog.wordpress.com/wp-content/uploads/2024/11/hsb.png"
-        },
-        {
-          "id": "http://xianblog.wordpress.com/?p=58133",
-          "author": "xi'an",
-          "description": "Visit the post for more.",
-          "link": "https://xianblog.wordpress.com/2024/11/15/le-cam-a-linstitut-henri-poincare/",
-          "publishedOn": "2024-11-14T23:24:13.000Z",
-          "wordCount": 2454,
-          "title": "Le Cam à l’Institut Henri Poincaré",
-          "imageUrl": "https://xianblog.wordpress.com/wp-content/uploads/2024/11/lecam_ihp.jpg"
-        },
-        {
-          "id": "http://xianblog.wordpress.com/?p=57802",
-          "author": "xi'an",
-          "description": "Read in both Le Monde (29 Sept) and Nature (26 Sept) concerning articles about the poor financial state of many higher education institutions in the UK, if not the most prestigious ones… (Warwick being so far preserved from that issue, if not the neighbouring University of Coventry.) Up to 80% of French universities—prestigious and less […]",
-          "link": "https://xianblog.wordpress.com/2024/11/14/bankrupt-francroute/",
-          "publishedOn": "2024-11-13T23:24:19.000Z",
-          "wordCount": 2841,
-          "title": "banKrUpt, franc’route",
-          "imageUrl": "https://xianblog.wordpress.com/wp-content/uploads/2024/10/1728462902700-e1728464571302.jpg"
         }
       ]
     },
@@ -2607,18 +2687,7 @@
       "title": "Windows On Theory",
       "feedUrl": "https://windowsontheory.org/feed/",
       "siteUrl": "https://windowsontheory.org",
-      "articles": [
-        {
-          "id": "http://windowsontheory.org/?p=8799",
-          "author": "Boaz Barak",
-          "description": "(From Sergey Yekhanin; committee chair) Please nominate people to the Kanellakis award – deadline is December 15. https://awards.acm.org/kanellakis/nominations",
-          "link": "https://windowsontheory.org/2024/11/15/acm-paris-kanellakis-theory-and-practice-award/",
-          "publishedOn": "2024-11-15T19:35:54.000Z",
-          "wordCount": 3641,
-          "title": "ACM Paris Kanellakis Theory and Practice Award",
-          "imageUrl": "https://s0.wp.com/i/blank.jpg"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Machine Learning (Theory)",
@@ -2643,6 +2712,116 @@
       "feedUrl": "https://languagelog.ldc.upenn.edu/nll/?feed=rss2",
       "siteUrl": "https://languagelog.ldc.upenn.edu/nll",
       "articles": [
+        {
+          "id": "https://languagelog.ldc.upenn.edu/nll/?p=67293",
+          "author": "Victor Mair",
+          "description": "[This is a guest post by Mok Ling.] I recently paid a visit to the oldest Chinese temple in the city of Tangerang in Indonesia, Boen Tek Bio (文德廟 [\"literary virtue\"], note the Dutch-influenced spelling) which was renovated some time in September this year. I was very pleased to see they did a pretty good […]",
+          "link": "https://languagelog.ldc.upenn.edu/nll/?p=67293&utm_source=rss&utm_medium=rss&utm_campaign=ad-hoc-sinographic-romanization-in-indonesia",
+          "publishedOn": "2024-12-17T16:04:03.000Z",
+          "wordCount": 2718,
+          "title": "Ad hoc sinographic romanization in Indonesia",
+          "imageUrl": null
+        },
+        {
+          "id": "https://languagelog.ldc.upenn.edu/nll/?p=67369",
+          "author": "Mark Liberman",
+          "description": "From jeremy_jeyy: The audio is heavily weighted towards high frequencies, which emphasizes the many /s/ sounds and (along with the rapid unmodulated performance) makes the actual textual content hard to hear: Si ces six saucissons ci sont six sous, ces six saucissons ci sont sans souci. Your browser does not support the audio element. A […]",
+          "link": "https://languagelog.ldc.upenn.edu/nll/?p=67369&utm_source=rss&utm_medium=rss&utm_campaign=vire-langue-ou-celebration-des-homophones",
+          "publishedOn": "2024-12-17T14:15:50.000Z",
+          "wordCount": 2238,
+          "title": "Vire-langue ou célébration des homophones?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://languagelog.ldc.upenn.edu/nll/?p=67347",
+          "author": "Victor Mair",
+          "description": "Post by @ProfundumPhoto@toot.community View on Mastodon Before this phenomenon was called to my attention by .Gábor Ugray, I had never seen or heard of it before, so I had to do a bit of research to figure it out. My conclusion is that 'r stands for \"Mr.\" and that 's stands for \"Mrs. / Ms.\".  […]",
+          "link": "https://languagelog.ldc.upenn.edu/nll/?p=67347&utm_source=rss&utm_medium=rss&utm_campaign=alphabetic-mr-and-mrs-ms-in-chinese",
+          "publishedOn": "2024-12-16T17:18:18.000Z",
+          "wordCount": 2255,
+          "title": "Alphabetic \"Mr.\" and \"Mrs. / Ms.\" in Chinese",
+          "imageUrl": null
+        },
+        {
+          "id": "https://languagelog.ldc.upenn.edu/nll/?p=67350",
+          "author": "Mark Liberman",
+          "description": "Kase Wickman, \"Kylie Kelce Knocked Joe Rogan Off the Top Podcast Slot, In Just One Episode\", Vanity Fair 12/10/2024: Kylie Kelce, wife of Jason Kelce, sister-in-law of Travis Kelce, mother of three (with a fourth on the way), and Dunkin Donuts enthusiast, can add another descriptor to that incomplete list: No. 1 podcast host. The […]",
+          "link": "https://languagelog.ldc.upenn.edu/nll/?p=67350&utm_source=rss&utm_medium=rss&utm_campaign=not-gonna-lie",
+          "publishedOn": "2024-12-16T11:38:00.000Z",
+          "wordCount": 3174,
+          "title": "\"Not gonna lie\"",
+          "imageUrl": null
+        },
+        {
+          "id": "https://languagelog.ldc.upenn.edu/nll/?p=67343",
+          "author": "Victor Mair",
+          "description": "What accounts for Japan's smoothly functioning society and exquisite esthetics?  Is there a word for it? Bunkum Alert: The Ancient Wisdom of Japan\", by Howard Chua-Eoan, Opinion Today, Bloomberg; appears to be an earlier version of \"The land of the rising sun isn’t a life-hack wonderland despite the busy market in its ancient wisdom\", by […]",
+          "link": "https://languagelog.ldc.upenn.edu/nll/?p=67343&utm_source=rss&utm_medium=rss&utm_campaign=ancient-japanese-wisdom-in-modern-times-supposedly",
+          "publishedOn": "2024-12-15T19:51:03.000Z",
+          "wordCount": 3658,
+          "title": "Ancient Japanese wisdom in modern times — supposedly",
+          "imageUrl": null
+        },
+        {
+          "id": "https://languagelog.ldc.upenn.edu/nll/?p=67333",
+          "author": "Mark Liberman",
+          "description": "L.C. Hall, “Telegraph Talk and Talkers”, McClure’s Magazine, December 1901: In its written form telegraphese , or \"Morse,\" as it is called in the vernacular, is rarely seen. Yet as a vehicle of expression it is, to the initiated, as harmonious, subtle, and fascinating as the language of music itself. Nothing could be simpler than […]",
+          "link": "https://languagelog.ldc.upenn.edu/nll/?p=67333&utm_source=rss&utm_medium=rss&utm_campaign=telegraph-talkers",
+          "publishedOn": "2024-12-15T14:25:10.000Z",
+          "wordCount": 4203,
+          "title": "Telegraph talkers",
+          "imageUrl": null
+        },
+        {
+          "id": "https://languagelog.ldc.upenn.edu/nll/?p=67313",
+          "author": "Mark Liberman",
+          "description": "A recent Elle Cordova short: Many aspects of this skit deserve linguistic analysis — I'll focus on on two things: The semantic step from literal \"this and that\", referring to two specific things, to an expression that Wiktionary glosses as referring to \"various unspecified things\". The cross-linguistic variation in degrees of distance contrast in demonstratives.   […]",
+          "link": "https://languagelog.ldc.upenn.edu/nll/?p=67313&utm_source=rss&utm_medium=rss&utm_campaign=this-n-that",
+          "publishedOn": "2024-12-14T23:29:06.000Z",
+          "wordCount": 4607,
+          "title": "This 'n that",
+          "imageUrl": null
+        },
+        {
+          "id": "https://languagelog.ldc.upenn.edu/nll/?p=67297",
+          "author": "Mark Liberman",
+          "description": "The comments on \"Hypertonal conlang\" (12/8/2024) include a lengthy back-and-forth about where the syllable break should be located in English words like \"Cheryl\". I was surprised to see that no one brought up the concept of ambisyllabicity, which has been a standard and well-accepted idea in phonology and phonetics for more than 50 years. It […]",
+          "link": "https://languagelog.ldc.upenn.edu/nll/?p=67297&utm_source=rss&utm_medium=rss&utm_campaign=ambiyllabicity",
+          "publishedOn": "2024-12-14T11:55:09.000Z",
+          "wordCount": 6493,
+          "title": "Ambisyllabicity",
+          "imageUrl": null
+        },
+        {
+          "id": "https://languagelog.ldc.upenn.edu/nll/?p=67289",
+          "author": "Victor Mair",
+          "description": "I recall Malaysia-based New Zealander Nigel Richards' multiple Scrabble championships in English and French from earlier years and thought that I had written about them, but apparently not on Language Log.  Now he has won again, this time in Spanish, so it's about time that he became known to our readership, if they don't already […]",
+          "link": "https://languagelog.ldc.upenn.edu/nll/?p=67289&utm_source=rss&utm_medium=rss&utm_campaign=god-of-scrabble",
+          "publishedOn": "2024-12-14T00:50:18.000Z",
+          "wordCount": 3414,
+          "title": "God of Scrabble",
+          "imageUrl": null
+        },
+        {
+          "id": "https://languagelog.ldc.upenn.edu/nll/?p=67271",
+          "author": "Victor Mair",
+          "description": "The gap between spoken and written Sinitic is enormous.  In my estimation, it is greater than for any other language I know.  The following are some notes by Ľuboš Gajdoš about why this is so. \"The Discrepancy Between Spoken and Written Chinese — Methodological Notes on Linguistics\", Comenius University in Bratislava, Department of East Asian […]",
+          "link": "https://languagelog.ldc.upenn.edu/nll/?p=67271&utm_source=rss&utm_medium=rss&utm_campaign=spoken-vs-written-sinitic",
+          "publishedOn": "2024-12-13T05:47:48.000Z",
+          "wordCount": 3398,
+          "title": "Spoken vs. written Sinitic",
+          "imageUrl": null
+        },
+        {
+          "id": "https://languagelog.ldc.upenn.edu/nll/?p=67277",
+          "author": "Mark Liberman",
+          "description": "Todays' xkcd: Mouseover title: \"It works because a nautical mile is based on a degree of latitude, and the Earth (e) is a circle.\" The (upper) equation is correct (and I'm shocked that I never noticed this before). Wikipedia: A nautical mile is a unit of length used in air, marine, and space navigation, and […]",
+          "link": "https://languagelog.ldc.upenn.edu/nll/?p=67277&utm_source=rss&utm_medium=rss&utm_campaign=euler-the-sailor",
+          "publishedOn": "2024-12-12T21:01:18.000Z",
+          "wordCount": 3550,
+          "title": "Euler the sailor?",
+          "imageUrl": null
+        },
         {
           "id": "https://languagelog.ldc.upenn.edu/nll/?p=67231",
           "author": "Victor Mair",
@@ -3076,66 +3255,6 @@
           "publishedOn": "2024-11-18T12:16:24.000Z",
           "wordCount": 2154,
           "title": "Hangul for Cantonese",
-          "imageUrl": null
-        },
-        {
-          "id": "https://languagelog.ldc.upenn.edu/nll/?p=66964",
-          "author": "Victor Mair",
-          "description": "New article in Antiquity (05 November 2024):  \"Seals and signs: tracing the origins of writing in ancient South-west Asia\", by Kathryn Kelley, Mattia Cartolano, and Silvia Ferrara Abstract Administrative innovations in South-west Asia during the fourth millennium BC, including the cylinder seals that were rolled on the earliest clay tablets, laid the foundations for proto-cuneiform […]",
-          "link": "https://languagelog.ldc.upenn.edu/nll/?p=66964&utm_source=rss&utm_medium=rss&utm_campaign=mesopotamian-seals-and-the-birth-of-writing",
-          "publishedOn": "2024-11-17T11:45:43.000Z",
-          "wordCount": 3570,
-          "title": "Mesopotamian seals and the birth of writing",
-          "imageUrl": null
-        },
-        {
-          "id": "https://languagelog.ldc.upenn.edu/nll/?p=66969",
-          "author": "Mark Liberman",
-          "description": "Other video angles and edits are available on YouTube. Among many mass-media stories, we could start with one from Qasim Nauman, \"Why New Zealand’s Maori Lawmakers Protested With a Traditional Dance\", NYT 11/15/2024: New Zealand’s Parliament was temporarily suspended on Thursday as Māori lawmakers performed a haka, a traditional group dance, demonstrating their community’s anger […]",
-          "link": "https://languagelog.ldc.upenn.edu/nll/?p=66969&utm_source=rss&utm_medium=rss&utm_campaign=roberts-rules-of-haka",
-          "publishedOn": "2024-11-16T10:55:14.000Z",
-          "wordCount": 2474,
-          "title": "Robert's Rules of Haka",
-          "imageUrl": null
-        },
-        {
-          "id": "https://languagelog.ldc.upenn.edu/nll/?p=66956",
-          "author": "Victor Mair",
-          "description": "Jichang Lulu congratulated me on the completion of my continental diabasis.  Since I didn't know the meaning of that word and couldn't readily find a suitable definition for it online (I was familiar with the Anabasis of Xenophon [c. 430-probably 355 or 354 BC], the title of which means \"expedition up from\"), I simply had to […]",
-          "link": "https://languagelog.ldc.upenn.edu/nll/?p=66956&utm_source=rss&utm_medium=rss&utm_campaign=diabasis",
-          "publishedOn": "2024-11-16T01:52:16.000Z",
-          "wordCount": 2464,
-          "title": "Diabasis",
-          "imageUrl": null
-        },
-        {
-          "id": "https://languagelog.ldc.upenn.edu/nll/?p=66946",
-          "author": "Victor Mair",
-          "description": "[This is a guest post by Conal Boyce] Recently I watched a video posted by Alexander Unzicker, a no-nonsense physicist who often criticizes Big Science (along the same lines as Sabine Hossenfelder — my hero). But in this case (link below) I was surprised to see Unzicker play back a conversation between himself and ChatGPT, […]",
-          "link": "https://languagelog.ldc.upenn.edu/nll/?p=66946&utm_source=rss&utm_medium=rss&utm_campaign=neutrino-evidence-revisited-ai-debates-is-mozarts-k297b-authentic",
-          "publishedOn": "2024-11-13T23:24:05.000Z",
-          "wordCount": 2632,
-          "title": "\"Neutrino Evidence Revisited (AI Debates)\" | Is Mozart's K297b authentic?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://languagelog.ldc.upenn.edu/nll/?p=66949",
-          "author": "Mark Liberman",
-          "description": "La 9e édition du Dictionnaire de l’Académie française: La 9e édition du Dictionnaire de l’Académie française, dont la publication a commencé dans les années 1980, s’est achevée en novembre 2024, avec la parution du tome 4 aux éditions Fayard. The 9th edition of the Dictionary of the French Academy, whose publication began in the 1980s, […]",
-          "link": "https://languagelog.ldc.upenn.edu/nll/?p=66949&utm_source=rss&utm_medium=rss&utm_campaign=chips-fleas-lovers-colors-and-crusts",
-          "publishedOn": "2024-11-13T15:19:01.000Z",
-          "wordCount": 2728,
-          "title": "Chips, fleas, lovers, colors, and crusts",
-          "imageUrl": null
-        },
-        {
-          "id": "https://languagelog.ldc.upenn.edu/nll/?p=66920",
-          "author": "Victor Mair",
-          "description": "I just received the following book:  P.N. Singer and Ralph M. Rosen, eds., The Oxford Handbook of Galen (New York:  Oxford University Press, 2024).  The volume has 29 chapters, the last of which is \"Galen in Premodern Tibet and China: Impressions and Footprints\" (pp. 658-674) by Dror Weil and Ronit Yoeli-Tlalim.  Naturally, this chapter is […]",
-          "link": "https://languagelog.ldc.upenn.edu/nll/?p=66920&utm_source=rss&utm_medium=rss&utm_campaign=galen-129-216-ad-in-china-cancer-crab",
-          "publishedOn": "2024-11-13T12:06:24.000Z",
-          "wordCount": 2852,
-          "title": "Galen  (129-216 AD) in China:  cancer / crab",
           "imageUrl": null
         }
       ]
