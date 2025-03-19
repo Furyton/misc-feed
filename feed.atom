@@ -2,10 +2,572 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-03-04T09:21:27.738Z</updated>
+    <updated>2025-03-19T08:27:47.287Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[punk rock [cover]]]></title>
+        <id>http://xianblog.wordpress.com/?p=59122</id>
+        <link href="https://xianblog.wordpress.com/2025/03/19/punk-rock-cover/"/>
+        <updated>2025-03-18T23:25:36.000Z</updated>
+        <summary type="html"><![CDATA[Visit the post for more.]]></summary>
+        <author>
+            <name>xi'an</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Debugging PyTorch Machine Learning Models: A Step-by-Step Guide]]></title>
+        <id>https://machinelearningmastery.com/?p=19124</id>
+        <link href="https://machinelearningmastery.com/debugging-pytorch-machine-learning-models-a-step-by-step-guide/"/>
+        <updated>2025-03-18T15:31:50.000Z</updated>
+        <summary type="html"><![CDATA[Debugging machine learning models entails inspecting, discovering, and fixing possible errors in the internal mechanisms of these models.]]></summary>
+        <author>
+            <name>Iván Palomares Carrascosa</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I think it's gonna rain...]]></title>
+        <id>https://www.argmin.net/p/i-think-its-gonna-rain</id>
+        <link href="https://www.argmin.net/p/i-think-its-gonna-rain"/>
+        <updated>2025-03-18T14:07:56.000Z</updated>
+        <summary type="html"><![CDATA[The paradoxes of calibrated forecasting.]]></summary>
+        <author>
+            <name>Ben Recht</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I think it's gonna rain...]]></title>
+        <id>https://www.argmin.net/p/i-think-its-gonna-rain</id>
+        <link href="https://www.argmin.net/p/i-think-its-gonna-rain"/>
+        <updated>2025-03-18T14:07:56.000Z</updated>
+        <summary type="html"><![CDATA[The paradoxes of calibrated forecasting.]]></summary>
+        <author>
+            <name>Ben Recht</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Plummet's journey]]></title>
+        <id>https://languagelog.ldc.upenn.edu/nll/?p=68607</id>
+        <link href="https://languagelog.ldc.upenn.edu/nll/?p=68607&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=plummets-journey"/>
+        <updated>2025-03-18T12:32:40.000Z</updated>
+        <summary type="html"><![CDATA[Yann LeCun's evaluation of political versus linguistic errors:   View on Threads   His comment is no doubt meant as a joke, but it's worth exploring the usage that bothers him. To start with, the English word plummet has already been on a long morpho-syntactic and semantic journey (like nearly all other words). It started […]]]></summary>
+        <author>
+            <name>Mark Liberman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Erin go Bragh]]></title>
+        <id>https://languagelog.ldc.upenn.edu/nll/?p=68598</id>
+        <link href="https://languagelog.ldc.upenn.edu/nll/?p=68598&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=erin-go-bragh"/>
+        <updated>2025-03-18T01:18:32.000Z</updated>
+        <summary type="html"><![CDATA[I've been saying "Erin go Bragh" my whole life and knew that it meant roughly "Ireland Forever!". It's actually an anglicized version of the Irish language phrase "Éire go brách" or "Eire go bráth," which may be translated as "Ireland till doomsday". The term brách is equivalent to "eternity" or "end of time", meaning the […]]]></summary>
+        <author>
+            <name>Victor Mair</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stories of your life and Others [book review]]]></title>
+        <id>http://xianblog.wordpress.com/?p=59103</id>
+        <link href="https://xianblog.wordpress.com/2025/03/18/stories-of-your-life-and-others-book-review/"/>
+        <updated>2025-03-17T23:25:52.000Z</updated>
+        <summary type="html"><![CDATA[Just finished the book Stories of your life and Others by Ted Chiang, which like the later Exhalation I deeply enjoyed. The book was published in 2001, with some of its stories appearing as early as 1990, hence this book review is of little relevance when many reviews and commentaries have been published, including academic […]]]></summary>
+        <author>
+            <name>xi'an</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Gentle Introduction to Transformers Library]]></title>
+        <id>https://machinelearningmastery.com/?p=19386</id>
+        <link href="https://machinelearningmastery.com/a-gentle-introduction-to-transformers-library/"/>
+        <updated>2025-03-17T19:02:09.000Z</updated>
+        <summary type="html"><![CDATA[The transformers library is a Python library that provides a unified interface for working with different transformer models.]]></summary>
+        <author>
+            <name>Adrian Tam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gambling on the Richter Scale]]></title>
+        <id>https://www.argmin.net/p/gambling-on-the-richter-scale</id>
+        <link href="https://www.argmin.net/p/gambling-on-the-richter-scale"/>
+        <updated>2025-03-17T14:07:06.000Z</updated>
+        <summary type="html"><![CDATA[Risk aversion when evaluating risk scores]]></summary>
+        <author>
+            <name>Ben Recht</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gambling on the Richter Scale]]></title>
+        <id>https://www.argmin.net/p/gambling-on-the-richter-scale</id>
+        <link href="https://www.argmin.net/p/gambling-on-the-richter-scale"/>
+        <updated>2025-03-17T14:07:06.000Z</updated>
+        <summary type="html"><![CDATA[Risk aversion when evaluating risk scores]]></summary>
+        <author>
+            <name>Ben Recht</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Phonemic analysis of animal sounds as spelled in various popular languages]]></title>
+        <id>https://languagelog.ldc.upenn.edu/nll/?p=68592</id>
+        <link href="https://languagelog.ldc.upenn.edu/nll/?p=68592&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=phonemic-analysis-of-animal-sounds-as-spelled-in-various-popular-languages"/>
+        <updated>2025-03-17T10:31:31.000Z</updated>
+        <summary type="html"><![CDATA[This is something I've been waiting for for decades: "Onomatopoeia Odyssey:  How do animals sound across languages?", by Vivian Li, The Pudding (March, 2025) For many, our first memories of learning animal sounds include the song “Old MacDonald Had a Farm.” The song has been translated into at least 25 languages, and a curious finding […]]]></summary>
+        <author>
+            <name>Victor Mair</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Roadmap for Mastering Language Models in 2025]]></title>
+        <id>https://machinelearningmastery.com/?p=19220</id>
+        <link href="https://machinelearningmastery.com/the-roadmap-for-mastering-language-models-in-2025/"/>
+        <updated>2025-03-17T10:00:54.000Z</updated>
+        <summary type="html"><![CDATA[Large language models (LLMs) are a big step forward in artificial intelligence.]]></summary>
+        <author>
+            <name>Kanwal Mehreen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[statistical accuracy of neural posterior and likelihood estimation]]></title>
+        <id>http://xianblog.wordpress.com/?p=58357</id>
+        <link href="https://xianblog.wordpress.com/2025/03/17/statistical-accuracy-of-neural-posterior-and-likelihood-estimation/"/>
+        <updated>2025-03-16T23:25:07.000Z</updated>
+        <summary type="html"><![CDATA[As I have been aiming at mentioning this news for quite a while, David Frazier, Ryan Kelly, Christopher Drovandi, and David Warne arXived last November a paper that parallels our paper (with David and Gael) on ABC consistency and some earlier papers of theirs for synthetic likelihood in the case of neural posterior approximations, under […]]]></summary>
+        <author>
+            <name>xi'an</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Kushan Empire and its languages]]></title>
+        <id>https://languagelog.ldc.upenn.edu/nll/?p=68588</id>
+        <link href="https://languagelog.ldc.upenn.edu/nll/?p=68588&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=the-kushan-empire-and-its-languages"/>
+        <updated>2025-03-16T11:25:09.000Z</updated>
+        <summary type="html"><![CDATA[Jean Nota Bene, the biggest French YouTuber (millions of followers) on historical subjects, recently focused on the Kushans.  He follows many of the same themes that we do on Language Log and Sino-Platonic Papers (including Greek-Indian-Chinese associations), so many readers of this post will be interested in what he has to say about the Kushan Empire […]]]></summary>
+        <author>
+            <name>Victor Mair</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PyTorch at GTC 2025]]></title>
+        <id>https://pytorch.org/blog/pytorch-at-gtc/</id>
+        <link href="https://pytorch.org/blog/pytorch-at-gtc/"/>
+        <updated>2025-03-16T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[GTC is coming back to San Jose on March 17–21, 2025. Join PyTorch Foundation members Arm, AWS, Google Cloud, IBM, Lightning AI, Meta, Microsoft Azure, Snowflake, and thousands of developers as we celebrate PyTorch. Together learn how AI &amp; accelerated computing are helping humanity solve our most complex challenges.]]></summary>
+        <author>
+            <name>PyTorch Website</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[total respect (et tant pis pour Jules Verne!)]]></title>
+        <id>http://xianblog.wordpress.com/?p=58869</id>
+        <link href="https://xianblog.wordpress.com/2025/03/16/total-respect-et-tant-pis-pour-jules-verne/"/>
+        <updated>2025-03-15T23:25:25.000Z</updated>
+        <summary type="html"><![CDATA[Visit the post for more.]]></summary>
+        <author>
+            <name>xi'an</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[when open publishing is not fair [PCI webinar, 20 March, 4pm CET]]]></title>
+        <id>http://xianblog.wordpress.com/?p=59021</id>
+        <link href="https://xianblog.wordpress.com/2025/03/15/when-open-publishing-is-not-fair-pci-webinar-20-march-4pm-cet/"/>
+        <updated>2025-03-14T23:25:54.000Z</updated>
+        <summary type="html"><![CDATA[9th seminar of the PCI webinar series Mandatory registration using this link: https://univ-cotedazur.zoom.us/meeting/register/rz8ZKReZQeqs-3yR3S6q4g When Open Publishing Is Not Fair Sabina Leonelli (Technical University of Munich, TUM) Summary: There are obvious ways in which Open Access has augmented inequity rather than mitigating it, for instance in relation to Author Publishing Costs and the differential access that […]]]></summary>
+        <author>
+            <name>xi'an</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Appraising Tea Leaves]]></title>
+        <id>https://www.argmin.net/p/appraising-tea-leaves</id>
+        <link href="https://www.argmin.net/p/appraising-tea-leaves"/>
+        <updated>2025-03-14T14:28:04.000Z</updated>
+        <summary type="html"><![CDATA[How do we evaluate probabilistic assertions?]]></summary>
+        <author>
+            <name>Ben Recht</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Appraising Tea Leaves]]></title>
+        <id>https://www.argmin.net/p/appraising-tea-leaves</id>
+        <link href="https://www.argmin.net/p/appraising-tea-leaves"/>
+        <updated>2025-03-14T14:28:04.000Z</updated>
+        <summary type="html"><![CDATA[How do we evaluate probabilistic assertions?]]></summary>
+        <author>
+            <name>Ben Recht</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Statistical Methods for Evaluating LLM Performance]]></title>
+        <id>https://machinelearningmastery.com/?p=19349</id>
+        <link href="https://machinelearningmastery.com/statistical-methods-for-evaluating-llm-performance/"/>
+        <updated>2025-03-14T14:24:42.000Z</updated>
+        <summary type="html"><![CDATA[The large language model (LLM) has become a cornerstone of many AI applications.]]></summary>
+        <author>
+            <name>Cornellius Yudha Wijaya</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Philology vs. linguistics]]></title>
+        <id>https://languagelog.ldc.upenn.edu/nll/?p=68580</id>
+        <link href="https://languagelog.ldc.upenn.edu/nll/?p=68580&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=philology-vs-linguistics"/>
+        <updated>2025-03-14T11:07:50.000Z</updated>
+        <summary type="html"><![CDATA[Linguistics is a relatively young discipline, formally dating from roughly the mid-19th century.  In the study of language, it was preceded by philology, which has hoary roots going all the way back to Pāṇini (520-460 BC) and beyond. In my own lifetime, until recently I preferred to identify myself as a philologist, but that met […]]]></summary>
+        <author>
+            <name>Victor Mair</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[mass decimation of U.S. science]]></title>
+        <id>http://xianblog.wordpress.com/?p=59031</id>
+        <link href="https://xianblog.wordpress.com/2025/03/14/mass-decimation-of-u-s-science/"/>
+        <updated>2025-03-13T23:25:35.000Z</updated>
+        <summary type="html"><![CDATA[Visit the post for more.]]></summary>
+        <author>
+            <name>xi'an</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[初探muP：超参数的跨模型尺度迁移规律]]></title>
+        <id>https://kexue.fm/archives/10770</id>
+        <link href="https://kexue.fm/archives/10770"/>
+        <updated>2025-03-13T09:36:00.000Z</updated>
+        <summary type="html"><![CDATA[众所周知，完整训练一次大型LLM的成本是昂贵的，这就决定了我们不可能直接在大型LLM上反复测试超参数。一个很自然的想法是希望可以在同结构的小模型上仔细搜索超参数，找到最优组合后直接迁移到大模型上...]]></summary>
+        <author>
+            <name>苏剑林</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Introducing the New PyTorch Landscape: Your Guide to the PyTorch Ecosystem]]></title>
+        <id>https://pytorch.org/blog/pytorch-landscape/</id>
+        <link href="https://pytorch.org/blog/pytorch-landscape/"/>
+        <updated>2025-03-13T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[We’re excited to reveal our brand new PyTorch Landscape. The PyTorch Landscape helps researchers, developers, and organizations easily locate useful, curated, community-built tools that augment the PyTorch core framework.]]></summary>
+        <author>
+            <name>PyTorch Website</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The politico-cultural implications of Taiwanese romanization]]></title>
+        <id>https://languagelog.ldc.upenn.edu/nll/?p=68565</id>
+        <link href="https://languagelog.ldc.upenn.edu/nll/?p=68565&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=the-politico-cultural-implications-of-taiwanese-romanization"/>
+        <updated>2025-03-13T02:44:23.000Z</updated>
+        <summary type="html"><![CDATA[Which do you think is harder — reading and writing Taiwanese with characters (sinographs) or with romanization? I maintain — and I have tried to show over the years — that it's much easier to read Taiwanese written with roman letters than with Chinese characters.  The same is true of all vernacular Sinitic languages. It […]]]></summary>
+        <author>
+            <name>Victor Mair</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Takayama twilight (and soba)]]></title>
+        <id>http://xianblog.wordpress.com/?p=59194</id>
+        <link href="https://xianblog.wordpress.com/2025/03/13/takayama-twilight-and-soba/"/>
+        <updated>2025-03-12T23:25:17.000Z</updated>
+        <summary type="html"><![CDATA[Visit the post for more.]]></summary>
+        <author>
+            <name>xi'an</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gemini Robotics brings AI into the physical world]]></title>
+        <id>https://deepmind.google/discover/blog/gemini-robotics-brings-ai-into-the-physical-world/</id>
+        <link href="https://deepmind.google/discover/blog/gemini-robotics-brings-ai-into-the-physical-world/"/>
+        <updated>2025-03-12T15:00:18.000Z</updated>
+        <summary type="html"><![CDATA[Introducing Gemini Robotics and Gemini Robotics-ER, AI models designed for robots to understand, act and react to the physical world.]]></summary>
+        <author>
+            <name>Google DeepMind Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Experiment with Gemini 2.0 Flash native image generation]]></title>
+        <id>https://deepmind.google/discover/blog/experiment-with-gemini-20-flash-native-image-generation/</id>
+        <link href="https://deepmind.google/discover/blog/experiment-with-gemini-20-flash-native-image-generation/"/>
+        <updated>2025-03-12T14:58:00.000Z</updated>
+        <summary type="html"><![CDATA[Native image output is available in Gemini 2.0 Flash for developers to experiment with in Google AI Studio and the Gemini API.]]></summary>
+        <author>
+            <name>Google DeepMind Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Understanding RAG Part VII: Vector Databases & Indexing Strategies]]></title>
+        <id>https://machinelearningmastery.com/?p=19142</id>
+        <link href="https://machinelearningmastery.com/understanding-rag-part-vii-vector-databases-indexing-strategies/"/>
+        <updated>2025-03-12T12:55:45.000Z</updated>
+        <summary type="html"><![CDATA[Be sure to check out the previous articles in this series: • <a href="https://machinelearningmastery.]]></summary>
+        <author>
+            <name>Iván Palomares Carrascosa</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google DeepMind 发布多模态轻量级开源模型 Gemma 3：性能与功能全面升级]]></title>
+        <id>https://www.52nlp.cn/?p=20594</id>
+        <link href="https://www.52nlp.cn/google-deepmind-%e5%8f%91%e5%b8%83%e5%a4%9a%e6%a8%a1%e6%80%81%e8%bd%bb%e9%87%8f%e7%ba%a7%e5%bc%80%e6%ba%90%e6%a8%a1%e5%9e%8b-gemma-3%ef%bc%9a%e6%80%a7%e8%83%bd%e4%b8%8e%e5%8a%9f%e8%83%bd%e5%85%a8"/>
+        <updated>2025-03-12T12:07:38.000Z</updated>
+        <summary type="html"><![CDATA[近日，Google DeepMind 团队推出了 Gemma 3，一款多模态轻量级开源模型，它在 Gemma  […]]]></summary>
+        <author>
+            <name>52nlp</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mastering Time Series Forecasting: From ARIMA to LSTM]]></title>
+        <id>https://machinelearningmastery.com/?p=19317</id>
+        <link href="https://machinelearningmastery.com/mastering-time-series-forecasting-from-arima-to-lstm/"/>
+        <updated>2025-03-12T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Time series forecasting is a statistical technique used to analyze historical data points and predict future values based on temporal patterns.]]></summary>
+        <author>
+            <name>Jayita Gulati</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Introducing Gemma 3]]></title>
+        <id>https://deepmind.google/discover/blog/introducing-gemma-3/</id>
+        <link href="https://deepmind.google/discover/blog/introducing-gemma-3/"/>
+        <updated>2025-03-12T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The most capable model you can run on a single GPU or TPU.]]></summary>
+        <author>
+            <name>Google DeepMind Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[handbook of sharing confidential data [book review]]]></title>
+        <id>http://xianblog.wordpress.com/?p=59076</id>
+        <link href="https://xianblog.wordpress.com/2025/03/12/handbook-of-sharing-confidential-data-book-review/"/>
+        <updated>2025-03-11T23:25:54.000Z</updated>
+        <summary type="html"><![CDATA[A new Chapman & Hall handbook appeared on the most current issue of confidentiality and privacy, which has been edited by Jörg Drechsler, Daniel Kifer, Jerome Reiter, and Aleksandra Slavković. The forty authors of the 18 chapters are mostly from the U.S., with a few outliers from Edinburgh (involved in two chapters on protecting the […]]]></summary>
+        <author>
+            <name>xi'an</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Complete Guide to Matrices for Machine Learning with Python]]></title>
+        <id>https://machinelearningmastery.com/?p=19086</id>
+        <link href="https://machinelearningmastery.com/a-complete-guide-to-matrices-for-machine-learning-with-python/"/>
+        <updated>2025-03-11T19:29:50.000Z</updated>
+        <summary type="html"><![CDATA[Matrices are a key concept not only in linear algebra but also with regard to their prominent application and use in machine learning (ML) and data science.]]></summary>
+        <author>
+            <name>Iván Palomares Carrascosa</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Old Avestan lexicography]]></title>
+        <id>https://languagelog.ldc.upenn.edu/nll/?p=68554</id>
+        <link href="https://languagelog.ldc.upenn.edu/nll/?p=68554&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=old-avestan-lexicography"/>
+        <updated>2025-03-11T17:23:56.000Z</updated>
+        <summary type="html"><![CDATA[[This is a guest post by Hiroshi Kumamoto] The Last Words of Helmut Humbach (1921-2017) 1 When an eminent classicist, the late Martin L. West published The Hymns of Zoroaster: A New Translation of the Most Ancient Sacred Texts of Iran, London: Tauris, 2010, Desmond Durkin-Meisterernst wrote (Review in the Journal of the Royal Asiatic Society, 2011, p. 379),"This […]]]></summary>
+        <author>
+            <name>Victor Mair</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[IKEA: linguistics, esthetics, engineering, part 2]]></title>
+        <id>https://languagelog.ldc.upenn.edu/nll/?p=68549</id>
+        <link href="https://languagelog.ldc.upenn.edu/nll/?p=68549&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=ikea-linguistics-esthetics-engineering-part-2"/>
+        <updated>2025-03-11T16:50:08.000Z</updated>
+        <summary type="html"><![CDATA[Some assembly required. From Olaf Zimmermann: (source [2002 no. 5]) Olaf remarks: By the late '70s IKEA had been very well established in W-Germany (I was living in Munich at the time) and had already become part of popular culture in more senses than one. I found the basis for the content of the painting here. Note […]]]></summary>
+        <author>
+            <name>Victor Mair</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mathematical Pluralism]]></title>
+        <id>https://www.argmin.net/p/mathematical-pluralism</id>
+        <link href="https://www.argmin.net/p/mathematical-pluralism"/>
+        <updated>2025-03-11T14:59:14.000Z</updated>
+        <summary type="html"><![CDATA[Multiplicity in the math of AI, Systems, and Society.]]></summary>
+        <author>
+            <name>Ben Recht</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mathematical Pluralism]]></title>
+        <id>https://www.argmin.net/p/mathematical-pluralism</id>
+        <link href="https://www.argmin.net/p/mathematical-pluralism"/>
+        <updated>2025-03-11T14:59:14.000Z</updated>
+        <summary type="html"><![CDATA[Multiplicity in the math of AI, Systems, and Society.]]></summary>
+        <author>
+            <name>Ben Recht</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Scaling Recommendation Systems Training to Thousands of GPUs with 2D Sparse Parallelism]]></title>
+        <id>https://pytorch.org/blog/scaling-recommendation-2d-sparse-parallelism/</id>
+        <link href="https://pytorch.org/blog/scaling-recommendation-2d-sparse-parallelism/"/>
+        <updated>2025-03-11T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[At Meta, recommendation systems are the cornerstone of delivering relevant and personalized ads to billions of users globally. Through technologies like PyTorch’s TorchRec, we’ve successfully developed solutions that enable model training across hundreds of GPUs. While these systems have served us well, recent research on scaling laws has revealed a compelling opportunity: we can achieve significantly better model performance by training dramatically larger neural networks.]]></summary>
+        <author>
+            <name>PyTorch Website</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Shiragawa-go snapshot [jatp]]]></title>
+        <id>http://xianblog.wordpress.com/?p=59165</id>
+        <link href="https://xianblog.wordpress.com/2025/03/11/shiragawa-go-snapshot-jatp/"/>
+        <updated>2025-03-10T23:25:41.000Z</updated>
+        <summary type="html"><![CDATA[Visit the post for more.]]></summary>
+        <author>
+            <name>xi'an</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Email etiquette!]]></title>
+        <id>https://languagelog.ldc.upenn.edu/nll/?p=68556</id>
+        <link href="https://languagelog.ldc.upenn.edu/nll/?p=68556&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=email-etiquette"/>
+        <updated>2025-03-10T19:42:41.000Z</updated>
+        <summary type="html"><![CDATA[…and not just for women: The comments are interesting and insightful, for example: "I'm using an exclamation point so you know I'm friendly and excited! But now I'm using a period so that you know I'm not crazy. Here's another sentence with a period as a buffer, proving my normalness. Thanks so much!" The fuss […]]]></summary>
+        <author>
+            <name>Mark Liberman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Beginner’s Guide to Language Models with Python]]></title>
+        <id>https://machinelearningmastery.com/?p=19244</id>
+        <link href="https://machinelearningmastery.com/the-beginners-guide-to-language-models-with-python/"/>
+        <updated>2025-03-10T17:36:33.000Z</updated>
+        <summary type="html"><![CDATA[Language models — often known for the acronym LLM for Large Language Models, their large-scale version — fuel powerful AI applications like conversational chatbots, AI assistants, and other intelligent text and content generation apps.]]></summary>
+        <author>
+            <name>Iván Palomares Carrascosa</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Understanding the DistilBart Model and ROUGE Metric]]></title>
+        <id>https://machinelearningmastery.com/?p=19289</id>
+        <link href="https://machinelearningmastery.com/understanding-the-distilbart-model-and-rouge-metric/"/>
+        <updated>2025-03-10T12:51:36.000Z</updated>
+        <summary type="html"><![CDATA[This post is in two parts; they are: • Understanding the Encoder-Decoder Architecture • Evaluating the Result of Summarization using ROUGE DistilBart is a "distilled" version of the BART model, a powerful sequence-to-sequence model for natural language generation, translation, and comprehension.]]></summary>
+        <author>
+            <name>Muhammad Asad Iqbal Khan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nature tidbits [06 Feb 2025]]]></title>
+        <id>http://xianblog.wordpress.com/?p=59036</id>
+        <link href="https://xianblog.wordpress.com/2025/03/10/nature-tidbits-06-feb-2025/"/>
+        <updated>2025-03-09T23:25:21.000Z</updated>
+        <summary type="html"><![CDATA[Entries about the scary rise in H5N1 risks of a human transmission, compounded by Trump’s America leaving WHO, hence the US connection with global monitoring and its substantial funding of the organization. Advising against drinking raw milk as a primary precaution. Even camembert?! A (naïve, imho) call by the presidente of the Union of Concerned […]]]></summary>
+        <author>
+            <name>xi'an</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sinitic topolects in a Canadian courtroom]]></title>
+        <id>https://languagelog.ldc.upenn.edu/nll/?p=68544</id>
+        <link href="https://languagelog.ldc.upenn.edu/nll/?p=68544&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=sinitic-topolects-in-a-canadian-courtroom"/>
+        <updated>2025-03-09T20:18:57.000Z</updated>
+        <summary type="html"><![CDATA[Is Taishanese Cantonese? Legally, in Canada, no. [Preface:  This is one of the eeriest posts I've ever written, where thoughts I had about a student two decades ago while I was teaching her in my classes at Penn have become reality today, in a conspicuous, public way.  The realization of mental projection into the future.] […]]]></summary>
+        <author>
+            <name>Victor Mair</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linguistics bibliography roundup]]></title>
+        <id>https://languagelog.ldc.upenn.edu/nll/?p=68540</id>
+        <link href="https://languagelog.ldc.upenn.edu/nll/?p=68540&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=linguistics-bibliography-roundup"/>
+        <updated>2025-03-09T11:47:52.000Z</updated>
+        <summary type="html"><![CDATA[Something for everyone "Cultural Nuances in Subtitling the Religious Discourse Marker Wallah in Jordanian Drama into English." Al Salem, Mohd Nour et al. Humanities and Social Sciences Communications 12, no. 1 (March 6, 2025). https://www.nature.com/articles/s41599-025-04515-6. "Humpback Whale Song Shown to Be Structurally Similar to Human Language." PhysOrg, February 6, 2025. https://phys.org/news/2025-02-humpback-whale-song-shown-similar.html. Discussing "Whale Song Shows […]]]></summary>
+        <author>
+            <name>Victor Mair</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Text Summarization with DistillBart Model]]></title>
+        <id>https://machinelearningmastery.com/?p=19279</id>
+        <link href="https://machinelearningmastery.com/text-summarization-with-distillbart-model/"/>
+        <updated>2025-03-08T21:43:36.000Z</updated>
+        <summary type="html"><![CDATA[This tutorial is in two parts; they are: • Using DistilBart for Summarization • Improving the Summarization Process Let's start with a fundamental implementation that demonstrates the key concepts of text summarization with DistilBart: import torch from transformers import AutoTokenizer, AutoModelForSeq2SeqLM class TextSummarizer: def __init__(self, model_name="sshleifer/distilbart-cnn-12-6"): """Initialize the summarizer with a pre-trained model.]]></summary>
+        <author>
+            <name>Muhammad Asad Iqbal Khan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[IKEA:  linguistics, esthetics, engineering]]></title>
+        <id>https://languagelog.ldc.upenn.edu/nll/?p=68526</id>
+        <link href="https://languagelog.ldc.upenn.edu/nll/?p=68526&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=ikea-linguistics-esthetics-engineering"/>
+        <updated>2025-03-08T17:12:36.000Z</updated>
+        <summary type="html"><![CDATA[First, how to say the name.  I think that the "correct" pronunciation of IKEA is "ee-kay-uh", with emphasis on the "ee" sound, similar to the way a native Swedish speaker would say it, not "eye-kee-ah" or "ai-kee-uh" with stress on the second syllable, the way most Americans say it (all the Americans I know). What […]]]></summary>
+        <author>
+            <name>Victor Mair</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Spelling lesson]]></title>
+        <id>https://languagelog.ldc.upenn.edu/nll/?p=68534</id>
+        <link href="https://languagelog.ldc.upenn.edu/nll/?p=68534&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=spelling-lesson"/>
+        <updated>2025-03-08T13:29:09.000Z</updated>
+        <summary type="html"><![CDATA[From Kai Ryssdal: I always find it helpful to remember tariffs end with FFS [image or embed] — Kai Ryssdal (@kairyssdal.bsky.social) March 6, 2025 at 4:00 PM For longer and less humorous takes, see here or here or here or here or here or etc.]]></summary>
+        <author>
+            <name>Mark Liberman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Powering AI with PyTorch, Fedora, and Open Source Communities]]></title>
+        <id>https://pytorch.org/blog/pt-fedora-os-communities/</id>
+        <link href="https://pytorch.org/blog/pt-fedora-os-communities/"/>
+        <updated>2025-03-07T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<div type="html"/>]]></summary>
+        <author>
+            <name>PyTorch Website</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Peak Performance, Minimized Memory: Optimizing torchtune’s performance with torch.compile &amp; Liger Kernel]]></title>
+        <id>https://pytorch.org/blog/peak-performance-minimized-memory/</id>
+        <link href="https://pytorch.org/blog/peak-performance-minimized-memory/"/>
+        <updated>2025-03-06T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[LinkedIn: Shivam Sahni, Byron Hsu, Yanning Chen Meta: Ankith Gunapal, Evan Smothers]]></summary>
+        <author>
+            <name>PyTorch Website</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Headroom for AI development]]></title>
+        <id>https://hunch.net/?p=13763046</id>
+        <link href="https://hunch.net/?p=13763046"/>
+        <updated>2025-03-05T20:16:49.000Z</updated>
+        <summary type="html"><![CDATA[(Dylan Foster and Alex Lamb both helped in creating this.) In thinking about what are good research problems, it’s sometimes helpful to switch from what is understood to what is clearly possible. This encourages us to think beyond simply improving the existing system. For example, we have seen instances throughout the history of machine learning … 
+Continue reading "Headroom for AI development"]]></summary>
+        <author>
+            <name>John Langford</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Headroom for AI development]]></title>
+        <id>https://hunch.net/?p=13763046</id>
+        <link href="https://hunch.net/?p=13763046"/>
+        <updated>2025-03-05T20:16:49.000Z</updated>
+        <summary type="html"><![CDATA[(Dylan Foster and Alex Lamb both helped in creating this.) In thinking about what are good research problems, it’s sometimes helpful to switch from what is understood to what is clearly possible. This encourages us to think beyond simply improving the existing system. For example, we have seen instances throughout the history of machine learning … 
+Continue reading "Headroom for AI development"]]></summary>
+        <author>
+            <name>John Langford</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Current and New Activation Checkpointing Techniques in PyTorch]]></title>
+        <id>https://pytorch.org/blog/activation-checkpointing-techniques/</id>
+        <link href="https://pytorch.org/blog/activation-checkpointing-techniques/"/>
+        <updated>2025-03-05T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[As models scale in depth, batch size, and sequence length, etc, activation memory becomes an increasingly significant contributor to the overall memory usage. To help address this, PyTorch provides utilities for activation checkpointing, which reduce the number of saved tensors by recomputing them when needed, trading off memory usage for additional compute.]]></summary>
+        <author>
+            <name>PyTorch Website</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MoE环游记：3、换个思路来分配]]></title>
+        <id>https://kexue.fm/archives/10757</id>
+        <link href="https://kexue.fm/archives/10757"/>
+        <updated>2025-03-05T03:29:00.000Z</updated>
+        <summary type="html"><![CDATA[这篇文章我们继续探讨MoE的负载均衡问题。在上一篇文章《MoE环游记：2、不患寡而患不均》中，我们主要讨论了通过Aux Loss来促进负载均衡的思路。Aux Loss固然简单直观，但它也有一个明...]]></summary>
+        <author>
+            <name>苏剑林</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[📣 Submit to Speak at PyTorch Conference + Save on Registration]]></title>
+        <id>https://pytorch.org/blog/submit-to-speak/</id>
+        <link href="https://pytorch.org/blog/submit-to-speak/"/>
+        <updated>2025-03-04T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Step into the Future of AI at PyTorch Conference 2025.]]></summary>
+        <author>
+            <name>PyTorch Website</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[DeepSeek-V3解析及技术报告英中报告对照版]]></title>
         <id>https://www.52nlp.cn/?p=20587</id>
@@ -566,638 +1128,6 @@ His reason: 36 is the only number (he knows of) that is both a square and a stai
         <summary type="html"><![CDATA[Be sure to check out the previous articles in this series: • <a href="https://machinelearningmastery.]]></summary>
         <author>
             <name>Iván Palomares Carrascosa</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Robert Alicki, Michel Dyakonov, Leonid Levin, Oded Goldreich, and Others – A Summary of Some Skeptical Views On Quantum Computing.]]></title>
-        <id>http://gilkalai.wordpress.com/?p=28511</id>
-        <link href="https://gilkalai.wordpress.com/2025/02/17/robert-alicki-michel-dyakonov-leonid-levin-oded-goldreich-and-others-a-summary-of-some-skeptical-views-on-quantum-computing/"/>
-        <updated>2025-02-17T17:21:33.000Z</updated>
-        <summary type="html"><![CDATA[In this post, I provide links, references, and a brief discussion of the skeptical views regarding quantum computing held by Robert Alicki, Michel Dyakonov, Leonid Levin, Oded Goldreich, and a few others. In the next post I will briefly describe … Continue reading →]]></summary>
-        <author>
-            <name>Gil Kalai</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Robert Alicki, Michel Dyakonov, Leonid Levin, Oded Goldreich, and Others – A Summary of Some Skeptical Views On Quantum Computing.]]></title>
-        <id>http://gilkalai.wordpress.com/?p=28511</id>
-        <link href="https://gilkalai.wordpress.com/2025/02/17/robert-alicki-michel-dyakonov-leonid-levin-oded-goldreich-and-others-a-summary-of-some-skeptical-views-on-quantum-computing/"/>
-        <updated>2025-02-17T17:21:33.000Z</updated>
-        <summary type="html"><![CDATA[In this post, I provide links, references, and a brief discussion of the skeptical views regarding quantum computing held by Robert Alicki, Michel Dyakonov, Leonid Levin, Oded Goldreich, and a few others. In the next post I will briefly describe … Continue reading →]]></summary>
-        <author>
-            <name>Gil Kalai</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Integrating TensorFlow and NumPy for Custom Operations]]></title>
-        <id>https://machinelearningmastery.com/?p=19095</id>
-        <link href="https://machinelearningmastery.com/integrating-tensorflow-numpy-custom-operations/"/>
-        <updated>2025-02-17T12:00:32.000Z</updated>
-        <summary type="html"><![CDATA[Combining the power of <a href="https://www.]]></summary>
-        <author>
-            <name>Nahla Davies</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Naive k-means]]></title>
-        <id>https://parsiad.ca/blog/2025/naive_k_means/</id>
-        <link href="https://parsiad.ca/blog/2025/naive_k_means/"/>
-        <updated>2025-02-15T20:00:00.000Z</updated>
-        <summary type="html"><![CDATA[This short post introduces the well-known naive k-means algorithm, a proof of its convergence, and an implementation in NumPy.]]></summary>
-        <author>
-            <name>Parsiad Azimzadeh</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Overfitting to theories of overfitting]]></title>
-        <id>https://www.argmin.net/p/overfitting-to-theories-of-overfitting</id>
-        <link href="https://www.argmin.net/p/overfitting-to-theories-of-overfitting"/>
-        <updated>2025-02-14T16:03:27.000Z</updated>
-        <summary type="html"><![CDATA[On a plot that radicalized me like no other.]]></summary>
-        <author>
-            <name>Ben Recht</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Overfitting to theories of overfitting]]></title>
-        <id>https://www.argmin.net/p/overfitting-to-theories-of-overfitting</id>
-        <link href="https://www.argmin.net/p/overfitting-to-theories-of-overfitting"/>
-        <updated>2025-02-14T16:03:27.000Z</updated>
-        <summary type="html"><![CDATA[On a plot that radicalized me like no other.]]></summary>
-        <author>
-            <name>Ben Recht</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[生成扩散模型漫谈（二十九）：用DDPM来离散编码]]></title>
-        <id>https://kexue.fm/archives/10711</id>
-        <link href="https://kexue.fm/archives/10711"/>
-        <updated>2025-02-14T07:56:00.000Z</updated>
-        <summary type="html"><![CDATA[笔者前两天在arXiv刷到了一篇新论文《Compressed Image Generation with Denoising Diffusion Codebook Models》，实在为作者的天...]]></summary>
-        <author>
-            <name>苏剑林</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[watermarking for privacy (with no durian)]]></title>
-        <id>http://xianblog.wordpress.com/?p=58792</id>
-        <link href="https://xianblog.wordpress.com/2025/02/14/watermarking-for-privacy-without-durian/"/>
-        <updated>2025-02-13T23:25:08.000Z</updated>
-        <summary type="html"><![CDATA[In Scalable watermarking for identifying large language model outputs, published by Dathathri, See, Ghaisas, et (many) al. in Nature of 23 October 2024, the authors propose an algorithm to (voluntarily) watermark synthetic texts to identify them as such, through a statistical test. Here are a few quotes to relate to the authors’ solution. “LLMs generate […]]]></summary>
-        <author>
-            <name>xi'an</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["Måke Califørnia Great Ægain"]]></title>
-        <id>https://languagelog.ldc.upenn.edu/nll/?p=68290</id>
-        <link href="https://languagelog.ldc.upenn.edu/nll/?p=68290&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=make-california-great-aegain"/>
-        <updated>2025-02-13T16:17:54.000Z</updated>
-        <summary type="html"><![CDATA[In response to the initiative for the U,S.  to buy (or otherwise acquire) Greenland from Denmark, some Danes have started a petition to buy California from the U.S. Have you ever looked at a map and thought, "You know what Denmark needs? More sunshine, palm trees, and roller skates." Well, we have a once-in-a-lifetime opportunity to make […]]]></summary>
-        <author>
-            <name>Mark Liberman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["Red, White, and Blueland"]]></title>
-        <id>https://languagelog.ldc.upenn.edu/nll/?p=68284</id>
-        <link href="https://languagelog.ldc.upenn.edu/nll/?p=68284&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=red-white-and-blueland"/>
-        <updated>2025-02-13T15:49:57.000Z</updated>
-        <summary type="html"><![CDATA[Last Monday, Rep. Earl L. "Buddy" Carter introduced H.R.1161 – "Red, White, and Blueland Act of 2025", according to which (Sec. 2) The President is authorized to enter into negotiations with the Government of Denmark to purchase or otherwise acquire Greenland. and (Sec. 3) (a) Renaming.—Greenland shall be known as “Red, White, and Blueland”. (b) References.—Any reference […]]]></summary>
-        <author>
-            <name>Mark Liberman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Machine Learning 101?]]></title>
-        <id>https://www.argmin.net/p/machine-learning-101</id>
-        <link href="https://www.argmin.net/p/machine-learning-101"/>
-        <updated>2025-02-13T15:36:01.000Z</updated>
-        <summary type="html"><![CDATA[Imagining a new syllabus for a first course on machine learning.]]></summary>
-        <author>
-            <name>Ben Recht</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Machine Learning 101?]]></title>
-        <id>https://www.argmin.net/p/machine-learning-101</id>
-        <link href="https://www.argmin.net/p/machine-learning-101"/>
-        <updated>2025-02-13T15:36:01.000Z</updated>
-        <summary type="html"><![CDATA[Imagining a new syllabus for a first course on machine learning.]]></summary>
-        <author>
-            <name>Ben Recht</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Greece without the Greek alphabet]]></title>
-        <id>https://languagelog.ldc.upenn.edu/nll/?p=68278</id>
-        <link href="https://languagelog.ldc.upenn.edu/nll/?p=68278&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=greece-without-the-greek-alphabet"/>
-        <updated>2025-02-13T12:56:12.000Z</updated>
-        <summary type="html"><![CDATA[Heaven forbid! "When Greece Was About to Swap the Greek Alphabet for Latin", Philip Chrysopoulos, Greek Reporter (1/17/25) It seems unthinkable. In the mid 1970s when Prime Minister Konstantinos Karamanlis proposed changing the Greek alphabet to Latin and making the Greek language phonetic, the minister of culture and a Parliament member threatened to resign. I […]]]></summary>
-        <author>
-            <name>Victor Mair</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Prompt Engineering Patterns for Successful RAG Implementations]]></title>
-        <id>https://machinelearningmastery.com/?p=19068</id>
-        <link href="https://machinelearningmastery.com/prompt-engineering-patterns-successful-rag-implementations/"/>
-        <updated>2025-02-13T11:00:35.000Z</updated>
-        <summary type="html"><![CDATA[You know it as well as I do: people are relying more and more on generative AI and large language models (LLM) for quick and easy information acquisition.]]></summary>
-        <author>
-            <name>Cornellius Yudha Wijaya</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[John J Deely (1933-2025)]]></title>
-        <id>http://xianblog.wordpress.com/?p=58853</id>
-        <link href="https://xianblog.wordpress.com/2025/02/13/john-j-deely-1933-2025/"/>
-        <updated>2025-02-12T23:25:38.000Z</updated>
-        <summary type="html"><![CDATA[I just learned that my friend John Deely died last month in West Lafayette. I had come to know him in 1988, when we were both visiting Purdue and sharing an office. He was funny and witty, with a unique and unforgetable laugh, and I remember several evenings with him and Ann. After leaving Purdue, […]]]></summary>
-        <author>
-            <name>xi'an</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Implementing Multi-Modal RAG Systems]]></title>
-        <id>https://machinelearningmastery.com/?p=19062</id>
-        <link href="https://machinelearningmastery.com/implementing-multi-modal-rag-systems/"/>
-        <updated>2025-02-12T11:00:32.000Z</updated>
-        <summary type="html"><![CDATA[Large language models (LLMs) have evolved and permeated our lives so much and so quickly that many we have become dependent on them in all sorts of scenarios.]]></summary>
-        <author>
-            <name>Cornellius Yudha Wijaya</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Solve Real-Word AI Challenges with PyTorch at Datathon 2025: DataOrbit]]></title>
-        <id>https://pytorch.org/blog/datathon-2025/</id>
-        <link href="https://pytorch.org/blog/datathon-2025/"/>
-        <updated>2025-02-12T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[We’re excited to have PyTorch sponsor Datathon 2025: DataOrbit, a place where students can collaborate with a team to solve problems using real-world datasets! This event, hosted by Data Science UCSB in collaboration with Gaucho Sports Analytics and ACM@UCSB, will take place on February 22–23rd, 2025 at UC Santa Barbara, with the incredible opportunity to present your project to a panel of corporate and faculty judges – including the executive director of Pytorch! – for a chance to win prizes up to $3000.]]></summary>
-        <author>
-            <name>PyTorch Website</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["Steak the First"]]></title>
-        <id>https://languagelog.ldc.upenn.edu/nll/?p=68275</id>
-        <link href="https://languagelog.ldc.upenn.edu/nll/?p=68275&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=steak-the-first-2"/>
-        <updated>2025-02-12T02:11:53.000Z</updated>
-        <summary type="html"><![CDATA[[An essay I wrote a year and a half ago, but whose posting was interrupted by a long run.] Enlightening article by Peter Backhaus in The Japan Times (6/9/23): "Za grammar notes: How to properly handle the 'the' in Japanese" Japanese seems to be able to assimilate any English word, including the ubiquitous definite article […]]]></summary>
-        <author>
-            <name>Victor Mair</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[mostly MC’ruary [14 Feb 2025]]]></title>
-        <id>http://xianblog.wordpress.com/?p=58864</id>
-        <link href="https://xianblog.wordpress.com/2025/02/12/mostly-mcruary-14-feb-2025/"/>
-        <updated>2025-02-11T23:25:25.000Z</updated>
-        <summary type="html"><![CDATA[Visit the post for more.]]></summary>
-        <author>
-            <name>xi'an</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Next-Level Data Science (7-Day Mini-Course)]]></title>
-        <id>https://machinelearningmastery.com/?p=19056</id>
-        <link href="https://machinelearningmastery.com/next-level-data-science-7-day-mini-course/"/>
-        <updated>2025-02-11T21:00:30.000Z</updated>
-        <summary type="html"><![CDATA[Before we start, let's ensure you are in the right place.]]></summary>
-        <author>
-            <name>Adrian Tam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Holding out for an explanation]]></title>
-        <id>https://www.argmin.net/p/holding-out-for-an-explanation</id>
-        <link href="https://www.argmin.net/p/holding-out-for-an-explanation"/>
-        <updated>2025-02-11T15:24:36.000Z</updated>
-        <summary type="html"><![CDATA[Learning theory needs to admit test sets exist.]]></summary>
-        <author>
-            <name>Ben Recht</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Holding out for an explanation]]></title>
-        <id>https://www.argmin.net/p/holding-out-for-an-explanation</id>
-        <link href="https://www.argmin.net/p/holding-out-for-an-explanation"/>
-        <updated>2025-02-11T15:24:36.000Z</updated>
-        <summary type="html"><![CDATA[Learning theory needs to admit test sets exist.]]></summary>
-        <author>
-            <name>Ben Recht</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Creating Custom Layers and Loss Functions in PyTorch]]></title>
-        <id>https://machinelearningmastery.com/?p=19052</id>
-        <link href="https://machinelearningmastery.com/creating-custom-layers-loss-functions-pytorch/"/>
-        <updated>2025-02-11T12:55:12.000Z</updated>
-        <summary type="html"><![CDATA[Creating custom layers and loss functions in <a href="https://pytorch.]]></summary>
-        <author>
-            <name>Nahla Davies</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Roadmap for the Debate about Quantum Computers]]></title>
-        <id>http://gilkalai.wordpress.com/?p=28773</id>
-        <link href="https://gilkalai.wordpress.com/2025/02/11/roadmap-for-the-debate-about-quantum-computers/"/>
-        <updated>2025-02-11T11:46:44.000Z</updated>
-        <summary type="html"><![CDATA[Here is a roadmap for the debate about quantum computers from my perspective. Skeptical claims are in blue, responses to these claims are in purple. Points 1-8 represent skeptical claims made over the years, while points a-p are replies to … Continue reading →]]></summary>
-        <author>
-            <name>Gil Kalai</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Roadmap for the Debate about Quantum Computers]]></title>
-        <id>http://gilkalai.wordpress.com/?p=28773</id>
-        <link href="https://gilkalai.wordpress.com/2025/02/11/roadmap-for-the-debate-about-quantum-computers/"/>
-        <updated>2025-02-11T11:46:44.000Z</updated>
-        <summary type="html"><![CDATA[Here is a roadmap for the debate about quantum computers from my perspective. Skeptical claims are in blue, responses to these claims are in purple. Points 1-8 represent skeptical claims made over the years, while points a-p are replies to … Continue reading →]]></summary>
-        <author>
-            <name>Gil Kalai</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Role of Domain Knowledge in Machine Learning: Why Subject Matter Experts Matter]]></title>
-        <id>https://machinelearningmastery.com/?p=19047</id>
-        <link href="https://machinelearningmastery.com/role-domain-knowledge-machine-learning/"/>
-        <updated>2025-02-11T11:00:16.000Z</updated>
-        <summary type="html"><![CDATA[Machine learning (ML) is considered the largest subarea of artificial intelligence (AI) , studying the development of software systems that learn from data by themselves to perform a task, without being explicitly programmed with the instructions to address it.]]></summary>
-        <author>
-            <name>Iván Palomares Carrascosa</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Unlocking the Latest Features in PyTorch 2.6 for Intel Platforms]]></title>
-        <id>https://pytorch.org/blog/unlocking-pt-2-6-intel/</id>
-        <link href="https://pytorch.org/blog/unlocking-pt-2-6-intel/"/>
-        <updated>2025-02-11T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[PyTorch* 2.6 has just been released with a set of exciting new features including torch.compile compatibility with Python 3.13, new security and performance enhancements, and a change in the default parameter for torch.load. PyTorch also announced the deprecation of its official Anaconda channel.]]></summary>
-        <author>
-            <name>PyTorch Website</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[dammit!!]]></title>
-        <id>http://xianblog.wordpress.com/?p=58845</id>
-        <link href="https://xianblog.wordpress.com/2025/02/11/dammit/"/>
-        <updated>2025-02-10T23:15:12.000Z</updated>
-        <summary type="html"><![CDATA[When I arrived (from Paris via B’ham airport) at the University of Warwick this morning, I went directly to the secure bike shed where I store my bike between my visits. Except it was no longer there and the shed was strangely barely occupied. I immediately suspected a commando action from the dreaded Warwick Estates, […]]]></summary>
-        <author>
-            <name>xi'an</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PRC Foreign Minister Wang Yi's not-so-subtle reprimand falls on deaf ears]]></title>
-        <id>https://languagelog.ldc.upenn.edu/nll/?p=68267</id>
-        <link href="https://languagelog.ldc.upenn.edu/nll/?p=68267&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=prc-foreign-minister-wang-yis-not-so-subtle-reprimand-falls-on-deaf-ears"/>
-        <updated>2025-02-10T13:52:32.000Z</updated>
-        <summary type="html"><![CDATA[Seldom does a matter of correct / precise translation go viral the way these words of Chinese Foreign Minister Wang Yi to American Secretary of State Marco Rubio did:  "hǎo zì wéi zhī 好自为之".  The set phrase ("chéngyǔ 成語") has been rendered scores of different ways, most of them dismissive or pejorative. Why Wang Yi’s […]]]></summary>
-        <author>
-            <name>Victor Mair</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[10 Useful LangChain Components for Your Next RAG System]]></title>
-        <id>https://machinelearningmastery.com/?p=19041</id>
-        <link href="https://machinelearningmastery.com/10-useful-langchain-components-rag-system/"/>
-        <updated>2025-02-10T11:00:47.000Z</updated>
-        <summary type="html"><![CDATA[LangChain is a robust framework conceived to simplify the developing of LLM-powered applications — with LLM, of course, standing for large language model.]]></summary>
-        <author>
-            <name>Iván Palomares Carrascosa</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Anyone know of an approachable proof of the Caratheodory-Fejer theorem?]]></title>
-        <id>https://www.jeremykun.com/shortform/2025-02-09-1947/</id>
-        <link href="https://www.jeremykun.com/shortform/2025-02-09-1947/"/>
-        <updated>2025-02-10T03:47:59.000Z</updated>
-        <summary type="html"><![CDATA[A colleague of mine recently lent a hand implementing a polynomial approximation routine I could port to our compiler, though it wasn’t the method I was expecting.
-As I had written about previously, I was studying the Remez algorithm and implementing a prototype in Python. Remez approximation involves an iterated loop that alternates between root-finding and linear-system solving, and as such it can be rather brittle and difficult. Numerical errors and accuracy limits in these subsolvers contribute to weird edge cases that make the algorithm fail to converge.]]></summary>
-        <author>
-            <name>Math ∩ Programming</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sparse Bayesian factor analysis when the number of factors Is unknown [ISBA webinar]]]></title>
-        <id>http://xianblog.wordpress.com/?p=58835</id>
-        <link href="https://xianblog.wordpress.com/2025/02/10/sparse-bayesian-factor-analysis-when-the-number-of-factors-is-unknown-isba-webinar/"/>
-        <updated>2025-02-09T23:25:09.000Z</updated>
-        <summary type="html"><![CDATA[Visit the post for more.]]></summary>
-        <author>
-            <name>xi'an</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Insidious and invidious]]></title>
-        <id>https://languagelog.ldc.upenn.edu/nll/?p=68263</id>
-        <link href="https://languagelog.ldc.upenn.edu/nll/?p=68263&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=insidious-and-invidious"/>
-        <updated>2025-02-09T21:47:35.000Z</updated>
-        <summary type="html"><![CDATA[I've lost a considerable amount of sleep over these two words, not just because they both have nine letters and look almost the same, differing only by a single consonant, but even more so because, while they both signify something bad or undesirable about the way situations unfold or how people behave toward others, they […]]]></summary>
-        <author>
-            <name>Victor Mair</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何构建和优化推理型大型语言模型？DeepSeek R1的启示]]></title>
-        <id>https://www.52nlp.cn/?p=20570</id>
-        <link href="https://www.52nlp.cn/%e5%a6%82%e4%bd%95%e6%9e%84%e5%bb%ba%e5%92%8c%e4%bc%98%e5%8c%96%e6%8e%a8%e7%90%86%e5%9e%8b%e5%a4%a7%e5%9e%8b%e8%af%ad%e8%a8%80%e6%a8%a1%e5%9e%8b%ef%bc%9fdeepseek-r1%e7%9a%84%e5%90%af%e7%a4%ba"/>
-        <updated>2025-02-09T06:05:04.000Z</updated>
-        <summary type="html"><![CDATA[前两天国外大模型领域知名博主 Sebastian Raschka 发表了一篇”理解推理大模型“的文章: Und […]]]></summary>
-        <author>
-            <name>52nlp</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[bye, Errol Street!]]></title>
-        <id>http://xianblog.wordpress.com/?p=58799</id>
-        <link href="https://xianblog.wordpress.com/2025/02/09/bye-errol-street/"/>
-        <updated>2025-02-08T23:25:34.000Z</updated>
-        <summary type="html"><![CDATA[Visit the post for more.]]></summary>
-        <author>
-            <name>xi'an</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[iRabbit]]></title>
-        <id>https://languagelog.ldc.upenn.edu/nll/?p=68259</id>
-        <link href="https://languagelog.ldc.upenn.edu/nll/?p=68259&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=irabbit"/>
-        <updated>2025-02-08T14:30:53.000Z</updated>
-        <summary type="html"><![CDATA[There are a number of videos in this series, some of them several years old, but I don't think we've been exposed to them yet on Language Log.  They are quite hilarious and linguistically sophisticated, so it's worth listening to at least one. For me, the most remarkable things about this skit are the equanimity […]]]></summary>
-        <author>
-            <name>Victor Mair</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MoE环游记：1、从几何意义出发]]></title>
-        <id>https://kexue.fm/archives/10699</id>
-        <link href="https://kexue.fm/archives/10699"/>
-        <updated>2025-02-08T07:54:00.000Z</updated>
-        <summary type="html"><![CDATA[前两年福至心灵之下，开了一个“Transformer升级之路”系列，陆续分享了主流Transformer架构的一些改进工作和个人思考，得到了部份读者的认可。这篇文章开始，我们沿着同样的风格，介绍...]]></summary>
-        <author>
-            <name>苏剑林</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[more [Natural] chaos!]]></title>
-        <id>http://xianblog.wordpress.com/?p=58778</id>
-        <link href="https://xianblog.wordpress.com/2025/02/08/more-natural-chaos/"/>
-        <updated>2025-02-07T23:25:34.000Z</updated>
-        <summary type="html"><![CDATA[Visit the post for more.]]></summary>
-        <author>
-            <name>xi'an</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Building Your First Multi-Agent System: A Beginner’s Guide]]></title>
-        <id>https://machinelearningmastery.com/?p=19033</id>
-        <link href="https://machinelearningmastery.com/building-first-multi-agent-system-beginner-guide/"/>
-        <updated>2025-02-07T19:19:54.000Z</updated>
-        <summary type="html"><![CDATA[The surge of AI in general — and large language models (LLMs) in particular — is thanks to numerous research groups and companies racing to develop their most advanced models and demonstrate their potential use cases across broad domains.]]></summary>
-        <author>
-            <name>Cornellius Yudha Wijaya</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Time Series Forecasting with PyCaret: Building Multi-Step Prediction Model]]></title>
-        <id>https://machinelearningmastery.com/?p=19026</id>
-        <link href="https://machinelearningmastery.com/time-series-forecasting-with-pycaret-building-multi-step-prediction-model/"/>
-        <updated>2025-02-07T18:18:31.000Z</updated>
-        <summary type="html"><![CDATA[Time series forecasting helps predict future data using past information, useful in areas like finance, weather, and inventory.]]></summary>
-        <author>
-            <name>Jayita Gulati</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kiddo slang at warp speed]]></title>
-        <id>https://languagelog.ldc.upenn.edu/nll/?p=68252</id>
-        <link href="https://languagelog.ldc.upenn.edu/nll/?p=68252&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=kiddo-slang-at-warp-speed"/>
-        <updated>2025-02-07T16:04:19.000Z</updated>
-        <summary type="html"><![CDATA["Mewing, Beta Maxing, Gigachad, Baddie: Parents Are Drowning in New Lingo", Katherine Bindley, WSJ (2/5/25) Slang is sprouting at a dizzying speed, leaving adults constantly unsure if they’re being insulted; ‘Omega is like the lowest rate you can get’ The article includes many examples of parents from diverse backgrounds and various locations confronting this flood […]]]></summary>
-        <author>
-            <name>Victor Mair</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Explainable Linear Programs]]></title>
-        <id>https://www.jeremykun.com/shortform/2025-02-06-2124/</id>
-        <link href="https://www.jeremykun.com/shortform/2025-02-06-2124/"/>
-        <updated>2025-02-07T05:24:38.000Z</updated>
-        <summary type="html"><![CDATA[Back in 2020, when I worked in the supply chain side of Google, I had a fun and impactful side project related to human-level explanations of linear programs.
-A linear program is a mathematical model that defines some number of variables, linear constraints, and a linear objective function. When some variables are forced to be integer (ILPs), you can solve a lot of useful problems like scheduling, routing, and packing. That’s basically how all supply chain optimization works.]]></summary>
-        <author>
-            <name>Math ∩ Programming</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dictionary of Dunhuang Studies]]></title>
-        <id>https://languagelog.ldc.upenn.edu/nll/?p=68242</id>
-        <link href="https://languagelog.ldc.upenn.edu/nll/?p=68242&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=dictionary-of-dunhuang-studies"/>
-        <updated>2025-02-07T01:27:16.000Z</updated>
-        <summary type="html"><![CDATA[敦煌学大辞典第二版全新发布了！ New second edition of Dictionary of Dunhuang Studies!敦煌学不可或缺的工具 Indispensable tool for #DunhuangStudies郝春文 主编70%词条已修订了词汇量：241万 ➡️ 400万词条数：5,000 ➡️ 12,000 pic.twitter.com/vYLaYQAHgL — Neil Schmid 史瀚文 (@DNeilSchmid) January 15, 2025 This is the revised 2nd ed. Shanghai Lexicography Publishing House, 2024. Editor in chief Hao Chunwen 郝春文. It's interesting that they gave the romanized title rather than an […]]]></summary>
-        <author>
-            <name>Victor Mair</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[amortized Bayesian mixture model]]></title>
-        <id>http://xianblog.wordpress.com/?p=58759</id>
-        <link href="https://xianblog.wordpress.com/2025/02/07/amortized-bayesian-mixture-model/"/>
-        <updated>2025-02-06T23:25:48.000Z</updated>
-        <summary type="html"><![CDATA[A few days before the January OWABI, I read through Simon Kucharsky’s and Paul Bürkner’s paper, arXived on 17 January. Which proposed an amortized Bayesian inference (ABI) method, even though the ABI is not the same as in OWABI! The motivation for their work is to start from a (standard) mixture model where the components […]]]></summary>
-        <author>
-            <name>xi'an</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Are radiologists finally out of a job?]]></title>
-        <id>https://www.argmin.net/p/are-radiologists-finally-out-of-a</id>
-        <link href="https://www.argmin.net/p/are-radiologists-finally-out-of-a"/>
-        <updated>2025-02-06T15:43:14.000Z</updated>
-        <summary type="html"><![CDATA[No.]]></summary>
-        <author>
-            <name>Ben Recht</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Are radiologists finally out of a job?]]></title>
-        <id>https://www.argmin.net/p/are-radiologists-finally-out-of-a</id>
-        <link href="https://www.argmin.net/p/are-radiologists-finally-out-of-a"/>
-        <updated>2025-02-06T15:43:14.000Z</updated>
-        <summary type="html"><![CDATA[No.]]></summary>
-        <author>
-            <name>Ben Recht</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Indo-European genetic evidence]]></title>
-        <id>https://languagelog.ldc.upenn.edu/nll/?p=68247</id>
-        <link href="https://languagelog.ldc.upenn.edu/nll/?p=68247&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=new-indo-european-genetic-evidence"/>
-        <updated>2025-02-06T12:54:05.000Z</updated>
-        <summary type="html"><![CDATA[Carl Zimmer, "Ancient DNA Points to Origins of Indo-European Language", NYT 2/5/2025: In 1786, a British judge named William Jones noticed striking similarities between certain words in languages, such as Sanskrit and Latin, whose speakers were separated by thousands of miles. The languages must have “sprung from some common source,” he wrote. Later generations of […]]]></summary>
-        <author>
-            <name>Mark Liberman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[bused to Chamonix [jatp]]]></title>
-        <id>http://xianblog.wordpress.com/?p=58771</id>
-        <link href="https://xianblog.wordpress.com/2025/02/06/bused-to-chamonix-jatp/"/>
-        <updated>2025-02-05T23:25:34.000Z</updated>
-        <summary type="html"><![CDATA[Visit the post for more.]]></summary>
-        <author>
-            <name>xi'an</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gemini 2.0 is now available to everyone]]></title>
-        <id>https://deepmind.google/discover/blog/gemini-2-0-is-now-available-to-everyone/</id>
-        <link href="https://deepmind.google/discover/blog/gemini-2-0-is-now-available-to-everyone/"/>
-        <updated>2025-02-05T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[We’re announcing new updates to Gemini 2.0 Flash, plus introducing Gemini 2.0 Flash-Lite and Gemini 2.0 Pro Experimental.]]></summary>
-        <author>
-            <name>Google DeepMind Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Prediction Games]]></title>
-        <id>https://www.argmin.net/p/prediction-games</id>
-        <link href="https://www.argmin.net/p/prediction-games"/>
-        <updated>2025-02-05T15:21:00.000Z</updated>
-        <summary type="html"><![CDATA[The Netflix Prize and the structure of machine learning competition]]></summary>
-        <author>
-            <name>Ben Recht</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Prediction Games]]></title>
-        <id>https://www.argmin.net/p/prediction-games</id>
-        <link href="https://www.argmin.net/p/prediction-games"/>
-        <updated>2025-02-05T15:21:00.000Z</updated>
-        <summary type="html"><![CDATA[The Netflix Prize and the structure of machine learning competition]]></summary>
-        <author>
-            <name>Ben Recht</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kape:  the language rope that binds the people of a remote Indonesian island]]></title>
-        <id>https://languagelog.ldc.upenn.edu/nll/?p=68237</id>
-        <link href="https://languagelog.ldc.upenn.edu/nll/?p=68237&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=kape-the-language-rope-that-binds-the-people-of-a-remote-indonesian-island"/>
-        <updated>2025-02-05T12:56:43.000Z</updated>
-        <summary type="html"><![CDATA[Francesco Perono Cacciafoco, an associate professor of linguistics at Xi'an Jiaotong-Liverpool University, called my attention to this article he wrote for The Conversation (1/26/25), "Finding ‘Kape’: How Language Documentation helps us preserve an endangered language". He and his research team are currently doing intensive fieldwork on the languages of the remote Indonesian island of Alor, which […]]]></summary>
-        <author>
-            <name>Victor Mair</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Seven Assertions about Quantum Computing.]]></title>
-        <id>http://gilkalai.wordpress.com/?p=28161</id>
-        <link href="https://gilkalai.wordpress.com/2025/02/05/seven-assertions-about-quantum-computing/"/>
-        <updated>2025-02-05T09:54:09.000Z</updated>
-        <summary type="html"><![CDATA[The purpose of this post is to present seven assertions about quantum computing that arose in my research. I welcome questions and remarks and will gladly clarify or elaborate on them. Continue reading →]]></summary>
-        <author>
-            <name>Gil Kalai</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Seven Assertions about Quantum Computing.]]></title>
-        <id>http://gilkalai.wordpress.com/?p=28161</id>
-        <link href="https://gilkalai.wordpress.com/2025/02/05/seven-assertions-about-quantum-computing/"/>
-        <updated>2025-02-05T09:54:09.000Z</updated>
-        <summary type="html"><![CDATA[The purpose of this post is to present seven assertions about quantum computing that arose in my research. I welcome questions and remarks and will gladly clarify or elaborate on them. Continue reading →]]></summary>
-        <author>
-            <name>Gil Kalai</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Enabling advanced GPU features in PyTorch - Warp Specialization]]></title>
-        <id>https://pytorch.org/blog/warp-specialization/</id>
-        <link href="https://pytorch.org/blog/warp-specialization/"/>
-        <updated>2025-02-05T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Meta: Hongtao Yu, Manman Ren, Bert Maher, Shane Nay NVIDIA: Gustav Zhu, Shuhao Jiang]]></summary>
-        <author>
-            <name>PyTorch Website</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[miXtures on arXiv]]></title>
-        <id>http://xianblog.wordpress.com/?p=58659</id>
-        <link href="https://xianblog.wordpress.com/2025/02/05/mixtures-on-arxiv/"/>
-        <updated>2025-02-04T23:25:59.000Z</updated>
-        <summary type="html"><![CDATA[A paper about Bayesian inference on mixtures was posted on arXiv last week, as of 13 Jan 2025.  Fast sampling and model selection for Bayesian mixture models, by M. E. J. Newman is based on the notion that (genuine) parameters of a mixture model can be marginalized out when using conjugate priors. This is something […]]]></summary>
-        <author>
-            <name>xi'an</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Updating the Frontier Safety Framework]]></title>
-        <id>https://deepmind.google/discover/blog/updating-the-frontier-safety-framework/</id>
-        <link href="https://deepmind.google/discover/blog/updating-the-frontier-safety-framework/"/>
-        <updated>2025-02-04T16:41:00.000Z</updated>
-        <summary type="html"><![CDATA[Our next iteration of the FSF sets out stronger security protocols on the path to AGI]]></summary>
-        <author>
-            <name>Google DeepMind Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Power of Naming]]></title>
-        <id>https://languagelog.ldc.upenn.edu/nll/?p=68233</id>
-        <link href="https://languagelog.ldc.upenn.edu/nll/?p=68233&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=the-power-of-naming"/>
-        <updated>2025-02-04T16:00:25.000Z</updated>
-        <summary type="html"><![CDATA[[This is a guest post by Conal Boyce] Overview: Here we look at some technical terms and how they’ve fared since their release to, or adoption by, the public: information theory; (TW) the colored quarks of Nambu and Han; cosmic‑ray decay according to Millikan; the Sinitic languages (Mair) vs. ‘the Chinese language’ (misnomer); Wu’s cosmic chirality […]]]></summary>
-        <author>
-            <name>Victor Mair</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Automated Feature Engineering in PyCaret]]></title>
-        <id>https://machinelearningmastery.com/?p=18998</id>
-        <link href="https://machinelearningmastery.com/automated-feature-engineering-pycaret/"/>
-        <updated>2025-02-04T09:00:49.000Z</updated>
-        <summary type="html"><![CDATA[Automated feature engineering in <a href="https://pycaret.]]></summary>
-        <author>
-            <name>Jayita Gulati</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[More Annotated Pictures from Fall/Winter 2024]]></title>
-        <id>http://gilkalai.wordpress.com/?p=28311</id>
-        <link href="https://gilkalai.wordpress.com/2025/02/03/more-annotated-pictures-from-fall-winter-2024/"/>
-        <updated>2025-02-03T17:01:01.000Z</updated>
-        <summary type="html"><![CDATA[Pictures from Jerusalem, Tel Aviv, and Athens (!) and Rehovot. The new Google‘s 10,000,000,000,000,00,000,000,000,000 supremacy announcement;  Sarnak’s lectures; the “A-Bass note”  and, fullerences, 3-polytopes with hexagonal and pentagonal faces (answer to TYI58); What was the music in the ancient Jewish Temple? … Continue reading →]]></summary>
-        <author>
-            <name>Gil Kalai</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[More Annotated Pictures from Fall/Winter 2024]]></title>
-        <id>http://gilkalai.wordpress.com/?p=28311</id>
-        <link href="https://gilkalai.wordpress.com/2025/02/03/more-annotated-pictures-from-fall-winter-2024/"/>
-        <updated>2025-02-03T17:01:01.000Z</updated>
-        <summary type="html"><![CDATA[Pictures from Jerusalem, Tel Aviv, and Athens (!) and Rehovot. The new Google‘s 10,000,000,000,000,00,000,000,000,000 supremacy announcement;  Sarnak’s lectures; the “A-Bass note”  and, fullerences, 3-polytopes with hexagonal and pentagonal faces (answer to TYI58); What was the music in the ancient Jewish Temple? … Continue reading →]]></summary>
-        <author>
-            <name>Gil Kalai</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sincerity]]></title>
-        <id>https://languagelog.ldc.upenn.edu/nll/?p=68227</id>
-        <link href="https://languagelog.ldc.upenn.edu/nll/?p=68227&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=sincerity"/>
-        <updated>2025-02-03T14:43:22.000Z</updated>
-        <summary type="html"><![CDATA[Two colleagues noticed that the PRC government often rebukes other countries for lacking sincerity, and they asked me if Chinese had a different understanding of sincerity that permitted / encouraged them to do so.  "Sincerity" is so front and center in Chinese negotiations with other nations that one soon comes to realize, if you want […]]]></summary>
-        <author>
-            <name>Victor Mair</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The 2025 Machine Learning Toolbox: Top Libraries and Tools for Practitioners]]></title>
-        <id>https://machinelearningmastery.com/?p=18989</id>
-        <link href="https://machinelearningmastery.com/2025-machine-learning-toolbox-top-libraries-tools-practitioners/"/>
-        <updated>2025-02-03T11:00:54.000Z</updated>
-        <summary type="html"><![CDATA[2024 was the year machine learning (ML) and artificial intelligence (AI) went mainstream, affecting peoples' lives in ways they never before could have.]]></summary>
-        <author>
-            <name>Cornellius Yudha Wijaya</name>
         </author>
     </entry>
     <entry>
