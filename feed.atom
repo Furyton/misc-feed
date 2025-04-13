@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-04-13T03:07:23.448Z</updated>
+    <updated>2025-04-13T04:49:22.164Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Seed-Thinking-v1.5：用强化学习推动语言模型的深度推理能力]]></title>
+        <id>https://www.52nlp.cn/?p=20628</id>
+        <link href="https://www.52nlp.cn/seed-thinking-v1-5%ef%bc%9a%e7%94%a8%e5%bc%ba%e5%8c%96%e5%ad%a6%e4%b9%a0%e6%8e%a8%e5%8a%a8%e8%af%ad%e8%a8%80%e6%a8%a1%e5%9e%8b%e7%9a%84%e6%b7%b1%e5%ba%a6%e6%8e%a8%e7%90%86%e8%83%bd%e5%8a%9b"/>
+        <updated>2025-04-13T03:30:43.000Z</updated>
+        <summary type="html"><![CDATA[近日，字节跳动发布了新一代推理模型 Seed-Thinking-v1.5，其在数学、编程、科学等复杂 […]]]></summary>
+        <author>
+            <name>52nlp</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Nature tidbits [Jan 2025]]]></title>
         <id>http://xianblog.wordpress.com/?p=59093</id>
@@ -137,6 +147,16 @@ Production-level LLM systems, e.g., …]]></summary>
         <summary type="html"><![CDATA[Be sure to check out the previous articles in this series: • <a href="https://machinelearningmastery.]]></summary>
         <author>
             <name>Iván Palomares Carrascosa</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kimi-VL：开源多模态模型的新标杆——解读高效视觉语言混合专家模型]]></title>
+        <id>https://www.52nlp.cn/?p=20625</id>
+        <link href="https://www.52nlp.cn/kimi-vl%ef%bc%9a%e5%bc%80%e6%ba%90%e5%a4%9a%e6%a8%a1%e6%80%81%e6%a8%a1%e5%9e%8b%e7%9a%84%e6%96%b0%e6%a0%87%e6%9d%86-%e8%a7%a3%e8%af%bb%e9%ab%98%e6%95%88%e8%a7%86%e8%a7%89%e8%af%ad"/>
+        <updated>2025-04-10T02:54:26.000Z</updated>
+        <summary type="html"><![CDATA[引言 随着人工智能技术的飞速发展，多模态模型正逐渐成为人机交互的核心。然而，开源社区在视觉语言模型（VLM）领 […]]]></summary>
+        <author>
+            <name>52nlp</name>
         </author>
     </entry>
     <entry>
@@ -1178,16 +1198,6 @@ Maternity wards If you walk around the maternity ward at Kaiser Permanente’s S
         <summary type="html"><![CDATA[Native image output is available in Gemini 2.0 Flash for developers to experiment with in Google AI Studio and the Gemini API.]]></summary>
         <author>
             <name>Google DeepMind Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google DeepMind 发布多模态轻量级开源模型 Gemma 3：性能与功能全面升级]]></title>
-        <id>https://www.52nlp.cn/?p=20594</id>
-        <link href="https://www.52nlp.cn/google-deepmind-%e5%8f%91%e5%b8%83%e5%a4%9a%e6%a8%a1%e6%80%81%e8%bd%bb%e9%87%8f%e7%ba%a7%e5%bc%80%e6%ba%90%e6%a8%a1%e5%9e%8b-gemma-3%ef%bc%9a%e6%80%a7%e8%83%bd%e4%b8%8e%e5%8a%9f%e8%83%bd%e5%85%a8"/>
-        <updated>2025-03-12T12:07:38.000Z</updated>
-        <summary type="html"><![CDATA[近日，Google DeepMind 团队推出了 Gemma 3，一款多模态轻量级开源模型，它在 Gemma  […]]]></summary>
-        <author>
-            <name>52nlp</name>
         </author>
     </entry>
     <entry>
