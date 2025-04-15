@@ -1621,7 +1621,18 @@
       "title": "Sander Dieleman",
       "feedUrl": "https://benanne.github.io/feed",
       "siteUrl": "https://sander.ai/",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://sander.ai/2025/04/15/latents.html",
+          "author": null,
+          "description": "Latent representations for generative models.",
+          "link": "https://sander.ai/2025/04/15/latents.html",
+          "publishedOn": "2025-04-14T23:00:00.000Z",
+          "wordCount": 12706,
+          "title": "Generative modelling in latent space",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "Jeremy Jordan",

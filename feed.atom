@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-04-15T09:23:37.697Z</updated>
+    <updated>2025-04-15T10:23:07.108Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
@@ -14,6 +14,16 @@
         <summary type="html"><![CDATA[OpenAI今晨推出了 GPT4.1，这是官方介绍： https://openai.com/index/gpt […]]]></summary>
         <author>
             <name>52nlp</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Generative modelling in latent space]]></title>
+        <id>https://sander.ai/2025/04/15/latents.html</id>
+        <link href="https://sander.ai/2025/04/15/latents.html"/>
+        <updated>2025-04-14T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Latent representations for generative models.]]></summary>
+        <author>
+            <name>Sander Dieleman</name>
         </author>
     </entry>
     <entry>
