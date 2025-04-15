@@ -2,10 +2,100 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-04-13T04:49:22.164Z</updated>
+    <updated>2025-04-15T08:28:41.421Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[OpenAI GPT-4.1 API 发布及简介]]></title>
+        <id>https://www.52nlp.cn/?p=20632</id>
+        <link href="https://www.52nlp.cn/openai-gpt-4-1-api-%e5%8f%91%e5%b8%83%e5%8f%8a%e7%ae%80%e4%bb%8b"/>
+        <updated>2025-04-15T03:16:12.000Z</updated>
+        <summary type="html"><![CDATA[OpenAI今晨推出了 GPT4.1，这是官方介绍： https://openai.com/index/gpt […]]]></summary>
+        <author>
+            <name>52nlp</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[mappa grafica [book (re)view(s)]]]></title>
+        <id>http://xianblog.wordpress.com/?p=59309</id>
+        <link href="https://xianblog.wordpress.com/2025/04/15/mappa-grafica-book-reviews/"/>
+        <updated>2025-04-14T22:25:06.000Z</updated>
+        <summary type="html"><![CDATA[Visit the post for more.]]></summary>
+        <author>
+            <name>xi'an</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Generating and Visualizing Context Vectors in Transformers]]></title>
+        <id>https://machinelearningmastery.com/?p=19681</id>
+        <link href="https://machinelearningmastery.com/generating-and-visualizing-context-vectors-in-transformers/"/>
+        <updated>2025-04-14T18:04:44.000Z</updated>
+        <summary type="html"><![CDATA[This post is divided into three parts; they are: • Understanding Context Vectors • Visualizing Context Vectors from Different Layers • Visualizing Attention Patterns Unlike traditional word embeddings (such as Word2Vec or GloVe), which assign a fixed vector to each word regardless of context, transformer models generate dynamic representations that depend on surrounding words.]]></summary>
+        <author>
+            <name>Muhammad Asad Iqbal Khan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mawkishly maudlin]]></title>
+        <id>https://languagelog.ldc.upenn.edu/nll/?p=68847</id>
+        <link href="https://languagelog.ldc.upenn.edu/nll/?p=68847&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=mawkishly-maudlin"/>
+        <updated>2025-04-14T17:00:10.000Z</updated>
+        <summary type="html"><![CDATA[Thirty-five or so years ago, Allyn Rickett (1921-2020), my old colleague at Penn, referred to a certain person as "pópomāmā 婆婆媽媽" ("mawkishly maudlin" [my translation of Rickett's Mandarin]; "old-lady-like").  This is such an unusual expression, and it so perfectly characterized the individual in question, that it's worth writing a post on it. In the years […]]]></summary>
+        <author>
+            <name>Victor Mair</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Maybe just believing in AGI makes AGI exist.]]></title>
+        <id>https://www.argmin.net/p/maybe-just-believing-in-agi-makes</id>
+        <link href="https://www.argmin.net/p/maybe-just-believing-in-agi-makes"/>
+        <updated>2025-04-14T14:30:29.000Z</updated>
+        <summary type="html"><![CDATA[Kill the wise one!]]></summary>
+        <author>
+            <name>Ben Recht</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Maybe just believing in AGI makes AGI exist.]]></title>
+        <id>https://www.argmin.net/p/maybe-just-believing-in-agi-makes</id>
+        <link href="https://www.argmin.net/p/maybe-just-believing-in-agi-makes"/>
+        <updated>2025-04-14T14:30:29.000Z</updated>
+        <summary type="html"><![CDATA[Kill the wise one!]]></summary>
+        <author>
+            <name>Ben Recht</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[5 Lessons Learned Building RAG Systems]]></title>
+        <id>https://machinelearningmastery.com/?p=19580</id>
+        <link href="https://machinelearningmastery.com/5-lessons-learned-building-rag-systems/"/>
+        <updated>2025-04-14T12:00:27.000Z</updated>
+        <summary type="html"><![CDATA[Retrieval augmented generation (RAG) is one of 2025's hot topics in the AI landscape.]]></summary>
+        <author>
+            <name>Iván Palomares Carrascosa</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[15 AI positions at Paris School of AI (PR[AI]RIE)]]></title>
+        <id>http://xianblog.wordpress.com/?p=59402</id>
+        <link href="https://xianblog.wordpress.com/2025/04/14/15-ai-positions-at-paris-school-of-ai-prairie/"/>
+        <updated>2025-04-13T22:25:22.000Z</updated>
+        <summary type="html"><![CDATA[Visit the post for more.]]></summary>
+        <author>
+            <name>xi'an</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI Sauce]]></title>
+        <id>https://languagelog.ldc.upenn.edu/nll/?p=68845</id>
+        <link href="https://languagelog.ldc.upenn.edu/nll/?p=68845&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=ai-sauce"/>
+        <updated>2025-04-13T22:12:32.000Z</updated>
+        <summary type="html"><![CDATA[This should add some zest to the debate over AI. She's not the only one.  I've seen a lot of people mix up AI and A1.   Selected readings "AI (and human ingenuity) to the rescue" (2/6/24) "AI encroachments" (7/21/23) "The AI threat: keep calm and carry on" (6/29/23) "'Tomato sauce' in Cantonese, with a […]]]></summary>
+        <author>
+            <name>Victor Mair</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Seed-Thinking-v1.5：用强化学习推动语言模型的深度推理能力]]></title>
         <id>https://www.52nlp.cn/?p=20628</id>
@@ -1138,76 +1228,6 @@ Maternity wards If you walk around the maternity ward at Kaiser Permanente’s S
         <summary type="html"><![CDATA[As I have been aiming at mentioning this news for quite a while, David Frazier, Ryan Kelly, Christopher Drovandi, and David Warne arXived last November a paper that parallels our paper (with David and Gael) on ABC consistency and some earlier papers of theirs for synthetic likelihood in the case of neural posterior approximations, under […]]]></summary>
         <author>
             <name>xi'an</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Kushan Empire and its languages]]></title>
-        <id>https://languagelog.ldc.upenn.edu/nll/?p=68588</id>
-        <link href="https://languagelog.ldc.upenn.edu/nll/?p=68588&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=the-kushan-empire-and-its-languages"/>
-        <updated>2025-03-16T11:25:09.000Z</updated>
-        <summary type="html"><![CDATA[Jean Nota Bene, the biggest French YouTuber (millions of followers) on historical subjects, recently focused on the Kushans.  He follows many of the same themes that we do on Language Log and Sino-Platonic Papers (including Greek-Indian-Chinese associations), so many readers of this post will be interested in what he has to say about the Kushan Empire […]]]></summary>
-        <author>
-            <name>Victor Mair</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PyTorch at GTC 2025]]></title>
-        <id>https://pytorch.org/blog/pytorch-at-gtc/</id>
-        <link href="https://pytorch.org/blog/pytorch-at-gtc/"/>
-        <updated>2025-03-16T07:00:00.000Z</updated>
-        <summary type="html"><![CDATA[GTC is coming back to San Jose on March 17–21, 2025. Join PyTorch Foundation members Arm, AWS, Google Cloud, IBM, Lightning AI, Meta, Microsoft Azure, Snowflake, and thousands of developers as we celebrate PyTorch. Together learn how AI &amp; accelerated computing are helping humanity solve our most complex challenges.]]></summary>
-        <author>
-            <name>PyTorch Website</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[total respect (et tant pis pour Jules Verne!)]]></title>
-        <id>http://xianblog.wordpress.com/?p=58869</id>
-        <link href="https://xianblog.wordpress.com/2025/03/16/total-respect-et-tant-pis-pour-jules-verne/"/>
-        <updated>2025-03-15T23:25:25.000Z</updated>
-        <summary type="html"><![CDATA[Visit the post for more.]]></summary>
-        <author>
-            <name>xi'an</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[when open publishing is not fair [PCI webinar, 20 March, 4pm CET]]]></title>
-        <id>http://xianblog.wordpress.com/?p=59021</id>
-        <link href="https://xianblog.wordpress.com/2025/03/15/when-open-publishing-is-not-fair-pci-webinar-20-march-4pm-cet/"/>
-        <updated>2025-03-14T23:25:54.000Z</updated>
-        <summary type="html"><![CDATA[9th seminar of the PCI webinar series Mandatory registration using this link: https://univ-cotedazur.zoom.us/meeting/register/rz8ZKReZQeqs-3yR3S6q4g When Open Publishing Is Not Fair Sabina Leonelli (Technical University of Munich, TUM) Summary: There are obvious ways in which Open Access has augmented inequity rather than mitigating it, for instance in relation to Author Publishing Costs and the differential access that […]]]></summary>
-        <author>
-            <name>xi'an</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gemini Robotics brings AI into the physical world]]></title>
-        <id>https://deepmind.google/discover/blog/gemini-robotics-brings-ai-into-the-physical-world/</id>
-        <link href="https://deepmind.google/discover/blog/gemini-robotics-brings-ai-into-the-physical-world/"/>
-        <updated>2025-03-12T15:00:18.000Z</updated>
-        <summary type="html"><![CDATA[Introducing Gemini Robotics and Gemini Robotics-ER, AI models designed for robots to understand, act and react to the physical world.]]></summary>
-        <author>
-            <name>Google DeepMind Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Experiment with Gemini 2.0 Flash native image generation]]></title>
-        <id>https://deepmind.google/discover/blog/experiment-with-gemini-20-flash-native-image-generation/</id>
-        <link href="https://deepmind.google/discover/blog/experiment-with-gemini-20-flash-native-image-generation/"/>
-        <updated>2025-03-12T14:58:00.000Z</updated>
-        <summary type="html"><![CDATA[Native image output is available in Gemini 2.0 Flash for developers to experiment with in Google AI Studio and the Gemini API.]]></summary>
-        <author>
-            <name>Google DeepMind Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Introducing Gemma 3]]></title>
-        <id>https://deepmind.google/discover/blog/introducing-gemma-3/</id>
-        <link href="https://deepmind.google/discover/blog/introducing-gemma-3/"/>
-        <updated>2025-03-12T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The most capable model you can run on a single GPU or TPU.]]></summary>
-        <author>
-            <name>Google DeepMind Blog</name>
         </author>
     </entry>
     <entry>

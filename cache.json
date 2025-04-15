@@ -1476,6 +1476,22 @@
       "siteUrl": "https://www.argmin.net",
       "articles": [
         {
+          "id": "https://www.argmin.net/p/maybe-just-believing-in-agi-makes",
+          "author": "Ben Recht",
+          "description": "Kill the wise one!",
+          "link": "https://www.argmin.net/p/maybe-just-believing-in-agi-makes",
+          "publishedOn": "2025-04-14T14:30:29.000Z",
+          "wordCount": null,
+          "title": "Maybe just believing in AGI makes AGI exist.",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substack-post-media.s3.amazonaws.com/public/images/36680322-3469-4125-bcfd-8abf3af3293c_840x599.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substack-post-media.s3.amazonaws.com/public/images/36680322-3469-4125-bcfd-8abf3af3293c_840x599.jpeg"
+        },
+        {
           "id": "https://www.argmin.net/p/evaluation-or-valuation",
           "author": "Ben Recht",
           "description": "The infinite regress of evaluating large language models",
@@ -1725,36 +1741,6 @@
           "wordCount": 4079,
           "title": "Gemini 2.5: Our most intelligent AI model",
           "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/2.5_keyword_social_share_text.width-1300.png"
-        },
-        {
-          "id": "https://deepmind.google/discover/blog/gemini-robotics-brings-ai-into-the-physical-world/",
-          "author": null,
-          "description": "Introducing Gemini Robotics and Gemini Robotics-ER, AI models designed for robots to understand, act and react to the physical world.",
-          "link": "https://deepmind.google/discover/blog/gemini-robotics-brings-ai-into-the-physical-world/",
-          "publishedOn": "2025-03-12T15:00:18.000Z",
-          "wordCount": 1978,
-          "title": "Gemini Robotics brings AI into the physical world",
-          "imageUrl": "https://lh3.googleusercontent.com/J74rVi68EPPNMBLxhxI76Bli7QggLtYRYfp5Pk2HVPtSt2NIIk2VmLktQbwDZeIlZiW3AHwlpLNcswHuz_ecR-oj4kI-mtF53yYsGJKfvPugAw5ulQ=w1200-h630-n-nu"
-        },
-        {
-          "id": "https://deepmind.google/discover/blog/experiment-with-gemini-20-flash-native-image-generation/",
-          "author": null,
-          "description": "Native image output is available in Gemini 2.0 Flash for developers to experiment with in Google AI Studio and the Gemini API.",
-          "link": "https://deepmind.google/discover/blog/experiment-with-gemini-20-flash-native-image-generation/",
-          "publishedOn": "2025-03-12T14:58:00.000Z",
-          "wordCount": 954,
-          "title": "Experiment with Gemini 2.0 Flash native image generation",
-          "imageUrl": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/gemini-image-generation_1.2e16d0ba.fill-1200x600.png"
-        },
-        {
-          "id": "https://deepmind.google/discover/blog/introducing-gemma-3/",
-          "author": null,
-          "description": "The most capable model you can run on a single GPU or TPU.",
-          "link": "https://deepmind.google/discover/blog/introducing-gemma-3/",
-          "publishedOn": "2025-03-12T08:00:00.000Z",
-          "wordCount": 4282,
-          "title": "Introducing Gemma 3",
-          "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemma3_KeywordBlog_RD3_V01b_SocialShare.width-1300.png"
         }
       ]
     },
@@ -1763,6 +1749,26 @@
       "feedUrl": "https://machinelearningmastery.com/feed/",
       "siteUrl": "https://machinelearningmastery.com/",
       "articles": [
+        {
+          "id": "https://machinelearningmastery.com/?p=19681",
+          "author": "Muhammad Asad Iqbal Khan",
+          "description": "This post is divided into three parts; they are: • Understanding Context Vectors • Visualizing Context Vectors from Different Layers • Visualizing Attention Patterns Unlike traditional word embeddings (such as Word2Vec or GloVe), which assign a fixed vector to each word regardless of context, transformer models generate dynamic representations that depend on surrounding words.",
+          "link": "https://machinelearningmastery.com/generating-and-visualizing-context-vectors-in-transformers/",
+          "publishedOn": "2025-04-14T18:04:44.000Z",
+          "wordCount": null,
+          "title": "Generating and Visualizing Context Vectors in Transformers",
+          "imageUrl": null
+        },
+        {
+          "id": "https://machinelearningmastery.com/?p=19580",
+          "author": "Iván Palomares Carrascosa",
+          "description": "Retrieval augmented generation (RAG) is one of 2025's hot topics in the AI landscape.",
+          "link": "https://machinelearningmastery.com/5-lessons-learned-building-rag-systems/",
+          "publishedOn": "2025-04-14T12:00:27.000Z",
+          "wordCount": null,
+          "title": "5 Lessons Learned Building RAG Systems",
+          "imageUrl": null
+        },
         {
           "id": "https://machinelearningmastery.com/?p=19477",
           "author": "Iván Palomares Carrascosa",
@@ -2061,16 +2067,6 @@
           "wordCount": 1418,
           "title": "SGLang Joins PyTorch Ecosystem: Efficient LLM Serving Engine",
           "imageUrl": "https://pytorch.org/assets/images/social-share.jpg"
-        },
-        {
-          "id": "https://pytorch.org/blog/pytorch-at-gtc/",
-          "author": null,
-          "description": "GTC is coming back to San Jose on March 17–21, 2025. Join PyTorch Foundation members Arm, AWS, Google Cloud, IBM, Lightning AI, Meta, Microsoft Azure, Snowflake, and thousands of developers as we celebrate PyTorch. Together learn how AI &amp; accelerated computing are helping humanity solve our most complex challenges.",
-          "link": "https://pytorch.org/blog/pytorch-at-gtc/",
-          "publishedOn": "2025-03-16T07:00:00.000Z",
-          "wordCount": 2466,
-          "title": "PyTorch at GTC 2025",
-          "imageUrl": "https://pytorch.org/assets/images/social-share.jpg"
         }
       ]
     },
@@ -2114,6 +2110,22 @@
       "feedUrl": "https://www.argmin.net/feed.xml",
       "siteUrl": "https://www.argmin.net",
       "articles": [
+        {
+          "id": "https://www.argmin.net/p/maybe-just-believing-in-agi-makes",
+          "author": "Ben Recht",
+          "description": "Kill the wise one!",
+          "link": "https://www.argmin.net/p/maybe-just-believing-in-agi-makes",
+          "publishedOn": "2025-04-14T14:30:29.000Z",
+          "wordCount": null,
+          "title": "Maybe just believing in AGI makes AGI exist.",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substack-post-media.s3.amazonaws.com/public/images/36680322-3469-4125-bcfd-8abf3af3293c_840x599.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substack-post-media.s3.amazonaws.com/public/images/36680322-3469-4125-bcfd-8abf3af3293c_840x599.jpeg"
+        },
         {
           "id": "https://www.argmin.net/p/evaluation-or-valuation",
           "author": "Ben Recht",
@@ -2266,6 +2278,26 @@
       "feedUrl": "https://xianblog.wordpress.com/feed/",
       "siteUrl": "https://xianblog.wordpress.com",
       "articles": [
+        {
+          "id": "http://xianblog.wordpress.com/?p=59309",
+          "author": "xi'an",
+          "description": "Visit the post for more.",
+          "link": "https://xianblog.wordpress.com/2025/04/15/mappa-grafica-book-reviews/",
+          "publishedOn": "2025-04-14T22:25:06.000Z",
+          "wordCount": 2592,
+          "title": "mappa grafica [book (re)view(s)]",
+          "imageUrl": "https://xianblog.wordpress.com/wp-content/uploads/2025/03/1743151891044-e1743415870755.jpg"
+        },
+        {
+          "id": "http://xianblog.wordpress.com/?p=59402",
+          "author": "xi'an",
+          "description": "Visit the post for more.",
+          "link": "https://xianblog.wordpress.com/2025/04/14/15-ai-positions-at-paris-school-of-ai-prairie/",
+          "publishedOn": "2025-04-13T22:25:22.000Z",
+          "wordCount": 2601,
+          "title": "15 AI positions at Paris School of AI (PR[AI]RIE)",
+          "imageUrl": "https://xianblog.wordpress.com/wp-content/uploads/2025/04/temp-3.png"
+        },
         {
           "id": "http://xianblog.wordpress.com/?p=59093",
           "author": "xi'an",
@@ -2495,26 +2527,6 @@
           "wordCount": 3101,
           "title": "statistical accuracy of neural posterior and likelihood estimation",
           "imageUrl": "https://xianblog.wordpress.com/wp-content/uploads/2023/11/1701281850731-e1701281978553.jpg?w=450"
-        },
-        {
-          "id": "http://xianblog.wordpress.com/?p=58869",
-          "author": "xi'an",
-          "description": "Visit the post for more.",
-          "link": "https://xianblog.wordpress.com/2025/03/16/total-respect-et-tant-pis-pour-jules-verne/",
-          "publishedOn": "2025-03-15T23:25:25.000Z",
-          "wordCount": 2605,
-          "title": "total respect (et tant pis pour Jules Verne!)",
-          "imageUrl": "https://xianblog.wordpress.com/wp-content/uploads/2025/02/temp.jpeg"
-        },
-        {
-          "id": "http://xianblog.wordpress.com/?p=59021",
-          "author": "xi'an",
-          "description": "9th seminar of the PCI webinar series Mandatory registration using this link: https://univ-cotedazur.zoom.us/meeting/register/rz8ZKReZQeqs-3yR3S6q4g When Open Publishing Is Not Fair Sabina Leonelli (Technical University of Munich, TUM) Summary: There are obvious ways in which Open Access has augmented inequity rather than mitigating it, for instance in relation to Author Publishing Costs and the differential access that […]",
-          "link": "https://xianblog.wordpress.com/2025/03/15/when-open-publishing-is-not-fair-pci-webinar-20-march-4pm-cet/",
-          "publishedOn": "2025-03-14T23:25:54.000Z",
-          "wordCount": 3060,
-          "title": "when open publishing is not fair [PCI webinar, 20 March, 4pm CET]",
-          "imageUrl": "https://xianblog.wordpress.com/wp-content/uploads/2011/02/img_7993-e1296942095575.jpg?w=450"
         }
       ]
     },
@@ -2552,6 +2564,16 @@
       "feedUrl": "https://www.52nlp.cn/feed",
       "siteUrl": "https://www.52nlp.cn",
       "articles": [
+        {
+          "id": "https://www.52nlp.cn/?p=20632",
+          "author": "52nlp",
+          "description": "OpenAI今晨推出了 GPT4.1，这是官方介绍： https://openai.com/index/gpt […]",
+          "link": "https://www.52nlp.cn/openai-gpt-4-1-api-%e5%8f%91%e5%b8%83%e5%8f%8a%e7%ae%80%e4%bb%8b",
+          "publishedOn": "2025-04-15T03:16:12.000Z",
+          "wordCount": 1173,
+          "title": "OpenAI GPT-4.1 API 发布及简介",
+          "imageUrl": null
+        },
         {
           "id": "https://www.52nlp.cn/?p=20628",
           "author": "52nlp",
@@ -2599,6 +2621,26 @@
       "feedUrl": "https://languagelog.ldc.upenn.edu/nll/?feed=rss2",
       "siteUrl": "https://languagelog.ldc.upenn.edu/nll",
       "articles": [
+        {
+          "id": "https://languagelog.ldc.upenn.edu/nll/?p=68847",
+          "author": "Victor Mair",
+          "description": "Thirty-five or so years ago, Allyn Rickett (1921-2020), my old colleague at Penn, referred to a certain person as \"pópomāmā 婆婆媽媽\" (\"mawkishly maudlin\" [my translation of Rickett's Mandarin]; \"old-lady-like\").  This is such an unusual expression, and it so perfectly characterized the individual in question, that it's worth writing a post on it. In the years […]",
+          "link": "https://languagelog.ldc.upenn.edu/nll/?p=68847&utm_source=rss&utm_medium=rss&utm_campaign=mawkishly-maudlin",
+          "publishedOn": "2025-04-14T17:00:10.000Z",
+          "wordCount": 3194,
+          "title": "Mawkishly maudlin",
+          "imageUrl": null
+        },
+        {
+          "id": "https://languagelog.ldc.upenn.edu/nll/?p=68845",
+          "author": "Victor Mair",
+          "description": "This should add some zest to the debate over AI. She's not the only one.  I've seen a lot of people mix up AI and A1.   Selected readings \"AI (and human ingenuity) to the rescue\" (2/6/24) \"AI encroachments\" (7/21/23) \"The AI threat: keep calm and carry on\" (6/29/23) \"'Tomato sauce' in Cantonese, with a […]",
+          "link": "https://languagelog.ldc.upenn.edu/nll/?p=68845&utm_source=rss&utm_medium=rss&utm_campaign=ai-sauce",
+          "publishedOn": "2025-04-13T22:12:32.000Z",
+          "wordCount": 2463,
+          "title": "AI Sauce",
+          "imageUrl": null
+        },
         {
           "id": "https://languagelog.ldc.upenn.edu/nll/?p=68837",
           "author": "Victor Mair",
@@ -2887,16 +2929,6 @@
           "publishedOn": "2025-03-17T10:31:31.000Z",
           "wordCount": 4246,
           "title": "Phonemic analysis of animal sounds as spelled in various popular languages",
-          "imageUrl": null
-        },
-        {
-          "id": "https://languagelog.ldc.upenn.edu/nll/?p=68588",
-          "author": "Victor Mair",
-          "description": "Jean Nota Bene, the biggest French YouTuber (millions of followers) on historical subjects, recently focused on the Kushans.  He follows many of the same themes that we do on Language Log and Sino-Platonic Papers (including Greek-Indian-Chinese associations), so many readers of this post will be interested in what he has to say about the Kushan Empire […]",
-          "link": "https://languagelog.ldc.upenn.edu/nll/?p=68588&utm_source=rss&utm_medium=rss&utm_campaign=the-kushan-empire-and-its-languages",
-          "publishedOn": "2025-03-16T11:25:09.000Z",
-          "wordCount": 3885,
-          "title": "The Kushan Empire and its languages",
           "imageUrl": null
         }
       ]
