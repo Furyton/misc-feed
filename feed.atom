@@ -2,10 +2,550 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-06-17T03:19:40.883Z</updated>
+    <updated>2025-06-30T20:24:12.448Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Your First Local LLM API Project in Python Step-By-Step]]></title>
+        <id>https://machinelearningmastery.com/?p=20567</id>
+        <link href="https://machinelearningmastery.com/your-first-local-llm-api-project-in-python-step-by-step/"/>
+        <updated>2025-06-30T12:00:58.000Z</updated>
+        <summary type="html"><![CDATA[Interested in leveraging a large language model (LLM) API locally on your machine using Python and not-too-overwhelming tools frameworks? In this step-by-step article, you will set up a local API where you'll be able to send prompts to an LLM downloaded on your machine and obtain responses back.]]></summary>
+        <author>
+            <name>Iván Palomares Carrascosa</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linear Layers and Activation Functions in Transformer Models]]></title>
+        <id>https://machinelearningmastery.com/?p=20555</id>
+        <link href="https://machinelearningmastery.com/linear-layers-and-activation-functions-in-transformer-models/"/>
+        <updated>2025-06-30T01:45:34.000Z</updated>
+        <summary type="html"><![CDATA[This post is divided into three parts; they are: • Why Linear Layers and Activations are Needed in Transformers • Typical Design of the Feed-Forward Network • Variations of the Activation Functions The attention layer is the core function of a transformer model.]]></summary>
+        <author>
+            <name>Adrian Tam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[De pierre et d’os]]></title>
+        <id>http://xianblog.wordpress.com/?p=59898</id>
+        <link href="https://xianblog.wordpress.com/2025/06/30/de-pierre-et-dos/"/>
+        <updated>2025-06-29T22:25:48.000Z</updated>
+        <summary type="html"><![CDATA[Visit the post for more.]]></summary>
+        <author>
+            <name>xi'an</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[off to Chennai]]></title>
+        <id>http://xianblog.wordpress.com/?p=60116</id>
+        <link href="https://xianblog.wordpress.com/2025/06/29/60116/"/>
+        <updated>2025-06-28T22:25:15.000Z</updated>
+        <summary type="html"><![CDATA[Today, I am off to Chennai (aka Madras) for a… Banff workshop! As one of its several branches and associated institutions (incl. Oaxaca), BIRS has the Chennai Mathematical Institute hosting the workshop “Game-theoretic statistical inference: Optional Sampling, Universal Inference, and Multiple Testing based on e-values”, which I attend in an attempt to better ascertain e-values. […]]]></summary>
+        <author>
+            <name>xi'an</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Masochism:  a bad rap from inception]]></title>
+        <id>https://languagelog.ldc.upenn.edu/nll/?p=69710</id>
+        <link href="https://languagelog.ldc.upenn.edu/nll/?p=69710&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=masochism-a-bad-rap-from-inception"/>
+        <updated>2025-06-28T22:23:24.000Z</updated>
+        <summary type="html"><![CDATA[Long ago (half a century), I had occasion to translate the word "masochism" into Chinese.  At that stage, I wasn't even sure what "masochism" itself meant.  Supposedly it was "the madness of deriving pleasure from pain", I guessed especially sexual pleasure — something like that. Wanting to give the most accurate possible translation into Chinese, […]]]></summary>
+        <author>
+            <name>Victor Mair</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LayerNorm and RMS Norm in Transformer Models]]></title>
+        <id>https://machinelearningmastery.com/?p=20552</id>
+        <link href="https://machinelearningmastery.com/layernorm-and-rms-norm-in-transformer-models/"/>
+        <updated>2025-06-28T01:33:58.000Z</updated>
+        <summary type="html"><![CDATA[This post is divided into five parts; they are: • Why Normalization is Needed in Transformers • LayerNorm and Its Implementation • Adaptive LayerNorm • RMS Norm and Its Implementation • Using PyTorch's Built-in Normalization Normalization layers improve model quality in deep learning.]]></summary>
+        <author>
+            <name>Adrian Tam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[what the hell..?!]]></title>
+        <id>http://xianblog.wordpress.com/?p=59894</id>
+        <link href="https://xianblog.wordpress.com/2025/06/28/what-the-hell/"/>
+        <updated>2025-06-27T22:25:11.000Z</updated>
+        <summary type="html"><![CDATA[When seeing that Jorge Bergoglio’s autobiography, Hope, was part of the weekly book review in Nature, I was at the end of my Latin [customary French expression for it’s all Greek to me] as I could not get the point since the brief stint of his as a chemical technician did not sound like a […]]]></summary>
+        <author>
+            <name>xi'an</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Breakthrough of an Unusual Nature: the Media Control Symbol “Play” was Successfully Embedded into the London Skyline!]]></title>
+        <id>http://gilkalai.wordpress.com/?p=29630</id>
+        <link href="https://gilkalai.wordpress.com/2025/06/27/a-breakthrough-of-an-unusual-nature-the-media-control-symbol-play-was-successfully-embedded-into-the-london-skyline/"/>
+        <updated>2025-06-27T14:43:50.000Z</updated>
+        <summary type="html"><![CDATA[Three pictures showing that the media control symbol “play” was successfully embedded into London’s skyline 🙂 . The fourth rare picture is a screenshot with the control symbol “play” appearing side by side with its natural London demonstration. And here … Continue reading →]]></summary>
+        <author>
+            <name>Gil Kalai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Breakthrough of an Unusual Nature: the Media Control Symbol “Play” was Successfully Embedded into the London Skyline!]]></title>
+        <id>http://gilkalai.wordpress.com/?p=29630</id>
+        <link href="https://gilkalai.wordpress.com/2025/06/27/a-breakthrough-of-an-unusual-nature-the-media-control-symbol-play-was-successfully-embedded-into-the-london-skyline/"/>
+        <updated>2025-06-27T14:43:50.000Z</updated>
+        <summary type="html"><![CDATA[Three pictures showing that the media control symbol “play” was successfully embedded into London’s skyline 🙂 . The fourth rare picture is a screenshot with the control symbol “play” appearing side by side with its natural London demonstration. And here … Continue reading →]]></summary>
+        <author>
+            <name>Gil Kalai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Computational phylogeny of Indo-European]]></title>
+        <id>https://languagelog.ldc.upenn.edu/nll/?p=69706</id>
+        <link href="https://languagelog.ldc.upenn.edu/nll/?p=69706&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=computational-phylogeny-of-indo-european"/>
+        <updated>2025-06-27T11:24:38.000Z</updated>
+        <summary type="html"><![CDATA[Alexei S. Kassian and George Starostin, "Do 'language trees with sampled ancestors' really support a 'hybrid model' for the origin of Indo-European? Thoughts on the most recent attempt at yet another IE phylogeny".  Humanities and Social Sciences Communications, 12, no. 682 (May 16, 2025). Abstract In this paper, we present a brief critical analysis of […]]]></summary>
+        <author>
+            <name>Victor Mair</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Thalys static]]></title>
+        <id>http://xianblog.wordpress.com/?p=59825</id>
+        <link href="https://xianblog.wordpress.com/2025/06/27/thalys-verbatim/"/>
+        <updated>2025-06-26T22:25:12.000Z</updated>
+        <summary type="html"><![CDATA[[When returning from Brussels, after the privaCI workshop, I happened to sit in the Thalys train to Paris, next to three French (?) lobbyists (??) discussing very loudly about the specifics of their trade, apparently acting for the main agriculture union FNSEA (???) model of industrial and intensive agriculture at the European Commission or Parliement […]]]></summary>
+        <author>
+            <name>xi'an</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Animal calls are not comparable to human speech]]></title>
+        <id>https://languagelog.ldc.upenn.edu/nll/?p=69701</id>
+        <link href="https://languagelog.ldc.upenn.edu/nll/?p=69701&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=animal-calls-are-not-comparable-to-human-speech"/>
+        <updated>2025-06-26T17:39:18.000Z</updated>
+        <summary type="html"><![CDATA[But can they still tell us something useful about language?  Here are two new papers that address that question: I. "What the Hidden Rhythms of Orangutan Calls Can Tell Us about Language – New Research." De Gregorio, Chiara. The Conversation, May 27, 2025. In the dense forests of Indonesia, you can hear strange and haunting […]]]></summary>
+        <author>
+            <name>Victor Mair</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[7 AI Agent Frameworks for Machine Learning Workflows in 2025]]></title>
+        <id>https://machinelearningmastery.com/?p=20623</id>
+        <link href="https://machinelearningmastery.com/7-ai-agent-frameworks-for-machine-learning-workflows-in-2025/"/>
+        <updated>2025-06-26T12:00:22.000Z</updated>
+        <summary type="html"><![CDATA[Machine learning practitioners spend countless hours on repetitive tasks: monitoring model performance, retraining pipelines, data quality checks, and experiment tracking.]]></summary>
+        <author>
+            <name>Vinod Chugani</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Gentle Introduction to Attention Masking in Transformer Models]]></title>
+        <id>https://machinelearningmastery.com/?p=20548</id>
+        <link href="https://machinelearningmastery.com/a-gentle-introduction-to-attention-masking-in-transformer-models/"/>
+        <updated>2025-06-26T01:30:25.000Z</updated>
+        <summary type="html"><![CDATA[This post is divided into four parts; they are: • Why Attention Masking is Needed • Implementation of Attention Masks • Mask Creation • Using PyTorch's Built-in Attention In the <a href="https://machinelearningmastery.]]></summary>
+        <author>
+            <name>Adrian Tam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[cont[rump]inuing [mag]attacks on reproductive rights]]></title>
+        <id>http://xianblog.wordpress.com/?p=59940</id>
+        <link href="https://xianblog.wordpress.com/2025/06/26/continuing-attacks-on-reproductive-rights/"/>
+        <updated>2025-06-25T22:25:07.000Z</updated>
+        <summary type="html"><![CDATA[[From the Center for Reproductive Rights:] Cancelling the Emergency Medical Treatment and Labor Act (EMTALA), which was requiring hospitals to provide life-saving abortion care Blocking funding from Title X, a federal program dedicated to providing family planning and preventive reproductive health care services Supporting the Born-Alive Abortion Survivors Protection Act (H.R. 21) Removing information on […]]]></summary>
+        <author>
+            <name>xi'an</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Taiwanese Twosome: tea and Sino-Korean]]></title>
+        <id>https://languagelog.ldc.upenn.edu/nll/?p=69684</id>
+        <link href="https://languagelog.ldc.upenn.edu/nll/?p=69684&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=taiwanese-twosome-tea-and-sino-korean"/>
+        <updated>2025-06-25T18:20:11.000Z</updated>
+        <summary type="html"><![CDATA[Even if you can't understand spoken Taiwanese, you can learn a lot from these two videos because of the excellent visuals, plus it is nice just to hear the clearly spoken Taigi and compare terms in Taigi with their parallels in Sino-Korean. The first is a video from Taiwan's public TV (公視台語台) on the interesting distribution […]]]></summary>
+        <author>
+            <name>Victor Mair</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[10 Essential Machine Learning Key Terms Explained]]></title>
+        <id>https://machinelearningmastery.com/?p=20345</id>
+        <link href="https://machinelearningmastery.com/10-essential-machine-learning-key-terms-explained/"/>
+        <updated>2025-06-25T12:00:31.000Z</updated>
+        <summary type="html"><![CDATA[Artificial intelligence (AI) is an umbrella computer science discipline focused on building software systems capable of mimicking human or animal intelligence capabilities to solve a task.]]></summary>
+        <author>
+            <name>Iván Palomares Carrascosa</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Unit utility]]></title>
+        <id>https://languagelog.ldc.upenn.edu/nll/?p=69687</id>
+        <link href="https://languagelog.ldc.upenn.edu/nll/?p=69687&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=unit-utility"/>
+        <updated>2025-06-25T11:10:11.000Z</updated>
+        <summary type="html"><![CDATA[Today's xkcd: The mouseover title: "'This HAZMAT container contains radioactive material with activity of one becquerel.' 'So, like, a single banana slice?'" explainxkcd currently fails to explain the strip's implicit reference to the entry for bogosity in the Jargon File: 1. [orig. CMU, now very common] The degree to which something is bogus. Bogosity is measured […]]]></summary>
+        <author>
+            <name>Mark Liberman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linguistics vs. archeology and (physical) anthropology]]></title>
+        <id>https://languagelog.ldc.upenn.edu/nll/?p=69680</id>
+        <link href="https://languagelog.ldc.upenn.edu/nll/?p=69680&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=linguistics-vs-archeology-and-physical-anthropology"/>
+        <updated>2025-06-25T00:17:24.000Z</updated>
+        <summary type="html"><![CDATA[Subtitle:  "A cautionary note on the application of limited linguistics studies to whole populations" A prefatory note on "anthropology".  In the early 90s, I was deeply involved in the first ancient DNA studies on the Tarim mummies* with Paolo Francalacci, an anthropologist at the University of Sassari. Sardinia.  Paolo was deputed to work with me […]]]></summary>
+        <author>
+            <name>Victor Mair</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nature snipets [17 April 2025]]]></title>
+        <id>http://xianblog.wordpress.com/?p=59725</id>
+        <link href="https://xianblog.wordpress.com/2025/06/25/nature-snipets-17-april-2025/"/>
+        <updated>2025-06-24T22:25:28.000Z</updated>
+        <summary type="html"><![CDATA[From the Nature 17 April Issue: the “usual” wishful tribunes with no implementation spreadsheet (incentivizing bug tech companies to make the digital world safer, make quantum tech sustainable and ethical) Trump’s bull-in-a-China-shop attitude towards science and academia (US pullback from Antarctica, NSF halving PhD fellowships in 2025, reflecting on how the US became a science […]]]></summary>
+        <author>
+            <name>xi'an</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Machines of Faithful Obedience]]></title>
+        <id>http://windowsontheory.org/?p=8814</id>
+        <link href="https://windowsontheory.org/2025/06/24/machines-of-faithful-obedience/"/>
+        <updated>2025-06-24T22:00:32.000Z</updated>
+        <summary type="html"><![CDATA[[Crossposted on LessWrong] Throughout history, technological and scientific advances have had both good and ill effects, but their overall impact has been overwhelmingly positive. Thanks to scientific progress, most people on earth live longer, healthier, and better than they did centuries or even decades ago.  I believe that AI (including AGI and ASI) can do … Continue reading Machines of Faithful Obedience]]></summary>
+        <author>
+            <name>Boaz Barak</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Machines of Faithful Obedience]]></title>
+        <id>http://windowsontheory.org/?p=8814</id>
+        <link href="https://windowsontheory.org/2025/06/24/machines-of-faithful-obedience/"/>
+        <updated>2025-06-24T22:00:32.000Z</updated>
+        <summary type="html"><![CDATA[[Crossposted on LessWrong] Throughout history, technological and scientific advances have had both good and ill effects, but their overall impact has been overwhelmingly positive. Thanks to scientific progress, most people on earth live longer, healthier, and better than they did centuries or even decades ago.  I believe that AI (including AGI and ASI) can do … Continue reading Machines of Faithful Obedience]]></summary>
+        <author>
+            <name>Boaz Barak</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sergey Avvakumov and Alfredo Hubard Construct Cubical Spheres with Many Facets!]]></title>
+        <id>http://gilkalai.wordpress.com/?p=29584</id>
+        <link href="https://gilkalai.wordpress.com/2025/06/24/sergey-avvakumov-and-alfredo-hubard-construct-cubical-spheres-with-many-facets/"/>
+        <updated>2025-06-24T17:32:07.000Z</updated>
+        <summary type="html"><![CDATA[In this post, I discuss a remarkable new paper Cubulating the sphere with many facets by Sergey Avvakumov and Alfredo Hubard Abstract: For each we construct cube complexes homeomorphic to the -sphere with vertices in which the number of facets … Continue reading →]]></summary>
+        <author>
+            <name>Gil Kalai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sergey Avvakumov and Alfredo Hubard Construct Cubical Spheres with Many Facets!]]></title>
+        <id>http://gilkalai.wordpress.com/?p=29584</id>
+        <link href="https://gilkalai.wordpress.com/2025/06/24/sergey-avvakumov-and-alfredo-hubard-construct-cubical-spheres-with-many-facets/"/>
+        <updated>2025-06-24T17:32:07.000Z</updated>
+        <summary type="html"><![CDATA[In this post, I discuss a remarkable new paper Cubulating the sphere with many facets by Sergey Avvakumov and Alfredo Hubard Abstract: For each we construct cube complexes homeomorphic to the -sphere with vertices in which the number of facets … Continue reading →]]></summary>
+        <author>
+            <name>Gil Kalai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Individual experiences and collective evidence]]></title>
+        <id>https://www.argmin.net/p/individual-experiences-and-collective</id>
+        <link href="https://www.argmin.net/p/individual-experiences-and-collective"/>
+        <updated>2025-06-24T14:03:15.000Z</updated>
+        <summary type="html"><![CDATA[Jessica Dai on theory for the world as it could be]]></summary>
+        <author>
+            <name>jessica dai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Individual experiences and collective evidence]]></title>
+        <id>https://www.argmin.net/p/individual-experiences-and-collective</id>
+        <link href="https://www.argmin.net/p/individual-experiences-and-collective"/>
+        <updated>2025-06-24T14:03:15.000Z</updated>
+        <summary type="html"><![CDATA[Jessica Dai on theory for the world as it could be]]></summary>
+        <author>
+            <name>jessica dai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Combining XGBoost and Embeddings: Hybrid Semantic Boosted Trees?]]></title>
+        <id>https://machinelearningmastery.com/?p=20425</id>
+        <link href="https://machinelearningmastery.com/combining-xgboost-and-embeddings-hybrid-semantic-boosted-trees/"/>
+        <updated>2025-06-24T12:00:43.000Z</updated>
+        <summary type="html"><![CDATA[The intersection of traditional machine learning and modern representation learning is opening up new possibilities.]]></summary>
+        <author>
+            <name>Jayita Gulati</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mi, mi, mi]]></title>
+        <id>https://languagelog.ldc.upenn.edu/nll/?p=69672</id>
+        <link href="https://languagelog.ldc.upenn.edu/nll/?p=69672&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=mi-mi-mi"/>
+        <updated>2025-06-24T00:10:40.000Z</updated>
+        <summary type="html"><![CDATA[[first draft written June 9-10, 2025 in Bemidji, Minnesota, where the famous giant statues of Paul Bunyan and Babe the Blue Ox stand next to beautiful Lake Bemidji*] During my peregrinations in upper midwest USA, I noticed a proliferation of place names beginning with "mi-".  Because there are 10,000 big and little glacial lakes up […]]]></summary>
+        <author>
+            <name>Victor Mair</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[death on the Großglockner]]></title>
+        <id>http://xianblog.wordpress.com/?p=59827</id>
+        <link href="https://xianblog.wordpress.com/2025/06/24/death-on-the-grosglockner/"/>
+        <updated>2025-06-23T22:25:13.000Z</updated>
+        <summary type="html"><![CDATA[Visit the post for more.]]></summary>
+        <author>
+            <name>xi'an</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Gentle Introduction to Multi-Head Latent Attention (MLA)]]></title>
+        <id>https://machinelearningmastery.com/?p=20524</id>
+        <link href="https://machinelearningmastery.com/a-gentle-introduction-to-multi-head-latent-attention-mla/"/>
+        <updated>2025-06-23T19:56:04.000Z</updated>
+        <summary type="html"><![CDATA[This post is divided into three parts; they are: • Low-Rank Approximation of Matrices • Multi-head Latent Attention (MLA) • PyTorch Implementation Multi-Head Attention (MHA) and Grouped-Query Attention (GQA) are the attention mechanisms used in almost all transformer models.]]></summary>
+        <author>
+            <name>Adrian Tam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[通过msign来计算奇异值裁剪mclip（下）]]></title>
+        <id>https://kexue.fm/archives/11059</id>
+        <link href="https://kexue.fm/archives/11059"/>
+        <updated>2025-06-23T13:34:00.000Z</updated>
+        <summary type="html"><![CDATA[前面我们在《通过msign来计算奇异值裁剪mclip（上）》讨论了奇异值裁剪$\newcommand{mclip}{\mathop{\text{mclip}}}\mclip$的数值计算，核心思路...]]></summary>
+        <author>
+            <name>苏剑林</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["… and its launch it got."]]></title>
+        <id>https://languagelog.ldc.upenn.edu/nll/?p=69675</id>
+        <link href="https://languagelog.ldc.upenn.edu/nll/?p=69675&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=69675"/>
+        <updated>2025-06-23T13:16:45.000Z</updated>
+        <summary type="html"><![CDATA[There are several different types of "fronting" or "preposing" in English, sometimes categorized in syntactic terms (e.g. wh-movement) and sometimes in pragmatic terms (e.g. topicalization). Here's recent example of a familiar type, for which I don't know a standard name: The stage was set for Tesla to get its launch, and its launch it got. […]]]></summary>
+        <author>
+            <name>Mark Liberman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Converting Pandas DataFrames to PyTorch DataLoaders for Custom Deep Learning Model Training]]></title>
+        <id>https://machinelearningmastery.com/?p=20196</id>
+        <link href="https://machinelearningmastery.com/converting-pandas-dataframes-to-pytorch-dataloaders-for-custom-deep-learning-model-training/"/>
+        <updated>2025-06-23T12:00:31.000Z</updated>
+        <summary type="html"><![CDATA[Pandas DataFrames are powerful and versatile data manipulation and analysis tools.]]></summary>
+        <author>
+            <name>Iván Palomares Carrascosa</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[矩阵符号函数mcsgn能计算什么？]]></title>
+        <id>https://kexue.fm/archives/11056</id>
+        <link href="https://kexue.fm/archives/11056"/>
+        <updated>2025-06-23T03:21:00.000Z</updated>
+        <summary type="html"><![CDATA[在《msign的导数》一文中，我们正式引入了两种矩阵符号函数$\newcommand{msign}{\mathop{\text{msign}}}\msign$和$\newcommand{mcsg...]]></summary>
+        <author>
+            <name>苏剑林</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[THAMES for mixtures, a reply from the authors]]></title>
+        <id>http://xianblog.wordpress.com/?p=59907</id>
+        <link href="https://xianblog.wordpress.com/2025/06/23/thames-for-mixtures-a-reply-from-the-authors/"/>
+        <updated>2025-06-22T22:25:23.000Z</updated>
+        <summary type="html"><![CDATA[[Here is a reply to my comments on THAMES sent by the first author of the paper, Martin Metodiev. The above replica of the cover of Rivers of London is obviously unrelated with the reply or the original blog, beyond presenting a fantasy map of the Thames!] Thank you for your review of our article! […]]]></summary>
+        <author>
+            <name>xi'an</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The importance of rhythm for memorization]]></title>
+        <id>https://languagelog.ldc.upenn.edu/nll/?p=69666</id>
+        <link href="https://languagelog.ldc.upenn.edu/nll/?p=69666&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=the-importance-of-rhythm-for-memorization"/>
+        <updated>2025-06-22T13:05:11.000Z</updated>
+        <summary type="html"><![CDATA[My wonderful 2nd grade teacher taught me how to spell Mississippi with a special sing-song rhythm, and I've never forgotten it thereafter.  Her jingle makes spelling "Mississippi" — whose shape is as contorted as its riverine course and scared me the first few times I tried to spell it myself, before she taught me the […]]]></summary>
+        <author>
+            <name>Victor Mair</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pegasus bridge half marathon [1:26:26, 114/5227, 1/109 M5M and first over 55]]]></title>
+        <id>http://xianblog.wordpress.com/?p=60005</id>
+        <link href="https://xianblog.wordpress.com/2025/06/22/pegasus-bridge-half-marathon-12626-114-5227-1-109-m5m-and-first-over-55/"/>
+        <updated>2025-06-22T08:23:48.000Z</updated>
+        <summary type="html"><![CDATA[Tough race when compared with last year despite good weather conditions (if quite warm), and bagpipes at the start, maybe due to overtraining. I barely managed to keep my first position in the M5M category, by a mere 2s, not that I was aware of the threat to my crown! The briefly leased Hoka One […]]]></summary>
+        <author>
+            <name>xi'an</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A cautionary note on the application of limited genetics studies to whole populations]]></title>
+        <id>https://languagelog.ldc.upenn.edu/nll/?p=69647</id>
+        <link href="https://languagelog.ldc.upenn.edu/nll/?p=69647&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=a-cautionary-note-on-the-application-of-limited-genetics-studies-to-whole-populations"/>
+        <updated>2025-06-21T09:11:16.000Z</updated>
+        <summary type="html"><![CDATA["Unraveling the origins of the sogdians: Evidence of genetic admixture between ancient central and East Asians", Jiashuo Zhang, Yongdi Wang, Naifan Zhang, Jiawei Li, Youyang Qu, Cunshi Zhu, Fan Zhang, Dawei Cai, and Chao Ning, Journal of Archaeological Science: Reports (Volume 61, February 2025, 104957) Highlights: Genome-wide data was generated for two individuals from a […]]]></summary>
+        <author>
+            <name>Victor Mair</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BayesComp 2025.4]]></title>
+        <id>http://xianblog.wordpress.com/?p=60089</id>
+        <link href="https://xianblog.wordpress.com/2025/06/21/bayescomp-2025-4/"/>
+        <updated>2025-06-20T22:25:46.000Z</updated>
+        <summary type="html"><![CDATA[The third and final day of the (main) conference started tih Emtiyaz Khan’s plenary talk on adaptive Bayesian intelligence. Or, imho, [adaptive [Bayesian]] intelligence, with the brackets indicating redundancy since intelligence need include adaptivity and [intelligent] adaptivity need proceed in a Bayesian way! Focussing first on the Bayesian learning rule via variational Bayes (with a […]]]></summary>
+        <author>
+            <name>xi'an</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["AI" == "vehicle"?]]></title>
+        <id>https://languagelog.ldc.upenn.edu/nll/?p=69660</id>
+        <link href="https://languagelog.ldc.upenn.edu/nll/?p=69660&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=ai-vehicle"/>
+        <updated>2025-06-20T16:27:06.000Z</updated>
+        <summary type="html"><![CDATA[Back in March, the AAAI ("Association for the Advancement of Artificial Intelligence") published an "AAAI Presidential Panel Report on the Future of AI Research": The AAAI 2025 presidential panel on the future of AI research aims to help all AI stakeholders navigate the recent significant transformations in AI capabilities, as well as AI research methodologies, […]]]></summary>
+        <author>
+            <name>Mark Liberman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[One out of five AI researchers]]></title>
+        <id>https://www.argmin.net/p/one-out-of-five-ai-researchers</id>
+        <link href="https://www.argmin.net/p/one-out-of-five-ai-researchers"/>
+        <updated>2025-06-20T14:37:50.000Z</updated>
+        <summary type="html"><![CDATA[To figure out the purpose of forecasting, I put on my Dan Davies hat and ask, “What do forecasts do?”]]></summary>
+        <author>
+            <name>Ben Recht</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[One out of five AI researchers]]></title>
+        <id>https://www.argmin.net/p/one-out-of-five-ai-researchers</id>
+        <link href="https://www.argmin.net/p/one-out-of-five-ai-researchers"/>
+        <updated>2025-06-20T14:37:50.000Z</updated>
+        <summary type="html"><![CDATA[To figure out the purpose of forecasting, I put on my Dan Davies hat and ask, “What do forecasts do?”]]></summary>
+        <author>
+            <name>Ben Recht</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Beyond GridSearchCV: Advanced Hyperparameter Tuning Strategies for Scikit-learn Models]]></title>
+        <id>https://machinelearningmastery.com/?p=20457</id>
+        <link href="https://machinelearningmastery.com/beyond-gridsearchcv-advanced-hyperparameter-tuning-strategies-for-scikit-learn-models/"/>
+        <updated>2025-06-20T14:08:55.000Z</updated>
+        <summary type="html"><![CDATA[Ever felt like trying to find a needle in a haystack? That’s part of the process of building and optimizing machine learning models, particularly complex ones like ensembles and neural networks, where several hyperparameters need to be manually set by us before training them.]]></summary>
+        <author>
+            <name>Iván Palomares Carrascosa</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Incredulous, incredible, whatever. . .]]></title>
+        <id>https://languagelog.ldc.upenn.edu/nll/?p=69651</id>
+        <link href="https://languagelog.ldc.upenn.edu/nll/?p=69651&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=incredulous-incredible-whatever"/>
+        <updated>2025-06-20T11:43:14.000Z</updated>
+        <summary type="html"><![CDATA[I thought this use of incredulous in a recent Forbes article was a malapropism for incredible: If you thought that my May 23 report, confirming the leak of login data totaling an astonishing 184 million compromised credentials, was frightening, I hope you are sitting down now. Researchers have just confirmed what is also certainly the […]]]></summary>
+        <author>
+            <name>Mark Liberman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[On Coping with the War — and a 1931 Postcard from Akitsugu Kawaguchi to Abraham Fraenkel]]></title>
+        <id>http://gilkalai.wordpress.com/?p=29498</id>
+        <link href="https://gilkalai.wordpress.com/2025/06/20/on-coping-with-the-war-and-a-1931-postcard-from-akitsugu-kawaguchi-to-abraham-fraenkel/"/>
+        <updated>2025-06-20T08:57:06.000Z</updated>
+        <summary type="html"><![CDATA[One question that I came across on social media (paraphrased here) was: How can you celebrate colleagues’ birthdays or attend conferences while the terrible war that began on October 7 — marked by senseless horror, death, and destruction in both … Continue reading →]]></summary>
+        <author>
+            <name>Gil Kalai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[On Coping with the War — and a 1931 Postcard from Akitsugu Kawaguchi to Abraham Fraenkel]]></title>
+        <id>http://gilkalai.wordpress.com/?p=29498</id>
+        <link href="https://gilkalai.wordpress.com/2025/06/20/on-coping-with-the-war-and-a-1931-postcard-from-akitsugu-kawaguchi-to-abraham-fraenkel/"/>
+        <updated>2025-06-20T08:57:06.000Z</updated>
+        <summary type="html"><![CDATA[One question that I came across on social media (paraphrased here) was: How can you celebrate colleagues’ birthdays or attend conferences while the terrible war that began on October 7 — marked by senseless horror, death, and destruction in both … Continue reading →]]></summary>
+        <author>
+            <name>Gil Kalai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[线性注意力简史：从模仿、创新到反哺]]></title>
+        <id>https://kexue.fm/archives/11033</id>
+        <link href="https://kexue.fm/archives/11033"/>
+        <updated>2025-06-20T04:59:00.000Z</updated>
+        <summary type="html"><![CDATA[在中文圈，本站应该算是比较早关注线性Attention的了，在2020年写首篇相关博客《线性Attention的探索：Attention必须有个Softmax吗？》时，大家主要讨论的还是BERT...]]></summary>
+        <author>
+            <name>苏剑林</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bopomofo Cafe]]></title>
+        <id>https://languagelog.ldc.upenn.edu/nll/?p=69629</id>
+        <link href="https://languagelog.ldc.upenn.edu/nll/?p=69629&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=bopomofo-cafe"/>
+        <updated>2025-06-20T03:34:04.000Z</updated>
+        <summary type="html"><![CDATA[Chris Button saw this bubble tea place at 3:45 PM today in Hollywood: From the cafe's website: BOPOMOFO CAFE draws its name from the phonetic Traditional Chinese Alphabets. ㄅ, ㄆ, ㄇ, and ㄈ [bo, po, mo, and fo] are the “ABCs” of the Mandarin Chinese alphabet symbolizing nostalgia and strength as the building blocks of Mandarin […]]]></summary>
+        <author>
+            <name>Victor Mair</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Probability Is Only A Game]]></title>
+        <id>https://www.argmin.net/p/probability-is-only-a-game</id>
+        <link href="https://www.argmin.net/p/probability-is-only-a-game"/>
+        <updated>2025-06-18T14:38:01.000Z</updated>
+        <summary type="html"><![CDATA[Ruthless subjective probability without Bayes' Rule]]></summary>
+        <author>
+            <name>Ben Recht</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Probability Is Only A Game]]></title>
+        <id>https://www.argmin.net/p/probability-is-only-a-game</id>
+        <link href="https://www.argmin.net/p/probability-is-only-a-game"/>
+        <updated>2025-06-18T14:38:01.000Z</updated>
+        <summary type="html"><![CDATA[Ruthless subjective probability without Bayes' Rule]]></summary>
+        <author>
+            <name>Ben Recht</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Shakhar Smorodinsky’s Solution to a Radon-Type Problem]]></title>
+        <id>http://gilkalai.wordpress.com/?p=29524</id>
+        <link href="https://gilkalai.wordpress.com/2025/06/18/shakhar-smorodinskys-solution-to-a-radon-type-problem/"/>
+        <updated>2025-06-18T07:11:31.000Z</updated>
+        <summary type="html"><![CDATA[A brief update: Since Friday June 13 Israel has been engaged in a direct war with Iran. This follows two major missiles attacks of Iran against Israel in April and October 2024, as well as Iran’s central role in the … Continue reading →]]></summary>
+        <author>
+            <name>Gil Kalai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Shakhar Smorodinsky’s Solution to a Radon-Type Problem]]></title>
+        <id>http://gilkalai.wordpress.com/?p=29524</id>
+        <link href="https://gilkalai.wordpress.com/2025/06/18/shakhar-smorodinskys-solution-to-a-radon-type-problem/"/>
+        <updated>2025-06-18T07:11:31.000Z</updated>
+        <summary type="html"><![CDATA[A brief update: Since Friday June 13 Israel has been engaged in a direct war with Iran. This follows two major missiles attacks of Iran against Israel in April and October 2024, as well as Iran’s central role in the … Continue reading →]]></summary>
+        <author>
+            <name>Gil Kalai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Restatements or Forecasts?]]></title>
+        <id>https://www.argmin.net/p/restatements-or-forecasts</id>
+        <link href="https://www.argmin.net/p/restatements-or-forecasts"/>
+        <updated>2025-06-17T14:15:15.000Z</updated>
+        <summary type="html"><![CDATA[A slightly more sophisticated example of Defensive Forecasting.]]></summary>
+        <author>
+            <name>Ben Recht</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Restatements or Forecasts?]]></title>
+        <id>https://www.argmin.net/p/restatements-or-forecasts</id>
+        <link href="https://www.argmin.net/p/restatements-or-forecasts"/>
+        <updated>2025-06-17T14:15:15.000Z</updated>
+        <summary type="html"><![CDATA[A slightly more sophisticated example of Defensive Forecasting.]]></summary>
+        <author>
+            <name>Ben Recht</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[death of the artist (Sebastião Salgado, 1944-2025)]]></title>
         <id>http://xianblog.wordpress.com/?p=59803</id>
@@ -886,136 +1426,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[a novel discrepancy measure]]></title>
-        <id>http://xianblog.wordpress.com/?p=59711</id>
-        <link href="https://xianblog.wordpress.com/2025/06/01/a-novel-discrepancy-measure/"/>
-        <updated>2025-05-31T22:25:43.000Z</updated>
-        <summary type="html"><![CDATA[My friend EJ Wagenmakers, along with his colleague  Raoul Grasman, have proposed a novel measure of discrepancy between two distributions that they formulate through a basic Bayesian lens as an expected posterior probability, written as (with no priors harmed in the process!) in case both distributions are absolutely continuous wrt a common dominating measure, with […]]]></summary>
-        <author>
-            <name>xi'an</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Brussels snapshot [jatp]]]></title>
-        <id>http://xianblog.wordpress.com/?p=59947</id>
-        <link href="https://xianblog.wordpress.com/2025/05/31/brussels-snapshot-jatp-2/"/>
-        <updated>2025-05-30T22:25:52.000Z</updated>
-        <summary type="html"><![CDATA[Visit the post for more.]]></summary>
-        <author>
-            <name>xi'an</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Gentle Introduction to SHAP for Tree-Based Models]]></title>
-        <id>https://machinelearningmastery.com/?p=20227</id>
-        <link href="https://machinelearningmastery.com/a-gentle-introduction-to-shap-for-tree-based-models/"/>
-        <updated>2025-05-30T12:00:42.000Z</updated>
-        <summary type="html"><![CDATA[Machine learning models have become increasingly sophisticated, but this complexity often comes at the cost of interpretability.]]></summary>
-        <author>
-            <name>Vinod Chugani</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cosmin Pohoata and Daniel G. Zhu: Hypergraphic Zonotopes and Acyclohedra]]></title>
-        <id>http://gilkalai.wordpress.com/?p=29370</id>
-        <link href="https://gilkalai.wordpress.com/2025/05/30/cosmin-pohoata-and-daniel-g-zhu-hypergraphic-zonotopes-and-acyclohedra/"/>
-        <updated>2025-05-30T08:35:06.000Z</updated>
-        <summary type="html"><![CDATA[I would like to draw your attention to the short beautiful paper Hypergraphic Zonotopes and Acyclohedra by Cosmin Pohoata and Daniel G. Zhu. The paper introduces higher-uniformity analogue of graphic zonotopes and permutohedra, and provides formulas for their volume, and, … Continue reading →]]></summary>
-        <author>
-            <name>Gil Kalai</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cosmin Pohoata and Daniel G. Zhu: Hypergraphic Zonotopes and Acyclohedra]]></title>
-        <id>http://gilkalai.wordpress.com/?p=29370</id>
-        <link href="https://gilkalai.wordpress.com/2025/05/30/cosmin-pohoata-and-daniel-g-zhu-hypergraphic-zonotopes-and-acyclohedra/"/>
-        <updated>2025-05-30T08:35:06.000Z</updated>
-        <summary type="html"><![CDATA[I would like to draw your attention to the short beautiful paper Hypergraphic Zonotopes and Acyclohedra by Cosmin Pohoata and Daniel G. Zhu. The paper introduces higher-uniformity analogue of graphic zonotopes and permutohedra, and provides formulas for their volume, and, … Continue reading →]]></summary>
-        <author>
-            <name>Gil Kalai</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[解密小米MiMo-VL：7B小模型如何实现多模态SOTA性能]]></title>
-        <id>https://www.52nlp.cn/?p=20773</id>
-        <link href="https://www.52nlp.cn/%e8%a7%a3%e5%af%86%e5%b0%8f%e7%b1%b3mimo-vl%ef%bc%9a7b%e5%b0%8f%e6%a8%a1%e5%9e%8b%e5%a6%82%e4%bd%95%e5%ae%9e%e7%8e%b0%e5%a4%9a%e6%a8%a1%e6%80%81sota%e6%80%a7%e8%83%bd"/>
-        <updated>2025-05-30T07:13:14.000Z</updated>
-        <summary type="html"><![CDATA[近日，小米开源社区发布了MiMo-VL-7B视觉语言模型技术报告，其SFT（监督微调）和RL（强化学习）版本在 […]]]></summary>
-        <author>
-            <name>52nlp</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Good, The Bad, and The Science]]></title>
-        <id>https://www.argmin.net/p/the-good-the-bad-and-the-science</id>
-        <link href="https://www.argmin.net/p/the-good-the-bad-and-the-science"/>
-        <updated>2025-05-29T14:25:39.000Z</updated>
-        <summary type="html"><![CDATA[Who should define what is "good" and "bad" science?]]></summary>
-        <author>
-            <name>Ben Recht</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Good, The Bad, and The Science]]></title>
-        <id>https://www.argmin.net/p/the-good-the-bad-and-the-science</id>
-        <link href="https://www.argmin.net/p/the-good-the-bad-and-the-science"/>
-        <updated>2025-05-29T14:25:39.000Z</updated>
-        <summary type="html"><![CDATA[Who should define what is "good" and "bad" science?]]></summary>
-        <author>
-            <name>Ben Recht</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Using Quantized Models with Ollama for Application Development]]></title>
-        <id>https://machinelearningmastery.com/?p=20186</id>
-        <link href="https://machinelearningmastery.com/using-quantized-models-with-ollama-for-application-development/"/>
-        <updated>2025-05-29T12:00:04.000Z</updated>
-        <summary type="html"><![CDATA[Quantization is a frequently used strategy applied to production machine learning models, particularly large and complex ones, to make them lightweight by reducing the numerical precision of the model’s parameters (weights) — usually from 32-bit floating-point to lower representations like 8-bit integers.]]></summary>
-        <author>
-            <name>Iván Palomares Carrascosa</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tokenizers in Language Models]]></title>
-        <id>https://machinelearningmastery.com/?p=20256</id>
-        <link href="https://machinelearningmastery.com/tokenizers-in-language-models/"/>
-        <updated>2025-05-28T17:06:05.000Z</updated>
-        <summary type="html"><![CDATA[This post is divided into five parts; they are: • Naive Tokenization • Stemming and Lemmatization • Byte-Pair Encoding (BPE) • WordPiece • SentencePiece and Unigram The simplest form of tokenization splits text into tokens based on whitespace.]]></summary>
-        <author>
-            <name>Adrian Tam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[10 Python Libraries That Speed Up Model Development]]></title>
-        <id>https://machinelearningmastery.com/?p=20302</id>
-        <link href="https://machinelearningmastery.com/10-python-libraries-that-speed-up-model-development/"/>
-        <updated>2025-05-28T16:33:10.000Z</updated>
-        <summary type="html"><![CDATA[Machine learning model development often feels like navigating a maze, exciting but filled with twists, dead ends, and time sinks.]]></summary>
-        <author>
-            <name>Nahla Davies</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Logic at HUJI]]></title>
-        <id>http://gilkalai.wordpress.com/?p=29358</id>
-        <link href="https://gilkalai.wordpress.com/2025/05/28/logic-at-huji/"/>
-        <updated>2025-05-28T08:16:01.000Z</updated>
-        <summary type="html"><![CDATA[As part of a day-long meeting on organization of science in Prague, I gave a 10-minite presentation on Science and Diversity in a small Country (click for my slides) and devoted a few minutes and one slide  to the amazing … Continue reading →]]></summary>
-        <author>
-            <name>Gil Kalai</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Logic at HUJI]]></title>
-        <id>http://gilkalai.wordpress.com/?p=29358</id>
-        <link href="https://gilkalai.wordpress.com/2025/05/28/logic-at-huji/"/>
-        <updated>2025-05-28T08:16:01.000Z</updated>
-        <summary type="html"><![CDATA[As part of a day-long meeting on organization of science in Prague, I gave a 10-minite presentation on Science and Diversity in a small Country (click for my slides) and devoted a few minutes and one slide  to the amazing … Continue reading →]]></summary>
-        <author>
-            <name>Gil Kalai</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[PyTorch Hangzhou Meetup Recap: Exploring the AI Open Source Ecosystem and Cutting-Edge Technology Practices]]></title>
         <id>https://pytorch.org/?p=4218</id>
         <link href="https://pytorch.org/blog/pytorch-hangzhou-meetup-recap-exploring-the-ai-open-source-ecosystem-and-cutting-edge-technology-practices/"/>
@@ -1023,66 +1433,6 @@
         <summary type="html"><![CDATA[On May 17, the PyTorch Meetup was successfully held in Hangzhou, drawing nearly 60 developers and industry experts from companies including Huawei, Tencent, Ant Group, and ByteDance. The event focused...]]></summary>
         <author>
             <name>PyTorch Foundation</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[This Is Fine]]></title>
-        <id>https://www.argmin.net/p/this-is-fine</id>
-        <link href="https://www.argmin.net/p/this-is-fine"/>
-        <updated>2025-05-27T15:07:56.000Z</updated>
-        <summary type="html"><![CDATA[There is no reproducibility crisis in science. So what is JD Vance on about?]]></summary>
-        <author>
-            <name>Ben Recht</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[This Is Fine]]></title>
-        <id>https://www.argmin.net/p/this-is-fine</id>
-        <link href="https://www.argmin.net/p/this-is-fine"/>
-        <updated>2025-05-27T15:07:56.000Z</updated>
-        <summary type="html"><![CDATA[There is no reproducibility crisis in science. So what is JD Vance on about?]]></summary>
-        <author>
-            <name>Ben Recht</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[QwenLong-L1：通过强化学习实现长上下文推理的大模型飞跃]]></title>
-        <id>https://www.52nlp.cn/?p=20769</id>
-        <link href="https://www.52nlp.cn/qwenlong-l1%ef%bc%9a%e9%80%9a%e8%bf%87%e5%bc%ba%e5%8c%96%e5%ad%a6%e4%b9%a0%e5%ae%9e%e7%8e%b0%e9%95%bf%e4%b8%8a%e4%b8%8b%e6%96%87%e6%8e%a8%e7%90%86%e7%9a%84%e5%a4%a7%e6%a8%a1%e5%9e%8b%e9%a3%9e%e8%b7%83"/>
-        <updated>2025-05-27T07:05:58.000Z</updated>
-        <summary type="html"><![CDATA[近年来，大型推理模型（Large Reasoning Models, LRMs）在数学、编程和逻辑推理等任务中 […]]]></summary>
-        <author>
-            <name>52nlp</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Recent Academic Events]]></title>
-        <id>http://gilkalai.wordpress.com/?p=29346</id>
-        <link href="https://gilkalai.wordpress.com/2025/05/26/recent-academic-events/"/>
-        <updated>2025-05-26T11:24:48.000Z</updated>
-        <summary type="html"><![CDATA[With members of the discrete geometry seminar in Prague. The 2025 Colloquia in Combinatorics took place in QMUL and UCL, 7 and 8 May 2025. 2025 is the 18th year of the Colloquia in Combinatorics, and like every year, the … Continue reading →]]></summary>
-        <author>
-            <name>Gil Kalai</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Recent Academic Events]]></title>
-        <id>http://gilkalai.wordpress.com/?p=29346</id>
-        <link href="https://gilkalai.wordpress.com/2025/05/26/recent-academic-events/"/>
-        <updated>2025-05-26T11:24:48.000Z</updated>
-        <summary type="html"><![CDATA[With members of the discrete geometry seminar in Prague. The 2025 Colloquia in Combinatorics took place in QMUL and UCL, 7 and 8 May 2025. 2025 is the 18th year of the Colloquia in Combinatorics, and like every year, the … Continue reading →]]></summary>
-        <author>
-            <name>Gil Kalai</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[生成扩散模型漫谈（三十）：从瞬时速度到平均速度]]></title>
-        <id>https://kexue.fm/archives/10958</id>
-        <link href="https://kexue.fm/archives/10958"/>
-        <updated>2025-05-26T07:44:00.000Z</updated>
-        <summary type="html"><![CDATA[众所周知，生成速度慢是扩散模型一直以来的痛点，而为了解决这个问题，大家可谓“八仙过海，各显神通”，提出了各式各样的解决方案，然而长久以来并没一项工作能够脱颖而出，成为标配。什么样的工作能够达到这...]]></summary>
-        <author>
-            <name>苏剑林</name>
         </author>
     </entry>
     <entry>
@@ -1106,33 +1456,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Discrete Diffusion: Continuous-Time Markov Chains]]></title>
-        <id>67d3f11fe23785000125c3db</id>
-        <link href="https://www.inference.vc/discrete-diffusion-continuous-time-markov-chains/"/>
-        <updated>2025-05-22T09:12:09.000Z</updated>
-        <summary type="html"><![CDATA[A tutorial explaining some key intuitions behind continuous time Markov chains for machine learners interested in discrete diffusion models: alternative representations, connections to point processes, and the memoryless property.]]></summary>
-        <author>
-            <name>Ferenc Huszar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Loading Pydantic models from JSON without running out of memory]]></title>
-        <id>https://pythonspeed.com/articles/pydantic-json-memory/</id>
-        <link href="https://pythonspeed.com/articles/pydantic-json-memory/"/>
-        <updated>2025-05-22T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[You have a large JSON file, and you want to load the data into Pydantic.
-Unfortunately, this uses a lot of memory, to the point where large JSON files are very difficult to read.
-What to do?
-Assuming you’re stuck with JSON, in this article we’ll cover:
-The high memory usage you get with Pydantic’s default JSON loading.
-How to reduce memory usage by switching to another JSON library.
-Going further by switching to dataclasses with slots.
-Read more...]]></summary>
-        <author>
-            <name>Python⇒Speed</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Accelerating GPU Performance with Triton: April 30th PyTorch ATX Event]]></title>
         <id>https://pytorch.org/?p=4209</id>
         <link href="https://pytorch.org/blog/accelerating-gpu-performance-with-triton-april-30th-pytorch-atx-event/"/>
@@ -1140,26 +1463,6 @@ Read more...]]></summary>
         <summary type="html"><![CDATA[The PyTorch ATX Triton event, sponsored by Red Hat, was held on April 30, 2025, at the University of Texas. It was an exciting gathering focused on the Triton framework...]]></summary>
         <author>
             <name>Jason Meaux, ATX PyTorch Leader Stephen Watt, VP and Distinguished Engineer, Red Hat</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Quantum Duel in Prague]]></title>
-        <id>http://gilkalai.wordpress.com/?p=29332</id>
-        <link href="https://gilkalai.wordpress.com/2025/05/20/quantum-duel-in-prague/"/>
-        <updated>2025-05-20T12:29:21.000Z</updated>
-        <summary type="html"><![CDATA[Later this evening on 18:00 Prague time there will be a debate between Matthias Christandl and me, about the possibility of quantum computation. The debate will be live-streamed on YouTube. The beautiful poster was designed by Helena Gráfová. Click here … Continue reading →]]></summary>
-        <author>
-            <name>Gil Kalai</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Quantum Duel in Prague]]></title>
-        <id>http://gilkalai.wordpress.com/?p=29332</id>
-        <link href="https://gilkalai.wordpress.com/2025/05/20/quantum-duel-in-prague/"/>
-        <updated>2025-05-20T12:29:21.000Z</updated>
-        <summary type="html"><![CDATA[Later this evening on 18:00 Prague time there will be a debate between Matthias Christandl and me, about the possibility of quantum computation. The debate will be live-streamed on YouTube. The beautiful poster was designed by Helena Gráfová. Click here … Continue reading →]]></summary>
-        <author>
-            <name>Gil Kalai</name>
         </author>
     </entry>
     <entry>
