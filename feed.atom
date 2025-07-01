@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Furyton.github.io/misc-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-06-30T20:24:12.448Z</updated>
+    <updated>2025-07-01T02:02:15.359Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Furyton.github.io/misc-feed/index.html"/>
     <link rel="self" href="https://Furyton.github.io/misc-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[“对角+低秩”三角阵的高效求逆方法]]></title>
+        <id>https://kexue.fm/archives/11072</id>
+        <link href="https://kexue.fm/archives/11072"/>
+        <updated>2025-07-01T01:59:00.000Z</updated>
+        <summary type="html"><![CDATA[从文章《线性注意力简史：从模仿、创新到反哺》我们可以发现，DeltaNet及其后的线性Attention模型，基本上都关联到了逆矩阵$(\boldsymbol{I} + \boldsymbol{...]]></summary>
+        <author>
+            <name>苏剑林</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bilingualism as a bonus for the brain]]></title>
+        <id>https://languagelog.ldc.upenn.edu/nll/?p=69721</id>
+        <link href="https://languagelog.ldc.upenn.edu/nll/?p=69721&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=bilingualism-as-a-bonus-for-the-brain"/>
+        <updated>2025-06-30T23:44:37.000Z</updated>
+        <summary type="html"><![CDATA[Is being bilingual good for your brain?Perhaps. Learning languages offers other, more concrete benefitsEconomist (6/27/25) Yes!  I won't mince words.  At least in my case, multilingualism has been very good for my brain. In my rural Ohio high school, I took Latin and French, which is what were on offer.  I enjoyed both of them […]]]></summary>
+        <author>
+            <name>Victor Mair</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[a journal of the cherry year]]></title>
+        <id>http://xianblog.wordpress.com/?p=59982</id>
+        <link href="https://xianblog.wordpress.com/2025/07/01/a-journal-of-the-cherry-year/"/>
+        <updated>2025-06-30T22:24:38.000Z</updated>
+        <summary type="html"><![CDATA[Read La Maison des veilleurs (last part of Le Cycle de Syffe) by Patrick K. Dewdney, still a pleasure to read (and even more to complete) if a wee too much skewed towards self-inspection by the main character, Syffe, and some unnecessary and homely episode. (And with a profusion of characters that I have mostly […]]]></summary>
+        <author>
+            <name>xi'an</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Your First Local LLM API Project in Python Step-By-Step]]></title>
         <id>https://machinelearningmastery.com/?p=20567</id>
@@ -157,6 +187,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[PyTorch + vLLM = ♥️]]></title>
+        <id>https://pytorch.org/?p=4490</id>
+        <link href="https://pytorch.org/blog/pytorch-vllm-%e2%99%a5%ef%b8%8f/"/>
+        <updated>2025-06-25T18:36:26.000Z</updated>
+        <summary type="html"><![CDATA[Key takeaways: PyTorch and vLLM are both critical to the AI ecosystem and are increasingly being used together for cutting-edge generative AI applications, including inference, post-training, and agentic systems at...]]></summary>
+        <author>
+            <name>Simon Mo, Woosuk Kwon, Kaichao You, The PyTorch Team @Meta</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Taiwanese Twosome: tea and Sino-Korean]]></title>
         <id>https://languagelog.ldc.upenn.edu/nll/?p=69684</id>
         <link href="https://languagelog.ldc.upenn.edu/nll/?p=69684&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=taiwanese-twosome-tea-and-sino-korean"/>
@@ -164,6 +204,25 @@
         <summary type="html"><![CDATA[Even if you can't understand spoken Taiwanese, you can learn a lot from these two videos because of the excellent visuals, plus it is nice just to hear the clearly spoken Taigi and compare terms in Taigi with their parallels in Sino-Korean. The first is a video from Taiwan's public TV (公視台語台) on the interesting distribution […]]]></summary>
         <author>
             <name>Victor Mair</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FlagGems Joins the PyTorch Ecosystem: Triton-Powered Operator Library for Universal AI Acceleration]]></title>
+        <id>https://pytorch.org/?p=4482</id>
+        <link href="https://pytorch.org/blog/flaggems-joins-the-pytorch-ecosystem-triton-powered-operator-library-for-universal-ai-acceleration/"/>
+        <updated>2025-06-25T16:53:26.000Z</updated>
+        <author>
+            <name>FlagGems Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Presenting Flux Fast: Making Flux go brrr on H100s]]></title>
+        <id>https://pytorch.org/?p=4476</id>
+        <link href="https://pytorch.org/blog/presenting-flux-fast-making-flux-go-brrr-on-h100s/"/>
+        <updated>2025-06-25T15:55:32.000Z</updated>
+        <summary type="html"><![CDATA[In our earlier post, diffusion-fast, we showed how the Stable Diffusion XL (SDXL) pipeline can be optimized up to 3x using native PyTorch code. Back then, SDXL was an open...]]></summary>
+        <author>
+            <name>Joel Schlosser (Meta) and Sayak Paul (Hugging Face)</name>
         </author>
     </entry>
     <entry>
@@ -397,6 +456,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Fault Tolerant Llama: training with 2000 synthetic failures every ~15 seconds and no checkpoints on Crusoe L40S]]></title>
+        <id>https://pytorch.org/?p=4448</id>
+        <link href="https://pytorch.org/blog/fault-tolerant-llama-training-with-2000-synthetic-failures-every-15-seconds-and-no-checkpoints-on-crusoe-l40s/"/>
+        <updated>2025-06-20T18:36:22.000Z</updated>
+        <summary type="html"><![CDATA[Collaborators: Less Wright, Howard Huang, Chien-Chin Huang, Crusoe: Martin Cala, Ethan Petersen tl;dr: we used torchft and torchtitan to train a model in a real-world environment with extreme synthetic failure...]]></summary>
+        <author>
+            <name>Tristan Rice, Howard Huang</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA["AI" == "vehicle"?]]></title>
         <id>https://languagelog.ldc.upenn.edu/nll/?p=69660</id>
         <link href="https://languagelog.ldc.upenn.edu/nll/?p=69660&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=ai-vehicle"/>
@@ -487,6 +556,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[PyTorch Docathon 2025: Wrap Up]]></title>
+        <id>https://pytorch.org/?p=4440</id>
+        <link href="https://pytorch.org/blog/pytorch-docathon-2025-wrap-up/"/>
+        <updated>2025-06-18T21:55:11.000Z</updated>
+        <summary type="html"><![CDATA[Huge congratulations and a massive thank you to all the amazing participants of the PyTorch Docathon 2025! Over the past two weeks (June 3rd-15th), our virtual Docathon brought together over...]]></summary>
+        <author>
+            <name>PyTorch Foundation</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Probability Is Only A Game]]></title>
         <id>https://www.argmin.net/p/probability-is-only-a-game</id>
         <link href="https://www.argmin.net/p/probability-is-only-a-game"/>
@@ -524,6 +603,16 @@
         <summary type="html"><![CDATA[A brief update: Since Friday June 13 Israel has been engaged in a direct war with Iran. This follows two major missiles attacks of Iran against Israel in April and October 2024, as well as Iran’s central role in the … Continue reading →]]></summary>
         <author>
             <name>Gil Kalai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DeepNVMe: Affordable I/O scaling for Deep Learning Applications]]></title>
+        <id>https://pytorch.org/?p=4419</id>
+        <link href="https://pytorch.org/blog/deepnvme-affordable-i-o-scaling-for-deep-learning-applications/"/>
+        <updated>2025-06-17T16:54:32.000Z</updated>
+        <summary type="html"><![CDATA[Introduction We introduced DeepNVMe in summer 2024 as a suite of optimizations for tackling I/O bottlenecks in Deep Learning (DL). DeepNVMe delivers significant speedups for I/O bound DL workloads by leveraging storage...]]></summary>
+        <author>
+            <name>Joe Mayer, Logan Adams, Olatunji Ruwase</name>
         </author>
     </entry>
     <entry>
@@ -1423,46 +1512,6 @@
         <summary type="html"><![CDATA[Visit the post for more.]]></summary>
         <author>
             <name>xi'an</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PyTorch Hangzhou Meetup Recap: Exploring the AI Open Source Ecosystem and Cutting-Edge Technology Practices]]></title>
-        <id>https://pytorch.org/?p=4218</id>
-        <link href="https://pytorch.org/blog/pytorch-hangzhou-meetup-recap-exploring-the-ai-open-source-ecosystem-and-cutting-edge-technology-practices/"/>
-        <updated>2025-05-27T16:26:21.000Z</updated>
-        <summary type="html"><![CDATA[On May 17, the PyTorch Meetup was successfully held in Hangzhou, drawing nearly 60 developers and industry experts from companies including Huawei, Tencent, Ant Group, and ByteDance. The event focused...]]></summary>
-        <author>
-            <name>PyTorch Foundation</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Open Source Legacy and AI’s Licensing Challenge]]></title>
-        <id>https://pytorch.org/?p=4237</id>
-        <link href="https://pytorch.org/blog/the-open-source-legacy-and-ais-licensing-challenge/"/>
-        <updated>2025-05-22T22:06:34.000Z</updated>
-        <summary type="html"><![CDATA[Open source licensing revolutionized software development, creating a thriving ecosystem built on shared innovation and collaboration. Licenses like MIT and Apache-2.0 gave developers a standard, legally robust way to share...]]></summary>
-        <author>
-            <name>PyTorch Foundation</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Featured Sessions: Exploring Innovation at PyTorch Day China 2025]]></title>
-        <id>https://pytorch.org/?p=4216</id>
-        <link href="https://pytorch.org/blog/featured-sessions-exploring-innovation-at-pytorch-day-china-2025/"/>
-        <updated>2025-05-22T18:40:30.000Z</updated>
-        <summary type="html"><![CDATA[Featured Sessions: Exploring Innovation at PyTorch Day China 2025 PyTorch Day China 2025, proudly hosted by the PyTorch Foundation, will take place on June 7 in Beijing, China collocated with...]]></summary>
-        <author>
-            <name>PyTorch Foundation</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Accelerating GPU Performance with Triton: April 30th PyTorch ATX Event]]></title>
-        <id>https://pytorch.org/?p=4209</id>
-        <link href="https://pytorch.org/blog/accelerating-gpu-performance-with-triton-april-30th-pytorch-atx-event/"/>
-        <updated>2025-05-20T19:30:31.000Z</updated>
-        <summary type="html"><![CDATA[The PyTorch ATX Triton event, sponsored by Red Hat, was held on April 30, 2025, at the University of Texas. It was an exciting gathering focused on the Triton framework...]]></summary>
-        <author>
-            <name>Jason Meaux, ATX PyTorch Leader Stephen Watt, VP and Distinguished Engineer, Red Hat</name>
         </author>
     </entry>
     <entry>

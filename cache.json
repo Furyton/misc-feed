@@ -1471,6 +1471,16 @@
       "siteUrl": "https://kexue.fm/",
       "articles": [
         {
+          "id": "https://kexue.fm/archives/11072",
+          "author": "苏剑林",
+          "description": "从文章《线性注意力简史：从模仿、创新到反哺》我们可以发现，DeltaNet及其后的线性Attention模型，基本上都关联到了逆矩阵$(\\boldsymbol{I} + \\boldsymbol{...",
+          "link": "https://kexue.fm/archives/11072",
+          "publishedOn": "2025-07-01T01:59:00.000Z",
+          "wordCount": 1785,
+          "title": "“对角+低秩”三角阵的高效求逆方法",
+          "imageUrl": null
+        },
+        {
           "id": "https://kexue.fm/archives/11059",
           "author": "苏剑林",
           "description": "前面我们在《通过msign来计算奇异值裁剪mclip（上）》讨论了奇异值裁剪$\\newcommand{mclip}{\\mathop{\\text{mclip}}}\\mclip$的数值计算，核心思路...",
@@ -2153,6 +2163,66 @@
       "siteUrl": "https://pytorch.org",
       "articles": [
         {
+          "id": "https://pytorch.org/?p=4490",
+          "author": "Simon Mo, Woosuk Kwon, Kaichao You, The PyTorch Team @Meta",
+          "description": "Key takeaways: PyTorch and vLLM are both critical to the AI ecosystem and are increasingly being used together for cutting-edge generative AI applications, including inference, post-training, and agentic systems at...",
+          "link": "https://pytorch.org/blog/pytorch-vllm-%e2%99%a5%ef%b8%8f/",
+          "publishedOn": "2025-06-25T18:36:26.000Z",
+          "wordCount": 12179,
+          "title": "PyTorch + vLLM = ♥️",
+          "imageUrl": null
+        },
+        {
+          "id": "https://pytorch.org/?p=4482",
+          "author": "FlagGems Team",
+          "description": "",
+          "link": "https://pytorch.org/blog/flaggems-joins-the-pytorch-ecosystem-triton-powered-operator-library-for-universal-ai-acceleration/",
+          "publishedOn": "2025-06-25T16:53:26.000Z",
+          "wordCount": 11619,
+          "title": "FlagGems Joins the PyTorch Ecosystem: Triton-Powered Operator Library for Universal AI Acceleration",
+          "imageUrl": null
+        },
+        {
+          "id": "https://pytorch.org/?p=4476",
+          "author": "Joel Schlosser (Meta) and Sayak Paul (Hugging Face)",
+          "description": "In our earlier post, diffusion-fast, we showed how the Stable Diffusion XL (SDXL) pipeline can be optimized up to 3x using native PyTorch code. Back then, SDXL was an open...",
+          "link": "https://pytorch.org/blog/presenting-flux-fast-making-flux-go-brrr-on-h100s/",
+          "publishedOn": "2025-06-25T15:55:32.000Z",
+          "wordCount": 11692,
+          "title": "Presenting Flux Fast: Making Flux go brrr on H100s",
+          "imageUrl": null
+        },
+        {
+          "id": "https://pytorch.org/?p=4448",
+          "author": "Tristan Rice, Howard Huang",
+          "description": "Collaborators: Less Wright, Howard Huang, Chien-Chin Huang, Crusoe: Martin Cala, Ethan Petersen tl;dr: we used torchft and torchtitan to train a model in a real-world environment with extreme synthetic failure...",
+          "link": "https://pytorch.org/blog/fault-tolerant-llama-training-with-2000-synthetic-failures-every-15-seconds-and-no-checkpoints-on-crusoe-l40s/",
+          "publishedOn": "2025-06-20T18:36:22.000Z",
+          "wordCount": 13476,
+          "title": "Fault Tolerant Llama: training with 2000 synthetic failures every ~15 seconds and no checkpoints on Crusoe L40S",
+          "imageUrl": null
+        },
+        {
+          "id": "https://pytorch.org/?p=4440",
+          "author": "PyTorch Foundation",
+          "description": "Huge congratulations and a massive thank you to all the amazing participants of the PyTorch Docathon 2025! Over the past two weeks (June 3rd-15th), our virtual Docathon brought together over...",
+          "link": "https://pytorch.org/blog/pytorch-docathon-2025-wrap-up/",
+          "publishedOn": "2025-06-18T21:55:11.000Z",
+          "wordCount": 11201,
+          "title": "PyTorch Docathon 2025: Wrap Up",
+          "imageUrl": null
+        },
+        {
+          "id": "https://pytorch.org/?p=4419",
+          "author": "Joe Mayer, Logan Adams, Olatunji Ruwase",
+          "description": "Introduction We introduced DeepNVMe in summer 2024 as a suite of optimizations for tackling I/O bottlenecks in Deep Learning (DL). DeepNVMe delivers significant speedups for I/O bound DL workloads by leveraging storage...",
+          "link": "https://pytorch.org/blog/deepnvme-affordable-i-o-scaling-for-deep-learning-applications/",
+          "publishedOn": "2025-06-17T16:54:32.000Z",
+          "wordCount": 12434,
+          "title": "DeepNVMe: Affordable I/O scaling for Deep Learning Applications",
+          "imageUrl": null
+        },
+        {
           "id": "https://pytorch.org/?p=4399",
           "author": "Zechun Liu, Changsheng Zhao, Hanxian Huang, Sijia Chen, Jing Zhang, Andrew Or, Jiawei Zhao, Scott Roy, Lisa Jin, Yunyang Xiong, Yangyang Shi, Lin Xiao, Yuandong Tian, Bilge Soran, Raghuraman Krishnamoorthi, Tijmen Blankevoort, Vikas Chandra (Meta)",
           "description": "The field of large language models is shifting toward lower-precision computation. This shift necessitates a rethinking of scaling laws to account for the effects of quantization on resulting quantized model...",
@@ -2200,46 +2270,6 @@
           "publishedOn": "2025-06-04T14:37:23.000Z",
           "wordCount": 12838,
           "title": "Build Responsible AI Products with your own Yellow Teaming LLM",
-          "imageUrl": null
-        },
-        {
-          "id": "https://pytorch.org/?p=4218",
-          "author": "PyTorch Foundation",
-          "description": "On May 17, the PyTorch Meetup was successfully held in Hangzhou, drawing nearly 60 developers and industry experts from companies including Huawei, Tencent, Ant Group, and ByteDance. The event focused...",
-          "link": "https://pytorch.org/blog/pytorch-hangzhou-meetup-recap-exploring-the-ai-open-source-ecosystem-and-cutting-edge-technology-practices/",
-          "publishedOn": "2025-05-27T16:26:21.000Z",
-          "wordCount": 11940,
-          "title": "PyTorch Hangzhou Meetup Recap: Exploring the AI Open Source Ecosystem and Cutting-Edge Technology Practices",
-          "imageUrl": null
-        },
-        {
-          "id": "https://pytorch.org/?p=4237",
-          "author": "PyTorch Foundation",
-          "description": "Open source licensing revolutionized software development, creating a thriving ecosystem built on shared innovation and collaboration. Licenses like MIT and Apache-2.0 gave developers a standard, legally robust way to share...",
-          "link": "https://pytorch.org/blog/the-open-source-legacy-and-ais-licensing-challenge/",
-          "publishedOn": "2025-05-22T22:06:34.000Z",
-          "wordCount": 12135,
-          "title": "The Open Source Legacy and AI’s Licensing Challenge",
-          "imageUrl": null
-        },
-        {
-          "id": "https://pytorch.org/?p=4216",
-          "author": "PyTorch Foundation",
-          "description": "Featured Sessions: Exploring Innovation at PyTorch Day China 2025 PyTorch Day China 2025, proudly hosted by the PyTorch Foundation, will take place on June 7 in Beijing, China collocated with...",
-          "link": "https://pytorch.org/blog/featured-sessions-exploring-innovation-at-pytorch-day-china-2025/",
-          "publishedOn": "2025-05-22T18:40:30.000Z",
-          "wordCount": 11335,
-          "title": "Featured Sessions: Exploring Innovation at PyTorch Day China 2025",
-          "imageUrl": null
-        },
-        {
-          "id": "https://pytorch.org/?p=4209",
-          "author": "Jason Meaux, ATX PyTorch Leader Stephen Watt, VP and Distinguished Engineer, Red Hat",
-          "description": "The PyTorch ATX Triton event, sponsored by Red Hat, was held on April 30, 2025, at the University of Texas. It was an exciting gathering focused on the Triton framework...",
-          "link": "https://pytorch.org/blog/accelerating-gpu-performance-with-triton-april-30th-pytorch-atx-event/",
-          "publishedOn": "2025-05-20T19:30:31.000Z",
-          "wordCount": 10212,
-          "title": "Accelerating GPU Performance with Triton: April 30th PyTorch ATX Event",
           "imageUrl": null
         }
       ]
@@ -2430,7 +2460,7 @@
           "description": "Three pictures showing that the media control symbol “play” was successfully embedded into London’s skyline 🙂 . The fourth rare picture is a screenshot with the control symbol “play” appearing side by side with its natural London demonstration. And here … Continue reading →",
           "link": "https://gilkalai.wordpress.com/2025/06/27/a-breakthrough-of-an-unusual-nature-the-media-control-symbol-play-was-successfully-embedded-into-the-london-skyline/",
           "publishedOn": "2025-06-27T14:43:50.000Z",
-          "wordCount": 4169,
+          "wordCount": 4178,
           "title": "A Breakthrough of an Unusual Nature: the Media Control Symbol “Play” was Successfully Embedded into the London Skyline!",
           "imageUrl": "https://gilkalai.wordpress.com/wp-content/uploads/2025/06/screenshot_play.jpg"
         },
@@ -2440,7 +2470,7 @@
           "description": "In this post, I discuss a remarkable new paper Cubulating the sphere with many facets by Sergey Avvakumov and Alfredo Hubard Abstract: For each we construct cube complexes homeomorphic to the -sphere with vertices in which the number of facets … Continue reading →",
           "link": "https://gilkalai.wordpress.com/2025/06/24/sergey-avvakumov-and-alfredo-hubard-construct-cubical-spheres-with-many-facets/",
           "publishedOn": "2025-06-24T17:32:07.000Z",
-          "wordCount": 5068,
+          "wordCount": 5077,
           "title": "Sergey Avvakumov and Alfredo Hubard Construct Cubical Spheres with Many Facets!",
           "imageUrl": "https://gilkalai.wordpress.com/wp-content/uploads/2025/06/cubation.png"
         },
@@ -2450,7 +2480,7 @@
           "description": "One question that I came across on social media (paraphrased here) was: How can you celebrate colleagues’ birthdays or attend conferences while the terrible war that began on October 7 — marked by senseless horror, death, and destruction in both … Continue reading →",
           "link": "https://gilkalai.wordpress.com/2025/06/20/on-coping-with-the-war-and-a-1931-postcard-from-akitsugu-kawaguchi-to-abraham-fraenkel/",
           "publishedOn": "2025-06-20T08:57:06.000Z",
-          "wordCount": 4579,
+          "wordCount": 4588,
           "title": "On Coping with the War — and a 1931 Postcard from Akitsugu Kawaguchi to Abraham Fraenkel",
           "imageUrl": "https://gilkalai.wordpress.com/wp-content/uploads/2025/06/d7a7d795d795d790d792d795d7a6d7992d7a4d7a8d7a0d7a7d79c.jpg"
         },
@@ -2460,7 +2490,7 @@
           "description": "A brief update: Since Friday June 13 Israel has been engaged in a direct war with Iran. This follows two major missiles attacks of Iran against Israel in April and October 2024, as well as Iran’s central role in the … Continue reading →",
           "link": "https://gilkalai.wordpress.com/2025/06/18/shakhar-smorodinskys-solution-to-a-radon-type-problem/",
           "publishedOn": "2025-06-18T07:11:31.000Z",
-          "wordCount": 4608,
+          "wordCount": 4617,
           "title": "Shakhar Smorodinsky’s Solution to a Radon-Type Problem",
           "imageUrl": "https://gilkalai.wordpress.com/wp-content/uploads/2025/06/20250605_144029.jpg"
         },
@@ -2507,6 +2537,16 @@
       "feedUrl": "https://xianblog.wordpress.com/feed/",
       "siteUrl": "https://xianblog.wordpress.com",
       "articles": [
+        {
+          "id": "http://xianblog.wordpress.com/?p=59982",
+          "author": "xi'an",
+          "description": "Read La Maison des veilleurs (last part of Le Cycle de Syffe) by Patrick K. Dewdney, still a pleasure to read (and even more to complete) if a wee too much skewed towards self-inspection by the main character, Syffe, and some unnecessary and homely episode. (And with a profusion of characters that I have mostly […]",
+          "link": "https://xianblog.wordpress.com/2025/07/01/a-journal-of-the-cherry-year/",
+          "publishedOn": "2025-06-30T22:24:38.000Z",
+          "wordCount": 2807,
+          "title": "a journal of the cherry year",
+          "imageUrl": "https://xianblog.wordpress.com/wp-content/uploads/2025/06/1749485543395-e1749485738699.jpg"
+        },
         {
           "id": "http://xianblog.wordpress.com/?p=59898",
           "author": "xi'an",
@@ -2780,7 +2820,7 @@
           "description": "[Crossposted on LessWrong] Throughout history, technological and scientific advances have had both good and ill effects, but their overall impact has been overwhelmingly positive. Thanks to scientific progress, most people on earth live longer, healthier, and better than they did centuries or even decades ago.  I believe that AI (including AGI and ASI) can do … Continue reading Machines of Faithful Obedience",
           "link": "https://windowsontheory.org/2025/06/24/machines-of-faithful-obedience/",
           "publishedOn": "2025-06-24T22:00:32.000Z",
-          "wordCount": 6770,
+          "wordCount": 6760,
           "title": "Machines of Faithful Obedience",
           "imageUrl": "https://s0.wp.com/i/blank.jpg"
         },
@@ -2850,6 +2890,16 @@
       "feedUrl": "https://languagelog.ldc.upenn.edu/nll/?feed=rss2",
       "siteUrl": "https://languagelog.ldc.upenn.edu/nll",
       "articles": [
+        {
+          "id": "https://languagelog.ldc.upenn.edu/nll/?p=69721",
+          "author": "Victor Mair",
+          "description": "Is being bilingual good for your brain?Perhaps. Learning languages offers other, more concrete benefitsEconomist (6/27/25) Yes!  I won't mince words.  At least in my case, multilingualism has been very good for my brain. In my rural Ohio high school, I took Latin and French, which is what were on offer.  I enjoyed both of them […]",
+          "link": "https://languagelog.ldc.upenn.edu/nll/?p=69721&utm_source=rss&utm_medium=rss&utm_campaign=bilingualism-as-a-bonus-for-the-brain",
+          "publishedOn": "2025-06-30T23:44:37.000Z",
+          "wordCount": 3003,
+          "title": "Bilingualism as a bonus for the brain",
+          "imageUrl": null
+        },
         {
           "id": "https://languagelog.ldc.upenn.edu/nll/?p=69710",
           "author": "Victor Mair",
